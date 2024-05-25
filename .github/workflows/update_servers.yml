@@ -1,0 +1,37 @@
+name: Update Servers JSON File
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '*/30 */1 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: ./main-branch
+      - name: Checkout servers branch
+        uses: actions/checkout@v4
+        with:
+          ref: servers
+          path: ./servers-branch
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - name: Fetch steam servers
+        run: "curl -H \"Accept: application/json\" -o ./steam-servers.json \"${{ secrets.STEAM_SERVERS_URL }}\""
+      - name: Run update script
+        run: node ./main-branch/.github/scripts/update_servers.js ./servers-branch/servers.json ./steam-servers.json
+      - name: Commit servers.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./servers-branch
+          commit_message: Update servers.json automatically
+          commit_author: GitHub Actions <actions@github.com>
