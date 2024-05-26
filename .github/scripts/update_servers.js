@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const [,, serversPath, steamServersPath] = process.argv
+const [, , serversPath, steamServersPath] = process.argv;
 
 // remove servers we haven't seen for a week
 const threshold = 60 * 60 * 24 * 7;
@@ -27,30 +27,30 @@ const data = JSON.parse(
   fs.readFileSync(steamServersPath, { encoding: "utf8" })
 );
 
-// use utc midnight timestamp so that we don't commit changes to lastseen as frequently
-const now = new Date();
-const utcMidnight = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 0, 0, 0, 0);
-const today = Math.floor(utcMidnight / 1000);
-
+const now = Math.floor(Date.now() / 1000);
 const servers = data.response.servers.map((x) => ({
   addr: x.addr.split(":")[0],
   port: Number(x.gameport),
-  lastseen: today,
 }));
 
 console.log("found " + servers.length + " servers with the API");
 
-const serverAddresses = new Set(servers.map(serverToKey));
-const appendedServers = existingServers.filter(
+const steamSet = new Set(servers.map(serverToKey));
+const newlyRemovedServers = existingServers
+  .filter((x) => !steamSet.has(serverToKey(x)) && x.removed == null)
+  .map((x) => ({ ...x, removed: now }));
+const unexpiredServers = existingServers.filter(
   (x) =>
-    !serverAddresses.has(serverToKey(x)) && today - x.lastseen < threshold
+    !steamSet.has(serverToKey(x)) &&
+    x.removed != null &&
+    now - x.removed < threshold
 );
 
-servers.push(...appendedServers);
+servers.push(...newlyRemovedServers, ...unexpiredServers);
 
 // sort by key, which is "ip:port"
 servers.sort((a, b) => serverToKey(a).localeCompare(serverToKey(b)));
 
-console.log("writing " + servers.length + " active servers");
+console.log("writing " + servers.length + " recently active servers");
 
 writeServers(servers);
