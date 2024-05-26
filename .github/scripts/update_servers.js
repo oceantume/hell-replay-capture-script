@@ -29,6 +29,7 @@ const data = JSON.parse(
 
 const now = Math.floor(Date.now() / 1000);
 const servers = data.response.servers.map((x) => ({
+  name: x.name,
   addr: x.addr.split(":")[0],
   port: Number(x.gameport),
 }));
