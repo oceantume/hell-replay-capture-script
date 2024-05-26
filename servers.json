@@ -1427,7 +1427,8 @@
   {
     "name": "GGWP",
     "addr": "203.15.121.26",
-    "port": 8888
+    "port": 8888,
+    "removed": 1716737515
   },
   {
     "name": "Streamline HLL Test",
@@ -1762,14 +1763,12 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1716735737
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #09",
     "addr": "83.223.197.11",
-    "port": 28200,
-    "removed": 1716735737
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1784,8 +1783,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1716735737
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1795,8 +1793,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1716735737
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1836,14 +1833,12 @@
   {
     "name": "HLL Official Skirmish - Asia #01",
     "addr": "83.223.197.90",
-    "port": 28100,
-    "removed": 1716735737
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.98",
-    "port": 28000,
-    "removed": 1716735737
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #11",
