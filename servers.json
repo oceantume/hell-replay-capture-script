@@ -878,8 +878,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1716811402
+    "port": 9014
   },
   {
     "name": "The Orange Bowl",
@@ -944,7 +943,8 @@
   {
     "name": "- Goober Battlefield - US EAST - DISCORD: discord.gg/YkT3wyA9rZ",
     "addr": "192.169.95.2",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716813584
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -994,8 +994,7 @@
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1716811402
+    "port": 28000
   },
   {
     "name": "Unleash Hell Offensive Style!",
@@ -1216,8 +1215,7 @@
   {
     "name": "<CN>萌新老六集中营（美军攻）HK 服主q:2164947615",
     "addr": "202.165.70.13",
-    "port": 9008,
-    "removed": 1716811402
+    "port": 9008
   },
   {
     "name": "CN/HK 大饭店 QQ群：245578354",
@@ -1387,17 +1385,20 @@
   {
     "name": "CN #10 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8958
+    "port": 8958,
+    "removed": 1716813584
   },
   {
     "name": "CN #9 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8968
+    "port": 8968,
+    "removed": 1716813584
   },
   {
     "name": "HLL Server1",
     "addr": "203.10.98.49",
-    "port": 8978
+    "port": 8978,
+    "removed": 1716813584
   },
   {
     "name": "<CN>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1563,14 +1564,12 @@
   {
     "name": "HLL Official - Japan #03",
     "addr": "45.137.245.30",
-    "port": 28000,
-    "removed": 1716811402
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #02",
     "addr": "45.137.245.30",
-    "port": 28100,
-    "removed": 1716811402
+    "port": 28100
   },
   {
     "name": "HLL Official - Japan #01",
@@ -1905,8 +1904,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.203.121",
-    "port": 28200,
-    "removed": 1716811402
+    "port": 28200
   },
   {
     "name": "US East - WWII Shenanigans - Happy Newbies and Vet funtime serv",
@@ -1966,8 +1964,7 @@
   {
     "name": "EASY Company | Level 50+ | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1716811402
+    "port": 28000
   },
   {
     "name": "[Merc] #3 US EAST D.C Discord.gg/m3rc",
@@ -2092,8 +2089,7 @@
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.207.46",
-    "port": 28100,
-    "removed": 1716811402
+    "port": 28100
   },
   {
     "name": "5By5  - HLL (US Mid) Server = Drinks, Guns & Violence!",
