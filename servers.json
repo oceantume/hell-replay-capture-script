@@ -2,8 +2,7 @@
   {
     "name": "The BEER [HAUS] 1 |US EAST-FL| discord.gg/beerhaus",
     "addr": "103.195.102.18",
-    "port": 7777,
-    "removed": 1716804142
+    "port": 7777
   },
   {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzDhll",
@@ -198,14 +197,12 @@
   {
     "name": "Mikey's Marauders / US EAST 2 / discord.gg/mikeys-mm",
     "addr": "172.93.104.218",
-    "port": 8530,
-    "removed": 1716804142
+    "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1716804142
+    "port": 9014
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -220,8 +217,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1716804142
+    "port": 9620
   },
   {
     "name": "Chimera | US West | Comp and Training | discord.gg/CHMA",
@@ -822,7 +818,8 @@
   {
     "name": "TVB | OFFENSIVE 24/7 | US WEST I discord.gg/twilightvanguardba",
     "addr": "192.169.85.194",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716805988
   },
   {
     "name": "DDJJ Company | Event Server | DISCORD.GG | GPORTAL",
@@ -1489,8 +1486,7 @@
   {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
     "addr": "216.219.93.37",
-    "port": 7777,
-    "removed": 1716804142
+    "port": 7777
   },
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
@@ -1910,14 +1906,12 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1716804142
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1716804142
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -1932,8 +1926,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1716804142
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
@@ -1953,8 +1946,7 @@
   {
     "name": "HLL Official - US East #08",
     "addr": "83.223.203.131",
-    "port": 28100,
-    "removed": 1716804142
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #01",
@@ -2064,8 +2056,7 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1716804142
+    "port": 28100
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
@@ -2165,8 +2156,7 @@
   {
     "name": "  [SCSD] New Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1716804142
+    "port": 7777
   },
   {
     "name": "42e Dev Division",
