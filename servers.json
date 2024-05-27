@@ -117,7 +117,8 @@
   {
     "name": "GREYHOUNDS - Public #1 | German | discord.gg/greyhounds",
     "addr": "145.239.0.98",
-    "port": 8772
+    "port": 8772,
+    "removed": 1716786149
   },
   {
     "name": "[82AD] Band of Brothers | Discord: 82nd.gg",
@@ -337,7 +338,8 @@
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
     "addr": "176.57.153.114",
-    "port": 28200
+    "port": 28200,
+    "removed": 1716786149
   },
   {
     "name": "US ARMY. A force for good since June 14, 1775",
@@ -667,7 +669,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716786149
   },
   {
     "name": "HLL Official - UK #04",
@@ -1359,32 +1362,37 @@
   {
     "name": " Spring Seasonal 2024 | SLK vs 82AD",
     "addr": "203.10.98.49",
-    "port": 8918,
-    "removed": 1716757326
+    "port": 8918
   },
   {
     "name": "CN #5 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8928,
-    "removed": 1716757326
+    "port": 8928
   },
   {
     "name": "CN #6 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8938,
-    "removed": 1716755501
+    "port": 8938
   },
   {
     "name": "CN #7 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8948,
-    "removed": 1716757326
+    "port": 8948
+  },
+  {
+    "name": "CN #10 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
+    "addr": "203.10.98.49",
+    "port": 8958
   },
   {
     "name": "CN #9 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8968,
-    "removed": 1716755501
+    "port": 8968
+  },
+  {
+    "name": "HLL Server1",
+    "addr": "203.10.98.49",
+    "port": 8978
   },
   {
     "name": "<CN>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1680,7 +1688,8 @@
   {
     "name": "GREYHOUNDEVENT #1 Dont Ask me",
     "addr": "51.77.116.10",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716786149
   },
   {
     "name": "[UK] UK Let Loose | New Players Welcome | New Maps",
@@ -1765,7 +1774,8 @@
   {
     "name": "Bio, Sweat & Commandos | ECL | Div 3",
     "addr": "54.36.60.213",
-    "port": 8530
+    "port": 8530,
+    "removed": 1716786149
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
