@@ -1816,7 +1816,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716822131
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1851,12 +1852,14 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716822131
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1716822131
   },
   {
     "name": "HLL Official - Singapore #03",
@@ -1876,7 +1879,8 @@
   {
     "name": "HLL Official - Asia #13",
     "addr": "83.223.197.76",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716822131
   },
   {
     "name": "HLL Official - Asia #15",
@@ -1901,7 +1905,8 @@
   {
     "name": "HLL Official - Asia #11",
     "addr": "83.223.197.98",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716822131
   },
   {
     "name": "HLL Official - Asia #12",
