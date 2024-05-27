@@ -312,7 +312,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe #14",
@@ -322,12 +323,14 @@
   {
     "name": "HLL Official - Europe #09",
     "addr": "176.57.140.94",
-    "port": 28200
+    "port": 28200,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716782587
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -367,7 +370,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe #13",
@@ -402,12 +406,14 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe #11",
     "addr": "176.57.168.187",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe #07",
@@ -432,12 +438,14 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official Skirmish - Europe #01",
     "addr": "176.57.168.194",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe - QA Testing #02",
@@ -562,8 +570,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1716780790
+    "port": 28300
   },
   {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
@@ -708,7 +715,8 @@
   {
     "name": "HLL Official - Europe #10",
     "addr": "176.57.181.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716782587
   },
   {
     "name": "HLL Official - Europe #04",
@@ -723,7 +731,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1716782587
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -939,6 +948,11 @@
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
     "port": 8530
+  },
+  {
+    "name": "- Goober Battlefield - US EAST -",
+    "addr": "192.169.95.2",
+    "port": 9075
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1525,7 +1539,8 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "38.242.238.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716782587
   },
   {
     "name": "HLL Dev Team",
@@ -1585,7 +1600,8 @@
   {
     "name": "[FR] Legion XIII (lvl 50+) - discord.gg/legxiii",
     "addr": "5.196.78.45",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716782587
   },
   {
     "name": "[TFZ] Hell Containment Zone [Warfare Only] - discord.gg/tfz",
