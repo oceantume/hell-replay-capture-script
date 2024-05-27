@@ -1320,8 +1320,7 @@
   {
     "name": "#010 Infiltration cn Pub Hongkong Night",
     "addr": "202.165.70.93",
-    "port": 9018,
-    "removed": 1716847330
+    "port": 9018
   },
   {
     "name": "[CNHK]白毛兽耳萝莉の小窝 Q:453650713 ",
@@ -2010,7 +2009,8 @@
   {
     "name": "Hell Let Loose | United Forces",
     "addr": "83.223.203.51",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716849108
   },
   {
     "name": "Gear   ---- Warfare Only  --- ",
