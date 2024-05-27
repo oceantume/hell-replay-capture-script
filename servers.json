@@ -230,6 +230,11 @@
     "port": 9075
   },
   {
+    "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
+    "addr": "172.96.160.116",
+    "port": 9620
+  },
+  {
     "name": "#3 EXD.gg » Frontline Fury | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
@@ -1019,12 +1024,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716815006
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716815006
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1039,7 +1046,8 @@
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716815006
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1714,7 +1722,8 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224
+    "port": 9224,
+    "removed": 1716815006
   },
   {
     "name": "TBM ASIA#1 | Newbie Warzone | Let's Learn Together",
@@ -1739,7 +1748,8 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716815006
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
