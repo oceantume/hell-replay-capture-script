@@ -37,12 +37,14 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1716876166
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "135.125.188.111",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716876166
   },
   {
     "name": "HLL Official - Russia #01",
@@ -97,7 +99,8 @@
   {
     "name": "|HTD| HaiiTeD Hardcore Server",
     "addr": "141.95.33.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1716876166
   },
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
@@ -1679,7 +1682,8 @@
   {
     "name": "[GER][StDb] STOSSTRUPP DONNERBALKEN | GET VIP4SEED | MIC ONLY",
     "addr": "51.75.144.129",
-    "port": 9256
+    "port": 9256,
+    "removed": 1716876166
   },
   {
     "name": "WTH Training Server",
