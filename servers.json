@@ -752,7 +752,8 @@
   {
     "name": "[IG] Ironclad Guardians | ENG | discord.gg/2wnrsepkGP | HLL-01",
     "addr": "185.150.190.105",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716886936
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -853,7 +854,8 @@
   {
     "name": "[-BD-] BrewDawgs | US East | discord.gg/sRmXXWZ7Db",
     "addr": "192.169.86.218",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716886936
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1108,8 +1110,7 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | discord.gg/lostlegion",
     "addr": "195.201.169.249",
-    "port": 8530,
-    "removed": 1716885200
+    "port": 8530
   },
   {
     "name": "Steinberg",
@@ -2141,7 +2142,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1716886936
   },
   {
     "name": "HLL Official - South America #03 [ES]",
