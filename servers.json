@@ -10,7 +10,7 @@
     "port": 9620
   },
   {
-    "name": "Infiltration Battleground",
+    "name": "INFT Battleground | Votemap | New Players Welcome",
     "addr": "104.238.222.122",
     "port": 7777
   },
@@ -646,7 +646,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -1360,17 +1360,20 @@
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
     "addr": "203.10.98.49",
-    "port": 8888
+    "port": 8888,
+    "removed": 1716919606
   },
   {
     "name": "CN #2 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8898
+    "port": 8898,
+    "removed": 1716919606
   },
   {
     "name": "CN #3 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8908
+    "port": 8908,
+    "removed": 1716919606
   },
   {
     "name": " Spring Seasonal 2024 | SLK vs 82AD",
@@ -1702,7 +1705,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUNDEVENT #1 Dont Ask me",
+    "name": "SLB #3",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1757,7 +1760,7 @@
     "port": 9620
   },
   {
-    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
+    "name": "SLB #2",
     "addr": "54.36.108.21",
     "port": 8530
   },
@@ -2140,7 +2143,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1716919606
   },
   {
     "name": "HLL Official - South America #03 [ES]",
