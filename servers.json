@@ -102,8 +102,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1716879755
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -964,8 +963,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1716879755
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds",
@@ -1335,7 +1333,7 @@
     "port": 9058
   },
   {
-    "name": "CN <SC 战队＞天幕吸铁石的萌新乐园q:193918208",
+    "name": "CN2JWH九尾狐&SC天幕萌新乐园q193918208",
     "addr": "203.10.98.103",
     "port": 8888
   },
@@ -1766,8 +1764,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1716879755
+    "port": 9075
   },
   {
     "name": "Ξ [3HQ | ENG | EU] Hyper Hyper HQ Ξ VIP4Seed Ξ VOTEMAP Ξ",
@@ -1922,7 +1919,8 @@
   {
     "name": "US East - WWII Shenanigans - Happy Newbies and Vet funtime serv",
     "addr": "83.223.203.121",
-    "port": 28300
+    "port": 28300,
+    "removed": 1716881510
   },
   {
     "name": "HLL Official - US East #03",
