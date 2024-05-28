@@ -951,10 +951,9 @@
     "port": 8530
   },
   {
-    "name": "- Goober Battlefield - US EAST - DISCORD: discord.gg/YkT3wyA9rZ",
+    "name": "- Goober Battlefield - [ US EAST ] - discord.gg/YkT3wyA9rZ",
     "addr": "192.169.95.2",
-    "port": 9075,
-    "removed": 1716813584
+    "port": 9075
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1145,7 +1144,8 @@
   {
     "name": "[DOGZ] DOGZ OF WAR|UK|NEW PLAYER FRIENDLY|discord.gg/pRCE7tnv5b",
     "addr": "198.244.177.7",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716859617
   },
   {
     "name": "Random Offensive Only Server",
