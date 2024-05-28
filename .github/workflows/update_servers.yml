@@ -3,7 +3,7 @@ name: Update Servers JSON File
 on:
   workflow_dispatch:
   schedule:
-  - cron: '*/30 */1 * * *'
+  - cron: '* */6 * * *'
 
 jobs:
   update:
