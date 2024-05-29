@@ -1554,22 +1554,26 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "38.242.238.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1716945821
   },
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1716945821
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1716945821
   },
   {
     "name": "Internal_Team17",
     "addr": "38.242.238.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1716945821
   },
   {
     "name": "HLL Official - Japan #03",
@@ -1769,7 +1773,8 @@
   {
     "name": "Ξ [3HQ | ENG | EU] Hyper Hyper HQ Ξ VIP4Seed Ξ VOTEMAP Ξ",
     "addr": "54.36.108.21",
-    "port": 9620
+    "port": 9620,
+    "removed": 1716945821
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
