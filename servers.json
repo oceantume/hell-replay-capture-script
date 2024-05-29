@@ -646,7 +646,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -898,7 +898,8 @@
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
     "addr": "192.169.89.26",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716962881
   },
   {
     "name": "[D.C.] | [7DL] Latinoamerica Server [Los 7 Demonios]",
@@ -1360,7 +1361,8 @@
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
     "addr": "203.10.98.49",
-    "port": 8888
+    "port": 8888,
+    "removed": 1716962881
   },
   {
     "name": "CN #2 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
@@ -1554,26 +1556,22 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "38.242.238.209",
-    "port": 28000,
-    "removed": 1716945821
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1716945821
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1716945821
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
     "addr": "38.242.238.209",
-    "port": 28300,
-    "removed": 1716945821
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #03",
