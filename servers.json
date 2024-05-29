@@ -1125,7 +1125,13 @@
   {
     "name": "HLL Server",
     "addr": "198.133.237.21",
-    "port": 10270
+    "port": 10258
+  },
+  {
+    "name": "HLL Server",
+    "addr": "198.133.237.21",
+    "port": 10270,
+    "removed": 1716987317
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2147,8 +2153,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1716985535
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2188,7 +2193,8 @@
   {
     "name": "  [SCSD] New Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1716987317
   },
   {
     "name": "42e Dev Division",
