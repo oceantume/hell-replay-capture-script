@@ -953,7 +953,8 @@
   {
     "name": "- Goober Battlefield - [ US EAST ] - discord.gg/YkT3wyA9rZ",
     "addr": "192.169.95.2",
-    "port": 9075
+    "port": 9075,
+    "removed": 1716942282
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1360,20 +1361,17 @@
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
     "addr": "203.10.98.49",
-    "port": 8888,
-    "removed": 1716919606
+    "port": 8888
   },
   {
     "name": "CN #2 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8898,
-    "removed": 1716919606
+    "port": 8898
   },
   {
     "name": "CN #3 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8908,
-    "removed": 1716919606
+    "port": 8908
   },
   {
     "name": " Spring Seasonal 2024 | SLK vs 82AD",
@@ -1650,7 +1648,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1705,7 +1703,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUNDNIGHT - Green | discord.gg/greyhounds",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1760,7 +1758,7 @@
     "port": 9620
   },
   {
-    "name": "SLB #2",
+    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
     "addr": "54.36.108.21",
     "port": 8530
   },
