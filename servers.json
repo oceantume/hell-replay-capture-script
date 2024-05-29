@@ -388,7 +388,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1716988026
   },
   {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
@@ -1413,8 +1414,7 @@
   {
     "name": "CN #9 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8968,
-    "removed": 1716984568
+    "port": 8968
   },
   {
     "name": "HLL Server1",
@@ -2193,8 +2193,7 @@
   {
     "name": "  [SCSD] New Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1716987317
+    "port": 7777
   },
   {
     "name": "42e Dev Division",
