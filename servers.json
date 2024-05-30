@@ -22,7 +22,8 @@
   {
     "name": "Moonlit Rose - US West",
     "addr": "104.238.222.122",
-    "port": 7797
+    "port": 7797,
+    "removed": 1717028654
   },
   {
     "name": "Chad Stuart's Flare Gun Friends 2 — discord.gg/chadfgf",
@@ -810,6 +811,11 @@
     "name": "Lucky Strike BattleGrounds | VOTEMAP | discord.gg/luckystrikes",
     "addr": "192.154.213.42",
     "port": 9075
+  },
+  {
+    "name": "[TOG] The Old Guard Official Public Server [Central]",
+    "addr": "192.154.213.42",
+    "port": 9620
   },
   {
     "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
@@ -1662,7 +1668,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
