@@ -109,8 +109,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1717052538
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -1268,7 +1267,7 @@
     "port": 8888
   },
   {
-    "name": "CN3[JWH]九尾狐&散人社区摸鱼服|HK|Q682534524",
+    "name": "CN2 D服死妈<JWH&SC>港冲突Q682534524",
     "addr": "202.165.70.15",
     "port": 8898
   },
@@ -1358,14 +1357,19 @@
     "port": 9058
   },
   {
-    "name": "HLL Server",
+    "name": "【FJ】/WEST US/ Highly Competitive Servers/LV 100+",
     "addr": "203.10.96.196",
     "port": 8888
   },
   {
-    "name": "HLL Server",
+    "name": "【FJ】Training server/WEST US/",
     "addr": "203.10.96.196",
     "port": 8898
+  },
+  {
+    "name": "HLL Server",
+    "addr": "203.10.96.196",
+    "port": 8908
   },
   {
     "name": "CN2JWH九尾狐&SC天幕萌新乐园q193918208",
@@ -1378,7 +1382,7 @@
     "port": 8888
   },
   {
-    "name": " <CN1>D服死妈 〔SFB〕老逼登窝Q：882377564",
+    "name": "<CN1>D服死妈 〔SFB]  老逼登窝Q:882377564 ",
     "addr": "203.10.98.41",
     "port": 8898
   },
@@ -1458,9 +1462,14 @@
     "port": 8888
   },
   {
-    "name": "<CN2>D服死妈 〔SFB]老逼登窝Q:882377564",
+    "name": "<CN2>D服死妈 〔SFB]  新逼登窝Q:882377564",
     "addr": "203.10.98.7",
     "port": 8888
+  },
+  {
+    "name": "HLL Server",
+    "addr": "203.10.98.7",
+    "port": 8898
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -2043,6 +2052,11 @@
     "name": "[ENG] GET ER DONE",
     "addr": "83.223.203.182",
     "port": 28300
+  },
+  {
+    "name": "The Clown Effect HLL Server [CLWN] US East",
+    "addr": "83.223.203.201",
+    "port": 28000
   },
   {
     "name": "Hell Let Loose | United Forces",
