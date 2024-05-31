@@ -1284,14 +1284,12 @@
   {
     "name": "CN1 D服死妈 <散人社区>丨请查看群公告丨Q群702502",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1717095738
+    "port": 8908
   },
   {
     "name": "CN2 D服死妈 <散人社区>丨请查看群公告丨Q群702502",
     "addr": "202.165.70.91",
-    "port": 8918,
-    "removed": 1717095738
+    "port": 8918
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1436,17 +1434,20 @@
   {
     "name": "CN #10 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8958
+    "port": 8958,
+    "removed": 1717115016
   },
   {
     "name": "CN #9 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8968
+    "port": 8968,
+    "removed": 1717115016
   },
   {
     "name": "HLL Server1",
     "addr": "203.10.98.49",
-    "port": 8978
+    "port": 8978,
+    "removed": 1717115016
   },
   {
     "name": "<CN>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1566,6 +1567,11 @@
     "port": 7807
   },
   {
+    "name": "[BB] Bella's Battleground | discord.gg/bellasbattleground",
+    "addr": "216.219.93.37",
+    "port": 7827
+  },
+  {
     "name": "[GER] 106.PzBrig | HighPerformance&GER MIC",
     "addr": "217.182.196.157",
     "port": 8530
@@ -1671,10 +1677,9 @@
     "port": 8530
   },
   {
-    "name": "BigD.com.au AU#2 | Warfare & Skirmish | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Skirmish State of Origin 1 Tonight | sign up",
     "addr": "51.161.132.69",
-    "port": 8740,
-    "removed": 1717095738
+    "port": 8740
   },
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
@@ -2251,6 +2256,11 @@
     "port": 7777
   },
   {
+    "name": "Excel Spreadsheets",
+    "addr": "92.118.18.105",
+    "port": 7782
+  },
+  {
     "name": "2nd Ranger Battalion | US EAST | discord.gg/2ndrangers",
     "addr": "92.118.18.105",
     "port": 7797
@@ -2313,7 +2323,8 @@
   {
     "name": "[BB] Bella's Battleground | discord.gg/bellasbattleground",
     "addr": "92.118.18.99",
-    "port": 7777
+    "port": 7777,
+    "removed": 1717115016
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
