@@ -548,6 +548,11 @@
     "port": 28300
   },
   {
+    "name": "ANUBIS PROJECT RP | Military Roleplay",
+    "addr": "176.57.169.115",
+    "port": 28000
+  },
+  {
     "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING | OINK OINK",
     "addr": "176.57.169.115",
     "port": 28100
@@ -573,7 +578,7 @@
     "port": 28000
   },
   {
-    "name": "1.Fallschirmjäger-Division #2 |",
+    "name": "1.Fallschirmjäger-Division #2 | Freitagsgemetzel",
     "addr": "176.57.171.158",
     "port": 28100
   },
@@ -695,8 +700,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1717160799
+    "port": 28200
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -1617,8 +1621,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1717160799
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
@@ -1816,7 +1819,7 @@
     "port": 9620
   },
   {
-    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
+    "name": "GREYHOUNDEVENT #1",
     "addr": "54.36.108.21",
     "port": 8530
   },
