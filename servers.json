@@ -936,7 +936,8 @@
   {
     "name": "Blueberries Battleground | New Players Welcome",
     "addr": "192.169.93.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717116458
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -1870,12 +1871,14 @@
   {
     "name": "1-505TH PIR | DELTA CO | PUBLIC - NAE | DISCORD.GG/505PIR |",
     "addr": "74.63.236.194",
-    "port": 9075
+    "port": 9075,
+    "removed": 1717116458
   },
   {
     "name": "1-505TH PIR | ALPHA CO | PUBLIC - NAE | DISCORD.GG/505PIR |",
     "addr": "74.63.236.194",
-    "port": 9620
+    "port": 9620,
+    "removed": 1717116458
   },
   {
     "name": "HLL Official - Asia #07",
