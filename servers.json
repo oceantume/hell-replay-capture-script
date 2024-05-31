@@ -695,7 +695,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1717160799
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -1616,7 +1617,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717160799
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
