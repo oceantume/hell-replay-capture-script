@@ -285,7 +285,8 @@
   {
     "name": "Chilled company  (Australia) Server by g-portal.com",
     "addr": "176.57.135.81",
-    "port": 33800
+    "port": 33800,
+    "removed": 1717222021
   },
   {
     "name": "[Official] - Bob the Builder | XP Farm | Fast Loadout & Levels",
@@ -2116,6 +2117,11 @@
     "name": "Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
     "port": 28200
+  },
+  {
+    "name": "[Merc] #3 US EAST D.C Discord.gg/m3rc",
+    "addr": "83.223.204.129",
+    "port": 28000
   },
   {
     "name": "BIG  BROTHER RULES  ALL PLAYERS WELCOME ",
