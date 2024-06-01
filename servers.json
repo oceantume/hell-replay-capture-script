@@ -589,6 +589,11 @@
     "port": 28300
   },
   {
+    "name": "Borry44's Playground",
+    "addr": "176.57.171.176",
+    "port": 28000
+  },
+  {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
     "addr": "176.57.171.176",
     "port": 28300
@@ -1007,8 +1012,7 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "193.192.58.101",
-    "port": 28100,
-    "removed": 1717246911
+    "port": 28100
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1048,14 +1052,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1717246911
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1717246911
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1065,14 +1067,12 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "193.192.59.123",
-    "port": 28000,
-    "removed": 1717246911
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100,
-    "removed": 1717246911
+    "port": 28100
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1627,8 +1627,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1717246911
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
@@ -1818,8 +1817,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1717246911
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
