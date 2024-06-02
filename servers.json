@@ -859,7 +859,7 @@
     "port": 9620
   },
   {
-    "name": "-TL- The Line | WEST | EVENT | Discord.gg/TheLine",
+    "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "192.169.85.2",
     "port": 8530
   },
@@ -1550,12 +1550,6 @@
     "port": 9068
   },
   {
-    "name": "GGWP",
-    "addr": "203.15.121.26",
-    "port": 8888,
-    "removed": 1716737515
-  },
-  {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
     "port": 8888
@@ -1716,7 +1710,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2268,7 +2262,8 @@
   {
     "name": "  [SCSD] New Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1717351629
   },
   {
     "name": "42e Dev Division",
