@@ -73,8 +73,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1717308496
+    "port": 9224
   },
   {
     "name": "IR德服 高贵的中国HLL玩家绝不向D狗屈服",
@@ -110,8 +109,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1717311740
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -861,7 +859,7 @@
     "port": 9620
   },
   {
-    "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
+    "name": "-TL- The Line | WEST | EVENT | Discord.gg/TheLine",
     "addr": "192.169.85.2",
     "port": 8530
   },
@@ -1770,8 +1768,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530,
-    "removed": 1717308496
+    "port": 8530
   },
   {
     "name": "GREYHOUNDNIGHT - Green | discord.gg/greyhounds",
@@ -1836,8 +1833,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1717311740
+    "port": 9075
   },
   {
     "name": "Ξ [3HQ | ENG | EU] Hyper Hyper HQ Ξ VIP4Seed Ξ VOTEMAP Ξ",
@@ -2226,7 +2222,8 @@
   {
     "name": "Qonzer Testing",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1717330098
   },
   {
     "name": "Hookway's Server",
