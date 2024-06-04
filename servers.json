@@ -675,7 +675,7 @@
     "port": 28300
   },
   {
-    "name": "[ESP] MALDITOS BASTARDOS| SERVER ESPAÑOL",
+    "name": "[ESP] SERVER ESPAÑOL | MALDITOS BASTARDOS",
     "addr": "176.57.178.127",
     "port": 28000
   },
@@ -1293,8 +1293,7 @@
   {
     "name": "CN1 <散人社区>丨炎炎夏日生椰拿铁丨Q群702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1717441336
+    "port": 8908
   },
   {
     "name": "CN2 <散人社区>丨炎炎夏日攻防战争丨Q群702502503",
@@ -1556,6 +1555,11 @@
     "port": 7777
   },
   {
+    "name": "The Line West #1",
+    "addr": "216.219.90.102",
+    "port": 7777
+  },
+  {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
     "addr": "216.219.93.37",
     "port": 7777
@@ -1683,8 +1687,7 @@
   {
     "name": "BigD.com.au AU#2 | Warfare & Skirmish | discord.gg/bigd",
     "addr": "51.161.132.69",
-    "port": 8740,
-    "removed": 1717441336
+    "port": 8740
   },
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
@@ -1699,17 +1702,15 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1717441336
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1717441336
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2079,12 +2080,6 @@
     "name": "The Clown Effect HLL Server [CLWN] US East",
     "addr": "83.223.203.201",
     "port": 28000
-  },
-  {
-    "name": "Hell Let Loose | United Forces",
-    "addr": "83.223.203.51",
-    "port": 28000,
-    "removed": 1716849108
   },
   {
     "name": "Gear   ---- Warfare Only  --- ",
