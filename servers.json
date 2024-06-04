@@ -1616,8 +1616,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1717483923
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
@@ -1822,7 +1821,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1717484509
   },
   {
     "name": "Ξ [3HQ | ENG | EU] Hyper Hyper HQ Ξ VIP4Seed Ξ VOTEMAP Ξ",
