@@ -202,12 +202,6 @@
     "port": 7777
   },
   {
-    "name": "HLL Server by ESW  discord.gg/ESW",
-    "addr": "160.202.165.39",
-    "port": 8888,
-    "removed": 1716906718
-  },
-  {
     "name": "Mikey's Marauders / US EAST 2 / discord.gg/mikeys-mm",
     "addr": "172.93.104.218",
     "port": 8530
@@ -665,7 +659,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -1205,7 +1199,8 @@
   {
     "name": "CN1801蓝蔷薇少女的骑行 萌新攻防服 Q群677043328",
     "addr": "202.165.70.13",
-    "port": 8908
+    "port": 8908,
+    "removed": 1717524465
   },
   {
     "name": "<CN>HK#3TT天堂(社群专属服)www.hlltt.site网站进群",
@@ -1247,7 +1242,8 @@
   {
     "name": "[CN]I.C.F中国信号旗 ICF服务器QQ群：850422514",
     "addr": "202.165.70.13",
-    "port": 8988
+    "port": 8988,
+    "removed": 1717524465
   },
   {
     "name": "<CN>萌新老六集中营（美军攻）HK 服主q:2164947615",
@@ -1589,6 +1585,11 @@
     "port": 9075
   },
   {
+    "name": "nitrado.net gameserver y1xsKHYt",
+    "addr": "37.10.127.2",
+    "port": 20000
+  },
+  {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
@@ -1616,8 +1617,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1717506466
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
