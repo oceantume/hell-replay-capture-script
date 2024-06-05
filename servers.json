@@ -1141,12 +1141,6 @@
     "removed": 1717308496
   },
   {
-    "name": "HLL Server",
-    "addr": "198.133.237.21",
-    "port": 10270,
-    "removed": 1716987317
-  },
-  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
@@ -1621,12 +1615,14 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717592153
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1717592153
   },
   {
     "name": "Internal_Team17",
