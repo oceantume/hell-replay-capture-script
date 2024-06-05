@@ -1361,7 +1361,7 @@
     "port": 8898
   },
   {
-    "name": "US.JWH&KZTI&SC&GMJ  Training",
+    "name": "<KZTI>JWH SC&GMJ Training|US|",
     "addr": "203.10.96.196",
     "port": 8908
   },
@@ -1369,6 +1369,11 @@
     "name": "CN.FJ&JWH Training|JP|",
     "addr": "203.10.98.103",
     "port": 8888
+  },
+  {
+    "name": "<CN1>D服死妈 〔SFB] 老逼登窝Q:882377564",
+    "addr": "203.10.98.103",
+    "port": 8898
   },
   {
     "name": "CN EXP｜经验宝俱乐部｜萌新纯净冲突服:JP",
@@ -1460,16 +1465,14 @@
     "port": 8888
   },
   {
-    "name": "<CN2>D服死妈 〔SFB] 新避登窝Q:882377564",
+    "name": "<CN2>D服死妈 〔SFB] 新逼登窝Q:882377564",
     "addr": "203.10.98.7",
-    "port": 8888,
-    "removed": 1717589362
+    "port": 8888
   },
   {
-    "name": "HLL Server",
+    "name": "<KZTI>JWH SC&GMJ跑图专用 节点JP ",
     "addr": "203.10.98.7",
-    "port": 8898,
-    "removed": 1717092480
+    "port": 8898
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1758,7 +1761,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUNDNIGHT - Green | discord.gg/greyhounds",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1813,7 +1816,7 @@
     "port": 9620
   },
   {
-    "name": "SLB #2",
+    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
     "addr": "54.36.108.21",
     "port": 8530
   },
@@ -2203,7 +2206,8 @@
   {
     "name": "Hookway's Server 0",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1717610823
   },
   {
     "name": "HLL Official - South America #03 [ES]",
