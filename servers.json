@@ -510,7 +510,8 @@
   {
     "name": "[PKKA] Event Server",
     "addr": "176.57.168.4",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717547038
   },
   {
     "name": "(Ger) TMGP",
@@ -886,7 +887,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1717547038
   },
   {
     "name": "[US WEST] 19th Engineer Battalion -discord.gg/19theb -MAP-VOTE",
@@ -1697,14 +1699,12 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1717527645
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1717527645
+    "port": 9620
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
@@ -2289,8 +2289,7 @@
   {
     "name": "-TL- The Line | EAST | Discord.gg/TheLine",
     "addr": "92.118.18.58",
-    "port": 7797,
-    "removed": 1717481270
+    "port": 7797
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
