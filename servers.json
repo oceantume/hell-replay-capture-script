@@ -1112,7 +1112,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENTS | LOW PING | PBSGAMETEAM.COM",
     "addr": "193.70.81.145",
-    "port": 9075
+    "port": 9075,
+    "removed": 1717654942
   },
   {
     "name": "Goat's HLL Server [US] Newb Friendly",
@@ -1552,8 +1553,7 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1717654074
+    "port": 7797
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
@@ -1573,8 +1573,7 @@
   {
     "name": "-TL- The Line | EAST | Discord.gg/TheLine",
     "addr": "216.219.93.63",
-    "port": 7797,
-    "removed": 1717654074
+    "port": 7797
   },
   {
     "name": "[GER] 106.PzBrig | HighPerformance&GER MIC",
