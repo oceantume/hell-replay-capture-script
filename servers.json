@@ -20,12 +20,6 @@
     "port": 7792
   },
   {
-    "name": "Moonlit Rose - US West",
-    "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1717028654
-  },
-  {
     "name": "Chad Stuart's Flare Gun Friends 2 — discord.gg/chadfgf",
     "addr": "104.255.170.181",
     "port": 8530
@@ -1018,6 +1012,11 @@
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
     "port": 28000
+  },
+  {
+    "name": "GPO Presents-G is for Garri-Lvl 25+",
+    "addr": "193.192.58.206",
+    "port": 28100
   },
   {
     "name": "Unleash Hell Offensive Style!",
@@ -2145,8 +2144,7 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1717633437
+    "port": 28100
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
