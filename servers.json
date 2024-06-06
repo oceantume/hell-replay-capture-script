@@ -666,7 +666,8 @@
   {
     "name": "[ESP] SERVER ESPAÑOL | MALDITOS BASTARDOS",
     "addr": "176.57.178.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1717633437
   },
   {
     "name": "HLL Official - UK #01",
@@ -1565,6 +1566,16 @@
     "port": 7827
   },
   {
+    "name": "Hell Let Loose Server",
+    "addr": "216.219.93.63",
+    "port": 7777
+  },
+  {
+    "name": "-TL- The Line | EAST | Discord.gg/TheLine",
+    "addr": "216.219.93.63",
+    "port": 7797
+  },
+  {
     "name": "[GER] 106.PzBrig | HighPerformance&GER MIC",
     "addr": "217.182.196.157",
     "port": 8530
@@ -1700,7 +1711,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2134,7 +2145,8 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717633437
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
@@ -2239,7 +2251,7 @@
     "port": 7837
   },
   {
-    "name": "  [SCSD] New Players Welcome | discord.gg/scsd | Active Admin",
+    "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
   },
@@ -2276,7 +2288,8 @@
   {
     "name": "-TL- The Line | EAST | Discord.gg/TheLine",
     "addr": "92.118.18.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1717633437
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
