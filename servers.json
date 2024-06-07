@@ -663,10 +663,9 @@
     "port": 28300
   },
   {
-    "name": "[ESP] SERVER ESPAÑOL | MALDITOS BASTARDOS",
+    "name": "[ESP] MALDITOS BASTARDOS | SERVER ESPAÑOL",
     "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1717633437
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -871,7 +870,8 @@
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
     "addr": "192.169.86.66",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717719881
   },
   {
     "name": "XIII Legion - Eagle (US East)",
@@ -1433,24 +1433,6 @@
     "port": 8948
   },
   {
-    "name": "CN #10 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8958,
-    "removed": 1717115016
-  },
-  {
-    "name": "CN #9 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8968,
-    "removed": 1717115016
-  },
-  {
-    "name": "HLL Server1",
-    "addr": "203.10.98.49",
-    "port": 8978,
-    "removed": 1717115016
-  },
-  {
     "name": "<SG>DFSM 火影の村玖尾妖狐萌新攻防營",
     "addr": "203.10.98.5",
     "port": 8888
@@ -1717,7 +1699,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2325,12 +2307,6 @@
     "name": "TP WAR GAMES",
     "addr": "92.118.18.93",
     "port": 7797
-  },
-  {
-    "name": "[BB] Bella's Battleground | discord.gg/bellasbattleground",
-    "addr": "92.118.18.99",
-    "port": 7777,
-    "removed": 1717115016
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
