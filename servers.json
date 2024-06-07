@@ -195,7 +195,7 @@
     "port": 7777
   },
   {
-    "name": "Mikey's Marauders / US EAST 2 / discord.gg/mikeys-mm",
+    "name": "Mikey's Marauders / US East Alt Maps / discord.gg/mikeys-mm",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -598,7 +598,7 @@
     "port": 28300
   },
   {
-    "name": "PL/ENG ● Polski serwer Klanu PzJR - D-DAY EVENT",
+    "name": "PL/ENG ● Polski serwer Klanu PzJR - Event server",
     "addr": "176.57.171.44",
     "port": 28000
   },
@@ -740,7 +740,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717783692
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -750,7 +751,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "181.214.149.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1717783692
   },
   {
     "name": "Digital Asylum Gaming-New Players Welcome-US EAST",
@@ -1248,7 +1250,8 @@
   {
     "name": "CN萌新之家&革命军87 强度服[雾]丨Q群:966076352",
     "addr": "202.165.70.15",
-    "port": 8888
+    "port": 8888,
+    "removed": 1717783692
   },
   {
     "name": "<JWH>DFSM 鸣人事务所萌新欢乐冲突营Q群：682534524",
@@ -1688,7 +1691,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1798,7 +1801,7 @@
     "port": 9620
   },
   {
-    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
+    "name": "Greyhoundevent Frankfurt",
     "addr": "54.36.108.21",
     "port": 8530
   },
@@ -2296,6 +2299,11 @@
     "name": "TP WAR GAMES",
     "addr": "92.118.18.93",
     "port": 7797
+  },
+  {
+    "name": "Hell Let Loose Server",
+    "addr": "92.118.19.140",
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
