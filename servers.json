@@ -22,8 +22,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1717851737
+    "port": 7797
   },
   {
     "name": "Chad Stuart's Flare Gun Friends 2 — discord.gg/chadfgf",
@@ -1049,8 +1048,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1717851737
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1065,8 +1063,7 @@
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100,
-    "removed": 1717851737
+    "port": 28100
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1167,7 +1164,7 @@
     "removed": 1717464138
   },
   {
-    "name": "[BR1] BR1 Gaming - [EAST/EVENT] New Players Welcome - discord.g",
+    "name": "[BR1] ROAD TO D-DAY CHARITY EVENT - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -1262,7 +1259,8 @@
   {
     "name": "CN7 FA野战军蓝同白袜同好会|攻防|HK",
     "addr": "202.165.70.91",
-    "port": 8898
+    "port": 8898,
+    "removed": 1717869981
   },
   {
     "name": "CN1 <散人社区>丨炎炎夏日生椰拿铁丨Q群702502503",
@@ -1368,13 +1366,13 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1717869981
   },
   {
-    "name": "<CN1>D服死妈 〔SFB]  老逼登窝Q:882377564 ",
+    "name": "HLL Server",
     "addr": "203.10.98.41",
-    "port": 8898,
-    "removed": 1717589362
+    "port": 8898
   },
   {
     "name": "CN1<萌新之家> 攻防服 萌新友好 Q群147559947",
@@ -1385,6 +1383,11 @@
     "name": "CN2<萌新之家>攻防服 冷门地图体验 Q群147559947",
     "addr": "203.10.98.41",
     "port": 8918
+  },
+  {
+    "name": "HLL Server",
+    "addr": "203.10.98.41",
+    "port": 8928
   },
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
@@ -1439,7 +1442,8 @@
   {
     "name": "<CN2>D服死妈 〔SFB] 新逼登窝Q:882377564",
     "addr": "203.10.98.7",
-    "port": 8888
+    "port": 8888,
+    "removed": 1717869981
   },
   {
     "name": "<KZTI>JWH SC&GMJ跑图专用 节点JP ",
@@ -1688,7 +1692,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1765,8 +1769,7 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224,
-    "removed": 1717851737
+    "port": 9224
   },
   {
     "name": "TBM ASIA#1 | Newbie Warzone | Let's Learn Together",
@@ -1791,8 +1794,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1717851737
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
