@@ -739,8 +739,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1717783692
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -836,7 +835,8 @@
   {
     "name": "|-T-| Tribute - New Players Welcome",
     "addr": "192.169.85.194",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717826814
   },
   {
     "name": "TVB | OFFENSIVE 24/7 | US WEST I discord.gg/twilightvanguardba",
@@ -2019,12 +2019,6 @@
     "name": "EASY Company | Level 50+ | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.203.138",
     "port": 28000
-  },
-  {
-    "name": "[Merc] #3 US EAST D.C Discord.gg/m3rc",
-    "addr": "83.223.203.138",
-    "port": 28100,
-    "removed": 1717205204
   },
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
