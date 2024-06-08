@@ -75,7 +75,7 @@
     "port": 9224
   },
   {
-    "name": "IR德服 高贵的中国HLL玩家绝不向D狗屈服",
+    "name": "IFTT Gaming | Votemap | New Players Welcome",
     "addr": "136.243.70.117",
     "port": 7777
   },
@@ -1366,8 +1366,7 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1717869981
+    "port": 8888
   },
   {
     "name": "<CN1>D服死妈 〔SFB] 老逼登窝Q:882377564",
@@ -1388,7 +1387,13 @@
   {
     "name": "<CN2>D服死妈 〔SFB] 新逼登窝Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8928
+    "port": 8928,
+    "removed": 1717872573
+  },
+  {
+    "name": "HLL Server",
+    "addr": "203.10.98.41",
+    "port": 8938
   },
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
