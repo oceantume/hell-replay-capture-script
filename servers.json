@@ -503,8 +503,7 @@
   {
     "name": "[PKKA] Event Server",
     "addr": "176.57.168.4",
-    "port": 28100,
-    "removed": 1717547038
+    "port": 28100
   },
   {
     "name": "(Ger) TMGP",
@@ -1173,7 +1172,8 @@
   {
     "name": "[BR1] BR1 Gaming - [EAST/EVENT] New Players Welcome - discord.g",
     "addr": "198.37.123.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717806289
   },
   {
     "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
@@ -1271,14 +1271,12 @@
   {
     "name": "CN1 <散人社区>丨炎炎夏日生椰拿铁丨Q群702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1717786971
+    "port": 8908
   },
   {
     "name": "CN2 <散人社区>丨炎炎夏日攻防战争丨Q群702502503",
     "addr": "202.165.70.91",
-    "port": 8918,
-    "removed": 1717786971
+    "port": 8918
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1670,8 +1668,7 @@
   {
     "name": "BigD.com.au AU#2 | D-Day Maps | discord.gg/bigd",
     "addr": "51.161.132.69",
-    "port": 8740,
-    "removed": 1717786971
+    "port": 8740
   },
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
@@ -1694,7 +1691,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
