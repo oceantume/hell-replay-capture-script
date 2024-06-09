@@ -385,6 +385,11 @@
     "port": 28200
   },
   {
+    "name": "(GER",
+    "addr": "176.57.168.174",
+    "port": 28000
+  },
+  {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
     "addr": "176.57.168.174",
     "port": 28200
@@ -1271,6 +1276,11 @@
     "addr": "202.165.70.91",
     "port": 8918,
     "removed": 1717913252
+  },
+  {
+    "name": "CN2 <散人社区>丨炎炎夏日攻防战争丨Q群702502503",
+    "addr": "202.165.70.91",
+    "port": 8958
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -2315,5 +2325,10 @@
     "name": "『V』- Vanguarda - discord.gg/vanguarda - Aliste-se",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "Odyssey - New players welcome",
+    "addr": "95.156.198.83",
+    "port": 13000
   }
 ]
