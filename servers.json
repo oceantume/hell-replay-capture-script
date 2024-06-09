@@ -1007,7 +1007,8 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "193.192.58.101",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717938248
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1053,12 +1054,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1717938248
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717938248
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1073,7 +1076,8 @@
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100
+    "port": 28100,
+    "removed": 1717938248
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1785,7 +1789,8 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224
+    "port": 9224,
+    "removed": 1717938248
   },
   {
     "name": "TBM ASIA#1 | Newbie Warzone | Let's Learn Together",
