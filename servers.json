@@ -150,7 +150,7 @@
     "port": 9014
   },
   {
-    "name": "Desert Ratz #2 Match/Events Server",
+    "name": "Phoenix vs TL Friendly Purple Heart Lane",
     "addr": "145.239.5.101",
     "port": 8530
   },
@@ -387,7 +387,8 @@
   {
     "name": "(GER",
     "addr": "176.57.168.174",
-    "port": 28000
+    "port": 28000,
+    "removed": 1717956394
   },
   {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
@@ -777,12 +778,12 @@
     "port": 7782
   },
   {
-    "name": "HLL BRASIL <CF> MARRAM #01 - https://hllbr.vip - discord.ong",
+    "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip - discord.gold",
     "addr": "189.1.170.137",
     "port": 7807
   },
   {
-    "name": "HLL BRASIL <CF> MARRAM #02 - https://hllbr.vip - discord.ong",
+    "name": "HLL BRASIL <CF> MARRAM #02 - www.hllbr.vip - discord.gold",
     "addr": "189.1.170.137",
     "port": 7827
   },
@@ -1007,8 +1008,7 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "193.192.58.101",
-    "port": 28100,
-    "removed": 1717938248
+    "port": 28100
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1054,14 +1054,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1717938248
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1717938248
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1076,8 +1074,7 @@
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100,
-    "removed": 1717938248
+    "port": 28100
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1265,10 +1262,9 @@
     "port": 8908
   },
   {
-    "name": "CN7 FA野战军蓝同白袜同好会|攻防|HK",
+    "name": "CN1<JWH>九尾狐战队长期招新带新 青训群346329133",
     "addr": "202.165.70.91",
-    "port": 8898,
-    "removed": 1717869981
+    "port": 8898
   },
   {
     "name": "CN1 <散人社区>丨炎炎夏日生椰拿铁丨Q群702502503",
@@ -1276,10 +1272,24 @@
     "port": 8908
   },
   {
-    "name": "CN2 <散人社区>丨炎炎夏日攻防战争丨Q群702502503",
+    "name": "CN2<JWH SC>九尾狐 天幕青训考核服",
     "addr": "202.165.70.91",
-    "port": 8918,
-    "removed": 1717913252
+    "port": 8918
+  },
+  {
+    "name": "CN3<JWH>开挂不能解封，就像妈死不能复生",
+    "addr": "202.165.70.91",
+    "port": 8928
+  },
+  {
+    "name": "CN5<JWH>九尾狐战队35v专用服",
+    "addr": "202.165.70.91",
+    "port": 8938
+  },
+  {
+    "name": "CN6<JWH>九尾狐战队CZS中队训练服",
+    "addr": "202.165.70.91",
+    "port": 8948
   },
   {
     "name": "CN2 <散人社区>丨炎炎夏日攻防战争丨Q群702502503",
@@ -1712,7 +1722,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1789,8 +1799,7 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224,
-    "removed": 1717938248
+    "port": 9224
   },
   {
     "name": "TBM ASIA#1 | Newbie Warzone | Let's Learn Together",
