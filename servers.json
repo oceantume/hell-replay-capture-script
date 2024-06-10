@@ -110,7 +110,7 @@
     "port": 9075
   },
   {
-    "name": "[13SNC] 13th Special Needs Company #2 – Discord.gg/13SNC",
+    "name": "[13SNC] #2 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "141.95.72.27",
     "port": 9620
   },
@@ -160,7 +160,7 @@
     "port": 9075
   },
   {
-    "name": "[13SNC] 13th Special Needs Company #1 – Discord.gg/13SNC",
+    "name": "[13SNC] #1 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "145.239.5.101",
     "port": 9620
   },
@@ -963,7 +963,8 @@
   {
     "name": "[NA] AlbionNET | 24/7 Foy Day & Night Rotations ",
     "addr": "192.169.95.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1717999700
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1248,8 +1249,7 @@
   {
     "name": "CN萌新之家&革命军87 强度服[雾]丨Q群:966076352",
     "addr": "202.165.70.15",
-    "port": 8888,
-    "removed": 1717783692
+    "port": 8888
   },
   {
     "name": "<JWH>DFSM 鸣人事务所萌新欢乐冲突营Q群：682534524",
@@ -1697,7 +1697,7 @@
     "port": 8530
   },
   {
-    "name": "BigD.com.au AU#2 | D-Day Maps | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "51.161.132.69",
     "port": 8740
   },
@@ -1722,7 +1722,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
