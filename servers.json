@@ -102,7 +102,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718003068
   },
   {
     "name": "SLB #1",
@@ -357,8 +358,7 @@
   {
     "name": "Tank Brawl Jüterbog | DISCORD: https://discord.gg/ttuejfXK4p",
     "addr": "176.57.165.128",
-    "port": 31100,
-    "removed": 1718002433
+    "port": 31100
   },
   {
     "name": "Fat Ballerina #2- US East - Veteran Friendly ",
@@ -1840,7 +1840,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1718003068
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
