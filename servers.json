@@ -511,12 +511,6 @@
     "port": 28100
   },
   {
-    "name": "(Ger) TMGP",
-    "addr": "176.57.168.4",
-    "port": 28300,
-    "removed": 1717420093
-  },
-  {
     "name": "[ EU/GER/ENG ] 1. DOG Hundehütte New Players Welcome",
     "addr": "176.57.168.4",
     "port": 28700
@@ -770,7 +764,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1718024976
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -1264,7 +1259,8 @@
   {
     "name": "<JWH>DFSM佐助轰趴馆萌新冷门攻防营Q682534524",
     "addr": "202.165.70.15",
-    "port": 8908
+    "port": 8908,
+    "removed": 1718024976
   },
   {
     "name": "CN1<JWH>九尾狐战队长期招新带新 青训群346329133",
@@ -2349,7 +2345,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718024234
+    "port": 13000
   }
 ]
