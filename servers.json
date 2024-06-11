@@ -385,10 +385,9 @@
     "port": 28200
   },
   {
-    "name": "(GER",
+    "name": "[GER]Perry ",
     "addr": "176.57.168.174",
-    "port": 28000,
-    "removed": 1717956394
+    "port": 28000
   },
   {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
@@ -651,7 +650,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -765,7 +764,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1718129242
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -1218,7 +1218,8 @@
   {
     "name": "<CN>HK#6TT天堂俱乐部vx公众号TT天堂进群领取永久V",
     "addr": "202.165.70.13",
-    "port": 8978
+    "port": 8978,
+    "removed": 1718129242
   },
   {
     "name": "[CN]I.C.F中国信号旗 ICF服务器QQ群：850422514",
@@ -1229,12 +1230,14 @@
   {
     "name": "<CN>萌新老六集中营（美军攻）HK 服主q:2164947615",
     "addr": "202.165.70.13",
-    "port": 9008
+    "port": 9008,
+    "removed": 1718129242
   },
   {
     "name": "CN/HK 卢比扬卡大饭店（萌新友好） QQ群：245578354",
     "addr": "202.165.70.13",
-    "port": 9018
+    "port": 9018,
+    "removed": 1718129242
   },
   {
     "name": "【CN】费利奥萌新欢乐营（二服）q群：892753546",
@@ -1717,7 +1720,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1772,7 +1775,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUNDNIGHT - Green | discord.gg/greyhounds",
+    "name": "SLB #3",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1827,7 +1830,7 @@
     "port": 9620
   },
   {
-    "name": "Greyhoundevent Frankfurt",
+    "name": "SLB #2",
     "addr": "54.36.108.21",
     "port": 8530
   },
