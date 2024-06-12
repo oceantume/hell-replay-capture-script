@@ -765,8 +765,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1718129242
+    "port": 7777
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -2325,7 +2324,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718196985
+    "port": 13000
   }
 ]
