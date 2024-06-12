@@ -650,7 +650,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -1706,7 +1706,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1798,7 +1798,8 @@
   {
     "name": "*{WeB}*Wolf Lair | ENG/UK | Warfare*",
     "addr": "51.89.192.209",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718172474
   },
   {
     "name": "[250H] Hell Let Loose",
