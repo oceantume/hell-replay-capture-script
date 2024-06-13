@@ -663,7 +663,8 @@
   {
     "name": "[ESP] MALDITOS BASTARDOS | SERVER ESPAÑOL",
     "addr": "176.57.178.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1718238271
   },
   {
     "name": "HLL Official - UK #01",
@@ -1707,7 +1708,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2264,12 +2265,6 @@
     "port": 7792
   },
   {
-    "name": "-TL- The Line | EAST | Discord.gg/TheLine",
-    "addr": "92.118.18.58",
-    "port": 7797,
-    "removed": 1717633437
-  },
-  {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
@@ -2293,7 +2288,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1718238271
   },
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
