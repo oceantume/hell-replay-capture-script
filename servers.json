@@ -1526,12 +1526,6 @@
     "port": 7777
   },
   {
-    "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
-    "addr": "216.219.90.102",
-    "port": 7777,
-    "removed": 1717678572
-  },
-  {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
     "addr": "216.219.93.37",
     "port": 7777
@@ -1697,7 +1691,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2216,7 +2210,8 @@
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1718284088
   },
   {
     "name": "42e Dev Division",
@@ -2302,7 +2297,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718283367
+    "port": 13000
   }
 ]
