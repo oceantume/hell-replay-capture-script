@@ -1242,7 +1242,7 @@
     "port": 8898
   },
   {
-    "name": "1 <人散社区>丨炎炎夏日生椰拿铁丨Q群702502503",
+    "name": "1 <散入社区>丨炎炎夏日生椰拿铁丨Q群702502503",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1267,7 +1267,7 @@
     "port": 8948
   },
   {
-    "name": "2 <人散社区>丨炎炎夏日攻防战争丨Q群702502503",
+    "name": "2 <散入社区>丨炎炎夏日攻防战争丨Q群702502503",
     "addr": "202.165.70.91",
     "port": 8958
   },
@@ -1691,7 +1691,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2132,6 +2132,11 @@
     "port": 28100
   },
   {
+    "name": "New Players Welcomed",
+    "addr": "83.223.207.46",
+    "port": 28300
+  },
+  {
     "name": "5By5  - HLL (US Mid) Server = Drinks, Guns & Violence!",
     "addr": "83.223.207.46",
     "port": 28400
@@ -2165,12 +2170,6 @@
     "name": "Qonzer Testing",
     "addr": "85.208.197.66",
     "port": 7797
-  },
-  {
-    "name": "Hookway's Server 0",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1717697225
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2210,8 +2209,7 @@
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1718284088
+    "port": 7777
   },
   {
     "name": "42e Dev Division",
