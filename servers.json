@@ -945,7 +945,8 @@
   {
     "name": "BurkeBlack's Charity Event",
     "addr": "192.169.93.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718239735
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -2288,8 +2289,7 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1718238271
+    "port": 7797
   },
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
