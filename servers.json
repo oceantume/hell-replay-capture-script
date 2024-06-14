@@ -35,6 +35,11 @@
     "port": 9075
   },
   {
+    "name": "HLL Server",
+    "addr": "108.181.213.40",
+    "port": 27000
+  },
+  {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
     "addr": "135.125.188.111",
     "port": 8530
