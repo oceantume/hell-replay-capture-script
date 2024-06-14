@@ -1138,6 +1138,11 @@
     "port": 20700
   },
   {
+    "name": "HLL Server",
+    "addr": "198.133.237.24",
+    "port": 10256
+  },
+  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
