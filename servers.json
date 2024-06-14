@@ -873,7 +873,8 @@
   {
     "name": "GARRYBUSTERS INC | US WEST | discord.gg/garrybusters",
     "addr": "192.169.85.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1718370499
   },
   {
     "name": "=7Cav= Tactical Realism US EAST | New players Welcome",
@@ -898,7 +899,8 @@
   {
     "name": "[US WEST] 19th Engineer Battalion -discord.gg/19theb -MAP-VOTE",
     "addr": "192.169.87.42",
-    "port": 9620
+    "port": 9620,
+    "removed": 1718370499
   },
   {
     "name": " [US EAST] NPA.GG :: DIXX PIXX :: TEAMDIXX RECRUITING",
@@ -2303,7 +2305,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718369778
+    "port": 13000
   }
 ]
