@@ -11,7 +11,7 @@
     "port": 9620
   },
   {
-    "name": "INFT Battleground | Votemap | New Players Welcome",
+    "name": "AA US West Noobie Battleground",
     "addr": "104.238.222.122",
     "port": 7777
   },
@@ -299,12 +299,18 @@
   {
     "name": "The A-Team's Event Server ★  discord.gg/a-team",
     "addr": "176.57.140.181",
-    "port": 30400
+    "port": 30400,
+    "removed": 1718388487
   },
   {
     "name": "HTD - HaiiTed Event Server",
     "addr": "176.57.140.181",
     "port": 30700
+  },
+  {
+    "name": "Unholy test",
+    "addr": "176.57.140.83",
+    "port": 28000
   },
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
@@ -766,7 +772,8 @@
   {
     "name": "Digital Asylum Gaming-New Players Welcome-US EAST",
     "addr": "185.150.190.105",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718388487
   },
   {
     "name": "[IG] Ironclad Guardians | ENG | discord.gg/2wnrsepkGP | HLL-01",
@@ -825,7 +832,7 @@
     "port": 9075
   },
   {
-    "name": "Chad Stuart's Flare Gun Friends — discord.gg/chadfgf",
+    "name": "σ Chads vs. ALL WHO DARE — discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -873,8 +880,7 @@
   {
     "name": "GARRYBUSTERS INC | US WEST | discord.gg/garrybusters",
     "addr": "192.169.85.2",
-    "port": 9620,
-    "removed": 1718370499
+    "port": 9620
   },
   {
     "name": "=7Cav= Tactical Realism US EAST | New players Welcome",
@@ -899,8 +905,7 @@
   {
     "name": "[US WEST] 19th Engineer Battalion -discord.gg/19theb -MAP-VOTE",
     "addr": "192.169.87.42",
-    "port": 9620,
-    "removed": 1718370499
+    "port": 9620
   },
   {
     "name": " [US EAST] NPA.GG :: DIXX PIXX :: TEAMDIXX RECRUITING",
@@ -1125,7 +1130,7 @@
     "port": 8530
   },
   {
-    "name": "POWERBITS GAMETEAM EVENTS | LOW PING | PBSGAMETEAM.COM",
+    "name": "PBS WEEKLY FIGHT NIGHT | LOW PING | PBSGAMETEAM.COM",
     "addr": "193.70.81.145",
     "port": 9075
   },
@@ -1342,6 +1347,11 @@
     "port": 9028
   },
   {
+    "name": "wuhu",
+    "addr": "202.165.70.93",
+    "port": 9048
+  },
+  {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "202.165.70.93",
     "port": 9058
@@ -1364,7 +1374,8 @@
   {
     "name": "JWH周常赛服 | 节点：JP",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1718388487
   },
   {
     "name": "<CN1>D服死妈 〔SFB] 老逼登窝Q:882377564",
@@ -1701,7 +1712,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1812,7 +1823,7 @@
     "port": 9620
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
+    "name": "GREYHOUND EVENT #1 oder so",
     "addr": "54.36.108.21",
     "port": 8530
   },
@@ -1944,7 +1955,8 @@
   {
     "name": "HLL Official Skirmish - Asia #01",
     "addr": "83.223.197.90",
-    "port": 28100
+    "port": 28100,
+    "removed": 1718388487
   },
   {
     "name": "HLL Official - Asia #10",
