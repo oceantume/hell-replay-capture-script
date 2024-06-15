@@ -41,6 +41,11 @@
     "port": 8948
   },
   {
+    "name": "HLL Server",
+    "addr": "103.62.49.42",
+    "port": 8958
+  },
+  {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "104.194.9.8",
     "port": 9620
@@ -381,8 +386,7 @@
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1718454293
+    "port": 28000
   },
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
@@ -1423,7 +1427,8 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.103",
-    "port": 8898
+    "port": 8898,
+    "removed": 1718455308
   },
   {
     "name": "HLL Server",
