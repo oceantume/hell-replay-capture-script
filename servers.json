@@ -208,7 +208,8 @@
   {
     "name": "[13SNC] #1 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "145.239.5.101",
-    "port": 9620
+    "port": 9620,
+    "removed": 1718456049
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
@@ -1422,7 +1423,8 @@
   {
     "name": "KZTI    6月15日周赛服",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1718456049
   },
   {
     "name": "HLL Server",
@@ -1891,7 +1893,7 @@
     "port": 9720
   },
   {
-    "name": "Blood, Sweat & Beers | D-Day | Omaha Beach + Utah 24/7",
+    "name": "Blood, Sweat & Beers #2 | Free Weekend Friendly ",
     "addr": "54.36.60.213",
     "port": 8530
   },
@@ -2367,6 +2369,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1718456049
   }
 ]
