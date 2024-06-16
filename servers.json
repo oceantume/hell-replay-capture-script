@@ -970,17 +970,20 @@
   {
     "name": "The Orange Bowl",
     "addr": "192.169.89.26",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718562042
   },
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
     "addr": "192.169.89.26",
-    "port": 9075
+    "port": 9075,
+    "removed": 1718562042
   },
   {
     "name": "[ESPAÑOL] Latinoamerica - ]|Los 7 Demonios|[",
     "addr": "192.169.89.26",
-    "port": 9620
+    "port": 9620,
+    "removed": 1718562042
   },
   {
     "name": "10th Mountain Division (US Central) : discord.gg/10thMD",
