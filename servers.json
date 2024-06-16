@@ -1188,7 +1188,8 @@
   {
     "name": "HLL_Nitratest",
     "addr": "195.82.158.22",
-    "port": 20700
+    "port": 20700,
+    "removed": 1718542424
   },
   {
     "name": "HLL Server",
@@ -2359,6 +2360,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1718542424
   }
 ]
