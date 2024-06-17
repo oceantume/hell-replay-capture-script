@@ -2115,10 +2115,9 @@
     "port": 28300
   },
   {
-    "name": "The Clown Effect HLL Server [CLWN] US East",
+    "name": "Clown Effect HLL Server [CLWN] US East",
     "addr": "83.223.203.201",
-    "port": 28000,
-    "removed": 1718629020
+    "port": 28000
   },
   {
     "name": "Gear   ---- Warfare Only  --- ",
@@ -2370,7 +2369,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718629020
+    "port": 13000
   }
 ]
