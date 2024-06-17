@@ -46,6 +46,11 @@
   },
   {
     "name": "HLL Server",
+    "addr": "103.62.49.45",
+    "port": 8888
+  },
+  {
+    "name": "HLL Server",
     "addr": "103.62.49.46",
     "port": 8888
   },
@@ -807,8 +812,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1718518034
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -849,7 +853,7 @@
     "port": 7782
   },
   {
-    "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip - discord.gold",
+    "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip  www.recruta.me",
     "addr": "189.1.170.137",
     "port": 7807
   },
@@ -993,8 +997,7 @@
   {
     "name": "[ESPAÑOL] Latinoamerica - ]|Los 7 Demonios|[",
     "addr": "192.169.89.26",
-    "port": 9620,
-    "removed": 1718562042
+    "port": 9620
   },
   {
     "name": "10th Mountain Division (US Central) : discord.gg/10thMD",
@@ -1031,12 +1034,6 @@
     "name": "Three Ring Circus [NA East] Event Server",
     "addr": "192.169.95.10",
     "port": 9620
-  },
-  {
-    "name": "[NA] AlbionNET | 24/7 Foy Day & Night Rotations ",
-    "addr": "192.169.95.146",
-    "port": 8530,
-    "removed": 1717999700
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1322,7 +1319,8 @@
   {
     "name": "CN1<JWH>九尾狐战队长期招新带新 青训群346329133",
     "addr": "202.165.70.91",
-    "port": 8898
+    "port": 8898,
+    "removed": 1718604509
   },
   {
     "name": "1 <散入社区>丨炎炎夏日生椰拿铁丨Q群702502503",
@@ -1923,12 +1921,12 @@
     "port": 8530
   },
   {
-    "name": "1-505TH PIR | DELTA CO | PUBLIC - NAE | DISCORD.GG/505PIR |",
+    "name": "1-505TH PIR | LEVEL 50+ | NAE | DISCORD.GG/505PIR |",
     "addr": "74.63.236.194",
     "port": 9075
   },
   {
-    "name": "1-505TH PIR | ALPHA CO | PUBLIC - NAE | DISCORD.GG/505PIR |",
+    "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE | DISCORD.GG/505PIR |",
     "addr": "74.63.236.194",
     "port": 9620
   },
