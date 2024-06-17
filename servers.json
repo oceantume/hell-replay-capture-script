@@ -157,8 +157,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1718607876
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -956,7 +955,8 @@
   {
     "name": "XIII Legion - Eagle (US East)",
     "addr": "192.169.86.66",
-    "port": 8772
+    "port": 8772,
+    "removed": 1718626192
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1323,7 +1323,7 @@
     "port": 8898
   },
   {
-    "name": "1 <散入社区>丨702502503",
+    "name": "1 <sanren社区>丨702502503",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1352,7 +1352,7 @@
     "removed": 1718453349
   },
   {
-    "name": "2 <散入社区>丨702502503",
+    "name": "2 <sanren社区>丨702502503",
     "addr": "202.165.70.91",
     "port": 8958
   },
@@ -2360,7 +2360,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "92.118.19.60",
-    "port": 7797
+    "port": 7797,
+    "removed": 1718626192
   },
   {
     "name": "『V』- Vanguarda - discord.gg/vanguarda - Aliste-se",
