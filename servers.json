@@ -430,7 +430,8 @@
   {
     "name": "Robs Hellscape| Join Discord https://discord.gg/robs-hellscape ",
     "addr": "176.57.165.7",
-    "port": 29400
+    "port": 29400,
+    "removed": 1718583974
   },
   {
     "name": "HLL Official - Europe #05",
@@ -871,6 +872,11 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | Discord.gg/vanguarda",
     "addr": "189.1.173.122",
     "port": 8908
+  },
+  {
+    "name": "Comunidad Latam Frente Latino",
+    "addr": "189.1.173.122",
+    "port": 8918
   },
   {
     "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
@@ -1796,7 +1802,7 @@
     "port": 9256
   },
   {
-    "name": "NEW PLAYER SEVER >> WE ARE RECRUITING << PLEASE JOIN",
+    "name": "WTH Training Server",
     "addr": "51.75.147.215",
     "port": 8530
   },
