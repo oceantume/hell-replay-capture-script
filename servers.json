@@ -46,13 +46,19 @@
   },
   {
     "name": "HLL Server",
+    "addr": "103.62.49.43",
+    "port": 8888
+  },
+  {
+    "name": "HLL Server",
     "addr": "103.62.49.45",
     "port": 8888
   },
   {
     "name": "HLL Server",
     "addr": "103.62.49.46",
-    "port": 8888
+    "port": 8888,
+    "removed": 1718670309
   },
   {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
@@ -854,7 +860,7 @@
     "port": 7782
   },
   {
-    "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip  www.recruta.me",
+    "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip/recruta.me",
     "addr": "189.1.170.137",
     "port": 7807
   },
@@ -992,8 +998,7 @@
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
     "addr": "192.169.89.26",
-    "port": 9075,
-    "removed": 1718562042
+    "port": 9075
   },
   {
     "name": "[ESPAÑOL] Latinoamerica - ]|Los 7 Demonios|[",
@@ -1325,8 +1330,7 @@
   {
     "name": "1 <sanren社区>丨702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1718650836
+    "port": 8908
   },
   {
     "name": "CN2<JWH SC>九尾狐 天幕青训考核服",
@@ -1766,7 +1770,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
