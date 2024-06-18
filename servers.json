@@ -51,8 +51,18 @@
   },
   {
     "name": "HLL Server",
+    "addr": "103.62.49.43",
+    "port": 8898
+  },
+  {
+    "name": "HLL Server",
     "addr": "103.62.49.45",
     "port": 8888
+  },
+  {
+    "name": "HLL Server",
+    "addr": "103.62.49.45",
+    "port": 8898
   },
   {
     "name": "HLL Server",
@@ -2363,7 +2373,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1718690900
+    "port": 13000
   }
 ]
