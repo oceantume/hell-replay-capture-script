@@ -7,7 +7,8 @@
   {
     "name": "P.K.K.[PUMA]小双の新人快楽服q746699634",
     "addr": "103.62.49.42",
-    "port": 8888
+    "port": 8888,
+    "removed": 1718798983
   },
   {
     "name": "琳依的南梁女仆饭店（萌新友好） QQ群：245578354",
@@ -15,7 +16,7 @@
     "port": 8898
   },
   {
-    "name": "CN刷兵种上淘宝找人间地狱工作室",
+    "name": "<CN>JP满天星辰萌新欢乐营 (攻防服)q群1214026929",
     "addr": "103.62.49.42",
     "port": 8908
   },
@@ -70,7 +71,8 @@
   {
     "name": "HLL Server",
     "addr": "103.62.49.45",
-    "port": 8898
+    "port": 8898,
+    "removed": 1718798983
   },
   {
     "name": "HLL Server",
@@ -154,7 +156,7 @@
     "port": 9224
   },
   {
-    "name": "ITN Sunday Pub",
+    "name": "CN Infiltration CHINA KETONE CLUB 德国节点 ",
     "addr": "136.243.70.117",
     "port": 7777
   },
@@ -242,12 +244,6 @@
     "name": "[13SNC] #1 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "145.239.5.101",
     "port": 9620
-  },
-  {
-    "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
-    "addr": "148.251.54.154",
-    "port": 8530,
-    "removed": 1718194172
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
@@ -416,8 +412,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1718778886
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -501,6 +496,11 @@
     "port": 28100
   },
   {
+    "name": "test Melixs",
+    "addr": "176.57.168.178",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.178",
     "port": 28400
@@ -534,6 +534,11 @@
     "name": "HLL Official - Europe #12",
     "addr": "176.57.168.189",
     "port": 28200
+  },
+  {
+    "name": "Internal Test FCTOOE.99",
+    "addr": "176.57.168.189",
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -1075,8 +1080,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1718780568
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds",
@@ -1199,7 +1203,7 @@
     "port": 9075
   },
   {
-    "name": "[FR | LvL] Les Vieux Loups - FR ONLY - ***********teamlvl",
+    "name": "[FR | LvL] Les Vieux Loups - FR ONLY - discord.gg/teamlvl",
     "addr": "193.70.122.179",
     "port": 9620
   },
@@ -1315,32 +1319,27 @@
   {
     "name": "CN「Netr」雾队社区服 低延港服 Q群248751765",
     "addr": "202.165.70.15",
-    "port": 8888,
-    "removed": 1718778170
+    "port": 8888
   },
   {
     "name": "<JWH>Dxfsqj 鸣人事务所萌新欢乐冲突营群：682534524",
     "addr": "202.165.70.15",
-    "port": 8898,
-    "removed": 1718778886
+    "port": 8898
   },
   {
     "name": "<JS>Dwfsqj 佐助轰趴馆燃冷门地图体验群：682534524",
     "addr": "202.165.70.15",
-    "port": 8908,
-    "removed": 1718778170
+    "port": 8908
   },
   {
     "name": "CN1<JWH>九尾狐战队长期招新带新 青训群346329133",
     "addr": "202.165.70.91",
-    "port": 8898,
-    "removed": 1718778170
+    "port": 8898
   },
   {
-    "name": "1 <sanren社区>丨萌新欢乐夏日热战丨702502503",
+    "name": "1 <sr社区>702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1718778170
+    "port": 8908
   },
   {
     "name": "CN2<JWH SC>九尾狐 天幕青训考核服",
@@ -1369,8 +1368,7 @@
   {
     "name": "2 <sanren社区>丨极限欢乐夏日攻防丨702502503",
     "addr": "202.165.70.91",
-    "port": 8958,
-    "removed": 1718778170
+    "port": 8958
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1472,12 +1470,14 @@
   {
     "name": "CN1<萌新之家> 攻防服 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908
+    "port": 8908,
+    "removed": 1718798983
   },
   {
     "name": "CN2<萌新之家>攻防服 冷门地图体验 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1718798983
   },
   {
     "name": "〈2〉〔FB] 新逼登窝Q:882377564",
@@ -1693,13 +1693,13 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1718798983
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1718778886
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -1784,7 +1784,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
