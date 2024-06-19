@@ -776,7 +776,8 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1718758148
   },
   {
     "name": "HLL Official - UK #02",
@@ -1693,7 +1694,8 @@
   {
     "name": "Internal_Team17",
     "addr": "38.242.238.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1718758148
   },
   {
     "name": "HLL Official - Japan #03",
@@ -2075,7 +2077,8 @@
   {
     "name": "Black Matter Testing Server",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1718758148
   },
   {
     "name": "HLL Official - US East #07",
