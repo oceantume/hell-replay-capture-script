@@ -81,6 +81,11 @@
     "removed": 1718670309
   },
   {
+    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
+    "addr": "103.62.51.134",
+    "port": 8888
+  },
+  {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "104.194.9.8",
     "port": 9620
@@ -156,7 +161,7 @@
     "port": 9224
   },
   {
-    "name": "CN Infiltration CHINA KETONE CLUB 德国节点 ",
+    "name": "流浪地球计划 IR战队驻德国法兰克福领事馆 ",
     "addr": "136.243.70.117",
     "port": 7777
   },
@@ -183,8 +188,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1718866965
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -616,7 +620,7 @@
     "port": 28100
   },
   {
-    "name": "Kng Eggo's Wonderland [GER]",
+    "name": "King Eggo's Wonderland [GER]",
     "addr": "176.57.168.4",
     "port": 28200
   },
@@ -641,7 +645,7 @@
     "port": 28400
   },
   {
-    "name": "[FR] La Tempête d'Acier  https://discord.gg/ksnseuJXnE ",
+    "name": "[FR] La Tempête d'Acier  https://discord.gg/HeTw54ey7v ",
     "addr": "176.57.168.91",
     "port": 28000
   },
@@ -1334,7 +1338,7 @@
     "port": 8898
   },
   {
-    "name": "1 <sr社区>702502503",
+    "name": "1 |new player 社区|welcome",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1628,7 +1632,8 @@
   {
     "name": "[BB] Bella's Battleground | discord.gg/bellasbattleground",
     "addr": "216.219.93.37",
-    "port": 7827
+    "port": 7827,
+    "removed": 1718885392
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1857,12 +1862,6 @@
     "port": 9224
   },
   {
-    "name": "TBM ASIA#1 | Newbie Warzone | Let's Learn Together",
-    "addr": "51.79.149.80",
-    "port": 7777,
-    "removed": 1718280579
-  },
-  {
     "name": "Canadian Dominion Armed Forces [NA EAST] discord.gg/cdafteam",
     "addr": "51.79.98.216",
     "port": 9620
@@ -1895,8 +1894,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1718866965
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
