@@ -1151,7 +1151,8 @@
   {
     "name": "HLL Official - US West - QA Testing #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1718866354
   },
   {
     "name": "HLL Official - US West #05",
@@ -1692,8 +1693,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1718865804
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
