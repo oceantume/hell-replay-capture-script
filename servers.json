@@ -183,7 +183,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1718866965
   },
   {
     "name": "SLB #1",
@@ -1151,8 +1152,7 @@
   {
     "name": "HLL Official - US West - QA Testing #06",
     "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1718866354
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #05",
@@ -1895,7 +1895,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1718866965
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
