@@ -5,7 +5,7 @@
     "port": 7777
   },
   {
-    "name": "<TT>JP#4TT天堂萌新200级以上老玩家禁入公众号：TT",
+    "name": "<TT>JP#4TT天堂萌新200级上玩家禁入公众号：TT天堂",
     "addr": "103.62.49.42",
     "port": 8888
   },
@@ -1698,8 +1698,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1718973736
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -2388,6 +2387,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1718974503
   }
 ]
