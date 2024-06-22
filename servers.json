@@ -74,10 +74,9 @@
     "removed": 1718798983
   },
   {
-    "name": "HLL Server",
+    "name": "测试",
     "addr": "103.62.49.46",
-    "port": 8888,
-    "removed": 1718670309
+    "port": 8888
   },
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
@@ -605,7 +604,8 @@
   {
     "name": " GER+MIC (LIP) Schlachtfeldschmiede -Gefecht - Skirmish only-",
     "addr": "176.57.168.4",
-    "port": 28000
+    "port": 28000,
+    "removed": 1719058095
   },
   {
     "name": "[PKKA] Event Server",
@@ -774,7 +774,7 @@
     "port": 28300
   },
   {
-    "name": "[ESP] MALDITOS BASTARDOS | SERVIDOR ESPAÑOL [GRABACIONES ACTIV",
+    "name": "[ESP] MALDITOS BASTARDOS | SERVIDOR ESPAÑOL [ADRIPI]",
     "addr": "176.57.178.127",
     "port": 28000
   },
@@ -977,7 +977,8 @@
   {
     "name": "XIII Legion - Eagle (US East)",
     "addr": "192.169.86.66",
-    "port": 8772
+    "port": 8772,
+    "removed": 1719058095
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1326,7 +1327,7 @@
     "port": 8898
   },
   {
-    "name": "1 |new player 社区|welcome",
+    "name": "①|new player 社区服务器|welcome",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1442,7 +1443,8 @@
   {
     "name": "<JS>带土幻想时间萌新小图快速上手遭遇战|US|",
     "addr": "203.10.96.196",
-    "port": 8908
+    "port": 8908,
+    "removed": 1719058095
   },
   {
     "name": "KZTI    6月15日周赛服",
@@ -1464,8 +1466,7 @@
   {
     "name": "CN2<萌新之家>攻防服 冷门地图体验 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918,
-    "removed": 1719039643
+    "port": 8918
   },
   {
     "name": "〈2〉〔FB] 新逼登窝Q:882377564",
@@ -1475,7 +1476,8 @@
   {
     "name": "〈1〉〔FB] 老逼登窝Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938
+    "port": 8938,
+    "removed": 1719058095
   },
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
@@ -1485,32 +1487,27 @@
   {
     "name": "CN #2 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8898,
-    "removed": 1719039643
+    "port": 8898
   },
   {
     "name": "CN #3 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8908,
-    "removed": 1719039643
+    "port": 8908
   },
   {
     "name": " Spring Seasonal 2024 | SLK vs 82AD",
     "addr": "203.10.98.49",
-    "port": 8918,
-    "removed": 1719039643
+    "port": 8918
   },
   {
     "name": "CN #5 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8928,
-    "removed": 1719039643
+    "port": 8928
   },
   {
     "name": "CN #6 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
     "addr": "203.10.98.49",
-    "port": 8938,
-    "removed": 1719039643
+    "port": 8938
   },
   {
     "name": "CN #7 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
@@ -1811,7 +1808,7 @@
     "port": 9256
   },
   {
-    "name": "TL vs they never told me who they're playing",
+    "name": "WTH Training Server",
     "addr": "51.75.147.215",
     "port": 8530
   },
@@ -1893,7 +1890,8 @@
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
     "addr": "54.36.126.47",
-    "port": 8530
+    "port": 8530,
+    "removed": 1719058095
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
