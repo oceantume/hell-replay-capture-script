@@ -308,8 +308,7 @@
   {
     "name": "Chimera | US West | Comp and Training | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 8530,
-    "removed": 1719146473
+    "port": 8530
   },
   {
     "name": "Chimera | US West | Mav's box | discord.gg/CHMA",
@@ -2051,6 +2050,11 @@
     "name": "[Merc] #3 US EAST D.C Discord.gg/m3rc",
     "addr": "83.223.204.129",
     "port": 28000
+  },
+  {
+    "name": "brawl hosted by war of rights",
+    "addr": "83.223.204.129",
+    "port": 28100
   },
   {
     "name": "BIG  BROTHER RULES  ALL PLAYERS WELCOME ",
