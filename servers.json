@@ -308,7 +308,8 @@
   {
     "name": "Chimera | US West | Comp and Training | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1719146473
   },
   {
     "name": "Chimera | US West | Mav's box | discord.gg/CHMA",
@@ -318,8 +319,7 @@
   {
     "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 9620,
-    "removed": 1719144547
+    "port": 9620
   },
   {
     "name": "#3 EXD.gg » Frontline Fury | Discord.exd.gg",
