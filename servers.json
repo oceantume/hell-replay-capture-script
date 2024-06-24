@@ -751,7 +751,8 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT EVENT-SERVER",
     "addr": "176.57.173.119",
-    "port": 28100
+    "port": 28100,
+    "removed": 1719192390
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 4  | JACK RABBIT´S | OFFENSIVE  ONLY",
@@ -1790,6 +1791,11 @@
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
     "addr": "54.36.126.47",
     "port": 8530
+  },
+  {
+    "name": "HLL test server - do not use",
+    "addr": "54.36.126.47",
+    "port": 9075
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
