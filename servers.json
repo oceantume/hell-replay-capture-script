@@ -21,7 +21,7 @@
     "removed": 1719144547
   },
   {
-    "name": "<CN>萌新老六集中营（地图随机）服主q：2164947615",
+    "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "103.62.49.42",
     "port": 8918
   },
@@ -115,7 +115,7 @@
     "port": 8530
   },
   {
-    "name": "=7Cav= Tactical Realism US West - Historical Map Rotation",
+    "name": "=7Cav= Tactical Realism | US WEST | New players Welcome",
     "addr": "104.255.170.181",
     "port": 9075
   },
@@ -193,8 +193,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1719212688
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -661,8 +660,7 @@
   {
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
     "addr": "176.57.171.140",
-    "port": 28000,
-    "removed": 1719209294
+    "port": 28000
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 2 | RAWBYNE`s | OINK",
@@ -734,8 +732,7 @@
   {
     "name": "[GER] Λ • TAURUS | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1719209294
+    "port": 28000
   },
   {
     "name": "THE INTERNATIONAL SKIRMISH",
@@ -761,6 +758,16 @@
   {
     "name": "    [ GER ] KAMPFSCHWEINE 4  | JACK RABBIT´S | OFFENSIVE  ONLY",
     "addr": "176.57.173.119",
+    "port": 28200
+  },
+  {
+    "name": "HLL Dev Team 3",
+    "addr": "176.57.174.129",
+    "port": 28000
+  },
+  {
+    "name": "HLL Dev Team 2",
+    "addr": "176.57.174.129",
     "port": 28200
   },
   {
@@ -847,7 +854,8 @@
   {
     "name": "Internal Test WinStore Only",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1719231002
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -966,7 +974,7 @@
     "port": 9620
   },
   {
-    "name": "=7Cav= Tactical Realism US EAST - Historical Map Rotation",
+    "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
     "port": 9014
   },
@@ -1144,7 +1152,8 @@
   {
     "name": "HLL Official - US West - QA Testing #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1719231002
   },
   {
     "name": "HLL Official - US West #05",
@@ -1789,8 +1798,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1719212688
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
