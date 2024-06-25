@@ -56,12 +56,6 @@
     "port": 8978
   },
   {
-    "name": "P.K.K.[PUMA]小双の新人快楽服q746699634",
-    "addr": "103.62.49.43",
-    "port": 8898,
-    "removed": 1718712572
-  },
-  {
     "name": "HLL Server",
     "addr": "103.62.49.45",
     "port": 8898,
@@ -783,7 +777,8 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1719318338
   },
   {
     "name": "HLL Official - UK #02",
@@ -1962,7 +1957,8 @@
   {
     "name": "Black Matter Testing Server",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1719318338
   },
   {
     "name": "HLL Official - US East #07",
