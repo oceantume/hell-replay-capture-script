@@ -684,8 +684,7 @@
   {
     "name": "Borry44's Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1719188764
+    "port": 28000
   },
   {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
@@ -783,7 +782,8 @@
   {
     "name": "[ESP] MALDITOS BASTARDOS | SERVIDOR ESPAÑOL [ADRIPI]",
     "addr": "176.57.178.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1719275061
   },
   {
     "name": "HLL Official - UK #01",
@@ -852,6 +852,11 @@
     "removed": 1719231002
   },
   {
+    "name": "HLL BRASIL | SOFRE AMERICA 50+ | HLLBRASIL.COM",
+    "addr": "177.54.147.141",
+    "port": 7777
+  },
+  {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
     "port": 8530
@@ -887,7 +892,7 @@
     "port": 7827
   },
   {
-    "name": "HLL BRASIL | SOFRE AMERICA | hllbrasil.com",
+    "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "189.1.173.122",
     "port": 8888
   },
@@ -1679,7 +1684,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1982,8 +1987,7 @@
   {
     "name": "Black Matter Testing Server",
     "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1719252443
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #07",
