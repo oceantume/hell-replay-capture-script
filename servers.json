@@ -1957,8 +1957,7 @@
   {
     "name": "Black Matter Testing Server",
     "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1719318338
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #07",
@@ -2138,6 +2137,11 @@
     "addr": "85.208.197.66",
     "port": 7797,
     "removed": 1719144547
+  },
+  {
+    "name": "Hookway's Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
