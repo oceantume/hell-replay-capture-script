@@ -58,20 +58,8 @@
   {
     "name": "P.K.K.[PUMA]小双の新人快楽服q746699634",
     "addr": "103.62.49.43",
-    "port": 8888,
-    "removed": 1718692485
-  },
-  {
-    "name": "P.K.K.[PUMA]小双の新人快楽服q746699634",
-    "addr": "103.62.49.43",
     "port": 8898,
     "removed": 1718712572
-  },
-  {
-    "name": "HLL Server",
-    "addr": "103.62.49.45",
-    "port": 8888,
-    "removed": 1718692485
   },
   {
     "name": "HLL Server",
@@ -1698,7 +1686,8 @@
   {
     "name": "2nd Armored - UK/EU | discord.gg/2ad",
     "addr": "51.68.207.116",
-    "port": 9075
+    "port": 9075,
+    "removed": 1719297295
   },
   {
     "name": "[PL/ENG] POLSKA STAJNIA | Low Ping, Votemap, All Maps",
