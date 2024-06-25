@@ -749,7 +749,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -777,8 +777,7 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1719318338
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1709,7 +1708,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUNDEVENT #1",
+    "name": "SLB #3",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1759,7 +1758,7 @@
     "port": 9620
   },
   {
-    "name": "GREYHOUNDNIGHT - Blue | discord.gg/greyhounds",
+    "name": "SLB #2",
     "addr": "54.36.108.21",
     "port": 8530
   },
