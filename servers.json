@@ -2141,7 +2141,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1719320162
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2273,6 +2274,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1719320162
   }
 ]
