@@ -140,12 +140,14 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1719382087
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1719382087
   },
   {
     "name": "流浪地球计划 IR战队驻德国法兰克福领事馆 ",
@@ -749,7 +751,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -1255,7 +1257,7 @@
     "removed": 1719252443
   },
   {
-    "name": "①|new player 社区服务器|welcome",
+    "name": "1 <散人社区>丨极限欢乐夏日战争丨702502503",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1652,7 +1654,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1715,7 +1717,8 @@
   {
     "name": "[UK] UK Let Loose | New Players Welcome | New Maps",
     "addr": "51.77.116.10",
-    "port": 9620
+    "port": 9620,
+    "removed": 1719382087
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1733,7 +1736,7 @@
     "port": 9224
   },
   {
-    "name": "QC Nation ~xXx~ | CAN EAST | EN/FR | LVL 50+",
+    "name": "QC Nation ~xXx~ | CAN EAST | EN/FR",
     "addr": "51.79.98.216",
     "port": 9620
   },
