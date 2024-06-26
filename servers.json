@@ -56,12 +56,6 @@
     "port": 8978
   },
   {
-    "name": "HLL Server",
-    "addr": "103.62.49.45",
-    "port": 8898,
-    "removed": 1718798983
-  },
-  {
     "name": "测试",
     "addr": "103.62.49.46",
     "port": 8888
@@ -175,8 +169,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1719385478
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -1653,7 +1646,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1812,8 +1805,7 @@
   {
     "name": "1-505TH PIR | LEVEL 50+ | NAE | DISCORD.GG/505PIR |",
     "addr": "74.63.236.194",
-    "port": 9075,
-    "removed": 1719188764
+    "port": 9075
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE | DISCORD.GG/505PIR |",
@@ -2029,7 +2021,8 @@
   {
     "name": "2nd Infantry Division!(US EAST) https://discord.gg/rwvKeWd6et ",
     "addr": "83.223.204.123",
-    "port": 28100
+    "port": 28100,
+    "removed": 1719403834
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
