@@ -1972,7 +1972,8 @@
   {
     "name": "Black Matter Testing Server",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1719493002
   },
   {
     "name": "HLL Official - US East #07",
@@ -2284,6 +2285,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1719493002
   }
 ]
