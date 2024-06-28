@@ -51,7 +51,7 @@
     "port": 8968
   },
   {
-    "name": "JP萌新友好欢乐营 (攻防服)q群1214026929",
+    "name": "JP萌新友好欢乐营 (攻防服)q群484555616",
     "addr": "103.62.49.42",
     "port": 8978
   },
@@ -572,10 +572,9 @@
     "port": 28300
   },
   {
-    "name": " GER+MIC (LIP) Schlachtfeldschmiede -Gefecht - Skirmish only-",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.4",
-    "port": 28000,
-    "removed": 1719058095
+    "port": 28000
   },
   {
     "name": "[PKKA] Event Server",
@@ -737,13 +736,17 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000,
-    "removed": 1719576566
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
     "port": 28200
+  },
+  {
+    "name": "Tom's Test",
+    "addr": "176.57.174.129",
+    "port": 28300
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -761,10 +764,14 @@
     "port": 28300
   },
   {
-    "name": "[ESP] MALDITOS BASTARDOS | SERVIDOR ESPAÑOL [ADRIPI]",
+    "name": "[ESP] MALDITOS BASTARDOS | SERVER ESPAÑOL [ADRPI]",
     "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1719275061
+    "port": 28000
+  },
+  {
+    "name": "WWII Let Loose - New player friendly -",
+    "addr": "176.57.178.127",
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1380,6 +1387,11 @@
     "port": 8888
   },
   {
+    "name": "〈2〉{FB}新逼登窝 JP节点 Q:882377564",
+    "addr": "203.10.98.41",
+    "port": 8888
+  },
+  {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
     "port": 8908
@@ -1392,7 +1404,8 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.41",
-    "port": 8928
+    "port": 8928,
+    "removed": 1719598016
   },
   {
     "name": "〈1〉{FB}老逼登窝 JP节点 Q:882377564",
@@ -1527,7 +1540,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM.C",
     "addr": "208.115.196.3",
     "port": 7777
   },
