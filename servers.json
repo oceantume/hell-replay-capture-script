@@ -832,7 +832,7 @@
     "removed": 1719231002
   },
   {
-    "name": "HLL BRASIL | SOFRE AMERICA 2 | HLLBRASIL.COM",
+    "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "177.54.147.141",
     "port": 7777
   },
@@ -878,7 +878,7 @@
     "removed": 1719468506
   },
   {
-    "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
+    "name": "HLL BRASIL | SOFRE AMERICA 2 | HLLBRASIL.COM",
     "addr": "189.1.173.122",
     "port": 8888
   },
@@ -1026,8 +1026,7 @@
   {
     "name": "[L9] The Loyal Nine - #1 L9Clan.com/discord",
     "addr": "192.169.92.98",
-    "port": 9075,
-    "removed": 1719537792
+    "port": 9075
   },
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
@@ -1202,7 +1201,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "193.70.81.145",
-    "port": 9075
+    "port": 9075,
+    "removed": 1719554890
   },
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
@@ -1520,17 +1520,17 @@
     "port": 8888
   },
   {
-    "name": "*POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.2",
     "port": 7777
   },
   {
-    "name": "*POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.3",
     "port": 7777
   },
   {
-    "name": "*POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1637,17 +1637,20 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "46.4.97.246",
-    "port": 8740
+    "port": 8740,
+    "removed": 1719554890
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "46.4.97.246",
-    "port": 8982
+    "port": 8982,
+    "removed": 1719554890
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "46.4.97.246",
-    "port": 9224
+    "port": 9224,
+    "removed": 1719554890
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1690,7 +1693,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2177,7 +2180,7 @@
     "removed": 1719144547
   },
   {
-    "name": "*POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
     "port": 7777
   },
