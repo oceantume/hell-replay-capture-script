@@ -5,7 +5,7 @@
     "port": 7777
   },
   {
-    "name": "<TT>JP#4TT天堂萌新200级上玩家禁入公众号：TT天堂",
+    "name": "<CN>JP#4TT天堂萌新200级上玩家禁入公众号：TT天堂",
     "addr": "103.62.49.42",
     "port": 8888
   },
@@ -23,20 +23,17 @@
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "103.62.49.42",
-    "port": 8918,
-    "removed": 1719557612
+    "port": 8918
   },
   {
     "name": "<TT>JP#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "103.62.49.42",
-    "port": 8928,
-    "removed": 1719557612
+    "port": 8928
   },
   {
     "name": "<TT>JP#2 TT天堂萌新俱乐部（纯进攻）q群：578097070",
     "addr": "103.62.49.42",
-    "port": 8938,
-    "removed": 1719557612
+    "port": 8938
   },
   {
     "name": "<TT>JP#3TT天堂社群专属服www.hlltt.site 网站进群",
@@ -51,8 +48,7 @@
   {
     "name": "P.K.K.[PUMA]小双の新人快楽服q746699634",
     "addr": "103.62.49.42",
-    "port": 8968,
-    "removed": 1719558216
+    "port": 8968
   },
   {
     "name": "JP萌新友好欢乐营 (攻防服)q群1214026929",
@@ -174,8 +170,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1719558216
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -185,8 +180,7 @@
   {
     "name": "[13SNC] #2 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "141.95.72.27",
-    "port": 9620,
-    "removed": 1719537792
+    "port": 9620
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -697,7 +691,8 @@
   {
     "name": "[MM] Moser's Molesters",
     "addr": "176.57.171.44",
-    "port": 28100
+    "port": 28100,
+    "removed": 1719576566
   },
   {
     "name": " Fallschirm-Jäger-Regiment  6  [FR]new player welcome.",
@@ -742,7 +737,8 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1719576566
   },
   {
     "name": "HLL Dev Team 2",
@@ -1072,8 +1068,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1719558216
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1385,17 +1380,17 @@
     "port": 8888
   },
   {
-    "name": "CN1<萌新之家> 攻防服 萌新友好 Q群147559947",
+    "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
     "port": 8908
   },
   {
-    "name": "CN2<萌新之家>攻防服 冷门地图体验 Q群147559947",
+    "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
     "addr": "203.10.98.41",
     "port": 8918
   },
   {
-    "name": "〈2〉{FB} 新逼登窝 JP节点 Q:882377564",
+    "name": "HLL Server",
     "addr": "203.10.98.41",
     "port": 8928
   },
@@ -1814,8 +1809,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1719558216
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
