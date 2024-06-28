@@ -668,7 +668,7 @@
     "port": 28300
   },
   {
-    "name": "[FR] Naiikoon Serv",
+    "name": "[FR] Serveur Test (Aucune règle)",
     "addr": "176.57.171.38",
     "port": 28000
   },
@@ -858,8 +858,7 @@
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777,
-    "removed": 1719468506
+    "port": 7777
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -939,7 +938,7 @@
     "port": 9620
   },
   {
-    "name": "Bravo Company | US WEST | FREE VIP |",
+    "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
     "addr": "192.169.85.194",
     "port": 8530
   },
@@ -1689,7 +1688,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2220,12 +2219,6 @@
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
-  },
-  {
-    "name": "42e Dev Division",
-    "addr": "92.118.16.74",
-    "port": 7777,
-    "removed": 1718929442
   },
   {
     "name": "Excel Spreadsheets",
