@@ -2,7 +2,8 @@
   {
     "name": "The BEER [HAUS] 1 |US EAST-FL| discord.gg/beerhaus",
     "addr": "103.195.102.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1719620648
   },
   {
     "name": "<CN>JP#4TT天堂萌新200级上玩家禁入公众号：TT天堂",
@@ -17,7 +18,8 @@
   {
     "name": "JP满天星辰萌新友好欢乐营（纯攻防）q群121402692",
     "addr": "103.62.49.42",
-    "port": 8908
+    "port": 8908,
+    "removed": 1719620648
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
@@ -53,6 +55,11 @@
     "name": "JP萌新友好欢乐营 (攻防服)q群484555616",
     "addr": "103.62.49.42",
     "port": 8978
+  },
+  {
+    "name": "111111",
+    "addr": "103.62.49.42",
+    "port": 8988
   },
   {
     "name": "测试",
@@ -297,6 +304,11 @@
     "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
     "addr": "172.96.160.116",
     "port": 9620
+  },
+  {
+    "name": "The BEER [HAUS] 1 |US EAST-FL| discord.gg/beerhaus",
+    "addr": "172.96.172.104",
+    "port": 7807
   },
   {
     "name": "#3 EXD.gg » Frontline Fury | Discord.exd.gg",
@@ -687,6 +699,11 @@
     "removed": 1719576566
   },
   {
+    "name": "[US-EU]5th Legion # 1 | New Player Friendly | New Server | Engl",
+    "addr": "176.57.171.44",
+    "port": 28200
+  },
+  {
     "name": " Fallschirm-Jäger-Regiment  6  [FR]new player welcome.",
     "addr": "176.57.171.44",
     "port": 28300
@@ -739,7 +756,8 @@
   {
     "name": "Tom's Test",
     "addr": "176.57.174.129",
-    "port": 28300
+    "port": 28300,
+    "removed": 1719620648
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -762,7 +780,7 @@
     "port": 28000
   },
   {
-    "name": "WWII Let Loose - New player friendly -",
+    "name": "[CC] Casual Company - New player friendly",
     "addr": "176.57.178.127",
     "port": 28100
   },
@@ -876,8 +894,7 @@
   {
     "name": "HLL BRASIL <CF> MARRAM #02 - www.hllbr.vip - discord.gold",
     "addr": "189.1.170.137",
-    "port": 7827,
-    "removed": 1719468506
+    "port": 7827
   },
   {
     "name": "HLL BRASIL | SOFRE AMERICA 2 | HLLBRASIL.COM",
@@ -1245,7 +1262,8 @@
   {
     "name": "[BR1] ROAD TO D-DAY CHARITY EVENT - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1719620648
   },
   {
     "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
@@ -1701,7 +1719,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2055,6 +2073,11 @@
   {
     "name": "Clown Effect HLL Server [CLWN] US East",
     "addr": "83.223.203.201",
+    "port": 28000
+  },
+  {
+    "name": "Atlantic Front (East)",
+    "addr": "83.223.203.51",
     "port": 28000
   },
   {
