@@ -314,7 +314,8 @@
   {
     "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 9620
+    "port": 9620,
+    "removed": 1719749352
   },
   {
     "name": "The BEER [HAUS] 1 |US EAST-FL| discord.gg/beerhaus",
@@ -988,7 +989,7 @@
     "port": 8530
   },
   {
-    "name": "GARRYBUSTERS INC | US WEST | discord.gg/garrybusters",
+    "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.2",
     "port": 9620
   },
@@ -1208,6 +1209,11 @@
     "port": 28100
   },
   {
+    "name": "MINI-COMP LVL10+ ACTIVE ADMINS",
+    "addr": "193.192.59.99",
+    "port": 28200
+  },
+  {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
     "addr": "193.70.122.179",
     "port": 8530
@@ -1292,7 +1298,8 @@
   {
     "name": "<JWH>Dxfsqj 鸣人事务所萌新欢乐冲突营群：682534524",
     "addr": "202.165.70.15",
-    "port": 8898
+    "port": 8898,
+    "removed": 1719749352
   },
   {
     "name": "<JS>Dwfsqj 佐助轰趴馆燃情萌新攻防 Q682534524",
@@ -2201,12 +2208,6 @@
     "name": "Just have fun!",
     "addr": "83.223.207.50",
     "port": 28700
-  },
-  {
-    "name": "Qonzer Testing",
-    "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1719144547
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
