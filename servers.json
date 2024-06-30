@@ -74,6 +74,11 @@
     "removed": 1719710999
   },
   {
+    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
+    "addr": "103.62.51.135",
+    "port": 8888
+  },
+  {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "104.194.9.8",
     "port": 9620
@@ -102,6 +107,11 @@
     "name": "=7Cav= Tactical Realism | US WEST | New players Welcome",
     "addr": "104.255.170.181",
     "port": 9075
+  },
+  {
+    "name": "[HSK] | US WEST | Pacific Northwest",
+    "addr": "104.255.170.181",
+    "port": 9620
   },
   {
     "name": "HLL Server",
@@ -1551,8 +1561,14 @@
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "208.115.248.106",
+    "addr": "208.115.206.38",
     "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "208.115.248.106",
+    "port": 7777,
+    "removed": 1719727627
   },
   {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
