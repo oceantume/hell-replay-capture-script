@@ -859,6 +859,11 @@
     "port": 7777
   },
   {
+    "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
+    "addr": "177.54.151.123",
+    "port": 8898
+  },
+  {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
     "port": 8530
@@ -912,7 +917,8 @@
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
     "addr": "189.1.173.122",
-    "port": 8898
+    "port": 8898,
+    "removed": 1719857260
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Discord.gg/vanguarda",
@@ -1050,7 +1056,7 @@
     "port": 9075
   },
   {
-    "name": "The Vale :: US Central",
+    "name": "The Vale | US Central | New Player Friendly",
     "addr": "192.169.93.122",
     "port": 8530
   },
@@ -1295,12 +1301,6 @@
     "name": "<JS>Dwfsqj 佐助轰趴馆燃情萌新攻防 Q682534524",
     "addr": "202.165.70.15",
     "port": 8908
-  },
-  {
-    "name": "CN1<JWH>九尾狐战队长期招新带新 青训群346329133",
-    "addr": "202.165.70.91",
-    "port": 8898,
-    "removed": 1719252443
   },
   {
     "name": "1 <散人社区>丨极限欢乐夏日战争丨702502503",
@@ -1727,7 +1727,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2208,7 +2208,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1719857260
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2224,6 +2225,11 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
+  },
+  {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | JOIN US AT TAW.NET",
