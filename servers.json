@@ -109,7 +109,7 @@
     "port": 9075
   },
   {
-    "name": "[HSK] | US WEST | Pacific Northwest",
+    "name": "HSK | US WEST | Silicon Forest | Test Server",
     "addr": "104.255.170.181",
     "port": 9620
   },
@@ -854,12 +854,6 @@
     "port": 28200
   },
   {
-    "name": "Internal Test WinStore Only",
-    "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1719231002
-  },
-  {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "177.54.147.141",
     "port": 7777
@@ -883,6 +877,11 @@
     "name": "[IG] Ironclad Guardians | ENG | discord.gg/2wnrsepkGP | HLL-01",
     "addr": "185.150.190.105",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -1050,7 +1049,7 @@
     "port": 9075
   },
   {
-    "name": "The Veil :: US Central",
+    "name": "The Vale :: US Central",
     "addr": "192.169.93.122",
     "port": 8530
   },
@@ -2206,10 +2205,9 @@
     "port": 7777
   },
   {
-    "name": "Hookway's Server",
+    "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1719320162
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
