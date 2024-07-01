@@ -114,12 +114,6 @@
     "port": 9620
   },
   {
-    "name": "HLL Server",
-    "addr": "108.181.213.40",
-    "port": 27000,
-    "removed": 1719209294
-  },
-  {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
     "addr": "135.125.188.111",
     "port": 8530
@@ -1257,12 +1251,6 @@
     "port": 20700
   },
   {
-    "name": "HLL Server",
-    "addr": "198.133.237.24",
-    "port": 10256,
-    "removed": 1719209294
-  },
-  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
@@ -1622,7 +1610,8 @@
   {
     "name": "nitrado.net gameserver y1xsKHYt",
     "addr": "37.10.127.2",
-    "port": 20000
+    "port": 20000,
+    "removed": 1719814144
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1738,7 +1727,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
