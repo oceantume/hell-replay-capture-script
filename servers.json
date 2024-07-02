@@ -79,6 +79,11 @@
     "port": 8888
   },
   {
+    "name": "[Merc] [TVB]  #3 Asia 일본|日本 Discord.gg/m3rc",
+    "addr": "103.97.52.177",
+    "port": 30700
+  },
+  {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "104.194.9.8",
     "port": 9620
@@ -818,12 +823,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe - QA Testing #05",
-    "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1719317368
-  },
-  {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
     "port": 28100
@@ -871,7 +870,8 @@
   {
     "name": "[Merc] #3 |Japan| 일본|日本  Discord.gg/m3rc",
     "addr": "178.212.33.28",
-    "port": 28900
+    "port": 28900,
+    "removed": 1719922201
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -1091,7 +1091,7 @@
     "port": 8530
   },
   {
-    "name": "- Goober Battlefield - [ US EAST ] - discord.gg/YkT3wyA9rZ",
+    "name": "WALZNO'S NIGHTMARE - [ US EAST ] - discord.gg/YkT3wyA9rZ",
     "addr": "192.169.95.2",
     "port": 9075
   },
@@ -1314,7 +1314,7 @@
     "removed": 1719749352
   },
   {
-    "name": "<JS>Dwfsqj 佐助轰趴馆燃情萌新攻防 Q682534524",
+    "name": "hell",
     "addr": "202.165.70.15",
     "port": 8908
   },
@@ -1743,7 +1743,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2218,8 +2218,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1719857260
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
