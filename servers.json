@@ -774,7 +774,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -854,7 +854,7 @@
     "port": 7777
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | DISCORD.GG/VANGUARDA #1",
+    "name": "『V』WWW.VANGUARDA.PRO.BR | HLL Brasil",
     "addr": "177.54.147.141",
     "port": 7787
   },
@@ -977,7 +977,7 @@
     "port": 8530
   },
   {
-    "name": "[KOR] TVB I US WEST ENG discord.gg/twilightvanguardba",
+    "name": "[KOR] TVB I US WEST ENG discord.gg/TVB",
     "addr": "192.169.85.194",
     "port": 9075
   },
@@ -1745,7 +1745,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1798,12 +1798,6 @@
     "name": "SLB #3",
     "addr": "51.77.116.10",
     "port": 9075
-  },
-  {
-    "name": "[UK] UK Let Loose | New Players Welcome | New Maps",
-    "addr": "51.77.116.10",
-    "port": 9620,
-    "removed": 1719382087
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -2322,7 +2316,8 @@
   {
     "name": "TP WAR GAMES",
     "addr": "92.118.18.93",
-    "port": 7797
+    "port": 7797,
+    "removed": 1719986948
   },
   {
     "name": "Hell Let Loose Server",
