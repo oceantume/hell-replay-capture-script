@@ -18,7 +18,8 @@
   {
     "name": "CN1#亿江南萌新欢乐营（纯攻防）QQ群747976659 ",
     "addr": "103.62.49.42",
-    "port": 8908
+    "port": 8908,
+    "removed": 1720116454
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
@@ -466,7 +467,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.174",
-    "port": 28100
+    "port": 28100,
+    "removed": 1720116454
   },
   {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
@@ -592,7 +594,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.4",
-    "port": 28000
+    "port": 28000,
+    "removed": 1720116454
   },
   {
     "name": "[PKKA] Event Server",
@@ -602,7 +605,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.4",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720116454
   },
   {
     "name": "[ EU/GER/ENG ] 1. DOG Hundehütte New Players Welcome",
@@ -716,10 +720,9 @@
     "port": 28100
   },
   {
-    "name": "[US-EU]5th Legion # 1 | New Player Friendly | New Server | Engl",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.44",
-    "port": 28200,
-    "removed": 1719797638
+    "port": 28200
   },
   {
     "name": " Fallschirm-Jäger-Regiment  6  [FR]new player welcome.",
@@ -975,7 +978,8 @@
   {
     "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
     "addr": "192.169.82.162",
-    "port": 8530
+    "port": 8530,
+    "removed": 1720116454
   },
   {
     "name": "№S | Community of Outcasts | 10+ | US-C | discord.gg/JoinNoS",
@@ -1452,50 +1456,7 @@
   {
     "name": "〈cn1〉佛波勒の老逼登窝/jp节点/Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938,
-    "removed": 1720094972
-  },
-  {
-    "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
-    "addr": "203.10.98.49",
-    "port": 8888,
-    "removed": 1719511621
-  },
-  {
-    "name": "CN #2 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8898,
-    "removed": 1719511621
-  },
-  {
-    "name": "CN #3 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8908,
-    "removed": 1719511621
-  },
-  {
-    "name": " Spring Seasonal 2024 | SLK vs 82AD",
-    "addr": "203.10.98.49",
-    "port": 8918,
-    "removed": 1719511621
-  },
-  {
-    "name": "CN #5 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8928,
-    "removed": 1719511621
-  },
-  {
-    "name": "CN #6 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8938,
-    "removed": 1719511621
-  },
-  {
-    "name": "CN #7 [SLK]雪豹骑萌新欢乐营 | Q群:335411305",
-    "addr": "203.10.98.49",
-    "port": 8948,
-    "removed": 1719511621
+    "port": 8938
   },
   {
     "name": "<SG>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1593,7 +1554,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "④ | THE CIRCLE #4 | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1676,8 +1637,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1720098500
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -1758,7 +1718,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2294,8 +2254,7 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1720098500
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | TAW.NET | ENLIST TODAY!",
