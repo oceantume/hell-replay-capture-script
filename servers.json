@@ -464,6 +464,11 @@
     "port": 28000
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.168.174",
+    "port": 28100
+  },
+  {
     "name": "[FR] PNSR FRANCE PUNISHER ONE #1 | discord.gg/pnsr",
     "addr": "176.57.168.174",
     "port": 28200,
@@ -2344,6 +2349,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1720097767
   }
 ]
