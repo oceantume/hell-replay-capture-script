@@ -600,6 +600,11 @@
     "port": 28100
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.168.4",
+    "port": 28200
+  },
+  {
     "name": "[ EU/GER/ENG ] 1. DOG Hundehütte New Players Welcome",
     "addr": "176.57.168.4",
     "port": 28700
@@ -706,10 +711,9 @@
     "port": 28000
   },
   {
-    "name": "[MM] Moser's Molesters",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.44",
-    "port": 28100,
-    "removed": 1719576566
+    "port": 28100
   },
   {
     "name": "[US-EU]5th Legion # 1 | New Player Friendly | New Server | Engl",
@@ -1672,7 +1676,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720098500
   },
   {
     "name": "Internal_Team17",
@@ -2289,7 +2294,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1720098500
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | TAW.NET | ENLIST TODAY!",
@@ -2349,7 +2355,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1720097767
+    "port": 13000
   }
 ]
