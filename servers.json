@@ -120,7 +120,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1720094972
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -185,8 +186,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1720076710
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -1065,7 +1065,7 @@
     "port": 9075
   },
   {
-    "name": "The Vale | US East | New Player Friendly",
+    "name": "The Vale | US East | dsc.gg/thevale",
     "addr": "192.169.93.122",
     "port": 8530
   },
@@ -1247,7 +1247,7 @@
     "port": 9620
   },
   {
-    "name": "WWW.DUTCHLETLOOSE.NL | NEDERLANDS / DUTCH | ",
+    "name": "Dutch Let Loose #3 [DLL] - NEW MAPS ONLY - DUTCH/ENGLISH - [NED",
     "addr": "193.70.81.145",
     "port": 8530
   },
@@ -1443,7 +1443,8 @@
   {
     "name": "〈cn1〉佛波勒の老逼登窝/jp节点/Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938
+    "port": 8938,
+    "removed": 1720094972
   },
   {
     "name": "CN #1 [SLK]雪豹骑萌新欢乐营 | Q群:909600874",
@@ -1583,10 +1584,9 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
-    "port": 7777,
-    "removed": 1719727627
+    "port": 7777
   },
   {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
@@ -1798,7 +1798,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUNDS - Event #1 | discord.gg/greyhounds",
     "addr": "51.77.116.10",
     "port": 9075
   },
@@ -1843,7 +1843,7 @@
     "port": 9620
   },
   {
-    "name": "SLB #2",
+    "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "54.36.108.21",
     "port": 8530
   },
