@@ -26,17 +26,17 @@
     "port": 8918
   },
   {
-    "name": "<TT>JP#1 TT天堂萌新俱乐部（随机图）q群：578097070",
+    "name": "<CN>JP#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "103.62.49.42",
     "port": 8928
   },
   {
-    "name": "<TT>JP#2 TT天堂萌新俱乐部（纯进攻）q群：578097070",
+    "name": "<CN>JP#2 TT天堂萌新俱乐部（纯进攻）q群：578097070",
     "addr": "103.62.49.42",
     "port": 8938
   },
   {
-    "name": "<TT>JP#3TT天堂社群专属服www.hlltt.site 网站进群",
+    "name": "<CN>JP#3TT天堂社群专属服www.hlltt.site 网站进群",
     "addr": "103.62.49.42",
     "port": 8948
   },
@@ -51,7 +51,7 @@
     "port": 8968
   },
   {
-    "name": "JP萌新友好欢乐营 (攻防服)q群484555616",
+    "name": "jp萌新友好欢乐营 (攻防服)q群484555616",
     "addr": "103.62.49.42",
     "port": 8978
   },
@@ -59,6 +59,11 @@
     "name": "PUMA Kombinierte Kampfgruppe ",
     "addr": "103.62.49.42",
     "port": 8988
+  },
+  {
+    "name": "<CN>老六萌新集中营（随机图）服主Q：2164947615",
+    "addr": "103.62.49.42",
+    "port": 8998
   },
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
@@ -179,8 +184,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1720163143
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -1542,7 +1546,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | DISCORD.GG/THE-CIRCLE",
+    "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1790,8 +1794,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1720163143
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
@@ -2099,8 +2102,7 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1720139073
+    "port": 28100
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
