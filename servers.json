@@ -61,12 +61,6 @@
     "port": 8988
   },
   {
-    "name": "测试",
-    "addr": "103.62.49.46",
-    "port": 8888,
-    "removed": 1719558216
-  },
-  {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.134",
     "port": 8888,
@@ -185,7 +179,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1720163143
   },
   {
     "name": "SLB #1",
@@ -1795,7 +1790,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1720163143
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
