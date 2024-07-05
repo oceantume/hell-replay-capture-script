@@ -1264,12 +1264,6 @@
     "port": 8530
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
-    "addr": "193.70.81.145",
-    "port": 9075,
-    "removed": 1719554890
-  },
-  {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
     "addr": "194.140.197.59",
     "port": 28600
@@ -1453,7 +1447,7 @@
     "removed": 1719598016
   },
   {
-    "name": "〈cn1〉佛波勒の老逼登窝/jp节点/Q:882377564",
+    "name": "〈CN1〉佛波勒の老逼登窝/JP节点/Q:882377564",
     "addr": "203.10.98.41",
     "port": 8938
   },
@@ -1659,24 +1653,6 @@
     "port": 28200
   },
   {
-    "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "46.4.97.246",
-    "port": 8740,
-    "removed": 1719554890
-  },
-  {
-    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "46.4.97.246",
-    "port": 8982,
-    "removed": 1719554890
-  },
-  {
-    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "46.4.97.246",
-    "port": 9224,
-    "removed": 1719554890
-  },
-  {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -1717,7 +1693,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2074,7 +2050,8 @@
   {
     "name": "The Big Cold One",
     "addr": "83.223.204.122",
-    "port": 28000
+    "port": 28000,
+    "removed": 1720159739
   },
   {
     "name": "Hell Let Loose (US East) Server by g-portal.com",
