@@ -2157,7 +2157,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1720184844
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2198,8 +2199,7 @@
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1720184132
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
@@ -2289,7 +2289,6 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000,
-    "removed": 1720184132
+    "port": 13000
   }
 ]
