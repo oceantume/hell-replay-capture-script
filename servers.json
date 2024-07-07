@@ -34,8 +34,7 @@
   {
     "name": "<CN>JP#3TT天堂社群专属服www.hlltt.site 网站进群",
     "addr": "103.62.49.42",
-    "port": 8948,
-    "removed": 1720267703
+    "port": 8948
   },
   {
     "name": "Rose1801 蓝蔷薇少女的骑行 萌新服 Q:677043328",
@@ -90,8 +89,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1720357414
+    "port": 7797
   },
   {
     "name": "Chad Stuart's Flare Gun Friends 2 — discord.gg/chadfgf",
@@ -246,8 +244,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620,
-    "removed": 1720357414
+    "port": 9620
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -402,8 +399,7 @@
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
     "addr": "176.57.153.114",
-    "port": 28200,
-    "removed": 1720312066
+    "port": 28200
   },
   {
     "name": "US ARMY. A force for good since June 14, 1775",
@@ -480,7 +476,8 @@
   {
     "name": "  [FR] France Squad - Objectifs & Communication /discord.gg/fhw",
     "addr": "176.57.168.178",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720375606
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -665,7 +662,7 @@
     "port": 28000
   },
   {
-    "name": "1.Fallschirmjäger-Division #2 / 1.Fjg vs 1.Fjg ",
+    "name": "1.Fallschirmjäger-Division #2 ",
     "addr": "176.57.171.158",
     "port": 28100
   },
@@ -1065,7 +1062,8 @@
   {
     "name": "The Vale | US East | dsc.gg/thevale",
     "addr": "192.169.93.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1720375606
   },
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
@@ -1125,8 +1123,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1720357414
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #04",
@@ -1172,14 +1169,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1720357414
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1720357414
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1189,14 +1184,12 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "193.192.59.123",
-    "port": 28000,
-    "removed": 1720357414
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #06",
     "addr": "193.192.59.123",
-    "port": 28100,
-    "removed": 1720357414
+    "port": 28100
   },
   {
     "name": "Sons Of Liberty (cheating not allowed)",
@@ -1678,7 +1671,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 50+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1745,8 +1738,7 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224,
-    "removed": 1720357414
+    "port": 9224
   },
   {
     "name": "QC Nation ~xXx~ | CAN EAST | EN/FR",
@@ -1799,7 +1791,7 @@
     "port": 9720
   },
   {
-    "name": "BSC VS PZJR | Scrim Event",
+    "name": "BSC VS Invictaurus | Scrim Event",
     "addr": "54.36.60.213",
     "port": 8530
   },
@@ -2143,6 +2135,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "85.208.197.74",
+    "port": 7777
+  },
+  {
     "name": "HLL Server",
     "addr": "89.32.89.73",
     "port": 7777,
@@ -2169,7 +2166,7 @@
     "port": 7777
   },
   {
-    "name": "[TAW] EU SERVER | CAMPAIGN SERVER | BEACH PARTY | JOIN US AT TA",
+    "name": "[TAW] EU SERVER | CAMPAIGN SERVER | JOIN US - DISCORD.GG/TAWHLL",
     "addr": "92.118.16.126",
     "port": 7797
   },
