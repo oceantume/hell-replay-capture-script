@@ -185,7 +185,8 @@
   {
     "name": "[13SNC] #2 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "141.95.72.27",
-    "port": 9620
+    "port": 9620,
+    "removed": 1720334610
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -235,7 +236,8 @@
   {
     "name": "[13SNC] #1 13th Special Needs Company – Discord.gg/13SNC",
     "addr": "145.239.5.101",
-    "port": 9620
+    "port": 9620,
+    "removed": 1720334610
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
@@ -1323,14 +1325,12 @@
   {
     "name": "1 <散人社区>丨极限欢乐夏日战争丨702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1720334065
+    "port": 8908
   },
   {
     "name": "2 <散人社区>丨极限欢乐夏日攻防丨702502503",
     "addr": "202.165.70.91",
-    "port": 8958,
-    "removed": 1720334065
+    "port": 8958
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
