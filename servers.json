@@ -1,5 +1,10 @@
 [
   {
+    "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
+    "addr": "103.193.80.97",
+    "port": 7807
+  },
+  {
     "name": "<CN>JP#4TT天堂萌新200级上玩家禁入公众号：TT天堂",
     "addr": "103.62.49.42",
     "port": 8888,
@@ -1422,7 +1427,8 @@
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908
+    "port": 8908,
+    "removed": 1720419825
   },
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
@@ -1575,12 +1581,6 @@
     "port": 9075
   },
   {
-    "name": "nitrado.net gameserver y1xsKHYt",
-    "addr": "37.10.127.2",
-    "port": 20000,
-    "removed": 1719814144
-  },
-  {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
@@ -1658,8 +1658,7 @@
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
     "addr": "51.161.132.69",
-    "port": 8772,
-    "removed": 1720418931
+    "port": 8772
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
