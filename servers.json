@@ -89,7 +89,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "104.238.222.122",
-    "port": 7792
+    "port": 7792,
+    "removed": 1720527035
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -394,8 +395,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1720508850
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -450,8 +450,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1720508850
+    "port": 28200
   },
   {
     "name": "[GER]Perry ",
@@ -514,8 +513,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1720508850
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #12",
@@ -540,8 +538,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1720508850
+    "port": 28200
   },
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
@@ -856,6 +853,11 @@
     "port": 28200
   },
   {
+    "name": "Internal Test WinStore Only",
+    "addr": "176.57.181.209",
+    "port": 28300
+  },
+  {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "177.54.147.141",
     "port": 7777
@@ -869,12 +871,6 @@
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
     "addr": "177.54.151.123",
     "port": 8898
-  },
-  {
-    "name": "[Merc] #3 |Japan| 일본|日本  Discord.gg/m3rc",
-    "addr": "178.212.33.28",
-    "port": 28900,
-    "removed": 1719922201
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -1185,8 +1181,7 @@
   {
     "name": "HLL Official - US West - QA Testing #06",
     "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1720508850
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #05",
@@ -1603,13 +1598,13 @@
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1720527035
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1720508850
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -1672,7 +1667,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 50+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1817,12 +1812,12 @@
     "port": 8530
   },
   {
-    "name": "1-505TH PIR | SL LEVEL 50+ | NAE | DISCORD.GG/505PIR |",
+    "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #2 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
     "port": 9075
   },
   {
-    "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE | DISCORD.GG/505PIR |",
+    "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
     "port": 9620
   },
@@ -2200,7 +2195,8 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "92.118.18.58",
-    "port": 7792
+    "port": 7792,
+    "removed": 1720527035
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
@@ -2265,6 +2261,7 @@
   {
     "name": "Odyssey - New players welcome",
     "addr": "95.156.198.83",
-    "port": 13000
+    "port": 13000,
+    "removed": 1720527035
   }
 ]
