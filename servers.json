@@ -69,8 +69,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1720465319
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -482,7 +481,8 @@
   {
     "name": "  [FR] France Squad - Objectifs & Communication /discord.gg/fhw",
     "addr": "176.57.168.178",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720484698
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1653,8 +1653,7 @@
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
     "addr": "51.161.132.69",
-    "port": 8772,
-    "removed": 1720421675
+    "port": 8772
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -1674,7 +1673,8 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1720484698
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -2042,12 +2042,6 @@
     "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
     "port": 28200
-  },
-  {
-    "name": "[Merc] #3 US EAST D.C Discord.gg/m3rc",
-    "addr": "83.223.204.129",
-    "port": 28000,
-    "removed": 1719879889
   },
   {
     "name": "BIG  BROTHER RULES  ALL PLAYERS WELCOME ",
