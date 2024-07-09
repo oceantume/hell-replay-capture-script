@@ -623,7 +623,7 @@
     "port": 28400
   },
   {
-    "name": "[ FR | TdA ] La Tempête d'Acier /latempetedacier.fr/ French ON",
+    "name": "[FR | TdA] La Tempête d'Acier /latempetedacier.fr/ French ONLY",
     "addr": "176.57.168.91",
     "port": 28000
   },
@@ -1258,7 +1258,8 @@
   {
     "name": "[FR] Les Coqs Enragés - https://discord.gg/lescoqsenrages -",
     "addr": "193.70.81.145",
-    "port": 9075
+    "port": 9075,
+    "removed": 1720505300
   },
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
