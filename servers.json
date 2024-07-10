@@ -214,7 +214,8 @@
   {
     "name": "[H9H] Hispaniarum Hell",
     "addr": "145.239.144.76",
-    "port": 9075
+    "port": 9075,
+    "removed": 1720591700
   },
   {
     "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
@@ -502,8 +503,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1720574733
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe - QA Testing #04",
@@ -773,7 +773,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -861,6 +861,11 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
     "addr": "177.54.147.141",
     "port": 7787
+  },
+  {
+    "name": "[MSL] Magic HLL LATAM discord.gg/magic-servers",
+    "addr": "177.54.147.141",
+    "port": 7807
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1632,7 +1637,8 @@
   {
     "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
     "addr": "51.161.132.69",
-    "port": 8772
+    "port": 8772,
+    "removed": 1720591700
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -1650,7 +1656,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 50+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
