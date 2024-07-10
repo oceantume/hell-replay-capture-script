@@ -779,32 +779,27 @@
   {
     "name": "[ESP] MALDITOS BASTARDOS | SERVER ESPAÑOL [ADRPI]",
     "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1720613393
+    "port": 28000
   },
   {
     "name": "[CC] Casual Company - New player friendly",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1720613393
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1720613393
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #03",
     "addr": "176.57.178.141",
-    "port": 28100,
-    "removed": 1720613393
+    "port": 28100
   },
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1720613393
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -917,7 +912,8 @@
   {
     "name": "HLL BRASIL | SOFRE AMERICA 2 | HLLBRASIL.COM",
     "addr": "189.1.173.122",
-    "port": 8888
+    "port": 8888,
+    "removed": 1720634946
   },
   {
     "name": "[LATAM] Comunidad Latina || Discord: n9.cl/CLATAM || Lvl 15+ |[",
@@ -1291,7 +1287,8 @@
   {
     "name": "CN「Netr」雾队社区服 低延港服 Q群248751765",
     "addr": "202.165.70.15",
-    "port": 8888
+    "port": 8888,
+    "removed": 1720634946
   },
   {
     "name": "CN 革命军87TH-雾队攻防训练服",
@@ -1306,10 +1303,11 @@
   {
     "name": "CN2<JWH>九尾狐战队周常赛专用港服",
     "addr": "202.165.70.91",
-    "port": 8918
+    "port": 8918,
+    "removed": 1720634946
   },
   {
-    "name": "ANH9K&ANZOO&ANIT&ANF1I_&ANUO|HK",
+    "name": "JWH",
     "addr": "202.165.70.91",
     "port": 8928
   },
@@ -1321,7 +1319,8 @@
   {
     "name": "CZS",
     "addr": "202.165.70.91",
-    "port": 8948
+    "port": 8948,
+    "removed": 1720634946
   },
   {
     "name": "2 <散人社区>丨极限欢乐夏日攻防丨702502503",
@@ -1336,17 +1335,20 @@
   {
     "name": "!CN021#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8898
+    "port": 8898,
+    "removed": 1720634946
   },
   {
     "name": "!CN022#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8908
+    "port": 8908,
+    "removed": 1720634946
   },
   {
     "name": "!CN023#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8918
+    "port": 8918,
+    "removed": 1720634946
   },
   {
     "name": "!CN024#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1356,7 +1358,8 @@
   {
     "name": "!CN025#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8938
+    "port": 8938,
+    "removed": 1720634946
   },
   {
     "name": "!CN016#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1371,7 +1374,8 @@
   {
     "name": "!CN018#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8968
+    "port": 8968,
+    "removed": 1720634946
   },
   {
     "name": "!CN019#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1613,26 +1617,22 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "38.242.238.209",
-    "port": 28000,
-    "removed": 1720613393
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
     "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1720527035
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1720613393
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
     "addr": "38.242.238.209",
-    "port": 28300,
-    "removed": 1720613393
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #03",
@@ -1691,7 +1691,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1938,7 +1938,8 @@
   {
     "name": "HLL Official - Asia #12",
     "addr": "83.223.197.98",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720634946
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | GPORTAL",
