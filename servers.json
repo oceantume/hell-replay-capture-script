@@ -477,8 +477,7 @@
   {
     "name": "  [FR] France Squad - Objectifs & Communication /discord.gg/fhw",
     "addr": "176.57.168.178",
-    "port": 28200,
-    "removed": 1720548460
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1264,12 +1263,6 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "198.244.177.91",
-    "port": 8530,
-    "removed": 1720031529
-  },
-  {
     "name": "[BR1] EVENT SERVER (Central) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
@@ -1287,13 +1280,13 @@
   {
     "name": "CN「Netr」雾队社区服 低延港服 Q群248751765",
     "addr": "202.165.70.15",
-    "port": 8888,
-    "removed": 1720634946
+    "port": 8888
   },
   {
     "name": "CN 革命军87TH-雾队攻防训练服",
     "addr": "202.165.70.15",
-    "port": 8908
+    "port": 8908,
+    "removed": 1720636565
   },
   {
     "name": "1 <散人社区>丨极限欢乐夏日战争丨702502503",
@@ -1335,7 +1328,8 @@
   {
     "name": "!CN021#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8898
+    "port": 8898,
+    "removed": 1720636565
   },
   {
     "name": "!CN022#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1356,7 +1350,8 @@
   {
     "name": "!CN025#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8938
+    "port": 8938,
+    "removed": 1720636565
   },
   {
     "name": "!CN016#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
