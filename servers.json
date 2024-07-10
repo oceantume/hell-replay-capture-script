@@ -502,7 +502,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1720574733
   },
   {
     "name": "HLL Official - Europe - QA Testing #04",
@@ -987,12 +988,6 @@
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
     "port": 9014
-  },
-  {
-    "name": "[-BD-] BrewDawgs | US East | discord.gg/sRmXXWZ7Db",
-    "addr": "192.169.86.218",
-    "port": 9075,
-    "removed": 1719969834
   },
   {
     "name": "XIII Legion - Eagle (US East)",
