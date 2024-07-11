@@ -69,8 +69,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1720638292
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -478,7 +477,8 @@
   {
     "name": "  [FR] France Squad - Objectifs & Communication /discord.gg/fhw",
     "addr": "176.57.168.178",
-    "port": 28200
+    "port": 28200,
+    "removed": 1720657547
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -684,12 +684,6 @@
     "port": 28300
   },
   {
-    "name": "[FR] Serveur Test (Aucune règle)",
-    "addr": "176.57.171.38",
-    "port": 28000,
-    "removed": 1720052679
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.38",
     "port": 28100
@@ -804,14 +798,12 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1720613393
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #04",
     "addr": "176.57.178.17",
-    "port": 28100,
-    "removed": 1720613393
+    "port": 28100
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -846,7 +838,8 @@
   {
     "name": "Internal Test WinStore Only",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1720657547
   },
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
@@ -1308,8 +1301,7 @@
   {
     "name": "CN5<JWH>九尾狐战队35v专用服",
     "addr": "202.165.70.91",
-    "port": 8938,
-    "removed": 1720637645
+    "port": 8938
   },
   {
     "name": "CZS",
@@ -1355,8 +1347,7 @@
   {
     "name": "!CN016#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8948,
-    "removed": 1720638292
+    "port": 8948
   },
   {
     "name": "!CN017#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1366,8 +1357,7 @@
   {
     "name": "!CN018#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8968,
-    "removed": 1720637104
+    "port": 8968
   },
   {
     "name": "!CN019#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1377,8 +1367,7 @@
   {
     "name": "#010 Infiltration cn Pub Hongkong Night",
     "addr": "202.165.70.93",
-    "port": 9018,
-    "removed": 1720638292
+    "port": 9018
   },
   {
     "name": "[CNHK]白毛兽耳萝莉の小窝 Q:453650713 ",
@@ -1676,17 +1665,15 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1720638292
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1720638292
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2123,7 +2110,8 @@
   {
     "name": "5By5  - HLL (US Mid) Server = Drinks, Guns & Violence!",
     "addr": "83.223.207.46",
-    "port": 28400
+    "port": 28400,
+    "removed": 1720657547
   },
   {
     "name": "Gear   ----- Offensive Only ----- ",
