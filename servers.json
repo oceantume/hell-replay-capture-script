@@ -68,8 +68,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1720811025
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -916,7 +915,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
+    "name": "σ CHADs vs The World @ 9PM EST — discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -1084,7 +1083,8 @@
   {
     "name": "3rd Amphibious Corps - US East - discord.gg/3AC",
     "addr": "192.169.95.98",
-    "port": 9620
+    "port": 9620,
+    "removed": 1720830324
   },
   {
     "name": "HLL Official - US West #03",
@@ -1657,11 +1657,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1720811025
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 50+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2010,12 +2009,6 @@
     "name": "Atlantic Front (East)",
     "addr": "83.223.203.51",
     "port": 28000
-  },
-  {
-    "name": "Gear   ---- Warfare Only  --- ",
-    "addr": "83.223.204.11",
-    "port": 28100,
-    "removed": 1720225435
   },
   {
     "name": "Hell Let Loose (US East) Server by g-portal.com",
