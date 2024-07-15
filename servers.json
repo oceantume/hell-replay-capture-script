@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1720983880
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -570,12 +569,6 @@
     "name": "[RU/EN] BUNDESWEHR [BWR]",
     "addr": "176.57.168.4",
     "port": 28000
-  },
-  {
-    "name": "[PKKA] Event Server",
-    "addr": "176.57.168.4",
-    "port": 28100,
-    "removed": 1720398395
   },
   {
     "name": "DIE DEUTSCHE HOELLE",
@@ -1183,7 +1176,7 @@
     "port": 9620
   },
   {
-    "name": "Dutch Let Loose #3 [DLL] - NEW MAPS ONLY - DUTCH/ENGLISH - [NED",
+    "name": "Dutch Let Loose #3 [DLL] - SKIRMISH ONLY - DUTCH/ENGLISH - [NED",
     "addr": "193.70.81.145",
     "port": 8530
   },
@@ -1250,8 +1243,7 @@
   {
     "name": "1 <散人社区>丨萌新极限夏日战争丨702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1720983880
+    "port": 8908
   },
   {
     "name": "CN2<JWH>九尾狐战队周常赛专用港服",
@@ -1504,7 +1496,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS #2 | Server Test | discord.gg/taurus",
     "addr": "208.115.248.106",
     "port": 7797
   },
@@ -1647,11 +1639,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1720983880
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
