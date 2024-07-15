@@ -957,7 +957,8 @@
   {
     "name": "XIII Legion - Eagle (US East)",
     "addr": "192.169.86.66",
-    "port": 8772
+    "port": 8772,
+    "removed": 1721023706
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1241,7 +1242,7 @@
     "port": 8908
   },
   {
-    "name": "1 <散人社区>丨萌新极限夏日战争丨702502503",
+    "name": "CN1 <散人社区>丨萌新极限夏日战争丨702502503",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1252,7 +1253,7 @@
     "removed": 1720634946
   },
   {
-    "name": "<CN>卢浮宫灰猎犬连萌新攻防/Q群：441245221",
+    "name": "<CN>CZS卢浮宫萌新攻防/Q群：441245221",
     "addr": "202.165.70.91",
     "port": 8928
   },
@@ -1269,7 +1270,7 @@
     "removed": 1720634946
   },
   {
-    "name": "2 <散人社区>丨极限欢乐夏日攻防丨702502503",
+    "name": "CN2 <散人社区>丨极限欢乐夏日攻防丨702502503",
     "addr": "202.165.70.91",
     "port": 8958
   },
@@ -1493,7 +1494,8 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1721023706
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Server Test | discord.gg/taurus",
@@ -1528,7 +1530,8 @@
   {
     "name": "[GER] 106.PzBrig | HighPerformance&GER MIC",
     "addr": "217.182.196.157",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721023706
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
