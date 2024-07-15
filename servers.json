@@ -271,6 +271,11 @@
     "port": 9075
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "172.93.97.74",
+    "port": 8530
+  },
+  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -1489,6 +1494,11 @@
     "port": 7777
   },
   {
+    "name": "    [ GER ] KAMPFSCHWEINE 1.1 | FAST LOW PING | OINK OINK",
+    "addr": "208.115.206.51",
+    "port": 7777
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1507,7 +1517,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721066877
   },
   {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
@@ -1653,7 +1664,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2150,7 +2161,8 @@
   {
     "name": "DICK fight for it",
     "addr": "92.118.18.120",
-    "port": 7787
+    "port": 7787,
+    "removed": 1721066877
   },
   {
     "name": "Glow's Battlegrounds :: Event Server :: discord.gg/glows",
