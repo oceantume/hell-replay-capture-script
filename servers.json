@@ -346,6 +346,11 @@
     "port": 28000
   },
   {
+    "name": "Testomo",
+    "addr": "176.57.140.146",
+    "port": 28100
+  },
+  {
     "name": "[BB] Boys Germany     German only,and Mic",
     "addr": "176.57.140.16",
     "port": 28000
@@ -824,7 +829,8 @@
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "177.54.147.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721134453
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
@@ -972,8 +978,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772,
-    "removed": 1721133780
+    "port": 8772
   },
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
@@ -2211,8 +2216,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1721133780
+    "port": 7777
   },
   {
     "name": "TP WAR GAMES",
