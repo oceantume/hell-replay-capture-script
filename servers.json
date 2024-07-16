@@ -606,7 +606,8 @@
   {
     "name": "Rechercher La",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1721110105
   },
   {
     "name": "WarLand ",
@@ -1406,6 +1407,11 @@
     "port": 8888
   },
   {
+    "name": "HLL Server",
+    "addr": "203.10.98.7",
+    "port": 8888
+  },
+  {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
     "port": 8888
@@ -1659,7 +1665,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
