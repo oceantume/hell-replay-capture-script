@@ -62,7 +62,8 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888
+    "port": 8888,
+    "removed": 1721156524
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -1766,8 +1767,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1721155943
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
