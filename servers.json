@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
+    "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.97",
     "port": 7807
   },
@@ -172,8 +172,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1721113513
+    "port": 8530
   },
   {
     "name": "SLB #1",
@@ -181,7 +180,7 @@
     "port": 9075
   },
   {
-    "name": "[13SNC] #2 - New Players Welcome - discord.gg/13snc",
+    "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
     "addr": "141.95.72.27",
     "port": 9620
   },
@@ -1165,7 +1164,8 @@
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/UgpwwH",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721131787
   },
   {
     "name": "[LCM] LCM Spanish Clan Server ",
@@ -1259,10 +1259,9 @@
     "port": 8928
   },
   {
-    "name": "CN5<JWH>九尾狐战队35v专用服",
+    "name": "〈CN〉怀瑾握瑜社区服",
     "addr": "202.165.70.91",
-    "port": 8938,
-    "removed": 1720678101
+    "port": 8938
   },
   {
     "name": "CZS",
@@ -1369,12 +1368,14 @@
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908
+    "port": 8908,
+    "removed": 1721131787
   },
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1721131787
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP节点/Q:882377564",
@@ -1515,7 +1516,7 @@
     "removed": 1721023706
   },
   {
-    "name": "[GER] Λ • TAURUS #2 | Server Test | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS #2 | High Performance Server | discord.gg/t",
     "addr": "208.115.248.106",
     "port": 7797
   },
@@ -1774,8 +1775,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1721113513
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
