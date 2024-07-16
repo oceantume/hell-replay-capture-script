@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1721070129
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -272,10 +271,9 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
-    "port": 8530,
-    "removed": 1721070129
+    "port": 8530
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -688,7 +686,8 @@
   {
     "name": "[ GER/ENG ] HELLDOGS | Mic only ",
     "addr": "176.57.171.44",
-    "port": 28200
+    "port": 28200,
+    "removed": 1721089533
   },
   {
     "name": "PV ",
@@ -1248,8 +1247,7 @@
   {
     "name": "CN1 <散人社区>丨萌新极限夏日战争丨702502503",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1721070129
+    "port": 8908
   },
   {
     "name": "CN2<JWH>九尾狐战队周常赛专用港服",
@@ -1551,8 +1549,7 @@
   {
     "name": "[GER] 106.PzBrig | HighPerformance&GER MIC",
     "addr": "217.182.196.157",
-    "port": 8530,
-    "removed": 1721023706
+    "port": 8530
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1607,8 +1604,7 @@
   {
     "name": "Internal_Team17",
     "addr": "38.242.238.209",
-    "port": 28300,
-    "removed": 1721045430
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #03",
@@ -1667,7 +1663,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2061,8 +2057,12 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1721048323
+    "port": 28100
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "83.223.206.29",
+    "port": 28200
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
