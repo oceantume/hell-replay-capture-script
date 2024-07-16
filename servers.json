@@ -87,8 +87,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1721135075
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -697,6 +696,11 @@
     "removed": 1721089533
   },
   {
+    "name": "JorviDaddy",
+    "addr": "176.57.171.44",
+    "port": 28300
+  },
+  {
     "name": "PV ",
     "addr": "176.57.171.44",
     "port": 28500
@@ -747,7 +751,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -830,8 +834,7 @@
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
     "addr": "177.54.147.141",
-    "port": 7777,
-    "removed": 1721134453
+    "port": 7777
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
@@ -1075,8 +1078,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1721135075
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #04",
@@ -1121,8 +1123,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1721135075
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1132,8 +1133,7 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "193.192.59.123",
-    "port": 28000,
-    "removed": 1721135075
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #06",
@@ -1377,14 +1377,12 @@
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908,
-    "removed": 1721131787
+    "port": 8908
   },
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918,
-    "removed": 1721131787
+    "port": 8918
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP节点/Q:882377564",
@@ -1521,8 +1519,7 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.106",
-    "port": 7787,
-    "removed": 1721023706
+    "port": 7787
   },
   {
     "name": "[GER] Λ • TAURUS #2 | High Performance Server | discord.gg/t",
@@ -1677,7 +1674,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1744,8 +1741,7 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224,
-    "removed": 1721135075
+    "port": 9224
   },
   {
     "name": "CDAF | Maple Syrup & Poutine | CA-EAST",
@@ -1770,8 +1766,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1721135075
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -1791,8 +1786,7 @@
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1721135075
+    "port": 8530
   },
   {
     "name": "HLL test server - do not use",
@@ -2181,8 +2175,7 @@
   {
     "name": "DICK fight for it",
     "addr": "92.118.18.120",
-    "port": 7787,
-    "removed": 1721066877
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: Event Server :: discord.gg/glows",
@@ -2207,8 +2200,7 @@
   {
     "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & LOYALTY VIP",
     "addr": "92.118.18.76",
-    "port": 7787,
-    "removed": 1721045430
+    "port": 7787
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
