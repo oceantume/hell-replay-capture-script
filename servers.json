@@ -77,8 +77,7 @@
   {
     "name": "AA US West Noobie Battleground",
     "addr": "104.238.222.122",
-    "port": 7777,
-    "removed": 1721177445
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -897,7 +896,8 @@
   {
     "name": "[LATAM] Comunidad Latina || Discord: n9.cl/CLATAM || Lvl 15+ |[",
     "addr": "189.1.173.122",
-    "port": 8918
+    "port": 8918,
+    "removed": 1721179555
   },
   {
     "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
@@ -2133,8 +2133,7 @@
   {
     "name": "HLL Official - South America #03 [ES]",
     "addr": "89.43.106.40",
-    "port": 28000,
-    "removed": 1721177445
+    "port": 28000
   },
   {
     "name": "HLL Official - South America #02 [PT]",
