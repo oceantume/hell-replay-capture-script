@@ -206,12 +206,6 @@
     "port": 8530
   },
   {
-    "name": "[H9H] Hispaniarum Hell",
-    "addr": "145.239.144.76",
-    "port": 9075,
-    "removed": 1720591700
-  },
-  {
     "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
     "addr": "145.239.253.127",
     "port": 8772
@@ -752,7 +746,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -1419,7 +1413,7 @@
     "port": 8888
   },
   {
-    "name": "HLL Server",
+    "name": "CN ITK二次元男娘聚集地攻防服务器 Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1655,12 +1649,6 @@
     "port": 8530
   },
   {
-    "name": "Chimera | Australia | New players welcome | discord.gg/CHMA",
-    "addr": "51.161.132.69",
-    "port": 8772,
-    "removed": 1720591700
-  },
-  {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
     "port": 8530
@@ -1748,7 +1736,8 @@
   {
     "name": "CDAF | Maple Syrup & Poutine | CA-EAST",
     "addr": "51.79.98.216",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721196506
   },
   {
     "name": "QC Nation ~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
@@ -2209,6 +2198,11 @@
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
     "port": 7797
+  },
+  {
+    "name": "ThePromisedLAN",
+    "addr": "92.118.18.86",
+    "port": 7777
   },
   {
     "name": "End of Existence | VoidExistence.com",
