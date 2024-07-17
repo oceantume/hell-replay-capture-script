@@ -72,7 +72,8 @@
   {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "104.194.9.8",
-    "port": 9620
+    "port": 9620,
+    "removed": 1721218216
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -525,8 +526,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1721045430
+    "port": 28200
   },
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
@@ -958,6 +958,11 @@
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
     "port": 9014
+  },
+  {
+    "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
+    "addr": "192.169.86.218",
+    "port": 9620
   },
   {
     "name": "XIII Legion - Eagle (US East)",
@@ -1946,12 +1951,6 @@
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
     "port": 28100
-  },
-  {
-    "name": "Black Matter Testing Server",
-    "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1720613393
   },
   {
     "name": "HLL Official - US East #07",
