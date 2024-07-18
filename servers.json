@@ -857,7 +857,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721326070
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -887,7 +888,8 @@
   {
     "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
     "addr": "191.101.166.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721326070
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -1348,7 +1350,8 @@
   {
     "name": "〈cn1〉音奏的萌新欢乐园/jp节点/Q:335411305",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1721326070
   },
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
@@ -1363,7 +1366,8 @@
   {
     "name": "<CN>佛波勒の老逼登窝/JP节点/Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938
+    "port": 8938,
+    "removed": 1721326070
   },
   {
     "name": "<SG>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1373,7 +1377,8 @@
   {
     "name": "cn2安河桥北的高强度苏美德地图服Q群341807965",
     "addr": "203.10.98.5",
-    "port": 8918
+    "port": 8918,
+    "removed": 1721326070
   },
   {
     "name": "XTC - server one mix modes",
@@ -1632,7 +1637,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1776,6 +1781,11 @@
     "name": "RFTA Battle grounds",
     "addr": "66.235.172.240",
     "port": 8530
+  },
+  {
+    "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
+    "addr": "69.162.102.50",
+    "port": 7777
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
