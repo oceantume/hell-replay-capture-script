@@ -10,6 +10,11 @@
     "port": 8888
   },
   {
+    "name": "HLL ",
+    "addr": "103.62.49.42",
+    "port": 8898
+  },
+  {
     "name": "CN1#亿江南萌新欢乐营（纯攻防）QQ群747976659 ",
     "addr": "103.62.49.42",
     "port": 8908
@@ -1464,7 +1469,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1640,7 +1645,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1721,7 +1726,7 @@
     "port": 9620
   },
   {
-    "name": "*{WeB}*Wolf Lair | ENG/UK | Warfare*",
+    "name": "*{WeB}*Wolf Lair | ENG/UK | Recruiting*",
     "addr": "51.89.192.209",
     "port": 8530
   },
@@ -1893,7 +1898,8 @@
   {
     "name": "HLL Official - Asia #11",
     "addr": "83.223.197.98",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721412444
   },
   {
     "name": "HLL Official - Asia #12",
