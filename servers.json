@@ -173,7 +173,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721372678
   },
   {
     "name": "SLB #1",
@@ -1059,7 +1060,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1721372678
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1356,8 +1358,7 @@
   {
     "name": "〈cn1〉音奏的萌新欢乐园/jp节点/Q:335411305",
     "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1721372018
+    "port": 8888
   },
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
