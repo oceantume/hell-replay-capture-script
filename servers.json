@@ -242,6 +242,11 @@
     "port": 9620
   },
   {
+    "name": "CN12#jp琳琅天上萌新小屋",
+    "addr": "15.235.214.54",
+    "port": 7777
+  },
+  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -394,7 +399,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721369293
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -889,8 +895,7 @@
   {
     "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
     "addr": "191.101.166.120",
-    "port": 8530,
-    "removed": 1721326070
+    "port": 8530
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -1351,8 +1356,7 @@
   {
     "name": "〈cn1〉音奏的萌新欢乐园/jp节点/Q:335411305",
     "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1721326070
+    "port": 8888
   },
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
@@ -1367,8 +1371,7 @@
   {
     "name": "<CN>佛波勒の老逼登窝/JP节点/Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938,
-    "removed": 1721326070
+    "port": 8938
   },
   {
     "name": "<SG>DFSM 火影の村玖尾妖狐萌新攻防營",
@@ -1378,8 +1381,7 @@
   {
     "name": "cn2安河桥北的高强度苏美德地图服Q群341807965",
     "addr": "203.10.98.5",
-    "port": 8918,
-    "removed": 1721326070
+    "port": 8918
   },
   {
     "name": "XTC - server one mix modes",
@@ -1387,7 +1389,7 @@
     "port": 8888
   },
   {
-    "name": "CN ITK二次元男娘聚集地攻防服务器 Q群48381851",
+    "name": "CN ITK二次元男娘聚集地攻防服务器JP节点Q群483818",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1791,8 +1793,7 @@
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
     "addr": "74.63.236.194",
-    "port": 8530,
-    "removed": 1721352780
+    "port": 8530
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #2 | DISCORD.GG/505PIR ",
@@ -1802,8 +1803,7 @@
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9620,
-    "removed": 1721352780
+    "port": 9620
   },
   {
     "name": "HLL Official - Asia #07",
