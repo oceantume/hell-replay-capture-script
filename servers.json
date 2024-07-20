@@ -93,8 +93,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1721438639
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -149,7 +148,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1721455724
   },
   {
     "name": "IR 德国训练服 日常服 ",
@@ -278,7 +278,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | EVENT SERVER | discord.gg/2ad",
+    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -1479,7 +1479,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721455724
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -1494,17 +1495,20 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721455724
   },
   {
     "name": "SLB #1",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1721455724
   },
   {
     "name": "[GER] Λ • TAURUS #2 | High Performance Server | discord.gg/t",
     "addr": "208.115.248.106",
-    "port": 7797
+    "port": 7797,
+    "removed": 1721455724
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1648,7 +1652,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
