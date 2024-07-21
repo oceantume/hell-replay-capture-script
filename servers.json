@@ -252,6 +252,11 @@
     "port": 7777
   },
   {
+    "name": "CN1#LLTS.琳琅天上萌新小屋(攻防服)Q群484555616",
+    "addr": "15.235.214.54",
+    "port": 7797
+  },
+  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -354,7 +359,8 @@
   {
     "name": "[GER] Wonderland",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721585190
   },
   {
     "name": "[BB] Boys Germany     German only,and Mic",
@@ -846,7 +852,8 @@
   {
     "name": "[MSL] Magic HLL LATAM discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1721585190
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1622,6 +1629,11 @@
     "port": 28200
   },
   {
+    "name": "[GER] Trümmertruppe #DTT Event-Server",
+    "addr": "46.4.97.246",
+    "port": 8530
+  },
+  {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -1659,10 +1671,11 @@
   {
     "name": "CN#LLTS.琳琅天上萌新小屋(攻防)Q群484555616",
     "addr": "51.161.198.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2103,6 +2116,11 @@
     "name": "Just have fun!",
     "addr": "83.223.207.50",
     "port": 28700
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "85.208.197.66",
+    "port": 7817
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
