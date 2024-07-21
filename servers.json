@@ -1473,7 +1473,8 @@
   {
     "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM",
     "addr": "208.115.196.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721542056
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1515,6 +1516,11 @@
     "addr": "208.115.248.90",
     "port": 7777,
     "removed": 1721066877
+  },
+  {
+    "name": "SLK - US West",
+    "addr": "216.219.90.146",
+    "port": 7777
   },
   {
     "name": "The BEER [HAUS] 2 |US EAST-VA| discord.gg/beerhaus",
@@ -1654,7 +1660,8 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721542056
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -2006,6 +2013,11 @@
   {
     "name": "Atlantic Front (East)",
     "addr": "83.223.203.51",
+    "port": 28000
+  },
+  {
+    "name": "Mikes game",
+    "addr": "83.223.204.122",
     "port": 28000
   },
   {
