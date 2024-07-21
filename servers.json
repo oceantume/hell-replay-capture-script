@@ -178,7 +178,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1721545434
   },
   {
     "name": "SLB #1",
@@ -1066,7 +1067,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1721545434
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1471,10 +1473,9 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM",
+    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM",
     "addr": "208.115.196.3",
-    "port": 7777,
-    "removed": 1721542056
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
