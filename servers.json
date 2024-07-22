@@ -148,7 +148,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1721628509
   },
   {
     "name": "IR 德国训练服 日常服 ",
@@ -250,10 +251,11 @@
   {
     "name": "CN测试LLTS琳琅天上萌新小屋 (攻防服)q群484555616",
     "addr": "15.235.214.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721628509
   },
   {
-    "name": "CN1#LLTS.琳琅天上萌新小屋(攻防服)Q群484555616",
+    "name": "CN1#HK/LLTS.琳琅天上萌新小屋(攻防服.香港节点)Q�",
     "addr": "15.235.214.54",
     "port": 7797
   },
@@ -980,12 +982,6 @@
     "port": 9620
   },
   {
-    "name": "XIII Legion - Eagle (US East)",
-    "addr": "192.169.86.66",
-    "port": 8772,
-    "removed": 1721023706
-  },
-  {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
     "port": 9075
@@ -1676,7 +1672,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
