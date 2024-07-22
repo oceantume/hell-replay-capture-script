@@ -88,7 +88,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "104.238.222.122",
-    "port": 7792
+    "port": 7792,
+    "removed": 1721653116
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -2144,6 +2145,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
+    "port": 7777
+  },
+  {
+    "name": "Hookway's Server",
+    "addr": "89.32.89.73",
     "port": 7777
   },
   {
