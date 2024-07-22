@@ -88,8 +88,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "104.238.222.122",
-    "port": 7792,
-    "removed": 1721653116
+    "port": 7792
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -2150,7 +2149,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1721653875
   },
   {
     "name": "HLL Official - South America #03 [ES]",
