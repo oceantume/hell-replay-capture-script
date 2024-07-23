@@ -5,7 +5,7 @@
     "port": 7807
   },
   {
-    "name": "CN2#JP亿江南萌新欢乐营（冲突）QQ群747976659",
+    "name": "2#JP亿江南萌新欢乐营（冲突）QQ群747976659",
     "addr": "103.62.49.42",
     "port": 8888
   },
@@ -42,15 +42,16 @@
   {
     "name": "3#JP亿江南蓝蔷薇少女的骑行 QQ群747976659",
     "addr": "103.62.49.42",
-    "port": 8958
+    "port": 8958,
+    "removed": 1721736603
   },
   {
-    "name": "cn.jp.P.K.K.[PUMA]小双の新人快楽服q746699634",
+    "name": "P.K.K.[PUMA].jp小双の新人快楽服q746699634",
     "addr": "103.62.49.42",
     "port": 8968
   },
   {
-    "name": "CN1#jp琳琅天上萌新小屋 (攻防服)q群484555616",
+    "name": "LLTS1#jp琳琅天上萌新小屋 (攻防服)q群484555616",
     "addr": "103.62.49.42",
     "port": 8978
   },
@@ -88,7 +89,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "104.238.222.122",
-    "port": 7792
+    "port": 7792,
+    "removed": 1721736603
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -254,10 +256,9 @@
     "removed": 1721628509
   },
   {
-    "name": "CN2#HK/LLTS琳琅天上萌新小屋港服(冷门图)Q群4845556",
+    "name": "LLTS#Hong Kong Server (offensive)",
     "addr": "15.235.214.54",
-    "port": 7797,
-    "removed": 1721718286
+    "port": 7797
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -803,7 +804,8 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1721736603
   },
   {
     "name": "HLL Official - UK #02",
@@ -1061,8 +1063,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1721718286
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1372,7 +1373,7 @@
     "port": 8938
   },
   {
-    "name": "<SG>DFSM 火影の村玖尾妖狐萌新攻防營",
+    "name": "JPげんし神/萌え新サマーランド絶頂攻防服TVB",
     "addr": "203.10.98.5",
     "port": 8888
   },
@@ -1750,7 +1751,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
     "port": 9075
   },
@@ -2187,7 +2188,8 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "92.118.18.58",
-    "port": 7792
+    "port": 7792,
+    "removed": 1721736603
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
@@ -2242,7 +2244,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "92.118.19.60",
-    "port": 7797
+    "port": 7797,
+    "removed": 1721736603
   },
   {
     "name": "[WAP]Weaponized Autism Platoon [24x7 WARFARE][US-WEST]",
