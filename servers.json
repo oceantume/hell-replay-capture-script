@@ -25,17 +25,17 @@
     "port": 8918
   },
   {
-    "name": "<TT>JP#1 TT天堂萌新俱乐部（随机图）q群：578097070",
+    "name": "#1《TT》 Paradise Club Newbie Paradise",
     "addr": "103.62.49.42",
     "port": 8928
   },
   {
-    "name": "<TT>JP#2 TT天堂萌新俱乐部（纯进攻）q群：578097070",
+    "name": "#2《TT》 Paradise Club Newbie Paradise",
     "addr": "103.62.49.42",
     "port": 8938
   },
   {
-    "name": "<TT>JP#3 TT天堂社群专属服vx公众号TT天堂 进群",
+    "name": "#3《TT》 Paradise Club Newbie Paradise",
     "addr": "103.62.49.42",
     "port": 8948
   },
@@ -623,7 +623,8 @@
   {
     "name": "[ EU/GER/ENG ] 1. DOG Hundehütte New Players Welcome",
     "addr": "176.57.168.4",
-    "port": 28700
+    "port": 28700,
+    "removed": 1721780770
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -992,7 +993,7 @@
     "removed": 1721697939
   },
   {
-    "name": "3rd Amphibious Corps EVENT SERVER - US EAST (Miami) - discord.g",
+    "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
   },
@@ -1657,14 +1658,12 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1721761248
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1721761248
+    "port": 9620
   },
   {
     "name": "CN#LLTS.琳琅天上萌新小屋(攻防)Q群484555616",
@@ -1673,7 +1672,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1829,6 +1828,11 @@
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
     "addr": "69.162.102.50",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "69.162.102.50",
+    "port": 7797
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
@@ -2080,12 +2084,6 @@
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
     "port": 28100
-  },
-  {
-    "name": "HLL Playtest Server - US #01",
-    "addr": "83.223.206.29",
-    "port": 28200,
-    "removed": 1721175940
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
