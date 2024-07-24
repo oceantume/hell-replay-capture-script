@@ -149,7 +149,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1721801294
   },
   {
     "name": "IR 德国训练服 日常服 ",
@@ -341,8 +342,7 @@
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1721758068
+    "port": 28300
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -536,7 +536,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721801294
   },
   {
     "name": "HLL Official - Europe #12",
@@ -767,7 +768,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
+    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -800,8 +801,7 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1721736603
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -942,7 +942,8 @@
   {
     "name": "nMo | Nightmare Outcasts | US-C | .gg/nmoutcasts",
     "addr": "192.169.82.162",
-    "port": 9620
+    "port": 9620,
+    "removed": 1721801294
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -1666,7 +1667,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1824,7 +1825,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "nMo | Nightmare Outcasts | US-C | .gg/nmoutcasts",
     "addr": "69.162.102.50",
     "port": 7797
   },
@@ -2077,7 +2078,8 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721801294
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
