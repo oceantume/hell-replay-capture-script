@@ -83,8 +83,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "104.238.222.122",
-    "port": 7792,
-    "removed": 1721912228
+    "port": 7792
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -2098,7 +2097,8 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1721912982
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
