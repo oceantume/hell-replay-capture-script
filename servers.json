@@ -952,12 +952,6 @@
     "port": 9075
   },
   {
-    "name": "DDJJ Company | Event Server | DISCORD.GG | GPORTAL",
-    "addr": "192.169.85.194",
-    "port": 9620,
-    "removed": 1721265884
-  },
-  {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.2",
     "port": 9620
@@ -1043,6 +1037,11 @@
     "name": "Three Ring Circus [NA East] Event Server",
     "addr": "192.169.95.10",
     "port": 9620
+  },
+  {
+    "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
+    "addr": "192.169.95.178",
+    "port": 7877
   },
   {
     "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
