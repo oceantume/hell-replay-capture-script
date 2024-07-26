@@ -173,8 +173,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1721977517
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -379,6 +378,11 @@
     "name": "[BB] Boys Germany     German only,and Mic",
     "addr": "176.57.140.16",
     "port": 28000
+  },
+  {
+    "name": "Server for fun",
+    "addr": "176.57.140.16",
+    "port": 28100
   },
   {
     "name": "=V= Invictus EU/ENG | VIP for seeding | Discord.gg/invictushll",
@@ -1244,7 +1248,7 @@
     "port": 8888
   },
   {
-    "name": "m87",
+    "name": "[CN]革命军87师比赛服务器 Q群:807630815",
     "addr": "202.165.70.15",
     "port": 8908
   },
@@ -1493,6 +1497,11 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
+    "port": 7777
+  },
+  {
+    "name": "XYZ",
+    "addr": "208.115.226.2",
     "port": 7777
   },
   {
