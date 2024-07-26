@@ -108,7 +108,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1722017255
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -731,7 +732,8 @@
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722017255
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -912,7 +914,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
+    "name": "σ CHADs vs. All Who Dare — discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -1032,8 +1034,7 @@
   {
     "name": "Three Ring Circus [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620,
-    "removed": 1721974114
+    "port": 9620
   },
   {
     "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
@@ -1676,7 +1677,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2125,7 +2126,7 @@
     "port": 28100
   },
   {
-    "name": "2nd Armored | US Central | discord.gg/2ad",
+    "name": "2nd Armored | EVENT / TRAINING | discord.gg/2ad",
     "addr": "83.223.207.46",
     "port": 28300
   },
@@ -2142,7 +2143,8 @@
   {
     "name": "SLB #3",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1722017255
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
