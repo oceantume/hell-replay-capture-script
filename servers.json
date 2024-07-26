@@ -2140,10 +2140,9 @@
     "port": 28700
   },
   {
-    "name": "********* *****",
+    "name": "********* ***** #*",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1722018773
+    "port": 7817
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -2281,5 +2280,10 @@
     "name": "『V』- Vanguarda - discord.gg/vanguarda - Aliste-se",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "pirate",
+    "addr": "95.156.198.83",
+    "port": 18000
   }
 ]
