@@ -174,7 +174,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1722063726
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -1064,7 +1065,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1722063726
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1781,7 +1783,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1722063726
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
@@ -2280,6 +2283,7 @@
   {
     "name": "pirate",
     "addr": "95.156.198.83",
-    "port": 18000
+    "port": 18000,
+    "removed": 1722063726
   }
 ]
