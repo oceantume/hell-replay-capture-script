@@ -25,7 +25,7 @@
     "port": 8918
   },
   {
-    "name": "#1《TT》 Paradise Club Newbie Paradise",
+    "name": "CN#1TT天堂俱乐部赏金娱乐赛公众号：TT天堂",
     "addr": "103.62.49.42",
     "port": 8928
   },
@@ -174,8 +174,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1722063726
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -595,12 +594,6 @@
     "name": "KRT's Camelot. Its a only a Game Knight",
     "addr": "176.57.168.254",
     "port": 28100
-  },
-  {
-    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
-    "addr": "176.57.168.254",
-    "port": 28300,
-    "removed": 1721477325
   },
   {
     "name": "[RU/EN] BUNDESWEHR [BWR]",
@@ -1065,8 +1058,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1722063726
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1391,7 +1383,7 @@
     "removed": 1721671649
   },
   {
-    "name": "CN ITK普拉娜的爱の巧克力攻防日服Q48381851",
+    "name": "CN ITK何で春日影やったの?日服Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1589,8 +1581,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork [ENG] | Custom | discord.gg/WTH",
     "addr": "37.187.25.13",
-    "port": 9466,
-    "removed": 1722060438
+    "port": 9466
   },
   {
     "name": "HLL Official - Europe #15",
@@ -1783,8 +1774,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1722063726
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
@@ -2095,7 +2085,8 @@
   {
     "name": "HLL Official - US West - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722082208
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
@@ -2140,12 +2131,18 @@
   {
     "name": "********* ***** #*",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1722082208
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
     "port": 7777
+  },
+  {
+    "name": "Greyhound Event #1",
+    "addr": "85.208.197.70",
+    "port": 7817
   },
   {
     "name": "Hookway's Server",
@@ -2186,8 +2183,7 @@
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1722041365
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
@@ -2283,7 +2279,6 @@
   {
     "name": "pirate",
     "addr": "95.156.198.83",
-    "port": 18000,
-    "removed": 1722063726
+    "port": 18000
   }
 ]
