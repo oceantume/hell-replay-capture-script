@@ -1676,7 +1676,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2044,12 +2044,6 @@
     "port": 28100
   },
   {
-    "name": "[ENG] GET ER DONE",
-    "addr": "83.223.203.182",
-    "port": 28300,
-    "removed": 1721435094
-  },
-  {
     "name": "Clown Effect HLL Server [CLWN] US East",
     "addr": "83.223.203.201",
     "port": 28000
@@ -2188,7 +2182,8 @@
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722041365
   },
   {
     "name": "Excel Spreadsheets",
