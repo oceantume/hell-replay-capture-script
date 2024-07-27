@@ -103,7 +103,8 @@
   {
     "name": "HSK | US WEST | Silicon Forest | New Players Welcome",
     "addr": "104.255.170.181",
-    "port": 9620
+    "port": 9620,
+    "removed": 1722039890
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
@@ -731,8 +732,7 @@
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200,
-    "removed": 1722017255
+    "port": 28200
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1676,7 +1676,7 @@
     "removed": 1721585190
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
