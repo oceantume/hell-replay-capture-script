@@ -179,8 +179,7 @@
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
     "addr": "141.95.72.27",
-    "port": 9620,
-    "removed": 1722146833
+    "port": 9620
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -1074,7 +1073,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1722150183
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
