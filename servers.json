@@ -88,8 +88,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1722171863
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -372,12 +371,6 @@
     "port": 28000
   },
   {
-    "name": "[GER] Wonderland",
-    "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1721585190
-  },
-  {
     "name": "[BB] Boys Germany     German only,and Mic",
     "addr": "176.57.140.16",
     "port": 28000
@@ -612,7 +605,8 @@
   {
     "name": "(GER) Heeresfliegertruppe  | MIC ONLY | discord.gg/Dn3YXBQd5p",
     "addr": "176.57.168.4",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722190008
   },
   {
     "name": "DIE DEUTSCHE HOELLE",
@@ -1099,14 +1093,12 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1722171863
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #04",
     "addr": "193.192.58.101",
-    "port": 28100,
-    "removed": 1722171863
+    "port": 28100
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1141,14 +1133,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1722171863
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1722171863
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1220,6 +1210,11 @@
     "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "195.201.169.249",
     "port": 8530
+  },
+  {
+    "name": "[GER] Sturmtrupp Server KEK - Zusammen Spielen und Spaß haben",
+    "addr": "195.82.158.186",
+    "port": 20600
   },
   {
     "name": "HLL_Nitratest",
@@ -1650,7 +1645,7 @@
     "port": 28200
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Greyhounds Public. Mit Bier und Grillwurst ",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1702,13 +1697,7 @@
     "port": 9620
   },
   {
-    "name": "CN#LLTS.琳琅天上萌新小屋(攻防)Q群484555616",
-    "addr": "51.161.198.37",
-    "port": 7787,
-    "removed": 1721585190
-  },
-  {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1776,8 +1765,7 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224,
-    "removed": 1722171863
+    "port": 9224
   },
   {
     "name": "QC Nation ~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
