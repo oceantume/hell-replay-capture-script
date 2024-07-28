@@ -179,7 +179,8 @@
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
     "addr": "141.95.72.27",
-    "port": 9620
+    "port": 9620,
+    "removed": 1722146833
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -302,7 +303,8 @@
   {
     "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 9620
+    "port": 9620,
+    "removed": 1722146833
   },
   {
     "name": "The Draft [HAUS] 1 |US EAST-FL| discord.gg/drafthaus",
@@ -760,7 +762,8 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722146833
   },
   {
     "name": "HLL Dev Team 2",
@@ -1580,7 +1583,8 @@
   {
     "name": "[FR] HELL LET LOOSE FRANCE | [FR ONLY] | discord.gg/hllfrance ",
     "addr": "37.187.157.115",
-    "port": 9075
+    "port": 9075,
+    "removed": 1722146833
   },
   {
     "name": "[FR |TdA] La Tempête d'Acier \\latempetedacier.fr/French Only",
@@ -1637,6 +1641,11 @@
     "port": 28200
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "46.105.223.204",
+    "port": 7777
+  },
+  {
     "name": "[GER] Trümmertruppe #DTT Event-Server",
     "addr": "46.4.97.246",
     "port": 8530
@@ -1661,6 +1670,11 @@
     "name": "[TFZ] Hell Containment Zone [Warfare Only] - discord.gg/tfz",
     "addr": "51.161.132.69",
     "port": 8530
+  },
+  {
+    "name": "Chimera | Australia | OCE | discord.gg/CHMA",
+    "addr": "51.161.132.69",
+    "port": 8772
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -1816,12 +1830,12 @@
     "port": 8772
   },
   {
-    "name": "nMo | Nightmare Outcasts | Event | .gg/nmoutcasts",
+    "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7777
   },
   {
-    "name": "nMo | Nightmare Outcasts | US-E | .gg/nmoutcasts",
+    "name": "〘ᚖ〙| Hostile Unknown | US-E | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
   },
@@ -1836,7 +1850,7 @@
     "port": 8530
   },
   {
-    "name": "Fire For Effect [FFE] - NEW PLAYERS WELCOME! FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 NEW PLAYERS WELCOME! FFECREW.COM",
     "addr": "69.162.102.50",
     "port": 7777
   },
@@ -1846,14 +1860,19 @@
     "port": 7787
   },
   {
-    "name": "nMo | Nightmare Outcasts | US-C | .gg/nmoutcasts",
+    "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
   },
   {
-    "name": "nMo | Nightmare Outcasts | US-W | .gg/nmoutcasts",
+    "name": "〘ᚖ〙| Hostile Unknown | US-W | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7807
+  },
+  {
+    "name": "Fire For Effect [FFE] - S3 WILD WEST - FFECREW.COM",
+    "addr": "69.162.102.50",
+    "port": 7817
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
