@@ -1032,7 +1032,7 @@
     "port": 9620
   },
   {
-    "name": "Fire For Effect [FFE] - S2 WILD WEST - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 - WILD WEST - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
   },
@@ -1090,7 +1090,8 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "193.192.58.101",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722276466
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1209,12 +1210,6 @@
     "name": "[GER] Sturmtrupp Server KEK - Zusammen Spielen und Spaß haben",
     "addr": "195.82.158.186",
     "port": 20600
-  },
-  {
-    "name": "HLL_Nitratest",
-    "addr": "195.82.158.22",
-    "port": 20700,
-    "removed": 1721671649
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1384,18 +1379,14 @@
   {
     "name": "JPげんし神/萌え新サマーランド絶頂攻防服TVB",
     "addr": "203.10.98.5",
-    "port": 8888
+    "port": 8888,
+    "removed": 1722276466
   },
   {
     "name": "cn1安河桥北的军官营341807965",
     "addr": "203.10.98.5",
-    "port": 8918
-  },
-  {
-    "name": "XTC - server one mix modes",
-    "addr": "203.10.98.63",
-    "port": 8888,
-    "removed": 1721671649
+    "port": 8918,
+    "removed": 1722276466
   },
   {
     "name": "CN ITK千恋万花八周年纪念!日服Q群48381851",
@@ -1667,7 +1658,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1808,7 +1799,7 @@
     "port": 8530
   },
   {
-    "name": "Fire For Effect [FFE] - S1 NEW PLAYERS WELCOME! FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S1 - NEW PLAYERS!! FFECREW.COM",
     "addr": "69.162.102.50",
     "port": 7777
   },
@@ -1828,7 +1819,7 @@
     "port": 7807
   },
   {
-    "name": "Fire For Effect [FFE] - S3 WILD WEST - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S3 - WILD WEST - FFECREW.COM",
     "addr": "69.162.102.50",
     "port": 7817
   },
@@ -2028,7 +2019,8 @@
   {
     "name": "HLL Official - US East #10",
     "addr": "83.223.203.166",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722276466
   },
   {
     "name": "Hell is here",
@@ -2073,7 +2065,8 @@
   {
     "name": "HLL Official - US East #11",
     "addr": "83.223.204.75",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722276466
   },
   {
     "name": "HLL Official Skirmish - US East #01",
