@@ -741,12 +741,6 @@
     "port": 28000
   },
   {
-    "name": "[ GER ] TRÜMMERTRUPPE #DTT EVENT-SERVER",
-    "addr": "176.57.173.119",
-    "port": 28100,
-    "removed": 1721608014
-  },
-  {
     "name": "    [ GER ] KAMPFSCHWEINE 4  | BETABLOCKER´s | OFFENSIVE  ONLY",
     "addr": "176.57.173.119",
     "port": 28200,
@@ -789,7 +783,7 @@
     "port": 28100
   },
   {
-    "name": "Tankers Dream │ NEW SERVER │ ENG",
+    "name": "Tank Destroyers [TD] │ TANK FRIENDLY NEW SERVER │ ENG",
     "addr": "176.57.178.127",
     "port": 28200
   },
@@ -1870,7 +1864,8 @@
   {
     "name": "Fire For Effect [FFE] - S3 WILD WEST - FFECREW.COM",
     "addr": "69.162.102.50",
-    "port": 7817
+    "port": 7817,
+    "removed": 1722212817
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
@@ -2067,6 +2062,11 @@
     "name": "HLL Official - US East #10",
     "addr": "83.223.203.166",
     "port": 28100
+  },
+  {
+    "name": "Hell is here",
+    "addr": "83.223.203.182",
+    "port": 28000
   },
   {
     "name": "Clown Effect HLL Server [CLWN] US East",
