@@ -73,7 +73,8 @@
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
     "addr": "103.97.52.177",
-    "port": 30700
+    "port": 30700,
+    "removed": 1722255025
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -220,6 +221,11 @@
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "145.239.5.101",
     "port": 9620
+  },
+  {
+    "name": "hll Server",
+    "addr": "146.19.48.156",
+    "port": 7807
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
@@ -409,12 +415,6 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe - QA Testing #08",
-    "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1721650210
-  },
-  {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.140.97",
     "port": 28200
@@ -473,8 +473,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1722126521
+    "port": 28200
   },
   {
     "name": "Hilmars Spieleeck",
@@ -521,8 +520,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1722126521
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #12",
@@ -542,8 +540,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1721822977
+    "port": 28200
   },
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
@@ -551,7 +548,7 @@
     "port": 28200
   },
   {
-    "name": "[DD] Devil Dogs Europe 1. Powered by S.I.M.FTW",
+    "name": "[DD] Devil Dogs Europe 1. [Skirmish Only] Powered by S.I.M.FTW",
     "addr": "176.57.168.252",
     "port": 28300
   },
@@ -700,6 +697,11 @@
     "port": 28000
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.171.44",
+    "port": 28200
+  },
+  {
     "name": "JorviDaddy",
     "addr": "176.57.171.44",
     "port": 28300,
@@ -750,8 +752,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1722233319
+    "port": 28100
   },
   {
     "name": "[38.] Infanterie Division | 38id.de | Eventserver",
@@ -832,8 +833,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200,
-    "removed": 1722233319
+    "port": 28200
   },
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
@@ -1028,6 +1028,11 @@
     "name": "Three Ring Circus [NA East] Event Server",
     "addr": "192.169.95.10",
     "port": 9620
+  },
+  {
+    "name": "Fire For Effect [FFE] - S2 WILD WEST - FFECREW.COM",
+    "addr": "192.169.95.178",
+    "port": 7577
   },
   {
     "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
@@ -1591,30 +1596,6 @@
     "port": 9466
   },
   {
-    "name": "HLL Official - Europe #15",
-    "addr": "38.242.238.209",
-    "port": 28000,
-    "removed": 1721650210
-  },
-  {
-    "name": "HLL Dev Team",
-    "addr": "38.242.238.209",
-    "port": 28100,
-    "removed": 1721650210
-  },
-  {
-    "name": "HLL Official - Europe - QA Testing #01",
-    "addr": "38.242.238.209",
-    "port": 28200,
-    "removed": 1721650210
-  },
-  {
-    "name": "Internal_Team17",
-    "addr": "38.242.238.209",
-    "port": 28300,
-    "removed": 1721650210
-  },
-  {
     "name": "HLL Official - Japan #03",
     "addr": "45.137.245.30",
     "port": 28000
@@ -1682,7 +1663,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1931,12 +1912,14 @@
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.76",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722255025
   },
   {
     "name": "HLL Official - Asia #14",
     "addr": "83.223.197.90",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722255025
   },
   {
     "name": "HLL Official Skirmish - Asia #01",
@@ -2281,7 +2264,8 @@
   {
     "name": "[WAP]Weaponized Autism Platoon [24x7 WARFARE][US-WEST]",
     "addr": "92.118.19.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722255025
   },
   {
     "name": "『V』- Vanguarda - discord.gg/vanguarda - Aliste-se",
