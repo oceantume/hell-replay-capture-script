@@ -232,12 +232,6 @@
     "port": 9620
   },
   {
-    "name": "CN测试LLTS琳琅天上萌新小屋 (攻防服)q群484555616",
-    "addr": "15.235.214.54",
-    "port": 7777,
-    "removed": 1721628509
-  },
-  {
     "name": "LLTS#Hong Kong Server (offensive)",
     "addr": "15.235.214.54",
     "port": 7797,
@@ -317,22 +311,26 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.134.56",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -362,57 +360,68 @@
   {
     "name": "[Official] - Bob the Builder | XP Farm | Fast Loadout & Levels",
     "addr": "176.57.140.146",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "[BB] Boys Germany     German only,and Mic",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "Server for fun",
     "addr": "176.57.140.16",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "=V= Invictus EU/ENG | VIP for seeding | Discord.gg/invictushll",
     "addr": "176.57.140.181",
-    "port": 29700
+    "port": 29700,
+    "removed": 1722233319
   },
   {
     "name": "StDb Event",
     "addr": "176.57.140.181",
-    "port": 30200
+    "port": 30200,
+    "removed": 1722233319
   },
   {
     "name": "HTD - HaiiTed Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1722233319
   },
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
     "addr": "176.57.140.83",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #3 | Event-Server | [BFTB]",
     "addr": "176.57.140.83",
-    "port": 28400
+    "port": 28400,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #14",
     "addr": "176.57.140.94",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #09",
     "addr": "176.57.140.94",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe - QA Testing #08",
@@ -423,32 +432,38 @@
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.140.97",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
     "addr": "176.57.153.114",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "US ARMY. A force for good since June 14, 1775",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "En Svensk Tiger #2 |  LVL 40+ | SWE/ENG | HellLetLoose.se",
     "addr": "176.57.153.41",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "Ivy Division East |New Players Welcome|Discord.gg/IvyDivison",
@@ -468,12 +483,14 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #13",
     "addr": "176.57.168.169",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe - QA Testing #03",
@@ -490,7 +507,8 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "  [FR] France Squad - Objectifs & Communication /discord.gg/fhw",
@@ -501,27 +519,32 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.178",
-    "port": 28400
+    "port": 28400,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #11",
     "addr": "176.57.168.187",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe - QA Testing #04",
@@ -532,17 +555,20 @@
   {
     "name": "HLL Official - Europe #12",
     "addr": "176.57.168.189",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official Skirmish - Europe #01",
     "addr": "176.57.168.194",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe - QA Testing #02",
@@ -553,27 +579,32 @@
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
     "addr": "176.57.168.252",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "[DD] Devil Dogs Europe 1. Powered by S.I.M.FTW",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "3rd Cavalry Division Milsim/Roleplay FR",
     "addr": "176.57.168.253",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "Azuni",
     "addr": "176.57.168.253",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "PL/ENG ● Polski serwer Klanu PzJR ● Votemap ● Low Ping",
     "addr": "176.57.168.253",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 3 | M I L F SCHNITTEN #MSK°MIC°OINK",
@@ -584,27 +615,32 @@
   {
     "name": "[YII] 9. Pz » FG » Freitagsgemetzel",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "KRT's Camelot. Its a only a Game Knight",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "[RU/EN] BUNDESWEHR [BWR]",
     "addr": "176.57.168.4",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "(GER) Heeresfliegertruppe  | MIC ONLY | discord.gg/Dn3YXBQd5p",
     "addr": "176.57.168.4",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "DIE DEUTSCHE HOELLE",
     "addr": "176.57.168.4",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "[ EU/GER/ENG ] 1. DOG Hundehütte New Players Welcome",
@@ -615,42 +651,50 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
     "addr": "176.57.168.69",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "=V= Invictus EU/ENG | Event server | Discord.gg/invictushll",
     "addr": "176.57.168.69",
-    "port": 28400
+    "port": 28400,
+    "removed": 1722233319
   },
   {
     "name": "WarLand ",
     "addr": "176.57.168.91",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "91.PzG| #2 Event | Mic + Deutsch | GER",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "ANUBIS PROJECT RP | Military Roleplay",
     "addr": "176.57.169.115",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING | OINK OINK",
     "addr": "176.57.169.115",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 2 | LOW PING | OINK OINK",
@@ -661,47 +705,56 @@
   {
     "name": "[EU/EN] New players welcome | NEW MAPS ",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1722233319
   },
   {
     "name": "91.PzG| #1 Warfare only | Mic + Deutsch | GER",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "1.Fallschirmjäger-Division #2 ",
     "addr": "176.57.171.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "Borry44's Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "PL/ENG ● Polski serwer Klanu PzJR - Event server",
     "addr": "176.57.171.44",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "JorviDaddy",
@@ -712,27 +765,32 @@
   {
     "name": "PV ",
     "addr": "176.57.171.44",
-    "port": 28500
+    "port": 28500,
+    "removed": 1722233319
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "THE INTERNATIONAL SKIRMISH",
     "addr": "176.57.171.7",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 4  | BETABLOCKER´s | OFFENSIVE  ONLY",
@@ -749,22 +807,26 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "[38.] Infanterie Division | 38id.de | Eventserver",
     "addr": "176.57.174.145",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "[38.] Infanterie Division | 38id.de | mic.only! | german | vote",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722233319
   },
   {
     "name": "Hell Of A Way To Die [UK|EU|ENG] Discord: YP5yEYTAeQ",
@@ -810,32 +872,38 @@
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "SLB #2",
     "addr": "176.57.181.144",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.181.144",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #10",
     "addr": "176.57.181.209",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722233319
   },
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722233319
   },
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
@@ -1486,7 +1554,7 @@
     "port": 7777
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 2 | LOW PING | OINK OINK",
+    "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "208.115.206.51",
     "port": 7777
   },
