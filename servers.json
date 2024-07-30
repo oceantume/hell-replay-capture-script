@@ -140,7 +140,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1722319711
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -429,8 +430,7 @@
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
     "addr": "176.57.153.114",
-    "port": 28200,
-    "removed": 1722233319
+    "port": 28200
   },
   {
     "name": "US ARMY. A force for good since June 14, 1775",
@@ -593,8 +593,7 @@
   {
     "name": "KRT's Camelot. Its a only a Game Knight",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1722233319
+    "port": 28100
   },
   {
     "name": "[RU/EN] BUNDESWEHR [BWR]",
@@ -1377,7 +1376,7 @@
     "port": 8918
   },
   {
-    "name": "<CN>佛波勒の老逼登萌新窝/JP/低强度/Q:882377564",
+    "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.41",
     "port": 8938
   },
@@ -2267,7 +2266,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "92.118.19.60",
-    "port": 7797
+    "port": 7797,
+    "removed": 1722319711
   },
   {
     "name": "[WAP]Weaponized Autism Platoon [24x7 WARFARE][US-WEST]",
