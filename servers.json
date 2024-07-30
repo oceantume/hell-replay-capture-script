@@ -327,8 +327,7 @@
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1722344257
+    "port": 28300
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -753,8 +752,7 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200,
-    "removed": 1722344257
+    "port": 28200
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -1625,7 +1623,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1722344997
   },
   {
     "name": "[GER] Trümmertruppe #DTT Event-Server",
