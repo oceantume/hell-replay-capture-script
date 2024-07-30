@@ -256,7 +256,8 @@
   {
     "name": "#2 [LL] Lost Legion | Blood, Guts, and Iron | lostlegion.eu",
     "addr": "159.69.226.144",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722341376
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -1355,7 +1356,7 @@
     "port": 8898
   },
   {
-    "name": "ANH9K&ANZOO",
+    "name": "AA CZS Профессор математики.",
     "addr": "203.10.98.103",
     "port": 8888
   },
@@ -1392,12 +1393,12 @@
     "removed": 1722276466
   },
   {
-    "name": "CN ITK千恋万花八周年纪念!日服Q群48381851",
+    "name": "CN ITK千束泷奈的东京咖啡馆日服Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
   {
-    "name": "JP萌新冠位时间神殿夏天游乐园服务器(纯冲突）",
+    "name": "JP萌新冠位时间神殿夏天游乐园服务器(萌新欢乐",
     "addr": "203.10.98.7",
     "port": 8898
   },
@@ -1506,6 +1507,11 @@
     "name": "XYZ",
     "addr": "208.115.226.2",
     "port": 7777
+  },
+  {
+    "name": "WTH Training Server",
+    "addr": "208.115.226.2",
+    "port": 7787
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1618,6 +1624,11 @@
     "addr": "46.105.223.204",
     "port": 7777,
     "removed": 1722279135
+  },
+  {
+    "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
+    "addr": "46.105.223.204",
+    "port": 7787
   },
   {
     "name": "[GER] Trümmertruppe #DTT Event-Server",
@@ -1760,8 +1771,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1722323098
+    "port": 9075
   },
   {
     "name": "Public Bar Blood Sweat & Beers tiny.cc/BSBHL",
