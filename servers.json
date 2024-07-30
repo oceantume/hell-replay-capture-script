@@ -327,7 +327,8 @@
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722344257
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -752,7 +753,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722344257
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -772,7 +774,8 @@
   {
     "name": "Hell Of A Way To Die [UK|EU|ENG] Discord: YP5yEYTAeQ",
     "addr": "176.57.178.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722344257
   },
   {
     "name": "[CC] Casual Company - New player friendly",
@@ -1250,7 +1253,7 @@
     "port": 8888
   },
   {
-    "name": "[CN]革命军87师比赛服务器 Q群:807630815",
+    "name": "[CN](纯攻防)革命军87师萌新欢乐服务器 Q群:8076308",
     "addr": "202.165.70.15",
     "port": 8908
   },
@@ -1622,8 +1625,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
-    "port": 7787,
-    "removed": 1722343458
+    "port": 7787
   },
   {
     "name": "[GER] Trümmertruppe #DTT Event-Server",
