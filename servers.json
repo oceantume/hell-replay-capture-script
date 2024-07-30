@@ -322,12 +322,14 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722362838
   },
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1722362838
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -590,6 +592,11 @@
     "port": 28100
   },
   {
+    "name": "Europe - New Players Welcome!",
+    "addr": "176.57.168.254",
+    "port": 28200
+  },
+  {
     "name": "[RU/EN] BUNDESWEHR [BWR]",
     "addr": "176.57.168.4",
     "port": 28000
@@ -760,7 +767,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -778,10 +785,11 @@
   {
     "name": "[CC] Casual Company - New player friendly",
     "addr": "176.57.178.127",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722362838
   },
   {
-    "name": "NEW - Tank Destroyers [EU/ENG] Tank Friendly",
+    "name": "NEW - Tank Destroyers [EU/ENG] Tank Friendly - VIP For Scores!",
     "addr": "176.57.178.127",
     "port": 28200
   },
@@ -1623,8 +1631,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
-    "port": 7787,
-    "removed": 1722344997
+    "port": 7787
   },
   {
     "name": "[GER] Trümmertruppe #DTT Event-Server",
@@ -1674,7 +1681,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2150,7 +2157,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event #1",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
