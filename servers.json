@@ -25,17 +25,17 @@
     "port": 8918
   },
   {
-    "name": "TT#1 TTParadise Novice Club(Random Map)YY:78410",
+    "name": "TT#1cn TTParadise Novice Club(Random Map)YY:78410",
     "addr": "103.62.49.42",
     "port": 8928
   },
   {
-    "name": "TT#2 TTParadise Novice Club(Only Offensive)YY:78410",
+    "name": "TT#2cn TTParadise Novice Club(Only Offensive)YY:78410",
     "addr": "103.62.49.42",
     "port": 8938
   },
   {
-    "name": "<CN>JP#3TT天堂社群专属服vx公众号TT天堂 进群",
+    "name": "TT#3 TTParadise Novice Club Wechat:hllttfwq",
     "addr": "103.62.49.42",
     "port": 8948
   },
@@ -275,7 +275,8 @@
   {
     "name": "Chimera | US West | Comp and Training | discord.gg/CHMA",
     "addr": "172.96.160.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1722427813
   },
   {
     "name": "Chimera | US West | Mav's box | discord.gg/CHMA",
@@ -316,14 +317,12 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1722362838
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1722362838
+    "port": 28300
   },
   {
     "name": " [NRD] Training Server - Aussie/Kiwi Clan - www.Clan-NRD.com ",
@@ -788,8 +787,7 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1722126521
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -800,6 +798,11 @@
     "name": "HLL Official - UK #04",
     "addr": "176.57.178.17",
     "port": 28100
+  },
+  {
+    "name": "HLL Official - Europe - QA Testing #05",
+    "addr": "176.57.178.17",
+    "port": 28200
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -830,6 +833,11 @@
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
     "port": 28200
+  },
+  {
+    "name": "Internal Test WinStore Only",
+    "addr": "176.57.181.209",
+    "port": 28300
   },
   {
     "name": "HLL BRASIL | SOFRE AMERICA | HLLBRASIL.COM",
@@ -1372,7 +1380,7 @@
     "port": 8888
   },
   {
-    "name": "JP萌新冠位时间神殿夏天游乐园服务器(萌新欢乐",
+    "name": "JP萌新游戏时间欢乐夏天清爽咖啡馆",
     "addr": "203.10.98.7",
     "port": 8898
   },
@@ -1775,17 +1783,15 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
-    "port": 7777,
-    "removed": 1722343458
+    "port": 7777
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-E | .gg/hostile",
     "addr": "64.31.40.202",
-    "port": 7787,
-    "removed": 1722343458
+    "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.48.82",
     "port": 7777
   },
@@ -1810,7 +1816,7 @@
     "port": 7787
   },
   {
-    "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
+    "name": "〘ᚖ〙| Hostile Unknown | US-W | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
   },
@@ -1976,12 +1982,6 @@
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
     "port": 28100
-  },
-  {
-    "name": "Black Matter Testing Server",
-    "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1721822977
   },
   {
     "name": "HLL Official - US East #07",
