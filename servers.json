@@ -232,12 +232,6 @@
     "port": 9620
   },
   {
-    "name": "LLTS#Hong Kong Server (offensive)",
-    "addr": "15.235.214.54",
-    "port": 7797,
-    "removed": 1721804688
-  },
-  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -911,8 +905,7 @@
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
-    "port": 9620,
-    "removed": 1722409080
+    "port": 9620
   },
   {
     "name": "Lucky Strike Event Server",
@@ -1790,6 +1783,11 @@
     "addr": "64.31.40.202",
     "port": 7787,
     "removed": 1722343458
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.48.82",
+    "port": 7777
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
