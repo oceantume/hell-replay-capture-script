@@ -169,8 +169,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1722495930
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -425,7 +424,8 @@
   {
     "name": "US ARMY. A force for good since June 14, 1775",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722514204
   },
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
@@ -510,7 +510,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722514204
   },
   {
     "name": "HLL Official - Europe #12",
@@ -530,7 +531,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1722514204
   },
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
@@ -556,12 +558,6 @@
     "name": "PL/ENG ● Polski serwer Klanu PzJR ● Votemap ● Low Ping",
     "addr": "176.57.168.253",
     "port": 28200
-  },
-  {
-    "name": "    [ GER ] KAMPFSCHWEINE 3 | M I L F SCHNITTEN #MSK°MIC°OINK",
-    "addr": "176.57.168.253",
-    "port": 28300,
-    "removed": 1721909396
   },
   {
     "name": "[YII] 9. Pz » FG » Freitagsgemetzel",
@@ -632,12 +628,6 @@
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
     "addr": "176.57.171.140",
     "port": 28000
-  },
-  {
-    "name": "    [ GER ] KAMPFSCHWEINE 2 | LOW PING | OINK OINK",
-    "addr": "176.57.171.140",
-    "port": 28300,
-    "removed": 1721909396
   },
   {
     "name": "[EU/EN] New players welcome | NEW MAPS ",
@@ -719,12 +709,6 @@
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
     "port": 28000
-  },
-  {
-    "name": "    [ GER ] KAMPFSCHWEINE 4  | BETABLOCKER´s | OFFENSIVE  ONLY",
-    "addr": "176.57.173.119",
-    "port": 28200,
-    "removed": 1721909396
   },
   {
     "name": "HLL Dev Team 3",
@@ -872,7 +856,8 @@
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722514204
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -1044,8 +1029,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1722495930
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1767,6 +1751,11 @@
     "port": 8772
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.28.82",
+    "port": 7777
+  },
+  {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7777
@@ -2129,10 +2118,9 @@
     "port": 7817
   },
   {
-    "name": "Hookway's Server",
+    "name": "hitler Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1721930835
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2228,12 +2216,6 @@
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
     "port": 7777
-  },
-  {
-    "name": "TP WAR GAMES",
-    "addr": "92.118.18.93",
-    "port": 7797,
-    "removed": 1721909396
   },
   {
     "name": "Hell Let Loose Server",
