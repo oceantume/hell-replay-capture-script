@@ -468,6 +468,11 @@
     "port": 28200
   },
   {
+    "name": "mine",
+    "addr": "176.57.168.174",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (USA) LSSAH - Newbies Welcome - Discord Availabl",
     "addr": "176.57.168.174",
     "port": 28200
@@ -617,7 +622,8 @@
   {
     "name": "ANUBIS PROJECT RP | Military Roleplay",
     "addr": "176.57.169.115",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722535647
   },
   {
     "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING | OINK OINK",
@@ -784,6 +790,11 @@
     "port": 28200
   },
   {
+    "name": "[ GER ] Aegisstube 1 | Low-Ping | Wir sind Neu! - ",
+    "addr": "176.57.181.105",
+    "port": 28000
+  },
+  {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
     "port": 28100
@@ -856,8 +867,7 @@
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777,
-    "removed": 1722514204
+    "port": 7777
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -1471,6 +1481,11 @@
     "port": 7787
   },
   {
+    "name": "World_of_Asgard_HLL-Server-1",
+    "addr": "208.115.226.2",
+    "port": 7797
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1630,7 +1645,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2120,7 +2135,8 @@
   {
     "name": "hitler Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722535647
   },
   {
     "name": "HLL Official - South America #03 [ES]",
