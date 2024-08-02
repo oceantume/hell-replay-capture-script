@@ -417,6 +417,11 @@
     "port": 28000
   },
   {
+    "name": "Hell Let Loose McPaper Test Server",
+    "addr": "176.57.153.114",
+    "port": 28100
+  },
+  {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
     "addr": "176.57.153.114",
     "port": 28200
@@ -636,6 +641,11 @@
     "port": 28000
   },
   {
+    "name": "    [ GER ] KAMPFSCHWEINE 3 | M I L F SCHNITTEN #MSK°MIC°OINK",
+    "addr": "176.57.171.140",
+    "port": 28300
+  },
+  {
     "name": "[EU/EN] New players welcome | NEW MAPS ",
     "addr": "176.57.171.140",
     "port": 28400
@@ -709,6 +719,11 @@
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
     "port": 28000
+  },
+  {
+    "name": "    [ GER ] KAMPFSCHWEINE 4  | TRUSTED EXIL | OC | OINK",
+    "addr": "176.57.173.119",
+    "port": 28200
   },
   {
     "name": "HLL Dev Team 3",
@@ -1299,7 +1314,7 @@
     "port": 9018
   },
   {
-    "name": "wuhu",
+    "name": "CN81 Event Server HK",
     "addr": "202.165.70.93",
     "port": 9048
   },
@@ -1341,7 +1356,8 @@
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.41",
-    "port": 8938
+    "port": 8938,
+    "removed": 1722622063
   },
   {
     "name": "HLL Server",
@@ -1435,7 +1451,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM.C",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1634,7 +1650,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
