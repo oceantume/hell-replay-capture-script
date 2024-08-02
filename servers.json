@@ -883,12 +883,6 @@
     "port": 8918
   },
   {
-    "name": "Fire For Effect [FFE] - Level 55+ FFECREW.COM",
-    "addr": "191.101.166.120",
-    "port": 8530,
-    "removed": 1721974114
-  },
-  {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
     "addr": "191.101.166.120",
     "port": 9075
@@ -1314,7 +1308,8 @@
   {
     "name": "【FJ】/WEST US/ Highly Competitive Servers",
     "addr": "203.10.96.196",
-    "port": 8888
+    "port": 8888,
+    "removed": 1722578945
   },
   {
     "name": "【FJ】Training server/WEST US/",
@@ -1605,14 +1600,12 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1722561897
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014,
-    "removed": 1722561897
+    "port": 9014
   },
   {
     "name": "[TFZ] Hell Containment Zone [Warfare Only] - discord.gg/tfz",
@@ -1641,7 +1634,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2033,7 +2026,8 @@
   {
     "name": "Mikes game",
     "addr": "83.223.204.122",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722578945
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
