@@ -860,12 +860,14 @@
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722600585
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
     "addr": "189.1.170.137",
-    "port": 7782
+    "port": 7782,
+    "removed": 1722600585
   },
   {
     "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip/recruta.me",
@@ -1233,7 +1235,8 @@
   {
     "name": "〈CN〉怀瑾握瑜社区服",
     "addr": "202.165.70.91",
-    "port": 8938
+    "port": 8938,
+    "removed": 1722600585
   },
   {
     "name": "CN 馥郁奶油咖啡欢乐夏天悸爽攻防馆|665640040",
@@ -1316,10 +1319,9 @@
     "port": 8898
   },
   {
-    "name": "AA CZS Профессор математики.",
+    "name": "Laowo competition sponsored by czs JP",
     "addr": "203.10.98.103",
-    "port": 8888,
-    "removed": 1722406021
+    "port": 8888
   },
   {
     "name": "〈CN〉音奏的萌新欢乐园/jp节点/Q:335411305",
@@ -1632,7 +1634,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
