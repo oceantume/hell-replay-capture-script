@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1722538920
+    "port": 8888
   },
   {
     "name": "[Merc] [TVB]  #3 Asia Discord.gg/m3rc",
@@ -944,7 +943,8 @@
   {
     "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
     "addr": "192.169.86.218",
-    "port": 9620
+    "port": 9620,
+    "removed": 1722558319
   },
   {
     "name": "[★] Warfare Lovers | Level 100+ | Comp | Strategy | !commands",
@@ -1646,7 +1646,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2106,6 +2106,11 @@
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "83.223.207.46",
     "port": 28300
+  },
+  {
+    "name": "Snarky's (US Mid) Snarky",
+    "addr": "83.223.207.50",
+    "port": 28000
   },
   {
     "name": "Test",
