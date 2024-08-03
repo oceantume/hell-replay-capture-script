@@ -223,7 +223,8 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620
+    "port": 9620,
+    "removed": 1722690264
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -1099,12 +1100,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722690264
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722690264
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1706,7 +1709,8 @@
   {
     "name": "PL/ENG - Polish Community Server [HLL.PL]",
     "addr": "51.77.66.51",
-    "port": 9224
+    "port": 9224,
+    "removed": 1722690264
   },
   {
     "name": "QC Nation ~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
@@ -1726,7 +1730,8 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1722690264
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
