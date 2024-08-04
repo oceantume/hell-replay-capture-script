@@ -128,7 +128,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1722751660
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -277,12 +278,6 @@
     "addr": "172.96.160.116",
     "port": 9075,
     "removed": 1722708408
-  },
-  {
-    "name": "Chimera | Us West | SL level 25+ | discord.gg/CHMA",
-    "addr": "172.96.160.116",
-    "port": 9620,
-    "removed": 1722146833
   },
   {
     "name": "The Draft [HAUS] 1 |US EAST-FL| discord.gg/drafthaus",
@@ -738,12 +733,6 @@
     "port": 28200
   },
   {
-    "name": "HLL Dev Team 3",
-    "addr": "176.57.174.129",
-    "port": 28000,
-    "removed": 1722146833
-  },
-  {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
     "port": 28200
@@ -945,6 +934,11 @@
     "port": 9075
   },
   {
+    "name": "iTerrorBilly Server",
+    "addr": "192.169.85.2",
+    "port": 8530
+  },
+  {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.2",
     "port": 9620
@@ -1028,8 +1022,7 @@
   {
     "name": "Fire For Effect [FFE] - S2 - WILD WEST - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577,
-    "removed": 1722299136
+    "port": 7577
   },
   {
     "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
@@ -1381,7 +1374,7 @@
     "removed": 1722276466
   },
   {
-    "name": "CN ITK五河琴里的欢乐生日祭日服Q群48381851",
+    "name": "CN ITK砂狼白子的对策委员会日服Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1571,12 +1564,6 @@
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
-  },
-  {
-    "name": "[FR] HELL LET LOOSE FRANCE | [FR ONLY] | discord.gg/hllfrance ",
-    "addr": "37.187.157.115",
-    "port": 9075,
-    "removed": 1722146833
   },
   {
     "name": "[FR |TdA] La Tempête d'Acier \\latempetedacier.fr/French Only",
@@ -2115,7 +2102,7 @@
     "port": 28100
   },
   {
-    "name": "2nd Armored | TRAINING / EVENTS | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "83.223.207.46",
     "port": 28300
   },
