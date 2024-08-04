@@ -348,7 +348,8 @@
   {
     "name": "Hilles Spieleck",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722775286
   },
   {
     "name": "[BB] Boys Germany     German only,and Mic",
@@ -1627,12 +1628,6 @@
     "addr": "51.161.132.69",
     "port": 8530,
     "removed": 1722735120
-  },
-  {
-    "name": "Chimera | Australia | OCE | discord.gg/CHMA",
-    "addr": "51.161.132.69",
-    "port": 8772,
-    "removed": 1722170475
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
