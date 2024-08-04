@@ -40,7 +40,7 @@
     "port": 8948
   },
   {
-    "name": "cn.jp【PUMA】男娘小双萌新服q746699634",
+    "name": "cn.jp【PUMA】萨拉挫加男娘小双萌新服q746699634",
     "addr": "103.62.49.42",
     "port": 8968
   },
@@ -163,8 +163,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1722755016
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -876,12 +875,14 @@
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722773318
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
     "addr": "189.1.170.137",
-    "port": 7782
+    "port": 7782,
+    "removed": 1722773318
   },
   {
     "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip/recruta.me",
