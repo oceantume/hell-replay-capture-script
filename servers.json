@@ -128,8 +128,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1722751660
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -936,7 +935,8 @@
   {
     "name": "iTerrorBilly Server",
     "addr": "192.169.85.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1722752515
   },
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
