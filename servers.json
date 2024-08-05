@@ -1657,7 +1657,8 @@
   {
     "name": "[1CDO] UK/EU | Mics Only | Structured Gameplay | discord.gg/1cd",
     "addr": "51.68.207.116",
-    "port": 9014
+    "port": 9014,
+    "removed": 1722821349
   },
   {
     "name": "[PL/ENG] POLSKA STAJNIA | Low Ping, Votemap, All Maps",
@@ -1673,12 +1674,6 @@
     "name": "[GER][StDb] STOSSTRUPP DONNERBALKEN | GET VIP4SEED | MIC ONLY",
     "addr": "51.75.144.129",
     "port": 9256
-  },
-  {
-    "name": "WTH Training Server",
-    "addr": "51.75.147.215",
-    "port": 8530,
-    "removed": 1722216525
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #2 | EVENT | vlkhll.cz",
