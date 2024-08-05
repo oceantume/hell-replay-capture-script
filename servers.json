@@ -383,7 +383,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #3 | Event-Server | [BFTB]",
     "addr": "176.57.140.83",
-    "port": 28400
+    "port": 28400,
+    "removed": 1722817618
   },
   {
     "name": "HLL Official - Europe #01",
@@ -673,7 +674,8 @@
   {
     "name": "Borry44's Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1722817618
   },
   {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
@@ -1607,7 +1609,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] #DTT vs 106. Seeding-Event",
+    "name": "[ GER ] TRÜMMERTRUPPE EVENT-SERVER #DTT",
     "addr": "46.4.97.246",
     "port": 8530
   },
@@ -1643,7 +1645,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1767,6 +1769,11 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.28.82",
     "port": 7777
+  },
+  {
+    "name": "TAW NA SERVER 2 | JOIN US AT DISCORD.GG/TAWHLL",
+    "addr": "64.31.28.82",
+    "port": 7787
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
@@ -2114,6 +2121,11 @@
     "name": "Just have fun!",
     "addr": "83.223.207.50",
     "port": 28700
+  },
+  {
+    "name": "TAW EU SERVER 2 | JOIN US AT DISCORD.GG/TAWHLL",
+    "addr": "85.208.197.66",
+    "port": 7817
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
