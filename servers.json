@@ -512,6 +512,11 @@
     "port": 28200
   },
   {
+    "name": "Internal FCTOOE.99",
+    "addr": "176.57.168.189",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
     "port": 28000
@@ -714,6 +719,11 @@
     "name": "    [ GER ] KAMPFSCHWEINE 4 | LOW PING | OINK OINK",
     "addr": "176.57.173.119",
     "port": 28200
+  },
+  {
+    "name": "Team17 CERT",
+    "addr": "176.57.174.129",
+    "port": 28100
   },
   {
     "name": "HLL Dev Team 2",
@@ -1616,7 +1626,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2033,6 +2043,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Official - US East - QA Testing #09",
+    "addr": "83.223.206.29",
+    "port": 28100
+  },
+  {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
     "addr": "83.223.207.141",
     "port": 28000
@@ -2088,7 +2103,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUNDS - Event | German | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
