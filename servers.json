@@ -733,7 +733,7 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
+    "name": "[38.] Infanterie Division | 38id.de | german | rotation",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -746,12 +746,6 @@
     "name": "[Merc] #3 EU Discord.gg/m3rc ",
     "addr": "176.57.178.127",
     "port": 28000
-  },
-  {
-    "name": "[CC] Casual Company - New player friendly",
-    "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1722362838
   },
   {
     "name": "TD | Tank Destroyers [EU/ENG]",
@@ -1612,7 +1606,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2102,7 +2096,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUNDS - Event | German | discord.gg/greyhounds",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
