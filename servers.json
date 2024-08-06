@@ -230,12 +230,6 @@
     "port": 8772
   },
   {
-    "name": "#2 [LL] Lost Legion | Blood, Guts, and Iron | lostlegion.eu",
-    "addr": "159.69.226.144",
-    "port": 7777,
-    "removed": 1722341376
-  },
-  {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
     "port": 9014
@@ -1346,7 +1340,8 @@
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.5",
-    "port": 8898
+    "port": 8898,
+    "removed": 1722946204
   },
   {
     "name": "CN ITK砂狼白子的对策委员会日服Q群48381851",
@@ -2112,10 +2107,9 @@
     "port": 7817
   },
   {
-    "name": "hitler Server",
+    "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1722535647
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2145,7 +2139,8 @@
   {
     "name": "[RF] REFUZE - MATCH SERVER discord.gg/refuzehll",
     "addr": "92.118.16.126",
-    "port": 7817
+    "port": 7817,
+    "removed": 1722946204
   },
   {
     "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
