@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1722971096
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -508,8 +507,7 @@
   {
     "name": "Internal FCTOOE.99",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1722907550
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -579,7 +577,8 @@
   {
     "name": "(GER) Heeresfliegertruppe  | MIC ONLY | discord.gg/Dn3YXBQd5p",
     "addr": "176.57.168.4",
-    "port": 28100
+    "port": 28100,
+    "removed": 1722990347
   },
   {
     "name": "DIE DEUTSCHE HOELLE",
@@ -867,8 +866,7 @@
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
     "addr": "189.1.170.137",
-    "port": 7782,
-    "removed": 1722859824
+    "port": 7782
   },
   {
     "name": "HLL BRASIL <CF> MARRAM #01 - www.hllbr.vip/recruta.me",
@@ -1008,7 +1006,7 @@
     "port": 9620
   },
   {
-    "name": "Fire For Effect [FFE] - S2 - US EAST - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
   },
@@ -1207,8 +1205,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1722971096
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1460,6 +1457,11 @@
     "port": 7797
   },
   {
+    "name": "106 Event",
+    "addr": "208.115.226.2",
+    "port": 7807
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1605,11 +1607,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1722971096
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1789,7 +1790,8 @@
   {
     "name": "Fire For Effect [FFE] - S3 - FFECREW.COM",
     "addr": "69.162.102.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1722990347
   },
   {
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
@@ -1807,7 +1809,7 @@
     "port": 7807
   },
   {
-    "name": "Fire For Effect [FFE] - S1 - WILD WEST - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.50",
     "port": 7817
   },
