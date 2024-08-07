@@ -1157,12 +1157,6 @@
     "port": 8530
   },
   {
-    "name": "[GER] Sturmtrupp Server KEK - Zusammen Spielen und Spaß haben",
-    "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1722449288
-  },
-  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
@@ -1730,7 +1724,7 @@
     "port": 7777
   },
   {
-    "name": "TAW NA SERVER 2 | JOIN US AT DISCORD.GG/TAWHLL",
+    "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
   },
@@ -2089,7 +2083,7 @@
     "port": 28700
   },
   {
-    "name": "TAW EU SERVER 2 | JOIN US AT DISCORD.GG/TAWHLL",
+    "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
   },
@@ -2132,7 +2126,8 @@
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | JOIN US - DISCORD.GG/TAWHLL",
     "addr": "92.118.16.126",
-    "port": 7797
+    "port": 7797,
+    "removed": 1723054927
   },
   {
     "name": "[RF] REFUZE - MATCH SERVER discord.gg/refuzehll",
@@ -2180,7 +2175,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | TAW.NET | ENLIST TODAY!",
     "addr": "92.118.18.72",
-    "port": 7807
+    "port": 7807,
+    "removed": 1723054927
   },
   {
     "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & LOYALTY VIP",
