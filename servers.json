@@ -1762,10 +1762,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1723012595
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -2234,6 +2233,7 @@
   {
     "name": "pirate",
     "addr": "95.156.198.83",
-    "port": 18000
+    "port": 18000,
+    "removed": 1723013765
   }
 ]
