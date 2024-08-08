@@ -1322,7 +1322,8 @@
   {
     "name": "LLTS萌新小屋",
     "addr": "203.10.98.43",
-    "port": 8888
+    "port": 8888,
+    "removed": 1723118995
   },
   {
     "name": "HLL Server",
@@ -1333,6 +1334,11 @@
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.5",
     "port": 8898
+  },
+  {
+    "name": "CN2#jp琳琅天上萌新小屋（攻防）Q群484555616",
+    "addr": "203.10.98.6",
+    "port": 8888
   },
   {
     "name": "CN ITK砂狼白子的对策委员会日服Q群48381851",
@@ -2093,15 +2099,14 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "Greyhounds Event - Blue",
     "addr": "85.208.197.70",
     "port": 7817
   },
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1722949086
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2126,7 +2131,8 @@
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | JOIN US - DISCORD.GG/TAWHLL",
     "addr": "92.118.16.126",
-    "port": 7797
+    "port": 7797,
+    "removed": 1723118995
   },
   {
     "name": "[RF] REFUZE - MATCH SERVER discord.gg/refuzehll",
