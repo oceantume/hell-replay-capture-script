@@ -133,7 +133,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1723097320
   },
   {
     "name": "Infiltration Event DE",
@@ -1135,12 +1136,6 @@
     "port": 9620
   },
   {
-    "name": "Dutch Let Loose #3 [DLL] - SKIRMISH ONLY - DUTCH/ENGLISH - [NED",
-    "addr": "193.70.81.145",
-    "port": 8530,
-    "removed": 1722476019
-  },
-  {
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
     "addr": "193.70.81.145",
     "port": 9075
@@ -2062,7 +2057,7 @@
     "port": 28100
   },
   {
-    "name": "2nd Armored | TRAINING / EVENTS | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "83.223.207.46",
     "port": 28300
   },
@@ -2125,8 +2120,7 @@
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | JOIN US - DISCORD.GG/TAWHLL",
     "addr": "92.118.16.126",
-    "port": 7797,
-    "removed": 1723054927
+    "port": 7797
   },
   {
     "name": "[RF] REFUZE - MATCH SERVER discord.gg/refuzehll",
