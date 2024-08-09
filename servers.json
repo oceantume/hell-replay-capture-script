@@ -465,8 +465,7 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100,
-    "removed": 1723209079
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1418,7 +1417,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM.C",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1440,11 +1439,27 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723226860
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.75",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.76",
+    "port": 7777
+  },
+  {
+    "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
+    "addr": "208.115.206.77",
     "port": 7777
   },
   {
@@ -1604,7 +1619,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1780,8 +1795,7 @@
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
-    "port": 8888,
-    "removed": 1723205405
+    "port": 8888
   },
   {
     "name": "RFTA Battle grounds",
