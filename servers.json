@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1723143916
+    "port": 8888
   },
   {
     "name": "LLTS萌新小屋",
@@ -949,12 +948,6 @@
     "port": 9014
   },
   {
-    "name": "Fallschirm-Panzer-Division 1. [US CENTRAL] Discord.gg/FPzD",
-    "addr": "192.169.86.218",
-    "port": 9620,
-    "removed": 1722558319
-  },
-  {
     "name": "[★] Warfare Lovers | Level 100+ | Comp | Strategy | !commands",
     "addr": "192.169.86.66",
     "port": 8530
@@ -997,12 +990,14 @@
   {
     "name": "10th Mountain Division ᄿ Level 50+ (US Central) : discord.gg/",
     "addr": "192.169.92.250",
-    "port": 9075
+    "port": 9075,
+    "removed": 1723163162
   },
   {
     "name": "[L9] The Loyal Nine - #1 L9Clan.com/discord",
     "addr": "192.169.92.98",
-    "port": 9075
+    "port": 9075,
+    "removed": 1723163162
   },
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
@@ -1207,8 +1202,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1723143916
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1608,11 +1602,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1723143916
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2027,6 +2020,11 @@
     "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
     "port": 28200
+  },
+  {
+    "name": "[198] 198th PanzerGrenadiers US East - Combined Arms Maps",
+    "addr": "83.223.204.129",
+    "port": 28000
   },
   {
     "name": "nMo | Events | discord.gg/teamNMO",
