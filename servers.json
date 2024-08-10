@@ -273,6 +273,11 @@
     "port": 7807
   },
   {
+    "name": "Practice Server PCK",
+    "addr": "173.225.104.218",
+    "port": 8530
+  },
+  {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
@@ -1624,7 +1629,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1800,8 +1805,7 @@
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
-    "port": 8888,
-    "removed": 1723291727
+    "port": 8888
   },
   {
     "name": "RFTA Battle grounds",
