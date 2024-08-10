@@ -134,8 +134,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1723270053
+    "port": 9224
   },
   {
     "name": "Infiltration Event DE",
@@ -165,8 +164,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1723273366
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -186,8 +184,7 @@
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
     "addr": "145.239.144.76",
-    "port": 8530,
-    "removed": 1723270053
+    "port": 8530
   },
   {
     "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
@@ -864,6 +861,11 @@
     "port": 9075
   },
   {
+    "name": "hll Server",
+    "addr": "181.214.221.212",
+    "port": 7777
+  },
+  {
     "name": "HLL Server",
     "addr": "185.34.11.165",
     "port": 7777,
@@ -930,6 +932,11 @@
     "port": 9075
   },
   {
+    "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
+    "addr": "192.169.85.194",
+    "port": 9620
+  },
+  {
     "name": "iTerrorBilly Server",
     "addr": "192.169.85.2",
     "port": 8530,
@@ -938,7 +945,8 @@
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1723291727
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
@@ -1792,7 +1800,8 @@
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
-    "port": 8888
+    "port": 8888,
+    "removed": 1723291727
   },
   {
     "name": "RFTA Battle grounds",
