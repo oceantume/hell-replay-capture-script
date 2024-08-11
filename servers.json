@@ -613,6 +613,11 @@
     "port": 28100
   },
   {
+    "name": "Hilles Spieleeck",
+    "addr": "176.57.169.115",
+    "port": 28200
+  },
+  {
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
     "addr": "176.57.171.140",
     "port": 28000
@@ -773,12 +778,6 @@
     "name": "HLL Official - Europe - QA Testing #05",
     "addr": "176.57.178.17",
     "port": 28200
-  },
-  {
-    "name": "[ GER ] Aegisstube 1 | Low-Ping | Wir sind Neu! - ",
-    "addr": "176.57.181.105",
-    "port": 28000,
-    "removed": 1722794791
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -1076,7 +1075,8 @@
   {
     "name": "Unleash Hell Offensive Style!",
     "addr": "193.192.58.206",
-    "port": 28200
+    "port": 28200,
+    "removed": 1723399705
   },
   {
     "name": "Vexed EXE's Low Light Maps (US West)",
@@ -1294,7 +1294,7 @@
     "port": 8888
   },
   {
-    "name": "HLL Server",
+    "name": "『CZS』U K & S U chart Special training clothing",
     "addr": "203.10.98.41",
     "port": 8898
   },
@@ -1611,7 +1611,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
