@@ -270,8 +270,7 @@
   {
     "name": "Practice Server PCK",
     "addr": "173.225.104.218",
-    "port": 8530,
-    "removed": 1723314043
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -361,12 +360,6 @@
     "port": 28200
   },
   {
-    "name": "[GER] Fliesentisch-Veteranen #3 | Event-Server | [BFTB]",
-    "addr": "176.57.140.83",
-    "port": 28400,
-    "removed": 1722817618
-  },
-  {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
     "port": 28000
@@ -415,7 +408,8 @@
   {
     "name": "Ivy Division East |  NA and EU | Discord.gg/IvyDivison",
     "addr": "176.57.165.10",
-    "port": 30600
+    "port": 30600,
+    "removed": 1723422437
   },
   {
     "name": "Tank Brawl Jüterbog | DISCORD: https://discord.gg/ttuejfXK4p",
@@ -833,7 +827,8 @@
   {
     "name": "MIB - Made In Brasil / Junte-se Insanidade em: https://discord.",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1723422437
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -937,6 +932,11 @@
     "addr": "192.169.85.2",
     "port": 9620,
     "removed": 1723291727
+  },
+  {
+    "name": "nMo | Events | discord.gg/teamNMO",
+    "addr": "192.169.86.106",
+    "port": 7787
   },
   {
     "name": "nMo | East | New Players Welcome | discord.gg/teamNMO",
@@ -1090,6 +1090,11 @@
     "port": 28000
   },
   {
+    "name": "200 Ping or less (US West) discord/CocaineSalmon",
+    "addr": "193.192.58.52",
+    "port": 28100
+  },
+  {
     "name": "The Tank Squad | NEW PLAYER FRIENDLY | discord.gg/pExZrNqacq",
     "addr": "193.192.58.52",
     "port": 28200
@@ -1202,8 +1207,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1723403099
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1618,7 +1622,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1825,6 +1829,11 @@
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
     "port": 7827
+  },
+  {
+    "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
+    "addr": "74.63.231.2",
+    "port": 7777
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
