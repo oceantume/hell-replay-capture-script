@@ -377,7 +377,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1723464690
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -747,17 +748,20 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1723464690
   },
   {
     "name": "HLL Official - UK #03",
     "addr": "176.57.178.141",
-    "port": 28100
+    "port": 28100,
+    "removed": 1723464690
   },
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1723464690
   },
   {
     "name": "HLL Official - UK #02",
@@ -770,7 +774,7 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe - QA Testing #05",
+    "name": "[12:10] Jack Roberts HLL Official - Europe - QA Testing #05  ",
     "addr": "176.57.178.17",
     "port": 28200
   },
@@ -807,7 +811,8 @@
   {
     "name": "Internal Test WinStore Only",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1723464690
   },
   {
     "name": "CAMPEONATO BRASILEIRO HLL 2024 - Aliste-se!",
@@ -2052,7 +2057,8 @@
   {
     "name": "HLL Official - US East - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1723464690
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
@@ -2117,8 +2123,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1723140515
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03 [ES]",
