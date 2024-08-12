@@ -1522,14 +1522,12 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1723487014
+    "port": 7797
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807,
-    "removed": 1723487014
+    "port": 7807
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1857,7 +1855,8 @@
   {
     "name": "HLL Server",
     "addr": "81.77.108.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723487789
   },
   {
     "name": "HLL Official - Asia #07",
