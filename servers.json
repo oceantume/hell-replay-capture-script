@@ -830,8 +830,7 @@
   {
     "name": "MIB - Made In Brasil / Junte-se Insanidade em: https://discord.",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1723486132
+    "port": 7827
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1523,12 +1522,14 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1723487014
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807
+    "port": 7807,
+    "removed": 1723487014
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1852,6 +1853,11 @@
     "name": "Qonzer.com NY",
     "addr": "81.21.1.149",
     "port": 7797
+  },
+  {
+    "name": "HLL Server",
+    "addr": "81.77.108.210",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
