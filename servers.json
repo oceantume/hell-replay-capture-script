@@ -827,8 +827,7 @@
   {
     "name": "MIB - Made In Brasil / Junte-se Insanidade em: https://discord.",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1723422437
+    "port": 7827
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -976,7 +975,8 @@
   {
     "name": "The Orange Bowl",
     "addr": "192.169.89.26",
-    "port": 8530
+    "port": 8530,
+    "removed": 1723423986
   },
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
