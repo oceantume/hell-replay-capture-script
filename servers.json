@@ -748,14 +748,12 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1723464690
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #03",
     "addr": "176.57.178.141",
-    "port": 28100,
-    "removed": 1723464690
+    "port": 28100
   },
   {
     "name": "HLL Official - UK - QA Testing #07",
@@ -832,7 +830,8 @@
   {
     "name": "MIB - Made In Brasil / Junte-se Insanidade em: https://discord.",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1723486132
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1627,7 +1626,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2123,7 +2122,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723486132
   },
   {
     "name": "HLL Official - South America #03 [ES]",
@@ -2170,7 +2170,8 @@
   {
     "name": "2nd Ranger Battalion | US EAST | discord.gg/2ndrangers",
     "addr": "92.118.18.105",
-    "port": 7797
+    "port": 7797,
+    "removed": 1723486132
   },
   {
     "name": "DICK fight for it",
