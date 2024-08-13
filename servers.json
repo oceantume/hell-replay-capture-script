@@ -1093,7 +1093,7 @@
     "port": 28000
   },
   {
-    "name": "200 Ping or less (US West) discord/CocaineSalmon",
+    "name": "Anyone but Biden (US West) discord/CocaineSalmon",
     "addr": "193.192.58.52",
     "port": 28100
   },
@@ -1198,6 +1198,11 @@
     "port": 9620
   },
   {
+    "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
+    "addr": "199.127.60.169",
+    "port": 7777
+  },
+  {
     "name": "[CN](纯冲突)革命军87师萌新欢乐服 Q群:807630815",
     "addr": "202.165.70.15",
     "port": 8888
@@ -1210,8 +1215,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1723489587
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1491,9 +1495,14 @@
     "port": 7797
   },
   {
-    "name": "106 Event",
+    "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
     "port": 7807
+  },
+  {
+    "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
+    "addr": "208.115.226.2",
+    "port": 7817
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1626,7 +1635,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2012,7 +2021,8 @@
   {
     "name": "nMo | East | New Players Welcome | discord.gg/teamNMO",
     "addr": "83.223.203.155",
-    "port": 28200
+    "port": 28200,
+    "removed": 1723508801
   },
   {
     "name": "HLL Official - US East #09",
@@ -2042,7 +2052,8 @@
   {
     "name": "nMo | Events | discord.gg/teamNMO",
     "addr": "83.223.204.229",
-    "port": 28000
+    "port": 28000,
+    "removed": 1723508801
   },
   {
     "name": "Boneyard (US East)",
