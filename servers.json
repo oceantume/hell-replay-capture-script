@@ -514,6 +514,11 @@
     "port": 28200
   },
   {
+    "name": "[SHT] Selbsthilfe Truppe | VOICE PFLICHT | Komm in die Truppe ",
+    "addr": "176.57.168.252",
+    "port": 28000
+  },
+  {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
     "addr": "176.57.168.252",
     "port": 28200
@@ -1636,7 +1641,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1866,7 +1871,8 @@
   {
     "name": "HLL Server",
     "addr": "81.77.108.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723572487
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2132,14 +2138,15 @@
     "port": 7777
   },
   {
-    "name": "Greyhounds Event - Blue",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723572487
   },
   {
     "name": "HLL Official - South America #03 [ES]",
