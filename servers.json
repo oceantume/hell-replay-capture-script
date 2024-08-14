@@ -16,7 +16,7 @@
     "port": 8898
   },
   {
-    "name": "CN1#JP亿江南萌新欢乐营（纯攻防）QQ群747976659 ",
+    "name": "CN1#JP亿江南萌新欢乐营（纯攻防）QQ群747976659",
     "addr": "103.62.49.42",
     "port": 8908
   },
@@ -135,7 +135,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1723615714
   },
   {
     "name": "Infiltration Event DE",
@@ -226,7 +227,8 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620
+    "port": 9620,
+    "removed": 1723615714
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -982,10 +984,9 @@
     "port": 9014
   },
   {
-    "name": "The Orange Bowl",
+    "name": "Shadow Ops|New Players Welcome|US EAST",
     "addr": "192.169.89.26",
-    "port": 8530,
-    "removed": 1723423986
+    "port": 8530
   },
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
@@ -2038,6 +2039,11 @@
   {
     "name": "HLL Official - US East #09",
     "addr": "83.223.203.166",
+    "port": 28000
+  },
+  {
+    "name": "Hell Let Loose (US East) AMERICA FIRST BOYS",
+    "addr": "83.223.203.182",
     "port": 28000
   },
   {
