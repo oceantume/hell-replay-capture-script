@@ -1221,8 +1221,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1723575894
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1230,7 +1229,7 @@
     "port": 8928
   },
   {
-    "name": "JP 夏日邂逅多冰可乐激爽攻防乐园|665640040",
+    "name": "JP 夏日邂逅多糖可乐冰激爽攻防乐园|665640040",
     "addr": "202.165.70.91",
     "port": 8958
   },
@@ -1366,7 +1365,7 @@
     "port": 8888
   },
   {
-    "name": "JP 夏日邂逅多冰饮料猫娘咖啡厅|665640040",
+    "name": "JP 夏日邂逅多冰饮料猫娘萌新咖啡厅|665640040",
     "addr": "203.10.98.7",
     "port": 8898
   },
@@ -1639,11 +1638,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1723575894
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1747,6 +1745,11 @@
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "54.36.60.213",
     "port": 8772
+  },
+  {
+    "name": "Ivy Division West | NA and AUS| discord.gg/ivydivision",
+    "addr": "63.143.62.100",
+    "port": 7777
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
@@ -2275,6 +2278,7 @@
   {
     "name": "pirate",
     "addr": "95.156.198.83",
-    "port": 18000
+    "port": 18000,
+    "removed": 1723595155
   }
 ]
