@@ -1613,7 +1613,8 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE EVENT-SERVER #DTT",
     "addr": "46.4.97.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1723685083
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1861,12 +1862,6 @@
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
     "port": 9620
-  },
-  {
-    "name": "hll Server",
-    "addr": "81.21.1.149",
-    "port": 7787,
-    "removed": 1723078246
   },
   {
     "name": "Qonzer.com NY",
