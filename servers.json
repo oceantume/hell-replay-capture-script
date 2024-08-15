@@ -731,21 +731,9 @@
     "port": 28100
   },
   {
-    "name": "[38.] Infanterie Division | 38id.de | Eventserver",
-    "addr": "176.57.174.145",
-    "port": 28200,
-    "removed": 1723140515
-  },
-  {
     "name": "[38.] Infanterie Division | 38id.de | mic.only! | german | vote",
     "addr": "176.57.174.145",
     "port": 28300
-  },
-  {
-    "name": "[Merc] #3 EU Discord.gg/m3rc ",
-    "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1723140515
   },
   {
     "name": "TD | Tank Destroyers [EU/ENG]",
@@ -866,12 +854,6 @@
     "name": "hll Server",
     "addr": "181.214.221.212",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1723140515
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -1220,8 +1202,7 @@
   {
     "name": "NO GAME NO LIFE",
     "addr": "202.165.70.15",
-    "port": 8908,
-    "removed": 1723745309
+    "port": 8908
   },
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地|Q群：7025025",
@@ -1266,8 +1247,7 @@
   {
     "name": "!CN024#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8928,
-    "removed": 1723745309
+    "port": 8928
   },
   {
     "name": "!CN025#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1903,8 +1883,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1723745309
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1914,14 +1893,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1723745309
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1723745309
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
