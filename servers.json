@@ -239,7 +239,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
+    "name": "2nd Armored | EVENT / TRAINING | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -267,6 +267,11 @@
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
+  },
+  {
+    "name": "[ЯF™] REFUZE - MATCH SERVER ",
+    "addr": "176.31.232.159",
+    "port": 9075
   },
   {
     "name": "HLL Official - Europe #15",
@@ -1353,12 +1358,14 @@
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.98.7",
-    "port": 8888
+    "port": 8888,
+    "removed": 1723831679
   },
   {
     "name": "JP 夏日邂逅多冰饮料猫娘萌新咖啡厅|665640040",
     "addr": "203.10.98.7",
-    "port": 8898
+    "port": 8898,
+    "removed": 1723831679
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1431,7 +1438,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM 125TH EDITION OF FIGHT NIGHT EVENT          ",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1449,12 +1456,6 @@
     "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "208.115.206.51",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.206.53",
-    "port": 7777,
-    "removed": 1723226860
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1634,7 +1635,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
