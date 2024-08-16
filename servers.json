@@ -92,7 +92,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "135.125.188.111",
-    "port": 9075
+    "port": 9075,
+    "removed": 1723810240
   },
   {
     "name": "HLL Official - Russia #01",
@@ -154,8 +155,7 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530,
-    "removed": 1723791923
+    "port": 8530
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -310,12 +310,6 @@
     "port": 28000
   },
   {
-    "name": "Hilles Spieleck",
-    "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1723205405
-  },
-  {
     "name": "[BB] Boys Germany     German only,and Mic",
     "addr": "176.57.140.16",
     "port": 28000
@@ -374,15 +368,10 @@
     "removed": 1723464690
   },
   {
-    "name": "HLL Playtest Server - Europe #01",
-    "addr": "176.57.140.97",
-    "port": 28200,
-    "removed": 1723205405
-  },
-  {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1723810240
   },
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
@@ -1037,8 +1026,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1723791923
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1145,6 +1133,11 @@
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
     "addr": "193.70.81.145",
     "port": 9075
+  },
+  {
+    "name": "Hell Let Loose (NYC) Server by g-portal.com",
+    "addr": "194.140.197.175",
+    "port": 31100
   },
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
@@ -1464,7 +1457,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born! 1",
+    "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "208.115.206.76",
     "port": 7777
   },
@@ -2238,7 +2231,7 @@
     "port": 7777
   },
   {
-    "name": "Project Ruthless",
+    "name": "Hell Hounds | US | Offensive Only | ",
     "addr": "92.118.19.72",
     "port": 7777
   },
