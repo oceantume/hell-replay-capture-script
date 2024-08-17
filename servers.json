@@ -90,10 +90,9 @@
     "port": 8530
   },
   {
-    "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
+    "name": "Noname",
     "addr": "135.125.188.111",
-    "port": 9075,
-    "removed": 1723810240
+    "port": 9075
   },
   {
     "name": "HLL Official - Russia #01",
@@ -239,7 +238,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | EVENT / TRAINING | discord.gg/2ad",
+    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -826,7 +825,7 @@
     "port": 7787
   },
   {
-    "name": "[MSL] Magic HLL LATAM discord.gg/magic-servers",
+    "name": "[MSL] Magic Latam |+50| discord.gg/magic-servers",
     "addr": "177.54.147.141",
     "port": 7807
   },
@@ -1358,14 +1357,12 @@
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.98.7",
-    "port": 8888,
-    "removed": 1723831679
+    "port": 8888
   },
   {
     "name": "JP 夏日邂逅多冰饮料猫娘萌新咖啡厅|665640040",
     "addr": "203.10.98.7",
-    "port": 8898,
-    "removed": 1723831679
+    "port": 8898
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1438,7 +1435,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM 125TH EDITION OF FIGHT NIGHT EVENT          ",
+    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1637,12 +1634,14 @@
   {
     "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1723874858
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
-    "port": 9620
+    "port": 9620,
+    "removed": 1723874858
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -2041,7 +2040,8 @@
   {
     "name": "Hell Let Loose (US East) AMERICA FIRST BOYS",
     "addr": "83.223.203.182",
-    "port": 28000
+    "port": 28000,
+    "removed": 1723874858
   },
   {
     "name": "Clown Effect HLL Server [CLWN] US East",
