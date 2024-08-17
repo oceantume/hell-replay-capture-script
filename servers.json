@@ -589,6 +589,11 @@
     "port": 28400
   },
   {
+    "name": "[13SNC] Event!",
+    "addr": "176.57.168.91",
+    "port": 28000
+  },
+  {
     "name": "WarLand ",
     "addr": "176.57.168.91",
     "port": 28100
@@ -1786,7 +1791,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1723896507
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -1832,7 +1838,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827
+    "port": 7827,
+    "removed": 1723896507
   },
   {
     "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
@@ -2149,7 +2156,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "Greyhound Event",
     "addr": "85.208.197.70",
     "port": 7817
   },
