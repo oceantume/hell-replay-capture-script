@@ -72,8 +72,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1723899879
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -239,7 +238,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
+    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -882,7 +881,7 @@
     "port": 7807
   },
   {
-    "name": "HLL BRASIL <CF> MARRAM #02 - discord.gold",
+    "name": "<COBRAS FUMANTES> MARRAM #02 - discord.gold",
     "addr": "189.1.170.137",
     "port": 7827
   },
@@ -930,7 +929,8 @@
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.194",
-    "port": 9620
+    "port": 9620,
+    "removed": 1723918039
   },
   {
     "name": "nMo | Events | discord.gg/teamNMO",
@@ -1061,8 +1061,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1723899879
+    "port": 28000
   },
   {
     "name": "Hell Let Bussy Server (Savage Actual)",
@@ -1108,8 +1107,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1723899879
+    "port": 28100
   },
   {
     "name": "(IC) Offensive Heaven  |  US West  |  Votemap Enabled",
@@ -1343,10 +1341,9 @@
     "port": 8928
   },
   {
-    "name": "CN1801蓝蔷薇少女的骑行 萌新服 Q群677043328",
+    "name": "HLL Server",
     "addr": "203.10.98.5",
-    "port": 8888,
-    "removed": 1723898465
+    "port": 8888
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
@@ -1639,14 +1636,12 @@
   {
     "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1723874858
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
-    "port": 9620,
-    "removed": 1723874858
+    "port": 9620
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -1701,8 +1696,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1723899879
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -2140,7 +2134,7 @@
     "port": 28100
   },
   {
-    "name": "Hell Let Loose (US Mid) Gabage Server",
+    "name": "BRO | Build and XP Farm | Bring your Hammer",
     "addr": "83.223.207.50",
     "port": 28200
   },
