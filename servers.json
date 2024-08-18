@@ -238,7 +238,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
+    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -2128,7 +2128,8 @@
   {
     "name": "BRO | Build and XP Farm | Bring your Hammer",
     "addr": "83.223.207.50",
-    "port": 28200
+    "port": 28200,
+    "removed": 1723944734
   },
   {
     "name": "Just have fun!",
