@@ -12,14 +12,12 @@
   {
     "name": "cn2安河桥北的高强度苏美德地图服Q群341807965 ",
     "addr": "103.62.49.42",
-    "port": 8898,
-    "removed": 1723986540
+    "port": 8898
   },
   {
     "name": "CN1#JP亿江南萌新欢乐营（纯攻防）QQ群747976659",
     "addr": "103.62.49.42",
-    "port": 8908,
-    "removed": 1723985074
+    "port": 8908
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
@@ -49,8 +47,7 @@
   {
     "name": "CN1#jp琳琅天上萌新小屋 (攻防服)q群484555616",
     "addr": "103.62.49.42",
-    "port": 8978,
-    "removed": 1723986540
+    "port": 8978
   },
   {
     "name": "PUMA Kombinierte Kampfgruppe ",
@@ -384,6 +381,11 @@
     "addr": "176.57.153.114",
     "port": 28000,
     "removed": 1723810240
+  },
+  {
+    "name": "Server123Meins",
+    "addr": "176.57.153.114",
+    "port": 28100
   },
   {
     "name": "[LwJg46] #2 - Bierstube [Trainings- und Eventserver]",
@@ -932,6 +934,11 @@
     "port": 7787
   },
   {
+    "name": "American Premier League :: US EAST :: Hosted by Qonzer.com",
+    "addr": "192.169.86.108",
+    "port": 7787
+  },
+  {
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
     "port": 9014
@@ -1058,7 +1065,7 @@
     "port": 28000
   },
   {
-    "name": "[Merc] #1 US WEST L.A Discord.GG/m3rc",
+    "name": "[Merc]iless |#1 US West| Discord.gg/m3rc",
     "addr": "193.192.58.145",
     "port": 28100
   },
@@ -1120,7 +1127,7 @@
     "port": 28000
   },
   {
-    "name": "  [Merc]iless |WEST L.A| Discord.gg/m3rc",
+    "name": "  [Merc]iless | #2 US West| Discord.gg/m3rc",
     "addr": "193.192.59.99",
     "port": 28100
   },
@@ -1628,7 +1635,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1738,8 +1745,18 @@
     "port": 7777
   },
   {
+    "name": "American Premier League :: US WEST :: Hosted by Qonzer.com",
+    "addr": "63.143.62.102",
+    "port": 7777
+  },
+  {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "64.31.11.66",
+    "port": 7777
+  },
+  {
+    "name": "American Premier League :: JAPAN :: Hosted by Qonzer.com",
+    "addr": "64.31.11.67",
     "port": 7777
   },
   {
@@ -1771,6 +1788,11 @@
     "name": "〘ᚖ〙| Hostile Unknown | US-E | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.40.203",
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -2224,8 +2246,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1723983033
+    "port": 7777
   },
   {
     "name": "Hell Let Loose Server",
