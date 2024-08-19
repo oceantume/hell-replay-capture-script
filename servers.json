@@ -928,7 +928,7 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: US EAST :: Hosted by Qonzer.com",
+    "name": "American Premier League :: NEW YORK :: Hosted by Qonzer.com",
     "addr": "192.169.86.108",
     "port": 7787
   },
@@ -1623,7 +1623,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1733,7 +1733,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: US WEST :: Hosted by Qonzer.com",
+    "name": "American Premier League :: LOS ANGELES :: Hosted by Qonzer.com",
     "addr": "63.143.62.102",
     "port": 7777
   },
@@ -1778,7 +1778,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "American Premier League :: MIAMI :: Hosted by Qonzer.com",
     "addr": "64.31.40.203",
     "port": 7777
   },
@@ -2172,12 +2172,14 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724027211
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724027211
   },
   {
     "name": "Team17",
@@ -2247,7 +2249,7 @@
     "port": 7777
   },
   {
-    "name": "HELL HOUNDS | OFFENSIVE ONLY | DISCORD.GG/HH-GAMING",
+    "name": "HELL HOUNDS | US OFFENSIVE ONLY | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
     "port": 7777
   },
