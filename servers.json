@@ -419,7 +419,7 @@
     "port": 28200
   },
   {
-    "name": "mine",
+    "name": "mines",
     "addr": "176.57.168.174",
     "port": 28000
   },
@@ -504,7 +504,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724177267
   },
   {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
@@ -610,7 +611,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.169.115",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724177267
   },
   {
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
@@ -776,6 +778,11 @@
     "port": 28100
   },
   {
+    "name": "Hell let loose Official (EU) Server by g-portal.com",
+    "addr": "176.57.181.11",
+    "port": 28200
+  },
+  {
     "name": "SLB #2",
     "addr": "176.57.181.144",
     "port": 28100
@@ -822,6 +829,11 @@
     "port": 7827
   },
   {
+    "name": "Hagamos Garris #2",
+    "addr": "177.54.147.141",
+    "port": 7847
+  },
+  {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
     "addr": "177.54.151.123",
     "port": 8898
@@ -849,7 +861,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724177267
   },
   {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
@@ -985,6 +998,11 @@
     "name": "[L9] We MOVED IPs. Search L9 ! ",
     "addr": "192.169.92.98",
     "port": 9075
+  },
+  {
+    "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
+    "addr": "192.169.93.234",
+    "port": 7777
   },
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
@@ -1624,7 +1642,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1707,6 +1725,11 @@
     "name": "HLL test server - do not use",
     "addr": "54.36.126.47",
     "port": 9075
+  },
+  {
+    "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
+    "addr": "54.36.126.47",
+    "port": 9620
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
@@ -2147,7 +2170,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
