@@ -915,7 +915,7 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: NEW YORK :: Hosted by Qonzer.com",
+    "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com",
     "addr": "192.169.86.108",
     "port": 7787
   },
@@ -1725,7 +1725,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: LOS ANGELES :: Hosted by Qonzer.com",
+    "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
     "addr": "63.143.62.102",
     "port": 7777
   },
@@ -1735,7 +1735,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: JAPAN :: Hosted by Qonzer.com",
+    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "64.31.11.67",
     "port": 7777
   },
@@ -2152,8 +2152,7 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1724115063
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
