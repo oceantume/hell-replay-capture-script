@@ -5,7 +5,7 @@
     "port": 7807
   },
   {
-    "name": "萌新战犯集中营，打输了才是战犯。军事法庭：",
+    "name": "同志，不来码头整点薯条吗？KFC后厨：245578354",
     "addr": "103.62.49.42",
     "port": 8888
   },
@@ -578,7 +578,8 @@
   {
     "name": "[13SNC] Event!",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724155828
   },
   {
     "name": "WarLand ",
@@ -845,6 +846,11 @@
     "port": 7777
   },
   {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
+  },
+  {
     "name": "HLL Latinoamérica | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
     "port": 7777
@@ -1067,7 +1073,8 @@
   {
     "name": "Anyone but Biden (US West) discord/CocaineSalmon",
     "addr": "193.192.58.52",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724155828
   },
   {
     "name": "The Tank Squad | NEW PLAYER FRIENDLY | discord.gg/pExZrNqacq",
@@ -1128,7 +1135,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
     "addr": "193.70.81.145",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724155828
   },
   {
     "name": "Hell Let Loose (NYC) Server by MASS KAOS",
@@ -2081,7 +2089,7 @@
     "removed": 1723834995
   },
   {
-    "name": "Ivy Division Central |New Players Welcome|Discord.gg/IvyDivison",
+    "name": "Ivy Division Central |New Players Welcome|Discord.gg/IvyDivisio",
     "addr": "83.223.207.141",
     "port": 28100
   },
