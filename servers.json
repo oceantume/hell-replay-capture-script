@@ -778,6 +778,11 @@
     "port": 28100
   },
   {
+    "name": "Hell let loose Official Server by g-portal.com",
+    "addr": "176.57.181.11",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose Official (EU) Server by g-portal.com",
     "addr": "176.57.181.11",
     "port": 28200
@@ -1893,12 +1898,6 @@
     "removed": 1724047733
   },
   {
-    "name": "HLL Server",
-    "addr": "81.77.108.210",
-    "port": 7777,
-    "removed": 1723572487
-  },
-  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000
@@ -2173,12 +2172,6 @@
     "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
-  },
-  {
-    "name": "Hookway's Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1723572487
   },
   {
     "name": "HLL Official - South America #03 [ES]",
