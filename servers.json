@@ -177,6 +177,11 @@
     "port": 8530
   },
   {
+    "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
+    "addr": "145.239.144.76",
+    "port": 9075
+  },
+  {
     "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
     "addr": "145.239.253.127",
     "port": 8772
@@ -367,10 +372,14 @@
     "removed": 1723723836
   },
   {
+    "name": "HLL Official - Europe - QA Testing #08",
+    "addr": "176.57.140.97",
+    "port": 28100
+  },
+  {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1723810240
+    "port": 28000
   },
   {
     "name": "Server123Meins",
@@ -747,6 +756,11 @@
     "removed": 1723723836
   },
   {
+    "name": "HLL Official - UK - QA Testing #07",
+    "addr": "176.57.178.141",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -829,7 +843,7 @@
     "port": 7827
   },
   {
-    "name": "https://hll.la/ | HAGAMOS GARRIS #2",
+    "name": "HLL Latinoamérica #2 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -861,7 +875,8 @@
   {
     "name": "hll Server",
     "addr": "181.214.221.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724263673
   },
   {
     "name": "HLL Server",
@@ -1115,6 +1130,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Official - US West - QA Testing #06",
+    "addr": "193.192.58.65",
+    "port": 28200
+  },
+  {
     "name": "The Real Battlefield 100+ ONLY (New server, help me seed plz)",
     "addr": "193.192.59.170",
     "port": 28000,
@@ -1175,6 +1195,11 @@
     "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "195.201.169.249",
     "port": 8530
+  },
+  {
+    "name": "nitrado.net gameserver exaXDajD",
+    "addr": "195.82.158.186",
+    "port": 20700
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1497,7 +1522,7 @@
     "port": 7787
   },
   {
-    "name": "  ( GER ) {WoA} World of Asgard | Mic Only ",
+    "name": "    ( GER ) {WoA} World of Asgard | Mic Only ",
     "addr": "208.115.226.2",
     "port": 7797
   },
@@ -1645,7 +1670,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1655,7 +1680,7 @@
     "port": 9620
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "name": "[RUS][10+lvl] EG Pycckuū CEPBEP/ Russian server discord.gg/egs",
     "addr": "51.75.144.129",
     "port": 9075
   },
@@ -1732,7 +1757,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620
+    "port": 9620,
+    "removed": 1724263673
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
@@ -2102,6 +2128,11 @@
     "addr": "83.223.204.75",
     "port": 28100,
     "removed": 1723723836
+  },
+  {
+    "name": "HLL Official - US East - QA Testing #09",
+    "addr": "83.223.206.29",
+    "port": 28100
   },
   {
     "name": "Make HLL Great Again | New Players Welcome! (US Central)",
