@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1724180562
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -391,7 +390,8 @@
   {
     "name": "En Svensk Tiger #2 |  LVL 40+ | SWE/ENG | HellLetLoose.se",
     "addr": "176.57.153.41",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724199955
   },
   {
     "name": "Tank Brawl Jüterbog | DISCORD: https://discord.gg/ttuejfXK4p",
@@ -835,9 +835,14 @@
     "port": 7827
   },
   {
-    "name": "Hagamos Garris #2",
+    "name": "https://hll.la/ | HAGAMOS GARRIS #2",
     "addr": "177.54.147.141",
     "port": 7847
+  },
+  {
+    "name": "Streamline Servers",
+    "addr": "177.54.151.123",
+    "port": 8888
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1645,11 +1650,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1724180562
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2261,11 +2265,5 @@
     "name": "『V』- Vanguarda - discord.gg/vanguarda - Aliste-se",
     "addr": "92.38.151.86",
     "port": 28900
-  },
-  {
-    "name": "pirate",
-    "addr": "95.156.198.83",
-    "port": 18000,
-    "removed": 1723595155
   }
 ]
