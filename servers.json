@@ -286,7 +286,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724309702
   },
   {
     "name": "Internal_Team17",
@@ -1785,8 +1786,7 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
-    "port": 7777,
-    "removed": 1724309155
+    "port": 7777
   },
   {
     "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
