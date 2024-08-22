@@ -545,6 +545,11 @@
     "port": 28100
   },
   {
+    "name": "bcd",
+    "addr": "176.57.168.91",
+    "port": 28200
+  },
+  {
     "name": "91.PzG| #2 Event | Mic + Deutsch | GER",
     "addr": "176.57.168.91",
     "port": 28300
@@ -1504,7 +1509,7 @@
     "port": 7777
   },
   {
-    "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
+    "name": "Hell Let Loose Server",
     "addr": "216.219.93.37",
     "port": 7797
   },
@@ -1600,7 +1605,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1610,7 +1615,7 @@
     "port": 9620
   },
   {
-    "name": "[RUS][10+lvl] EG Pycckuū CEPBEP/ Russian server discord.gg/egs",
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
     "addr": "51.75.144.129",
     "port": 9075
   },
@@ -1675,7 +1680,7 @@
     "port": 9075
   },
   {
-    "name": "The Red Lion - Blood Sweat & Beers tiny.cc/BSBHL",
+    "name": "The Rule - Blood Sweat & Beers tiny.cc/BSBHLL",
     "addr": "54.36.126.47",
     "port": 8530
   },
@@ -1767,6 +1772,11 @@
   {
     "name": "American Premier League :: MIAMI :: Powered by Qonzer.com",
     "addr": "64.31.40.203",
+    "port": 7777
+  },
+  {
+    "name": "Lucky Strike Event Server",
+    "addr": "64.31.40.204",
     "port": 7777
   },
   {
