@@ -286,8 +286,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1724309702
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -2156,7 +2155,8 @@
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.207.46",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724310419
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
