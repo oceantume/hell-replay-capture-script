@@ -100,21 +100,9 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Russia #03",
-    "addr": "135.181.119.119",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
     "port": 28200
-  },
-  {
-    "name": "HLL Official - Russia #04",
-    "addr": "135.181.119.119",
-    "port": 28300,
-    "removed": 1723723836
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -273,12 +261,6 @@
     "port": 9075
   },
   {
-    "name": "HLL Official - Europe #15",
-    "addr": "176.57.134.56",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "176.57.134.56",
     "port": 28100
@@ -360,18 +342,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe #14",
-    "addr": "176.57.140.94",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Europe #09",
-    "addr": "176.57.140.94",
-    "port": 28200,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
     "port": 28100
@@ -418,12 +388,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe #13",
-    "addr": "176.57.168.169",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": " HLL Official - Europe - QA Testing #03 ",
     "addr": "176.57.168.169",
     "port": 28200
@@ -459,12 +423,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe #11",
-    "addr": "176.57.168.187",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
     "port": 28200
@@ -480,12 +438,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe #12",
-    "addr": "176.57.168.189",
-    "port": 28200,
-    "removed": 1723723836
-  },
-  {
     "name": "Internal FCTOOE.99",
     "addr": "176.57.168.189",
     "port": 28300
@@ -494,12 +446,6 @@
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
     "port": 28000
-  },
-  {
-    "name": "HLL Official Skirmish - Europe #01",
-    "addr": "176.57.168.194",
-    "port": 28100,
-    "removed": 1723723836
   },
   {
     "name": "HLL Official - Europe - QA Testing #02",
@@ -750,12 +696,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - UK #03",
-    "addr": "176.57.178.141",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
     "port": 28200
@@ -764,12 +704,6 @@
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
-  },
-  {
-    "name": "HLL Official - UK #04",
-    "addr": "176.57.178.17",
-    "port": 28100,
-    "removed": 1723723836
   },
   {
     "name": "HLL Official - Europe - QA Testing #05  ",
@@ -810,12 +744,6 @@
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
     "port": 28000
-  },
-  {
-    "name": "HLL Official - Europe #10",
-    "addr": "176.57.181.209",
-    "port": 28100,
-    "removed": 1723723836
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1627,18 +1555,6 @@
     "removed": 1724069406
   },
   {
-    "name": "HLL Official - Japan #03",
-    "addr": "45.137.245.30",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Japan #02",
-    "addr": "45.137.245.30",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200
@@ -1945,12 +1861,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Asia #09",
-    "addr": "83.223.197.11",
-    "port": 28200,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
     "port": 28000
@@ -1981,51 +1891,9 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Singapore #03",
-    "addr": "83.223.197.73",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Singapore #02",
-    "addr": "83.223.197.73",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
     "port": 28200
-  },
-  {
-    "name": "HLL Official - Asia #13",
-    "addr": "83.223.197.76",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official Skirmish - Asia #01",
-    "addr": "83.223.197.90",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Asia #10",
-    "addr": "83.223.197.98",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Asia #11",
-    "addr": "83.223.197.98",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - Asia #12",
-    "addr": "83.223.197.98",
-    "port": 28200,
-    "removed": 1723723836
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | GPORTAL",
@@ -2068,18 +1936,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - US East #07",
-    "addr": "83.223.203.131",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
-    "name": "HLL Official - US East #08",
-    "addr": "83.223.203.131",
-    "port": 28100,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
     "port": 28200
@@ -2093,12 +1949,6 @@
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
     "port": 28000
-  },
-  {
-    "name": "HLL Official - US East #09",
-    "addr": "83.223.203.166",
-    "port": 28000,
-    "removed": 1723723836
   },
   {
     "name": "Hell Let Loose (US East) AMERICA FIRST BOYS",
@@ -2135,12 +1985,6 @@
     "name": "XSV Tactical #1 | New Player Friendly | discord.gg/xsv",
     "addr": "83.223.204.52",
     "port": 28200
-  },
-  {
-    "name": "HLL Official Skirmish - US East #01",
-    "addr": "83.223.204.75",
-    "port": 28100,
-    "removed": 1723723836
   },
   {
     "name": "HLL Official - US East - QA Testing #09",
@@ -2215,12 +2059,6 @@
     "port": 7817
   },
   {
-    "name": "HLL Official - South America #03 [ES]",
-    "addr": "89.43.106.40",
-    "port": 28000,
-    "removed": 1723723836
-  },
-  {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
     "port": 28100
@@ -2254,12 +2092,6 @@
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
-  },
-  {
-    "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & LOYALTY VIP",
-    "addr": "92.118.18.76",
-    "port": 7787,
-    "removed": 1723723836
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
