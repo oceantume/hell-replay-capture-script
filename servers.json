@@ -1200,9 +1200,15 @@
     "port": 8530
   },
   {
+    "name": "HLL_Nitratest",
+    "addr": "195.82.158.186",
+    "port": 20500
+  },
+  {
     "name": "nitrado.net gameserver exaXDajD",
     "addr": "195.82.158.186",
-    "port": 20700
+    "port": 20700,
+    "removed": 1724328588
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1467,6 +1473,11 @@
   {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
+    "port": 8888
+  },
+  {
+    "name": "Streamline Test",
+    "addr": "203.23.178.4",
     "port": 8888
   },
   {
@@ -2155,8 +2166,7 @@
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.207.46",
-    "port": 28100,
-    "removed": 1724310419
+    "port": 28100
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
