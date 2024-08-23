@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1724353395
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -515,7 +514,7 @@
     "port": 28000
   },
   {
-    "name": "(GER) Heeresfliegertruppe  | MIC ONLY | discord.gg/Dn3YXBQd5p",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.4",
     "port": 28100
   },
@@ -607,7 +606,7 @@
     "port": 28300
   },
   {
-    "name": "Borry44's Playground",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.176",
     "port": 28000
   },
@@ -615,6 +614,11 @@
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
     "addr": "176.57.171.176",
     "port": 28300
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.171.38",
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -808,10 +812,14 @@
     "port": 9075
   },
   {
-    "name": "hll Server",
+    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
     "addr": "181.214.221.212",
-    "port": 7777,
-    "removed": 1724263673
+    "port": 7777
+  },
+  {
+    "name": "<COBRAS FUMANTES> MARRAM #2 EVENTS & TRAINING",
+    "addr": "181.214.221.212",
+    "port": 7787
   },
   {
     "name": "HLL Server",
@@ -832,12 +840,14 @@
   {
     "name": "<COBRAS FUMANTES> MARRAM #01 - https://discord.gold",
     "addr": "189.1.170.137",
-    "port": 7807
+    "port": 7807,
+    "removed": 1724372756
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #02 - discord.gold",
     "addr": "189.1.170.137",
-    "port": 7827
+    "port": 7827,
+    "removed": 1724372756
   },
   {
     "name": "[LATAM] Comunidad Latina || Discord: n9.cl/CLATAM || Lvl 10+ |[",
@@ -1175,6 +1185,11 @@
     "port": 8530
   },
   {
+    "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
+    "addr": "198.37.123.75",
+    "port": 9075
+  },
+  {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 9620
@@ -1197,8 +1212,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1724353395
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1416,6 +1430,11 @@
     "port": 8888
   },
   {
+    "name": "American Premier League :: PARIS :: Powered by Qonzer.com",
+    "addr": "208.115.196.18",
+    "port": 7777
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.2",
     "port": 7777
@@ -1567,6 +1586,11 @@
     "port": 28200
   },
   {
+    "name": "nitrado.net gameserver KMgfwoU-",
+    "addr": "45.159.7.39",
+    "port": 17000
+  },
+  {
     "name": "Greyhounds Public. Mit Bier und Grillwurst",
     "addr": "46.105.223.204",
     "port": 7777
@@ -1599,8 +1623,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1724353395
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
@@ -1608,7 +1631,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1964,10 +1987,9 @@
     "port": 28000
   },
   {
-    "name": "Hell Let Loose (US East) AMERICA FIRST BOYS",
+    "name": "wHAT: Hell let loose (US East) Server ",
     "addr": "83.223.203.182",
-    "port": 28000,
-    "removed": 1723874858
+    "port": 28000
   },
   {
     "name": "Clown Effect HLL Server [CLWN] US East",
