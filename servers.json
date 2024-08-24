@@ -25,7 +25,7 @@
     "port": 8918
   },
   {
-    "name": "<CN>#1 TT天堂 China international community server",
+    "name": "#1 TT天堂 China international community server",
     "addr": "103.62.49.42",
     "port": 8928
   },
@@ -368,7 +368,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[LwJg46] Bierstube ( Trainings- und Eventserver)",
     "addr": "176.57.153.114",
     "port": 28200
   },
@@ -541,7 +541,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "=V= Invictus EU/ENG | Event server | Discord.gg/invictushll",
     "addr": "176.57.168.69",
     "port": 28400
   },
@@ -585,7 +585,8 @@
   {
     "name": "Hilles Spieleeck",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724522812
   },
   {
     "name": "Hell let loose Server by g-portal.com",
@@ -1183,6 +1184,16 @@
     "removed": 1724265293
   },
   {
+    "name": "[16th IR] Realism unit [Training Server] discord.gg/16th",
+    "addr": "194.140.197.76",
+    "port": 31300
+  },
+  {
+    "name": "[16th IR] Realism unit [US East 1] discord.gg/16th",
+    "addr": "194.140.199.73",
+    "port": 30000
+  },
+  {
     "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "195.201.169.249",
     "port": 8530
@@ -1583,12 +1594,14 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1724522812
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807
+    "port": 7807,
+    "removed": 1724522812
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1682,7 +1695,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2033,7 +2046,7 @@
     "port": 28000
   },
   {
-    "name": "вит | Bad Intentions Server #1 [US EAST]",
+    "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.155",
     "port": 28000
   },
