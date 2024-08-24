@@ -226,7 +226,7 @@
     "removed": 1724115063
   },
   {
-    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
+    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
   },
@@ -343,7 +343,7 @@
     "removed": 1724414974
   },
   {
-    "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.83",
     "port": 28200
   },
@@ -495,7 +495,7 @@
     "port": 28100
   },
   {
-    "name": "PL/ENG ● Polski serwer Klanu PzJR ● Votemap ● Low Ping",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.253",
     "port": 28200
   },
@@ -717,7 +717,7 @@
     "port": 28200
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28100
   },
@@ -1478,7 +1478,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM FIGHT NIGHT EVENT | LOW PING | PBSGAMETEAM  ",
+    "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.196.3",
     "port": 7777
   },
@@ -1498,7 +1498,7 @@
     "port": 7777
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1510,7 +1510,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724479652
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -1530,7 +1531,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.226.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1724479652
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard | Mic Only ",
@@ -2113,26 +2115,22 @@
   {
     "name": "Qonzer Testing",
     "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1724414974
+    "port": 7797
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1724414974
+    "port": 7817
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1724414974
+    "port": 7777
   },
   {
     "name": "Greyhounds Eventserver",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1724414974
+    "port": 7817
   },
   {
     "name": "HLL Official - South America #02",
