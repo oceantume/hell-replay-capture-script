@@ -381,7 +381,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724609211
   },
   {
     "name": "En Svensk Tiger #2 |  LVL 40+ | SWE/ENG | HellLetLoose.se",
@@ -488,7 +489,8 @@
   {
     "name": "[DD] Devil Dogs Europe 1. [Skirmish Only] Powered by S.I.M.FTW",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724609211
   },
   {
     "name": "3rd Cavalry Division Milsim/Roleplay FR",
@@ -547,7 +549,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Invictus Event Server",
     "addr": "176.57.168.69",
     "port": 28400
   },
@@ -700,7 +702,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
     "port": 28000
   },
@@ -1367,10 +1369,16 @@
   {
     "name": "【FJ】Training server/WEST US/",
     "addr": "203.10.96.196",
-    "port": 8898
+    "port": 8898,
+    "removed": 1724609211
   },
   {
-    "name": "CZS training clothes ∞",
+    "name": "HLL Server",
+    "addr": "203.10.96.196",
+    "port": 8908
+  },
+  {
+    "name": "HLL Server",
     "addr": "203.10.98.103",
     "port": 8888
   },
@@ -1602,12 +1610,14 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1724609211
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807
+    "port": 7807,
+    "removed": 1724609211
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1701,7 +1711,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
