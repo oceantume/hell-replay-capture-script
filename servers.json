@@ -47,7 +47,8 @@
   {
     "name": "CN1#jp琳琅天上萌新小屋 (攻防服)q群484555616",
     "addr": "103.62.49.42",
-    "port": 8978
+    "port": 8978,
+    "removed": 1724566087
   },
   {
     "name": "PUMA Kombinierte Kampfgruppe ",
@@ -308,7 +309,8 @@
   {
     "name": "[CRT] KEIN BUNKERTOOL - Faire Admins - Anfängerfreundlich ❤",
     "addr": "176.57.140.146",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724566087
   },
   {
     "name": "13SNC Event",
@@ -348,7 +350,7 @@
     "removed": 1724414974
   },
   {
-    "name": "[ 1.BV ]  Brennholzverleih | GER | Active Admins",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.83",
     "port": 28200
   },
@@ -373,7 +375,7 @@
     "port": 28100
   },
   {
-    "name": "[LwJg46] Bierstube ( Trainings- und Eventserver)",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.114",
     "port": 28200
   },
@@ -500,7 +502,7 @@
     "port": 28100
   },
   {
-    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Votemap ♦ Low Ping",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.253",
     "port": 28200
   },
@@ -546,7 +548,7 @@
     "port": 28200
   },
   {
-    "name": "=V= Invictus EU/ENG | Event server | Discord.gg/invictushll",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
     "port": 28400
   },
@@ -724,7 +726,7 @@
     "port": 28200
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28100
   },
@@ -811,7 +813,7 @@
     "port": 7787
   },
   {
-    "name": "[MSL] Magic Latam |+50| discord.gg/magic-servers",
+    "name": "[MSL] Magic LATAM discord.gg/magic-servers",
     "addr": "177.54.147.141",
     "port": 7807
   },
@@ -998,7 +1000,8 @@
   {
     "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
     "addr": "192.169.92.250",
-    "port": 8530
+    "port": 8530,
+    "removed": 1724566087
   },
   {
     "name": "10th Mountain Division ᄿ Level 50+ (US Central) : discord.gg/",
@@ -1055,6 +1058,11 @@
     "name": "[IG] Ironclad Guardians | New Player Friendly | discord.gg/2wnr",
     "addr": "192.169.95.2",
     "port": 9075
+  },
+  {
+    "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
+    "addr": "192.169.95.2",
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
