@@ -35,7 +35,7 @@
     "port": 8938
   },
   {
-    "name": "<CN>#3 [微信公众号：TT天堂]萌新俱乐部Q群：578097",
+    "name": "<CN>#3 [微信公众号：TT天堂]中文社区hellletloose.cn",
     "addr": "103.62.49.42",
     "port": 8948
   },
@@ -310,7 +310,8 @@
   {
     "name": "(GER) [CRT] KEIN BUNKER - Faire Admins - Anfängerfreundlich",
     "addr": "176.57.140.146",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724674219
   },
   {
     "name": "13SNC Event",
@@ -340,17 +341,20 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1724501340
+    "port": 30700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER ]彡Kampfgruppe Lazarus彡 VIP4Seed - GER only - Mic Pflic",
     "addr": "176.57.140.83",
-    "port": 28000,
-    "removed": 1724414974
+    "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Jeli",
+    "addr": "176.57.140.83",
+    "port": 28100
+  },
+  {
+    "name": " [1.BV] Brennholzverleih | GER | Active Admins",
     "addr": "176.57.140.83",
     "port": 28200
   },
@@ -635,10 +639,9 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1724414974
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -672,10 +675,9 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server",
     "addr": "176.57.171.44",
-    "port": 28000,
-    "removed": 1724436461
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -729,7 +731,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
     "addr": "176.57.174.145",
     "port": 28100
   },
@@ -843,8 +845,19 @@
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "178.249.213.87",
+    "addr": "178.249.213.79",
     "port": 7777
+  },
+  {
+    "name": "69th Space Force Japan [MILSIM FRIENDLY]",
+    "addr": "178.249.213.79",
+    "port": 7797
+  },
+  {
+    "name": "Chimera | Japan | discord.gg/CHMA",
+    "addr": "178.249.213.87",
+    "port": 7777,
+    "removed": 1724674219
   },
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
@@ -855,7 +868,8 @@
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "178.249.213.87",
-    "port": 7797
+    "port": 7797,
+    "removed": 1724674219
   },
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
@@ -1447,7 +1461,7 @@
     "port": 8888
   },
   {
-    "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
+    "name": "CN ITK东海帝王的蜂蜜特饮~日服Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1554,7 +1568,8 @@
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724674219
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1634,14 +1649,12 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1724609211
+    "port": 7797
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807,
-    "removed": 1724609211
+    "port": 7807
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1677,12 +1690,6 @@
     "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
     "addr": "37.187.25.13",
     "port": 9075
-  },
-  {
-    "name": "(WTH) Wolves of War | Teamwork [ENG] | Custom | discord.gg/WTH",
-    "addr": "37.187.25.13",
-    "port": 9466,
-    "removed": 1724069406
   },
   {
     "name": "HLL Official - Japan #01",
