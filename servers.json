@@ -328,7 +328,7 @@
     "port": 28100
   },
   {
-    "name": "=V= Invictus EU/ENG | VIP for seeding | Discord.gg/invictushll",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.181",
     "port": 29700
   },
@@ -375,7 +375,7 @@
     "port": 28100
   },
   {
-    "name": "LwJg46 Bierstube",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.114",
     "port": 28200
   },
@@ -550,7 +550,7 @@
     "port": 28200
   },
   {
-    "name": "Invictus Event Server",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
     "port": 28400
   },
@@ -729,7 +729,7 @@
     "port": 28200
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28100
   },
@@ -1040,7 +1040,8 @@
   {
     "name": "Three Ring Circus [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620
+    "port": 9620,
+    "removed": 1724652536
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
@@ -1380,7 +1381,7 @@
     "port": 8908
   },
   {
-    "name": "HLL Server",
+    "name": "CN-[FJ]战队服/JP/QQ群716701264",
     "addr": "203.10.98.103",
     "port": 8888
   },
@@ -1962,12 +1963,6 @@
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
     "port": 9620
-  },
-  {
-    "name": "Qonzer.com NY",
-    "addr": "81.21.1.149",
-    "port": 7797,
-    "removed": 1724047733
   },
   {
     "name": "HLL Official - Asia #07",
