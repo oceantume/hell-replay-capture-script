@@ -849,12 +849,18 @@
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "178.249.213.87",
-    "port": 7787
+    "port": 7787,
+    "removed": 1724656043
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "178.249.213.87",
     "port": 7797
+  },
+  {
+    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
+    "addr": "178.249.213.95",
+    "port": 7787
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -1857,12 +1863,14 @@
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "64.31.11.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724656043
   },
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "64.31.11.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724656043
   },
   {
     "name": "Badgergrounds",
@@ -1907,7 +1915,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.48.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724656043
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
