@@ -40,15 +40,19 @@
     "port": 8948
   },
   {
+    "name": "CN人间地狱中文社区网www.hellletloose.cn",
+    "addr": "103.62.49.42",
+    "port": 8958
+  },
+  {
     "name": "cn.jp 忆江南【PUMA】pkk男娘小双萌新服q746699634",
     "addr": "103.62.49.42",
     "port": 8968
   },
   {
-    "name": "CN1#jp琳琅天上萌新小屋 (攻防服)q群484555616",
+    "name": "CN 人间地狱中文社区网www.hellletloose.cn",
     "addr": "103.62.49.42",
-    "port": 8978,
-    "removed": 1724566087
+    "port": 8978
   },
   {
     "name": "PUMA Kombinierte Kampfgruppe ",
@@ -59,6 +63,11 @@
     "name": "<CN>老六萌新集中营（随机图）服主Q：2164947615",
     "addr": "103.62.49.42",
     "port": 8998
+  },
+  {
+    "name": "CN人间地狱中文社区网www.hellletloose.cn",
+    "addr": "103.62.49.42",
+    "port": 9008
   },
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
@@ -196,6 +205,11 @@
     "port": 9620
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "146.19.48.168",
+    "port": 7787
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
     "addr": "148.251.54.154",
     "port": 8530
@@ -319,7 +333,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
   },
@@ -334,12 +348,12 @@
     "port": 29700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "StDb Event",
     "addr": "176.57.140.181",
     "port": 30200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "HTD - HaiiTed Event Server",
     "addr": "176.57.140.181",
     "port": 30700
   },
@@ -541,7 +555,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.4",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724695652
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -596,7 +611,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[PL] III WOJNA SWIATOWA",
     "addr": "176.57.169.115",
     "port": 28200
   },
@@ -1279,7 +1294,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "198.244.177.91",
-    "port": 8530
+    "port": 8530,
+    "removed": 1724695652
   },
   {
     "name": "[BR1] EVENT SERVER - discord.gg/br1",
@@ -1559,6 +1575,16 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.35",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.36",
+    "port": 7777
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.206.38",
     "port": 7777
@@ -1566,8 +1592,7 @@
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1724674219
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1582,7 +1607,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724695652
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -1647,12 +1673,14 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1724695652
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "216.219.93.37",
-    "port": 7807
+    "port": 7807,
+    "removed": 1724695652
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1741,7 +1769,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1756,7 +1784,7 @@
     "port": 9075
   },
   {
-    "name": "StDb Event",
+    "name": "[GER][StDb] STOSSTRUPP DONNERBALKEN | GET VIP4SEED | MIC ONLY",
     "addr": "51.75.144.129",
     "port": 9256
   },
@@ -1798,7 +1826,8 @@
   {
     "name": "[250H] Hell Let Loose",
     "addr": "51.89.192.209",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724695652
   },
   {
     "name": "team.phoenix | Training | phx",
