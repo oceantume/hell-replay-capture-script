@@ -72,8 +72,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1724699027
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -213,7 +212,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
     "addr": "148.251.54.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1724718412
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
@@ -394,15 +394,14 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Bierstube",
     "addr": "176.57.153.114",
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1724609211
+    "port": 28100
   },
   {
     "name": "En Svensk Tiger #2 |  LVL 40+ | SWE/ENG | HellLetLoose.se",
@@ -1087,10 +1086,9 @@
     "port": 9075
   },
   {
-    "name": "Three Ring Circus [NA East] Event Server",
+    "name": "Three Rung Circusn't [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620,
-    "removed": 1724652536
+    "port": 9620
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
@@ -1203,7 +1201,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "[Merc] West Event Server",
     "addr": "193.192.59.99",
     "port": 28000
   },
@@ -1331,8 +1329,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1724699027
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1767,11 +1764,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1724699027
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1965,6 +1961,11 @@
     "port": 7787
   },
   {
+    "name": "(IC) Offensive Heaven  |  US West #1  |  Votemap Enabled",
+    "addr": "64.31.61.91",
+    "port": 7777
+  },
+  {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
     "port": 8888
@@ -2120,7 +2121,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
     "port": 28000
   },
