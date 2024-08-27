@@ -212,8 +212,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
     "addr": "148.251.54.154",
-    "port": 8530,
-    "removed": 1724718412
+    "port": 8530
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
@@ -239,7 +238,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1724760603
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -353,7 +353,7 @@
     "port": 30700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER ]彡Kampfgruppe Lazarus彡 VIP4Seed - GER only - Mic Pflic",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -363,7 +363,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[ 1.BV ] Brennholzverleih | GER | Active Admins",
     "addr": "176.57.140.83",
     "port": 28200
   },
@@ -393,7 +393,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] Willkommen im Sandkasten der 106.Panzerbrigade",
     "addr": "176.57.153.41",
     "port": 28100
   },
@@ -542,6 +542,11 @@
     "port": 28200
   },
   {
+    "name": "Test || Name",
+    "addr": "176.57.168.254",
+    "port": 28300
+  },
+  {
     "name": "[RU/EN] BUNDESWEHR [BWR]",
     "addr": "176.57.168.4",
     "port": 28000
@@ -605,7 +610,7 @@
     "port": 28100
   },
   {
-    "name": "[PL] III WOJNA SWIATOWA",
+    "name": "[PL/ENG] ChillOut - III WAR ",
     "addr": "176.57.169.115",
     "port": 28200
   },
@@ -647,7 +652,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
     "port": 28300
   },
@@ -655,6 +660,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.176",
     "port": 28000
+  },
+  {
+    "name": "test",
+    "addr": "176.57.171.176",
+    "port": 28200
   },
   {
     "name": "1.Fallschirmjäger-Division #1 | Warfare German + Mic",
@@ -683,7 +693,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server",
     "addr": "176.57.171.44",
     "port": 28000
   },
@@ -746,6 +756,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28300
+  },
+  {
+    "name": "Free Beer!!",
+    "addr": "176.57.178.127",
+    "port": 28000
   },
   {
     "name": "TD | Tank Destroyers [EU/ENG]",
@@ -1040,8 +1055,7 @@
   {
     "name": "[ESPAÑOL] Latinoamerica - ]|Los 7 Demonios|[",
     "addr": "192.169.89.26",
-    "port": 9620,
-    "removed": 1724738927
+    "port": 9620
   },
   {
     "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
@@ -1606,12 +1620,14 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724760603
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "208.115.206.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724760603
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1619,9 +1635,20 @@
     "port": 7777
   },
   {
+    "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
+    "addr": "208.115.206.82",
+    "port": 7777
+  },
+  {
+    "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
+    "addr": "208.115.206.83",
+    "port": 7777
+  },
+  {
     "name": "XYZ",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724760603
   },
   {
     "name": "WTH Training Server",
@@ -2076,7 +2103,7 @@
     "port": 28200
   },
   {
-    "name": "US East - WWII Shenanigans - Happy Newbies and Vet funtime serv",
+    "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.121",
     "port": 28300
   },
