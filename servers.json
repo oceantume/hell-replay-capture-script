@@ -238,8 +238,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1724760603
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -325,10 +324,11 @@
   {
     "name": "13SNC Event",
     "addr": "176.57.140.146",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724782078
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
   },
@@ -343,12 +343,12 @@
     "port": 29700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "StDb-Event",
     "addr": "176.57.140.181",
     "port": 30200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
     "port": 30700
   },
@@ -385,10 +385,11 @@
   {
     "name": "Server123Meins",
     "addr": "176.57.153.114",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724782078
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "LwJg Bierstube",
     "addr": "176.57.153.114",
     "port": 28200
   },
@@ -426,7 +427,8 @@
   {
     "name": "mines",
     "addr": "176.57.168.174",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724782078
   },
   {
     "name": "Hell let loose (USA) LSSAH - Newbies Welcome - Discord Availabl",
@@ -489,12 +491,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "176.57.168.252",
-    "port": 28100,
-    "removed": 1724177267
-  },
-  {
     "name": "• PARABELLUM • | HELL LET LOOSE HUNGARY | ENG/HUN",
     "addr": "176.57.168.252",
     "port": 28200
@@ -502,8 +498,7 @@
   {
     "name": "[DD] Devil Dogs Europe 1. [Skirmish Only] Powered by S.I.M.FTW",
     "addr": "176.57.168.252",
-    "port": 28300,
-    "removed": 1724609211
+    "port": 28300
   },
   {
     "name": "3rd Cavalry Division Milsim/Roleplay FR",
@@ -609,12 +604,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "176.57.169.115",
-    "port": 28300,
-    "removed": 1724177267
-  },
-  {
     "name": " [GER/AUT] #CAT | All Cats Are Beauties / German Server  |ACAB|",
     "addr": "176.57.171.140",
     "port": 28000,
@@ -679,7 +668,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.171.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724782078
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -707,7 +697,7 @@
     "port": 28500
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
   },
@@ -916,12 +906,6 @@
     "name": "<COBRAS FUMANTES> MARRAM #2 EVENTS & TRAINING",
     "addr": "181.214.221.212",
     "port": 7787
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1724177267
   },
   {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
@@ -1194,7 +1178,7 @@
     "port": 28200
   },
   {
-    "name": "(IC) New Players Welcome  |  US West #2  |  Votemap Enabled",
+    "name": "(IC) New Players Welcome  |  US West #2",
     "addr": "193.192.59.39",
     "port": 28000
   },
@@ -1476,7 +1460,7 @@
     "port": 8888
   },
   {
-    "name": "CN ITK东海帝王的蜂蜜特饮~日服Q群48381851",
+    "name": "CN ITK西住美穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.98.7",
     "port": 8888
   },
@@ -1782,7 +1766,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2136,7 +2120,7 @@
     "port": 28000
   },
   {
-    "name": "вит | Bad Intentions Server #1 [US EAST]",
+    "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.155",
     "port": 28000
   },
@@ -2231,7 +2215,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhounds Eventserver",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
