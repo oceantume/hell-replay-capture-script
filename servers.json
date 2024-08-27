@@ -242,12 +242,6 @@
     "port": 9014
   },
   {
-    "name": "Ж | Helios - Event Server",
-    "addr": "172.93.104.218",
-    "port": 9075,
-    "removed": 1724115063
-  },
-  {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
@@ -1199,6 +1193,11 @@
     "name": "MINI-COMP SERVER",
     "addr": "193.192.59.39",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (US West) Server ",
+    "addr": "193.192.59.39",
+    "port": 28200
   },
   {
     "name": "[Merc] West Event Server",
