@@ -545,7 +545,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
     "port": 28000
   },
@@ -1000,8 +1000,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
-    "port": 9014,
-    "removed": 1724868468
+    "port": 9014
   },
   {
     "name": "[★] Warfare Lovers | Level 100+ | Comp | Strategy | !commands",
@@ -1159,7 +1158,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.145",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724869335
   },
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
@@ -1212,12 +1212,12 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "Merciless event server",
     "addr": "193.192.59.99",
     "port": 28000
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "Merciless Hell let loose (US West #2) discord.gg/m3rc",
     "addr": "193.192.59.99",
     "port": 28100
   },
@@ -1845,8 +1845,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1724868468
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
