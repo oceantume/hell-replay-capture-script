@@ -1047,7 +1047,8 @@
   {
     "name": "[L9] We MOVED IPs. Search L9 ! ",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1724806311
   },
   {
     "name": "[L9] We MOVED IPs. Search L9 ! ",
@@ -2230,7 +2231,8 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724806311
   },
   {
     "name": "Team17",
