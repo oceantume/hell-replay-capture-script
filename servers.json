@@ -217,8 +217,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620,
-    "removed": 1724632008
+    "port": 9620
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -328,7 +327,7 @@
     "removed": 1724782078
   },
   {
-    "name": "[BB] Boys Germany | German speaking | Mic necessary",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.16",
     "port": 28000
   },
@@ -343,7 +342,7 @@
     "port": 29700
   },
   {
-    "name": "StDb-Event",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.181",
     "port": 30200
   },
@@ -353,7 +352,7 @@
     "port": 30700
   },
   {
-    "name": "[GER ]彡Kampfgruppe Lazarus彡 VIP4Seed - GER only - Mic Pflic",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -363,7 +362,7 @@
     "port": 28100
   },
   {
-    "name": "[ 1.BV ] Brennholzverleih | GER | Active Admins",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.140.83",
     "port": 28200
   },
@@ -389,12 +388,12 @@
     "removed": 1724782078
   },
   {
-    "name": "LwJg Bierstube",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.114",
     "port": 28200
   },
   {
-    "name": "[GER] Willkommen im Sandkasten der 106.Panzerbrigade",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.41",
     "port": 28100
   },
@@ -510,7 +509,7 @@
     "port": 28200
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY | OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY | OINK OINK",
     "addr": "176.57.168.253",
     "port": 28300
   },
@@ -556,7 +555,7 @@
     "port": 28200
   },
   {
-    "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
     "port": 28400
   },
@@ -587,7 +586,7 @@
     "port": 28000
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 1 | LOW PING | OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING | OINK OINK",
     "addr": "176.57.169.115",
     "port": 28100
   },
@@ -608,7 +607,7 @@
     "port": 28100
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 3 | M I L F SCHNITTEN #MSK°MIC°OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | M I L F SCHNITTEN #MSK°MIC°OIN",
     "addr": "176.57.171.140",
     "port": 28300
   },
@@ -628,7 +627,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.158",
     "port": 28300
   },
@@ -670,7 +669,7 @@
     "port": 28300
   },
   {
-    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.44",
     "port": 28000
   },
@@ -690,7 +689,7 @@
     "port": 28500
   },
   {
-    "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.7",
     "port": 28000
   },
@@ -705,7 +704,7 @@
     "port": 28000
   },
   {
-    "name": "    [ GER ] KAMPFSCHWEINE 4 | LOW PING | OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | LOW PING | OINK OINK",
     "addr": "176.57.173.119",
     "port": 28200
   },
@@ -725,12 +724,12 @@
     "port": 28200
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28100
   },
   {
-    "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | Votemap | [V",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.145",
     "port": 28300
   },
@@ -1142,7 +1141,7 @@
     "port": 28100
   },
   {
-    "name": "Warfare By TyroneBiggums ALL LEVELS OK",
+    "name": "★ OG Battlegrounds/Newbies Welcomed ★",
     "addr": "193.192.58.145",
     "port": 28200
   },
@@ -1596,14 +1595,12 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.75",
-    "port": 7777,
-    "removed": 1724760603
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "208.115.206.76",
-    "port": 7777,
-    "removed": 1724760603
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -2124,7 +2121,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
     "port": 28000
   },
