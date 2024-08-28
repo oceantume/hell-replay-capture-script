@@ -144,7 +144,8 @@
   {
     "name": "DKB EVENT SERVER",
     "addr": "141.95.33.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724868468
   },
   {
     "name": "GER - |HTD| HaiiTeD Hardcore Server",
@@ -264,7 +265,8 @@
   {
     "name": "Practice Server PCK",
     "addr": "173.225.104.218",
-    "port": 8530
+    "port": 8530,
+    "removed": 1724868468
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -292,7 +294,7 @@
     "port": 28300
   },
   {
-    "name": " [NRD] Never Really Dead - Aussie/Kiwi Clan - www.Clan-NRD.com",
+    "name": "  [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
     "port": 28400
   },
@@ -307,7 +309,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Bob the Builder (EU) | XP Farming Server",
     "addr": "176.57.140.146",
     "port": 28000
   },
@@ -330,7 +332,7 @@
     "removed": 1724782078
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
   },
@@ -345,17 +347,17 @@
     "port": 29700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "StDb-Event",
     "addr": "176.57.140.181",
     "port": 30200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
     "port": 30700
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER]Kampfgruppe Lazarus [VIP4Seed][Mikro Pflicht]",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -398,10 +400,11 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.153.114",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724868468
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
     "port": 28100
   },
@@ -502,7 +505,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
   },
@@ -558,7 +561,7 @@
     "port": 28000
   },
   {
-    "name": "[BxB] - Black Bees Server - [ESP]",
+    "name": "[BxB] - Black Bees Server - [ESP] ",
     "addr": "176.57.168.69",
     "port": 28200
   },
@@ -579,7 +582,7 @@
     "removed": 1724436461
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
     "port": 28300
   },
@@ -625,17 +628,17 @@
     "port": 28400
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "1. Fallschirmjäger-Division Server 2",
     "addr": "176.57.171.158",
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
     "port": 28300
   },
@@ -645,12 +648,12 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "this time is for real",
     "addr": "176.57.171.176",
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
     "port": 28300
   },
@@ -693,7 +696,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "PV",
     "addr": "176.57.171.44",
     "port": 28500
   },
@@ -703,12 +706,12 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
     "port": 28000
   },
@@ -776,17 +779,19 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.105",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724868468
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
     "port": 28100
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.181.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724868468
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
@@ -912,8 +917,7 @@
   {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777,
-    "removed": 1724847057
+    "port": 7777
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -976,8 +980,7 @@
   {
     "name": "nMo | Events | discord.gg/teamNMO",
     "addr": "192.169.86.106",
-    "port": 7787,
-    "removed": 1724850050
+    "port": 7787
   },
   {
     "name": "nMo | East | New Players Welcome | discord.gg/teamNMO",
@@ -997,7 +1000,8 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | New players Welcome",
     "addr": "192.169.86.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1724868468
   },
   {
     "name": "[★] Warfare Lovers | Level 100+ | Comp | Strategy | !commands",
@@ -1148,7 +1152,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "Merciless Hell let loose (US West #1) discord.gg/m3rc",
     "addr": "193.192.58.145",
     "port": 28100
   },
@@ -1658,8 +1662,7 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
-    "port": 7777,
-    "removed": 1724847057
+    "port": 7777
   },
   {
     "name": "SLB #1",
@@ -1782,14 +1785,12 @@
   {
     "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1724847057
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
-    "port": 9620,
-    "removed": 1724847057
+    "port": 9620
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -1814,8 +1815,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530,
-    "removed": 1724847057
+    "port": 8530
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1840,13 +1840,13 @@
   {
     "name": "[250H] Hell Let Loose",
     "addr": "51.89.192.209",
-    "port": 9075,
-    "removed": 1724695652
+    "port": 9075
   },
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724868468
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -1859,7 +1859,7 @@
     "port": 9075
   },
   {
-    "name": "The Whey Pat Tavern. Blood, Sweat & Beers",
+    "name": "The Whey Pat Tavern. Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
     "port": 8530
   },
@@ -2200,7 +2200,8 @@
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "83.223.207.46",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724868468
   },
   {
     "name": "Snarky's (US Mid) Snarky",
