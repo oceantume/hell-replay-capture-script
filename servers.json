@@ -1118,7 +1118,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1724870084
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1156,10 +1157,9 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "✪ OG's Battleground Newbies Welcome ✪",
     "addr": "193.192.58.145",
-    "port": 28200,
-    "removed": 1724869335
+    "port": 28200
   },
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
