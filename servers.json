@@ -239,7 +239,7 @@
     "port": 7777
   },
   {
-    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -1865,7 +1865,8 @@
   {
     "name": "HLL test server - do not use",
     "addr": "54.36.126.47",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724894939
   },
   {
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
