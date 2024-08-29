@@ -144,8 +144,7 @@
   {
     "name": "DKB EVENT SERVER",
     "addr": "141.95.33.70",
-    "port": 9075,
-    "removed": 1724868468
+    "port": 9075
   },
   {
     "name": "GER - |HTD| HaiiTeD Hardcore Server",
@@ -231,6 +230,11 @@
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "151.80.27.200",
     "port": 8772
+  },
+  {
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "addr": "159.69.226.141",
+    "port": 7777
   },
   {
     "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
@@ -437,7 +441,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.174",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724891212
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -915,6 +920,11 @@
     "port": 7787
   },
   {
+    "name": "[LATAM] Comunidad Latina V2 - Testeando Nuevo Server",
+    "addr": "181.214.221.212",
+    "port": 7797
+  },
+  {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
     "port": 7777
@@ -1118,8 +1128,7 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1724870084
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1152,7 +1161,7 @@
     "port": 28000
   },
   {
-    "name": "Merciless Hell let loose (US West #1) discord.gg/m3rc",
+    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "193.192.58.145",
     "port": 28100
   },
@@ -1197,7 +1206,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "(IC) New Players Welcome  |  US West #2",
     "addr": "193.192.59.39",
     "port": 28000
   },
@@ -1209,7 +1218,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.59.39",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724891212
   },
   {
     "name": "Merciless event server",
@@ -1217,7 +1227,7 @@
     "port": 28000
   },
   {
-    "name": "Merciless Hell let loose (US West #2) discord.gg/m3rc",
+    "name": "[Merc] US West #2 | Warfare | discord.gg/m3rc",
     "addr": "193.192.59.99",
     "port": 28100
   },
@@ -1328,8 +1338,7 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1724871833
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1647,7 +1656,8 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807
+    "port": 7807,
+    "removed": 1724891212
   },
   {
     "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
@@ -1775,11 +1785,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1724871833
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2134,10 +2143,11 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724891212
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "WHAT: Hell let loose (US East) ",
     "addr": "83.223.203.182",
     "port": 28000
   },
@@ -2150,6 +2160,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.51",
     "port": 28000
+  },
+  {
+    "name": "Western Front Historical | 88ID Server",
+    "addr": "83.223.204.11",
+    "port": 28100
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
