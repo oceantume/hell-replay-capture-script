@@ -853,12 +853,6 @@
     "removed": 1724847057
   },
   {
-    "name": "Streamline Servers",
-    "addr": "177.54.151.123",
-    "port": 8888,
-    "removed": 1724306903
-  },
-  {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
     "addr": "177.54.151.123",
     "port": 8898
@@ -909,7 +903,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "181.214.149.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724911739
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -1046,7 +1041,8 @@
   {
     "name": "[TOG] The Old Guard Official Event Server [East]",
     "addr": "192.169.89.26",
-    "port": 9075
+    "port": 9075,
+    "removed": 1724911739
   },
   {
     "name": "[ESPAÑOL] Latinoamerica - ]|Los 7 Demonios|[",
@@ -1334,7 +1330,8 @@
   {
     "name": "CN 散人社区丨萌新的夏叶原军官营地",
     "addr": "202.165.70.91",
-    "port": 8908
+    "port": 8908,
+    "removed": 1724911739
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1342,7 +1339,7 @@
     "port": 8928
   },
   {
-    "name": "CN.CZS超质数中队纯冲突强度服HK｜q682534524",
+    "name": "CN.CZS超质数中队纯冲突强度服HK｜q980240242",
     "addr": "202.165.70.91",
     "port": 8938
   },
@@ -2159,7 +2156,8 @@
   {
     "name": "Western Front Historical | 88ID Server",
     "addr": "83.223.204.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1724911739
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -2175,6 +2173,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.229",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (US East) Macabre",
+    "addr": "83.223.204.52",
+    "port": 28000
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -2309,7 +2312,7 @@
     "port": 7777
   },
   {
-    "name": "Hell let loose (Brazil) Server by g-portal.com",
+    "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
     "port": 28900
   }
