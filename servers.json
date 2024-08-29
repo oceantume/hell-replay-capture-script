@@ -40,7 +40,7 @@
     "port": 8948
   },
   {
-    "name": "CN人间地狱中文社区网www.hellletloose.cn",
+    "name": "金色的切尔西",
     "addr": "103.62.49.42",
     "port": 8958
   },
@@ -617,7 +617,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724933425
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -730,7 +731,8 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724933425
   },
   {
     "name": "Team17 CERT",
@@ -803,7 +805,13 @@
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.181.11",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724933425
+  },
+  {
+    "name": "Hell let loose Official Server by g-portal.com",
+    "addr": "176.57.181.11",
+    "port": 28300
   },
   {
     "name": "**ll l** l**s* **** S***** b* *******l****",
@@ -1265,10 +1273,9 @@
     "port": 20500
   },
   {
-    "name": "nitrado.net gameserver exaXDajD",
+    "name": "[GER] Schlachtfeld der Neko",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1724328588
+    "port": 21400
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
