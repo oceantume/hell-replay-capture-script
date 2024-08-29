@@ -15,7 +15,7 @@
     "port": 8898
   },
   {
-    "name": "CN1#JP【PKK】亿江南萌新欢乐营（纯攻防）QQ群7479",
+    "name": "CN1#JP PKK亿江南萌新欢乐营（纯攻防）QQ群747976659",
     "addr": "103.62.49.42",
     "port": 8908
   },
@@ -40,7 +40,7 @@
     "port": 8948
   },
   {
-    "name": "金色切尔西抽象萌新基地+Q群425375843",
+    "name": "CN#JP 金色切尔西抽象萌新基地+Q群425375843",
     "addr": "103.62.49.42",
     "port": 8958
   },
@@ -300,7 +300,7 @@
     "port": 28300
   },
   {
-    "name": "  [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
+    "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
     "port": 28400
   },
@@ -544,7 +544,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28200
+    "port": 28200,
+    "removed": 1724954869
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -780,7 +781,7 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe - QA Testing #05  ",
+    "name": "HLL Official - Europe - QA Testing #05 ",
     "addr": "176.57.178.17",
     "port": 28200
   },
@@ -796,10 +797,9 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose Official Server by g-portal.com",
+    "name": "gportal test",
     "addr": "176.57.181.11",
-    "port": 28100,
-    "removed": 1724868468
+    "port": 28100
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
@@ -809,7 +809,8 @@
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.181.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1724954869
   },
   {
     "name": "**ll l** l**s* **** S***** b* *******l****",
@@ -1151,8 +1152,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1724936415
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1197,8 +1197,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1724936415
+    "port": 28100
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1206,7 +1205,7 @@
     "port": 28200
   },
   {
-    "name": "(IC) New Players Welcome  |  US West #2",
+    "name": "(IC) New Players Welcome | US West #2",
     "addr": "193.192.59.39",
     "port": 28000
   },
@@ -1638,6 +1637,16 @@
     "port": 7777
   },
   {
+    "name": "      [  GER  ]   APOTHEKE - DAILY DOSE - ACAB TAURUS OINK",
+    "addr": "208.115.206.84",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
+    "addr": "208.115.206.85",
+    "port": 7777
+  },
+  {
     "name": "XYZ",
     "addr": "208.115.226.2",
     "port": 7777,
@@ -1787,7 +1796,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2131,6 +2140,11 @@
     "port": 28100
   },
   {
+    "name": "{serverName}",
+    "addr": "83.223.203.130",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
     "port": 28200
@@ -2286,6 +2300,11 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
+    "port": 7777
+  },
+  {
+    "name": "Stuart Mafia Stable Map Rotation Foy & Offensive Focus",
+    "addr": "92.118.18.78",
     "port": 7777
   },
   {
