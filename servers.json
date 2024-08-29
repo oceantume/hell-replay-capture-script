@@ -42,7 +42,8 @@
   {
     "name": "金色的切尔西",
     "addr": "103.62.49.42",
-    "port": 8958
+    "port": 8958,
+    "removed": 1724934425
   },
   {
     "name": "cn.jp 忆江南【PUMA】夜晚激战冲突服q746699634",
@@ -731,8 +732,7 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000,
-    "removed": 1724933425
+    "port": 28000
   },
   {
     "name": "Team17 CERT",
@@ -805,8 +805,7 @@
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.181.11",
-    "port": 28200,
-    "removed": 1724933425
+    "port": 28200
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
