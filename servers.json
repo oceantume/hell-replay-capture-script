@@ -79,7 +79,8 @@
   {
     "name": "AA US West Noobie Battleground",
     "addr": "104.238.222.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724977616
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -236,7 +237,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "159.69.226.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1724977616
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -856,8 +858,7 @@
   {
     "name": "HLL Latinoamérica #2 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1724847057
+    "port": 7847
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -937,18 +938,6 @@
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
     "addr": "189.1.170.137",
     "port": 7782
-  },
-  {
-    "name": "<COBRAS FUMANTES> MARRAM #01 - https://discord.gold",
-    "addr": "189.1.170.137",
-    "port": 7807,
-    "removed": 1724372756
-  },
-  {
-    "name": "<COBRAS FUMANTES> MARRAM #02 - discord.gold",
-    "addr": "189.1.170.137",
-    "port": 7827,
-    "removed": 1724372756
   },
   {
     "name": "[LATAM] >En Mantenimiento< || Discord: n9.cl/CLATAM || Lvl 10+ ",
@@ -1796,7 +1785,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2198,7 +2187,8 @@
   {
     "name": "Hell let loose (US East) Macabre",
     "addr": "83.223.204.52",
-    "port": 28000
+    "port": 28000,
+    "removed": 1724977616
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
