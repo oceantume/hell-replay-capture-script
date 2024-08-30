@@ -433,7 +433,8 @@
   {
     "name": " HLL Official - Europe - QA Testing #03 ",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725019802
   },
   {
     "name": "mines",
@@ -495,7 +496,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725019802
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -733,7 +735,8 @@
   {
     "name": "HLL Dev Team 3",
     "addr": "176.57.174.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725019802
   },
   {
     "name": "Team17 CERT",
@@ -800,10 +803,11 @@
   {
     "name": "gportal test",
     "addr": "176.57.181.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725019802
   },
   {
-    "name": "Hell let loose Official Server by g-portal.com",
+    "name": "Hell let loose Official Server ",
     "addr": "176.57.181.11",
     "port": 28200
   },
@@ -2316,7 +2320,7 @@
     "port": 7787
   },
   {
-    "name": "HELL HOUNDS | US CENTRAL | OFFENSIVE ONLY | DISCORD.GG/HH-GAMIN",
+    "name": "HELL HOUNDS | US CN | OFFENSIVE ONLY | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
     "port": 7777
   },
