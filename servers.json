@@ -74,8 +74,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1725044712
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -558,7 +557,8 @@
   {
     "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725064011
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1746,7 +1746,7 @@
     "port": 7787
   },
   {
-    "name": "[ GER ] TRÜMMERTRUPPE Event-Server #DTT",
+    "name": "[ GER ] #DTT Sommergemetzel | Trümmertruppe",
     "addr": "46.4.97.246",
     "port": 8530
   },
@@ -1773,11 +1773,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725044712
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
