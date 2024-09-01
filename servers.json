@@ -557,8 +557,7 @@
   {
     "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
-    "port": 28000,
-    "removed": 1725064011
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -610,7 +609,8 @@
   {
     "name": "[PL/ENG] NEW PLAYERS WELCOME | LOW PING | ",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725214021
   },
   {
     "name": "Hell let loose Server by g-portal.com",
@@ -819,7 +819,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.144",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725214021
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1377,12 +1378,6 @@
     "port": 8888
   },
   {
-    "name": "【FJ】Training server/WEST US/",
-    "addr": "203.10.96.196",
-    "port": 8898,
-    "removed": 1724609211
-  },
-  {
     "name": "HLL Server",
     "addr": "203.10.96.196",
     "port": 8908
@@ -1410,7 +1405,8 @@
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1725214021
   },
   {
     "name": "[CZS] Fast Loadout & Levels | XP  only|Node JP",
@@ -1565,7 +1561,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725214021
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -1585,7 +1582,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
     "addr": "208.115.206.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725214021
   },
   {
     "name": "      [  GER  ]   APOTHEKE - DAILY DOSE - ACAB TAURUS OINK",
@@ -1752,7 +1750,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1895,7 +1893,7 @@
     "removed": 1724656043
   },
   {
-    "name": "Badgergrounds",
+    "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
     "port": 7777
   },
@@ -2246,7 +2244,7 @@
     "port": 7777
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "HLL ITA COMMUNITY ★ EU/ENG | SKIRMISH NIGHT ONLY",
     "addr": "92.118.16.142",
     "port": 7777
   },
