@@ -154,7 +154,8 @@
   {
     "name": "[PL/ENG] WaTaHa & CGT Polish Clans [Low Ping - VoteMap]",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1725150790
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -538,7 +539,7 @@
     "port": 28000
   },
   {
-    "name": "KRTs Camelot Cursed Layouts",
+    "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
     "port": 28100
   },
@@ -1755,17 +1756,15 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1725130849
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725130849
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1840,7 +1839,7 @@
     "port": 9075
   },
   {
-    "name": "The Whey Pat Tavern. Blood, Sweat & Beers [BSB]",
+    "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
     "port": 8530
   },
@@ -1986,7 +1985,8 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
-    "port": 7797
+    "port": 7797,
+    "removed": 1725150790
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-W | .gg/hostile",
@@ -2129,14 +2129,15 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
     "port": 28000
   },
   {
     "name": "WHAT: Hell let loose (US East) ",
     "addr": "83.223.203.182",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725150790
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -2155,7 +2156,7 @@
     "removed": 1724911739
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
     "port": 28200
   },
@@ -2255,6 +2256,11 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
+    "port": 7777
+  },
+  {
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "addr": "92.118.16.142",
     "port": 7777
   },
   {
