@@ -758,8 +758,7 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1725279043
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1972,7 +1971,8 @@
   {
     "name": "HLL Server",
     "addr": "81.77.184.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725280056
   },
   {
     "name": "HLL Official - Asia #07",
