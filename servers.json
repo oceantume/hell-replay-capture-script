@@ -500,7 +500,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[DD] Devil Dogs | EU #1 ",
     "addr": "176.57.168.252",
     "port": 28300
   },
@@ -550,12 +550,6 @@
     "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.4",
-    "port": 28100,
-    "removed": 1724695652
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1134,8 +1128,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1725282097
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1148,10 +1141,9 @@
     "port": 28200
   },
   {
-    "name": "(IC) New Players Welcome | US West #2",
+    "name": "(IC) New Players Welcome | US West #2 | Carentan Loop",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1725260998
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1233,12 +1225,6 @@
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
     "addr": "198.244.177.7",
     "port": 9075
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "198.244.177.91",
-    "port": 8530,
-    "removed": 1724695652
   },
   {
     "name": "[BR1] EVENT SERVER - discord.gg/br1",
@@ -1632,18 +1618,6 @@
     "port": 7777
   },
   {
-    "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
-    "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1724695652
-  },
-  {
-    "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
-    "addr": "216.219.93.37",
-    "port": 7807,
-    "removed": 1724695652
-  },
-  {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
     "port": 7777
@@ -1662,6 +1636,11 @@
     "name": "En Svensk Tiger #3 | SWE/ENG | HellLetLoose.se",
     "addr": "217.182.196.157",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "31.52.72.222",
+    "port": 7777
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1724,7 +1703,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2236,6 +2215,11 @@
     "port": 7777
   },
   {
+    "name": "General Pattons D-Day 24/7",
+    "addr": "92.118.18.79",
+    "port": 7777
+  },
+  {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
     "port": 7797
@@ -2263,8 +2247,7 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
-    "port": 7777,
-    "removed": 1725282097
+    "port": 7777
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
