@@ -124,8 +124,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1725257355
+    "port": 9224
   },
   {
     "name": "Infiltration Event DE",
@@ -293,8 +292,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1725260998
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -326,12 +324,6 @@
     "addr": "176.57.140.146",
     "port": 28100,
     "removed": 1724847057
-  },
-  {
-    "name": "(GER) [CRT] KEIN BUNKER - Faire Admins - Anfängerfreundlich",
-    "addr": "176.57.140.146",
-    "port": 28200,
-    "removed": 1724674219
   },
   {
     "name": "13SNC Event",
@@ -395,10 +387,9 @@
     "port": 28000
   },
   {
-    "name": "Server123Meins",
+    "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.153.114",
-    "port": 28100,
-    "removed": 1724782078
+    "port": 28100
   },
   {
     "name": "LwJg46 Bierstube",
@@ -504,7 +495,7 @@
     "port": 28000
   },
   {
-    "name": "Parabellum HUN",
+    "name": "PARABELLUM HUNGARY | HUN/ENG",
     "addr": "176.57.168.252",
     "port": 28200
   },
@@ -767,7 +758,8 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725279043
   },
   {
     "name": "HLL Official - UK #02",
@@ -865,18 +857,6 @@
     "port": 7797
   },
   {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "178.249.213.87",
-    "port": 7777,
-    "removed": 1724674219
-  },
-  {
-    "name": "69th Space Force Japan [MILSIM FRIENDLY]",
-    "addr": "178.249.213.87",
-    "port": 7797,
-    "removed": 1724674219
-  },
-  {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "178.249.213.95",
     "port": 7787
@@ -910,7 +890,8 @@
   {
     "name": "[LATAM] Comunidad Latina V2 - Testeando Nuevo Server",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1725279043
   },
   {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
@@ -1775,8 +1756,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530,
-    "removed": 1725257355
+    "port": 8530
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1988,6 +1968,11 @@
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
     "port": 9620
+  },
+  {
+    "name": "HLL Server",
+    "addr": "81.77.184.227",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2277,8 +2262,7 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
-    "port": 7777,
-    "removed": 1725260998
+    "port": 7777
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
