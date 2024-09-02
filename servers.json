@@ -293,7 +293,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725260998
   },
   {
     "name": "Internal_Team17",
@@ -870,12 +871,6 @@
     "removed": 1724674219
   },
   {
-    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
-    "addr": "178.249.213.87",
-    "port": 7787,
-    "removed": 1724656043
-  },
-  {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "178.249.213.87",
     "port": 7797,
@@ -1174,7 +1169,8 @@
   {
     "name": "(IC) New Players Welcome | US West #2",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725260998
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1879,18 +1875,6 @@
     "port": 7777
   },
   {
-    "name": "69th Space Force Japan [MILSIM FRIENDLY]",
-    "addr": "64.31.11.66",
-    "port": 7777,
-    "removed": 1724656043
-  },
-  {
-    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
-    "addr": "64.31.11.67",
-    "port": 7777,
-    "removed": 1724656043
-  },
-  {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
     "port": 7777
@@ -1929,12 +1913,6 @@
     "name": "Lucky Strike Event Server",
     "addr": "64.31.40.204",
     "port": 7777
-  },
-  {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "64.31.48.82",
-    "port": 7777,
-    "removed": 1724656043
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -2224,8 +2202,7 @@
   {
     "name": "Greyhounds Event",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1725259724
+    "port": 7817
   },
   {
     "name": "HLL Official - South America #02",
@@ -2300,7 +2277,8 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725260998
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
