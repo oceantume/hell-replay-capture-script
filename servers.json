@@ -649,8 +649,7 @@
   {
     "name": "this time is for real",
     "addr": "176.57.171.176",
-    "port": 28200,
-    "removed": 1725281251
+    "port": 28200
   },
   {
     "name": "1. Fallschirmjäger-Division Server 1",
@@ -1135,7 +1134,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725282097
   },
   {
     "name": "HLL Official - US West #02",
@@ -2263,7 +2263,8 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725282097
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
