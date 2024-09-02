@@ -124,7 +124,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1725257355
   },
   {
     "name": "Infiltration Event DE",
@@ -1212,6 +1213,11 @@
     "port": 9620
   },
   {
+    "name": "Ivy Division East | New Player Friendly | Discord.gg/ivydivisio",
+    "addr": "194.140.197.66",
+    "port": 32000
+  },
+  {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
     "port": 31300
@@ -1412,7 +1418,8 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.5",
-    "port": 8888
+    "port": 8888,
+    "removed": 1725257355
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
@@ -1772,7 +1779,8 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530
+    "port": 8530,
+    "removed": 1725257355
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1861,7 +1869,7 @@
     "port": 7777
   },
   {
-    "name": "SKIRMISH [HELL] | US WEST | DISCORD.GG/HH-GAMING",
+    "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
     "addr": "63.143.62.90",
     "port": 7777
   },
