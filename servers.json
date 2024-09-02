@@ -272,8 +272,7 @@
   {
     "name": "Practice Server PCK",
     "addr": "173.225.104.218",
-    "port": 8530,
-    "removed": 1724868468
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -344,7 +343,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Server for fun",
     "addr": "176.57.140.16",
     "port": 28100
   },
@@ -621,7 +620,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725236903
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -662,12 +662,6 @@
     "name": "1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
     "port": 28300
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.38",
-    "port": 28000,
-    "removed": 1724632008
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1705,12 +1699,6 @@
     "port": 28200
   },
   {
-    "name": "nitrado.net gameserver KMgfwoU-",
-    "addr": "45.159.7.39",
-    "port": 17000,
-    "removed": 1724632008
-  },
-  {
     "name": "[GER] Greyhounds Public. Mit Bier und Grillwurst",
     "addr": "46.105.223.204",
     "port": 7777
@@ -1751,7 +1739,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
