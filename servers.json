@@ -263,8 +263,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1725343720
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] 1 |US EAST-FL| discord.gg/drafthaus",
@@ -703,6 +702,11 @@
     "name": "Dutch Let Loose #2 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.173.119",
     "port": 28000
+  },
+  {
+    "name": "[PL/ENG] Cossack's & WaTaHa Polish Clans Server",
+    "addr": "176.57.173.119",
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1569,12 +1573,6 @@
     "port": 7777
   },
   {
-    "name": "XYZ",
-    "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1724760603
-  },
-  {
     "name": "WTH Training Server",
     "addr": "208.115.226.2",
     "port": 7787
@@ -1829,6 +1827,16 @@
     "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
     "addr": "63.143.62.90",
     "port": 7777
+  },
+  {
+    "name": "Merciless event server",
+    "addr": "63.143.62.90",
+    "port": 7787
+  },
+  {
+    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
+    "addr": "63.143.62.90",
+    "port": 7797
   },
   {
     "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
