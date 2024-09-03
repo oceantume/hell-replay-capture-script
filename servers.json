@@ -1700,11 +1700,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725303922
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1792,8 +1791,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620,
-    "removed": 1725303922
+    "port": 9620
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
@@ -1888,6 +1886,11 @@
   {
     "name": "(IC) Offensive Heaven  |  US West #1  |  Votemap Enabled",
     "addr": "64.31.61.91",
+    "port": 7777
+  },
+  {
+    "name": "Ivy Division West | New Player Friendly | Discord.gg/ivydivisio",
+    "addr": "64.31.61.93",
     "port": 7777
   },
   {
@@ -2214,7 +2217,8 @@
   {
     "name": "Stuart Mafia Stable Map Rotation Foy & Offensive Focus",
     "addr": "92.118.18.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725323222
   },
   {
     "name": "General Pattons D-Day 24/7",
