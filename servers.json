@@ -74,8 +74,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1725390288
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -375,7 +374,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725409640
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -732,7 +732,8 @@
   {
     "name": "TD | Tank Destroyers [EU/ENG]",
     "addr": "176.57.178.127",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725409640
   },
   {
     "name": "HLL Official - UK #01",
@@ -1633,7 +1634,7 @@
     "port": 8530
   },
   {
-    "name": "FR La Tempête d'Acier \\latempetedacier.fr/Francophone/15 Mini",
+    "name": "FR La Tempête d'Acier \\latempetedacier.com/Francophone/15 Mini",
     "addr": "37.187.25.13",
     "port": 8530
   },
@@ -1663,6 +1664,11 @@
     "port": 8530
   },
   {
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "addr": "49.12.83.52",
+    "port": 7807
+  },
+  {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -1685,11 +1691,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725390288
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2095,7 +2100,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
+    "name": "Boneyard",
     "addr": "83.223.204.229",
     "port": 28100
   },
