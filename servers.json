@@ -409,7 +409,8 @@
   {
     "name": " HLL Official - Europe - QA Testing #03 ",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725454923
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -738,7 +739,8 @@
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.181.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725454923
   },
   {
     "name": "Hell let loose Official Server ",
@@ -1087,7 +1089,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725454923
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
