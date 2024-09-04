@@ -50,12 +50,6 @@
     "port": 8968
   },
   {
-    "name": "CN 人间地狱中文社区网www.hellletloose.cn",
-    "addr": "103.62.49.42",
-    "port": 8978,
-    "removed": 1724847057
-  },
-  {
     "name": "PUMA Kombinierte Kampfgruppe ",
     "addr": "103.62.49.42",
     "port": 8988
@@ -64,12 +58,6 @@
     "name": "<CN>老六萌新集中营（随机图）服主Q：2164947615",
     "addr": "103.62.49.42",
     "port": 8998
-  },
-  {
-    "name": "CN人间地狱中文社区网www.hellletloose.cn",
-    "addr": "103.62.49.42",
-    "port": 9008,
-    "removed": 1724847057
   },
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
@@ -209,6 +197,11 @@
   },
   {
     "name": "Another Qonzer.com server is born!",
+    "addr": "146.19.48.157",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
     "addr": "146.19.48.168",
     "port": 7787,
     "removed": 1725386880
@@ -321,12 +314,6 @@
     "port": 28000
   },
   {
-    "name": "Helldwqtal.com",
-    "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1724847057
-  },
-  {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
@@ -374,7 +361,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725451880
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -567,12 +555,6 @@
     "port": 28300
   },
   {
-    "name": "23214dsa1",
-    "addr": "176.57.168.91",
-    "port": 28400,
-    "removed": 1724847057
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.169.115",
     "port": 28000
@@ -723,12 +705,6 @@
     "port": 28300
   },
   {
-    "name": "Free Beer!!",
-    "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1724847057
-  },
-  {
     "name": "TD | Tank Destroyers [EU/ENG]",
     "addr": "176.57.178.127",
     "port": 28200,
@@ -742,7 +718,8 @@
   {
     "name": "HLL Official - UK - QA Testing #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725451880
   },
   {
     "name": "HLL Official - UK #02",
@@ -1496,7 +1473,8 @@
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725451880
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1814,12 +1792,12 @@
     "port": 7777
   },
   {
-    "name": "Merciless event server",
+    "name": "[Merc]iless #2 Event Server",
     "addr": "63.143.62.90",
     "port": 7787
   },
   {
-    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
+    "name": "[Merc]iless Event Server",
     "addr": "63.143.62.90",
     "port": 7797
   },
@@ -2111,13 +2089,8 @@
   {
     "name": "HLL Official - US East - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
-  },
-  {
-    "name": "Ivy Division Central |New Players Welcome|Discord.gg/IvyDivisio",
-    "addr": "83.223.207.141",
     "port": 28100,
-    "removed": 1724847057
+    "removed": 1725451880
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
@@ -2163,6 +2136,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
+    "port": 7777
+  },
+  {
+    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
+    "addr": "85.208.197.70",
     "port": 7777
   },
   {
