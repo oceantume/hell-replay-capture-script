@@ -413,12 +413,6 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.174",
-    "port": 28200,
-    "removed": 1724891212
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.174",
     "port": 28300
   },
   {
@@ -786,23 +780,23 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
     "addr": "177.54.147.141",
-    "port": 7787
+    "port": 7787,
+    "removed": 1725496035
   },
   {
-    "name": "HLL Oficial - Sur America #03 - Magic LATAM discord.gg/magic-se",
+    "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
     "port": 7807
   },
   {
-    "name": "MIB - Made In Brasil / Junte-se à Insanidade!",
+    "name": "MIB - MADE IN BRASIL / JUNTE-SE À INSANIDADE!",
     "addr": "177.54.147.141",
     "port": 7827
   },
   {
-    "name": "HLL Latinoamérica #2 | https://hll.la/ | HAGAMOS GARRIS",
+    "name": "Hell Let Loose Server",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1725216175
+    "port": 7847
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1461,17 +1455,20 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725496035
   },
   {
     "name": "TT1",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725496035
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725496035
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -1567,6 +1564,21 @@
     "port": 7797
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.248.108",
+    "port": 7777
+  },
+  {
+    "name": "TT1",
+    "addr": "208.115.248.109",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "208.115.248.110",
+    "port": 7777
+  },
+  {
     "name": "SLK - US West",
     "addr": "216.219.90.146",
     "port": 7777
@@ -1638,6 +1650,11 @@
     "port": 8530
   },
   {
+    "name": "[GER]German HIGHPERF. Server/Low Ping/German Only/German Mic On",
+    "addr": "46.4.97.246",
+    "port": 9075
+  },
+  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
     "port": 7807
@@ -1660,17 +1677,15 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1725476630
+    "port": 8740
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725476630
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
