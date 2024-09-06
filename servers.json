@@ -448,7 +448,8 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725606442
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1519,6 +1520,11 @@
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
     "addr": "208.115.206.86",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.212.74",
     "port": 7777
   },
   {
