@@ -817,6 +817,11 @@
     "removed": 1725279043
   },
   {
+    "name": "[Merc] #5 Sur América Discord.gg/m3rc",
+    "addr": "181.214.221.212",
+    "port": 7807
+  },
+  {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
     "port": 7777
@@ -1061,7 +1066,8 @@
   {
     "name": "(IC) New Players Welcome | US West | Carentan Loop",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725602920
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1113,6 +1119,26 @@
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "194.140.199.73",
     "port": 30000
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "addr": "195.181.175.180",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
+    "addr": "195.181.175.180",
+    "port": 7877
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
+    "addr": "195.181.175.180",
+    "port": 7977
+  },
+  {
+    "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
+    "addr": "195.181.175.181",
+    "port": 7777
   },
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
@@ -1462,8 +1488,7 @@
   {
     "name": "[82AD] Band of Brothers | #3 | Discord: 82nd.gg",
     "addr": "208.115.206.82",
-    "port": 7777,
-    "removed": 1725538234
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
@@ -1521,12 +1546,14 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
     "addr": "208.115.226.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725602920
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725602920
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1541,7 +1568,8 @@
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "208.115.248.106",
-    "port": 7797
+    "port": 7797,
+    "removed": 1725602920
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1566,7 +1594,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "208.115.248.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725602920
   },
   {
     "name": "SLK - US West",
@@ -1804,12 +1833,14 @@
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "63.143.62.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1725602920
   },
   {
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.90",
-    "port": 7797
+    "port": 7797,
+    "removed": 1725602920
   },
   {
     "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
@@ -1855,6 +1886,21 @@
     "name": "Lucky Strike Event Server",
     "addr": "64.31.40.204",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.40.205",
+    "port": 7777
+  },
+  {
+    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
+    "addr": "64.31.6.90",
+    "port": 7787
+  },
+  {
+    "name": "[Merc]iless Event Server",
+    "addr": "64.31.6.90",
+    "port": 7797
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -2217,7 +2263,7 @@
     "port": 7787
   },
   {
-    "name": "PC Gamers - Monterrey Mexico",
+    "name": "PC Gamers LATAM - Español/English",
     "addr": "92.118.19.142",
     "port": 7777
   },
