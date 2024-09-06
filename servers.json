@@ -62,8 +62,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1725562984
+    "port": 8888
   },
   {
     "name": "AA US West Noobie Battleground",
@@ -223,12 +222,6 @@
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "151.80.27.200",
     "port": 8772
-  },
-  {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
-    "addr": "159.69.226.141",
-    "port": 7777,
-    "removed": 1724977616
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -765,8 +758,7 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807,
-    "removed": 1725520062
+    "port": 7807
   },
   {
     "name": "HLL Server",
@@ -1412,7 +1404,8 @@
   {
     "name": "Omen Event Server Ʊ",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725582435
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1441,7 +1434,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "208.115.206.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725582435
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1480,12 +1474,14 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
     "addr": "208.115.206.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725582435
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "208.115.206.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725582435
   },
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
@@ -1523,6 +1519,16 @@
     "port": 7777
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
+    "addr": "208.115.226.91",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
+    "addr": "208.115.226.92",
+    "port": 7777
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1550,6 +1556,16 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
+    "port": 7777
+  },
+  {
+    "name": "Omen Event Server Ʊ",
+    "addr": "208.115.248.110",
+    "port": 7877
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "addr": "208.115.248.90",
     "port": 7777
   },
   {
@@ -1609,7 +1625,7 @@
     "port": 28200
   },
   {
-    "name": "Greyhound Night Server Green ",
+    "name": "Greyhound Public Server",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1624,7 +1640,7 @@
     "port": 8530
   },
   {
-    "name": "[GER]German HIGHPERF. Server/Low Ping/German Only/German Mic On",
+    "name": "[GER]German HIGHPERF. Server[Privat] LowPing/GermanSpeakingOnly",
     "addr": "46.4.97.246",
     "port": 9075
   },
@@ -1651,16 +1667,21 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 8740
+    "port": 8740,
+    "removed": 1725582435
+  },
+  {
+    "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
+    "addr": "51.161.197.24",
+    "port": 8530
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725562984
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1846,7 +1867,7 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven  |  US West #1  |  Votemap Enabled",
+    "name": "(IC) Offensive Heaven | US West | discord.gg/icoffensiveheaven",
     "addr": "64.31.61.91",
     "port": 7777
   },
@@ -2058,12 +2079,6 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (US East) Macabre",
-    "addr": "83.223.204.52",
-    "port": 28000,
-    "removed": 1724977616
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
     "port": 28200
@@ -2120,7 +2135,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Night Server Blue",
+    "name": "Greyhounds Event Server",
     "addr": "85.208.197.70",
     "port": 7817
   },
