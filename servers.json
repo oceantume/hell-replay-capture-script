@@ -1009,6 +1009,11 @@
     "port": 9620
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.138",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
     "port": 28000
@@ -2133,8 +2138,7 @@
   {
     "name": "HLL Official - US East - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1725451880
+    "port": 28100
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
