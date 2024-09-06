@@ -448,8 +448,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1725606442
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -535,7 +534,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.169.115",
-    "port": 28000
+    "port": 28000,
+    "removed": 1725624607
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -617,7 +617,8 @@
   {
     "name": "[Merc] #3 EU Discord.gg/m3rc ",
     "addr": "176.57.171.44",
-    "port": 28300
+    "port": 28300,
+    "removed": 1725624607
   },
   {
     "name": "PV",
@@ -653,12 +654,6 @@
     "name": "Bienvenue en enfer FR/Serieux/COMMUNICATION/Présence Staff",
     "addr": "176.57.173.119",
     "port": 28300
-  },
-  {
-    "name": "HLL Dev Team 3",
-    "addr": "176.57.174.129",
-    "port": 28000,
-    "removed": 1725019802
   },
   {
     "name": "Team17 CERT",
@@ -818,7 +813,7 @@
     "removed": 1725279043
   },
   {
-    "name": "[Merc] #5 Sur América Discord.gg/m3rc",
+    "name": "South|Sur América| -R- [Merc]#5 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -858,7 +853,7 @@
     "port": 8530
   },
   {
-    "name": "[KOR] TVB I US WEST ENG discord.gg/TVB",
+    "name": "[KOR] TVB 한국 커뮤니티 discord.gg/TVB",
     "addr": "192.169.85.194",
     "port": 9075
   },
@@ -964,7 +959,7 @@
     "port": 7577
   },
   {
-    "name": "(IC) Offensive Heaven  |  US East  |  Votemap Enabled",
+    "name": "((IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
     "addr": "192.169.95.178",
     "port": 7877
   },
@@ -1010,10 +1005,9 @@
     "port": 9620
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[Merc]iless EU #2 Discord.gg/m3rc",
     "addr": "193.160.22.138",
-    "port": 7777,
-    "removed": 1725605769
+    "port": 7777
   },
   {
     "name": "HLL Official - US West #03",
@@ -1114,10 +1108,9 @@
     "port": 9620
   },
   {
-    "name": "Ivy Division East | New Player Friendly | Discord.gg/ivydivisio",
+    "name": "Ivy Division | Event Server | ",
     "addr": "194.140.197.66",
-    "port": 32000,
-    "removed": 1725605769
+    "port": 32000
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
@@ -1523,7 +1516,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Ivy Division East | New Players Welcome | US and EU",
     "addr": "208.115.212.74",
     "port": 7777
   },
@@ -1932,7 +1925,7 @@
     "port": 7777
   },
   {
-    "name": "Ivy Division West | New Player Friendly | Discord.gg/ivydivisio",
+    "name": "Ivy Division West | New Players Welcome | US and AU",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -1970,6 +1963,11 @@
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
     "port": 7827
+  },
+  {
+    "name": "Ivy Division Central | New Player Welcome | NA and CAN",
+    "addr": "69.162.89.146",
+    "port": 7777
   },
   {
     "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
