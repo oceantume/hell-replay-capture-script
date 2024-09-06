@@ -1088,7 +1088,8 @@
   {
     "name": "[Merc] US West #2 | Warfare | discord.gg/m3rc",
     "addr": "193.192.59.99",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725604640
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
@@ -1888,10 +1889,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[Merc]#3 Miami discord.gg/m3rc",
     "addr": "64.31.40.205",
-    "port": 7777,
-    "removed": 1725603830
+    "port": 7777
   },
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
