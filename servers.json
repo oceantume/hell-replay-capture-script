@@ -695,14 +695,12 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1725626741
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe - QA Testing #05 ",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1725626741
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -746,6 +744,11 @@
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
     "port": 28200
+  },
+  {
+    "name": "Internal Test WinStore Only",
+    "addr": "176.57.181.209",
+    "port": 28300
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
