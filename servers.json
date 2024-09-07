@@ -487,12 +487,6 @@
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.253",
-    "port": 28300,
-    "removed": 1725127613
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -824,7 +818,7 @@
     "removed": 1725279043
   },
   {
-    "name": "South|Sur América| -R- [Merc]#5 Discord.gg/m3rc",
+    "name": "South|Sur América| -R- [Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -1011,7 +1005,7 @@
     "port": 9620
   },
   {
-    "name": "[Merc]iless EU #2 Discord.gg/m3rc",
+    "name": "[Merc]iless EU #3 Discord.gg/m3rc",
     "addr": "193.160.22.138",
     "port": 7777
   },
@@ -1033,7 +1027,8 @@
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "193.192.58.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725732426
   },
   {
     "name": "✪ OG's Battleground Newbies Welcome ✪",
@@ -1348,7 +1343,8 @@
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
     "addr": "203.10.98.6",
-    "port": 8888
+    "port": 8888,
+    "removed": 1725732426
   },
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
@@ -1605,7 +1601,7 @@
     "port": 7777
   },
   {
-    "name": "TT1",
+    "name": "[TMD] United Front ★ New Player Friendy",
     "addr": "208.115.248.109",
     "port": 7777
   },
@@ -1738,7 +1734,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2151,8 +2147,7 @@
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
-    "port": 28200,
-    "removed": 1725670328
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
