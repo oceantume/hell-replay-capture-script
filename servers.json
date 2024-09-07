@@ -35,7 +35,7 @@
     "port": 8938
   },
   {
-    "name": "<CN>#3 [微信公众号：TT天堂]中文社区hellletloose.cn",
+    "name": "<CN>#3[微信公众号：TT天堂]关进群1分购永久VIP",
     "addr": "103.62.49.42",
     "port": 8948
   },
@@ -760,8 +760,7 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807,
-    "removed": 1725692706
+    "port": 7807
   },
   {
     "name": "HLL Server",
@@ -1128,6 +1127,11 @@
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "194.140.199.73",
     "port": 30000
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | LOW PING |QS|OINK",
+    "addr": "195.181.175.172",
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1655,7 +1659,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1725710943
   },
   {
     "name": "FR La Tempête d'Acier \\latempetedacier.com/Francophone/15 Mini",
@@ -1801,8 +1806,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1725692706
+    "port": 9075
   },
   {
     "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
