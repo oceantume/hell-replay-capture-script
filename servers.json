@@ -774,20 +774,17 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777,
-    "removed": 1725797359
+    "port": 7777
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "178.249.213.79",
-    "port": 7797,
-    "removed": 1725797359
+    "port": 7797
   },
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "178.249.213.95",
-    "port": 7787,
-    "removed": 1725797359
+    "port": 7787
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -1669,7 +1666,7 @@
     "port": 28200
   },
   {
-    "name": "Greyhound Public Server",
+    "name": "Greyhound Event #2",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1817,7 +1814,8 @@
   {
     "name": "Blood, Sweat & Beers | #2 | No Mic = Kick | Level 50+",
     "addr": "54.36.60.213",
-    "port": 8530
+    "port": 8530,
+    "removed": 1725798326
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
