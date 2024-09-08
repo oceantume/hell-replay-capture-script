@@ -753,13 +753,13 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807,
-    "removed": 1725779052
+    "port": 7807
   },
   {
     "name": "HLL Server",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1725797359
   },
   {
     "name": "HLL Latinoamérica #2 | https://hll.la/ | HAGAMOS GARRIS",
@@ -774,17 +774,20 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725797359
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
     "addr": "178.249.213.79",
-    "port": 7797
+    "port": 7797,
+    "removed": 1725797359
   },
   {
     "name": "American Premier League :: TOKYO :: Powered by Qonzer.com",
     "addr": "178.249.213.95",
-    "port": 7787
+    "port": 7787,
+    "removed": 1725797359
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -976,8 +979,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1725779052
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1795,8 +1797,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1725779052
+    "port": 9075
   },
   {
     "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
