@@ -314,6 +314,11 @@
     "port": 28100
   },
   {
+    "name": "Hell Let Loose - Germany ( No Rules! )",
+    "addr": "176.57.140.16",
+    "port": 28200
+  },
+  {
     "name": "=V= Invictus EU/UK | VIP for seeding | Discord.gg/InvictusHLL  ",
     "addr": "176.57.140.181",
     "port": 29700
@@ -362,7 +367,8 @@
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB| #",
     "addr": "176.57.153.114",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725818831
   },
   {
     "name": "LwJg46 Bierstube",
@@ -536,12 +542,6 @@
     "port": 28100
   },
   {
-    "name": "[PL/ENG] NEW PLAYERS WELCOME | LOW PING | ",
-    "addr": "176.57.169.115",
-    "port": 28200,
-    "removed": 1725214021
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28100,
@@ -634,7 +634,7 @@
     "port": 28000
   },
   {
-    "name": "[PL/ENG] Cossack's & WaTaHa Polish Clans Server",
+    "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
     "port": 28100
   },
@@ -722,12 +722,6 @@
     "name": "SLB #2",
     "addr": "176.57.181.144",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.181.144",
-    "port": 28200,
-    "removed": 1725214021
   },
   {
     "name": "HLL Official - Europe #02",
@@ -999,7 +993,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Xtreme Dinosaurs | Havald is a cuck!",
     "addr": "193.160.22.139",
     "port": 7777
   },
@@ -1095,8 +1089,7 @@
   {
     "name": "[LCM] LCM Spanish Clan Server ",
     "addr": "193.70.122.179",
-    "port": 9075,
-    "removed": 1725800983
+    "port": 9075
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - FR ONLY - discord.gg/teamlvl",
@@ -1309,12 +1302,6 @@
     "port": 8908
   },
   {
-    "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
-    "addr": "203.10.98.41",
-    "port": 8918,
-    "removed": 1725214021
-  },
-  {
     "name": "[CZS] Fast Loadout & Levels | XP  only|Node JP",
     "addr": "203.10.98.41",
     "port": 8928
@@ -1472,12 +1459,6 @@
     "port": 7777
   },
   {
-    "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
-    "addr": "208.115.206.75",
-    "port": 7777,
-    "removed": 1725214021
-  },
-  {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
     "addr": "208.115.206.76",
     "port": 7777,
@@ -1492,12 +1473,6 @@
     "name": "[82AD] Band of Brothers | #3 | Discord: 82nd.gg",
     "addr": "208.115.206.82",
     "port": 7777
-  },
-  {
-    "name": "[82AD] Band of Brothers | Training & Events #2 | Discord: 82nd.",
-    "addr": "208.115.206.83",
-    "port": 7777,
-    "removed": 1725214021
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
@@ -1723,7 +1698,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2132,6 +2107,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.51",
     "port": 28000
+  },
+  {
+    "name": "Bro-Nation/Bros Let Loose/US Central/Active Admin/discord.gg/br",
+    "addr": "83.223.204.11",
+    "port": 28200
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
