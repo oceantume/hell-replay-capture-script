@@ -72,8 +72,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1725886930
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -211,8 +210,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620,
-    "removed": 1725886930
+    "port": 9620
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -1682,7 +1680,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1744,8 +1742,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1725886930
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -2058,7 +2055,7 @@
     "port": 28100
   },
   {
-    "name": "{serverName}",
+    "name": "BM testing",
     "addr": "83.223.203.130",
     "port": 28200
   },
@@ -2115,7 +2112,8 @@
   {
     "name": "HLL Official - US East - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1725905278
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
