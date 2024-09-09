@@ -240,7 +240,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1725841757
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -540,12 +541,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.169.115",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.140",
-    "port": 28100,
-    "removed": 1725236903
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -1117,6 +1112,11 @@
     "port": 7777
   },
   {
+    "name": "per aspera ad astra",
+    "addr": "195.181.175.179",
+    "port": 7777
+  },
+  {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
     "port": 7777
@@ -1662,7 +1662,7 @@
     "port": 9075
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1695,11 +1695,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725822149
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
