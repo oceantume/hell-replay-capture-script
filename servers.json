@@ -271,8 +271,7 @@
   {
     "name": "HLL Official - Europe - QA Testing #01",
     "addr": "176.57.134.56",
-    "port": 28100,
-    "removed": 1725931901
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -982,7 +981,7 @@
     "port": 9620
   },
   {
-    "name": "[Merc]iless EU #3 Discord.gg/m3rc",
+    "name": "[Merc] EU #3 Discord.gg/m3rc",
     "addr": "193.160.22.138",
     "port": 7777
   },
@@ -1132,7 +1131,8 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "195.201.169.249",
-    "port": 8530
+    "port": 8530,
+    "removed": 1725948524
   },
   {
     "name": "HLL_Nitratest",
@@ -1746,6 +1746,11 @@
     "port": 9075
   },
   {
+    "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
+    "addr": "51.89.42.34",
+    "port": 8530
+  },
+  {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
     "port": 9075
@@ -1865,7 +1870,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc]#2 Miami discord.gg/m3rc",
+    "name": "[Merc]US East#2|New Players Welcomed|discord.gg/m3rc",
     "addr": "64.31.40.205",
     "port": 7777
   },
