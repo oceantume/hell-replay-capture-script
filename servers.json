@@ -305,6 +305,11 @@
     "port": 28000
   },
   {
+    "name": "winny's private - testing server",
+    "addr": "176.57.140.146",
+    "port": 28200
+  },
+  {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
@@ -747,8 +752,7 @@
   {
     "name": "HLL Server",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1725797359
+    "port": 7827
   },
   {
     "name": "HLL Latinoamérica #2 | https://hll.la/ | HAGAMOS GARRIS",
@@ -1549,7 +1553,8 @@
   {
     "name": "[TMD] United Front ★ New Player Friendy",
     "addr": "208.115.248.109",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725928075
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1677,11 +1682,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1725908764
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1952,8 +1956,7 @@
   {
     "name": "RESPAWN HUB | DISCORD.GG/RESPAWNHUB | NEW PLAYERS WELCOME!",
     "addr": "74.63.231.4",
-    "port": 7777,
-    "removed": 1725800983
+    "port": 7777
   },
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
@@ -2206,12 +2209,6 @@
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
-  },
-  {
-    "name": "Stuart Mafia Stable Map Rotation Foy & Offensive Focus",
-    "addr": "92.118.18.78",
-    "port": 7777,
-    "removed": 1725323222
   },
   {
     "name": "General Pattons D-Day 24/7",
