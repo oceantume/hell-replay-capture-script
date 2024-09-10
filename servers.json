@@ -276,8 +276,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1725646085
+    "port": 28200
   },
   {
     "name": "Internal_Team17",
@@ -585,7 +584,8 @@
   {
     "name": "this time is for real",
     "addr": "176.57.171.176",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725970299
   },
   {
     "name": "1. Fallschirmjäger-Division Server 1",
@@ -1182,12 +1182,24 @@
   {
     "name": "[CN](纯冲突)革命军87师萌新欢乐服 Q群:807630815",
     "addr": "202.165.70.15",
-    "port": 8888
+    "port": 8888,
+    "removed": 1725970299
+  },
+  {
+    "name": "CN.IR战队长期招新带新，进群了解980240242",
+    "addr": "202.165.70.15",
+    "port": 8898
   },
   {
     "name": "[CN](纯攻防)革命军87师萌新欢乐服 Q群:807630815",
     "addr": "202.165.70.15",
-    "port": 8908
+    "port": 8908,
+    "removed": 1725970299
+  },
+  {
+    "name": "CN<JWH >九尾狐&雾队纯冲突｜Q682534524",
+    "addr": "202.165.70.15",
+    "port": 8918
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1270,9 +1282,15 @@
     "port": 8888
   },
   {
+    "name": "US『CZS』 Special training clothing",
+    "addr": "203.10.96.196",
+    "port": 8898
+  },
+  {
     "name": "HLL Server",
     "addr": "203.10.96.196",
-    "port": 8908
+    "port": 8908,
+    "removed": 1725970299
   },
   {
     "name": "CN-[FJ]战队服/JP/QQ群716701264",
@@ -1285,7 +1303,7 @@
     "port": 8888
   },
   {
-    "name": "『CZS』U K & S U chart Special training clothing",
+    "name": "CN.Alpha战队社区服务器Q群：921224745",
     "addr": "203.10.98.41",
     "port": 8898
   },
@@ -1295,14 +1313,25 @@
     "port": 8908
   },
   {
+    "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
+    "addr": "203.10.98.41",
+    "port": 8918
+  },
+  {
     "name": "[CZS] Fast Loadout & Levels | XP  only|Node JP",
     "addr": "203.10.98.41",
-    "port": 8928
+    "port": 8928,
+    "removed": 1725970299
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.5",
     "port": 8898
+  },
+  {
+    "name": "JP∞CZS∞ training clothes ",
+    "addr": "203.10.98.5",
+    "port": 8908
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
@@ -1852,7 +1881,8 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725970299
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-E | .gg/hostile",
@@ -1932,7 +1962,8 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-W | .gg/hostile",
     "addr": "69.162.102.50",
-    "port": 7807
+    "port": 7807,
+    "removed": 1725970299
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
@@ -2122,8 +2153,7 @@
   {
     "name": "HLL Official - US East - QA Testing #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1725905278
+    "port": 28100
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
