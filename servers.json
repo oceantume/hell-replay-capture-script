@@ -1044,7 +1044,8 @@
   {
     "name": "HLL Official - US West - QA Testing #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1725951383
   },
   {
     "name": "(IC) New Players Welcome | US West | Carentan Loop",
@@ -2229,7 +2230,8 @@
   {
     "name": "ThePromisedLAN",
     "addr": "92.118.18.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1725951383
   },
   {
     "name": "End of Existence | VoidExistence.com",
