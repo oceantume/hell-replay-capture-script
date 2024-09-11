@@ -114,8 +114,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1726059705
+    "port": 9224
   },
   {
     "name": "Infiltration Event DE",
@@ -130,8 +129,7 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1726059705
+    "port": 8530
   },
   {
     "name": "DKB EVENT SERVER",
@@ -139,7 +137,7 @@
     "port": 9075
   },
   {
-    "name": "GER - |HTD| HaiiTeD Hardcore Server",
+    "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
     "port": 9620
   },
@@ -197,6 +195,11 @@
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "145.239.5.101",
     "port": 9620
+  },
+  {
+    "name": "bandofbrothers.gg <> Milsim Community | All Welcomes",
+    "addr": "146.19.48.156",
+    "port": 7787
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
@@ -262,10 +265,11 @@
   {
     "name": "[ЯF™] REFUZE - MATCH SERVER ",
     "addr": "176.31.232.159",
-    "port": 9075
+    "port": 9075,
+    "removed": 1726078085
   },
   {
-    "name": "HLL Official - Europe - QA Testing #01",
+    "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
     "port": 28100
   },
@@ -275,7 +279,7 @@
     "port": 28200
   },
   {
-    "name": "Internal_Team17",
+    "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
     "port": 28300
   },
@@ -317,7 +321,8 @@
   {
     "name": "Hell Let Loose - Germany ( No Rules! )",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726078085
   },
   {
     "name": "=V= Invictus EU/UK | VIP for seeding | Discord.gg/InvictusHLL  ",
@@ -396,7 +401,7 @@
     "port": 28000
   },
   {
-    "name": " HLL Official - Europe - QA Testing #03 ",
+    "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
     "port": 28200
   },
@@ -408,8 +413,7 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100,
-    "removed": 1726059705
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -432,12 +436,12 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe - QA Testing #04",
+    "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
     "port": 28100
   },
   {
-    "name": "Internal FCTOOE.99",
+    "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
     "port": 28300
   },
@@ -447,7 +451,7 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe - QA Testing #02",
+    "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
     "port": 28200
   },
@@ -671,7 +675,7 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe - QA Testing #05 ",
+    "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
     "port": 28200
   },
@@ -684,12 +688,6 @@
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose Official Server by g-portal.com",
-    "addr": "176.57.181.11",
-    "port": 28100,
-    "removed": 1725454923
   },
   {
     "name": "SLB #2",
@@ -707,7 +705,7 @@
     "port": 28200
   },
   {
-    "name": "Internal Test WinStore Only",
+    "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
     "port": 28300
   },
@@ -723,7 +721,7 @@
     "port": 7807
   },
   {
-    "name": "MIB - Made In Brasil",
+    "name": "MIB - Made In Brasil - Junte-se à Insanidade",
     "addr": "177.54.147.141",
     "port": 7827
   },
@@ -740,8 +738,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777,
-    "removed": 1726059705
+    "port": 7777
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
@@ -907,8 +904,7 @@
   {
     "name": "Three Rung Circusn't [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620,
-    "removed": 1726059705
+    "port": 9620
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
@@ -1014,11 +1010,10 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1726059705
+    "port": 28100
   },
   {
-    "name": "HLL Official - US West - QA Testing #06",
+    "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
     "port": 28200
   },
@@ -1047,8 +1042,7 @@
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1726059705
+    "port": 8530
   },
   {
     "name": "[LCM] LCM Spanish Clan Server ",
@@ -1316,7 +1310,7 @@
     "port": 8898
   },
   {
-    "name": "CN.Alpha战队社区低延迟日服服务器（我去玩赞助�",
+    "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
     "port": 8908
   },
@@ -1453,8 +1447,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1726059705
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -1465,11 +1458,10 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
-    "port": 7777,
-    "removed": 1726059705
+    "port": 7777
   },
   {
-    "name": "[82AD] Band of Brothers | #3 | Discord: 82nd.gg",
+    "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
     "addr": "208.115.206.82",
     "port": 7777
   },
@@ -1691,7 +1683,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1753,8 +1745,7 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530,
-    "removed": 1726059705
+    "port": 8530
   },
   {
     "name": "team.phoenix | Training | phx",
@@ -2027,6 +2018,11 @@
     "port": 28200
   },
   {
+    "name": "<CN>  萌新的快乐小屋",
+    "addr": "83.223.197.89",
+    "port": 28000
+  },
+  {
     "name": "EASY Company | Server #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.121",
     "port": 28200
@@ -2067,7 +2063,7 @@
     "port": 28100
   },
   {
-    "name": "BM testing",
+    "name": "DevQA Testing - US #03",
     "addr": "83.223.203.130",
     "port": 28200
   },
@@ -2225,8 +2221,7 @@
   {
     "name": "ThePromisedLAN",
     "addr": "92.118.18.86",
-    "port": 7777,
-    "removed": 1726034935
+    "port": 7777
   },
   {
     "name": "End of Existence | VoidExistence.com",
