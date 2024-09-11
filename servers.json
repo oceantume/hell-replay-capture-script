@@ -263,10 +263,9 @@
     "port": 8530
   },
   {
-    "name": "[ЯF™] REFUZE - MATCH SERVER ",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "176.31.232.159",
-    "port": 9075,
-    "removed": 1726078085
+    "port": 9075
   },
   {
     "name": "QA Testing - EU #01",
@@ -688,6 +687,11 @@
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.181.105",
     "port": 28100
+  },
+  {
+    "name": "GER-Deutscher-Schlachthof-107-Panzerbrigade",
+    "addr": "176.57.181.144",
+    "port": 28000
   },
   {
     "name": "SLB #2",
