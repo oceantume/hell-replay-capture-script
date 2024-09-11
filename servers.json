@@ -664,12 +664,6 @@
     "port": 28300
   },
   {
-    "name": "TD | Tank Destroyers [EU/ENG]",
-    "addr": "176.57.178.127",
-    "port": 28200,
-    "removed": 1725409640
-  },
-  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -2228,8 +2222,7 @@
   {
     "name": "ThePromisedLAN",
     "addr": "92.118.18.86",
-    "port": 7777,
-    "removed": 1725951383
+    "port": 7777
   },
   {
     "name": "End of Existence | VoidExistence.com",
