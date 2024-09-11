@@ -85,10 +85,9 @@
     "port": 9075
   },
   {
-    "name": "[82AD] Band of Brothers | Training & Events | Discord: 82nd.gg",
+    "name": "[82AD] Band of Brothers | Training & Events 2 | Discord: 82nd.g",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1725538234
+    "port": 8530
   },
   {
     "name": "Noname",
@@ -184,7 +183,8 @@
   {
     "name": "Desert Ratz Match Server",
     "addr": "145.239.5.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726080888
   },
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
@@ -691,8 +691,7 @@
   {
     "name": "GER-Deutscher-Schlachthof-107-Panzerbrigade",
     "addr": "176.57.181.144",
-    "port": 28000,
-    "removed": 1726080352
+    "port": 28000
   },
   {
     "name": "SLB #2",
