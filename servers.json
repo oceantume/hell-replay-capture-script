@@ -114,7 +114,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1726059705
   },
   {
     "name": "Infiltration Event DE",
@@ -129,7 +130,8 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726059705
   },
   {
     "name": "DKB EVENT SERVER",
@@ -381,8 +383,7 @@
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
     "addr": "176.57.165.128",
-    "port": 31100,
-    "removed": 1726058849
+    "port": 31100
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -392,8 +393,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": " HLL Official - Europe - QA Testing #03 ",
@@ -408,7 +408,8 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726059705
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -443,8 +444,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe - QA Testing #02",
@@ -499,8 +499,7 @@
   {
     "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -669,8 +668,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe - QA Testing #05 ",
@@ -706,8 +704,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "Internal Test WinStore Only",
@@ -743,7 +740,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726059705
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
@@ -909,7 +907,8 @@
   {
     "name": "Three Rung Circusn't [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620
+    "port": 9620,
+    "removed": 1726059705
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
@@ -1015,7 +1014,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726059705
   },
   {
     "name": "HLL Official - US West - QA Testing #06",
@@ -1047,7 +1047,8 @@
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726059705
   },
   {
     "name": "[LCM] LCM Spanish Clan Server ",
@@ -1062,8 +1063,7 @@
   {
     "name": "Ivy Division | Event Server | ",
     "addr": "194.140.197.66",
-    "port": 32000,
-    "removed": 1726058849
+    "port": 32000
   },
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
@@ -1453,7 +1453,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726059705
   },
   {
     "name": "[82AD] Band of Brothers | #2 | Discord: 82nd.gg",
@@ -1464,7 +1465,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726059705
   },
   {
     "name": "[82AD] Band of Brothers | #3 | Discord: 82nd.gg",
@@ -1590,8 +1592,7 @@
   {
     "name": "The Draft [HAUS] 2 |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7777,
-    "removed": 1726058849
+    "port": 7777
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1631,8 +1632,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "Greyhound Event #2",
@@ -1753,7 +1753,8 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726059705
   },
   {
     "name": "team.phoenix | Training | phx",
@@ -1993,8 +1994,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2004,26 +2004,22 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1726058849
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1726058849
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2053,8 +2049,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -2079,8 +2074,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "EASY Company | Offensive Only |GPORTAL| DISCORD.GG/EASYCOMPANY",
@@ -2110,8 +2104,7 @@
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -2187,14 +2180,12 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1726058849
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200,
-    "removed": 1726058849
+    "port": 28200
   },
   {
     "name": "Team17",
@@ -2271,7 +2262,6 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900,
-    "removed": 1726058849
+    "port": 28900
   }
 ]
