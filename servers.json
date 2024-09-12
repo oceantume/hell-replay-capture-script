@@ -1608,10 +1608,9 @@
     "port": 28200
   },
   {
-    "name": "Greyhound Event #2",
+    "name": "Greyhound Night - Blue ",
     "addr": "46.105.223.204",
-    "port": 7777,
-    "removed": 1726164504
+    "port": 7777
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -2066,6 +2065,11 @@
     "port": 28000
   },
   {
+    "name": "Servidor de eventos Ronin",
+    "addr": "83.223.203.182",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.201",
     "port": 28000
@@ -2223,8 +2227,7 @@
   {
     "name": "PC Gamers - Español/English (DALLAS)",
     "addr": "92.118.19.142",
-    "port": 7777,
-    "removed": 1726164504
+    "port": 7777
   },
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
