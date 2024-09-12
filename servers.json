@@ -138,7 +138,8 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1726121332
   },
   {
     "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
@@ -1012,8 +1013,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1726104669
+    "port": 28200
   },
   {
     "name": "(IC) New Players Welcome | US West | Carentan Loop",
@@ -1708,14 +1708,15 @@
     "port": 9075
   },
   {
-    "name": "QC Nation ~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
+    "name": "~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
     "addr": "51.79.98.216",
     "port": 9620
   },
   {
     "name": "*{WeB}*Wolf Lair | ENG/UK | Recruiting*",
     "addr": "51.89.192.209",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726121332
   },
   {
     "name": "[250H] Hell Let Loose",
