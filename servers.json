@@ -299,7 +299,8 @@
   {
     "name": "winny's private - testing server",
     "addr": "176.57.140.146",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726187246
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -807,7 +808,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.154.213.42",
-    "port": 9620
+    "port": 9620,
+    "removed": 1726187246
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -1316,8 +1318,7 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908,
-    "removed": 1726164504
+    "port": 8908
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
@@ -1420,18 +1421,6 @@
     "port": 7777
   },
   {
-    "name": "Omen Event Server Ʊ",
-    "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1725582435
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
-    "addr": "208.115.206.51",
-    "port": 7777,
-    "removed": 1725582435
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
     "port": 7777
@@ -1445,18 +1434,6 @@
     "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
     "addr": "208.115.206.82",
     "port": 7777
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
-    "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1725582435
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
-    "addr": "208.115.206.85",
-    "port": 7777,
-    "removed": 1725582435
   },
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
@@ -1649,12 +1626,6 @@
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
-    "addr": "51.161.196.191",
-    "port": 8740,
-    "removed": 1725582435
-  },
-  {
-    "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
     "port": 8530
   },
@@ -1664,7 +1635,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2167,7 +2138,8 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726187246
   },
   {
     "name": "Team17",
