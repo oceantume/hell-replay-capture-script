@@ -533,12 +533,6 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.169.115",
-    "port": 28000,
-    "removed": 1725624607
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.169.115",
     "port": 28100
   },
   {
@@ -601,12 +595,6 @@
     "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server ",
     "addr": "176.57.171.44",
     "port": 28000
-  },
-  {
-    "name": "[Merc] #3 EU Discord.gg/m3rc ",
-    "addr": "176.57.171.44",
-    "port": 28300,
-    "removed": 1725624607
   },
   {
     "name": "PV",
@@ -2155,7 +2143,8 @@
   {
     "name": "PC Gamers - Español/English (DALLAS)",
     "addr": "92.118.19.142",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726229419
   },
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
