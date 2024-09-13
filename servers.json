@@ -808,7 +808,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.154.213.42",
-    "port": 9620
+    "port": 9620,
+    "removed": 1726207754
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -1021,12 +1022,6 @@
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
     "port": 28200
-  },
-  {
-    "name": "(IC) New Players Welcome | US West | Carentan Loop",
-    "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1725602920
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1480,18 +1475,6 @@
     "port": 7777
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
-    "addr": "208.115.226.91",
-    "port": 7777,
-    "removed": 1725602920
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
-    "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1725602920
-  },
-  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1500,12 +1483,6 @@
     "name": "SLB #1",
     "addr": "208.115.248.106",
     "port": 7787
-  },
-  {
-    "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
-    "addr": "208.115.248.106",
-    "port": 7797,
-    "removed": 1725602920
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1526,12 +1503,6 @@
     "name": "Omen Event Server Ʊ",
     "addr": "208.115.248.110",
     "port": 7877
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
-    "addr": "208.115.248.90",
-    "port": 7777,
-    "removed": 1725602920
   },
   {
     "name": "SLK - US West",
@@ -1754,18 +1725,6 @@
     "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
     "addr": "63.143.62.90",
     "port": 7777
-  },
-  {
-    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
-    "addr": "63.143.62.90",
-    "port": 7787,
-    "removed": 1725602920
-  },
-  {
-    "name": "[Merc]iless Event Server",
-    "addr": "63.143.62.90",
-    "port": 7797,
-    "removed": 1725602920
   },
   {
     "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
