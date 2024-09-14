@@ -265,7 +265,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726275177
   },
   {
     "name": "HLL Dev Team",
@@ -357,7 +358,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726275177
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -403,7 +405,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726275177
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -438,7 +441,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726275177
   },
   {
     "name": "DevQA Testing - EU #02",
@@ -453,7 +457,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726275177
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -656,7 +661,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726275177
   },
   {
     "name": "HLL Official - UK #02",
@@ -666,7 +672,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726275177
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -701,7 +708,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1726275177
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
@@ -848,8 +856,7 @@
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1726273627
+    "port": 8530
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -920,6 +927,11 @@
     "name": "[IG] Ironclad Guardians | New Player Friendly | discord.gg/2wnr",
     "addr": "192.169.95.2",
     "port": 9075
+  },
+  {
+    "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
+    "addr": "192.169.95.2",
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1741,7 +1753,7 @@
     "removed": 1725970299
   },
   {
-    "name": "〘ᚖ〙| Hostile Unknown | US-E | .gg/hostile",
+    "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
   },
