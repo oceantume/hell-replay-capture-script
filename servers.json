@@ -265,8 +265,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100,
-    "removed": 1726275177
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -358,8 +357,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1726275177
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -405,8 +403,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1726275177
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -441,8 +438,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1726275177
+    "port": 28100
   },
   {
     "name": "DevQA Testing - EU #02",
@@ -457,8 +453,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1726275177
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -661,8 +656,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1726275177
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -672,8 +666,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1726275177
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -708,8 +701,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1726275177
+    "port": 28300
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
@@ -826,12 +818,6 @@
     "name": "nMo | East | New Players Welcome | discord.gg/teamNMO",
     "addr": "192.169.86.107",
     "port": 7787
-  },
-  {
-    "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com",
-    "addr": "192.169.86.108",
-    "port": 7787,
-    "removed": 1725672499
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -1709,12 +1695,6 @@
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
     "port": 7777
-  },
-  {
-    "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
-    "addr": "63.143.62.102",
-    "port": 7777,
-    "removed": 1725672499
   },
   {
     "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
