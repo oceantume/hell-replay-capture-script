@@ -771,7 +771,8 @@
   {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726315757
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -1637,7 +1638,7 @@
     "port": 9075
   },
   {
-    "name": "~xXx~ @ xxx-qc.ca | CAN EAST | EN/FR",
+    "name": "The Ghost Division (By ~xXx~) | Discord: dsc.gg/triplex",
     "addr": "51.79.98.216",
     "port": 9620
   },
@@ -2143,6 +2144,11 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.43",
+    "port": 7777
+  },
+  {
+    "name": "U Test Server",
+    "addr": "92.118.19.67",
     "port": 7777
   },
   {
