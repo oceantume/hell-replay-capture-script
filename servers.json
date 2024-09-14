@@ -848,7 +848,8 @@
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1726273627
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -1584,11 +1585,10 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1726254368
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
