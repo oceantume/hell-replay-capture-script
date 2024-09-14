@@ -11,7 +11,7 @@
     "removed": 1726231578
   },
   {
-    "name": "cn2安河桥北的高强度苏美德地图服Q群341807965 ",
+    "name": "cn2忆江南的高强度苏美德地图服Q群113588972",
     "addr": "103.62.49.42",
     "port": 8898
   },
@@ -49,6 +49,11 @@
     "name": "cn.jp 忆江南【PUMA】夜晚激战冲突服q746699634",
     "addr": "103.62.49.42",
     "port": 8968
+  },
+  {
+    "name": "HLL Server",
+    "addr": "103.62.49.42",
+    "port": 8978
   },
   {
     "name": "PUMA Kombinierte Kampfgruppe ",
@@ -897,7 +902,8 @@
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577
+    "port": 7577,
+    "removed": 1726294061
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
@@ -1036,7 +1042,7 @@
     "port": 9620
   },
   {
-    "name": "Ivy Division | Event Server | ",
+    "name": "Ivy Division | Sandbox Server | Come Test Stuff  ",
     "addr": "194.140.197.66",
     "port": 32000
   },
