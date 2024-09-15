@@ -207,6 +207,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
+    "addr": "148.251.54.154",
+    "port": 8530
+  },
+  {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
     "port": 9620
@@ -448,8 +453,7 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1726361958
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -641,8 +645,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.174.129",
-    "port": 28100,
-    "removed": 1726361958
+    "port": 28100
   },
   {
     "name": "HLL Dev Team 2",
