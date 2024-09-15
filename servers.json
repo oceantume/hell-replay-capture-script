@@ -38,8 +38,7 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分购永久VIP",
     "addr": "103.62.49.42",
-    "port": 8948,
-    "removed": 1726360293
+    "port": 8948
   },
   {
     "name": "CN#JP 金色切尔西抽象萌新基地+Q群425375843",
@@ -449,7 +448,8 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1726361958
   },
   {
     "name": "HLL Official - Europe #08",
@@ -641,7 +641,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.174.129",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726361958
   },
   {
     "name": "HLL Dev Team 2",
