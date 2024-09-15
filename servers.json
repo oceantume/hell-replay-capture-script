@@ -38,7 +38,8 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分购永久VIP",
     "addr": "103.62.49.42",
-    "port": 8948
+    "port": 8948,
+    "removed": 1726360293
   },
   {
     "name": "CN#JP 金色切尔西抽象萌新基地+Q群425375843",
@@ -1021,7 +1022,7 @@
     "port": 28100
   },
   {
-    "name": "Merciless event server",
+    "name": "Merciless event server - GPortal",
     "addr": "193.192.59.99",
     "port": 28000
   },
@@ -1161,8 +1162,7 @@
   {
     "name": "CN2.IR战队长期招新带新，进群了解980240242",
     "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1726340568
+    "port": 8908
   },
   {
     "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
@@ -1592,7 +1592,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
