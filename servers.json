@@ -73,7 +73,8 @@
   {
     "name": "AA US West Noobie Battleground",
     "addr": "104.238.222.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726402175
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -781,7 +782,8 @@
   {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726402175
   },
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
@@ -918,8 +920,7 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1726383989
+    "port": 7877
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1394,6 +1395,11 @@
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com",
     "addr": "208.115.196.18",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
+    "addr": "208.115.196.19",
     "port": 7777
   },
   {
