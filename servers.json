@@ -276,7 +276,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726599986
   },
   {
     "name": "HLL Dev Team",
@@ -444,7 +445,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726599986
   },
   {
     "name": "DevQA Testing - EU #02",
@@ -459,7 +461,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726599986
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -662,7 +665,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726599986
   },
   {
     "name": "HLL Official - UK #02",
@@ -672,7 +676,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1726599986
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -707,7 +712,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1726599986
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
@@ -1536,7 +1542,7 @@
     "port": 8530
   },
   {
-    "name": "[FR |***] La Tempête d'Acier \\latempetedacier.fr/French Only",
+    "name": "[FR |TdA] La Tempête d'Acier \\latempetedacier.fr/French Only",
     "addr": "37.187.25.13",
     "port": 8530
   },
