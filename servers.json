@@ -367,7 +367,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726553345
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -402,7 +403,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1726553345
   },
   {
     "name": "QA Testing - EU #03",
@@ -427,7 +429,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1726553345
   },
   {
     "name": "HLL Official - Europe #07",
@@ -670,7 +673,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1726553345
   },
   {
     "name": "QA Testing - EU #05",
@@ -1092,12 +1096,6 @@
     "port": 7777
   },
   {
-    "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
-    "addr": "195.201.169.249",
-    "port": 8530,
-    "removed": 1725948524
-  },
-  {
     "name": "HLL_Nitratest",
     "addr": "195.82.158.186",
     "port": 20500
@@ -1304,8 +1302,7 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908,
-    "removed": 1726510090
+    "port": 8908
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
