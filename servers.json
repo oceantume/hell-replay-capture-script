@@ -78,8 +78,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1726578138
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
@@ -369,8 +368,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1726553345
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -405,14 +403,12 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1726553345
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1726575030
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -453,8 +449,7 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1726578138
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -475,7 +470,8 @@
   {
     "name": "Cluck's Server",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1726596491
   },
   {
     "name": "PARABELLUM HUNGARY | HUN/ENG",
@@ -605,7 +601,8 @@
   {
     "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server ",
     "addr": "176.57.171.44",
-    "port": 28000
+    "port": 28000,
+    "removed": 1726596491
   },
   {
     "name": "PV",
@@ -660,26 +657,22 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1726145219
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1726575030
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1726553345
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1726575030
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -777,6 +770,11 @@
     "port": 7807
   },
   {
+    "name": "#5 EXD.gg » Keep Calm and Carry On | Discord.exd.gg",
+    "addr": "188.165.39.157",
+    "port": 7777
+  },
+  {
     "name": "HLL Latinoamérica #1 | https://hll.la/ | HAGAMOS GARRIS",
     "addr": "189.1.170.137",
     "port": 7777,
@@ -791,7 +789,8 @@
   {
     "name": "[LATAM] >En Mantenimiento< || Discord: n9.cl/CLATAM || Lvl 10+ ",
     "addr": "189.1.173.122",
-    "port": 8918
+    "port": 8918,
+    "removed": 1726596491
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -1123,6 +1122,11 @@
     "port": 9075
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "198.244.177.91",
+    "port": 8530
+  },
+  {
     "name": "[BR1] EVENT SERVER - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
@@ -1296,12 +1300,14 @@
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.98.7",
-    "port": 8888
+    "port": 8888,
+    "removed": 1726596491
   },
   {
     "name": "CN1#JP 初秋来一杯温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.98.7",
-    "port": 8898
+    "port": 8898,
+    "removed": 1726596491
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1469,7 +1475,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - BSC vs MAG",
+    "name": "SLB #1",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1481,7 +1487,8 @@
   {
     "name": "[TMD] United Front ★ New Player Friendy | discord.gg/13th",
     "addr": "208.115.248.109",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726596491
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1529,7 +1536,7 @@
     "port": 8530
   },
   {
-    "name": "FR La Tempête d'Acier \\latempetedacier.com/Francophone/15 Mini",
+    "name": "[FR |***] La Tempête d'Acier \\latempetedacier.fr/French Only",
     "addr": "37.187.25.13",
     "port": 8530
   },
@@ -1594,7 +1601,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1662,8 +1669,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1726578138
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -1938,20 +1944,17 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1726575030
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1726575030
+    "port": 28100
   },
   {
     "name": "DevQA Testing - US #03",
     "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1726575030
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -2011,8 +2014,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1726575030
+    "port": 28100
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
@@ -2060,7 +2062,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND Event #1",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
