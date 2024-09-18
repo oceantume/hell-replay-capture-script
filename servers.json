@@ -218,6 +218,11 @@
     "port": 9620
   },
   {
+    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server",
+    "addr": "149.50.108.134",
+    "port": 7777
+  },
+  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -422,8 +427,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1726553345
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1006,14 +1010,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1726578138
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1726578138
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1294,14 +1296,12 @@
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.98.7",
-    "port": 8888,
-    "removed": 1726596491
+    "port": 8888
   },
   {
     "name": "CN1#JP 初秋来一杯温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.98.7",
-    "port": 8898,
-    "removed": 1726596491
+    "port": 8898
   },
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1595,7 +1595,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
