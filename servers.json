@@ -958,7 +958,8 @@
   {
     "name": "[Merc]EU#3 All players Welcomed! Discord.gg/m3rc",
     "addr": "193.160.22.138",
-    "port": 7777
+    "port": 7777,
+    "removed": 1726726151
   },
   {
     "name": "Xtreme Dinosaurs | Havald is a cuck!",
@@ -1273,8 +1274,7 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908,
-    "removed": 1726686390
+    "port": 8908
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
@@ -1633,12 +1633,6 @@
     "port": 9620
   },
   {
-    "name": "*{WeB}*Wolf Lair | ENG/UK | Recruiting*",
-    "addr": "51.89.192.209",
-    "port": 8530,
-    "removed": 1726121332
-  },
-  {
     "name": "[250H] Hell Let Loose",
     "addr": "51.89.192.209",
     "port": 9075
@@ -1812,6 +1806,11 @@
   {
     "name": "Ivy Division Central | New Player Welcome | NA and CAN",
     "addr": "69.162.89.146",
+    "port": 7777
+  },
+  {
+    "name": "[Merc]EU#3 All players Welcomed! Discord.gg/m3rc",
+    "addr": "69.162.89.147",
     "port": 7777
   },
   {
