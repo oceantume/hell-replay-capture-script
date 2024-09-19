@@ -775,7 +775,8 @@
   {
     "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
     "addr": "189.1.170.137",
-    "port": 7782
+    "port": 7782,
+    "removed": 1726747827
   },
   {
     "name": "[LATAM] >En Mantenimiento< || Discord: n9.cl/CLATAM || Lvl 10+ ",
@@ -1252,6 +1253,11 @@
     "port": 8888
   },
   {
+    "name": "CN.「FJ&CZS」纯冲突联合服｜JP｜Q716701264",
+    "addr": "203.10.98.41",
+    "port": 8898
+  },
+  {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
     "port": 8908
@@ -1264,7 +1270,8 @@
   {
     "name": "JP∞CZS∞ training clothes ",
     "addr": "203.10.98.41",
-    "port": 8928
+    "port": 8928,
+    "removed": 1726747827
   },
   {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
@@ -1526,6 +1533,11 @@
     "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
     "addr": "37.187.25.13",
     "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "37.187.25.13",
+    "port": 9620
   },
   {
     "name": "HLL Official - Japan #01",
