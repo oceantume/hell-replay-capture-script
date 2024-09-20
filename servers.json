@@ -1579,7 +1579,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1689,6 +1689,11 @@
     "port": 7777
   },
   {
+    "name": "[Merc]iless Event Server",
+    "addr": "63.143.62.93",
+    "port": 7797
+  },
+  {
     "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
     "addr": "63.143.62.99",
     "port": 7777
@@ -1741,7 +1746,8 @@
   {
     "name": "[Merc]iless Event Server",
     "addr": "64.31.6.90",
-    "port": 7797
+    "port": 7797,
+    "removed": 1726795943
   },
   {
     "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
