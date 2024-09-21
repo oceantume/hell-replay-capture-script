@@ -188,7 +188,8 @@
   {
     "name": "bandofbrothers.gg <> Milsim Community | All Welcome",
     "addr": "146.19.48.156",
-    "port": 7787
+    "port": 7787,
+    "removed": 1726942889
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
@@ -1809,6 +1810,11 @@
   {
     "name": "[Merc] US Central #3 All players welcome! Discord.gg/m3rc",
     "addr": "69.162.89.147",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "69.162.89.148",
     "port": 7777
   },
   {
