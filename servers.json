@@ -1091,6 +1091,11 @@
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
+    "addr": "198.244.177.7",
+    "port": 9620
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "198.244.177.91",
     "port": 8530
   },
@@ -1514,7 +1519,8 @@
   {
     "name": "[UKLL] UK Let Loose | New Players Welcome",
     "addr": "37.187.25.13",
-    "port": 9620
+    "port": 9620,
+    "removed": 1726878447
   },
   {
     "name": "HLL Official - Japan #01",
@@ -1572,7 +1578,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
