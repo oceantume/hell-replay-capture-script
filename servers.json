@@ -615,6 +615,11 @@
     "port": 28200
   },
   {
+    "name": "[ GER ] Testserver 18059",
+    "addr": "176.57.174.145",
+    "port": 28000
+  },
+  {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
     "addr": "176.57.174.145",
     "port": 28100
@@ -1646,7 +1651,8 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1727096610
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
