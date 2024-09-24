@@ -243,8 +243,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1727158175
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] 1 |US EAST-FL| discord.gg/drafthaus",
@@ -697,7 +696,8 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1727179829
   },
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
@@ -732,7 +732,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1727179829
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -753,6 +754,11 @@
     "name": "HLL South| Sur América| -R- [Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
+  },
+  {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
   },
   {
     "name": "#5 EXD.gg » Keep Calm and Carry On | Discord.exd.gg",
@@ -1276,7 +1282,8 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908
+    "port": 8908,
+    "removed": 1727179829
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
