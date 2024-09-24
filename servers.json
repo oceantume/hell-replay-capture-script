@@ -432,12 +432,6 @@
     "port": 28200
   },
   {
-    "name": "Cluck's Server",
-    "addr": "176.57.168.252",
-    "port": 28100,
-    "removed": 1726596491
-  },
-  {
     "name": "PARABELLUM HUNGARY | HUN/ENG",
     "addr": "176.57.168.252",
     "port": 28200
@@ -561,12 +555,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.38",
     "port": 28300
-  },
-  {
-    "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server ",
-    "addr": "176.57.171.44",
-    "port": 28000,
-    "removed": 1726596491
   },
   {
     "name": "PV",
@@ -751,7 +739,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727201294
   },
   {
     "name": "#5 EXD.gg » Keep Calm and Carry On | Discord.exd.gg",
@@ -764,12 +753,6 @@
     "addr": "189.1.170.137",
     "port": 7782,
     "removed": 1726920560
-  },
-  {
-    "name": "[LATAM] >En Mantenimiento< || Discord: n9.cl/CLATAM || Lvl 10+ ",
-    "addr": "189.1.173.122",
-    "port": 8918,
-    "removed": 1726596491
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -946,8 +929,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1727183035
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1061,7 +1043,7 @@
     "port": 7877
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | KINGKONG LEBT |QS| OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "195.181.175.180",
     "port": 7977
   },
@@ -1470,12 +1452,6 @@
     "port": 7777
   },
   {
-    "name": "[TMD] United Front ★ New Player Friendy | discord.gg/13th",
-    "addr": "208.115.248.109",
-    "port": 7777,
-    "removed": 1726596491
-  },
-  {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
     "port": 7777
@@ -1592,7 +1568,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1654,8 +1630,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1727183035
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -2068,7 +2043,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
