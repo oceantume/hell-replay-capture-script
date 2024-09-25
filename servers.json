@@ -868,7 +868,8 @@
   {
     "name": "Three Rung Circusn't [NA East] Event Server",
     "addr": "192.169.95.10",
-    "port": 9620
+    "port": 9620,
+    "removed": 1727225760
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
@@ -1667,6 +1668,11 @@
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "54.36.60.213",
     "port": 8772
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "63.143.62.100",
+    "port": 7777
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
