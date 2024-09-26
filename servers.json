@@ -272,7 +272,8 @@
   {
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1727352678
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -718,8 +719,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1727179829
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -879,7 +879,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1727352678
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1247,12 +1248,6 @@
     "port": 8918
   },
   {
-    "name": "JP∞CZS∞ training clothes ",
-    "addr": "203.10.98.41",
-    "port": 8928,
-    "removed": 1726747827
-  },
-  {
     "name": "<CN>佛波勒の老逼登窝/JP/萌新进阶/Q:882377564",
     "addr": "203.10.98.5",
     "port": 8898
@@ -1394,7 +1389,7 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon |New Players Welcome| Discord.gg/darkhorizon",
+    "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/darkhorizon",
     "addr": "208.115.212.74",
     "port": 7777
   },
@@ -1540,7 +1535,7 @@
     "port": 9075
   },
   {
-    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1675,7 +1670,7 @@
     "port": 8772
   },
   {
-    "name": "[OFFICIAL] Bob the Builder | XP Farming | Fast Loadouts | 1M+ X",
+    "name": "[OFFICIAL] Bob the Builder | XP Farm | Fast Loadouts | 1M+ XP",
     "addr": "63.143.62.100",
     "port": 7777
   },
@@ -1766,12 +1761,12 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | US West | discord.gg/icoffensiveheaven",
+    "name": "(IC) Offensive Heaven | US West | discord.gg/icoh",
     "addr": "64.31.61.91",
     "port": 7777
   },
   {
-    "name": "Dark Horizon West |New Players Welcome| Discord.gg/darkhorizon",
+    "name": "Dark Horizon 1 |New Players Welcome| Discord.gg/darkhorizon",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -1802,7 +1797,7 @@
     "port": 7827
   },
   {
-    "name": "Dark Horizon Cent |New Players Welcome| Discord.gg/darkhorizon",
+    "name": "Dark Horizon 2 |New Players Welcome| Discord.gg/darkhorizon",
     "addr": "69.162.89.146",
     "port": 7777
   },
@@ -1814,7 +1809,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central | discord.gg/icoffensiveheav",
     "addr": "69.162.89.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727352678
   },
   {
     "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
