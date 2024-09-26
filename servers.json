@@ -462,7 +462,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -678,12 +678,14 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
     "addr": "177.54.147.141",
-    "port": 7787
+    "port": 7787,
+    "removed": 1727374071
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1727374071
   },
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
@@ -970,8 +972,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1727355881
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1570,7 +1571,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1578,6 +1579,11 @@
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
     "port": 9620
+  },
+  {
+    "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
+    "addr": "51.75.144.129",
+    "port": 8530
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -1632,8 +1638,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1727355881
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -1643,7 +1648,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "54.36.108.21",
-    "port": 9075
+    "port": 9075,
+    "removed": 1727374071
   },
   {
     "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
@@ -2115,17 +2121,20 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
-    "port": 7787
+    "port": 7787,
+    "removed": 1727374071
   },
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.43",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727374071
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727374071
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
