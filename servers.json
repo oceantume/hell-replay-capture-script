@@ -272,8 +272,7 @@
   {
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1727352678
+    "port": 28300
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -971,7 +970,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727355881
   },
   {
     "name": "HLL Official - US West #02",
@@ -1632,7 +1632,8 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1727355881
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
