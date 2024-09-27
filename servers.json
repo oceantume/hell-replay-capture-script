@@ -72,26 +72,22 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1727442210
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
     "addr": "104.255.170.181",
-    "port": 8530,
-    "removed": 1727442210
+    "port": 8530
   },
   {
     "name": "=7Cav= Tactical Realism | US WEST| Discord.gg/7Cav",
     "addr": "104.255.170.181",
-    "port": 9075,
-    "removed": 1727442210
+    "port": 9075
   },
   {
     "name": "Heavy's Hitters",
     "addr": "104.255.170.181",
-    "port": 9620,
-    "removed": 1727442210
+    "port": 9620
   },
   {
     "name": "HLL Official - Russia #01",
@@ -283,7 +279,8 @@
   {
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1727460500
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -423,7 +420,8 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1727460500
   },
   {
     "name": "HLL Official - Europe #08",
@@ -461,7 +459,7 @@
     "port": 28200
   },
   {
-    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
+    "name": "FG » Special » hell-let-loose-deutschland.de",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -622,6 +620,11 @@
     "port": 28000
   },
   {
+    "name": "[ESP] MALDITOS BASTARDOS ",
+    "addr": "176.57.178.15",
+    "port": 28000
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -747,20 +750,17 @@
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
     "addr": "192.169.85.194",
-    "port": 8530,
-    "removed": 1727442210
+    "port": 8530
   },
   {
     "name": "[KOR] TVB 한국 커뮤니티 discord.gg/TVB",
     "addr": "192.169.85.194",
-    "port": 9075,
-    "removed": 1727442210
+    "port": 9075
   },
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.194",
-    "port": 9620,
-    "removed": 1727442210
+    "port": 9620
   },
   {
     "name": "nMo | Events | discord.gg/teamNMO",
@@ -953,8 +953,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1727442210
+    "port": 28100
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -962,7 +961,7 @@
     "port": 28100
   },
   {
-    "name": "Merciless event server - GPortal",
+    "name": "[Merc] SECONDARY event server - GPortal",
     "addr": "193.192.59.99",
     "port": 28000
   },
@@ -1302,7 +1301,18 @@
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
     "addr": "203.10.99.7",
-    "port": 9068
+    "port": 9068,
+    "removed": 1727460500
+  },
+  {
+    "name": "<CN>老逼登窝/JP节点/萌新进阶/Q:882377564",
+    "addr": "203.10.99.7",
+    "port": 9098
+  },
+  {
+    "name": "〈cn1〉音奏的萌新欢乐园/jp节点/Q:335411305",
+    "addr": "203.10.99.7",
+    "port": 9108
   },
   {
     "name": "Streamline HLL Test",
@@ -1355,9 +1365,15 @@
     "port": 7777
   },
   {
+    "name": "[GER] Bestattungsinstitut team.phoenix | phx",
+    "addr": "208.115.206.84",
+    "port": 7777
+  },
+  {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
     "addr": "208.115.206.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727460500
   },
   {
     "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/darkhorizon",
@@ -1547,7 +1563,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1619,8 +1635,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1727442210
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
