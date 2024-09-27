@@ -274,7 +274,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1727439050
   },
   {
     "name": "DevQA Testing - EU #01",
@@ -340,12 +341,6 @@
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
     "port": 28000
-  },
-  {
-    "name": "QA Testing - EU #08",
-    "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1726834244
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -624,21 +619,9 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1726834244
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
-  },
-  {
-    "name": "QA Testing - EU #05",
-    "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1726834244
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -669,12 +652,6 @@
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - EU #10",
-    "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1726834244
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
@@ -973,12 +950,6 @@
     "port": 28100
   },
   {
-    "name": "QA Testing - US West #06",
-    "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1726834244
-  },
-  {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.59.39",
     "port": 28100
@@ -1249,8 +1220,7 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908,
-    "removed": 1727287696
+    "port": 8908
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
@@ -1440,7 +1410,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727439050
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1461,6 +1432,11 @@
     "name": "The Draft [HAUS] 2 |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
     "port": 7777
+  },
+  {
+    "name": "Excel Spreadsheets",
+    "addr": "216.219.93.37",
+    "port": 7827
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
@@ -1614,6 +1590,11 @@
     "port": 9075
   },
   {
+    "name": "[TH] Hell Let Loose Thailand Community",
+    "addr": "51.79.163.108",
+    "port": 8530
+  },
+  {
     "name": "The Ghost Division (By ~xXx~) | Discord: dsc.gg/triplex",
     "addr": "51.79.98.216",
     "port": 9620
@@ -1682,7 +1663,8 @@
   {
     "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
     "addr": "63.143.62.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727439050
   },
   {
     "name": "[Merc]iless Event Server",
@@ -1887,7 +1869,7 @@
     "port": 28000
   },
   {
-    "name": "[CN]前线军事参谋部新训营※测试中※|新服|新手",
+    "name": "<CN>前线军事参谋部|新手轻规Q群151486341",
     "addr": "83.223.197.89",
     "port": 28100
   },
@@ -1991,12 +1973,6 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - US East #09",
-    "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1726834244
   },
   {
     "name": "Know Your Opportunity | Texas 1 | New Players Welcome",
