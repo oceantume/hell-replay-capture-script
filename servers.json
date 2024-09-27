@@ -85,6 +85,11 @@
     "port": 9075
   },
   {
+    "name": "Heavy's Hitters",
+    "addr": "104.255.170.181",
+    "port": 9620
+  },
+  {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
     "port": 28000
@@ -192,12 +197,14 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
     "addr": "148.251.54.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1727396933
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | extreme | phx",
     "addr": "148.251.54.154",
-    "port": 9620
+    "port": 9620,
+    "removed": 1727396933
   },
   {
     "name": "PL/ENG ♦ Polski serwer Klanu PZJR ♦ Event server",
@@ -288,12 +295,6 @@
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
     "port": 28200
-  },
-  {
-    "name": "Bob the Builder (EU) | XP Farming Server",
-    "addr": "176.57.140.146",
-    "port": 28000,
-    "removed": 1726792084
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -684,8 +685,7 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807,
-    "removed": 1727374071
+    "port": 7807
   },
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
@@ -872,10 +872,14 @@
     "removed": 1727225760
   },
   {
-    "name": "(IC) Offensive Heaven | US East | discord.gg/icoffensiveheaven",
+    "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1727352678
+    "port": 7577
+  },
+  {
+    "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
+    "addr": "192.169.95.178",
+    "port": 7877
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1565,7 +1569,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1808,10 +1812,9 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US Central | discord.gg/icoffensiveheav",
+    "name": "(IC) Offensive Heaven | US Central | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777,
-    "removed": 1727352678
+    "port": 7777
   },
   {
     "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
@@ -1967,7 +1970,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.51",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727396933
   },
   {
     "name": "Bro-Nation/Bros Let Loose/US Central/Active Admin/discord.gg/br",
