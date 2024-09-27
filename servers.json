@@ -874,7 +874,8 @@
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577
+    "port": 7577,
+    "removed": 1727417353
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -885,12 +886,6 @@
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
     "port": 8530
-  },
-  {
-    "name": "[IG] Ironclad Guardians | New Player Friendly | discord.gg/2wnr",
-    "addr": "192.169.95.2",
-    "port": 9075,
-    "removed": 1726812536
   },
   {
     "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
@@ -1554,7 +1549,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "ANZAC Legion of the Damned",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1890,6 +1885,11 @@
     "name": "<CN>  萌新的快乐小屋",
     "addr": "83.223.197.89",
     "port": 28000
+  },
+  {
+    "name": "[CN]前线军事参谋部新训营※测试中※|新服|新手",
+    "addr": "83.223.197.89",
+    "port": 28100
   },
   {
     "name": "EASY Company | Server #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
