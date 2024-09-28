@@ -227,7 +227,7 @@
     "port": 8888
   },
   {
-    "name": "2nd Armored | TRAINING/EVENT | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -800,7 +800,8 @@
   {
     "name": "Swinging Richards US Central/All Maps",
     "addr": "192.169.86.66",
-    "port": 9620
+    "port": 9620,
+    "removed": 1727503681
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1372,8 +1373,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1727483326
+    "port": 7777
   },
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
@@ -1563,7 +1563,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1964,7 +1964,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.201",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727503681
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
