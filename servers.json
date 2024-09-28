@@ -227,7 +227,7 @@
     "port": 8888
   },
   {
-    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
+    "name": "2nd Armored | TRAINING/EVENT | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -296,6 +296,11 @@
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
     "port": 28200
+  },
+  {
+    "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
+    "addr": "176.57.140.146",
+    "port": 28000
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -622,7 +627,8 @@
   {
     "name": "[ESP] MALDITOS BASTARDOS ",
     "addr": "176.57.178.15",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727483326
   },
   {
     "name": "HLL Official - UK #02",
@@ -1367,7 +1373,8 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727483326
   },
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
@@ -1497,12 +1504,6 @@
     "port": 9075
   },
   {
-    "name": "[UKLL] UK Let Loose | New Players Welcome",
-    "addr": "37.187.25.13",
-    "port": 9620,
-    "removed": 1726878447
-  },
-  {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200
@@ -1563,7 +1564,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
