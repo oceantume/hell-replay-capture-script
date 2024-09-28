@@ -683,7 +683,8 @@
   {
     "name": "Hagamos Garris#2-Ronin-hll.la/discord",
     "addr": "177.54.147.141",
-    "port": 7847
+    "port": 7847,
+    "removed": 1727525386
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -735,12 +736,6 @@
     "addr": "185.34.11.165",
     "port": 7777,
     "removed": 1727201294
-  },
-  {
-    "name": "Ronin & <CF> - Traning & Event - MARRAM #04",
-    "addr": "189.1.170.137",
-    "port": 7782,
-    "removed": 1726920560
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -964,7 +959,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.59.39",
-    "port": 28100
+    "port": 28100,
+    "removed": 1727525386
   },
   {
     "name": "[Merc] SECONDARY event server - GPortal",
@@ -1039,7 +1035,8 @@
   {
     "name": "[GER] Schlachtfeld der Neko",
     "addr": "195.82.158.186",
-    "port": 21400
+    "port": 21400,
+    "removed": 1727525386
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1333,8 +1330,7 @@
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com",
     "addr": "208.115.196.18",
-    "port": 7777,
-    "removed": 1727507174
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -1395,6 +1391,11 @@
   {
     "name": "Three Ring Circus | NA East | RP Only",
     "addr": "208.115.212.75",
+    "port": 7777
+  },
+  {
+    "name": "H9H clan server",
+    "addr": "208.115.214.61",
     "port": 7777
   },
   {
@@ -1728,8 +1729,7 @@
   {
     "name": "American Premier League :: MIAMI :: Powered by Qonzer.com",
     "addr": "64.31.40.203",
-    "port": 7777,
-    "removed": 1727507174
+    "port": 7777
   },
   {
     "name": "Lucky Strike Event Server",
@@ -1811,12 +1811,6 @@
     "name": "(IC) Offensive Heaven | US Central | discord.gg/icoh",
     "addr": "69.162.89.148",
     "port": 7777
-  },
-  {
-    "name": "2nd Ranger Battalion | US Central | discord.gg/2ndrangers",
-    "addr": "74.63.231.2",
-    "port": 7777,
-    "removed": 1726920560
   },
   {
     "name": "[L9] The Loyal Nine - #1 L9Clan.com/discord",
