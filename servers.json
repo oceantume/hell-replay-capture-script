@@ -135,7 +135,7 @@
     "port": 9620
   },
   {
-    "name": "[13SNC] #2 - Dirty's Revenge - discord.gg/13snc",
+    "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "141.95.72.27",
     "port": 9620
   },
@@ -172,7 +172,8 @@
   {
     "name": "Desert Ratz Match Server",
     "addr": "145.239.5.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1727546848
   },
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
@@ -656,6 +657,11 @@
     "port": 28100
   },
   {
+    "name": "[ger] Chaos-Chaoten-Clan  twitch.tv/albert_meiienstein",
+    "addr": "176.57.181.144",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
     "port": 28000
@@ -683,8 +689,7 @@
   {
     "name": "Hagamos Garris#2-Ronin-hll.la/discord",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1727525386
+    "port": 7847
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -736,6 +741,11 @@
     "addr": "185.34.11.165",
     "port": 7777,
     "removed": 1727201294
+  },
+  {
+    "name": "H9H clan server",
+    "addr": "188.165.39.157",
+    "port": 7777
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -1090,18 +1100,6 @@
     "port": 7777
   },
   {
-    "name": "HK∞CZS∞Le camp d’entraînement",
-    "addr": "202.165.70.15",
-    "port": 8898,
-    "removed": 1726942037
-  },
-  {
-    "name": "CN<JWH >九尾狐&雾队纯冲突｜Q682534524",
-    "addr": "202.165.70.15",
-    "port": 8918,
-    "removed": 1726942037
-  },
-  {
     "name": "CN2.IR战队长期招新带新，进群了解980240242",
     "addr": "202.165.70.91",
     "port": 8908
@@ -1401,7 +1399,8 @@
   {
     "name": "H9H clan server",
     "addr": "208.115.214.61",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727546848
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1570,7 +1569,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
