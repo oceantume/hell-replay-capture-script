@@ -285,8 +285,7 @@
   {
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1727460500
+    "port": 28300
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -359,7 +358,7 @@
     "port": 28000
   },
   {
-    "name": "gaming.kgs-lyngby.dk #TTV",
+    "name": "[DK] Danish / English - gaming.kgs-lyngby.dk #TTV",
     "addr": "176.57.153.114",
     "port": 28100
   },
@@ -431,7 +430,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1727698321
   },
   {
     "name": "DevQA Testing - EU #02",
@@ -925,7 +925,8 @@
   {
     "name": "Xtreme Dinosaurs | Havald is a cuck!",
     "addr": "193.160.22.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727698321
   },
   {
     "name": "HLL Official - US West #03",
@@ -1022,6 +1023,11 @@
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "195.181.175.172",
     "port": 7777
+  },
+  {
+    "name": "Omen Event Server Ʊ",
+    "addr": "195.181.175.172",
+    "port": 7877
   },
   {
     "name": "Omen Event Server OC Match #2",
@@ -1317,6 +1323,11 @@
     "removed": 1727460500
   },
   {
+    "name": "CN1#JP 国庆当然要来温柔猫娘萌新咖啡厅|665640040",
+    "addr": "203.10.99.7",
+    "port": 9078
+  },
+  {
     "name": "<CN>老逼登窝/JP节点/萌新进阶/Q:882377564",
     "addr": "203.10.99.7",
     "port": 9098
@@ -1592,8 +1603,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "51.75.144.129",
-    "port": 8530,
-    "removed": 1727679612
+    "port": 8530
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -1631,7 +1641,7 @@
     "port": 9075
   },
   {
-    "name": "[TH] Hell Let Loose Thailand Community",
+    "name": "TH Hell Let Loose Thailand Community",
     "addr": "51.79.163.108",
     "port": 8530
   },
