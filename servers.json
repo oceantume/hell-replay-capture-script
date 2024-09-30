@@ -60,6 +60,11 @@
     "port": 8998
   },
   {
+    "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
+    "addr": "103.62.49.43",
+    "port": 8888
+  },
+  {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
@@ -842,7 +847,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1727676585
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
