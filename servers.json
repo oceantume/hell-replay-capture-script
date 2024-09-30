@@ -359,6 +359,11 @@
     "port": 28000
   },
   {
+    "name": "gaming.kgs-lyngby.dk #TTV",
+    "addr": "176.57.153.114",
+    "port": 28100
+  },
+  {
     "name": "LwJg46 Bierstube",
     "addr": "176.57.153.114",
     "port": 28200
@@ -1587,7 +1592,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "51.75.144.129",
-    "port": 8530
+    "port": 8530,
+    "removed": 1727679612
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
