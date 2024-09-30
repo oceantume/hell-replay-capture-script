@@ -749,7 +749,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727701553
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1667,7 +1668,8 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1727701553
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
