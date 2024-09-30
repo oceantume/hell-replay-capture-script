@@ -879,8 +879,7 @@
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577,
-    "removed": 1727417353
+    "port": 7577
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1328,6 +1327,11 @@
     "port": 9078
   },
   {
+    "name": "CN2#JP 国庆当然要来甜蜜攻防喵喵咖啡厅|665640040",
+    "addr": "203.10.99.7",
+    "port": 9088
+  },
+  {
     "name": "<CN>老逼登窝/JP节点/萌新进阶/Q:882377564",
     "addr": "203.10.99.7",
     "port": 9098
@@ -1478,7 +1482,8 @@
   {
     "name": "Omen Event Server Ʊ",
     "addr": "208.115.248.110",
-    "port": 7877
+    "port": 7877,
+    "removed": 1727699377
   },
   {
     "name": "SLK - US West",
@@ -1817,6 +1822,11 @@
     "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
+  },
+  {
+    "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
+    "addr": "69.162.102.50",
+    "port": 7817
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
