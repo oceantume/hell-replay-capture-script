@@ -77,8 +77,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1727787905
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -359,7 +358,7 @@
     "port": 28000
   },
   {
-    "name": "[DK] Danish / English - gaming.kgs-lyngby.dk #TTV",
+    "name": "[DK] Danish / English - www.hellletloose.dk",
     "addr": "176.57.153.114",
     "port": 28100
   },
@@ -431,14 +430,12 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1727698321
+    "port": 28100
   },
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1727460500
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -664,7 +661,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] Chaos-Chaoten-Clan! Albert Meilenstein! [Twitch] https://",
+    "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
     "port": 28200
   },
@@ -926,8 +923,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1727787905
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -967,14 +963,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1727787905
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1727787905
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1317,7 +1311,8 @@
   {
     "name": "CN5-乌啦！chiikawa宝宝乐园-QQ群：519292637",
     "addr": "203.10.99.7",
-    "port": 9018
+    "port": 9018,
+    "removed": 1727806145
   },
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
@@ -1600,7 +1595,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1672,8 +1667,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1727787905
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -2076,7 +2070,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
