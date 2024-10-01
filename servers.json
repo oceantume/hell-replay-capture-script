@@ -1867,6 +1867,11 @@
     "port": 9620
   },
   {
+    "name": "HLL Server",
+    "addr": "79.163.151.198",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000
