@@ -230,7 +230,8 @@
   {
     "name": "<CN> TT天堂萌新俱乐部（测试）q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727874216
   },
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
@@ -941,7 +942,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727874216
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -982,12 +984,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727874216
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1727874216
   },
   {
     "name": "QA Testing - US West #06",
@@ -1139,7 +1143,7 @@
     "port": 8908
   },
   {
-    "name": "<CN>CZS灰猎犬连&卢浮宫萌新攻防/QQ：441245221",
+    "name": "CN.香炉社区欢乐斗地主萌新欢乐冲突|HK|716701264",
     "addr": "202.165.70.91",
     "port": 8928
   },
