@@ -953,7 +953,8 @@
   {
     "name": "OMAHA BEACH 24/7 (New Players Welcome)",
     "addr": "193.192.58.52",
-    "port": 28300
+    "port": 28300,
+    "removed": 1727850288
   },
   {
     "name": "HLL Official - US West #01",
@@ -1850,20 +1851,17 @@
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
     "addr": "74.63.236.194",
-    "port": 8530,
-    "removed": 1727849368
+    "port": 8530
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #2 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9075,
-    "removed": 1727849368
+    "port": 9075
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9620,
-    "removed": 1727849368
+    "port": 9620
   },
   {
     "name": "HLL Server",
