@@ -17,7 +17,8 @@
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "103.62.49.42",
-    "port": 8918
+    "port": 8918,
+    "removed": 1727935753
   },
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（随机图）q群：578097070",
@@ -241,6 +242,16 @@
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "156.146.44.225",
     "port": 7797
+  },
+  {
+    "name": "CN淘宝人间地狱工作室 安全速效",
+    "addr": "156.146.44.225",
+    "port": 7807
+  },
+  {
+    "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
+    "addr": "156.146.44.225",
+    "port": 7817
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -863,7 +874,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1727935753
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1121,7 +1133,7 @@
     "port": 7777
   },
   {
-    "name": "CN2.IR战队长期招新带新，进群了解980240242",
+    "name": "CN1深夜街头萌新啤酒攻防小屋|HK|719036493",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -1268,32 +1280,38 @@
   {
     "name": "!CN030#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8888
+    "port": 8888,
+    "removed": 1727935753
   },
   {
     "name": "!CN031#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8898
+    "port": 8898,
+    "removed": 1727935753
   },
   {
     "name": "!CN032#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8908
+    "port": 8908,
+    "removed": 1727935753
   },
   {
     "name": "!CN033#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8918
+    "port": 8918,
+    "removed": 1727935753
   },
   {
     "name": "!CN034#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8928
+    "port": 8928,
+    "removed": 1727935753
   },
   {
     "name": "!CN035#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "203.10.99.7",
-    "port": 8938
+    "port": 8938,
+    "removed": 1727935753
   },
   {
     "name": "!CN026#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1499,8 +1517,7 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7777,
-    "removed": 1727915332
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
@@ -2136,8 +2153,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1727915332
+    "port": 7777
   },
   {
     "name": "Hell Let Loose Server",
