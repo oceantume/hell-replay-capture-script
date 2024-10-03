@@ -1138,7 +1138,7 @@
     "port": 8908
   },
   {
-    "name": "CN番剧欢乐斗地主萌新欢乐冲突|HK|716701264",
+    "name": "CN1.「FJ&CZS」纯冲突服｜HK｜Q716701264",
     "addr": "202.165.70.91",
     "port": 8928
   },
@@ -1388,17 +1388,20 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727957451
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.196.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727957451
   },
   {
     "name": "POWERBITS GAMETEAM  EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.196.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1727957451
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1444,6 +1447,21 @@
   {
     "name": "Three Ring Circus | NA East | RP Only",
     "addr": "208.115.212.75",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
+    "addr": "208.115.214.219",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM  EVENT  | LOW PING | PBSGAMETEAM .COM",
+    "addr": "208.115.214.221",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "208.115.214.222",
     "port": 7777
   },
   {
