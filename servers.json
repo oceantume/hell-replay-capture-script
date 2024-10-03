@@ -78,8 +78,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1727960633
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -200,8 +199,7 @@
   {
     "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
     "addr": "146.19.48.157",
-    "port": 7777,
-    "removed": 1727960633
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | High Performance | BFTB | ",
@@ -236,7 +234,7 @@
     "port": 7777
   },
   {
-    "name": "<CN>#3HK[微信公众号：TT天堂]关进群1分永久免排�",
+    "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
     "addr": "156.146.44.225",
     "port": 7787
   },
@@ -254,6 +252,16 @@
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
     "addr": "156.146.44.225",
     "port": 7817
+  },
+  {
+    "name": "CN1#HK PKK亿江南萌新欢乐营（纯攻防）QQ群747976659",
+    "addr": "156.146.44.225",
+    "port": 7827
+  },
+  {
+    "name": "hll Server",
+    "addr": "156.146.44.225",
+    "port": 7837
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -671,7 +679,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.105",
-    "port": 28000
+    "port": 28000,
+    "removed": 1727978906
   },
   {
     "name": "[PKKA]-Russian Server #1 (Only RU) - discord.gg/PKKA",
@@ -948,8 +957,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1727960633
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -990,14 +998,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1727960633
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1727960633
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1411,8 +1417,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1727960633
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1433,8 +1438,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1727960633
+    "port": 7777
   },
   {
     "name": "[GER/AUT] #CAT | All Cats Are Beauties / German Server |ACAB|",
@@ -1646,7 +1650,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1719,19 +1723,12 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1727960633
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
     "addr": "51.89.42.34",
     "port": 9620
-  },
-  {
-    "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
-    "addr": "54.36.108.21",
-    "port": 9075,
-    "removed": 1727374071
   },
   {
     "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
