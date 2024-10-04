@@ -636,7 +636,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.174.129",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728003342
   },
   {
     "name": "HLL Dev Team 2",
@@ -879,8 +880,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620,
-    "removed": 1727935753
+    "port": 9620
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
