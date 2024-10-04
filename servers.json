@@ -38,7 +38,8 @@
   {
     "name": "CN#JP 金色切尔西抽象萌新基地+Q群425375843",
     "addr": "103.62.49.42",
-    "port": 8958
+    "port": 8958,
+    "removed": 1728043878
   },
   {
     "name": "cn.jp 忆江南【PUMA】夜晚激战冲突服q746699634",
@@ -61,7 +62,7 @@
     "port": 8998
   },
   {
-    "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
+    "name": "HLL Server",
     "addr": "103.62.49.43",
     "port": 8888
   },
@@ -257,6 +258,11 @@
     "port": 7847
   },
   {
+    "name": "hll Server",
+    "addr": "156.146.44.225",
+    "port": 7857
+  },
+  {
     "name": "[ESP] Demonios y Legionarios",
     "addr": "160.202.167.11",
     "port": 8888
@@ -294,8 +300,7 @@
   {
     "name": "The Draft [HAUS] Event Server |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
-    "port": 7807,
-    "removed": 1728025838
+    "port": 7807
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -1430,7 +1435,8 @@
   {
     "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
     "addr": "208.115.206.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728043878
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1493,7 +1499,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.226.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1728043878
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard | Mic Only",
@@ -1516,6 +1523,16 @@
     "port": 7777
   },
   {
+    "name": "WTH Training Server",
+    "addr": "208.115.226.5",
+    "port": 7787
+  },
+  {
+    "name": "[82AD] Band of Brothers | discord.gg/82nd",
+    "addr": "208.115.226.94",
+    "port": 7777
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
@@ -1524,12 +1541,6 @@
     "name": "SLB #1",
     "addr": "208.115.248.106",
     "port": 7787
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1727439050
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1555,8 +1566,7 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7777,
-    "removed": 1728025838
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
@@ -1773,12 +1783,6 @@
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
     "port": 7777
-  },
-  {
-    "name": "WARFARE [HELL] | US WEST | DISCORD.GG/HH-GAMING",
-    "addr": "63.143.62.90",
-    "port": 7777,
-    "removed": 1727439050
   },
   {
     "name": "[Merc]iless Event Server",
@@ -2160,7 +2164,8 @@
   {
     "name": "General Pattons D-Day 24/7",
     "addr": "92.118.18.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728043878
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
