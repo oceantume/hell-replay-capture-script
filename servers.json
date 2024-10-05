@@ -109,7 +109,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1728108484
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -278,7 +279,7 @@
     "port": 7777
   },
   {
-    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -858,12 +859,6 @@
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
     "port": 9075
-  },
-  {
-    "name": "Swinging Richards US Central/All Maps",
-    "addr": "192.169.86.66",
-    "port": 9620,
-    "removed": 1727503681
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1514,6 +1509,11 @@
     "port": 7787
   },
   {
+    "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
+    "addr": "208.115.226.93",
+    "port": 7777
+  },
+  {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
     "port": 7777
@@ -2041,12 +2041,6 @@
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.203.201",
-    "port": 28000,
-    "removed": 1727503681
   },
   {
     "name": "Bro-Nation/Bros Let Loose/US Central/Active Admin/discord.gg/br",
