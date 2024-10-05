@@ -355,7 +355,8 @@
   {
     "name": "TW. Tactics Warfare 24/7 (EN)",
     "addr": "176.57.140.146",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728151648
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -1101,7 +1102,8 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1728151648
   },
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
@@ -1419,7 +1421,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Ballroom Blitz - Arena 1",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1457,12 +1459,6 @@
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
     "port": 7777
-  },
-  {
-    "name": "H9H clan server",
-    "addr": "208.115.214.61",
-    "port": 7777,
-    "removed": 1727546848
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1647,7 +1643,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1916,8 +1912,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1728065295
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
