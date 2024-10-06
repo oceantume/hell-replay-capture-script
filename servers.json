@@ -252,7 +252,7 @@
     "port": 7847
   },
   {
-    "name": "hll Server",
+    "name": "PUMA TRAINING SERVER",
     "addr": "156.146.44.225",
     "port": 7857
   },
@@ -405,7 +405,8 @@
   {
     "name": "[DK] Danish / English - www.hellletloose.dk",
     "addr": "176.57.153.114",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728216604
   },
   {
     "name": "LwJg46 Bierstube",
@@ -1636,7 +1637,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1722,7 +1723,7 @@
     "port": 8530
   },
   {
-    "name": "[FR Only] Les Coqs Enragés - discord.gg/lescoqsenrages",
+    "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
     "port": 9620
   },
