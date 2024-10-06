@@ -363,6 +363,11 @@
     "port": 28100
   },
   {
+    "name": "Toothache Boost",
+    "addr": "176.57.140.16",
+    "port": 28200
+  },
+  {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
     "port": 29700
@@ -1000,8 +1005,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728046996
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1132,27 +1136,32 @@
   {
     "name": "CN1深夜街头萌新啤酒攻防小屋|HK|719036493",
     "addr": "202.165.70.91",
-    "port": 8908
+    "port": 8908,
+    "removed": 1728238039
   },
   {
     "name": "CN1.「FJ&CZS」纯冲突服｜HK｜Q716701264",
     "addr": "202.165.70.91",
-    "port": 8928
+    "port": 8928,
+    "removed": 1728238039
   },
   {
     "name": "CN.CZS超质数中队纯冲突强度服HK｜q980240242",
     "addr": "202.165.70.91",
-    "port": 8938
+    "port": 8938,
+    "removed": 1728238039
   },
   {
     "name": "CN『CZS』Super-prime|6V6 race only| HK｜",
     "addr": "202.165.70.91",
-    "port": 8948
+    "port": 8948,
+    "removed": 1728238039
   },
   {
     "name": "CN2#JP 初秋来一杯甜蜜攻防喵喵咖啡厅|665640040",
     "addr": "202.165.70.91",
-    "port": 8958
+    "port": 8958,
+    "removed": 1728238039
   },
   {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
@@ -1232,12 +1241,14 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1728238039
   },
   {
     "name": "CN.「FJ&CZS」纯冲突联合服｜JP｜Q716701264",
     "addr": "203.10.98.41",
-    "port": 8898
+    "port": 8898,
+    "removed": 1728238039
   },
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
@@ -1493,7 +1504,8 @@
   {
     "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
     "addr": "208.115.226.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728238039
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1637,7 +1649,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1728,7 +1740,7 @@
     "port": 9620
   },
   {
-    "name": "[RUS] СССР русскоязычный сервер ",
+    "name": "[RUS|СССР] РУССКОЯЗЫЧНЫЙ СЕРВЕР ",
     "addr": "54.36.165.164",
     "port": 8530
   },
@@ -1738,7 +1750,7 @@
     "port": 9720
   },
   {
-    "name": "BSC & KRT vs STDB ",
+    "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
     "addr": "54.36.60.213",
     "port": 8530
   },
@@ -1965,6 +1977,11 @@
     "name": "<CN>江南前线军事参谋部|新手轻规Q群151486341",
     "addr": "83.223.197.89",
     "port": 28100
+  },
+  {
+    "name": "All Players Welcome (EN/TH)",
+    "addr": "83.223.197.89",
+    "port": 28200
   },
   {
     "name": "EASY Company | Server #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
