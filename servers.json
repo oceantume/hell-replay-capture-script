@@ -109,7 +109,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1728194900
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -272,7 +273,7 @@
     "port": 7777
   },
   {
-    "name": "2nd Armored | TRAINING / EVENT | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -1441,7 +1442,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728194900
   },
   {
     "name": "POWERBITS GAMETEAM  EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -1512,7 +1514,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728194900
   },
   {
     "name": "Omen Event Server Ʊ",
@@ -1884,17 +1887,20 @@
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
     "addr": "74.63.236.194",
-    "port": 8530
+    "port": 8530,
+    "removed": 1728194900
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #2 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9075
+    "port": 9075,
+    "removed": 1728194900
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9620
+    "port": 9620,
+    "removed": 1728194900
   },
   {
     "name": "HLL Server",
