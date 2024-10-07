@@ -7,7 +7,8 @@
   {
     "name": "cn2忆江南的高强度苏美德地图服Q群341807965",
     "addr": "103.62.49.42",
-    "port": 8898
+    "port": 8898,
+    "removed": 1728303093
   },
   {
     "name": "CN1#JP PKK亿江南萌新欢乐营（纯攻防）QQ群747976659",
@@ -790,7 +791,8 @@
   {
     "name": "HLL South| Sur América| -R- [Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
-    "port": 7807
+    "port": 7807,
+    "removed": 1728303093
   },
   {
     "name": "HLL Server",
@@ -1614,7 +1616,7 @@
     "port": 9075
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -2117,6 +2119,11 @@
     "name": "Greyhound Event #1",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "Hookway's Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
