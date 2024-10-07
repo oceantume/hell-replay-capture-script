@@ -80,8 +80,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1728306291
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -244,7 +243,7 @@
     "port": 7827
   },
   {
-    "name": "CN2忆江南的高强度苏美德地图服Q群341807965",
+    "name": "cn2忆江南的高强度苏美德地图服Q群341807965",
     "addr": "156.146.44.225",
     "port": 7837
   },
@@ -792,14 +791,7 @@
   {
     "name": "HLL South| Sur América| -R- [Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
-    "port": 7807,
-    "removed": 1728303093
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1727701553
+    "port": 7807
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -956,8 +948,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1728306291
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -998,14 +989,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1728306291
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728306291
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1520,7 +1509,8 @@
   {
     "name": "Ballroom Blitz - Arena 3",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1728324508
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1563,7 +1553,7 @@
     "port": 8772
   },
   {
-    "name": "En Svensk Tiger #3 | SWE/ENG | HellLetLoose.se",
+    "name": "En Svensk Tiger #2 | SWE/ENG | svensktiger.com",
     "addr": "217.182.196.157",
     "port": 9075
   },
@@ -1643,7 +1633,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1689,7 +1679,7 @@
     "port": 8530
   },
   {
-    "name": "En Svensk Tiger | SWE/ENG | HellLetLoose.se",
+    "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
     "port": 9075
   },
@@ -1716,8 +1706,7 @@
   {
     "name": "team.phoenix | Training | phx",
     "addr": "51.89.42.34",
-    "port": 9075,
-    "removed": 1728306291
+    "port": 9075
   },
   {
     "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
@@ -2116,7 +2105,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728324508
   },
   {
     "name": "HLL Official - South America #02",
