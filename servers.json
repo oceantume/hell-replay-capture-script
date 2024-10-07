@@ -698,7 +698,7 @@
     "port": 28000
   },
   {
-    "name": "Ballroom Blitz - Arena 2",
+    "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1501,10 +1501,9 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena 3",
+    "name": "SLB #1a",
     "addr": "208.115.248.106",
-    "port": 7787,
-    "removed": 1728324508
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
