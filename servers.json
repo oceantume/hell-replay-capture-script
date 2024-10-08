@@ -940,6 +940,11 @@
     "port": 9620
   },
   {
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S1",
+    "addr": "193.160.22.140",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
     "port": 28000
@@ -1404,7 +1409,7 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #4 – Dirty’s Diddyparty – discord.gg/13snc",
+    "name": "[13SNC] #4 – Dirty’s Party – discord.gg/13snc",
     "addr": "208.115.206.82",
     "port": 7777
   },
@@ -1626,7 +1631,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1879,20 +1884,17 @@
   {
     "name": "1st BTN - 505th PIR Event Server | discord.gg/505pir |",
     "addr": "74.63.236.194",
-    "port": 8530,
-    "removed": 1728194900
+    "port": 8530
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #2 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9075,
-    "removed": 1728194900
+    "port": 9075
   },
   {
     "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
     "addr": "74.63.236.194",
-    "port": 9620,
-    "removed": 1728194900
+    "port": 9620
   },
   {
     "name": "HLL Server",
