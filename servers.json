@@ -258,7 +258,7 @@
     "port": 7857
   },
   {
-    "name": "同志，不来码头整点薯条吗？KFC后厨：245578354",
+    "name": "01#HK 东方幻想乡 KFC后厨：245578354",
     "addr": "156.146.44.225",
     "port": 7867
   },
@@ -816,18 +816,6 @@
     "port": 9620
   },
   {
-    "name": "nMo | Events | discord.gg/teamNMO",
-    "addr": "192.169.86.106",
-    "port": 7787,
-    "removed": 1727871064
-  },
-  {
-    "name": "nMo | East | New Players Welcome | discord.gg/teamNMO",
-    "addr": "192.169.86.107",
-    "port": 7787,
-    "removed": 1727871064
-  },
-  {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
     "port": 7787
@@ -1242,7 +1230,8 @@
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
     "addr": "203.10.98.5",
-    "port": 8908
+    "port": 8908,
+    "removed": 1728475872
   },
   {
     "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
@@ -2125,8 +2114,7 @@
   {
     "name": "General Pattons D-Day 24/7",
     "addr": "92.118.18.79",
-    "port": 7777,
-    "removed": 1728043878
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
