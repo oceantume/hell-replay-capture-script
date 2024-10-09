@@ -48,7 +48,7 @@
     "port": 8968
   },
   {
-    "name": "01#JP 东方幻想乡 KFC后厨：245578354",
+    "name": "cn#JP 01东方幻想乡 KFC后厨：245578354",
     "addr": "103.62.49.42",
     "port": 8978
   },
@@ -542,7 +542,8 @@
   {
     "name": "[RU/EN]BUNDESWEGR [BWR]",
     "addr": "176.57.168.4",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728497295
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -933,8 +934,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1728479009
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -974,8 +974,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728479009
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1078,7 +1077,7 @@
     "port": 9620
   },
   {
-    "name": "[BR1] EVENT SERVER - discord.gg/br1",
+    "name": "Gunny's Hideout -- Dallas",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -1608,7 +1607,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1887,8 +1886,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1728410899
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2099,7 +2097,7 @@
     "port": 7777
   },
   {
-    "name": "  [SCSD] All Players Welcome | discord.gg/scsd | Active Admin",
+    "name": "  [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
   },
