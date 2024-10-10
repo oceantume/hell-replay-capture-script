@@ -284,7 +284,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1728562280
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -314,8 +315,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1728543555
+    "port": 28200
   },
   {
     "name": "DevQA Testing - EU #01",
@@ -678,7 +678,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728562280
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -759,7 +760,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1728562280
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -859,7 +861,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1728562280
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1092,6 +1095,16 @@
     "port": 7777
   },
   {
+    "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
+    "addr": "202.165.70.15",
+    "port": 8888
+  },
+  {
+    "name": "CN1深夜萌新啤酒小屋进群送VIP｜香港｜719036493",
+    "addr": "202.165.70.15",
+    "port": 8898
+  },
+  {
     "name": "CN1深夜街头萌新啤酒攻防小屋|HK|719036493",
     "addr": "202.165.70.91",
     "port": 8908,
@@ -1219,9 +1232,15 @@
     "port": 8918
   },
   {
+    "name": "CN<JWH>萌新咖啡营冲突|JP|Q682534524",
+    "addr": "203.10.98.5",
+    "port": 8888
+  },
+  {
     "name": "HLL Server",
     "addr": "203.10.98.5",
-    "port": 8898
+    "port": 8898,
+    "removed": 1728562280
   },
   {
     "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
@@ -1238,12 +1257,14 @@
   {
     "name": "HLL Server",
     "addr": "203.10.98.7",
-    "port": 8888
+    "port": 8888,
+    "removed": 1728562280
   },
   {
     "name": "猫娘咖啡厅国庆《谁是卧底》娱乐快乐散人活动",
     "addr": "203.10.98.7",
-    "port": 8898
+    "port": 8898,
+    "removed": 1728562280
   },
   {
     "name": "!CN026#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1309,24 +1330,6 @@
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
     "port": 7777
-  },
-  {
-    "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
-    "addr": "208.115.196.19",
-    "port": 7777,
-    "removed": 1727957451
-  },
-  {
-    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "208.115.196.2",
-    "port": 7777,
-    "removed": 1727957451
-  },
-  {
-    "name": "POWERBITS GAMETEAM  EVENT  | LOW PING | PBSGAMETEAM .COM",
-    "addr": "208.115.196.3",
-    "port": 7777,
-    "removed": 1727957451
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1598,8 +1601,7 @@
   {
     "name": "Playground",
     "addr": "51.75.58.123",
-    "port": 7777,
-    "removed": 1728520120
+    "port": 7777
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
@@ -2069,7 +2071,8 @@
   {
     "name": "General Pattons D-Day 24/7",
     "addr": "92.118.18.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728562280
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
