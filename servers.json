@@ -187,9 +187,19 @@
     "port": 7787
   },
   {
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "addr": "146.19.48.156",
+    "port": 7797
+  },
+  {
     "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
     "addr": "146.19.48.157",
     "port": 7777
+  },
+  {
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "addr": "146.19.48.168",
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
@@ -752,8 +762,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1728562280
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -916,8 +925,13 @@
     "port": 9620
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S1",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.140",
+    "port": 7777
+  },
+  {
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "addr": "193.160.22.141",
     "port": 7777
   },
   {
@@ -1079,7 +1093,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1728648649
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
@@ -1346,6 +1361,11 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
+    "port": 7777
+  },
+  {
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "addr": "208.115.206.85",
     "port": 7777
   },
   {
