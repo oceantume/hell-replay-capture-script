@@ -68,8 +68,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1728651762
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -334,7 +333,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728670087
   },
   {
     "name": "HLL Official - Australia #02",
@@ -383,7 +383,7 @@
     "port": 30700
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus [VIP*Seed][Mikro Pflicht]",
+    "name": "[GER]Kampfgruppe Lazarus [VIP4Seed][Mikro Pflicht]",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -687,7 +687,8 @@
   {
     "name": "GER-Deutscher-Schlachthof-107-Panzerbrigade-MIc Only",
     "addr": "176.57.181.144",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728670087
   },
   {
     "name": "SLB #1b",
@@ -775,7 +776,7 @@
     "port": 7787
   },
   {
-    "name": "HLL South| Sur América| -R- [Merc]#4 Discord.gg/m3rc",
+    "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/cm3r",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -932,8 +933,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1728651762
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -958,12 +958,14 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728670087
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728670087
   },
   {
     "name": "HLL Official - US West #01",
@@ -973,8 +975,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728651762
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -984,7 +985,8 @@
   {
     "name": "[Merc] SECONDARY event server - GPortal",
     "addr": "193.192.59.99",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728670087
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
@@ -1315,7 +1317,7 @@
     "port": 9108
   },
   {
-    "name": "CN ITK西住真穗祝你国庆快乐日服Q群48381851",
+    "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.99.7",
     "port": 9118
   },
@@ -1385,7 +1387,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM  EVENT  | LOW PING | PBSGAMETEAM .COM",
+    "name": "POWERBITS GAMETEAM FIGHT NIGHT  EVENT  | LOW PING | PBSGAMETEAM",
     "addr": "208.115.214.221",
     "port": 7777
   },
@@ -1516,7 +1518,7 @@
     "port": 28200
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE",
+    "name": "[GER] GREYHOUND PUBLIC - Bratwurst, Pommes und ein Bier",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1526,7 +1528,7 @@
     "port": 7787
   },
   {
-    "name": "[ GER ] #DTT Eventserver | Trümmertruppe",
+    "name": "[ GER ] #DTT HeLLD Freitagsgemetzel | Trümmertruppe",
     "addr": "46.4.97.246",
     "port": 8530
   },
@@ -1571,7 +1573,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
