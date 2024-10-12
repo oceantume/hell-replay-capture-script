@@ -103,7 +103,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1728713284
   },
   {
     "name": "Infiltration Event DE",
@@ -128,8 +129,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1728692889
+    "port": 9620
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -702,8 +702,7 @@
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
-    "port": 28200,
-    "removed": 1728692889
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1405,8 +1404,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1728692889
+    "port": 7777
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard | Mic Only",
@@ -1442,8 +1440,7 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1728692889
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1458,8 +1455,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1728692889
+    "port": 7777
   },
   {
     "name": "SLK - US West",
@@ -1549,8 +1545,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1728692889
+    "port": 7807
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1976,6 +1971,11 @@
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
     "port": 28000
+  },
+  {
+    "name": "Kyle's Wacky XP Farm (Join Allies)",
+    "addr": "83.223.203.182",
+    "port": 28100
   },
   {
     "name": "Bro-Nation/Bros Let Loose/US Central/Active Admin/discord.gg/br",
