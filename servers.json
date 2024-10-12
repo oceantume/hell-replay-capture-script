@@ -367,7 +367,8 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728737108
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -1067,8 +1068,7 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530,
-    "removed": 1728735965
+    "port": 8530
   },
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
