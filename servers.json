@@ -131,6 +131,16 @@
     "port": 9620
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "141.95.72.27",
+    "port": 8530
+  },
+  {
+    "name": "ECL Community Server Hosted by GTXGaming.co.uk",
+    "addr": "141.95.72.27",
+    "port": 9075
+  },
+  {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "141.95.72.27",
     "port": 9620
@@ -335,8 +345,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1728670087
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -367,7 +376,8 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728756445
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -1340,8 +1350,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1728692889
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1390,7 +1399,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM FIGHT NIGHT  EVENT  | LOW PING | PBSGAMETEAM",
+    "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
     "port": 7777
   },
@@ -1578,7 +1587,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1848,7 +1857,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728756445
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1878,7 +1888,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728756445
   },
   {
     "name": "HLL Official - Asia #05",
