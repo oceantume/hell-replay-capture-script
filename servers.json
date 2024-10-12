@@ -103,8 +103,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1728713284
+    "port": 9224
   },
   {
     "name": "Infiltration Event DE",
@@ -259,7 +258,7 @@
     "port": 7857
   },
   {
-    "name": "01#HK 东方幻想乡 KFC后厨：245578354",
+    "name": "CN01#HK 东方幻想乡 KFC后厨：245578354",
     "addr": "156.146.44.225",
     "port": 7867
   },
@@ -301,8 +300,7 @@
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
-    "port": 7807,
-    "removed": 1728692889
+    "port": 7807
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -847,7 +845,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1728734984
   },
   {
     "name": "Shadow Ops|New Players Welcome|US EAST",
@@ -967,8 +966,7 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200,
-    "removed": 1728670087
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #01",
@@ -1465,7 +1463,8 @@
   {
     "name": "Sturm der Vernichtung",
     "addr": "216.219.90.86",
-    "port": 7787
+    "port": 7787,
+    "removed": 1728734984
   },
   {
     "name": "(VTLS) Vtubers Let Loose - West Coast / AU / SEA",
@@ -1520,7 +1519,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1728734984
   },
   {
     "name": "[GER] GREYHOUND PUBLIC - Bratwurst, Pommes und ein Bier",
@@ -1649,7 +1649,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "team.phoenix Trainingsserver | phx",
     "addr": "51.89.42.34",
     "port": 9075
   },
