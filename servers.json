@@ -358,12 +358,6 @@
     "port": 28000
   },
   {
-    "name": "TW. Tactics Warfare 24/7 (EN)",
-    "addr": "176.57.140.146",
-    "port": 28200,
-    "removed": 1728151648
-  },
-  {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
@@ -1452,7 +1446,8 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728757309
   },
   {
     "name": "SLB #1a",
