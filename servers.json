@@ -13,47 +13,56 @@
   {
     "name": "CN1#JP PKK亿江南萌新欢乐营（纯攻防）QQ群747976659",
     "addr": "103.62.49.42",
-    "port": 8908
+    "port": 8908,
+    "removed": 1728842861
   },
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "103.62.49.42",
-    "port": 8928
+    "port": 8928,
+    "removed": 1728842861
   },
   {
     "name": "<CN>#5JP TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "103.62.49.42",
-    "port": 8938
+    "port": 8938,
+    "removed": 1728842861
   },
   {
     "name": "CN# 6 TT天堂俱乐部社区专属微信公众号：TT天堂",
     "addr": "103.62.49.42",
-    "port": 8948
+    "port": 8948,
+    "removed": 1728842861
   },
   {
     "name": "cn.jp 忆江南【PUMA】夜晚激战冲突服q746699634",
     "addr": "103.62.49.42",
-    "port": 8968
+    "port": 8968,
+    "removed": 1728842861
   },
   {
     "name": "cn#JP 01东方幻想乡 KFC后厨：245578354",
     "addr": "103.62.49.42",
-    "port": 8978
+    "port": 8978,
+    "removed": 1728842861
   },
   {
     "name": "PUMA Kombinierte Kampfgruppe ",
     "addr": "103.62.49.42",
-    "port": 8988
+    "port": 8988,
+    "removed": 1728842861
   },
   {
     "name": "<CN>老六萌新集中营（随机图）服主Q：2164947615",
     "addr": "103.62.49.42",
-    "port": 8998
+    "port": 8998,
+    "removed": 1728842861
   },
   {
     "name": "99981",
     "addr": "103.62.49.43",
-    "port": 8888
+    "port": 8888,
+    "removed": 1728842861
   },
   {
     "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
@@ -273,6 +282,11 @@
     "port": 7867
   },
   {
+    "name": "CN#中酱穿黑丝大家一起看（纯攻防）公众号：tt�",
+    "addr": "156.146.44.225",
+    "port": 7877
+  },
+  {
     "name": "[ESP] Demonios y Legionarios",
     "addr": "160.202.167.11",
     "port": 8888
@@ -345,7 +359,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728842861
   },
   {
     "name": "HLL Official - Australia #02",
@@ -370,8 +385,7 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200,
-    "removed": 1728756445
+    "port": 28200
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -936,7 +950,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728842861
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1020,7 +1035,7 @@
     "port": 7777
   },
   {
-    "name": "Omen Event Server Ʊ",
+    "name": "Omen Event Server #1",
     "addr": "195.181.175.172",
     "port": 7877
   },
@@ -1110,36 +1125,6 @@
     "port": 8898
   },
   {
-    "name": "CN1深夜街头萌新啤酒攻防小屋|HK|719036493",
-    "addr": "202.165.70.91",
-    "port": 8908,
-    "removed": 1728238039
-  },
-  {
-    "name": "CN1.「FJ&CZS」纯冲突服｜HK｜Q716701264",
-    "addr": "202.165.70.91",
-    "port": 8928,
-    "removed": 1728238039
-  },
-  {
-    "name": "CN.CZS超质数中队纯冲突强度服HK｜q980240242",
-    "addr": "202.165.70.91",
-    "port": 8938,
-    "removed": 1728238039
-  },
-  {
-    "name": "CN『CZS』Super-prime|6V6 race only| HK｜",
-    "addr": "202.165.70.91",
-    "port": 8948,
-    "removed": 1728238039
-  },
-  {
-    "name": "CN2#JP 初秋来一杯甜蜜攻防喵喵咖啡厅|665640040",
-    "addr": "202.165.70.91",
-    "port": 8958,
-    "removed": 1728238039
-  },
-  {
     "name": "!CN020#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
     "port": 8888
@@ -1213,18 +1198,6 @@
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
     "addr": "203.10.98.103",
     "port": 8888
-  },
-  {
-    "name": "HLL Server",
-    "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1728238039
-  },
-  {
-    "name": "CN.「FJ&CZS」纯冲突联合服｜JP｜Q716701264",
-    "addr": "203.10.98.41",
-    "port": 8898,
-    "removed": 1728238039
   },
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
@@ -1428,12 +1401,6 @@
     "port": 7787
   },
   {
-    "name": "[82AD] Band of Brothers | Tank Exclusive Server | Discord: 82nd",
-    "addr": "208.115.226.93",
-    "port": 7777,
-    "removed": 1728238039
-  },
-  {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
     "port": 7777
@@ -1575,7 +1542,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1843,8 +1810,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1728756445
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1869,13 +1835,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728842861
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1728756445
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2041,7 +2007,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "GREYHOUND EVENT #1",
     "addr": "85.208.197.70",
     "port": 7817
   },
