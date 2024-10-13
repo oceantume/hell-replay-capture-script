@@ -268,7 +268,7 @@
     "port": 7857
   },
   {
-    "name": "CN01#HK 东方幻想乡 KFC后厨：245578354",
+    "name": "CN01#HK 东方幻想乡 KFC外卖热线：245578354",
     "addr": "156.146.44.225",
     "port": 7867
   },
@@ -765,7 +765,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1728821401
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -798,7 +799,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S - VIP NIGHT!!! — discord.gg/chadfgf",
+    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -1297,7 +1298,7 @@
     "port": 8978
   },
   {
-    "name": "<CN>萌新老窝/苏德战场/苏德图循环/Q658412038",
+    "name": "老窝日常赛服务器",
     "addr": "203.10.99.7",
     "port": 9058
   },
@@ -1522,8 +1523,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1728734984
+    "port": 28200
   },
   {
     "name": "[GER] GREYHOUND PUBLIC - Bratwurst, Pommes und ein Bier",
@@ -1839,14 +1839,12 @@
   {
     "name": "Hell Let Loose Public Server",
     "addr": "74.63.236.194",
-    "port": 9075,
-    "removed": 1728692889
+    "port": 9075
   },
   {
-    "name": "1-505TH PIR | NEW PLAYERS WELCOME | NAE #1 | DISCORD.GG/505PIR ",
+    "name": "Hell Let Loose Public Server",
     "addr": "74.63.236.194",
-    "port": 9620,
-    "removed": 1728626958
+    "port": 9620
   },
   {
     "name": "HLL Official - Asia #07",
