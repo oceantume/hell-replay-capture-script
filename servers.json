@@ -71,8 +71,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1728911074
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -355,8 +354,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1728842861
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -399,7 +397,7 @@
     "port": 30700
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus [VIP4Seed][Mikro Pflicht]",
+    "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -849,8 +847,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772,
-    "removed": 1728907889
+    "port": 8772
   },
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
@@ -918,8 +915,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1728907889
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -944,6 +940,11 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.141",
+    "port": 7777
+  },
+  {
+    "name": "TD ♦ Tank Destoyers | EU/ENG",
+    "addr": "193.160.22.142",
     "port": 7777
   },
   {
@@ -984,19 +985,22 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1728911074
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728911074
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
     "port": 28200
+  },
+  {
+    "name": "(IC) Event Server | US West | discord.gg/icoh",
+    "addr": "193.192.59.39",
+    "port": 28000
   },
   {
     "name": "[Merc] SECONDARY event server - GPortal",
@@ -1093,6 +1097,11 @@
     "name": ". : ☆ | [UKLL] - UK Let Loose | New Players Welcome | ☆ : .",
     "addr": "198.244.177.7",
     "port": 9620
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "198.244.177.91",
+    "port": 8530
   },
   {
     "name": "Gunny's Hideout -- Dallas",
@@ -1507,7 +1516,7 @@
     "port": 9075
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1542,7 +1551,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1828,7 +1837,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728929298
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1838,13 +1848,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1728842861
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728929298
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2053,7 +2063,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728929298
   },
   {
     "name": "General Pattons D-Day 24/7",
