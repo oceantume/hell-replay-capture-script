@@ -284,7 +284,8 @@
   {
     "name": "CN#中酱穿黑丝大家一起看（纯攻防）公众号：tt�",
     "addr": "156.146.44.225",
-    "port": 7877
+    "port": 7877,
+    "removed": 1728886187
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -686,8 +687,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1728799709
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #02",
@@ -1542,7 +1542,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1795,17 +1795,20 @@
   {
     "name": "Hell Let Loose Public Server",
     "addr": "74.63.236.194",
-    "port": 8530
+    "port": 8530,
+    "removed": 1728886187
   },
   {
     "name": "Hell Let Loose Public Server",
     "addr": "74.63.236.194",
-    "port": 9075
+    "port": 9075,
+    "removed": 1728886187
   },
   {
     "name": "Hell Let Loose Public Server",
     "addr": "74.63.236.194",
-    "port": 9620
+    "port": 9620,
+    "removed": 1728886187
   },
   {
     "name": "HLL Official - Asia #07",
