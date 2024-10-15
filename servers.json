@@ -511,6 +511,11 @@
     "port": 28200
   },
   {
+    "name": "DevQA Testing - EU #04",
+    "addr": "176.57.168.194",
+    "port": 28300
+  },
+  {
     "name": "PARABELLUM HUNGARY | HUN/ENG",
     "addr": "176.57.168.252",
     "port": 28200
@@ -669,8 +674,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.174.129",
-    "port": 28100,
-    "removed": 1728997481
+    "port": 28100
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -955,8 +959,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1728997481
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -991,14 +994,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1728997481
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1728997481
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1242,12 +1243,6 @@
     "addr": "203.10.98.5",
     "port": 8908,
     "removed": 1728475872
-  },
-  {
-    "name": "CN#jp琳琅天上萌新小屋（攻防服）Q群484555616",
-    "addr": "203.10.98.6",
-    "port": 8888,
-    "removed": 1728410899
   },
   {
     "name": "HLL Server",
@@ -1559,7 +1554,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1829,7 +1824,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729015719
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1839,8 +1835,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1728929298
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1850,18 +1845,19 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729015719
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1728929298
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729015719
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2016,15 +2012,9 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND EVENT #1",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
-  },
-  {
-    "name": "Hookway's Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1728410899
   },
   {
     "name": "HLL Official - South America #02",
