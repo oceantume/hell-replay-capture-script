@@ -690,7 +690,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728972570
   },
   {
     "name": "QA Testing - EU #05",
@@ -1416,8 +1417,7 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1728952166
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | 18VS18 EVENT | DISCORD.GG/THE-CIRCLE",
