@@ -669,7 +669,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.174.129",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728997481
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -954,7 +955,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728997481
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -989,12 +991,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1728997481
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1728997481
   },
   {
     "name": "QA Testing - US West #06",
