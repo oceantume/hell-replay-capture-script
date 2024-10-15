@@ -422,6 +422,11 @@
     "port": 28000
   },
   {
+    "name": "hell let loose werwolf",
+    "addr": "176.57.153.114",
+    "port": 28100
+  },
+  {
     "name": "LwJg46 Bierstube",
     "addr": "176.57.153.114",
     "port": 28200
@@ -1412,7 +1417,8 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1728952166
   },
   {
     "name": "④ | THE CIRCLE #4 | 18VS18 EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1551,7 +1557,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1626,7 +1632,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] Valkyria CZ/SK/EN #1 | PUBLIC | vlkhll.cz",
+    "name": "[VLK] CZ/SK | Start 19:00 | valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 9620
   },
@@ -2058,8 +2064,7 @@
   {
     "name": "Diddy Party",
     "addr": "92.118.18.120",
-    "port": 7787,
-    "removed": 1728932204
+    "port": 7787
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
