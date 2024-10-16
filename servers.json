@@ -71,8 +71,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1729083849
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -215,8 +214,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -246,8 +244,7 @@
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "156.146.44.225",
-    "port": 7807,
-    "removed": 1729038552
+    "port": 7807
   },
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
@@ -280,10 +277,9 @@
     "port": 7867
   },
   {
-    "name": "CN#中酱穿黑丝大家一起看（纯攻防）公众号：tt�",
+    "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
     "addr": "156.146.44.225",
-    "port": 7877,
-    "removed": 1729058967
+    "port": 7877
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -303,8 +299,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1729080677
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -359,7 +354,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729102110
   },
   {
     "name": "HLL Official - Australia #02",
@@ -394,8 +390,7 @@
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
-    "port": 29700,
-    "removed": 1729038552
+    "port": 29700
   },
   {
     "name": "StDb-Event",
@@ -570,12 +565,6 @@
     "port": 28300
   },
   {
-    "name": "[RU/EN]BUNDESWEGR [BWR]",
-    "addr": "176.57.168.4",
-    "port": 28000,
-    "removed": 1728497295
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
     "port": 28000
@@ -684,7 +673,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 7 | BADBOYS |QS| OINK",
     "addr": "176.57.173.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729102110
   },
   {
     "name": "Team17 CERT",
@@ -1016,8 +1006,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729083849
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1084,8 +1073,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
-    "port": 7777,
-    "removed": 1729080677
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -1125,8 +1113,7 @@
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
     "addr": "198.244.177.7",
-    "port": 9075,
-    "removed": 1729038552
+    "port": 9075
   },
   {
     "name": ". : ☆ | [UKLL] - UK Let Loose | New Players Welcome | ☆ : .",
@@ -1149,8 +1136,7 @@
   {
     "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
-    "port": 9075,
-    "removed": 1729038552
+    "port": 9075
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
@@ -1587,7 +1573,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1862,8 +1848,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1729015719
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1873,7 +1858,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729102110
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1883,8 +1869,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1729015719
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2045,7 +2030,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
   },
