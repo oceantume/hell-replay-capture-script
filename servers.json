@@ -131,7 +131,8 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729038552
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -176,17 +177,20 @@
   {
     "name": "Desert Ratz Match Server",
     "addr": "145.239.5.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
     "addr": "145.239.5.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729038552
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "145.239.5.101",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729038552
   },
   {
     "name": "BANDOFBROTHERS.GG <> Milsim Community | All Welcome",
@@ -196,8 +200,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "146.19.48.156",
-    "port": 7797,
-    "removed": 1728692889
+    "port": 7797
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
@@ -213,7 +216,8 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -243,7 +247,8 @@
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1729038552
   },
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
@@ -288,7 +293,8 @@
   {
     "name": "[ID/EN] JOSGC︱SEA REGION︱DISCORD.JOSGC.COM",
     "addr": "169.150.243.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -383,12 +389,14 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729038552
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
-    "port": 29700
+    "port": 29700,
+    "removed": 1729038552
   },
   {
     "name": "StDb-Event",
@@ -403,7 +411,8 @@
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
     "addr": "176.57.140.83",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729038552
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -504,7 +513,8 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1729038552
   },
   {
     "name": "HLL Official - Europe #08",
@@ -544,7 +554,8 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729038552
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -580,7 +591,8 @@
   {
     "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
     "addr": "176.57.168.69",
-    "port": 28400
+    "port": 28400,
+    "removed": 1729038552
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -670,7 +682,8 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729038552
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 7 | BADBOYS |QS| OINK",
@@ -722,7 +735,8 @@
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729038552
   },
   {
     "name": "HLL Official - Europe #02",
@@ -767,7 +781,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
@@ -800,7 +815,7 @@
     "port": 7787
   },
   {
-    "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/cm3r",
+    "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -837,7 +852,8 @@
   {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729038552
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -857,7 +873,8 @@
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -925,7 +942,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -960,7 +978,8 @@
   {
     "name": "TD ♦ Tank Destroyers | STEEL FURY | EU/ENG | All Welcome",
     "addr": "193.160.22.142",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "HLL Official - US West #03",
@@ -990,12 +1009,14 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729038552
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729038552
   },
   {
     "name": "HLL Official - US West #01",
@@ -1015,7 +1036,8 @@
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729038552
   },
   {
     "name": "[Merc] SECONDARY event server - GPortal",
@@ -1031,7 +1053,8 @@
   {
     "name": "[LCM] LCM Spanish Clan Server ",
     "addr": "193.70.122.179",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729038552
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - FR ONLY - discord.gg/teamlvl",
@@ -1041,12 +1064,14 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300
+    "port": 31300,
+    "removed": 1729038552
   },
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "194.140.199.73",
-    "port": 30000
+    "port": 30000,
+    "removed": 1729038552
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1056,12 +1081,14 @@
   {
     "name": "Omen Event Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1729038552
   },
   {
     "name": "Omen Event Server OC Match #2",
     "addr": "195.181.175.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1101,32 +1128,38 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
     "addr": "198.244.177.7",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729038552
   },
   {
     "name": ". : ☆ | [UKLL] - UK Let Loose | New Players Welcome | ☆ : .",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729038552
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "198.244.177.91",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "Gunny's Hideout -- Dallas",
     "addr": "198.37.123.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729038552
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
@@ -1285,7 +1318,8 @@
   {
     "name": "老窝日常赛服务器",
     "addr": "203.10.99.7",
-    "port": 9058
+    "port": 9058,
+    "removed": 1729038552
   },
   {
     "name": "CN1#JP 轻尝一口温柔猫娘萌新咖啡厅|702502503",
@@ -1320,22 +1354,26 @@
   {
     "name": "Streamline Test",
     "addr": "203.23.178.4",
-    "port": 8888
+    "port": 8888,
+    "removed": 1729038552
   },
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[13SNC] #4 – Dirty’s Party – discord.gg/13snc",
@@ -1345,7 +1383,8 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -1366,7 +1405,8 @@
   {
     "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com ::",
     "addr": "208.115.212.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729038552
   },
   {
     "name": "Three Ring Circus | NA East | RP Only",
@@ -1386,12 +1426,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "    ( GER ) {WoA} World of Asgard | Mic Only",
@@ -1411,7 +1453,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "208.115.226.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "WTH Training Server",
@@ -1421,7 +1464,8 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "④ | THE CIRCLE #4 | 18VS18 EVENT | DISCORD.GG/THE-CIRCLE",
@@ -1431,7 +1475,8 @@
   {
     "name": "SLB #1a",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729038552
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1505,7 +1550,7 @@
     "port": 28200
   },
   {
-    "name": "[GER] GREYHOUND PUBLIC - Bratwurst, Pommes und ein Bier",
+    "name": "Greyhound Prep Area :D",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1527,12 +1572,14 @@
   {
     "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1729038552
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1560,7 +1607,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1587,7 +1634,8 @@
   {
     "name": "RUS | Jager Group Server",
     "addr": "51.75.147.215",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729038552
   },
   {
     "name": "Playground",
@@ -1612,12 +1660,14 @@
   {
     "name": "TH Hell Let Loose Thailand Community",
     "addr": "51.79.163.108",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "The Ghost Division (By ~xXx~) | Discord: dsc.gg/triplex",
     "addr": "51.79.98.216",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729038552
   },
   {
     "name": "[250H] Hell Let Loose",
@@ -1627,7 +1677,8 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -1635,7 +1686,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] CZ/SK | Start 19:00 | valkyriahll.cz",
+    "name": "[VLK] CZ/SK | Každý den od 19h | valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 9620
   },
@@ -1652,12 +1703,14 @@
   {
     "name": "[RUS|CHN|ENG] Просто играй и побеждай|Just ",
     "addr": "54.36.165.164",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729038552
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720
+    "port": 9720,
+    "removed": 1729038552
   },
   {
     "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
@@ -1717,7 +1770,8 @@
   {
     "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
     "addr": "64.31.40.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "Lucky Strike Event Server",
@@ -1792,7 +1846,8 @@
   {
     "name": "[Merc] US Central #3 All players welcome! Discord.gg/m3rc",
     "addr": "69.162.89.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "(IC) Offensive Heaven | US Central | discord.gg/icoh",
@@ -1886,12 +1941,6 @@
     "port": 28200
   },
   {
-    "name": "EASY Company | Server #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
-    "addr": "83.223.203.121",
-    "port": 28200,
-    "removed": 1728433738
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.121",
     "port": 28300
@@ -1954,7 +2003,8 @@
   {
     "name": "Kyle's Wacky XP Farm (Join Allies)",
     "addr": "83.223.203.182",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729038552
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
@@ -1974,7 +2024,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729038552
   },
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
@@ -2018,7 +2069,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2045,7 +2096,8 @@
   {
     "name": "  [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "Diddy Party",
@@ -2055,7 +2107,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "General Pattons D-Day 24/7",
@@ -2066,7 +2119,8 @@
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
-    "port": 7797
+    "port": 7797,
+    "removed": 1729038552
   },
   {
     "name": "ThePromisedLAN",
@@ -2081,7 +2135,8 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729038552
   },
   {
     "name": "Hell Let Loose Server",
