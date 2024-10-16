@@ -302,7 +302,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1729080677
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -387,8 +388,7 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200,
-    "removed": 1729038552
+    "port": 28200
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -731,11 +731,10 @@
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
-    "port": 28200,
-    "removed": 1729038552
+    "port": 28200
   },
   {
-    "name": "www.helletloose.dk # 2",
+    "name": "www.hellletloose.dk # 2 | New Players Welcome ...",
     "addr": "176.57.181.144",
     "port": 28300
   },
@@ -941,8 +940,7 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1729038552
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1008,14 +1006,12 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28100,
-    "removed": 1729038552
+    "port": 28100
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200,
-    "removed": 1729038552
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #01",
@@ -1062,14 +1058,12 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1729038552
+    "port": 31300
   },
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "194.140.199.73",
-    "port": 30000,
-    "removed": 1729038552
+    "port": 30000
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1089,7 +1083,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729080677
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -1271,12 +1266,6 @@
     "addr": "203.10.98.5",
     "port": 8898,
     "removed": 1728562280
-  },
-  {
-    "name": "CN.Alpha社区低延迟我去玩赞助日服Q群：921224745",
-    "addr": "203.10.98.5",
-    "port": 8908,
-    "removed": 1728475872
   },
   {
     "name": "HLL Server",
@@ -1667,8 +1656,7 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530,
-    "removed": 1729038552
+    "port": 8530
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -2013,8 +2001,7 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
-    "port": 28200,
-    "removed": 1729038552
+    "port": 28200
   },
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
@@ -2085,8 +2072,7 @@
   {
     "name": "  [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "Diddy Party",
