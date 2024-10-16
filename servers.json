@@ -188,8 +188,7 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "145.239.5.101",
-    "port": 9620,
-    "removed": 1729038552
+    "port": 9620
   },
   {
     "name": "BANDOFBROTHERS.GG <> Milsim Community | All Welcome",
@@ -343,7 +342,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729061394
   },
   {
     "name": "DevQA Testing - EU #01",
