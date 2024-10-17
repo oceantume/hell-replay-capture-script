@@ -506,8 +506,7 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1729038552
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -898,8 +897,7 @@
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
-    "port": 8530,
-    "removed": 1728907889
+    "port": 8530
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1336,8 +1334,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1535,16 +1532,14 @@
     "port": 9075
   },
   {
-    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1729038552
+    "port": 7807
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1729038552
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1572,7 +1567,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1666,8 +1661,7 @@
   {
     "name": "[RUS|CHN|ENG] Просто играй и побеждай|Just ",
     "addr": "54.36.165.164",
-    "port": 8530,
-    "removed": 1729038552
+    "port": 8530
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
@@ -2001,12 +1995,6 @@
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
-  },
-  {
-    "name": "Just have fun!",
-    "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1728520120
   },
   {
     "name": "hll Server",
