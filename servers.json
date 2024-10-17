@@ -171,7 +171,8 @@
   {
     "name": "[CFr] Corps Franc FR ONLY - discord.gg/qYCgvDd",
     "addr": "145.239.253.127",
-    "port": 9014
+    "port": 9014,
+    "removed": 1729168107
   },
   {
     "name": "Desert Ratz Match Server",
@@ -228,7 +229,8 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729168107
   },
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
@@ -258,7 +260,8 @@
   {
     "name": "cn2忆江南的高强度苏美德地图服Q群341807965",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1729168107
   },
   {
     "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
@@ -511,8 +514,7 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1729167080
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -769,8 +771,7 @@
   {
     "name": "Hagamos Garris#2-Ronin-hll.la/discord",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1729167080
+    "port": 7847
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1374,7 +1375,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729168107
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -1647,8 +1649,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620,
-    "removed": 1729167080
+    "port": 9620
   },
   {
     "name": "[RUS|CHN|ENG] Просто играй и побеждай|Just ",
