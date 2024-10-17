@@ -313,7 +313,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729191389
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1587,8 +1588,7 @@
   {
     "name": "RUS | Jager Group Server",
     "addr": "51.75.147.215",
-    "port": 9075,
-    "removed": 1729190836
+    "port": 9075
   },
   {
     "name": "Moon",
