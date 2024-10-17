@@ -176,8 +176,7 @@
   {
     "name": "Desert Ratz Match Server",
     "addr": "145.239.5.101",
-    "port": 8530,
-    "removed": 1729038552
+    "port": 8530
   },
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
@@ -227,7 +226,7 @@
     "port": 8772
   },
   {
-    "name": "<CN>#2HK TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7777
   },
@@ -279,7 +278,8 @@
   {
     "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
     "addr": "156.146.44.225",
-    "port": 7877
+    "port": 7877,
+    "removed": 1729167080
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -349,13 +349,13 @@
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1729167080
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1729102110
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -421,6 +421,11 @@
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - EU #08",
+    "addr": "176.57.140.97",
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
@@ -506,7 +511,8 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1729167080
   },
   {
     "name": "HLL Official - Europe #08",
@@ -695,10 +701,14 @@
     "port": 28000
   },
   {
+    "name": "QA Testing - UK #07",
+    "addr": "176.57.178.141",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1728972570
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -759,7 +769,8 @@
   {
     "name": "Hagamos Garris#2-Ronin-hll.la/discord",
     "addr": "177.54.147.141",
-    "port": 7847
+    "port": 7847,
+    "removed": 1729167080
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -769,8 +780,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "69th Space Force Japan [MILSIM FRIENDLY]",
@@ -790,7 +800,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1729167080
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -984,7 +995,8 @@
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729167080
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1004,7 +1016,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729167080
   },
   {
     "name": "HLL Official - US West #02",
@@ -1019,14 +1032,12 @@
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1729038552
+    "port": 28000
   },
   {
     "name": "[Merc] SECONDARY event server - GPortal",
     "addr": "193.192.59.99",
-    "port": 28000,
-    "removed": 1728670087
+    "port": 28000
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
@@ -1116,8 +1127,7 @@
   {
     "name": ". : ☆ | [UKLL] - UK Let Loose | New Players Welcome | ☆ : .",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1729038552
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1244,24 +1254,6 @@
     "name": "CN<JWH>萌新咖啡营冲突|JP|Q682534524",
     "addr": "203.10.98.5",
     "port": 8888
-  },
-  {
-    "name": "HLL Server",
-    "addr": "203.10.98.5",
-    "port": 8898,
-    "removed": 1728562280
-  },
-  {
-    "name": "HLL Server",
-    "addr": "203.10.98.7",
-    "port": 8888,
-    "removed": 1728562280
-  },
-  {
-    "name": "猫娘咖啡厅国庆《谁是卧底》娱乐快乐散人活动",
-    "addr": "203.10.98.7",
-    "port": 8898,
-    "removed": 1728562280
   },
   {
     "name": "!CN026#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1648,14 +1640,15 @@
     "port": 9620
   },
   {
-    "name": "Your Local Pub -  Blood, Sweat & Beers [BSB]",
+    "name": "Purple Heart Pain 24/7 PHL Blood, Sweat & Beers",
     "addr": "54.36.126.47",
     "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729167080
   },
   {
     "name": "[RUS|CHN|ENG] Просто играй и побеждай|Just ",
@@ -1665,8 +1658,7 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720,
-    "removed": 1729038552
+    "port": 9720
   },
   {
     "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
@@ -1850,8 +1842,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1729102110
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1871,8 +1862,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1729015719
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1957,8 +1947,7 @@
   {
     "name": "Kyle's Wacky XP Farm (Join Allies)",
     "addr": "83.223.203.182",
-    "port": 28100,
-    "removed": 1729038552
+    "port": 28100
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
@@ -1979,6 +1968,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
     "port": 28200
+  },
+  {
+    "name": "QA Testing - US East #09",
+    "addr": "83.223.206.29",
+    "port": 28100
   },
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
@@ -2053,14 +2047,7 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1729038552
-  },
-  {
-    "name": "General Pattons D-Day 24/7",
-    "addr": "92.118.18.79",
-    "port": 7777,
-    "removed": 1728562280
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
