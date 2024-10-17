@@ -181,8 +181,7 @@
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
     "addr": "145.239.5.101",
-    "port": 9075,
-    "removed": 1729038552
+    "port": 9075
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -863,7 +862,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729188476
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -977,8 +977,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1729170242
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1019,13 +1018,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729170242
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
     "port": 28200
+  },
+  {
+    "name": "Hell let loose (US West) Testing Server (Private)",
+    "addr": "193.192.59.170",
+    "port": 28000
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1043,7 +1046,7 @@
     "port": 8530
   },
   {
-    "name": "[LCM] LCM Spanish Clan Server ",
+    "name": "[LCM] La Compañia Maldita",
     "addr": "193.70.122.179",
     "port": 9075
   },
@@ -1502,7 +1505,7 @@
     "port": 28200
   },
   {
-    "name": "Greyhound Prep Area :D",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1587,7 +1590,7 @@
     "port": 9075
   },
   {
-    "name": "Playground",
+    "name": "Moon",
     "addr": "51.75.58.123",
     "port": 7777
   },
@@ -1849,7 +1852,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729188476
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1919,7 +1923,8 @@
   {
     "name": "DevQA Testing - US #03",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729188476
   },
   {
     "name": "HLL Official - US East #01",
@@ -2066,6 +2071,11 @@
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
     "port": 7777
+  },
+  {
+    "name": "Event",
+    "addr": "92.118.18.91",
+    "port": 7787
   },
   {
     "name": "Hell Let Loose Server",
