@@ -232,7 +232,8 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
     "addr": "156.146.44.225",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729211344
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
@@ -272,7 +273,8 @@
   {
     "name": "CN01#HK 东方幻想乡 KFC外卖热线：245578354",
     "addr": "156.146.44.225",
-    "port": 7867
+    "port": 7867,
+    "removed": 1729211344
   },
   {
     "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
@@ -434,7 +436,8 @@
   {
     "name": "hell let loose werwolf",
     "addr": "176.57.153.114",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729211344
   },
   {
     "name": "LwJg46 Bierstube",
@@ -895,8 +898,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620,
-    "removed": 1729145369
+    "port": 9620
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1321,8 +1323,7 @@
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1364,8 +1365,7 @@
   {
     "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com ::",
     "addr": "208.115.212.74",
-    "port": 7787,
-    "removed": 1729038552
+    "port": 7787
   },
   {
     "name": "Three Ring Circus | NA East | RP Only",
@@ -1465,7 +1465,7 @@
     "port": 7827
   },
   {
-    "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
+    "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
     "port": 7777
   },
@@ -1505,7 +1505,7 @@
     "port": 28200
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "Greyhound Prep",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1557,7 +1557,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729211344
   },
   {
     "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
@@ -1718,8 +1719,7 @@
   {
     "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
     "addr": "64.31.40.203",
-    "port": 7777,
-    "removed": 1729038552
+    "port": 7777
   },
   {
     "name": "Lucky Strike Event Server",
@@ -1908,7 +1908,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729211344
   },
   {
     "name": "HLL Official - US East #05",
@@ -2012,7 +2013,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE",
+    "name": "GREYHOUND Propper",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2073,7 +2074,7 @@
     "port": 7777
   },
   {
-    "name": "Event",
+    "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
     "addr": "92.118.18.91",
     "port": 7787
   },
