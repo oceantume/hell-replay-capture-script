@@ -263,7 +263,8 @@
   {
     "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
     "addr": "156.146.44.225",
-    "port": 7847
+    "port": 7847,
+    "removed": 1729254473
   },
   {
     "name": "[HK] PUMA TRAINING&EVENT",
@@ -378,10 +379,9 @@
     "port": 28000
   },
   {
-    "name": "Server for fun",
+    "name": "Cul† | Event Server",
     "addr": "176.57.140.16",
-    "port": 28100,
-    "removed": 1729253452
+    "port": 28100
   },
   {
     "name": "Toothache Boost",
@@ -869,7 +869,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729254473
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -941,7 +942,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729254473
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1225,8 +1227,7 @@
   {
     "name": "CN81 Event Server HK",
     "addr": "202.165.70.93",
-    "port": 9048,
-    "removed": 1729253452
+    "port": 9048
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
