@@ -232,12 +232,14 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
     "addr": "156.146.44.225",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729255718
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797
+    "port": 7797,
+    "removed": 1729255718
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
@@ -869,8 +871,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1729254473
+    "port": 9075
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -942,8 +943,7 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1729254473
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
