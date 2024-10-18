@@ -232,14 +232,12 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
     "addr": "156.146.44.225",
-    "port": 7787,
-    "removed": 1729255718
+    "port": 7787
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797,
-    "removed": 1729255718
+    "port": 7797
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
@@ -265,8 +263,7 @@
   {
     "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
     "addr": "156.146.44.225",
-    "port": 7847,
-    "removed": 1729254473
+    "port": 7847
   },
   {
     "name": "[HK] PUMA TRAINING&EVENT",
@@ -281,8 +278,7 @@
   {
     "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
     "addr": "156.146.44.225",
-    "port": 7877,
-    "removed": 1729253452
+    "port": 7877
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -358,7 +354,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729274902
   },
   {
     "name": "HLL Official - Australia #02",
@@ -381,7 +378,7 @@
     "port": 28000
   },
   {
-    "name": "Cul† | Event Server",
+    "name": "[RUS] Dark Lotus | Cult | Russian Public",
     "addr": "176.57.140.16",
     "port": 28100
   },
@@ -603,7 +600,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | FEUER FREI |QS| OINK",
     "addr": "176.57.169.115",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729274902
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -613,7 +611,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 6 | DORFCLUB |QS| OINK",
     "addr": "176.57.171.140",
-    "port": 28300
+    "port": 28300,
+    "removed": 1729274902
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -720,12 +719,6 @@
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
     "port": 28200
-  },
-  {
-    "name": "GER-Deutscher-Schlachthof-107-Panzerbrigade-MIc Only",
-    "addr": "176.57.181.144",
-    "port": 28000,
-    "removed": 1728670087
   },
   {
     "name": "SLB #1b",
@@ -856,12 +849,14 @@
   {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729274902
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "192.169.86.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1729274902
   },
   {
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
@@ -918,17 +913,20 @@
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
     "addr": "192.169.95.10",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729274902
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577
+    "port": 7577,
+    "removed": 1729274902
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1729274902
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -958,13 +956,13 @@
   {
     "name": "10th Mountain Division ᄿ (US East) : discord.gg/10thMD",
     "addr": "192.169.95.98",
-    "port": 9075,
-    "removed": 1729256610
+    "port": 9075
   },
   {
     "name": "3rd Amphibious Corps - US East - discord.gg/3AC",
     "addr": "192.169.95.98",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729274902
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -984,8 +982,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1729256610
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1020,14 +1017,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729256610
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729256610
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1079,7 +1074,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "195.181.175.172",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729274902
   },
   {
     "name": "Omen Event Server #1",
@@ -1087,14 +1083,15 @@
     "port": 7877
   },
   {
-    "name": "Omen Event Server OC Match #2",
+    "name": "per aspera ad astra",
     "addr": "195.181.175.179",
     "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729274902
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -1104,7 +1101,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "195.181.175.180",
-    "port": 7977
+    "port": 7977,
+    "removed": 1729274902
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -1206,8 +1204,7 @@
   {
     "name": "!CN025#[Violet]紫罗兰 花白锦画纸吹雪|Q群: 943642336",
     "addr": "202.165.70.93",
-    "port": 8938,
-    "removed": 1729256610
+    "port": 8938
   },
   {
     "name": "!CN016#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1371,7 +1368,8 @@
   {
     "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/dhz",
     "addr": "208.115.212.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729274902
   },
   {
     "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com ::",
@@ -1404,7 +1402,7 @@
     "port": 7777
   },
   {
-    "name": "    ( GER ) {WoA} World of Asgard | Mic Only",
+    "name": "[GER] {WoA} World of Asgard | Mic Only",
     "addr": "208.115.226.2",
     "port": 7797
   },
@@ -1571,7 +1569,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1647,7 +1645,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] CZ/SK | Každý den od 19h | valkyriahll.cz",
+    "name": "[VLK] CZ/SK | Každé úterý od 19h | valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 9620
   },
@@ -1709,7 +1707,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729274902
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1719,7 +1718,8 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1729274902
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
@@ -1784,8 +1784,7 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
-    "port": 7797,
-    "removed": 1729256610
+    "port": 7797
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
@@ -1863,8 +1862,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1729188476
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2083,8 +2081,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1729253452
+    "port": 7777
   },
   {
     "name": "-TL- The Line | EVENT SERVER (EAST) | TheLine.GG",
