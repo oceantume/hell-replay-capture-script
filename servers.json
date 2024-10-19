@@ -226,7 +226,8 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729318098
   },
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
@@ -237,13 +238,13 @@
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797
+    "port": 7797,
+    "removed": 1729318098
   },
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "156.146.44.225",
-    "port": 7807,
-    "removed": 1729253452
+    "port": 7807
   },
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
@@ -258,8 +259,7 @@
   {
     "name": "cn2忆江南的高强度苏美德地图服Q群341807965",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1729276642
+    "port": 7837
   },
   {
     "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
@@ -269,8 +269,7 @@
   {
     "name": "[HK] PUMA TRAINING&EVENT",
     "addr": "156.146.44.225",
-    "port": 7857,
-    "removed": 1729297723
+    "port": 7857
   },
   {
     "name": "CN01#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -280,7 +279,8 @@
   {
     "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
     "addr": "156.146.44.225",
-    "port": 7877
+    "port": 7877,
+    "removed": 1729318098
   },
   {
     "name": "[ESP] Demonios y Legionarios",
@@ -494,8 +494,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1729231776
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -505,8 +504,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1729231776
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -521,8 +519,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1729231776
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -745,8 +742,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1729231776
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -856,8 +852,7 @@
   {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
-    "port": 7787,
-    "removed": 1729274902
+    "port": 7787
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -1035,8 +1030,7 @@
   {
     "name": "Hell let loose (US West) Testing Server (Private)",
     "addr": "193.192.59.170",
-    "port": 28000,
-    "removed": 1729231776
+    "port": 28000
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1166,8 +1160,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1729253452
+    "port": 9620
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
