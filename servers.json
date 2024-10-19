@@ -204,7 +204,7 @@
     "port": 7797
   },
   {
-    "name": "    ( GER ) {WoA} World of Asgard 2 | Mic Only/Events",
+    "name": "[GER] {WoA} World of Asgard 2 | Mic Only/Events",
     "addr": "146.19.48.157",
     "port": 7777
   },
@@ -284,7 +284,7 @@
     "port": 8888
   },
   {
-    "name": "[ID/EN] JOSGC︱SEA REGION︱DISCORD.JOSGC.COM",
+    "name": "HLL Server",
     "addr": "169.150.243.141",
     "port": 7777
   },
@@ -352,8 +352,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1729274902
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -1552,7 +1551,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1820,12 +1819,14 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729361253
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729361253
   },
   {
     "name": "HLL Official - Asia #03",
