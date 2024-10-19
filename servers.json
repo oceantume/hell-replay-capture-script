@@ -739,7 +739,8 @@
   {
     "name": "www.hellletloose.dk # 2 | New Players Welcome ...",
     "addr": "176.57.181.144",
-    "port": 28300
+    "port": 28300,
+    "removed": 1729321655
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1257,8 +1258,7 @@
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908,
-    "removed": 1729320931
+    "port": 8908
   },
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
