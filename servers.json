@@ -209,12 +209,6 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
-    "addr": "146.19.48.168",
-    "port": 7787,
-    "removed": 1728692889
-  },
-  {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
     "port": 7777
@@ -237,7 +231,8 @@
   {
     "name": "<CN>#3[微信公众号：TT天堂]关进群1分永久免排队",
     "addr": "156.146.44.225",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729297723
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
@@ -274,7 +269,8 @@
   {
     "name": "[HK] PUMA TRAINING&EVENT",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1729297723
   },
   {
     "name": "CN01#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -727,6 +723,11 @@
     "port": 28200
   },
   {
+    "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
+    "addr": "176.57.181.105",
+    "port": 28000
+  },
+  {
     "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
@@ -861,8 +862,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "192.169.86.218",
-    "port": 9014,
-    "removed": 1729274902
+    "port": 9014
   },
   {
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
@@ -925,14 +925,12 @@
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
-    "port": 7577,
-    "removed": 1729274902
+    "port": 7577
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1729274902
+    "port": 7877
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -967,8 +965,7 @@
   {
     "name": "3rd Amphibious Corps - US East - discord.gg/3AC",
     "addr": "192.169.95.98",
-    "port": 9620,
-    "removed": 1729274902
+    "port": 9620
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -1113,6 +1110,11 @@
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "195.181.175.181",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "195.181.175.182",
     "port": 7777
   },
   {
@@ -1366,12 +1368,6 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
-    "addr": "208.115.206.85",
-    "port": 7777,
-    "removed": 1728692889
-  },
-  {
     "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/dhz",
     "addr": "208.115.212.74",
     "port": 7777
@@ -1574,7 +1570,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
