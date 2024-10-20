@@ -594,8 +594,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | FEUER FREI |QS| OINK",
     "addr": "176.57.169.115",
-    "port": 28100,
-    "removed": 1729274902
+    "port": 28100
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -605,8 +604,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 6 | DORFCLUB |QS| OINK",
     "addr": "176.57.171.140",
-    "port": 28300,
-    "removed": 1729274902
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -864,8 +862,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1729339816
+    "port": 9075
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1064,8 +1061,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "195.181.175.172",
-    "port": 7777,
-    "removed": 1729274902
+    "port": 7777
   },
   {
     "name": "Omen Event Server #1",
@@ -1080,8 +1076,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
-    "port": 7777,
-    "removed": 1729274902
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -1091,8 +1086,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "195.181.175.180",
-    "port": 7977,
-    "removed": 1729274902
+    "port": 7977
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -1556,7 +1550,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1594,6 +1588,11 @@
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
     "port": 8530
+  },
+  {
+    "name": "ROYAL FRONTIER | BRITISH | ALL PLAYERS WELCOME!",
+    "addr": "51.77.116.10",
+    "port": 9075
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1709,6 +1708,11 @@
     "removed": 1729274902
   },
   {
+    "name": "American Premier League :: MIAMI 2 :: Powered by Qonzer.com :: ",
+    "addr": "64.31.40.202",
+    "port": 7777
+  },
+  {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
@@ -1736,7 +1740,8 @@
   {
     "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
     "addr": "64.31.6.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729384344
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
