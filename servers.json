@@ -749,14 +749,15 @@
     "port": 28300
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | FREE VIP | HLL Brasil",
+    "name": "『V』VANGUARDA | CAMPEAO APL 2024 | FREE VIP | HLL Brasil",
     "addr": "177.54.147.141",
     "port": 7787
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1729404520
   },
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
@@ -767,6 +768,11 @@
     "name": "Hagamos Garris#2-Ronin-hll.la/discord",
     "addr": "177.54.147.141",
     "port": 7847
+  },
+  {
+    "name": "[7DL] SEPTIMA DE LINEA",
+    "addr": "177.54.147.141",
+    "port": 7867
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -1277,8 +1283,7 @@
   {
     "name": "老窝日常赛服务器",
     "addr": "203.10.99.7",
-    "port": 9058,
-    "removed": 1729038552
+    "port": 9058
   },
   {
     "name": "CN1#JP 轻尝一口温柔猫娘萌新咖啡厅|702502503",
@@ -1552,8 +1557,7 @@
   {
     "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1729386051
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
