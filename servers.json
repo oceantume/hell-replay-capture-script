@@ -743,7 +743,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1729512706
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1419,7 +1420,7 @@
     "port": 8772
   },
   {
-    "name": "En Svensk Tiger #2 | SWE/ENG | svensktiger.com",
+    "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
     "addr": "217.182.196.157",
     "port": 9075
   },
@@ -1500,10 +1501,9 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1729470652
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -1860,8 +1860,7 @@
   {
     "name": "DevQA Testing - US #03",
     "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1729188476
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
