@@ -17,8 +17,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1729515876
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -397,6 +396,11 @@
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
     "port": 28100
+  },
+  {
+    "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
+    "addr": "176.57.165.122",
+    "port": 30000
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -954,14 +958,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729515876
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729515876
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -971,8 +973,7 @@
   {
     "name": "Hell let loose (US West) Testing Server (Private)",
     "addr": "193.192.59.170",
-    "port": 28000,
-    "removed": 1729490986
+    "port": 28000
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1008,7 +1009,8 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "194.140.199.73",
-    "port": 30000
+    "port": 30000,
+    "removed": 1729534120
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1016,7 +1018,7 @@
     "port": 7777
   },
   {
-    "name": "Omen Event Server #1",
+    "name": "[GER] Omen Event Server #1",
     "addr": "195.181.175.172",
     "port": 7877
   },
@@ -1499,7 +1501,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1796,8 +1798,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1729447660
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
