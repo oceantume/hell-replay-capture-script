@@ -257,8 +257,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1729577362
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -546,7 +545,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | FEUER FREI |QS| OINK",
     "addr": "176.57.169.115",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729599105
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -556,7 +556,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 6 | DORFCLUB |QS| OINK",
     "addr": "176.57.171.140",
-    "port": 28300
+    "port": 28300,
+    "removed": 1729599105
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -749,8 +750,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1729512706
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -820,7 +820,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729599105
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1016,7 +1017,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "195.181.175.172",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729599105
   },
   {
     "name": "[GER] Omen Event Server #1",
@@ -1041,7 +1043,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "195.181.175.180",
-    "port": 7977
+    "port": 7977,
+    "removed": 1729599105
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -1502,7 +1505,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
