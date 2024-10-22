@@ -959,12 +959,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729602270
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729602270
   },
   {
     "name": "QA Testing - US West #06",
@@ -1939,7 +1941,8 @@
   {
     "name": "HLL Server",
     "addr": "84.69.255.199",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729602270
   },
   {
     "name": "hll Server",
