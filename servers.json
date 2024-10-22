@@ -257,7 +257,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729620515
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -303,7 +304,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729620515
   },
   {
     "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
@@ -543,10 +545,9 @@
     "port": 28300
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 5 | FEUER FREI |QS| OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | FEUER FREI |QS| OINK",
     "addr": "176.57.169.115",
-    "port": 28100,
-    "removed": 1729599105
+    "port": 28100
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -671,7 +672,7 @@
     "port": 28000
   },
   {
-    "name": "Ballroom Blitz - Arena 2",
+    "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -959,14 +960,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729602270
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729602270
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1054,7 +1053,7 @@
     "port": 7777
   },
   {
-    "name": " [GER HLL UNITED] Quality gaming GHOS",
+    "name": " [GER HLL UNITED] Quality gaming GHOST",
     "addr": "195.181.175.182",
     "port": 7777
   },
@@ -1296,7 +1295,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena 3",
+    "name": "SLB #2",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1376,7 +1375,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena 1",
+    "name": "SLB #1a",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1507,7 +1506,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1712,7 +1711,7 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | US West | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
     "port": 7777
   },
@@ -1769,7 +1768,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729620515
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1804,7 +1804,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729620515
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1965,7 +1966,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND Propper",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
