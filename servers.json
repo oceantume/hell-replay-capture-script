@@ -1937,6 +1937,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Server",
+    "addr": "84.69.255.199",
+    "port": 7777
+  },
+  {
     "name": "hll Server",
     "addr": "85.208.197.66",
     "port": 7797
