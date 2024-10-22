@@ -839,8 +839,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620,
-    "removed": 1729490986
+    "port": 9620
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -973,7 +972,8 @@
   {
     "name": "Hell let loose (US West) Testing Server (Private)",
     "addr": "193.192.59.170",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729556980
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1501,7 +1501,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
