@@ -1285,6 +1285,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.75",
+    "port": 7777
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
     "port": 7777
@@ -1975,7 +1980,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729687763
   },
   {
     "name": "HLL Official - South America #02",
