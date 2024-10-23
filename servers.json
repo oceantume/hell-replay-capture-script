@@ -140,8 +140,7 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "145.239.5.101",
-    "port": 9620,
-    "removed": 1729643351
+    "port": 9620
   },
   {
     "name": "BANDOFBROTHERS.GG <> Milsim Community | All Welcome",
@@ -261,8 +260,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1729663764
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1510,7 +1508,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1899,7 +1897,8 @@
   {
     "name": "Bonanza—Purple Heart Lane Rework ",
     "addr": "83.223.204.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729685490
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
@@ -1972,6 +1971,11 @@
     "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
