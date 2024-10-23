@@ -18,7 +18,8 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797
+    "port": 7797,
+    "removed": 1729688640
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -780,8 +781,7 @@
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
-    "port": 7807,
-    "removed": 1729643351
+    "port": 7807
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -932,8 +932,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1729515876
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -970,12 +969,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729688640
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729688640
   },
   {
     "name": "QA Testing - US West #06",
@@ -1769,6 +1770,11 @@
     "port": 7777
   },
   {
+    "name": "HLL Server",
+    "addr": "82.39.225.116",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000,
@@ -1980,8 +1986,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1729687763
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
