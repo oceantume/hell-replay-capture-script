@@ -18,8 +18,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1729688640
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -528,8 +527,7 @@
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
     "addr": "176.57.168.69",
-    "port": 28200,
-    "removed": 1729643351
+    "port": 28200
   },
   {
     "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
@@ -558,10 +556,9 @@
     "port": 28200
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 6 | DORFCLUB |QS| OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | DORFCLUB  |QS| OINK",
     "addr": "176.57.171.140",
-    "port": 28300,
-    "removed": 1729599105
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -617,8 +614,7 @@
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200,
-    "removed": 1729643351
+    "port": 28200
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -629,12 +625,6 @@
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
     "port": 28100
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 7 | BADBOYS |QS| OINK",
-    "addr": "176.57.173.119",
-    "port": 28200,
-    "removed": 1729102110
   },
   {
     "name": "Team17 CERT",
@@ -969,14 +959,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729688640
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729688640
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1050,8 +1038,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "195.181.175.180",
-    "port": 7877,
-    "removed": 1729643351
+    "port": 7877
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | DILDOKINGKONG LEBT |QS| OINK",
@@ -1291,6 +1278,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] LwJg46 Bierstube",
+    "addr": "208.115.206.76",
+    "port": 7777
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
     "port": 7777
@@ -1514,7 +1506,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 100+ | DISCORD.GG/THE-CIRCLE !KILLFEE",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1772,13 +1764,13 @@
   {
     "name": "HLL Server",
     "addr": "82.39.225.116",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729706920
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1729620515
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1793,7 +1785,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729706920
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1813,8 +1806,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1729620515
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1986,7 +1978,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729706920
   },
   {
     "name": "HLL Official - South America #02",
