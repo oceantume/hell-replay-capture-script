@@ -155,7 +155,8 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 | Mic Only/Events",
     "addr": "146.19.48.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729729750
   },
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
@@ -317,7 +318,8 @@
   {
     "name": "Bierstube 46",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729729750
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -724,7 +726,7 @@
     "removed": 1729426230
   },
   {
-    "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMINETO |1#",
+    "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMIENTO |1#",
     "addr": "177.54.147.141",
     "port": 7867
   },
@@ -1275,7 +1277,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729729750
   },
   {
     "name": "[GER] LwJg46 Bierstube",
@@ -1346,8 +1349,7 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1729643351
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
@@ -1506,7 +1508,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 100+ | DISCORD.GG/THE-CIRCLE !KILLFEE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
