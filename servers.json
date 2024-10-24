@@ -159,6 +159,11 @@
     "removed": 1729729750
   },
   {
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "addr": "146.19.48.168",
+    "port": 7787
+  },
+  {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
     "port": 7777
@@ -261,8 +266,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1729750179
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -293,12 +297,6 @@
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
     "port": 28300
-  },
-  {
-    "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
-    "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1729167080
   },
   {
     "name": "HLL Official - Australia #01",
@@ -462,8 +460,7 @@
   {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1729643351
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -825,7 +822,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1729771881
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1105,7 +1103,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1729771881
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
@@ -1310,6 +1309,11 @@
     "port": 7777
   },
   {
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "addr": "208.115.206.85",
+    "port": 7777
+  },
+  {
     "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/dhz",
     "addr": "208.115.212.74",
     "port": 7777
@@ -1407,7 +1411,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729771881
   },
   {
     "name": "Excel Spreadsheets",
@@ -1452,7 +1457,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729771881
   },
   {
     "name": "Greyhound Prep",
@@ -1511,7 +1517,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2026,6 +2032,11 @@
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
+  },
+  {
+    "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
+    "addr": "92.118.18.72",
+    "port": 7797
   },
   {
     "name": "ThePromisedLAN",
