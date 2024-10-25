@@ -301,13 +301,13 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1729879716
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1729620515
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
@@ -725,8 +725,7 @@
   {
     "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMIENTO |1#",
     "addr": "177.54.147.141",
-    "port": 7867,
-    "removed": 1729861418
+    "port": 7867
   },
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
@@ -860,12 +859,6 @@
     "port": 8530
   },
   {
-    "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
-    "addr": "192.169.95.10",
-    "port": 9075,
-    "removed": 1729274902
-  },
-  {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
@@ -971,8 +964,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1729861418
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1514,7 +1506,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1650,21 +1642,9 @@
     "port": 7777
   },
   {
-    "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
-    "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1729274902
-  },
-  {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
     "port": 7797
-  },
-  {
-    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
-    "addr": "64.31.28.85",
-    "port": 7807,
-    "removed": 1729274902
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1814,8 +1794,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1729793329
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
