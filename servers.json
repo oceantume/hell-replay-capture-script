@@ -382,12 +382,6 @@
     "port": 28000
   },
   {
-    "name": "hell let loose werwolf",
-    "addr": "176.57.153.114",
-    "port": 28100,
-    "removed": 1729211344
-  },
-  {
     "name": "[FR] [PNSR] Punisher One #1 | FRENCH ONLY | discord.gg/pnsr",
     "addr": "176.57.153.41",
     "port": 28000
@@ -711,7 +705,8 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1729816176
   },
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
@@ -771,6 +766,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "181.214.221.212",
+    "port": 7797
+  },
+  {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
@@ -823,8 +823,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1729771881
+    "port": 9075
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1055,7 +1054,7 @@
     "port": 7777
   },
   {
-    "name": " [GER HLL UNITED] Quality gaming GHOST",
+    "name": "[GER] 4 Fäuste gegen Blaubeeren [LVL25+ | GHOST]",
     "addr": "195.181.175.182",
     "port": 7777
   },
@@ -1103,8 +1102,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1729771881
+    "port": 9620
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
@@ -1517,7 +1515,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1860,12 +1858,6 @@
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.203.127",
-    "port": 28200,
-    "removed": 1729211344
   },
   {
     "name": "HLL Official - US East #05",
