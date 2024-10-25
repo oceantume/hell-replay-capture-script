@@ -988,12 +988,6 @@
     "removed": 1729643351
   },
   {
-    "name": "[Merc] SECONDARY event server - GPortal",
-    "addr": "193.192.59.99",
-    "port": 28000,
-    "removed": 1729253452
-  },
-  {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
     "addr": "193.70.122.179",
     "port": 8530
@@ -1458,8 +1452,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1729771881
+    "port": 28200
   },
   {
     "name": "GREYHOUND NIGHT - BLUE",
@@ -1673,7 +1666,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.37.42",
-    "port": 7777
+    "port": 7777,
+    "removed": 1729858271
   },
   {
     "name": "American Premier League :: MIAMI 2 :: Powered by Qonzer.com :: ",
