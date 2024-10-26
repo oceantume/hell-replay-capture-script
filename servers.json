@@ -1094,8 +1094,7 @@
   {
     "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
-    "port": 9075,
-    "removed": 1729643351
+    "port": 9075
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
@@ -1671,7 +1670,8 @@
   {
     "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
-    "port": 7787
+    "port": 7787,
+    "removed": 1729904112
   },
   {
     "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
@@ -1924,7 +1924,8 @@
   {
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.207.46",
-    "port": 28100
+    "port": 28100,
+    "removed": 1729904112
   },
   {
     "name": "Snarky's (US Mid) Snarky",
