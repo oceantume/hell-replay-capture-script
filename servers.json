@@ -190,7 +190,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）q群：578097070",
+    "name": "<CN>#1TT天堂萌新俱乐部（投票选图）q群：578097070",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -255,6 +255,11 @@
     "port": 9014
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "172.93.105.158",
+    "port": 8530
+  },
+  {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
@@ -267,8 +272,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1729922912
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -683,12 +687,6 @@
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
     "port": 28200
-  },
-  {
-    "name": "www.hellletloose.dk # 2 | New Players Welcome ...",
-    "addr": "176.57.181.144",
-    "port": 28300,
-    "removed": 1729321655
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1291,8 +1289,7 @@
   {
     "name": "[13SNC] #4 – Dirty’s Party – discord.gg/13snc",
     "addr": "208.115.206.82",
-    "port": 7777,
-    "removed": 1729643351
+    "port": 7777
   },
   {
     "name": "SLB #2",
@@ -1721,7 +1718,7 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon 1 |New Players Welcome| Discord.gg/dhz",
+    "name": "The Qonzer Experience | Ultimate Package | www.Qonzer.com",
     "addr": "64.31.61.93",
     "port": 7777
   },
