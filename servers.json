@@ -166,8 +166,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
-    "port": 7777,
-    "removed": 1729881455
+    "port": 7777
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -237,7 +236,8 @@
   {
     "name": "[ESP] Demonios y Legionarios",
     "addr": "160.202.167.11",
-    "port": 8888
+    "port": 8888,
+    "removed": 1729966079
   },
   {
     "name": "[SEA] JOSGC | SEA REGION | JOSGC.COM",
@@ -255,7 +255,7 @@
     "port": 9014
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
     "addr": "172.93.105.158",
     "port": 8530
   },
@@ -307,8 +307,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1729879716
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -400,7 +399,8 @@
   {
     "name": "[16th IR] Realism unit.|US East 1| discord.gg/16th",
     "addr": "176.57.165.122",
-    "port": 30000
+    "port": 30000,
+    "removed": 1729966079
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -963,8 +963,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1729861418
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1468,12 +1467,6 @@
     "port": 8530
   },
   {
-    "name": "[GER]German HIGHPERF. Server[Privat] LowPing/GermanSpeakingOnly",
-    "addr": "46.4.97.246",
-    "port": 9075,
-    "removed": 1729342816
-  },
-  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
     "port": 7807
@@ -1509,7 +1502,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | 200+ => VIP| DISCORD.GG/THE-CIR",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1797,7 +1790,8 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729966079
   },
   {
     "name": "HLL Official - Asia #02",
