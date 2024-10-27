@@ -1057,7 +1057,8 @@
   {
     "name": "HLL_Nitratest",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1729990833
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1690,12 +1691,6 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: LOS ANGELES :: Powered by Qonzer.com",
-    "addr": "64.31.6.93",
-    "port": 7777,
-    "removed": 1729384344
-  },
-  {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7777
@@ -1811,7 +1806,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1729990833
   },
   {
     "name": "<CN>  萌新的快乐小屋",
@@ -1925,8 +1921,7 @@
   {
     "name": "Snarky's (US Mid) Snarky",
     "addr": "83.223.207.50",
-    "port": 28000,
-    "removed": 1729989143
+    "port": 28000
   },
   {
     "name": "Test",
