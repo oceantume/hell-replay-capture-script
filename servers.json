@@ -109,8 +109,7 @@
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "145.239.0.98",
-    "port": 8530,
-    "removed": 1729643351
+    "port": 8530
   },
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
@@ -278,8 +277,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730031006
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -314,7 +312,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730052462
   },
   {
     "name": "HLL Official - Australia #02",
@@ -1514,7 +1513,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | 200+ => VIP | DISCORD.GG/THE-CI",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1723,7 +1722,7 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon 1 | New Players Welcome | Discord.gg/dhz",
+    "name": "Dark Horizon 1 |New Players Welcome| Discord.gg/dhz",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -1787,7 +1786,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730052462
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1808,7 +1808,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730052462
   },
   {
     "name": "HLL Official - Asia #04",
