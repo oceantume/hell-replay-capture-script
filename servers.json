@@ -252,7 +252,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1730031006
   },
   {
     "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
@@ -272,7 +273,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730031006
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -758,7 +760,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1730031006
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -842,6 +845,11 @@
     "port": 8772
   },
   {
+    "name": "BadgerGrounds - West Mongolia (LOW PING)",
+    "addr": "192.169.89.18",
+    "port": 9014
+  },
+  {
     "name": "10th Mountain Division ᄿ Level 50+ (US Central) : discord.gg/",
     "addr": "192.169.92.250",
     "port": 9075
@@ -859,7 +867,13 @@
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730031006
+  },
+  {
+    "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
+    "addr": "192.169.95.10",
+    "port": 9075
   },
   {
     "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
@@ -1624,6 +1638,11 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
+    "port": 7777
+  },
+  {
+    "name": "The Qonzer Experience | Ultimate Package | www.Qonzer.com",
+    "addr": "63.143.62.90",
     "port": 7777
   },
   {
