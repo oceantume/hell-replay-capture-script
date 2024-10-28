@@ -98,8 +98,7 @@
   {
     "name": "ECL Community Server Hosted by GTXGaming.co.uk",
     "addr": "141.95.72.27",
-    "port": 9075,
-    "removed": 1729643351
+    "port": 9075
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -276,7 +275,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730095806
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -649,8 +649,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |  [VK]",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1730009313
+    "port": 28300
   },
   {
     "name": "MALDITOS BASTARDOS | SERVER ESPAÑOL ",
@@ -660,7 +659,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730095806
   },
   {
     "name": "QA Testing - UK #07",
@@ -670,8 +670,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1729922912
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1557,12 +1556,6 @@
     "port": 8530
   },
   {
-    "name": "ROYAL FRONTIER | UK SERVER | REAL CASH FOR SEEDING!",
-    "addr": "51.77.116.10",
-    "port": 9075,
-    "removed": 1729490986
-  },
-  {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
@@ -1927,6 +1920,11 @@
   {
     "name": "Boneyard",
     "addr": "83.223.204.229",
+    "port": 28100
+  },
+  {
+    "name": "emma brainrot",
+    "addr": "83.223.204.52",
     "port": 28100
   },
   {
