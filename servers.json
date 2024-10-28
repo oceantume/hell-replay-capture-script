@@ -68,8 +68,7 @@
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
-    "port": 8530,
-    "removed": 1730055896
+    "port": 8530
   },
   {
     "name": "The Qonzer Experience | Ultimate Package | www.Qonzer.com",
@@ -996,6 +995,11 @@
     "removed": 1729643351
   },
   {
+    "name": "The Bay 707 (US WEST)",
+    "addr": "193.192.59.99",
+    "port": 28300
+  },
+  {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
     "addr": "193.70.122.179",
     "port": 8530
@@ -1494,29 +1498,25 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1730055896
+    "port": 8530
   },
   {
     "name": "ANZAC Legion of the Damned",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1730055896
+    "port": 9075
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
-    "port": 8530,
-    "removed": 1730055896
+    "port": 8530
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1730055896
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1902,6 +1902,11 @@
     "port": 28000
   },
   {
+    "name": "TOOG Armor Battles",
+    "addr": "83.223.203.182",
+    "port": 28200
+  },
+  {
     "name": "Bonanza—Purple Heart Lane Rework ",
     "addr": "83.223.204.11",
     "port": 28000,
@@ -2050,12 +2055,6 @@
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
     "addr": "92.118.18.91",
     "port": 7787
-  },
-  {
-    "name": "Hell Let Loose Server",
-    "addr": "92.118.19.140",
-    "port": 7787,
-    "removed": 1729470652
   },
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
