@@ -275,8 +275,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730095806
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -827,7 +826,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1730117520
   },
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
@@ -1517,8 +1517,7 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1730079548
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -1749,7 +1748,7 @@
     "port": 7827
   },
   {
-    "name": "Dark Horizon 2 |New Players Welcome| Discord.gg/dhz",
+    "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
     "port": 7777
   },
@@ -1863,7 +1862,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730117520
   },
   {
     "name": "HLL Official - US East #06",
@@ -1986,20 +1986,17 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1729793329
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1730098280
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200,
-    "removed": 1730098280
+    "port": 28200
   },
   {
     "name": "Team17",
