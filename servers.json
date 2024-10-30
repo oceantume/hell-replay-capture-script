@@ -10,12 +10,6 @@
     "port": 8888
   },
   {
-    "name": "AA US West Noobie Battleground",
-    "addr": "104.238.222.122",
-    "port": 7777,
-    "removed": 1729643351
-  },
-  {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
     "port": 7797
@@ -365,12 +359,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.140.83",
-    "port": 28100,
-    "removed": 1729643351
-  },
-  {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
     "addr": "176.57.140.83",
     "port": 28200
@@ -388,7 +376,8 @@
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730248176
   },
   {
     "name": "[FR] [PNSR] Punisher One #1 | FRENCH ONLY | discord.gg/pnsr",
@@ -526,12 +515,6 @@
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.254",
-    "port": 28300,
-    "removed": 1729643351
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.69",
     "port": 28000
   },
@@ -544,12 +527,6 @@
     "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
     "addr": "176.57.168.69",
     "port": 28400
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.91",
-    "port": 28100,
-    "removed": 1729643351
   },
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
@@ -605,12 +582,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.38",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.38",
-    "port": 28300,
-    "removed": 1729643351
   },
   {
     "name": "PV",
@@ -726,8 +697,7 @@
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1730228951
+    "port": 7827
   },
   {
     "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMIENTO |1#",
@@ -946,21 +916,9 @@
     "port": 28000
   },
   {
-    "name": "✪ OG's Battleground Newbies Welcome ✪",
-    "addr": "193.192.58.145",
-    "port": 28200,
-    "removed": 1729643351
-  },
-  {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (US West) Server by g-portal.com",
-    "addr": "193.192.58.52",
-    "port": 28000,
-    "removed": 1729643351
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -993,12 +951,6 @@
     "name": "Hell let loose (US West) Testing Server (Private)",
     "addr": "193.192.59.170",
     "port": 28000
-  },
-  {
-    "name": "(IC) Event Server | US West | discord.gg/icoh",
-    "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1729643351
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1504,7 +1456,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1683,8 +1635,7 @@
   {
     "name": "[Merc]US East#2|New Players Welcome|discord.gg/m3rc",
     "addr": "64.31.40.205",
-    "port": 7777,
-    "removed": 1729643351
+    "port": 7777
   },
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
@@ -1729,7 +1680,8 @@
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.50",
-    "port": 7817
+    "port": 7817,
+    "removed": 1730248176
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1740,12 +1692,6 @@
     "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
     "port": 7777
-  },
-  {
-    "name": "[Merc] US Central #3 All players welcome! Discord.gg/m3rc",
-    "addr": "69.162.89.147",
-    "port": 7777,
-    "removed": 1729643351
   },
   {
     "name": "(IC) Offensive Heaven | US Central | discord.gg/icoh",
@@ -1808,18 +1754,6 @@
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
     "port": 28200
-  },
-  {
-    "name": "<CN>  萌新的快乐小屋",
-    "addr": "83.223.197.89",
-    "port": 28000,
-    "removed": 1729643351
-  },
-  {
-    "name": "<CN>江南前线军事参谋部|新手轻规Q群151486341",
-    "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1729643351
   },
   {
     "name": "All Players Welcome (EN/TH)",
@@ -1898,12 +1832,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.204.129",
-    "port": 28000,
-    "removed": 1729643351
-  },
-  {
     "name": "Boneyard",
     "addr": "83.223.204.229",
     "port": 28100
@@ -1978,12 +1906,6 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
-  },
-  {
-    "name": "Team17",
-    "addr": "92.118.16.126",
-    "port": 7777,
-    "removed": 1729643351
   },
   {
     "name": "[SAS] A GIFT TO THE CLAN",
