@@ -12,8 +12,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1730293477
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -377,8 +376,7 @@
   {
     "name": "-=Scandinavians Let Loose=- SLL- Offensive ONLY - ENG https://d",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1730248176
+    "port": 28000
   },
   {
     "name": "[FR] [PNSR] Punisher One #1 | FRENCH ONLY | discord.gg/pnsr",
@@ -757,7 +755,8 @@
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730311734
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -909,8 +908,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1730293477
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -950,7 +948,8 @@
   {
     "name": "Hell let loose (US West) Testing Server (Private)",
     "addr": "193.192.59.170",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730311734
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1378,8 +1377,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1730290292
+    "port": 8772
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1404,8 +1402,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1730293477
+    "port": 28200
   },
   {
     "name": "Greyhound Prep Enjoyers",
@@ -1458,7 +1455,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1670,6 +1667,11 @@
     "port": 8888
   },
   {
+    "name": "RFTA Battle grounds",
+    "addr": "66.235.172.240",
+    "port": 8530
+  },
+  {
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
     "addr": "69.162.102.50",
     "port": 7787
@@ -1711,12 +1713,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Server",
-    "addr": "82.39.225.116",
-    "port": 7777,
-    "removed": 1729706920
-  },
-  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000
@@ -1744,8 +1740,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1730225321
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1889,15 +1884,14 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
   },
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1730227720
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
