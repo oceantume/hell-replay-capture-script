@@ -153,7 +153,8 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 | Mic Only/Events",
     "addr": "146.19.48.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730314126
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -1295,7 +1296,8 @@
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
     "addr": "208.115.226.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1730314126
   },
   {
     "name": "Event-Server der 106. Panzerbrigade",
