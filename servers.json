@@ -264,8 +264,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1730203892
+    "port": 9075
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -316,12 +315,6 @@
     "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
     "addr": "176.57.140.146",
     "port": 28000
-  },
-  {
-    "name": "Bierstube 46",
-    "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1729729750
   },
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
@@ -1232,12 +1225,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.206.75",
-    "port": 7777,
-    "removed": 1729729750
-  },
-  {
     "name": "[GER] LwJg46 Bierstube",
     "addr": "208.115.206.76",
     "port": 7777
@@ -1465,7 +1452,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1679,7 +1666,8 @@
   {
     "name": "RFTA Battle grounds",
     "addr": "66.235.172.240",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730334594
   },
   {
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
@@ -1866,7 +1854,8 @@
   {
     "name": "Snarky's (US Mid) Snarky",
     "addr": "83.223.207.50",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730334594
   },
   {
     "name": "Test",
@@ -1901,7 +1890,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730334594
   },
   {
     "name": "HLL Official - South America #02",
