@@ -12,8 +12,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1730379823
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -240,7 +239,8 @@
   {
     "name": "[SEA] JOSGC | SEA REGION | JOSGC.COM",
     "addr": "169.150.243.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730398125
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -271,7 +271,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730398125
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -311,7 +312,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730398125
   },
   {
     "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
@@ -346,8 +348,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1730354961
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -915,8 +916,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1730379823
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -941,14 +941,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1730379823
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1730379823
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -984,8 +982,7 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1730379823
+    "port": 31300
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1165,12 +1162,14 @@
   {
     "name": "CN1<萌新之家NoviceHouse>攻防 萌新友好 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8908
+    "port": 8908,
+    "removed": 1730398125
   },
   {
     "name": "CN2<萌新之家NoviceHouse>混合 冷门地图 Q群147559947",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1730398125
   },
   {
     "name": "CN<JWH>萌新咖啡营冲突|JP|Q682534524",
@@ -1386,8 +1385,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1730376677
+    "port": 8772
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1412,8 +1410,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1730379823
+    "port": 28200
   },
   {
     "name": "Greyhound Prep Enjoyers",
@@ -1466,10 +1463,9 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1730336230
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -1726,6 +1722,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "82.44.44.215",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000
@@ -1738,7 +1739,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730398125
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1753,7 +1755,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730398125
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1823,7 +1826,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730398125
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -1903,10 +1907,9 @@
     "port": 7817
   },
   {
-    "name": "Hookway's Server",
+    "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1730378939
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
@@ -1917,6 +1920,11 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
+  },
+  {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
   },
   {
     "name": "[SAS] A GIFT TO THE CLAN",
