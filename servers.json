@@ -218,7 +218,8 @@
   {
     "name": "[HK] RECLAIMER TRAINING&EVENT",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1730377705
   },
   {
     "name": "CN01#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -1215,7 +1216,8 @@
   {
     "name": "<CN> 白泽Beta战队社区低延迟日服服务器 Q群:暂无",
     "addr": "203.10.99.7",
-    "port": 9108
+    "port": 9108,
+    "removed": 1730377705
   },
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
@@ -1362,12 +1364,6 @@
     "name": "(VTLS) Vtubers Let Loose - West Coast / AU / SEA",
     "addr": "216.219.90.86",
     "port": 7807
-  },
-  {
-    "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
-    "addr": "216.219.93.37",
-    "port": 7777,
-    "removed": 1729771881
   },
   {
     "name": "Excel Spreadsheets",
@@ -1903,10 +1899,9 @@
     "port": 7817
   },
   {
-    "name": "HLL Server",
+    "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1730334594
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
