@@ -269,7 +269,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730354961
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -344,7 +345,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1730354961
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -441,8 +443,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1730225321
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -617,7 +618,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |  [VK]",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1730354961
   },
   {
     "name": "MALDITOS BASTARDOS | SERVER ESPAÑOL ",
@@ -783,7 +785,7 @@
     "port": 7787
   },
   {
-    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism US EAST - Happy Halloween!",
     "addr": "192.169.86.218",
     "port": 9014
   },
@@ -821,7 +823,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730354961
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1563,7 +1566,7 @@
     "port": 7777
   },
   {
-    "name": "[OFFICIAL] Bob the Builder | XP Farm | Fast Loadouts | 1M+ XP",
+    "name": "BOB THE BUILDER USA [OFFICIAL]| XP FARM | FAST LOADOUTS | 1M+XP",
     "addr": "63.143.62.100",
     "port": 7777
   },
@@ -1835,7 +1838,8 @@
   {
     "name": "emma brainrot",
     "addr": "83.223.204.52",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730354961
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -1923,6 +1927,11 @@
     "name": "Freefire Brigade | FFB",
     "addr": "92.118.18.120",
     "port": 7807
+  },
+  {
+    "name": "The Red Guard (US EAST) - discord.gg/N5jG5MvuDm",
+    "addr": "92.118.18.130",
+    "port": 7777
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
