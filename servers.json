@@ -216,7 +216,7 @@
     "port": 7847
   },
   {
-    "name": "[HK] PUMA TRAINING&EVENT",
+    "name": "[HK] RECLAIMER TRAINING&EVENT",
     "addr": "156.146.44.225",
     "port": 7857
   },
@@ -249,7 +249,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1730376677
   },
   {
     "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
@@ -269,8 +270,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730354961
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -576,6 +576,11 @@
     "port": 28100
   },
   {
+    "name": "# 3 - www.hellletloose.dk - Everyone is welcome, including new ",
+    "addr": "176.57.171.38",
+    "port": 28200
+  },
+  {
     "name": "PV",
     "addr": "176.57.171.44",
     "port": 28500
@@ -606,10 +611,14 @@
     "port": 28100
   },
   {
+    "name": "100.Jäger-Divison Event Server",
+    "addr": "176.57.174.145",
+    "port": 28000
+  },
+  {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1730358625
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1378,7 +1387,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1730376677
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1773,8 +1783,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1730290292
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
