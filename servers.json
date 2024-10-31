@@ -271,8 +271,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730398125
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1219,7 +1218,8 @@
   {
     "name": "<CN> 白泽Beta战队社区低延迟日服服务器 Q群:暂无",
     "addr": "203.10.99.7",
-    "port": 9108
+    "port": 9108,
+    "removed": 1730399892
   },
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
