@@ -17,8 +17,7 @@
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1730466145
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
@@ -316,8 +315,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1730398125
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
@@ -382,7 +380,8 @@
   {
     "name": "[FR] [PNSR] Punisher One #1 | FRENCH ONLY | discord.gg/pnsr",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730484531
   },
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
@@ -553,8 +552,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
     "addr": "176.57.171.158",
-    "port": 28100,
-    "removed": 1730463091
+    "port": 28100
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
@@ -909,8 +907,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1730466145
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -935,14 +932,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1730466145
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1730466145
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -978,8 +973,7 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1730466145
+    "port": 31300
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1185,7 +1179,8 @@
   {
     "name": "CN<JWH>萌新咖啡营冲突|JP|Q682534524",
     "addr": "203.10.98.5",
-    "port": 8888
+    "port": 8888,
+    "removed": 1730484531
   },
   {
     "name": "!CN026#[Violet]紫罗兰 人间地狱刷分服|Q群: 943642336",
@@ -1436,8 +1431,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1730466145
+    "port": 28200
   },
   {
     "name": "Greyhoundnight - Blue",
@@ -1537,8 +1531,7 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1730441379
+    "port": 8530
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1772,8 +1765,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1730398125
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1788,8 +1780,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1730398125
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1799,7 +1790,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730484531
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1859,8 +1851,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1730398125
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -1942,7 +1933,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730484531
   },
   {
     "name": "HLL Official - South America #02",
