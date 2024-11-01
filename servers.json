@@ -5,9 +5,14 @@
     "port": 7807
   },
   {
-    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Zombies & Knife Fight | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
+  },
+  {
+    "name": "AA US West Noobie Battleground",
+    "addr": "104.238.222.122",
+    "port": 7777
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -55,7 +60,7 @@
     "port": 9224
   },
   {
-    "name": "Infiltration Event DE",
+    "name": "Climber United G.C. Event DE",
     "addr": "136.243.70.117",
     "port": 7777
   },
@@ -250,7 +255,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1730463091
   },
   {
     "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
@@ -270,8 +276,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730441379
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -548,7 +553,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
     "addr": "176.57.171.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730463091
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
@@ -571,7 +577,7 @@
     "port": 28100
   },
   {
-    "name": "#1 - HELLLELOOSE.DK | Experienced Players | Livestreaming",
+    "name": "#1 - HELLLELOOSE.DK | Recruiting Players | Livestreaming YouTub",
     "addr": "176.57.171.38",
     "port": 28200
   },
@@ -784,7 +790,7 @@
     "port": 7787
   },
   {
-    "name": "=7Cav= Tactical Realism US EAST - Happy Halloween!",
+    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "192.169.86.218",
     "port": 9014
   },
@@ -1562,8 +1568,7 @@
   {
     "name": "Rick's Café, Casablanca - Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1730444429
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1635,12 +1640,6 @@
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
     "port": 7797
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.37.42",
-    "port": 7777,
-    "removed": 1729858271
   },
   {
     "name": "American Premier League :: MIAMI 2 :: Powered by Qonzer.com :: ",
@@ -1938,8 +1937,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1730421179
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
