@@ -270,7 +270,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730441379
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -622,8 +623,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |  [VK]",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1730354961
+    "port": 28300
   },
   {
     "name": "MALDITOS BASTARDOS | SERVER ESPAÑOL ",
@@ -974,7 +974,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "195.181.175.172",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730441379
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -999,7 +1000,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 6 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "195.181.175.180",
-    "port": 7977
+    "port": 7977,
+    "removed": 1730441379
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -1457,6 +1459,11 @@
     "port": 9014
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 6 | DILDOKINGKONG LEBT |QS| OINK",
+    "addr": "5.9.150.142",
+    "port": 8530
+  },
+  {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
     "port": 8530
@@ -1519,7 +1526,8 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730441379
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1734,6 +1742,11 @@
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
     "port": 8530
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
+    "addr": "78.46.59.147",
+    "port": 9075
   },
   {
     "name": "HLL Server",
