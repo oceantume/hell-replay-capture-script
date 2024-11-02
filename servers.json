@@ -311,7 +311,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730570858
   },
   {
     "name": "HLL Official - Australia #02",
@@ -319,7 +320,7 @@
     "port": 28200
   },
   {
-    "name": "[GER] STAHLGEWITTER | NEW PLAYER FRIENDLY | SL LVL 50+ | discor",
+    "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
     "addr": "176.57.140.146",
     "port": 28000
   },
@@ -351,8 +352,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1730527721
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -908,7 +908,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730570858
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1490,7 +1491,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1542,7 +1543,8 @@
   {
     "name": "TH Hell Let Loose Thailand Community",
     "addr": "51.79.163.108",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730570858
   },
   {
     "name": "[250H] Hell Let Loose",
@@ -1795,8 +1797,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1730484531
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
