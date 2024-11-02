@@ -935,7 +935,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730508935
   },
   {
     "name": "Hell let loose (US West) Testing Server (Private)",
