@@ -227,7 +227,7 @@
     "port": 7857
   },
   {
-    "name": "CN01#HK 东方幻想乡（纯冲突）KFC外卖热线：2455783",
+    "name": "CN#HK 东方幻想乡（纯冲突）KFC外卖热线：245578354",
     "addr": "156.146.44.225",
     "port": 7867
   },
@@ -243,7 +243,7 @@
     "removed": 1730398125
   },
   {
-    "name": "2nd Armored | EVENT/TRAINING | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -270,7 +270,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730614144
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -361,7 +362,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730614144
   },
   {
     "name": "QA Testing - EU #08",
@@ -382,7 +384,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730614144
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -734,8 +737,7 @@
   {
     "name": "<COBRAS FUMANTES> MARRAM #2 EVENTS & TRAINING",
     "addr": "181.214.221.212",
-    "port": 7787,
-    "removed": 1730527721
+    "port": 7787
   },
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
@@ -796,8 +798,7 @@
   {
     "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1730595646
+    "port": 8530
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -1353,12 +1354,6 @@
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
     "port": 7777
-  },
-  {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
-    "addr": "208.115.248.106",
-    "port": 7777,
-    "removed": 1730009313
   },
   {
     "name": "SLB #1a",
