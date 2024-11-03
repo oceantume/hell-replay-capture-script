@@ -659,7 +659,8 @@
   {
     "name": "SLB #1b",
     "addr": "176.57.181.144",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730659566
   },
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
@@ -975,7 +976,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1730659566
   },
   {
     "name": "per aspera ad astra",
