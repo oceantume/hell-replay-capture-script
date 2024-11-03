@@ -305,8 +305,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1730570858
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -923,7 +922,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730657313
   },
   {
     "name": "HLL Official - US West #02",
@@ -1274,7 +1274,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "Ballroom Blitz - Arena 3",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1354,7 +1354,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1a",
+    "name": "Ballroom Blitz - Arena 1",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1749,7 +1749,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730657313
   },
   {
     "name": "HLL Official - Asia #03",
