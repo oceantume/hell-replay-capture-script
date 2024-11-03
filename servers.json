@@ -657,10 +657,9 @@
     "port": 28000
   },
   {
-    "name": "SLB #1b",
+    "name": "Ballroom Blitz - Arena 2",
     "addr": "176.57.181.144",
-    "port": 28100,
-    "removed": 1730659566
+    "port": 28100
   },
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
@@ -976,8 +975,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877,
-    "removed": 1730659566
+    "port": 7877
   },
   {
     "name": "per aspera ad astra",
