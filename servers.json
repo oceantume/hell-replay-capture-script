@@ -1366,8 +1366,7 @@
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777,
-    "removed": 1730743710
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -1610,8 +1609,7 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530,
-    "removed": 1730743710
+    "port": 8530
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -2008,6 +2006,11 @@
     "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.240.201.157",
+    "port": 7777
   },
   {
     "name": "HLL Server",
