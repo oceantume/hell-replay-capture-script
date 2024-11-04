@@ -271,8 +271,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730700612
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -494,7 +493,8 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730722326
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1398,7 +1398,8 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "216.219.93.37",
-    "port": 7827
+    "port": 7827,
+    "removed": 1730722326
   },
   {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
@@ -1496,10 +1497,9 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
-    "port": 8530,
-    "removed": 1730680260
+    "port": 8530
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -1829,7 +1829,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730722326
   },
   {
     "name": "HLL Official - US East #02",
@@ -1946,8 +1947,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1730484531
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
