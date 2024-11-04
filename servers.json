@@ -98,7 +98,8 @@
   {
     "name": "ECL Community Server Hosted by GTXGaming.co.uk",
     "addr": "141.95.72.27",
-    "port": 9075
+    "port": 9075,
+    "removed": 1730700612
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -270,7 +271,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730700612
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -345,14 +347,12 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1730680260
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
     "addr": "176.57.140.83",
-    "port": 28000,
-    "removed": 1730660766
+    "port": 28000
   },
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
@@ -362,8 +362,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1730614144
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #08",
@@ -546,7 +545,8 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730700612
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
@@ -647,7 +647,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730700612
   },
   {
     "name": "QA Testing - EU #05",
@@ -819,7 +820,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730700612
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1537,7 +1539,8 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730700612
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
