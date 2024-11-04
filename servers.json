@@ -243,7 +243,7 @@
     "removed": 1730398125
   },
   {
-    "name": "2nd Armored | WARFARE | discord.gg/2ad",
+    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
   },
@@ -345,7 +345,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1730680260
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -921,6 +922,11 @@
     "port": 28200
   },
   {
+    "name": "Bulgarian",
+    "addr": "193.192.58.52",
+    "port": 28400
+  },
+  {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
     "port": 28000,
@@ -1057,7 +1063,8 @@
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
     "addr": "199.127.60.169",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730680260
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -1370,6 +1377,11 @@
     "port": 7777
   },
   {
+    "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
+    "addr": "209.192.185.58",
+    "port": 7797
+  },
+  {
     "name": "SLK - US West",
     "addr": "216.219.90.146",
     "port": 7777
@@ -1482,7 +1494,8 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1730680260
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
@@ -1641,7 +1654,7 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
+    "name": "APL DIvision 4 Championship :: MIAMI :: Powered by Qonzer.com :",
     "addr": "64.31.40.203",
     "port": 7777
   },
@@ -1719,6 +1732,11 @@
   {
     "name": "(IC) Offensive Heaven | US Central | discord.gg/icoh",
     "addr": "69.162.89.148",
+    "port": 7777
+  },
+  {
+    "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
+    "addr": "74.63.231.2",
     "port": 7777
   },
   {
@@ -1952,7 +1970,7 @@
     "port": 7777
   },
   {
-    "name": "Diddy Party",
+    "name": "Nuts out for Peanut the Squirrel",
     "addr": "92.118.18.120",
     "port": 7787
   },
