@@ -351,8 +351,7 @@
   {
     "name": "StDb-Event",
     "addr": "176.57.140.181",
-    "port": 30200,
-    "removed": 1730743710
+    "port": 30200
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -1350,7 +1349,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: NEW YORK :: Powered by Qonzer.com ::",
+    "name": "APL Battlegrounds :: NEW YORK :: Powered by Qonzer.com :: disco",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -1708,7 +1707,7 @@
     "port": 7787
   },
   {
-    "name": "APL DIvision 4 Championship :: MIAMI :: Powered by Qonzer.com :",
+    "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
     "addr": "64.31.40.203",
     "port": 7777
   },
@@ -1781,6 +1780,11 @@
   {
     "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
+    "port": 7777
+  },
+  {
+    "name": "[Merc] US Central #3 All players welcome! Discord.gg/m3rc",
+    "addr": "69.162.89.147",
     "port": 7777
   },
   {
@@ -1945,6 +1949,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.129",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose (US East) Server The Boys All Welcome",
+    "addr": "83.223.204.129",
+    "port": 28200
   },
   {
     "name": "Boneyard",
