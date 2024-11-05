@@ -294,12 +294,12 @@
     "port": 9075
   },
   {
-    "name": "QA Testing - EU #01",
+    "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
     "port": 28100
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
     "port": 28100
   },
@@ -322,7 +322,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730830114
   },
   {
     "name": "HLL Official - Australia #02",
@@ -347,7 +348,8 @@
   {
     "name": "Toothache Boost",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730830114
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -712,7 +714,7 @@
     "port": 28000
   },
   {
-    "name": "Ballroom Blitz - Arena 2",
+    "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -754,8 +756,7 @@
   {
     "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
     "addr": "177.54.151.123",
-    "port": 8898,
-    "removed": 1730811721
+    "port": 8898
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -780,8 +781,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1730810877
+    "port": 8772
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -955,8 +955,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1730570858
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -992,8 +991,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1730657313
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1350,7 +1348,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena 3",
+    "name": "SLB #2",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1435,7 +1433,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena 1",
+    "name": "SLB #1*",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1508,8 +1506,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1730811721
+    "port": 28200
   },
   {
     "name": "GREYHOUNDS - Event #1 | German | discord.gg/greyhounds",
@@ -1564,7 +1561,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730830114
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
@@ -1848,8 +1846,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1730657313
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1859,7 +1856,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730830114
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1869,7 +1867,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730830114
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1879,8 +1878,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1730743710
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1928,12 +1926,12 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - US East #06",
+    "name": "DevQA - US #03",
     "addr": "83.223.203.130",
     "port": 28100
   },
   {
-    "name": "DevQA - US #03",
+    "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
     "port": 28100
   },
@@ -1956,7 +1954,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730830114
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -1979,7 +1978,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US East) Server The Boys All Welcome",
+    "name": "HLL| Xephros#3 All Players Welcome | All Maps 24/7",
     "addr": "83.223.204.129",
     "port": 28200
   },
@@ -2041,7 +2040,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
