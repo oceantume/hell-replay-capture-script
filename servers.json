@@ -299,6 +299,11 @@
     "port": 28100
   },
   {
+    "name": "DevQA - EU #01",
+    "addr": "176.57.134.56",
+    "port": 28100
+  },
+  {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
     "port": 28200
@@ -306,7 +311,8 @@
   {
     "name": "DevQA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1730808691
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -455,14 +461,25 @@
     "port": 28100
   },
   {
+    "name": "DevQA - EU #02",
+    "addr": "176.57.168.189",
+    "port": 28100
+  },
+  {
     "name": "DevQA Testing - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1730808691
   },
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
     "port": 28000
+  },
+  {
+    "name": "DevQA - EU #04",
+    "addr": "176.57.168.194",
+    "port": 28100
   },
   {
     "name": "QA Testing - EU #02",
@@ -472,12 +489,14 @@
   {
     "name": "DevQA Testing - EU #04",
     "addr": "176.57.168.194",
-    "port": 28300
+    "port": 28300,
+    "removed": 1730808691
   },
   {
     "name": "PARABELLUM HUNGARY | HUN/ENG",
     "addr": "176.57.168.252",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730808691
   },
   {
     "name": "[DD] Devil Dogs | EU #1 ",
@@ -760,7 +779,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1730808691
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -1911,9 +1931,15 @@
     "port": 28100
   },
   {
+    "name": "DevQA - US #03",
+    "addr": "83.223.203.130",
+    "port": 28100
+  },
+  {
     "name": "DevQA Testing - US #03",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730808691
   },
   {
     "name": "HLL Official - US East #01",
