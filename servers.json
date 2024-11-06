@@ -806,12 +806,6 @@
     "port": 7807
   },
   {
-    "name": "H9H Hispaniarum Hell - Spanish/Español",
-    "addr": "188.165.39.157",
-    "port": 7777,
-    "removed": 1730311734
-  },
-  {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
     "addr": "191.101.166.120",
     "port": 9075
@@ -1002,12 +996,6 @@
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (US West) Testing Server (Private)",
-    "addr": "193.192.59.170",
-    "port": 28000,
-    "removed": 1730311734
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1505,7 +1493,7 @@
     "port": 9075
   },
   {
-    "name": "Hell Let Loose Server-new players welcome",
+    "name": "Ross-hell let loose",
     "addr": "45.137.244.9",
     "port": 28000
   },
