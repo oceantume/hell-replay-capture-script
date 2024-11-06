@@ -57,8 +57,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1730873371
+    "port": 9224
   },
   {
     "name": "Climber United G.C. Event DE",
@@ -277,8 +276,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730874306
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -391,7 +389,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730895082
   },
   {
     "name": "-=Scandinavians Let Loose=- #1  SLL- Offensive ONLY - VIP for S",
@@ -484,7 +483,8 @@
   {
     "name": "DevQA - EU #04",
     "addr": "176.57.168.194",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730895082
   },
   {
     "name": "QA Testing - EU #02",
@@ -1132,7 +1132,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1730895082
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
@@ -1559,8 +1560,7 @@
   {
     "name": "ANZAC Legion of the Damned",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1730852931
+    "port": 9075
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1921,7 +1921,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730895082
   },
   {
     "name": "HLL Official - US East #04",
@@ -1941,7 +1942,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730895082
   },
   {
     "name": "DevQA - US #03",
@@ -2067,6 +2069,11 @@
     "addr": "89.240.201.157",
     "port": 7777,
     "removed": 1730746019
+  },
+  {
+    "name": "HLL Dev QA JOHN ",
+    "addr": "89.32.89.73",
+    "port": 28100
   },
   {
     "name": "HLL Server",
