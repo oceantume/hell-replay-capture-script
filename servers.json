@@ -57,7 +57,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1730873371
   },
   {
     "name": "Climber United G.C. Event DE",
@@ -876,8 +877,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620,
-    "removed": 1730700612
+    "port": 9620
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
