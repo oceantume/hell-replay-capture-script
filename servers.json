@@ -316,8 +316,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1730830114
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -383,8 +382,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1730895082
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- #1  SLL- Offensive ONLY - VIP for S",
@@ -454,14 +452,14 @@
     "port": 28000
   },
   {
-    "name": "DevQA - EU #02",
+    "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
     "port": 28100
   },
   {
-    "name": "QA Testing - EU #04",
+    "name": "HLL Dev Team JOHN",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28200
   },
   {
     "name": "DevQA Testing - EU #02",
@@ -483,7 +481,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730916517
   },
   {
     "name": "DevQA Testing - EU #04",
@@ -537,6 +536,11 @@
     "addr": "176.57.168.69",
     "port": 28000,
     "removed": 1730743710
+  },
+  {
+    "name": "Test-Server 2",
+    "addr": "176.57.168.69",
+    "port": 28100
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
@@ -1501,6 +1505,11 @@
     "port": 9075
   },
   {
+    "name": "Hell Let Loose Server-new players welcome",
+    "addr": "45.137.244.9",
+    "port": 28000
+  },
+  {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200,
@@ -1562,7 +1571,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1592,7 +1601,7 @@
     "port": 9075
   },
   {
-    "name": "Bob the builder 2",
+    "name": "Lunar base",
     "addr": "51.75.58.123",
     "port": 7777
   },
@@ -1830,7 +1839,7 @@
     "port": 7777
   },
   {
-    "name": "BWCC \u0002 Events Server",
+    "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
     "port": 8530
   },
@@ -1848,7 +1857,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1730916517
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1863,8 +1873,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1730830114
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1880,7 +1889,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730916517
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1963,8 +1973,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1730830114
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -2062,7 +2071,8 @@
   {
     "name": "HLL Dev QA JOHN ",
     "addr": "89.32.89.73",
-    "port": 28100
+    "port": 28100,
+    "removed": 1730916517
   },
   {
     "name": "HLL Server",
