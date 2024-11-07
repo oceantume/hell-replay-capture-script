@@ -1693,7 +1693,8 @@
   {
     "name": "We Are Bobs (EVENT) ACHIEVEMENT HUNT discord.gg/7FC79CevyF",
     "addr": "63.143.62.102",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730940943
   },
   {
     "name": "[Merc]iless Event Server",
@@ -1784,12 +1785,6 @@
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
     "port": 8888
-  },
-  {
-    "name": "RFTA Battle grounds",
-    "addr": "66.235.172.240",
-    "port": 8530,
-    "removed": 1730334594
   },
   {
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
@@ -2023,12 +2018,6 @@
     "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
     "addr": "83.223.207.46",
     "port": 28100
-  },
-  {
-    "name": "Snarky's (US Mid) Snarky",
-    "addr": "83.223.207.50",
-    "port": 28000,
-    "removed": 1730334594
   },
   {
     "name": "Test",
