@@ -67,7 +67,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG |",
     "addr": "136.243.79.58",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731002902
   },
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
@@ -310,7 +311,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731002902
   },
   {
     "name": "HLL Official - Australia #02",
@@ -337,6 +339,11 @@
     "addr": "176.57.140.16",
     "port": 28200,
     "removed": 1730830114
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.140.16",
+    "port": 28400
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -699,6 +706,11 @@
     "port": 28200
   },
   {
+    "name": "{serverName}",
+    "addr": "176.57.178.15",
+    "port": 28000
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000,
@@ -934,20 +946,17 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1730981462
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1730981462
+    "port": 7777
   },
   {
     "name": "TD ♦ Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777,
-    "removed": 1730981462
+    "port": 7777
   },
   {
     "name": "HLL Official - US West #03",
@@ -1068,7 +1077,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] 4 Fäuste gegen Blaubeeren [LVL25+ | GHOST]",
+    "name": "[GER] 4 Fäuste gegen Blaubeeren  [GHOST]",
     "addr": "195.181.175.182",
     "port": 7777
   },
@@ -1473,8 +1482,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1730981462
+    "port": 8772
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1507,7 +1515,7 @@
     "port": 28200
   },
   {
-    "name": "GREYHOUNDS - Event #1 | German | discord.gg/greyhounds",
+    "name": "Greyhound Night - Blue",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1562,7 +1570,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1604,8 +1612,7 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1730700612
+    "port": 8530
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1839,6 +1846,11 @@
     "port": 9075
   },
   {
+    "name": "[MSB] Formation Skithög | SWE/ENG |",
+    "addr": "79.141.174.116",
+    "port": 8530
+  },
+  {
     "name": "HLL Server",
     "addr": "82.44.44.215",
     "port": 7777,
@@ -1847,13 +1859,13 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1730916517
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731002902
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1879,8 +1891,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1730916517
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2029,7 +2040,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
   },
