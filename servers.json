@@ -270,8 +270,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1730959757
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -294,20 +293,14 @@
     "port": 28100
   },
   {
-    "name": "DevQA - EU #01",
-    "addr": "176.57.134.56",
-    "port": 28100
-  },
-  {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
     "port": 28200
   },
   {
-    "name": "DevQA Testing - EU #01",
+    "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1730808691
+    "port": 28300
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -460,13 +453,13 @@
   {
     "name": "HLL Dev Team JOHN",
     "addr": "176.57.168.189",
-    "port": 28200
+    "port": 28200,
+    "removed": 1730981462
   },
   {
-    "name": "DevQA Testing - EU #02",
+    "name": "HLL Dev Team JOHN",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1730808691
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -809,7 +802,8 @@
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
-    "port": 7807
+    "port": 7807,
+    "removed": 1730981462
   },
   {
     "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
@@ -940,17 +934,20 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730981462
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730981462
   },
   {
     "name": "TD ♦ Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730981462
   },
   {
     "name": "HLL Official - US West #03",
@@ -1287,7 +1284,7 @@
     "port": 9078
   },
   {
-    "name": "CN2#JP 轻尝一口甜蜜攻防喵喵咖啡厅|702502503”",
+    "name": "C.N2#JP 轻尝一口甜蜜攻防喵喵咖啡厅|702502503”",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1476,7 +1473,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1730981462
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1913,8 +1911,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1730895082
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -1934,13 +1931,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1730895082
-  },
-  {
-    "name": "DevQA - US #03",
-    "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
