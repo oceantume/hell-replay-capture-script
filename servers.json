@@ -288,12 +288,12 @@
     "port": 9075
   },
   {
-    "name": "QA Testing - EU #01",
+    "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
     "port": 28100
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
     "port": 28100
   },
@@ -606,8 +606,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1730852931
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -648,6 +647,11 @@
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
     "port": 28200
+  },
+  {
+    "name": "PARABELLUM EVENT SERVER",
+    "addr": "176.57.171.7",
+    "port": 28300
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -942,7 +946,7 @@
     "port": 7777
   },
   {
-    "name": "TD ♦ Tank Destroyers | STEEL FURY | EU/ENG",
+    "name": "TD ♦ Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
     "port": 7777
   },
@@ -1277,12 +1281,12 @@
     "removed": 1730421179
   },
   {
-    "name": "CN1#JP 轻尝一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP 轻尝一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP 轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP 轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1314,7 +1318,8 @@
   {
     "name": "Bob The Builder OFFICIAL (EUR) XP Farm Fast Loadouts 1M+ XP/H",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1730939336
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1559,7 +1564,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1671,7 +1676,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com :: di",
+    "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
     "addr": "63.143.60.18",
     "port": 7787
   },
@@ -1683,6 +1688,11 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
+    "port": 7777
+  },
+  {
+    "name": "We Are Bobs (EVENT) ACHIEVEMENT HUNT discord.gg/7FC79CevyF",
+    "addr": "63.143.62.102",
     "port": 7777
   },
   {
@@ -2157,6 +2167,11 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
+  },
+  {
+    "name": "Hell let loose (Brazil) Server by g-portal.com",
+    "addr": "92.38.151.76",
+    "port": 28300
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
