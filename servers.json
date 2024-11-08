@@ -347,7 +347,8 @@
   {
     "name": "StDb-Event",
     "addr": "176.57.140.181",
-    "port": 30200
+    "port": 30200,
+    "removed": 1731046160
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -414,7 +415,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731046160
   },
   {
     "name": "QA Testing - EU #03",
@@ -701,8 +703,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1730959757
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
