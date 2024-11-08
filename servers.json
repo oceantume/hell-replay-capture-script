@@ -135,7 +135,8 @@
   {
     "name": "Desert Ratz Match Server",
     "addr": "145.239.5.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731068917
   },
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
@@ -343,7 +344,8 @@
   {
     "name": "John is a rat bastard",
     "addr": "176.57.140.16",
-    "port": 28400
+    "port": 28400,
+    "removed": 1731068917
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -1006,8 +1008,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1731067889
+    "port": 28200
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
