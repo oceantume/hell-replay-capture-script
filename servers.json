@@ -287,7 +287,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731089334
   },
   {
     "name": "HLL Dev Team",
@@ -307,8 +308,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1731002902
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -384,18 +384,13 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731089334
   },
   {
     "name": "-=Scandinavians Let Loose=- #1  SLL- Offensive ONLY - VIP for S",
     "addr": "176.57.153.114",
     "port": 28000
-  },
-  {
-    "name": "[FR] [PNSR] Punisher One #1 | FRENCH ONLY | discord.gg/pnsr",
-    "addr": "176.57.153.41",
-    "port": 28000,
-    "removed": 1730484531
   },
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
@@ -427,7 +422,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731089334
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -641,9 +637,15 @@
     "port": 28600
   },
   {
+    "name": "[ GER ]PennerBrigade/NewPlayerFriendly/NightMapsOnly ",
+    "addr": "176.57.171.44",
+    "port": 28800
+  },
+  {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731089334
   },
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
@@ -713,7 +715,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731089334
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -753,8 +756,7 @@
   {
     "name": "MIB - Made In Brasil - Junte-se à Insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1731067889
+    "port": 7827
   },
   {
     "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMIENTO |1#",
@@ -1007,7 +1009,13 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731089334
+  },
+  {
+    "name": "[ESP-EN] Hell Let Loose Server",
+    "addr": "193.192.59.170",
+    "port": 28000
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
@@ -1144,12 +1152,6 @@
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
     "addr": "203.10.98.103",
     "port": 8888
-  },
-  {
-    "name": "CN<JWH>萌新咖啡营冲突|JP|Q682534524",
-    "addr": "203.10.98.5",
-    "port": 8888,
-    "removed": 1730484531
   },
   {
     "name": "CN81 Event Server HK",
@@ -1392,8 +1394,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1731070930
+    "port": 28200
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1462,7 +1463,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1756,8 +1757,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1731002902
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1777,8 +1777,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1730830114
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1949,7 +1948,7 @@
     "removed": 1730916517
   },
   {
-    "name": "Hookway's Server",
+    "name": "HLL Server",
     "addr": "89.32.89.73",
     "port": 7777
   },
