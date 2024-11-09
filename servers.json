@@ -301,12 +301,14 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731175644
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731175644
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1455,7 +1457,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1769,7 +1771,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731175644
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1969,6 +1972,11 @@
     "name": "  [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
+  },
+  {
+    "name": "Excel Spreadsheets",
+    "addr": "92.118.18.100",
+    "port": 7827
   },
   {
     "name": "Nuts out for Peanut the Squirrel",
