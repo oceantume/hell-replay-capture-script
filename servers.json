@@ -261,8 +261,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1731067889
+    "port": 9075
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -637,14 +636,15 @@
     "port": 28600
   },
   {
-    "name": "[ GER ]PennerBrigade/NewPlayerFriendly/NightMapsOnly ",
+    "name": "[GER]PennerBrigade#1/NewPlayerFriendly/NightMapsOnly ",
     "addr": "176.57.171.44",
     "port": 28800
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731112100
   },
   {
     "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
@@ -858,7 +858,7 @@
     "port": 9075
   },
   {
-    "name": "3rd Amphibious Corps EVENT - US EAST Miami - discord.gg/3AC",
+    "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
   },
@@ -1163,7 +1163,7 @@
     "port": 8998
   },
   {
-    "name": "C·N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1244,7 +1244,7 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon 3 |New Players Welcome| Discord.gg/dhz",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.212.74",
     "port": 7777
   },
@@ -1462,7 +1462,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
