@@ -57,7 +57,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1731218904
   },
   {
     "name": "Climber United G.C. Event DE",
@@ -703,7 +704,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731218904
   },
   {
     "name": "QA Testing - EU #05",
@@ -1158,7 +1160,7 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1903,6 +1905,11 @@
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (US Mid)  The Perq Squad",
+    "addr": "83.223.207.55",
+    "port": 28600
   },
   {
     "name": "hll Server",
