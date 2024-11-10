@@ -301,14 +301,12 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1731175644
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1731175644
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1040,7 +1038,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1731262052
   },
   {
     "name": "per aspera ad astra",
@@ -1571,7 +1570,8 @@
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
     "addr": "63.143.60.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1731262052
   },
   {
     "name": "Bob The Builder | XP Farm Fast Loadouts discord.gg/7FC79CevyF",
@@ -1751,7 +1751,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731262052
   },
   {
     "name": "HLL Official - Asia #01",
