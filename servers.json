@@ -974,7 +974,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (US West) Server by g-portal.com",
+    "name": "g-portal.com is dogshit",
     "addr": "193.192.58.52",
     "port": 28100
   },
@@ -1157,7 +1157,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1194,6 +1194,11 @@
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
+    "port": 7777
+  },
+  {
+    "name": "[LCM] La Compañia Maldita",
+    "addr": "208.115.196.19",
     "port": 7777
   },
   {
@@ -1457,7 +1462,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -2040,7 +2045,8 @@
   {
     "name": "Hell let loose (Brazil) Server by g-portal.com",
     "addr": "92.38.151.76",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731198695
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
