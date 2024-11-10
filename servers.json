@@ -692,7 +692,8 @@
   {
     "name": "{serverName}",
     "addr": "176.57.178.15",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731244231
   },
   {
     "name": "HLL Official - UK #02",
@@ -1388,8 +1389,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1731157849
+    "port": 28200
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
