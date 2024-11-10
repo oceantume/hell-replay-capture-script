@@ -965,7 +965,8 @@
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731262916
   },
   {
     "name": "g-portal.com is dogshit",
@@ -1038,8 +1039,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877,
-    "removed": 1731262052
+    "port": 7877
   },
   {
     "name": "per aspera ad astra",
@@ -1457,7 +1457,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
