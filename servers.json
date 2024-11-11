@@ -658,6 +658,11 @@
     "port": 28100
   },
   {
+    "name": "90208209838007327",
+    "addr": "176.57.174.129",
+    "port": 28200
+  },
+  {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
     "port": 28000
@@ -680,7 +685,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731305388
   },
   {
     "name": "QA Testing - UK #07",
@@ -696,8 +702,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1731218904
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -979,12 +984,6 @@
     "port": 28200
   },
   {
-    "name": "Bulgarian",
-    "addr": "193.192.58.52",
-    "port": 28400,
-    "removed": 1730684290
-  },
-  {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
     "port": 28000
@@ -1146,7 +1145,7 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1867,7 +1866,8 @@
   {
     "name": "HLL| Xephros#3 All Players Welcome | All Maps 24/7",
     "addr": "83.223.204.129",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731305388
   },
   {
     "name": "Boneyard",
