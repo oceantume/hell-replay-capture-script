@@ -1329,12 +1329,6 @@
     "removed": 1731067889
   },
   {
-    "name": "Excel Spreadsheets",
-    "addr": "216.219.93.37",
-    "port": 7827,
-    "removed": 1730722326
-  },
-  {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
     "port": 7777
@@ -1729,6 +1723,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "83.105.226.37",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
     "port": 28000
@@ -1936,8 +1935,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1731091009
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
