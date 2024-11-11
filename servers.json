@@ -1111,12 +1111,6 @@
     "port": 9620
   },
   {
-    "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
-    "addr": "199.127.60.169",
-    "port": 7777,
-    "removed": 1730680260
-  },
-  {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
     "addr": "202.165.70.15",
     "port": 8888
@@ -1558,7 +1552,8 @@
   {
     "name": "HLL Server",
     "addr": "57.128.189.58",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731286656
   },
   {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
