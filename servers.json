@@ -254,8 +254,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1731393522
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -411,8 +410,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1731395398
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -443,8 +441,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1731395398
+    "port": 28100
   },
   {
     "name": "HLL Dev Team JOHN",
@@ -453,7 +450,7 @@
     "removed": 1730981462
   },
   {
-    "name": "HLL Dev Team JOHN",
+    "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
     "port": 28300
   },
@@ -777,7 +774,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731413486
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1142,12 +1140,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1802,7 +1800,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731413486
   },
   {
     "name": "HLL Official - US East #04",
