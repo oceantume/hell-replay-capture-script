@@ -315,8 +315,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1731391764
+    "port": 28000
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -663,8 +662,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1731391764
+    "port": 28300
   },
   {
     "name": "HLL Official - UK #01",
@@ -1353,7 +1351,8 @@
   {
     "name": "Ross-hell let loose",
     "addr": "45.137.244.9",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731436619
   },
   {
     "name": "HLL Official - Japan #01",
@@ -1427,7 +1426,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1752,7 +1751,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731436619
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1926,7 +1926,8 @@
   {
     "name": "Laurie's Local Server for Local People",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1731436619
   },
   {
     "name": "HLL Official - South America #02",
