@@ -411,7 +411,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731395398
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -442,7 +443,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731395398
   },
   {
     "name": "HLL Dev Team JOHN",
@@ -511,7 +513,8 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731395398
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
