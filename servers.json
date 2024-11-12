@@ -1200,7 +1200,8 @@
   {
     "name": "SLB #*",
     "addr": "208.115.206.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1731437751
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
