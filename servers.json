@@ -299,8 +299,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1731348498
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -504,8 +503,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1731395398
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -741,6 +739,11 @@
     "port": 7827
   },
   {
+    "name": "HLL Sur America #04 | Haguemos Magic [· Chile ·]",
+    "addr": "177.54.147.141",
+    "port": 7847
+  },
+  {
     "name": "[7°DL] SEPTIMO DE LINEA | ENTRENAMIENTO |1#",
     "addr": "177.54.147.141",
     "port": 7867
@@ -942,8 +945,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1731348498
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -974,8 +976,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1731348498
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1021,8 +1022,7 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1731416634
+    "port": 31300
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1206,7 +1206,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "SLB #*",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1291,7 +1291,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1a",
+    "name": "SLB #1b",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1364,8 +1364,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1731416634
+    "port": 28200
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1732,24 +1731,24 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1731348498
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731434907
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1731262052
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731434907
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1759,8 +1758,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1731175644
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1932,10 +1930,9 @@
     "removed": 1730916517
   },
   {
-    "name": "HLL Server",
+    "name": "Laurie's Local Server for Local People",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1731350186
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
@@ -1989,7 +1986,7 @@
     "port": 7777
   },
   {
-    "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
+    "name": "The Draft [HAUS] NEW PLAYERS WELCOME discord.gg/drafthaus",
     "addr": "92.118.18.72",
     "port": 7797
   },
