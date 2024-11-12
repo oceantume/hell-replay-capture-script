@@ -316,7 +316,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731391764
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -342,7 +343,8 @@
   {
     "name": "StDb-Event",
     "addr": "176.57.140.181",
-    "port": 30200
+    "port": 30200,
+    "removed": 1731391764
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -428,7 +430,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731391764
   },
   {
     "name": "HLL Official - Europe #06",
@@ -673,13 +676,13 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731391764
   },
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1731305388
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -845,12 +848,14 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731391764
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772
+    "port": 8772,
+    "removed": 1731391764
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1133,12 +1138,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
