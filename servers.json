@@ -254,7 +254,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1731478159
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -335,8 +336,7 @@
   {
     "name": "StDb-Event",
     "addr": "176.57.140.181",
-    "port": 30200,
-    "removed": 1731391764
+    "port": 30200
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -376,7 +376,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731478159
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -416,8 +417,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1731391764
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -787,7 +787,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "South America Event - Domingos 21hs - [D.C.] - CL]",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -1130,12 +1130,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1892,7 +1892,8 @@
   {
     "name": "Hell let loose (US Mid)  The Perq Squad",
     "addr": "83.223.207.55",
-    "port": 28600
+    "port": 28600,
+    "removed": 1731478159
   },
   {
     "name": "hll Server",
