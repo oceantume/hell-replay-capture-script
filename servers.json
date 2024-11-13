@@ -299,7 +299,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731521310
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -660,6 +661,11 @@
     "port": 28300
   },
   {
+    "name": "Fully Loaded",
+    "addr": "176.57.178.127",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -786,7 +792,7 @@
     "port": 7807
   },
   {
-    "name": "South America Event - Domingos 21hs - [D.C.] - CL]",
+    "name": "South America Event - Domingos 21hs - [D.C.] - [C.L.]",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -848,8 +854,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1731502996
+    "port": 9014
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1017,8 +1022,7 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1731502996
+    "port": 31300
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1361,8 +1365,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1731502996
+    "port": 28200
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1734,8 +1737,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1731434907
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1745,8 +1747,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1731434907
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1931,7 +1932,8 @@
   {
     "name": "Laurie's Local Server for Local People",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1731521310
   },
   {
     "name": "HLL Official - South America #02",
