@@ -642,8 +642,7 @@
   {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
-    "port": 28000,
-    "removed": 1731459343
+    "port": 28000
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & All Maps",
@@ -1180,12 +1179,6 @@
     "port": 7777
   },
   {
-    "name": "Bob The Builder OFFICIAL (EUR) XP Farm Fast Loadouts 1M+ XP/H",
-    "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1730939336
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
     "port": 7777
@@ -1434,7 +1427,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1849,6 +1842,11 @@
   {
     "name": "TOOG Armor Battles",
     "addr": "83.223.203.182",
+    "port": 28200
+  },
+  {
+    "name": "Hot Dog 7.5 | Not the Outpost",
+    "addr": "83.223.203.51",
     "port": 28200
   },
   {
