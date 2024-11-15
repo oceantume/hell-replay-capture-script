@@ -37,14 +37,12 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1731654223
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1731564574
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -85,8 +83,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1731654223
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -230,7 +227,7 @@
     "port": 7887
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530
   },
@@ -262,8 +259,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1731651003
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -308,7 +304,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731672703
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -377,7 +374,7 @@
     "port": 28100
   },
   {
-    "name": "-=Scandinavians Let Loose=- #1  SLL- Offensive ONLY - VIP for S",
+    "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
     "addr": "176.57.153.114",
     "port": 28000
   },
@@ -444,7 +441,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731672703
   },
   {
     "name": "QA Testing - EU #02",
@@ -474,14 +472,12 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1731654223
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1731651003
+    "port": 28000
   },
   {
     "name": "KRTs Camelot ",
@@ -493,6 +489,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
     "port": 28300
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.168.69",
+    "port": 28000
   },
   {
     "name": "Test-Server 2",
@@ -533,7 +534,13 @@
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28000
+  },
+  {
+    "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
+    "addr": "176.57.171.140",
+    "port": 28200,
+    "removed": 1731672703
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | DORFCLUB  |QS| OINK",
@@ -559,8 +566,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1731651003
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -653,8 +659,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1731654223
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -664,7 +669,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731672703
   },
   {
     "name": "Fully Loaded",
@@ -674,8 +680,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1731651003
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1033,8 +1038,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1731654223
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1314,12 +1318,6 @@
     "removed": 1731634745
   },
   {
-    "name": "(VTLS) Vtubers Let Loose - West Coast / AU / SEA",
-    "addr": "216.219.90.86",
-    "port": 7807,
-    "removed": 1731067889
-  },
-  {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
     "port": 7777
@@ -1363,7 +1361,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731672703
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1506,8 +1505,7 @@
   {
     "name": "Rick's Café, Casablanca - Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1731654223
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1540,12 +1538,6 @@
     "addr": "57.128.189.58",
     "port": 8530,
     "removed": 1731286656
-  },
-  {
-    "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
-    "addr": "63.143.60.18",
-    "port": 7777,
-    "removed": 1731067889
   },
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
@@ -1722,8 +1714,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG |",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1731654223
+    "port": 8530
   },
   {
     "name": "HLL Server",
@@ -1775,7 +1766,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731672703
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1820,13 +1812,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731672703
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1731586300
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -1841,7 +1833,8 @@
   {
     "name": "EASY Company | Server #1 |GPORTAL| DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731672703
   },
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
