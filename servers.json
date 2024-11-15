@@ -861,7 +861,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1731675910
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1023,7 +1024,8 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300
+    "port": 31300,
+    "removed": 1731675910
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1356,20 +1358,13 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1731672703
+    "port": 28200
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
     "addr": "45.45.238.223",
     "port": 8530,
     "removed": 1731587349
-  },
-  {
-    "name": "101st Airborne | New Player Friendly | New Server!",
-    "addr": "45.45.238.238",
-    "port": 8530,
-    "removed": 1731070930
   },
   {
     "name": "Greyhound Event",
@@ -1574,8 +1569,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1731675011
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
