@@ -57,8 +57,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1731651003
+    "port": 9224
   },
   {
     "name": "Climber United G.C. Event DE",
@@ -216,7 +215,7 @@
     "port": 7877
   },
   {
-    "name": "[CN]J.U.M.P特战大队训练服",
+    "name": "CN-JUMP特战大队|无HQ规则冲突服HK|",
     "addr": "156.146.44.225",
     "port": 7887
   },
@@ -233,8 +232,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1731675011
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
@@ -299,8 +297,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1731672703
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -445,7 +442,7 @@
     "port": 28200
   },
   {
-    "name": "DevQA - EU #04",
+    "name": "Cert",
     "addr": "176.57.168.194",
     "port": 28300
   },
@@ -477,8 +474,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1731654223
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -579,7 +575,7 @@
     "port": 28100
   },
   {
-    "name": "#1 - Normandy campaign | Operation Overlord",
+    "name": "#1 - www.hellletloose.dk | Operation Overlord",
     "addr": "176.57.171.38",
     "port": 28200
   },
@@ -861,8 +857,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1731675910
+    "port": 9014
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -947,7 +942,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731694136
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -983,7 +979,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731694136
   },
   {
     "name": "QA Testing - US West #06",
@@ -1024,8 +1021,7 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1731675910
+    "port": 31300
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1065,8 +1061,7 @@
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
-    "port": 8530,
-    "removed": 1731651003
+    "port": 8530
   },
   {
     "name": "2nd Armored | EU/UK | discord.gg/2ad",
@@ -1404,7 +1399,8 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731694136
   },
   {
     "name": "ANZAC Legion of the Damned",
@@ -1422,7 +1418,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1736,7 +1732,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731694136
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1756,8 +1753,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1731672703
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
