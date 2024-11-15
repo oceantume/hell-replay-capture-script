@@ -58,7 +58,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1731651003
   },
   {
     "name": "Climber United G.C. Event DE",
@@ -259,7 +260,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1731651003
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -475,7 +477,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731651003
   },
   {
     "name": "KRTs Camelot ",
@@ -552,7 +555,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731651003
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -665,7 +669,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731651003
   },
   {
     "name": "QA Testing - UK #07",
@@ -1053,7 +1058,8 @@
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731651003
   },
   {
     "name": "2nd Armored | EU/UK | discord.gg/2ad",
@@ -1423,12 +1429,14 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731651003
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
-    "port": 9620
+    "port": 9620,
+    "removed": 1731651003
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
@@ -1458,12 +1466,14 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731651003
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731651003
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1678,6 +1688,11 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
+    "port": 7777
+  },
+  {
+    "name": "<COBRAS FUMANTES> MARRAM #3 SPONSORED QONZER.COM",
+    "addr": "69.162.89.149",
     "port": 7777
   },
   {
