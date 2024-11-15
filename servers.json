@@ -227,6 +227,11 @@
     "port": 7887
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "162.220.160.106",
+    "port": 8530
+  },
+  {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
@@ -916,12 +921,6 @@
     "port": 9075
   },
   {
-    "name": "3rd Amphibious Corps - US East - discord.gg/3AC",
-    "addr": "192.169.95.98",
-    "port": 9620,
-    "removed": 1731025727
-  },
-  {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.140",
     "port": 7777
@@ -1091,8 +1090,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1731587349
+    "port": 9620
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -1130,7 +1128,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1220,7 +1218,7 @@
     "port": 7787
   },
   {
-    "name": "Three Ring Circus | NA East | RP Only",
+    "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7777
   },
@@ -1369,7 +1367,7 @@
     "removed": 1731070930
   },
   {
-    "name": "Greyhound Night - Blue",
+    "name": "Greyhound Event",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1406,29 +1404,25 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1731611358
+    "port": 8530
   },
   {
     "name": "ANZAC Legion of the Damned",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1731611358
+    "port": 9075
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
-    "port": 8530,
-    "removed": 1731611358
+    "port": 8530
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1731611358
+    "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1918,7 +1912,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Night - Green ",
+    "name": "Greyhound Prepnix",
     "addr": "85.208.197.70",
     "port": 7817
   },
