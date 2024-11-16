@@ -12,8 +12,7 @@
   {
     "name": "AA US West Noobie Battleground",
     "addr": "104.238.222.122",
-    "port": 7777,
-    "removed": 1731762085
+    "port": 7777
   },
   {
     "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
@@ -26,7 +25,7 @@
     "port": 8530
   },
   {
-    "name": "=7Cav= Tactical Realism | US WEST| Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism US West - Historical Map Rotation",
     "addr": "104.255.170.181",
     "port": 9075
   },
@@ -151,7 +150,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJ* clan se*ve* ♦ Event se*ve*",
+    "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
     "addr": "149.50.108.134",
     "port": 7777
   },
@@ -168,8 +167,7 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1731760035
+    "port": 7777
   },
   {
     "name": "CN3关注微信公众号TT天堂(冷门图)进群送免费VIP",
@@ -299,12 +297,14 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731780474
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731780474
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -671,7 +671,8 @@
   {
     "name": "Fully Loaded",
     "addr": "176.57.178.127",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731780474
   },
   {
     "name": "HLL Official - UK #01",
@@ -836,7 +837,7 @@
     "port": 7787
   },
   {
-    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism US East - Historical Map Rotation",
     "addr": "192.169.86.218",
     "port": 9014
   },
@@ -949,8 +950,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1731694136
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -986,8 +986,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1731694136
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1365,7 +1364,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731780474
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1406,7 +1406,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 6 | DILDOKINGKONG LEBT |QS| OINK",
     "addr": "5.9.150.142",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731780474
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -1429,7 +1430,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1706,7 +1707,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
     "addr": "78.46.59.147",
-    "port": 9075
+    "port": 9075,
+    "removed": 1731780474
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG |",
@@ -1743,8 +1745,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1731694136
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1759,12 +1760,14 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731780474
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731780474
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1920,7 +1923,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Prepnix",
+    "name": "Greyhound Friendly Enjoyers ",
     "addr": "85.208.197.70",
     "port": 7817
   },
