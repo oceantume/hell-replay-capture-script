@@ -438,8 +438,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1731672703
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -665,8 +664,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1731672703
+    "port": 28300
   },
   {
     "name": "Fully Loaded",
@@ -717,7 +715,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731737324
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1299,10 +1298,9 @@
     "port": 7777
   },
   {
-    "name": "EASY COMPANY | QONZER",
+    "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY",
     "addr": "208.115.250.3",
-    "port": 7777,
-    "removed": 1731721037
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1470,7 +1468,8 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731737324
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1826,7 +1825,7 @@
     "port": 28200
   },
   {
-    "name": "EASY Company | Server #1 |GPORTAL| DISCORD.GG/EASYCOMPANY",
+    "name": "EASY Company #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
     "port": 28000
   },
@@ -1882,7 +1881,7 @@
     "port": 28100
   },
   {
-    "name": "EASY Company | Event Server | DISCORD.GG/EASYCOMPANY | GPORTAL",
+    "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.207.46",
     "port": 28100
   },
