@@ -40,6 +40,11 @@
     "port": 8530
   },
   {
+    "name": "[FR] La 7ème Compagnie | FR UNIQUEMENT",
+    "addr": "135.125.3.37",
+    "port": 8530
+  },
+  {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
     "port": 28000
@@ -145,7 +150,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR clan server ♦ Event server",
+    "name": "PL/ENG ♦ PZJ* clan se*ve* ♦ Event se*ve*",
     "addr": "149.50.108.134",
     "port": 7777
   },
@@ -596,7 +601,7 @@
     "port": 28600
   },
   {
-    "name": "[GER]PennerBrigade#1/Offi LvL15+/Mic Pflicht",
+    "name": "[GER/ENG]PennerBrigade#1/Offi LvL15+/Mic Pflicht",
     "addr": "176.57.171.44",
     "port": 28800
   },
@@ -735,7 +740,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE",
+    "name": "Hell Let Loose Server",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -1294,6 +1299,11 @@
     "port": 7777
   },
   {
+    "name": "EASY COMPANY | QONZER",
+    "addr": "208.115.250.3",
+    "port": 7777
+  },
+  {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -1399,8 +1409,7 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1731694136
+    "port": 8530
   },
   {
     "name": "ANZAC Legion of the Damned",
@@ -1418,7 +1427,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1818,8 +1827,7 @@
   {
     "name": "EASY Company | Server #1 |GPORTAL| DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1731672703
+    "port": 28000
   },
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
