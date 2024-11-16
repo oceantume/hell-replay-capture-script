@@ -257,8 +257,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1731738231
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -655,8 +654,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1731740934
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -873,7 +871,8 @@
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
     "addr": "192.169.93.234",
-    "port": 7777
+    "port": 7777,
+    "removed": 1731759030
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -1793,7 +1792,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731759030
   },
   {
     "name": "HLL Official - US East #02",
@@ -1808,8 +1808,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1731672703
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
