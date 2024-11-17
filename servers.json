@@ -40,7 +40,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] La 7ème Compagnie | FR UNIQUEMENT",
+    "name": "【FR】*New* 7ème Compagnie 》FR ONY 》STATS 》VOTE MAP �",
     "addr": "135.125.3.37",
     "port": 8530
   },
@@ -297,14 +297,12 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1731780474
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1731780474
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -688,12 +686,6 @@
     "port": 28200
   },
   {
-    "name": "{serverName}",
-    "addr": "176.57.178.15",
-    "port": 28000,
-    "removed": 1731244231
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000,
@@ -822,8 +814,7 @@
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
-    "port": 9620,
-    "removed": 1731848455
+    "port": 9620
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -954,7 +945,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731866858
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1433,7 +1425,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1539,12 +1531,6 @@
     "addr": "57.128.189.58",
     "port": 8530,
     "removed": 1731286656
-  },
-  {
-    "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
-    "addr": "63.143.60.18",
-    "port": 7787,
-    "removed": 1731262052
   },
   {
     "name": "Bob The Builder | XP Farm Fast Loadouts discord.gg/7FC79CevyF",
@@ -1768,13 +1754,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731866858
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1731780474
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1851,7 +1837,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731866858
   },
   {
     "name": "Servidor de eventos Ronin",
