@@ -142,7 +142,8 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1731845419
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -257,8 +258,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1731826144
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1806,13 +1806,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731845419
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1731759030
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
