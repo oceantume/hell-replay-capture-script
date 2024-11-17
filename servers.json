@@ -65,7 +65,7 @@
     "port": 9224
   },
   {
-    "name": "Climber United G.C. Event DE",
+    "name": "A mysterious server",
     "addr": "136.243.70.117",
     "port": 7777
   },
@@ -612,7 +612,7 @@
     "port": 28000
   },
   {
-    "name": "[PKKA]-Russian Server #2 (Only RU) - discord.gg/PKKA",
+    "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "176.57.171.7",
     "port": 28200
   },
@@ -844,12 +844,14 @@
   {
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.66",
-    "port": 8530
+    "port": 8530,
+    "removed": 1731803605
   },
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1731803605
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1375,7 +1377,7 @@
     "removed": 1731587349
   },
   {
-    "name": "Greyhound Event",
+    "name": "Greyhound Event #Paris",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1431,7 +1433,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1649,6 +1651,11 @@
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
     "addr": "64.42.181.187",
     "port": 8888
+  },
+  {
+    "name": "Tunti turpaan | FIN/ENG",
+    "addr": "65.21.46.146",
+    "port": 8530
   },
   {
     "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
@@ -1929,7 +1936,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Friendly Enjoyers ",
+    "name": "Greyhound Event #London",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2034,12 +2041,6 @@
     "addr": "92.12.141.99",
     "port": 7777,
     "removed": 1731697771
-  },
-  {
-    "name": "Hell let loose (Brazil) Server by g-portal.com",
-    "addr": "92.38.151.76",
-    "port": 28300,
-    "removed": 1731198695
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
