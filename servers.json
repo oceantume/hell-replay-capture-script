@@ -365,7 +365,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731823724
   },
   {
     "name": "QA Testing - EU #08",
@@ -420,7 +421,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731823724
   },
   {
     "name": "HLL Official - Europe #06",
@@ -666,7 +668,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731823724
   },
   {
     "name": "Fully Loaded",
@@ -693,7 +696,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731823724
   },
   {
     "name": "QA Testing - EU #05",
@@ -718,8 +722,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1731737324
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -787,7 +790,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #2 EVENTS & TRAINING",
+    "name": "<COBRAS FUMANTES> MARRAM #2 OFFENSIVE 4ever",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -991,6 +994,11 @@
     "name": "[ESP-EN] Hell Let Loose Server",
     "addr": "193.192.59.170",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose (US West) Bigney EE HellScape Newbies Welcome!",
+    "addr": "193.192.59.170",
+    "port": 28100
   },
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
