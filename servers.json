@@ -37,8 +37,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1731913351
+    "port": 8530
   },
   {
     "name": "【FR】7ème Compagnie 》FR ONY 》STATS 》VOTE MAP 》PAS D",
@@ -89,8 +88,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1731913351
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -260,8 +258,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1731910229
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -314,12 +311,6 @@
     "port": 28000
   },
   {
-    "name": "Is This Team P2W?",
-    "addr": "176.57.140.146",
-    "port": 28400,
-    "removed": 1731327087
-  },
-  {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000,
@@ -338,8 +329,7 @@
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
-    "port": 29700,
-    "removed": 1731913351
+    "port": 29700
   },
   {
     "name": "StDb-Event",
@@ -474,8 +464,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1731913351
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -485,8 +474,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1731913351
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -572,7 +560,7 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
   },
@@ -649,12 +637,6 @@
     "port": 28100
   },
   {
-    "name": "90208209838007327",
-    "addr": "176.57.174.129",
-    "port": 28200,
-    "removed": 1731327087
-  },
-  {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
     "port": 28000
@@ -662,8 +644,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1731913351
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -900,7 +881,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1731931929
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -920,7 +902,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1731931929
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1014,12 +997,6 @@
     "port": 8530
   },
   {
-    "name": "[LCM] La Compañia Maldita",
-    "addr": "193.70.122.179",
-    "port": 9075,
-    "removed": 1731327087
-  },
-  {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
     "port": 9620
@@ -1037,8 +1014,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1731913351
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1063,7 +1039,8 @@
   {
     "name": "HLL_Nitratest",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1731931929
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1141,12 +1118,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "“C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1644,7 +1621,7 @@
     "port": 8530
   },
   {
-    "name": "The Iron Curtain",
+    "name": "The Iron Curtain | US Central | New Players Welcome",
     "addr": "66.235.173.137",
     "port": 8530
   },
@@ -1712,8 +1689,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG |",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1731913351
+    "port": 8530
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY",
