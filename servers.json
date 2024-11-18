@@ -639,7 +639,8 @@
   {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1731935302
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1701,12 +1702,6 @@
     "addr": "82.44.44.215",
     "port": 7777,
     "removed": 1731371317
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.105.226.37",
-    "port": 7777,
-    "removed": 1731330198
   },
   {
     "name": "HLL Official - Asia #07",
