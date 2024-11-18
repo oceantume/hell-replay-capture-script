@@ -303,7 +303,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731953342
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -364,7 +365,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731953342
   },
   {
     "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
@@ -637,10 +639,14 @@
     "port": 28100
   },
   {
+    "name": "HLL Dev Team 2",
+    "addr": "176.57.174.129",
+    "port": 28200
+  },
+  {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
-    "port": 28000,
-    "removed": 1731935302
+    "port": 28000
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -671,7 +677,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731953342
   },
   {
     "name": "HLL Official - UK #02",
@@ -681,7 +688,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731953342
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -711,7 +719,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1731953342
   },
   {
     "name": "『V』VANGUARDA | CAMPEAO APL 2024 | FREE VIP | HLL Brasil",
@@ -724,7 +733,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE",
+    "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE | discord.gg/SwHx3ve",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -903,8 +912,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1731931929
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -934,8 +942,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1731866858
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -970,7 +977,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731953342
   },
   {
     "name": "[ESP-EN] Hell Let Loose Server",
@@ -1196,6 +1204,11 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.85",
+    "port": 7777
+  },
+  {
+    "name": "GER#Hll EU#Club Novice Server|kook.vip/pR7LT9",
+    "addr": "208.115.206.86",
     "port": 7777
   },
   {
@@ -1490,12 +1503,6 @@
     "port": 9620
   },
   {
-    "name": "[RUS|CHN|ENG] Просто играй и побеждай|Just ",
-    "addr": "54.36.165.164",
-    "port": 8530,
-    "removed": 1731348498
-  },
-  {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
@@ -1731,8 +1738,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1731866858
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1742,8 +1748,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1731780474
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1814,8 +1819,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1731866858
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -1855,7 +1859,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1731953342
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
