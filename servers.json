@@ -25,7 +25,7 @@
     "port": 8530
   },
   {
-    "name": "=7Cav= Tactical Realism US West - Historical Map Rotation",
+    "name": "=7Cav= Tactical Realism | US West | Discord.gg/7Cav",
     "addr": "104.255.170.181",
     "port": 9075
   },
@@ -166,6 +166,11 @@
     "port": 8772
   },
   {
+    "name": "CDS",
+    "addr": "152.228.223.24",
+    "port": 8530
+  },
+  {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7777
@@ -221,7 +226,7 @@
     "port": 7877
   },
   {
-    "name": "CN-JUMP特战大队|无HQ规则冲突服HK|",
+    "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
     "port": 7887
   },
@@ -264,6 +269,11 @@
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
     "port": 7807
+  },
+  {
+    "name": "! [TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
+    "addr": "173.225.104.218",
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
@@ -828,7 +838,7 @@
     "port": 7787
   },
   {
-    "name": "=7Cav= Tactical Realism US East - Historical Map Rotation",
+    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "192.169.86.218",
     "port": 9014
   },
@@ -1127,12 +1137,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚温柔猫娘萌新咖啡厅|702502503",
+    "name": "CN1#JP轻抚温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "“C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅",
+    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1422,7 +1432,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1703,12 +1713,6 @@
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY",
     "addr": "81.21.1.157",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "82.44.44.215",
-    "port": 7777,
-    "removed": 1731371317
   },
   {
     "name": "HLL Official - Asia #07",
