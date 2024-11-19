@@ -62,8 +62,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1731910229
+    "port": 9224
   },
   {
     "name": "A mysterious server",
@@ -324,8 +323,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1731910229
+    "port": 28000
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -426,7 +424,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1731996582
   },
   {
     "name": "HLL Official - Europe #06",
