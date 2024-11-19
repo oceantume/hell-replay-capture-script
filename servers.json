@@ -1136,12 +1136,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1907,10 +1907,9 @@
     "port": 7817
   },
   {
-    "name": "Laurie's Local Server for Local People",
+    "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1731521310
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
