@@ -87,8 +87,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1732086039
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -268,8 +267,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732082993
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -380,8 +378,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1731953342
+    "port": 28100
   },
   {
     "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
@@ -426,7 +423,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732104716
   },
   {
     "name": "HLL Official - Europe #07",
@@ -535,12 +533,6 @@
     "port": 28300
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | FEUER FREI |QS| OINK",
-    "addr": "176.57.169.115",
-    "port": 28100,
-    "removed": 1731499881
-  },
-  {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
     "port": 28000
@@ -550,12 +542,6 @@
     "addr": "176.57.171.140",
     "port": 28200,
     "removed": 1731672703
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | DORFCLUB  |QS| OINK",
-    "addr": "176.57.171.140",
-    "port": 28300,
-    "removed": 1731499881
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -597,12 +583,6 @@
     "name": "#1 - www.hellletloose.dk | Operation Overlord",
     "addr": "176.57.171.38",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.38",
-    "port": 28300,
-    "removed": 1731499881
   },
   {
     "name": "PV",
@@ -884,7 +864,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "192.169.92.250",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732104716
   },
   {
     "name": "☆ Sons of Liberty ☆ No Censorship - Leadership Mics Only",
@@ -1151,12 +1132,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口甜蜜攻防喵喵咖啡厅|702502503",
+    "name": "“C.N2#JP轻尝一口甜蜜攻防喵喵咖啡厅",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1357,7 +1338,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1732104716
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1383,6 +1365,11 @@
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200
+  },
+  {
+    "name": "[TOG] The Old Guard Official Public Server [Central]",
+    "addr": "45.43.3.83",
+    "port": 9620
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -1519,8 +1506,7 @@
   {
     "name": "Rick's Café, Casablanca - Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1732086039
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1571,7 +1557,8 @@
   {
     "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
     "addr": "63.143.62.99",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732104716
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -1799,8 +1786,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1731845419
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
