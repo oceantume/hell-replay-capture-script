@@ -1119,7 +1119,8 @@
   {
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1732105762
   },
   {
     "name": "CN81 Event Server HK",
@@ -1816,8 +1817,7 @@
   {
     "name": "DevQA - US #03",
     "addr": "83.223.203.130",
-    "port": 28200,
-    "removed": 1732039742
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
