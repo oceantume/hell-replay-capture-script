@@ -267,7 +267,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732169383
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -425,14 +426,12 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1732104716
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1731996582
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1142,7 +1141,7 @@
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口攻防喵喵咖啡厅|702502503",
+    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1713,8 +1712,7 @@
   {
     "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
     "addr": "74.63.231.2",
-    "port": 7777,
-    "removed": 1732153069
+    "port": 7777
   },
   {
     "name": "[L9] The Loyal Nine - #1 L9Clan.com/discord",
@@ -1883,6 +1881,11 @@
     "name": "Boneyard",
     "addr": "83.223.204.229",
     "port": 28100
+  },
+  {
+    "name": "HLL (US East) Server by Mississippi Brigade",
+    "addr": "83.223.204.52",
+    "port": 28000
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
