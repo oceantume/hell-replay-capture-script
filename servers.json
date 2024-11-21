@@ -490,8 +490,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1732191112
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -768,8 +767,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1732193473
+    "port": 8772
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -1023,7 +1021,8 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300
+    "port": 31300,
+    "removed": 1732194386
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1159,8 +1158,7 @@
   {
     "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
     "addr": "203.10.99.7",
-    "port": 9118,
-    "removed": 1732062632
+    "port": 9118
   },
   {
     "name": "Streamline HLL Test",
