@@ -768,7 +768,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1732193473
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -1924,10 +1925,9 @@
     "port": 7817
   },
   {
-    "name": "Hookway's Server",
+    "name": "Laurie's Local Server for Local People",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1732039742
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
