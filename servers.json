@@ -858,7 +858,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1732280732
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1370,8 +1371,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1732107973
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
