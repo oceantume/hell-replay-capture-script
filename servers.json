@@ -62,8 +62,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1732255780
+    "port": 9224
   },
   {
     "name": "A mysterious server",
@@ -268,8 +267,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732255780
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -547,12 +545,6 @@
     "port": 28000
   },
   {
-    "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
-    "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1731672703
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28400
@@ -800,8 +792,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1732127965
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -851,7 +842,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1732277506
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1139,12 +1131,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1387,7 +1379,7 @@
     "port": 9620
   },
   {
-    "name": "Greyhound Night - Blue",
+    "name": "Greyhound Event #Paris",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1515,8 +1507,7 @@
   {
     "name": "Rick's Café, Casablanca - Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1732258844
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1791,8 +1782,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1732191112
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -1917,15 +1907,14 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Night - Green",
+    "name": "Greyhound Event #London",
     "addr": "85.208.197.70",
     "port": 7817
   },
   {
-    "name": "Laurie's Local Server for Local People",
+    "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1732212540
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #02",
