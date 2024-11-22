@@ -62,7 +62,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1732255780
   },
   {
     "name": "A mysterious server",
@@ -210,7 +211,7 @@
     "port": 7847
   },
   {
-    "name": "[HK] RECLAIMER TRAINING&EVENT",
+    "name": "RECLAIMER TRAINING&EVENT",
     "addr": "156.146.44.225",
     "port": 7857
   },
@@ -267,7 +268,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732255780
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -328,7 +330,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732255780
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -434,7 +437,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732255780
   },
   {
     "name": "QA Testing - EU #04",
@@ -529,7 +533,8 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732255780
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
@@ -666,7 +671,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732255780
   },
   {
     "name": "QA Testing - UK #07",
@@ -677,8 +683,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1732082993
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1019,7 +1024,8 @@
   {
     "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
     "addr": "194.140.197.76",
-    "port": 31300
+    "port": 31300,
+    "removed": 1732255780
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1333,12 +1339,6 @@
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
     "addr": "209.192.185.58",
     "port": 7797
-  },
-  {
-    "name": "SLK - US West",
-    "addr": "216.219.90.146",
-    "port": 7777,
-    "removed": 1731634745
   },
   {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
@@ -1870,7 +1870,7 @@
     "port": 28100
   },
   {
-    "name": "HLL (US East) Server by Mississippi Brigade  https://discord.gg",
+    "name": "HLL (US East) Server by https://discord.gg/MSBrig",
     "addr": "83.223.204.52",
     "port": 28000
   },
@@ -1977,6 +1977,11 @@
     "port": 7797
   },
   {
+    "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
+    "addr": "92.118.18.72",
+    "port": 7817
+  },
+  {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
     "port": 7797
@@ -1999,7 +2004,8 @@
   {
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
     "addr": "92.118.18.91",
-    "port": 7787
+    "port": 7787,
+    "removed": 1732255780
   },
   {
     "name": "PC Gamers - Español/English (DALLAS)",
