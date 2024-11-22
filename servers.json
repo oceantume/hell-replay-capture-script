@@ -1632,7 +1632,8 @@
   {
     "name": "Dark Horizon 1 |New Players Welcome| Discord.gg/dhz",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732302584
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -2015,12 +2016,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "92.12.141.99",
-    "port": 7777,
-    "removed": 1731697771
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
