@@ -144,8 +144,7 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
-    "port": 7777,
-    "removed": 1732299851
+    "port": 7777
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -223,7 +222,7 @@
     "port": 7867
   },
   {
-    "name": "CN#中酱穿黑丝大家一起看纯攻防公众号：TT天堂",
+    "name": "CN关注抖音号HLLTTCLUB(纯攻防)微信公众号TT天堂",
     "addr": "156.146.44.225",
     "port": 7877
   },
@@ -270,8 +269,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732345026
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -815,8 +813,7 @@
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
-    "port": 9620,
-    "removed": 1732345759
+    "port": 9620
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -851,8 +848,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1732277506
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1174,7 +1170,7 @@
     "port": 8888
   },
   {
-    "name": "★[TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
+    "name": " ![TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
     "addr": "205.209.105.250",
     "port": 8530
   },
@@ -1191,7 +1187,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732363822
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -1307,8 +1304,7 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1732345759
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -1711,8 +1707,7 @@
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
-    "port": 8530,
-    "removed": 1732343073
+    "port": 8530
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
@@ -1840,7 +1835,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732363822
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -1903,6 +1899,11 @@
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "85.208.197.66",
+    "port": 7787
   },
   {
     "name": "hll Server",
