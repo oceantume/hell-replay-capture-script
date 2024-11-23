@@ -52,7 +52,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732342113
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -430,13 +431,13 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732342113
   },
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1732255780
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -531,8 +532,7 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1732255780
+    "port": 28300
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
@@ -668,8 +668,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1732255780
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -680,7 +679,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732342113
   },
   {
     "name": "QA Testing - EU #05",
@@ -1141,7 +1141,7 @@
     "port": 9078
   },
   {
-    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
+    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1852,6 +1852,11 @@
     "addr": "83.223.203.51",
     "port": 28200,
     "removed": 1732062632
+  },
+  {
+    "name": "US EAST everyone welcome ",
+    "addr": "83.223.204.122",
+    "port": 28300
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
