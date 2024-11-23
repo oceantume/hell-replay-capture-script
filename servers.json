@@ -174,7 +174,8 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732385318
   },
   {
     "name": "Cn间天唐网络科技工作室-抖音搜间天唐俱乐部",
@@ -661,12 +662,6 @@
     "port": 28300
   },
   {
-    "name": "Fully Loaded",
-    "addr": "176.57.178.127",
-    "port": 28300,
-    "removed": 1731780474
-  },
-  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -721,7 +716,7 @@
     "removed": 1731953342
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "die ballerbude",
     "addr": "176.9.121.214",
     "port": 8530
   },
@@ -1172,7 +1167,8 @@
   {
     "name": " ![TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
     "addr": "205.209.105.250",
-    "port": 8530
+    "port": 8530,
+    "removed": 1732385318
   },
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
@@ -1416,12 +1412,6 @@
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
     "port": 9014
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 6 | DILDOKINGKONG LEBT |QS| OINK",
-    "addr": "5.9.150.142",
-    "port": 8530,
-    "removed": 1731780474
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -1705,15 +1695,14 @@
     "port": 7777
   },
   {
-    "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
-    "addr": "78.46.59.147",
+    "name": " ! [TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
+    "addr": "74.63.236.250",
     "port": 8530
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 5 | PAKSI LEKSI FIKSI |QS| OINK",
+    "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
-    "port": 9075,
-    "removed": 1731780474
+    "port": 8530
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG |",
@@ -1758,14 +1747,12 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1732212540
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1732212540
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1856,7 +1843,8 @@
   {
     "name": "US EAST everyone welcome ",
     "addr": "83.223.204.122",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732385318
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
