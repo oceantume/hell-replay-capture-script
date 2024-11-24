@@ -316,7 +316,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732471710
   },
   {
     "name": "HLL Official - Australia #02",
@@ -862,8 +863,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1732453327
+    "port": 9014
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1369,8 +1369,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1732453327
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1428,7 +1427,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | LVL 200+ => VIP | DISCORD.GG/TH",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | LVL 200+ => VIP | DISCORD.GG/TH",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1619,7 +1618,7 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon 1 | Powered by Qonzer | Dark Horizon",
+    "name": "Dark Horizon 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -1699,7 +1698,7 @@
     "port": 8530
   },
   {
-    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/sEPFkn9k",
+    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/jJ6KtweT",
     "addr": "79.141.174.116",
     "port": 8530
   },
@@ -1716,7 +1715,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732471710
   },
   {
     "name": "HLL Official - Asia #03",
