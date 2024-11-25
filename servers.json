@@ -1945,6 +1945,11 @@
   },
   {
     "name": "HLL Server",
+    "addr": "86.157.226.71",
+    "port": 7777
+  },
+  {
+    "name": "HLL Server",
     "addr": "89.32.89.73",
     "port": 7777,
     "removed": 1732301351
