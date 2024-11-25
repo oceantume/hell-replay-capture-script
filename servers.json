@@ -1381,7 +1381,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732540072
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1477,8 +1478,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
     "addr": "51.77.116.10",
-    "port": 8530,
-    "removed": 1732494729
+    "port": 8530
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1946,7 +1946,8 @@
   {
     "name": "HLL Server",
     "addr": "86.157.226.71",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732540072
   },
   {
     "name": "HLL Server",
