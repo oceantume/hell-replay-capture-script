@@ -308,8 +308,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1732561134
+    "port": 28300
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -455,8 +454,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1732561134
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -557,7 +555,8 @@
   {
     "name": "Ehrengarde Deutschland",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732561840
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -950,7 +949,8 @@
   {
     "name": "✪ OG's Battleground Newbies Welcome ✪",
     "addr": "193.192.58.145",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732561840
   },
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
