@@ -675,22 +675,10 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1731953342
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000,
     "removed": 1732515024
-  },
-  {
-    "name": "QA Testing - EU #05",
-    "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1731953342
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -717,12 +705,6 @@
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - EU #10",
-    "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1731953342
   },
   {
     "name": "BALLERBUDE [mic only]",
@@ -987,12 +969,6 @@
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
     "port": 28100
-  },
-  {
-    "name": "QA Testing - US West #06",
-    "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1731953342
   },
   {
     "name": "[ESP-EN] Hell Let Loose Server",
@@ -1894,12 +1870,6 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - US East #09",
-    "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1731953342
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
