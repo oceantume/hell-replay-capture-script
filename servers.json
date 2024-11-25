@@ -37,8 +37,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1732518182
+    "port": 8530
   },
   {
     "name": "【FR】7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -88,8 +87,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1732518182
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -252,7 +250,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1732536734
   },
   {
     "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
@@ -267,13 +266,13 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1732536734
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732515024
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -350,8 +349,7 @@
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
-    "port": 29700,
-    "removed": 1732518182
+    "port": 29700
   },
   {
     "name": "StDb-Event",
@@ -407,8 +405,7 @@
   {
     "name": "Hell let loose LOW PING (NYC) Server by g-portal.com",
     "addr": "176.57.165.124",
-    "port": 28500,
-    "removed": 1732517555
+    "port": 28500
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -493,8 +490,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1732518182
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -505,8 +501,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1732518182
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -661,8 +656,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1732518182
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -798,7 +792,8 @@
   {
     "name": "HLL Sur America #03 - discord.gg/magic-servers",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1732536734
   },
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
@@ -1043,8 +1038,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1732518182
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1147,12 +1141,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1410,7 +1404,7 @@
     "port": 8530
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1520,8 +1514,7 @@
   {
     "name": "Rick's Café, Casablanca - Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1732518182
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1727,12 +1720,16 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/jJ6KtweT",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1732518182
+    "port": 8530
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY",
     "addr": "81.21.1.157",
+    "port": 7777
+  },
+  {
+    "name": "HLL Server",
+    "addr": "81.77.187.151",
     "port": 7777
   },
   {
@@ -1824,13 +1821,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732536734
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1732450266
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
