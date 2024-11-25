@@ -270,7 +270,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732515024
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -488,7 +489,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732515024
   },
   {
     "name": "KRTs Camelot ",
@@ -675,7 +677,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732515024
   },
   {
     "name": "QA Testing - EU #05",
@@ -701,7 +704,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732515024
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1472,7 +1476,8 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1732515024
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
@@ -1974,20 +1979,17 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1732494729
+    "port": 7777
   },
   {
     "name": "The Draft [HAUS] NEW PLAYERS WELCOME discord.gg/drafthaus",
     "addr": "92.118.18.72",
-    "port": 7797,
-    "removed": 1732494729
+    "port": 7797
   },
   {
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
     "addr": "92.118.18.72",
-    "port": 7817,
-    "removed": 1732494729
+    "port": 7817
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
