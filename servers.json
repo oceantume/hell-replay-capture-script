@@ -681,7 +681,7 @@
     "port": 28000
   },
   {
-    "name": "SLB #*b",
+    "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1198,7 +1198,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "SLB #2",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1450,8 +1450,7 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1732515024
+    "port": 8530
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
