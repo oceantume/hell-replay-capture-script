@@ -57,12 +57,14 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1732601385
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1732601385
   },
   {
     "name": "A mysterious server",
@@ -272,7 +274,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732601385
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -414,7 +417,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732601385
   },
   {
     "name": "QA Testing - EU #03",
@@ -494,8 +498,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1732515024
+    "port": 28000
   },
   {
     "name": "KRTs Camelot ",
@@ -540,7 +543,8 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732601385
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
@@ -566,7 +570,8 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732601385
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
@@ -677,8 +682,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1732515024
+    "port": 28000
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -698,8 +702,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1732515024
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1123,7 +1126,7 @@
     "port": 9078
   },
   {
-    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
+    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1772,7 +1775,8 @@
   {
     "name": "US EAST everyone welcome ",
     "addr": "83.223.203.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732601385
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -1905,7 +1909,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732601385
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
