@@ -57,14 +57,12 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1732601385
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1732601385
+    "port": 9224
   },
   {
     "name": "A mysterious server",
@@ -274,8 +272,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732601385
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1108,7 +1105,8 @@
   {
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1732623126
   },
   {
     "name": "CN81 Event Server HK",
@@ -1121,12 +1119,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|702502503",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1702,7 +1700,7 @@
     "port": 8530
   },
   {
-    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/jJ6KtweT",
+    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/67DB7uRfaR",
     "addr": "79.141.174.116",
     "port": 8530
   },
@@ -1806,8 +1804,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1732536734
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
@@ -1942,6 +1939,11 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
+  },
+  {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
   },
   {
     "name": "[SAS] A GIFT TO THE CLAN",
