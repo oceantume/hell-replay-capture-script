@@ -316,7 +316,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732644562
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -680,7 +681,7 @@
     "port": 28000
   },
   {
-    "name": "SLB #2",
+    "name": "SLB #*b",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -715,7 +716,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE | discord.gg/SwHx3ve",
+    "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE | discord: dsc.gg/cl",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -1212,12 +1213,6 @@
     "port": 7777
   },
   {
-    "name": "GER#Hll EU#Club Novice Server|kook.vip/pR7LT9",
-    "addr": "208.115.206.86",
-    "port": 7777,
-    "removed": 1732039742
-  },
-  {
     "name": "Dark Horizon 3 | New Players Welcome | Discord.gg/dhz",
     "addr": "208.115.212.74",
     "port": 7777
@@ -1348,6 +1343,11 @@
     "port": 9075
   },
   {
+    "name": "Hideout Gaming | US #1 | All Maps | New Players Welcome",
+    "addr": "45.137.244.9",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200
@@ -1408,7 +1408,7 @@
     "port": 9620
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "51.68.207.104",
     "port": 8530
   },
@@ -1502,6 +1502,11 @@
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "54.36.60.213",
     "port": 8772
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "57.128.189.58",
+    "port": 8530
   },
   {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
@@ -1866,7 +1871,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732644562
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -1904,7 +1910,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event #London",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
