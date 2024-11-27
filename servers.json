@@ -67,8 +67,7 @@
   {
     "name": "A mysterious server",
     "addr": "136.243.70.117",
-    "port": 7777,
-    "removed": 1732711925
+    "port": 7777
   },
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
@@ -279,7 +278,7 @@
     "port": 7807
   },
   {
-    "name": "#3 EXD.gg » Experienced Players | Discord.exd.gg",
+    "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
   },
@@ -773,8 +772,7 @@
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
     "addr": "181.214.221.212",
-    "port": 7777,
-    "removed": 1732711925
+    "port": 7777
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #2 OFFENSIVE 4ever",
@@ -867,7 +865,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1732712895
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
