@@ -5,7 +5,7 @@
     "port": 7807
   },
   {
-    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Elsenborne Ridge | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
   },
@@ -265,8 +265,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1732536734
+    "port": 9075
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -316,8 +315,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1732644562
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -327,8 +325,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1732687804
+    "port": 28000
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -374,8 +371,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1732687804
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #08",
@@ -436,7 +432,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732709524
   },
   {
     "name": "HLL Official - Europe #06",
@@ -471,7 +468,8 @@
   {
     "name": "[DD] Devil Dogs | EU #1 ",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732709524
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -486,8 +484,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1732690938
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -497,8 +494,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1732690938
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -538,13 +534,13 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1732601385
+    "port": 28300
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
     "addr": "176.57.169.115",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732709524
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -630,7 +626,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.173.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732709524
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -655,8 +652,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1732690938
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -675,9 +671,19 @@
     "port": 28000
   },
   {
+    "name": "QA Testing - UK #07",
+    "addr": "176.57.178.141",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - EU #05",
+    "addr": "176.57.178.17",
+    "port": 28200
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -703,6 +709,11 @@
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
     "port": 28200
+  },
+  {
+    "name": "QA Testing - EU #10",
+    "addr": "176.57.181.209",
+    "port": 28300
   },
   {
     "name": "BALLERBUDE [mic only]",
@@ -858,12 +869,6 @@
     "port": 9014
   },
   {
-    "name": "[TOG] The Old Guard Official Public Server [Central]",
-    "addr": "192.169.92.250",
-    "port": 9620,
-    "removed": 1732104716
-  },
-  {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
     "addr": "192.169.93.234",
     "port": 7787
@@ -952,7 +957,8 @@
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732709524
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -968,6 +974,11 @@
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
     "port": 28100
+  },
+  {
+    "name": "QA Testing - US West #06",
+    "addr": "193.192.58.65",
+    "port": 28200
   },
   {
     "name": "[ESP-EN] Hell Let Loose Server",
@@ -1083,7 +1094,8 @@
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
     "addr": "202.165.70.15",
-    "port": 8888
+    "port": 8888,
+    "removed": 1732709524
   },
   {
     "name": "CN1深夜萌新啤酒小屋进群送VIP｜香港｜719036493",
@@ -1098,7 +1110,8 @@
   {
     "name": "US『CZS』 Special training clothing",
     "addr": "203.10.96.196",
-    "port": 8898
+    "port": 8898,
+    "removed": 1732709524
   },
   {
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
@@ -1116,7 +1129,7 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1283,7 +1296,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
+    "name": "④ | THE CIRCLE #4 | Elsenborn Ridge | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1410,7 +1423,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732709524
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
@@ -1498,7 +1512,8 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720
+    "port": 9720,
+    "removed": 1732709524
   },
   {
     "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
@@ -1540,12 +1555,6 @@
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.93",
     "port": 7797
-  },
-  {
-    "name": "Aunt Margaret's Blueberry Farm (100% Organic)",
-    "addr": "63.143.62.99",
-    "port": 7777,
-    "removed": 1732104716
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -1683,7 +1692,7 @@
     "port": 8530
   },
   {
-    "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
+    "name": "(IC) Elsenborn Heaven | US Central #2 | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
   },
@@ -1736,12 +1745,14 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732709524
   },
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732709524
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1797,7 +1808,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732709524
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -1807,12 +1819,14 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732709524
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732709524
   },
   {
     "name": "DevQA - US #03",
@@ -1877,6 +1891,11 @@
     "removed": 1732644562
   },
   {
+    "name": "QA Testing - US East #09",
+    "addr": "83.223.206.29",
+    "port": 28100
+  },
+  {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.207.46",
     "port": 28100
@@ -1912,7 +1931,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "Greyhounds Event #London",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -1966,7 +1985,8 @@
   {
     "name": "Freefire Brigade | FFB",
     "addr": "92.118.18.120",
-    "port": 7807
+    "port": 7807,
+    "removed": 1732709524
   },
   {
     "name": "The Red Guard (US EAST) - discord.gg/N5jG5MvuDm",
