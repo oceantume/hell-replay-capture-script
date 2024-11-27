@@ -57,7 +57,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1732687804
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -327,7 +328,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732687804
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -373,7 +375,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732687804
   },
   {
     "name": "QA Testing - EU #08",
@@ -408,8 +411,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1732601385
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -429,7 +431,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732687804
   },
   {
     "name": "HLL Official - Europe #07",
@@ -561,8 +564,7 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1732601385
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
@@ -1112,7 +1114,7 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|702502503",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1411,12 +1413,14 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "51.68.207.104",
-    "port": 8530
+    "port": 8530,
+    "removed": 1732687804
   },
   {
     "name": "③  | THE CIRCLE #3 | NEW PLAYERS WELCOME! DISCORD.GG/THE-CIRC",
     "addr": "51.68.207.104",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732687804
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
