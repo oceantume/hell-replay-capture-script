@@ -459,6 +459,11 @@
     "port": 28300
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.168.252",
+    "port": 28100
+  },
+  {
     "name": "[DD] Devil Dogs Europe #1 | Elsenborn Ridge only",
     "addr": "176.57.168.252",
     "port": 28300
@@ -1501,7 +1506,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732733971
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
