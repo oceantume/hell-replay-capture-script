@@ -1395,6 +1395,11 @@
     "port": 28300
   },
   {
+    "name": "Hell let loose (US Mid) Server by g-portal.com",
+    "addr": "45.137.244.9",
+    "port": 28400
+  },
+  {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
     "port": 28200
@@ -2088,6 +2093,7 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1732819772
   }
 ]
