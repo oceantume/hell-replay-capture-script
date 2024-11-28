@@ -1417,7 +1417,8 @@
   {
     "name": "Greyhound Event #Paris",
     "addr": "46.105.223.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732820315
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -2093,7 +2094,6 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900,
-    "removed": 1732819772
+    "port": 28900
   }
 ]
