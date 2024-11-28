@@ -222,7 +222,7 @@
     "port": 7867
   },
   {
-    "name": "CN关注抖音号HLLTTCLUB(纯攻防)微信公众号TT天堂",
+    "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
     "addr": "156.146.44.225",
     "port": 7877
   },
@@ -311,13 +311,13 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1732730946
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732817327
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -502,8 +502,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1732777353
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -976,7 +975,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732817327
   },
   {
     "name": "HLL Official - US West #02",
@@ -1086,7 +1086,7 @@
     "port": 9620
   },
   {
-    "name": "Gunny's Hideout -- Dallas",
+    "name": "Gunny's Hideout -- ALL ELSENBORN ALL MODES -- Dallas",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -1424,7 +1424,7 @@
     "port": 8530
   },
   {
-    "name": "HLL ITA COMMUNITY ★ SKIRMISH ONLY | EU/ENG | discord.gg/Y3CFf",
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1876,8 +1876,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1732730946
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -2038,6 +2037,11 @@
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
     "addr": "92.118.18.72",
     "port": 7817
+  },
+  {
+    "name": "The Fox's Den [US EAST] [NEW PLAYERS WELCOME]",
+    "addr": "92.118.18.76",
+    "port": 7787
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
