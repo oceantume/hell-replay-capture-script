@@ -37,8 +37,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1732777353
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -88,8 +87,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1732777353
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -273,8 +271,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1732777353
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -496,8 +493,7 @@
   {
     "name": "PL/ENG ♦ PZJR clan server ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1732777353
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -538,7 +534,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732795924
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -665,8 +662,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1732777353
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1039,8 +1035,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1732777353
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1143,12 +1138,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1503,7 +1498,7 @@
     "port": 7777
   },
   {
-    "name": "THE CIRCLE - 1 has moved to another provider!",
+    "name": "THE CIRCLE - 1 has moved to another provider",
     "addr": "51.77.116.10",
     "port": 8530
   },
@@ -1756,8 +1751,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/67DB7uRfaR",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1732777353
+    "port": 8530
   },
   {
     "name": "Another Qonzer.com server is born!",
