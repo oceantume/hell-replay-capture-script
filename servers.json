@@ -189,7 +189,8 @@
   {
     "name": "CN淘宝人间地狱工作室 安全速效",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1732798335
   },
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
@@ -470,10 +471,9 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
-    "port": 28100,
-    "removed": 1732753895
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1129,7 +1129,8 @@
   {
     "name": "CN81 Event Server HK",
     "addr": "203.10.99.7",
-    "port": 8988
+    "port": 8988,
+    "removed": 1732798335
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
