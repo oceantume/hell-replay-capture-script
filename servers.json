@@ -240,7 +240,8 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530
+    "port": 8530,
+    "removed": 1732753895
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -253,7 +254,7 @@
     "port": 9014
   },
   {
-    "name": "[16th IR] Realism unit. |US East 1|discord.gg/16th",
+    "name": "[16th IR] 24/7 Elsenborn Ridge|US East 1|discord.gg/16th",
     "addr": "172.93.105.158",
     "port": 8530
   },
@@ -461,10 +462,11 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732753895
   },
   {
-    "name": "[DD] Devil Dogs Europe #1 | Elsenborn Ridge only",
+    "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
     "port": 28300
   },
@@ -913,8 +915,7 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1732730946
+    "port": 9075
   },
   {
     "name": "10th Mountain Division ᄿ (US East) : discord.gg/10thMD",
@@ -1125,7 +1126,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1307,9 +1308,15 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.250.3",
+    "port": 7777
+  },
+  {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
     "addr": "208.115.255.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732753895
   },
   {
     "name": "BRASIL HELL | »BAIN« Training & Event | bainclan.com.br",
@@ -1340,6 +1347,21 @@
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
     "addr": "217.182.196.157",
     "port": 9075
+  },
+  {
+    "name": "③ | THE CIRCLE #3 | DISCORD.GG/THE-CIRCLE",
+    "addr": "31.58.228.52",
+    "port": 7777
+  },
+  {
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
+    "addr": "31.58.228.52",
+    "port": 7787
+  },
+  {
+    "name": "② | THE CIRCLE #2 | DISCORD.GG/THE-CIRCLE",
+    "addr": "31.58.228.53",
+    "port": 7777
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1464,7 +1486,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE !KILLFEED",
+    "name": "THE CIRCLE - 1 has moved to another provider!",
     "addr": "51.77.116.10",
     "port": 8530
   },
@@ -1506,8 +1528,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620,
-    "removed": 1732733971
+    "port": 9620
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
@@ -1651,7 +1672,7 @@
     "port": 8530
   },
   {
-    "name": "Lucky Strike BattleGrounds | VoteMap | discord.gg/luckystrikes",
+    "name": "Lucky Strike BattleGrounds | Elsenborn | discord.gg/luckystrike",
     "addr": "69.162.102.50",
     "port": 7787
   },
@@ -1723,7 +1744,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732753895
   },
   {
     "name": "HLL Server",
