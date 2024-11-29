@@ -1,6 +1,11 @@
 [
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
+    "addr": "103.193.80.15",
+    "port": 7807
+  },
+  {
+    "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.97",
     "port": 7807
   },
@@ -271,7 +276,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1732860588
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -347,7 +353,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1732860588
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -398,7 +405,8 @@
   {
     "name": "Hell let loose Valhalla (NYC) New players welcomed",
     "addr": "176.57.165.127",
-    "port": 35500
+    "port": 35500,
+    "removed": 1732860588
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -408,8 +416,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1732774200
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -434,8 +441,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1732774200
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -455,8 +461,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1732774200
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -543,7 +548,8 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732860588
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
@@ -681,7 +687,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732860588
   },
   {
     "name": "QA Testing - UK #07",
@@ -691,7 +698,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732860588
   },
   {
     "name": "QA Testing - EU #05",
@@ -898,7 +906,7 @@
     "port": 9075
   },
   {
-    "name": "Fire For Effect [FFE] - S2 - ADULT SWIM 55+ - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
   },
@@ -1024,12 +1032,6 @@
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
     "port": 9620
-  },
-  {
-    "name": "[16th IR] Realism unit.| TRAINING SERVER | discord.gg/16th",
-    "addr": "194.140.197.76",
-    "port": 31300,
-    "removed": 1732255780
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1249,7 +1251,7 @@
     "port": 7777
   },
   {
-    "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
+    "name": "American Premier League :: NY :: Powered by Qonzer.com & Radica",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -1378,6 +1380,11 @@
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
     "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM ELSENBORG EVENT | LOW PING | PBSGAMETEAM .CO",
+    "addr": "31.58.228.53",
+    "port": 7787
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1623,7 +1630,7 @@
     "port": 7807
   },
   {
-    "name": "APL Battlegrounds :: MIAMI :: Powered by Qonzer.com :: discord.",
+    "name": "American Premier League :: MIAMI :: Powered by Qonzer.com & Rad",
     "addr": "64.31.40.202",
     "port": 7777
   },
@@ -1653,7 +1660,7 @@
     "port": 7787
   },
   {
-    "name": "APL Battlegrounds :: LOS ANGELES :: Powered by Qonzer.com :: di",
+    "name": "American Premier League :: LA :: Powered by Qonzer.com & Radica",
     "addr": "64.31.6.93",
     "port": 7777
   },
@@ -1900,6 +1907,11 @@
     "port": 28200
   },
   {
+    "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
+    "addr": "83.223.204.122",
+    "port": 28100
+  },
+  {
     "name": "US EAST everyone welcome ",
     "addr": "83.223.204.122",
     "port": 28300,
@@ -2040,7 +2052,7 @@
     "port": 7777
   },
   {
-    "name": "The Draft [HAUS] NEW PLAYERS WELCOME discord.gg/drafthaus",
+    "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "92.118.18.72",
     "port": 7797
   },
@@ -2074,12 +2086,6 @@
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
     "port": 7777
-  },
-  {
-    "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
-    "addr": "92.118.18.91",
-    "port": 7787,
-    "removed": 1732255780
   },
   {
     "name": "PC Gamers - Español/English (DALLAS)",
