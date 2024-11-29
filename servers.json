@@ -396,10 +396,9 @@
     "removed": 1732776751
   },
   {
-    "name": "Hell let loose Valhalla (NYC)",
+    "name": "Hell let loose Valhalla (NYC) New players welcomed",
     "addr": "176.57.165.127",
-    "port": 35500,
-    "removed": 1732775158
+    "port": 35500
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -472,7 +471,8 @@
   {
     "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732840274
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -561,6 +561,11 @@
     "addr": "176.57.171.140",
     "port": 28200,
     "removed": 1732561840
+  },
+  {
+    "name": "Hell let loose (EU) Server by Smychten",
+    "addr": "176.57.171.140",
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -779,7 +784,7 @@
     "port": 8772
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
+    "name": "<COBRAS FUMANTES> MARRAM #1 lvl+30 DISCORD.GOLD",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -1137,12 +1142,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
+    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1244,7 +1249,7 @@
     "port": 7777
   },
   {
-    "name": "APL Battlegrounds :: NEW YORK :: Powered by Qonzer.com :: disco",
+    "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -1370,7 +1375,7 @@
     "port": 7787
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
     "port": 7777
   },
@@ -1967,7 +1972,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Night - Green ",
+    "name": "Greyhound Prephard",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2047,7 +2052,8 @@
   {
     "name": "The Fox's Den [US EAST] [NEW PLAYERS WELCOME]",
     "addr": "92.118.18.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1732840274
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
