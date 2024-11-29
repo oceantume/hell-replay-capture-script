@@ -964,6 +964,11 @@
     "port": 7777
   },
   {
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
+    "addr": "193.160.22.58",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
     "port": 28000
@@ -1213,6 +1218,11 @@
     "port": 7777
   },
   {
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "addr": "208.115.206.38",
+    "port": 7777
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
     "addr": "208.115.206.74",
     "port": 7777
@@ -1377,12 +1387,14 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.52",
-    "port": 7787
+    "port": 7787,
+    "removed": 1732906699
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732906699
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM .COM",
