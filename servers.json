@@ -322,8 +322,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1732817327
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -353,8 +352,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1732860588
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -994,8 +992,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1732817327
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -1317,7 +1314,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
+    "name": "④ | THE CIRCLE #4",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1411,7 +1408,8 @@
   {
     "name": "Hideout Gaming | US #1 | All Maps | New Players Welcome",
     "addr": "45.137.244.9",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732903747
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1810,7 +1808,8 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732903747
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1825,7 +1824,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732903747
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1851,7 +1851,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.121",
-    "port": 28300
+    "port": 28300,
+    "removed": 1732903747
   },
   {
     "name": "HLL Official - US East #03",
