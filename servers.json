@@ -383,7 +383,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732946924
   },
   {
     "name": "QA Testing - EU #08",
@@ -470,7 +471,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732946924
   },
   {
     "name": "QA Testing - EU #02",
@@ -510,7 +512,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732946924
   },
   {
     "name": "KRTs Camelot ",
@@ -556,8 +559,7 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1732860588
+    "port": 28300
   },
   {
     "name": "Pellkartoffelbude [EU] | Deutschsprachig | Alle Level",
@@ -619,7 +621,8 @@
   {
     "name": "[DK] Danish Let Loose | DAN/ENG | www.hellletloose.dk",
     "addr": "176.57.171.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1732946924
   },
   {
     "name": "(GER) - [HB] Heurigen-Bataillon Austria - Buschenschank",
@@ -700,8 +703,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1732860588
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -711,8 +713,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1732860588
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -986,7 +987,8 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "193.160.22.58",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732946924
   },
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -1365,10 +1367,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Dark Horizon Event Server | discord.gg/dhz",
     "addr": "208.115.250.3",
-    "port": 7777,
-    "removed": 1732774200
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1414,8 +1415,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.52",
-    "port": 7787,
-    "removed": 1732906699
+    "port": 7787
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
