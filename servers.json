@@ -676,7 +676,8 @@
   {
     "name": "100.Jäger-Divison Event Server",
     "addr": "176.57.174.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732968625
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -792,7 +793,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1732968625
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -987,7 +989,8 @@
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "193.160.22.59",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732968625
   },
   {
     "name": "HLL Official - US West #03",
@@ -1042,7 +1045,7 @@
     "port": 28100
   },
   {
-    "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
+    "name": "(IC) Event Server | US West | discord.gg/icoh",
     "addr": "193.192.59.39",
     "port": 28000
   },
@@ -1172,12 +1175,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1221,12 +1224,6 @@
     "name": "[LCM] La Compañia Maldita [ESP]",
     "addr": "208.115.196.19",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1732363822
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -1403,8 +1400,7 @@
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "31.58.228.52",
-    "port": 7777,
-    "removed": 1732926634
+    "port": 7777
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
@@ -1469,7 +1465,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Night - Blue",
+    "name": "Greyhound Event #2",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -1591,7 +1587,7 @@
     "port": 9620
   },
   {
-    "name": "Elsenborn Ridge 24/7 - Blood, Sweat & Beers [BSB]",
+    "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
     "port": 8530
   },
@@ -1624,7 +1620,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
     "addr": "63.143.60.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1732968625
   },
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
@@ -1900,7 +1897,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1732968625
   },
   {
     "name": "HLL Official - US East #04",
@@ -1925,7 +1923,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1732968625
   },
   {
     "name": "DevQA - US #03",
@@ -2035,7 +2034,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Prephard",
+    "name": "Greyhound Event #1",
     "addr": "85.208.197.70",
     "port": 7817
   },
