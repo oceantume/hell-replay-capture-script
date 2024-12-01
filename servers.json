@@ -256,12 +256,6 @@
     "port": 7887
   },
   {
-    "name": "Taogun",
-    "addr": "156.146.44.225",
-    "port": 7897,
-    "removed": 1732450266
-  },
-  {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530,
@@ -1086,10 +1080,9 @@
     "port": 28300
   },
   {
-    "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/42Em4Z",
+    "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1733033354
+    "port": 8530
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
@@ -1216,7 +1209,7 @@
     "port": 9078
   },
   {
-    "name": "CN2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
+    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1640,8 +1633,7 @@
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1656,8 +1648,7 @@
   {
     "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
     "addr": "54.36.60.213",
-    "port": 8530,
-    "removed": 1733033354
+    "port": 8530
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
