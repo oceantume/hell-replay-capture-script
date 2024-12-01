@@ -924,12 +924,6 @@
     "port": 9014
   },
   {
-    "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
-    "addr": "192.169.86.66",
-    "port": 8530,
-    "removed": 1732430908
-  },
-  {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
     "port": 9075
@@ -1087,7 +1081,8 @@
   {
     "name": "(IC) Event Server | US West | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733035848
   },
   {
     "name": "The Bay 707 (US WEST)",
