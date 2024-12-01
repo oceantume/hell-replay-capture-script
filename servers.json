@@ -45,13 +45,13 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
     "addr": "135.125.3.37",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733076484
   },
   {
     "name": "HLL Official - Russia #01",
@@ -115,6 +115,11 @@
     "port": 8530
   },
   {
+    "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
+    "addr": "145.239.131.234",
+    "port": 8530
+  },
+  {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
     "addr": "145.239.144.76",
     "port": 8530,
@@ -161,7 +166,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer ♦ Only Elsenborn Ridge",
+    "name": "PL/ENG ♦ PZJR Clan Server ♦ Event server",
     "addr": "149.50.108.134",
     "port": 7777
   },
@@ -335,8 +340,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1732990077
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -371,8 +375,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1733033354
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -451,6 +454,11 @@
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
     "port": 28100
+  },
+  {
+    "name": "SHK (EU) Micro muss ,Deutsch ja ",
+    "addr": "176.57.168.178",
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #03",
@@ -611,8 +619,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1733033354
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -659,8 +666,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1733033354
+    "port": 28000
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -680,8 +686,7 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100,
-    "removed": 1733033354
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
@@ -703,8 +708,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1733055045
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division",
@@ -744,7 +748,7 @@
     "port": 28000
   },
   {
-    "name": "SLB #1b",
+    "name": "Ballroom Blitz - Arena 2",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -817,8 +821,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1732968625
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -870,8 +873,7 @@
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
-    "port": 9620,
-    "removed": 1733033354
+    "port": 9620
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -919,8 +921,7 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1733013502
+    "port": 8530
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -977,8 +978,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1733055045
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1087,8 +1087,7 @@
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
-    "port": 9620,
-    "removed": 1733033354
+    "port": 9620
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1138,8 +1137,7 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
@@ -1486,8 +1484,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1733058202
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1581,8 +1578,7 @@
   {
     "name": "[VLK] Valkyria CZ/SK/EN #2 | EVENT | vlkhll.cz",
     "addr": "51.75.147.215",
-    "port": 9014,
-    "removed": 1733033354
+    "port": 9014
   },
   {
     "name": "RUS | Jager Group Server",
@@ -1618,8 +1614,7 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -1848,8 +1843,7 @@
   {
     "name": " ! [TBG] NEW PLAYER FRIENDLY | TBGCLAN.COM | DISCORD.GG/TBGCLAN",
     "addr": "74.63.236.250",
-    "port": 8530,
-    "removed": 1733033354
+    "port": 8530
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -1875,7 +1869,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733076484
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1905,7 +1900,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733076484
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2078,8 +2074,7 @@
   {
     "name": "Greyhound Event #1",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1733033354
+    "port": 7817
   },
   {
     "name": "HLL Server",
