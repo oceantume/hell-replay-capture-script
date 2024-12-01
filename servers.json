@@ -703,10 +703,9 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "[GER] 1. Kavallerie-Division",
     "addr": "176.57.174.145",
-    "port": 28200,
-    "removed": 1732494729
+    "port": 28200
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -915,7 +914,8 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733013502
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -1192,7 +1192,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "CN1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1239,6 +1239,11 @@
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "208.115.206.35",
+    "port": 7777
+  },
+  {
+    "name": "QONZER.COM BETA DE",
+    "addr": "208.115.206.36",
     "port": 7777
   },
   {
@@ -1419,7 +1424,12 @@
     "port": 7787
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
+    "addr": "31.58.228.52",
+    "port": 7797
+  },
+  {
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
     "port": 7777
   },
@@ -1669,7 +1679,8 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733013502
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1707,7 +1718,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US East #2 | Lvl 50+ Offensive | discord.gg/m3rc",
+    "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -1782,7 +1793,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US Central #3 | Level 50+ | Discord.gg/m3rc",
+    "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
     "port": 7777
   },
@@ -2011,6 +2022,11 @@
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
+  },
+  {
+    "name": "The Practice Range",
+    "addr": "83.223.207.55",
+    "port": 28600
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
