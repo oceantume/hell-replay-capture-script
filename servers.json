@@ -11,7 +11,7 @@
     "removed": 1733142642
   },
   {
-    "name": "BigD.com.au AU#2 | Elsenborne Ridge | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
   },
@@ -456,7 +456,8 @@
   {
     "name": "Sly Fox #1 - New Players Welcome - Low Ping",
     "addr": "176.57.168.178",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733162958
   },
   {
     "name": "SHK (EU) Micro muss ,Deutsch ja ",
@@ -712,7 +713,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] 1. Kavallerie-Division",
+    "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
     "addr": "176.57.174.145",
     "port": 28200
   },
@@ -850,7 +851,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733162958
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1242,7 +1244,8 @@
   {
     "name": "QONZER.COM BETA DE",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733162958
   },
   {
     "name": "StDb Event",
@@ -1419,14 +1422,12 @@
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "31.58.228.52",
-    "port": 7777,
-    "removed": 1733141557
+    "port": 7777
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.52",
-    "port": 7787,
-    "removed": 1733141557
+    "port": 7787
   },
   {
     "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
@@ -1881,8 +1882,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1733076484
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2164,5 +2164,10 @@
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "Esquadrão Fantasma",
+    "addr": "92.38.151.91",
+    "port": 28700
   }
 ]
