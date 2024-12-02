@@ -7,8 +7,7 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1732882317
+    "port": 7807
   },
   {
     "name": "BigD.com.au AU#2 | Elsenborne Ridge | discord.gg/bigd",
@@ -44,8 +43,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733123084
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -292,8 +290,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1733119832
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -370,8 +367,7 @@
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
     "addr": "176.57.140.181",
-    "port": 29700,
-    "removed": 1733123084
+    "port": 29700
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -457,6 +453,11 @@
     "port": 28100
   },
   {
+    "name": "Sly Fox #1 - New Players Welcome - Low Ping",
+    "addr": "176.57.168.178",
+    "port": 28300
+  },
+  {
     "name": "SHK (EU) Micro muss ,Deutsch ja ",
     "addr": "176.57.168.178",
     "port": 28400
@@ -524,8 +525,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1733123084
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -708,8 +708,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1733123084
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division",
@@ -838,12 +837,6 @@
     "port": 7787
   },
   {
-    "name": "HLL Sur America #03 - discord.gg/magic-servers",
-    "addr": "181.214.221.212",
-    "port": 7797,
-    "removed": 1732536734
-  },
-  {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
@@ -856,8 +849,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1732819136
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -882,8 +874,7 @@
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.194",
-    "port": 9620,
-    "removed": 1733055045
+    "port": 9620
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -913,7 +904,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733141557
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1093,8 +1085,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1733123084
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1198,12 +1189,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1218,7 +1209,7 @@
     "port": 9108
   },
   {
-    "name": "CN ITK西住真穗的黑森峰学院日服Q群48381851",
+    "name": "CN ITK五河琴里的二次元家园日服Q群48381851",
     "addr": "203.10.99.7",
     "port": 9118
   },
@@ -1417,8 +1408,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1733055045
+    "port": 8772
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1428,12 +1418,14 @@
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "31.58.228.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733141557
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.52",
-    "port": 7787
+    "port": 7787,
+    "removed": 1733141557
   },
   {
     "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
@@ -1535,7 +1527,8 @@
   {
     "name": "ANZAC Legion of the Damned",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733141557
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1562,8 +1555,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "51.75.144.129",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
@@ -1847,8 +1839,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1733123084
+    "port": 8530
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1933,7 +1924,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733141557
   },
   {
     "name": "HLL Official - US East #04",
@@ -1971,7 +1963,7 @@
     "port": 28200
   },
   {
-    "name": "EASY Company #1 | GPORTAL | DISCORD.GG/EASYCOMPANY",
+    "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
     "port": 28000
   },
