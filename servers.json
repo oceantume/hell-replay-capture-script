@@ -262,8 +262,7 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530,
-    "removed": 1732753895
+    "port": 8530
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -597,7 +596,8 @@
   {
     "name": "Hell let loose (EU) Server by Smychten",
     "addr": "176.57.171.140",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733099612
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1158,8 +1158,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1733055045
+    "port": 9620
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -1198,12 +1197,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#JP轻抚一口温柔猫娘萌新咖啡厅|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#JP轻尝一口冬日攻防喵喵咖啡厅|665640040",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1284,7 +1283,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "Ballroom Blitz - Arena 3",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -1375,7 +1374,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1a",
+    "name": "Ballroom Blitz - Arena 1",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -1781,10 +1780,9 @@
     "port": 8530
   },
   {
-    "name": "Lucky Strike BattleGrounds | Elsenborn | discord.gg/luckystrike",
+    "name": "Lucky Strike BattleGrounds | VOTEMAP | discord.gg/luckystrikes",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1733033354
+    "port": 7787
   },
   {
     "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
