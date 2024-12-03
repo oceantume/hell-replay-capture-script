@@ -120,8 +120,7 @@
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
     "addr": "145.239.144.76",
-    "port": 8530,
-    "removed": 1733033354
+    "port": 8530
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -307,6 +306,11 @@
     "name": "[ЯF™] REFUZE - MATCH SERVER",
     "addr": "176.31.232.159",
     "port": 9075
+  },
+  {
+    "name": "[ESP] MALDITOS BASTARDOS | SERVER ESPÑAOL ",
+    "addr": "176.57.134.27",
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #01",
@@ -592,10 +596,9 @@
     "port": 28000
   },
   {
-    "name": "Ehrengarde Deutschland",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1732561840
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by Smychten",
@@ -783,7 +786,7 @@
     "removed": 1733055045
   },
   {
-    "name": "MIB - Made In Brasil - Junte-se à Insanidade",
+    "name": "Hell Let Loose Server",
     "addr": "177.54.147.141",
     "port": 7827
   },
@@ -906,8 +909,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1733141557
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1016,12 +1018,6 @@
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.145",
     "port": 28000
-  },
-  {
-    "name": "✪ OG's Battleground Newbies Welcome ✪",
-    "addr": "193.192.58.145",
-    "port": 28200,
-    "removed": 1732561840
   },
   {
     "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
@@ -1191,12 +1187,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1434,7 +1430,7 @@
     "port": 7797
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
     "port": 7777
   },
@@ -1488,8 +1484,7 @@
   {
     "name": "The Old Bastards 77th Infantry Divison",
     "addr": "45.45.238.233",
-    "port": 8530,
-    "removed": 1733055045
+    "port": 8530
   },
   {
     "name": "Greyhound Event #2",
@@ -2168,6 +2163,7 @@
   {
     "name": "Esquadrão Fantasma",
     "addr": "92.38.151.91",
-    "port": 28700
+    "port": 28700,
+    "removed": 1733185970
   }
 ]
