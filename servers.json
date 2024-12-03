@@ -1484,7 +1484,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733231296
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -2074,7 +2075,8 @@
   {
     "name": "HLL Server",
     "addr": "90.246.108.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733231296
   },
   {
     "name": "Team17",
