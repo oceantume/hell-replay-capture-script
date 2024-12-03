@@ -44,7 +44,8 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733206216
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -55,7 +56,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733206216
   },
   {
     "name": "HLL Official - Russia #02",
@@ -70,7 +72,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1733206216
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -95,17 +98,20 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733206216
   },
   {
     "name": "DKB EVENT SERVER",
     "addr": "141.95.33.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733206216
   },
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733206216
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -145,7 +151,8 @@
   {
     "name": "BANDOFBROTHERS.GG <> Milsim Community | All Welcome",
     "addr": "146.19.48.156",
-    "port": 7787
+    "port": 7787,
+    "removed": 1733206216
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
@@ -290,7 +297,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733206216
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -480,7 +488,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733206216
   },
   {
     "name": "QA Testing - EU #04",
@@ -737,7 +746,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733206216
   },
   {
     "name": "QA Testing - EU #05",
@@ -958,7 +968,7 @@
     "port": 8530
   },
   {
-    "name": "[77th] The Old Bastards (US Central) | Squad play | Active Admi",
+    "name": "[77th] The Old Bastards (US Central) New Players Welcome",
     "addr": "192.169.95.2",
     "port": 9620
   },
@@ -1370,6 +1380,11 @@
     "port": 7787
   },
   {
+    "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
+    "addr": "208.115.248.109",
+    "port": 7787
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
     "port": 7777
@@ -1407,12 +1422,14 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1733206216
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
     "addr": "217.182.196.157",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733206216
   },
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -1562,12 +1579,14 @@
   {
     "name": "[VLK] Valkyria CZ/SK/EN #2 | EVENT | vlkhll.cz",
     "addr": "51.75.147.215",
-    "port": 9014
+    "port": 9014,
+    "removed": 1733206216
   },
   {
     "name": "RUS | Jager Group Server",
     "addr": "51.75.147.215",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733206216
   },
   {
     "name": "Lunar base",
@@ -1583,12 +1602,14 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733206216
   },
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733206216
   },
   {
     "name": "[250H] Hell Let Loose",
@@ -1598,17 +1619,20 @@
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733206216
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733206216
   },
   {
     "name": "[VLK] CZ/SK | Každé úterý od 19h | valkyriahll.cz",
     "addr": "51.89.42.34",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733206216
   },
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
@@ -1898,12 +1922,6 @@
     "name": "All Players Welcome (EN/TH)",
     "addr": "83.223.197.89",
     "port": 28200
-  },
-  {
-    "name": "US EAST everyone welcome ",
-    "addr": "83.223.203.121",
-    "port": 28000,
-    "removed": 1732601385
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
