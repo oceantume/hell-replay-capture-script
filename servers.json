@@ -84,6 +84,21 @@
     "port": 7777
   },
   {
+    "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
+    "addr": "139.28.17.146",
+    "port": 7777
+  },
+  {
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
+    "addr": "139.28.17.146",
+    "port": 7787
+  },
+  {
+    "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
+    "addr": "139.28.17.146",
+    "port": 7797
+  },
+  {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
     "port": 8530
@@ -337,13 +352,13 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1732990077
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733249312
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -656,7 +671,7 @@
     "port": 28400
   },
   {
-    "name": "[Ger] Attack on Quack",
+    "name": "[Ger] AoQ Spielplatz | Mikro Pflicht | www.dsc.gg/AoQ",
     "addr": "176.57.171.44",
     "port": 28300
   },
@@ -1065,10 +1080,9 @@
     "port": 28100
   },
   {
-    "name": "(IC) Event Server | US West | discord.gg/icoh",
+    "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1733035848
+    "port": 28000
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1260,8 +1274,7 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1732926634
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -1432,22 +1445,26 @@
   {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "31.58.228.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733249312
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.52",
-    "port": 7787
+    "port": 7787,
+    "removed": 1733249312
   },
   {
     "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
     "addr": "31.58.228.52",
-    "port": 7797
+    "port": 7797,
+    "removed": 1733249312
   },
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "31.58.228.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733249312
   },
   {
     "name": "POWERBITS GAMETEAM EVENT!! | LOW PING | PBSGAMETEAM .COM",
@@ -1830,7 +1847,7 @@
     "port": 8530
   },
   {
-    "name": "(IC) Elsenborn Heaven | US Central #2 | discord.gg/icoh",
+    "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
   },
@@ -1862,8 +1879,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1733076484
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1888,7 +1904,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733249312
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1969,7 +1986,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733249312
   },
   {
     "name": "Servidor de eventos Ronin",
