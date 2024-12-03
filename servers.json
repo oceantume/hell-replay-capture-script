@@ -44,8 +44,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733209431
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -72,8 +71,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1733206216
+    "port": 9224
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -91,7 +89,7 @@
     "port": 8530
   },
   {
-    "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "141.11.34.139",
     "port": 7797
   },
@@ -108,8 +106,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1733209431
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -295,8 +292,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1733206216
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -537,8 +533,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1733209431
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -661,6 +656,11 @@
     "port": 28400
   },
   {
+    "name": "[Ger] Attack on Quack",
+    "addr": "176.57.171.44",
+    "port": 28300
+  },
+  {
     "name": "PV",
     "addr": "176.57.171.44",
     "port": 28500
@@ -720,8 +720,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1733209431
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
@@ -919,7 +918,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733227919
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1093,8 +1093,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1733209431
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1198,12 +1197,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1629,8 +1628,7 @@
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1733209431
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1853,8 +1851,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1733209431
+    "port": 8530
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1926,8 +1923,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1733141557
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
