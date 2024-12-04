@@ -96,7 +96,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1733272328
   },
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
@@ -419,7 +420,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733272328
   },
   {
     "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
@@ -461,7 +463,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733272328
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -503,7 +506,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733272328
   },
   {
     "name": "DevQA - EU #02",
@@ -518,7 +522,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733272328
   },
   {
     "name": "Cert",
@@ -553,7 +558,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733272328
   },
   {
     "name": "KRTs Camelot ",
@@ -754,7 +760,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733272328
   },
   {
     "name": "HLL Official - UK #02",
@@ -765,7 +772,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733272328
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
@@ -795,7 +803,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733272328
   },
   {
     "name": "BALLERBUDE [mic only]",
@@ -1066,7 +1075,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733272328
   },
   {
     "name": "[ESP-EN] Hell Let Loose Server",
@@ -1210,7 +1220,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1668,12 +1678,6 @@
     "port": 8772
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "57.128.189.58",
-    "port": 8530,
-    "removed": 1732667476
-  },
-  {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
     "addr": "63.143.60.18",
     "port": 7777,
@@ -2026,7 +2030,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733272328
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -2069,7 +2074,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event #1",
+    "name": "SLB #2",
     "addr": "85.208.197.70",
     "port": 7817
   },
