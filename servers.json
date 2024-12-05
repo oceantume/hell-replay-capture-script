@@ -93,7 +93,7 @@
     "port": 7787
   },
   {
-    "name": "⑤ | THE CIRCLE #5 | TEST SERVER | DISCORD.GG/THE-CIRCLE",
+    "name": "⑤ | THE CIRCLE #5 | UNDER LVL 100 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
   },
@@ -1095,6 +1095,11 @@
     "port": 9620
   },
   {
+    "name": "101A War Room",
+    "addr": "194.140.197.201",
+    "port": 34500
+  },
+  {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
     "port": 7877
@@ -1206,7 +1211,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1267,7 +1272,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1536,7 +1541,8 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733358727
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -2003,7 +2009,7 @@
     "port": 28100
   },
   {
-    "name": "MS Brigade |US East| Join organized events with us discord.gg/M",
+    "name": "Antietam Let Loose |US East| Join organized events with us disc",
     "addr": "83.223.204.52",
     "port": 28000
   },
@@ -2053,7 +2059,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
   },
