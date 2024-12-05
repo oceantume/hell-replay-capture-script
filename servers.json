@@ -866,7 +866,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733423908
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1120,6 +1121,11 @@
     "name": "HLL_Nitratest",
     "addr": "195.82.158.186",
     "port": 20500
+  },
+  {
+    "name": "nitrado.net gameserver s6VleGKQ",
+    "addr": "195.82.158.186",
+    "port": 20800
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1392,8 +1398,7 @@
   {
     "name": "Dark Horizon Event Server | discord.gg/dhz",
     "addr": "208.115.250.3",
-    "port": 7777,
-    "removed": 1733380945
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1911,7 +1916,8 @@
   {
     "name": "All Players Welcome (EN/TH)",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733423908
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
