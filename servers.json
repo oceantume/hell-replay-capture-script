@@ -308,7 +308,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733379038
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -394,7 +395,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1733379038
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -744,8 +746,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1733292616
+    "port": 28300
   },
   {
     "name": "HLL Official - UK #01",
@@ -1096,7 +1097,8 @@
   {
     "name": "101A War Room",
     "addr": "194.140.197.201",
-    "port": 34500
+    "port": 34500,
+    "removed": 1733379038
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1215,7 +1217,7 @@
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
