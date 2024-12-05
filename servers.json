@@ -83,7 +83,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
+    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7777
   },
@@ -93,7 +93,7 @@
     "port": 7787
   },
   {
-    "name": "⑤ | THE CIRCLE #5 | UNDER LVL 100 | OFFENSIVE | DISCORD.GG/TH",
+    "name": "⑤ | THE CIRCLE #5 | INFANTRY ONLY | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
   },
@@ -211,7 +211,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "152.228.223.28",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733422106
   },
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -353,8 +354,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1733335770
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -421,7 +421,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733422106
   },
   {
     "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
@@ -865,8 +866,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1733401789
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1259,7 +1259,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1370,7 +1370,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1644,6 +1644,11 @@
     "port": 8772
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "57.128.189.58",
+    "port": 8530
+  },
+  {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
     "addr": "63.143.60.18",
     "port": 7777,
@@ -1855,8 +1860,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1733335770
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1881,13 +1885,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733422106
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1733335770
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1950,7 +1954,8 @@
   {
     "name": "DevQA - US #03",
     "addr": "83.223.203.130",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733422106
   },
   {
     "name": "HLL Official - US East #01",
