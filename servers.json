@@ -11,7 +11,7 @@
     "removed": 1733142642
   },
   {
-    "name": "BigD.com.au AU#2 | Offensive Only | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
   },
@@ -44,8 +44,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733382235
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -94,7 +93,7 @@
     "port": 7787
   },
   {
-    "name": "⑤ | THE CIRCLE #5 | UNDER LVL 100 | DISCORD.GG/THE-CIRCLE",
+    "name": "⑤ | THE CIRCLE #5 | UNDER LVL 100 | OFFENSIVE | DISCORD.GG/TH",
     "addr": "139.28.17.146",
     "port": 7797
   },
@@ -121,8 +120,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1733382235
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -226,7 +224,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1TT天堂萌新俱乐部（投票选图）q群：578097070",
+    "name": "CN2024TT俱乐部VS2025年散人组(跨年赛奖金)预告赛",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -303,13 +301,13 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733400761
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1733379038
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -344,7 +342,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733400761
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -544,8 +543,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1733382235
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -555,8 +553,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1733382235
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -582,12 +579,6 @@
     "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
     "addr": "176.57.168.69",
     "port": 28400
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.91",
-    "port": 28000,
-    "removed": 1732795924
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -732,8 +723,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1733382235
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
@@ -845,8 +835,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1733314332
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -876,8 +865,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1733316751
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1105,8 +1093,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1733382235
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1210,12 +1197,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1850,8 +1837,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1733382235
+    "port": 8530
   },
   {
     "name": "HLL Server",
@@ -1936,7 +1922,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733400761
   },
   {
     "name": "HLL Official - US East #02",
@@ -1951,13 +1938,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733400761
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1733314332
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
