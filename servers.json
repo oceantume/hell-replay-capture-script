@@ -307,7 +307,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733465395
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -374,7 +375,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733465395
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -394,8 +396,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1733379038
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -440,12 +441,6 @@
     "port": 32500
   },
   {
-    "name": "Hell let loose Valhalla (NYC) New players welcomed",
-    "addr": "176.57.165.127",
-    "port": 35500,
-    "removed": 1732860588
-  },
-  {
     "name": "Hell let loose (NYC) Server by g-portal.com",
     "addr": "176.57.165.128",
     "port": 32400
@@ -484,7 +479,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733465395
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1080,6 +1076,11 @@
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
     "port": 9620
+  },
+  {
+    "name": "BOUNTY-HUNTERz",
+    "addr": "194.140.197.175",
+    "port": 28300
   },
   {
     "name": "101A War Room",
