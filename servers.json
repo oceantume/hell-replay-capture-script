@@ -44,8 +44,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733468594
+    "port": 8530
   },
   {
     "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
@@ -121,8 +120,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1733468594
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -289,7 +287,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1733487116
   },
   {
     "name": "[16th IR] 24/7 Elsenborn Ridge|US East 1|discord.gg/16th",
@@ -304,13 +303,13 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1733487116
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1733465395
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -542,8 +541,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1733468594
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -553,8 +551,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1733468594
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -656,7 +653,8 @@
   {
     "name": "[Ger] AoQ Spielplatz | Mikro Pflicht | www.dsc.gg/AoQ",
     "addr": "176.57.171.44",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733487116
   },
   {
     "name": "PV",
@@ -865,8 +863,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1733423908
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1081,7 +1078,7 @@
     "port": 9620
   },
   {
-    "name": "BOUNTY-HUNTERz",
+    "name": "#BOUNTY-HUNTERz",
     "addr": "194.140.197.175",
     "port": 28300
   },
@@ -1099,8 +1096,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1733468594
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -1632,8 +1628,7 @@
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1733468594
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1939,8 +1934,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1733400761
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -1955,8 +1949,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1733400761
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
