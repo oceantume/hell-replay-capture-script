@@ -405,12 +405,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.140.83",
-    "port": 28100,
-    "removed": 1732883374
-  },
-  {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
     "addr": "176.57.140.83",
     "port": 28200
@@ -710,7 +704,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733488177
   },
   {
     "name": "100.Jäger-Divison Event Server",
@@ -1206,7 +1201,7 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1305,12 +1300,6 @@
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.85",
     "port": 7777
-  },
-  {
-    "name": "Dark Horizon Events  |  Discord.gg/dhz",
-    "addr": "208.115.212.74",
-    "port": 7777,
-    "removed": 1732882317
   },
   {
     "name": "American Premier League :: NY :: Powered by Qonzer.com & Radica",
