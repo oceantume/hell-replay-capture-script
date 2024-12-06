@@ -287,8 +287,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1733487116
+    "port": 9014
   },
   {
     "name": "[16th IR] 24/7 Elsenborn Ridge|US East 1|discord.gg/16th",
@@ -356,7 +355,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733508556
   },
   {
     "name": "HLL Official - Australia #02",
@@ -376,8 +376,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1733465395
+    "port": 28000
   },
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
@@ -423,6 +422,11 @@
   {
     "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
     "addr": "176.57.153.114",
+    "port": 28000
+  },
+  {
+    "name": "BALKAN Brigade [TEST] | CRO/EN/DE",
+    "addr": "176.57.153.41",
     "port": 28000
   },
   {
@@ -858,7 +862,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733508556
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1035,7 +1040,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733508556
   },
   {
     "name": "QA Testing - US West #06",
@@ -1472,12 +1478,6 @@
     "port": 9075
   },
   {
-    "name": "Hideout Gaming | US #1 | All Maps | New Players Welcome",
-    "addr": "45.137.244.9",
-    "port": 28300,
-    "removed": 1732903747
-  },
-  {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28400
@@ -1643,7 +1643,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "57.128.189.58",
-    "port": 8530
+    "port": 8530,
+    "removed": 1733508556
   },
   {
     "name": "The Draft [HAUS] |US EAST-DC| discord.gg/drafthaus",
@@ -1861,7 +1862,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733508556
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1881,13 +1883,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1733422106
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733508556
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1909,12 +1911,6 @@
     "addr": "83.223.197.89",
     "port": 28200,
     "removed": 1733423908
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.203.121",
-    "port": 28300,
-    "removed": 1732903747
   },
   {
     "name": "HLL Official - US East #03",
@@ -1965,7 +1961,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733508556
   },
   {
     "name": "Servidor de eventos Ronin",
