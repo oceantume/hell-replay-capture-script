@@ -36,12 +36,6 @@
     "port": 9075
   },
   {
-    "name": "Heavy's Hitters",
-    "addr": "104.255.170.181",
-    "port": 9620,
-    "removed": 1732990077
-  },
-  {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
     "port": 8530
@@ -355,8 +349,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1733508556
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -386,7 +379,8 @@
   {
     "name": "John is a rat bastard",
     "addr": "176.57.140.16",
-    "port": 28400
+    "port": 28400,
+    "removed": 1733594890
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -816,7 +810,7 @@
     "port": 7797
   },
   {
-    "name": "American Premier League :: TOKYO :: Powered by Qonzer.com :: di",
+    "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
     "addr": "178.249.213.95",
     "port": 7787
   },
@@ -1019,8 +1013,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1733508556
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1040,7 +1033,8 @@
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733594890
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1247,7 +1241,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1287,7 +1281,7 @@
     "port": 7777
   },
   {
-    "name": "American Premier League :: NY :: Powered by Qonzer.com & Radica",
+    "name": "Radical Gaming :: NY :: Powered by Qonzer.com",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -1559,12 +1553,6 @@
     "port": 7777
   },
   {
-    "name": "THE CIRCLE - 1 has moved to another provider",
-    "addr": "51.77.116.10",
-    "port": 8530,
-    "removed": 1732990077
-  },
-  {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
@@ -1658,8 +1646,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1733576588
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1682,7 +1669,7 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: MIAMI :: Powered by Qonzer.com :: di",
+    "name": "HLL Rumble Invitational :: MIAMI :: Sponsored by Radical Gaming",
     "addr": "64.31.40.203",
     "port": 7777
   },
@@ -1702,7 +1689,7 @@
     "port": 7787
   },
   {
-    "name": "American Premier League :: LA :: Powered by Qonzer.com & Radica",
+    "name": "HLL Rumble Invitational :: LA :: Sponsored by Radical Gaming",
     "addr": "64.31.6.93",
     "port": 7777
   },
@@ -1856,13 +1843,13 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1733508556
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733594890
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1930,8 +1917,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1733508556
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
