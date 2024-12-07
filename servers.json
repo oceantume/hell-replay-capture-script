@@ -1464,8 +1464,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1733490451
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1659,7 +1658,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1733576588
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
