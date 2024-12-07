@@ -1079,7 +1079,7 @@
     "port": 9620
   },
   {
-    "name": "#BOUNTY-HUNTERz",
+    "name": "BOUNTY-HUNTERz",
     "addr": "194.140.197.175",
     "port": 28300
   },
@@ -1207,7 +1207,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -1575,7 +1575,7 @@
     "port": 9075
   },
   {
-    "name": "Lunar base",
+    "name": "Moon",
     "addr": "51.75.58.123",
     "port": 7777
   },
@@ -1852,7 +1852,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733531492
   },
   {
     "name": "HLL Official - Asia #07",
