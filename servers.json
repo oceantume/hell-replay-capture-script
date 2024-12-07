@@ -308,7 +308,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733551735
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -396,7 +397,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1733551735
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -411,7 +413,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733551735
   },
   {
     "name": "QA Testing - EU #08",
@@ -447,7 +450,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733551735
   },
   {
     "name": "QA Testing - EU #03",
@@ -478,8 +482,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1733465395
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -638,12 +641,6 @@
     "port": 28100
   },
   {
-    "name": "[DK] Danish Let Loose | DAN/ENG | www.hellletloose.dk",
-    "addr": "176.57.171.38",
-    "port": 28200,
-    "removed": 1732946924
-  },
-  {
     "name": "(GER) - [HB] Heurigen-Bataillon Austria - Buschenschank",
     "addr": "176.57.171.38",
     "port": 28400
@@ -673,7 +670,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733551735
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -745,8 +743,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1733206216
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1001,12 +998,6 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
-    "addr": "193.160.22.58",
-    "port": 7777,
-    "removed": 1732946924
-  },
-  {
     "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "193.160.22.59",
     "port": 7777,
@@ -1212,7 +1203,7 @@
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1703,7 +1694,7 @@
     "port": 7777
   },
   {
-    "name": "〘ᚖ〙| Hostile Unknown | Event | .gg/hostile",
+    "name": "多 | Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
   },
@@ -1773,7 +1764,7 @@
     "port": 7787
   },
   {
-    "name": "〘ᚖ〙| Hostile Unknown | US-C | .gg/hostile",
+    "name": "多 | Hostile Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
   },
