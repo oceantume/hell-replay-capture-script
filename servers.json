@@ -1029,10 +1029,9 @@
     "port": 28100
   },
   {
-    "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1733594890
+    "port": 28000
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1640,7 +1639,8 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733619908
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
