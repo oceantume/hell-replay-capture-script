@@ -41,12 +41,6 @@
     "port": 8530
   },
   {
-    "name": "[FR] 7ème Compagnie 》100% FR 》STATS 》VOTE MAP",
-    "addr": "135.125.3.37",
-    "port": 8530,
-    "removed": 1733076484
-  },
-  {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
     "port": 28000
@@ -353,12 +347,14 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733681289
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733681289
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -988,7 +984,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733681289
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1235,7 +1232,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1275,7 +1272,7 @@
     "port": 7777
   },
   {
-    "name": "Radical Gaming :: NY :: Powered by Qonzer.com",
+    "name": "Radical Gaming [-R-] :: NY :: Powered by Qonzer.com",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -1452,8 +1449,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1733663039
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
@@ -1594,7 +1590,7 @@
     "port": 9720
   },
   {
-    "name": "Blood, Sweat & Commandos | Event Server | SLB Skirmish [BSB]",
+    "name": "Hell Breaks Loose | Showcase Match | Live YT @Chessie204",
     "addr": "54.36.60.213",
     "port": 8530
   },
@@ -1642,8 +1638,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1733663039
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1826,7 +1821,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733681289
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1846,8 +1842,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1733594890
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
