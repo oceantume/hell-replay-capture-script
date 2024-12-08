@@ -7,8 +7,7 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1733142642
+    "port": 7807
   },
   {
     "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
@@ -64,7 +63,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1733638142
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -301,7 +301,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733638142
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -389,8 +390,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1733551735
+    "port": 30700
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
@@ -405,8 +405,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1733551735
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #08",
@@ -714,7 +713,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733638142
   },
   {
     "name": "HLL Official - UK #01",
@@ -1639,8 +1639,7 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1733619908
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
