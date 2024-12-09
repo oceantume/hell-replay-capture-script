@@ -38,8 +38,7 @@
   {
     "name": "[GER] 1. DOG Hundehütte New Players Welcome",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1733727936
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -110,8 +109,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1733727936
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -216,7 +214,7 @@
     "port": 7777
   },
   {
-    "name": "Cn间天唐网络科技工作室-抖音搜间天唐俱乐部",
+    "name": "<CN>#3关注抖音间天唐网俱乐部(冷门图)",
     "addr": "156.146.44.225",
     "port": 7787
   },
@@ -303,8 +301,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1733724654
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -435,8 +432,7 @@
   {
     "name": "BALKAN Brigade [TEST] | CRO/EN/DE",
     "addr": "176.57.153.41",
-    "port": 28000,
-    "removed": 1733727936
+    "port": 28000
   },
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
@@ -547,8 +543,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1733727936
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -558,8 +553,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1733727936
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -711,8 +705,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1733727936
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
@@ -889,8 +882,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1733727936
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1177,12 +1169,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1383,6 +1375,11 @@
     "port": 8530
   },
   {
+    "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
+    "addr": "216.219.93.37",
+    "port": 7797
+  },
+  {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
     "port": 7777
@@ -1395,7 +1392,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1733746375
   },
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
@@ -1506,12 +1504,6 @@
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
     "port": 8530
-  },
-  {
-    "name": "ANZAC Legion of the Damned",
-    "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1733141557
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1794,8 +1786,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1733727936
+    "port": 8530
   },
   {
     "name": "HLL Server",
@@ -2061,7 +2052,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "92.118.18.72",
-    "port": 7797
+    "port": 7797,
+    "removed": 1733746375
   },
   {
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
@@ -2082,6 +2074,11 @@
     "name": "ThePromisedLAN",
     "addr": "92.118.18.86",
     "port": 7777
+  },
+  {
+    "name": "End of Existence | VoidExistence.com",
+    "addr": "92.118.18.88",
+    "port": 7797
   },
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
