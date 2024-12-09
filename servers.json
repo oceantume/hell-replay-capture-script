@@ -123,8 +123,7 @@
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
     "addr": "145.239.144.76",
-    "port": 8530,
-    "removed": 1733684855
+    "port": 8530
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -202,6 +201,11 @@
     "addr": "152.228.223.28",
     "port": 9075,
     "removed": 1733422106
+  },
+  {
+    "name": "[Kn2H] | The Clinic / US EAST / NEW PLAYER WELCOME /",
+    "addr": "154.53.48.184",
+    "port": 38200
   },
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -524,7 +528,8 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733704412
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -595,12 +600,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (EU) Server by Smychten",
-    "addr": "176.57.171.140",
-    "port": 28300,
-    "removed": 1733099612
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -994,7 +993,7 @@
     "port": 28000
   },
   {
-    "name": "EASY Company | New Players Welcome | GPORTAL | DISCORD.GG/EASYC",
+    "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
     "port": 28000
   },
@@ -1172,12 +1171,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|665640040",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -1233,7 +1232,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1455,8 +1454,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "45.43.3.83",
-    "port": 9620,
-    "removed": 1733555411
+    "port": 9620
   },
   {
     "name": "101st Airborne | New Player Friendly | New Server | All Maps!",
@@ -2012,6 +2010,11 @@
     "addr": "90.246.108.194",
     "port": 7777,
     "removed": 1733231296
+  },
+  {
+    "name": "Farming Den",
+    "addr": "92.118.16.100",
+    "port": 7777
   },
   {
     "name": "Team17",
