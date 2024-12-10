@@ -7,7 +7,8 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1733854180
   },
   {
     "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
@@ -345,14 +346,12 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1733681289
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1733681289
+    "port": 28200
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1021,7 +1020,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733854180
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1217,7 +1217,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1282,7 +1282,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
     "port": 7777
   },
@@ -1386,30 +1386,6 @@
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
     "addr": "217.182.196.157",
     "port": 9075
-  },
-  {
-    "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
-    "addr": "31.58.228.52",
-    "port": 7777,
-    "removed": 1733249312
-  },
-  {
-    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
-    "addr": "31.58.228.52",
-    "port": 7787,
-    "removed": 1733249312
-  },
-  {
-    "name": "⑤ | THE CIRCLE #5 | TEST SERVER",
-    "addr": "31.58.228.52",
-    "port": 7797,
-    "removed": 1733249312
-  },
-  {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
-    "addr": "31.58.228.53",
-    "port": 7777,
-    "removed": 1733249312
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1778,7 +1754,8 @@
   {
     "name": "HLL Server",
     "addr": "81.157.171.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1733854180
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1788,8 +1765,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1733767773
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1891,7 +1867,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733854180
   },
   {
     "name": "Servidor de eventos Ronin",
