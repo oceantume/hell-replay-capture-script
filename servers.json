@@ -182,8 +182,7 @@
   {
     "name": "【FR】Eglantine Ici La [7CIE] https://discord.gg/H6pUB3CkBJ",
     "addr": "152.228.223.2",
-    "port": 9075,
-    "removed": 1733835179
+    "port": 9075
   },
   {
     "name": "CDS",
@@ -1777,6 +1776,11 @@
     "removed": 1733337682
   },
   {
+    "name": "HLL Server",
+    "addr": "81.157.171.68",
+    "port": 7777
+  },
+  {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
     "port": 7777
@@ -1983,12 +1987,6 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.246.108.194",
-    "port": 7777,
-    "removed": 1733231296
   },
   {
     "name": "Farming Den",
