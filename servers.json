@@ -145,12 +145,6 @@
     "port": 9075
   },
   {
-    "name": "BANDOFBROTHERS.GG <> Milsim Community | All Welcome",
-    "addr": "146.19.48.156",
-    "port": 7787,
-    "removed": 1733206216
-  },
-  {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "146.19.48.156",
     "port": 7797
@@ -1710,7 +1704,8 @@
   {
     "name": "Lucky Strike BattleGrounds | VOTEMAP | discord.gg/luckystrikes",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1733811975
   },
   {
     "name": "多 | Hostile Unknown | US-C | .gg/hostile",
