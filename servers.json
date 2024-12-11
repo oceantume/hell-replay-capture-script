@@ -84,7 +84,7 @@
     "port": 7787
   },
   {
-    "name": "⑤ | THE CIRCLE #5 | INFANTRY ONLY | DISCORD.GG/THE-CIRCLE",
+    "name": "⑤ | THE CIRCLE #5 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
   },
@@ -265,7 +265,7 @@
     "port": 7887
   },
   {
-    "name": "<CN>BRFN西住真穗的黑森峰学院港服Q群677043328",
+    "name": "CN BRFN西住真穗的黑森峰学院港服Q群677043328",
     "addr": "156.146.44.225",
     "port": 7897
   },
@@ -384,12 +384,14 @@
   {
     "name": "[RUS] Dark Lotus | Cult | Russian Public",
     "addr": "176.57.140.16",
-    "port": 28100
+    "port": 28100,
+    "removed": 1733940576
   },
   {
     "name": "Welcome To Neverland , Hell Let Loose EU Server ",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733940576
   },
   {
     "name": "John is a rat bastard",
@@ -649,12 +651,6 @@
     "name": "PV",
     "addr": "176.57.171.44",
     "port": 28500
-  },
-  {
-    "name": "[GER]Frühschicht  alle Maps",
-    "addr": "176.57.171.44",
-    "port": 28600,
-    "removed": 1733335770
   },
   {
     "name": "[GER/ENG]PennerBrigade#1/Offi LvL15+/Mic Pflicht",
@@ -1230,7 +1226,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1794,7 +1790,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733940576
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1886,8 +1883,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1733854180
+    "port": 28000
   },
   {
     "name": "Servidor de eventos Ronin",
