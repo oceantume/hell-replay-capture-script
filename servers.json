@@ -58,7 +58,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1733897410
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -262,6 +263,11 @@
     "port": 7887
   },
   {
+    "name": "<CN>HK-AFX&1801联合营Q群632277411",
+    "addr": "156.146.44.225",
+    "port": 7897
+  },
+  {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530
@@ -294,7 +300,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1733897410
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -479,8 +486,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1733811009
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -714,7 +720,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1733897410
   },
   {
     "name": "QA Testing - UK #07",
@@ -875,8 +882,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1733878840
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1694,7 +1700,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827
+    "port": 7827,
+    "removed": 1733897410
   },
   {
     "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
@@ -1732,7 +1739,7 @@
     "port": 7777
   },
   {
-    "name": " [TBG] MIXED MODES | DISCORD.GG/TBGCLAN | TBGCLAN.COM",
+    "name": " !![TBG] New Player Friendly | discord.gg/tbgclan | Recruiting!",
     "addr": "74.63.236.250",
     "port": 8530
   },
@@ -1766,8 +1773,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1733878840
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
