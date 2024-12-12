@@ -331,7 +331,7 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server",
+    "name": "32 vs 32 - Hell let loose (EU) Denmark",
     "addr": "176.57.134.27",
     "port": 28300
   },
@@ -629,7 +629,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1733983831
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -722,8 +723,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1733897410
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1892,7 +1892,8 @@
   {
     "name": "TOOG Armor Battles",
     "addr": "83.223.203.182",
-    "port": 28200
+    "port": 28200,
+    "removed": 1733983831
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
