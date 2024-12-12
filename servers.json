@@ -191,12 +191,6 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "152.228.223.28",
-    "port": 9075,
-    "removed": 1733422106
-  },
-  {
     "name": "[Kn2H] | The Clinic / US EAST / NEW PLAYER WELCOME /",
     "addr": "154.53.48.184",
     "port": 38200
@@ -262,7 +256,7 @@
     "port": 7887
   },
   {
-    "name": "CN BRFN西住真穗的黑森峰学院港服Q群677043328",
+    "name": "CN 1801西住真穗的黑森峰学院港服Q群677043328",
     "addr": "156.146.44.225",
     "port": 7897
   },
@@ -624,8 +618,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1733983831
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1207,7 +1200,7 @@
     "port": 7777
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "208.115.196.2",
     "port": 7777
   },
@@ -1222,7 +1215,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1554,7 +1547,7 @@
     "port": 8530
   },
   {
-    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#04 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
     "port": 8772
   },
@@ -1743,7 +1736,8 @@
   {
     "name": "Offensive ONLY \\  All Maps \\ Hang Em' High ",
     "addr": "78.142.218.164",
-    "port": 8530
+    "port": 8530,
+    "removed": 1734026964
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -1758,7 +1752,8 @@
   {
     "name": "HLL Server",
     "addr": "81.157.171.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734026964
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1773,18 +1768,19 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734026964
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1733940576
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734026964
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1799,7 +1795,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734026964
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1954,7 +1951,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "GREYHOUND NIGHT - Blue",
     "addr": "85.208.197.70",
     "port": 7817
   },
