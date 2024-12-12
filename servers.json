@@ -426,7 +426,7 @@
     "port": 28100
   },
   {
-    "name": "-=Scandinavians Let Loose=- #1 SLL- Offensive ONLY - VIP for Se",
+    "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
     "addr": "176.57.153.114",
     "port": 28000
   },
@@ -1082,7 +1082,8 @@
   {
     "name": "HLL_Nitratest",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1734009009
   },
   {
     "name": "nitrado.net gameserver s6VleGKQ",
@@ -1414,8 +1415,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1733922585
+    "port": 28200
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
