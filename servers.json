@@ -1907,12 +1907,6 @@
     "port": 9620
   },
   {
-    "name": "BOUNTY-HUNTERz",
-    "addr": "194.140.197.175",
-    "port": 28300,
-    "removed": 1733595794
-  },
-  {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
     "port": 7877
@@ -3270,10 +3264,9 @@
     "port": 7787
   },
   {
-    "name": "[ GER ] #DTT Eventserver | Trümmertruppe",
+    "name": "[ GER ] #DTT Adventsgemetzel | Eventserver",
     "addr": "46.4.97.246",
-    "port": 8530,
-    "removed": 1734200591
+    "port": 8530
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
