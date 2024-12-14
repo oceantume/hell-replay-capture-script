@@ -671,7 +671,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734199691
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1205,7 +1206,8 @@
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734199691
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1653,8 +1655,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1734178243
+    "port": 8772
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 lvl+30 DISCORD.GOLD",
@@ -1665,6 +1666,11 @@
     "name": "<COBRAS FUMANTES> MARRAM #2 OFFENSIVE 4ever",
     "addr": "181.214.221.212",
     "port": 7787
+  },
+  {
+    "name": "»BAIN« Training & Event | bainclan.com.br",
+    "addr": "181.214.221.212",
+    "port": 7797
   },
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
@@ -1688,7 +1694,7 @@
     "port": 7777
   },
   {
-    "name": "♤ Ctrl Alt Defeat [Hellfire Gaming Server] ctrlalt-defeat.com",
+    "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
     "port": 9075
   },
@@ -1750,8 +1756,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1734181362
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -1981,7 +1986,7 @@
     "port": 8530
   },
   {
-    "name": "♤ Ctrl Alt Defeat [Infected] ctrlalt-defeat.com",
+    "name": "♤Ctrl Alt Defeat [EVENT] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
     "port": 9075
   },
@@ -2081,7 +2086,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2286,8 +2291,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1734181362
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -3414,8 +3418,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1734181362
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -3542,8 +3545,7 @@
   {
     "name": "Emernic Test Server",
     "addr": "74.50.76.226",
-    "port": 8530,
-    "removed": 1734178243
+    "port": 8530
   },
   {
     "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
@@ -3590,7 +3592,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734199691
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3926,8 +3929,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1734113351
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
