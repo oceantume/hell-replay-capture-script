@@ -4012,7 +4012,8 @@
   {
     "name": "Antietam Let Loose |US East| Hosted by MB",
     "addr": "83.223.204.52",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734140351
   },
   {
     "name": "HLL Official - US East #80",
@@ -4030,7 +4031,7 @@
     "port": 28100
   },
   {
-    "name": "101st Heavy Panzer Battalion ",
+    "name": "German High Command",
     "addr": "83.223.207.50",
     "port": 28000
   },
