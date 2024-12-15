@@ -223,8 +223,7 @@
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
-    "port": 8530,
-    "removed": 1734203245
+    "port": 8530
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1766,8 +1765,7 @@
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
-    "port": 8530,
-    "removed": 1734178243
+    "port": 8530
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1812,8 +1810,7 @@
   {
     "name": "10th Mountain Division ᄿ (US East) : discord.gg/10thMD",
     "addr": "192.169.95.98",
-    "port": 9075,
-    "removed": 1734178243
+    "port": 9075
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -2020,12 +2017,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2080,7 +2077,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2213,8 +2210,7 @@
   {
     "name": "DHZ",
     "addr": "208.115.250.3",
-    "port": 7777,
-    "removed": 1734178243
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -2280,7 +2276,8 @@
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
-    "port": 28400
+    "port": 28400,
+    "removed": 1734222923
   },
   {
     "name": "HLL Official - Japan #01",
@@ -3264,7 +3261,7 @@
     "port": 7787
   },
   {
-    "name": "[ GER ] #DTT Adventsgemetzel | Eventserver",
+    "name": "[ GER ] #DTT Eventserver | Trümmertruppe",
     "addr": "46.4.97.246",
     "port": 8530
   },
@@ -3286,25 +3283,23 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "5.226.141.83",
-    "port": 8530
+    "port": 8530,
+    "removed": 1734222923
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1734203245
+    "port": 8530
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
-    "port": 8530,
-    "removed": 1734203245
+    "port": 8530
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1734203245
+    "port": 9620
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
@@ -3526,8 +3521,7 @@
   {
     "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777,
-    "removed": 1734178243
+    "port": 7777
   },
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
@@ -4060,7 +4054,7 @@
     "port": 28100
   },
   {
-    "name": "German High Command",
+    "name": "German High Command (USA)",
     "addr": "83.223.207.50",
     "port": 28000
   },
