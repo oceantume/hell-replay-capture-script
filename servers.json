@@ -2276,8 +2276,7 @@
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
-    "port": 28400,
-    "removed": 1734222923
+    "port": 28400
   },
   {
     "name": "HLL Official - Japan #01",
@@ -3410,7 +3409,8 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734224722
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
