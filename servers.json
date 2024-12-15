@@ -727,8 +727,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1734242935
+    "port": 30700
   },
   {
     "name": "HLL Official - Europe #10",
@@ -808,7 +807,8 @@
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
     "addr": "176.57.140.83",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734289010
   },
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
@@ -4191,7 +4191,8 @@
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734289010
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
