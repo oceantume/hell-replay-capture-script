@@ -807,8 +807,7 @@
   {
     "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
     "addr": "176.57.140.83",
-    "port": 28000,
-    "removed": 1734289010
+    "port": 28000
   },
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
@@ -4088,7 +4087,8 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734289684
   },
   {
     "name": "HLL Official - South America #01",
@@ -4191,8 +4191,7 @@
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777,
-    "removed": 1734289010
+    "port": 7777
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
