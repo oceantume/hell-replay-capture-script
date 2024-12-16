@@ -430,7 +430,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1734329441
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -883,13 +884,13 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1734242935
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734329441
   },
   {
     "name": "QA Testing - EU #04",
@@ -1404,7 +1405,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1734329441
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2215,7 +2217,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734329441
   },
   {
     "name": "DHZ",
@@ -3244,6 +3247,11 @@
     "port": 29000
   },
   {
+    "name": "[DIV33] PANZERGRUPPE 33 | SERVER OFICIAL DEL CLAN ",
+    "addr": "45.143.199.200",
+    "port": 8530
+  },
+  {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "45.43.3.83",
     "port": 9620
@@ -3412,8 +3420,7 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1734310990
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -4184,7 +4191,8 @@
   {
     "name": "Bad Company ",
     "addr": "92.118.18.96",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734329441
   },
   {
     "name": "PC Gamers - Español/English (DALLAS)",
