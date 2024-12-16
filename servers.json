@@ -861,6 +861,11 @@
     "port": 28200
   },
   {
+    "name": "32 vs 32 - Hell let loose [ Denmark ] www.hellletloose.dk",
+    "addr": "176.57.168.174",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.174",
     "port": 28300
@@ -868,7 +873,8 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734354701
   },
   {
     "name": "SHK (EU) Micro muss ,Deutsch ja ",
