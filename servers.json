@@ -959,7 +959,8 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1734309235
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -976,6 +977,11 @@
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
     "port": 28200
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 9.9 | TEST-SERVER | OINK",
+    "addr": "176.57.168.253",
+    "port": 28400
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -2016,12 +2022,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2076,7 +2082,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2197,6 +2203,11 @@
     "port": 7777
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "addr": "208.115.248.109",
+    "port": 7777
+  },
+  {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
@@ -2209,8 +2220,7 @@
   {
     "name": "DHZ",
     "addr": "208.115.250.3",
-    "port": 7777,
-    "removed": 1734264652
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -3287,8 +3297,7 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1734286103
+    "port": 8530
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -3508,8 +3517,7 @@
   {
     "name": "Dark Horizon Central |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777,
-    "removed": 1734264652
+    "port": 7777
   },
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
@@ -4087,8 +4095,7 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1734289684
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
