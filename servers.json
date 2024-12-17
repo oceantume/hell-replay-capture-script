@@ -671,7 +671,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734458970
   },
   {
     "name": "HLL Official - Australia #04",
@@ -681,7 +682,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734458970
   },
   {
     "name": "HLL Official - Australia #03",
@@ -959,8 +961,7 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300,
-    "removed": 1734309235
+    "port": 28300
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1852,7 +1853,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734458970
   },
   {
     "name": "QA Testing - US West #06",
@@ -3594,7 +3596,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734458970
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3929,8 +3932,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1734372560
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -3941,8 +3943,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1734372560
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
