@@ -173,8 +173,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1734418950
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -189,8 +188,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1734415808
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -245,8 +243,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1734418950
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -433,8 +430,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1734415808
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -716,7 +712,8 @@
   {
     "name": "D.E.C.I.B.E.L | LOW PING | NOOB FREINDLY ",
     "addr": "176.57.140.16",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734437529
   },
   {
     "name": "[ESP] MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA | MEJOR PING | O",
@@ -860,7 +857,7 @@
     "port": 28200
   },
   {
-    "name": "32 vs 32 - Infantry squad - [ Live streaming ] www.hellletloose",
+    "name": "32 vs 32 - Infantry squad @ www.hellletloose.dk",
     "addr": "176.57.168.174",
     "port": 28100
   },
@@ -979,8 +976,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1734418950
+    "port": 28200
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 9.9 | TEST-SERVER | OINK",
@@ -995,8 +991,7 @@
   {
     "name": "KRTs Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1734418950
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1392,8 +1387,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1734418950
+    "port": 28100
   },
   {
     "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
@@ -1916,8 +1910,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1734418950
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -2024,12 +2017,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2281,7 +2274,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
     "port": 7787
   },
@@ -3590,8 +3583,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1734418950
+    "port": 8530
   },
   {
     "name": "HLL Server",
@@ -3975,7 +3967,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734437529
   },
   {
     "name": "HLL Official - US East #02",
