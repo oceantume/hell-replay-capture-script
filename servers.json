@@ -188,7 +188,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1734415808
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -430,7 +431,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1734415808
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -817,7 +819,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734415808
   },
   {
     "name": "QA Testing - EU #08",
@@ -887,8 +890,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1734329441
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1402,8 +1404,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1734329441
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1884,7 +1885,8 @@
   {
     "name": "[#1] Hell Goon Locos (US West) Realistic Gameplay, New server, ",
     "addr": "193.192.59.170",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734415808
   },
   {
     "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
@@ -1910,7 +1912,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1734415808
   },
   {
     "name": "per aspera ad astra",
@@ -1920,7 +1923,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.180",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734415808
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -1942,7 +1946,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren  [GHOST]",
     "addr": "195.181.175.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734415808
   },
   {
     "name": "HLL_Nitratest",
@@ -2198,7 +2203,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "208.115.248.109",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734415808
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -2257,9 +2263,29 @@
     "port": 9075
   },
   {
+    "name": "hll Server",
+    "addr": "31.58.228.52",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "addr": "31.58.228.53",
+    "port": 7777
+  },
+  {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.53",
     "port": 7877
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "addr": "31.58.228.76",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "31.58.228.76",
+    "port": 7787
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3493,7 +3519,7 @@
     "port": 8530
   },
   {
-    "name": "The Lucky Strikes  | New Players Welcome",
+    "name": "The Lucky Strikes | New Players Welcome",
     "addr": "69.162.102.50",
     "port": 7787
   },
