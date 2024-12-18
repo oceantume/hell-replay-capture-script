@@ -200,6 +200,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "139.28.17.146",
+    "port": 7697
+  },
+  {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7777
@@ -665,8 +670,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1734458970
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -676,8 +680,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1734458970
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -879,14 +882,12 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1734502205
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1734502205
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1512,7 +1513,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734545363
   },
   {
     "name": "QA Testing - EU #10",
@@ -1677,7 +1679,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734545363
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1747,8 +1750,7 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1734527163
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -1853,8 +1855,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1734458970
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -2072,7 +2073,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2401,8 +2402,7 @@
   {
     "name": "HLL Official - US West #25",
     "addr": "45.137.246.12",
-    "port": 28100,
-    "removed": 1734526268
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #38",
@@ -3600,8 +3600,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1734458970
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3616,7 +3615,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734545363
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3936,7 +3936,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734545363
   },
   {
     "name": "HLL Official - Asia #04",
@@ -3987,8 +3988,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1734523911
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -4191,8 +4191,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1734523911
+    "port": 7777
   },
   {
     "name": "Bad Company ",
