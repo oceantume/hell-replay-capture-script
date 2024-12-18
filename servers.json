@@ -190,7 +190,7 @@
     "port": 9224
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
     "port": 8530
   },
@@ -202,8 +202,7 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1734505211
+    "port": 7777
   },
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
@@ -425,8 +424,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1734504051
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1674,8 +1672,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1734113351
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1934,7 +1931,7 @@
     "removed": 1734009009
   },
   {
-    "name": "[FR] La Compagnie de Feu. ",
+    "name": "[FR] La Compagnie de Feu [FR]",
     "addr": "195.82.158.186",
     "port": 20700
   },
@@ -1961,8 +1958,7 @@
   {
     "name": "☆ | UK Let Loose [UKLL] - ukletloose.co.uk | New Players Welc",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1734505211
+    "port": 9620
   },
   {
     "name": "Gunny's Hideout -- ALL ELSENBORN ALL MODES -- Dallas",
@@ -2010,12 +2006,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2252,7 +2248,12 @@
     "port": 7777
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "name": "hll Server",
+    "addr": "31.58.228.52",
+    "port": 7787
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
     "addr": "31.58.228.53",
     "port": 7777
   },
@@ -3960,8 +3961,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1734437529
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -3981,7 +3981,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734523911
   },
   {
     "name": "DevQA - US #03",
@@ -4184,7 +4185,8 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734523911
   },
   {
     "name": "Bad Company ",
