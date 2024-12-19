@@ -212,7 +212,8 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7787
+    "port": 7787,
+    "removed": 1734588588
   },
   {
     "name": "⑤ | THE CIRCLE #5 | SKIRMISH  |DISCORD.GG/THE-CIRCLE",
@@ -396,6 +397,11 @@
     "name": "CN 1801西住真穗的黑森峰学院港服Q群677043328",
     "addr": "156.146.44.225",
     "port": 7897
+  },
+  {
+    "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
+    "addr": "161.129.66.130",
+    "port": 8530
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -872,7 +878,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734588588
   },
   {
     "name": "HLL Official - Europe #07",
@@ -2072,7 +2079,8 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734588588
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -2249,12 +2257,14 @@
   {
     "name": "hll Server",
     "addr": "31.58.228.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734588588
   },
   {
     "name": "hll Server",
     "addr": "31.58.228.52",
-    "port": 7787
+    "port": 7787,
+    "removed": 1734588588
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
