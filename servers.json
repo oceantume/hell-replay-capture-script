@@ -606,8 +606,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1734610312
+    "port": 28200
   },
   {
     "name": "DevQA - EU #01",
@@ -4125,12 +4124,6 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
-  },
-  {
-    "name": "Farming Den",
-    "addr": "92.118.16.100",
-    "port": 7777,
-    "removed": 1734005540
   },
   {
     "name": "Team17",
