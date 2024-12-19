@@ -222,7 +222,8 @@
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
-    "port": 8530
+    "port": 8530,
+    "removed": 1734631736
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1075,7 +1076,8 @@
   {
     "name": "Test-Server 2",
     "addr": "176.57.168.69",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734631736
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
@@ -1380,7 +1382,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734631736
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1852,7 +1855,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734631736
   },
   {
     "name": "HLL Official - US West #02",
@@ -1932,12 +1936,6 @@
     "name": "[GER] 4 Fäuste gegen Blaubeeren  [GHOST]",
     "addr": "195.181.175.182",
     "port": 7777
-  },
-  {
-    "name": "HLL_Nitratest",
-    "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1734009009
   },
   {
     "name": "[FR] La Compagnie de Feu [FR]",
@@ -2076,7 +2074,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3611,7 +3609,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734631736
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3626,8 +3625,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1734545363
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3953,8 +3951,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1734372560
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
