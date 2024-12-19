@@ -606,7 +606,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734610312
   },
   {
     "name": "DevQA - EU #01",
@@ -1681,8 +1682,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1734545363
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -2016,12 +2016,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3998,7 +3998,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734610312
   },
   {
     "name": "DevQA - US #03",
@@ -4185,7 +4186,8 @@
   {
     "name": "ThePromisedLAN",
     "addr": "92.118.18.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734610312
   },
   {
     "name": "End of Existence | VoidExistence.com",
