@@ -222,8 +222,7 @@
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
-    "port": 8530,
-    "removed": 1734631736
+    "port": 8530
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -401,6 +400,11 @@
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
     "addr": "161.129.66.130",
+    "port": 8530
+  },
+  {
+    "name": "CMG Council Of Men Gaming//New Players Welcome",
+    "addr": "161.129.66.154",
     "port": 8530
   },
   {
@@ -1438,8 +1442,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1734634609
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1846,8 +1849,7 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1734634609
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1894,8 +1896,7 @@
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1734635275
+    "port": 8530
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
@@ -2017,12 +2018,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2077,7 +2078,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2251,7 +2252,8 @@
   {
     "name": "En Svensk Tiger | OFFENSIVE ONLY | ENG/SWE",
     "addr": "217.182.196.157",
-    "port": 9075
+    "port": 9075,
+    "removed": 1734654583
   },
   {
     "name": "hll Server",
@@ -2278,8 +2280,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777,
-    "removed": 1734634609
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
@@ -3892,8 +3893,7 @@
   {
     "name": "HLL Official - Asia #25",
     "addr": "83.223.197.170",
-    "port": 28100,
-    "removed": 1734634609
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #27",
