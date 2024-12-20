@@ -1755,7 +1755,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1734699751
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -2281,7 +2282,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734699751
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
@@ -2311,8 +2313,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1734613586
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
