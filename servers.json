@@ -440,7 +440,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1734674955
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -882,8 +883,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1734588588
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1452,7 +1452,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734674955
   },
   {
     "name": "QA Testing - EU #05",
@@ -2266,6 +2267,11 @@
     "addr": "31.58.228.52",
     "port": 7787,
     "removed": 1734588588
+  },
+  {
+    "name": "Dark Horizon | EU | Discord.gg/dhz",
+    "addr": "31.58.228.52",
+    "port": 7807
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
