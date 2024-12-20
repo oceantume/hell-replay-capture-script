@@ -10,6 +10,11 @@
     "port": 7807
   },
   {
+    "name": "TAGLESS OCE | LIFETIME VIP ON JOIN | BLUEBERRY FARM",
+    "addr": "103.193.80.97",
+    "port": 7787
+  },
+  {
     "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
@@ -356,10 +361,9 @@
     "port": 7817
   },
   {
-    "name": "CN1#HK PKK亿江南萌新欢乐营（纯攻防）QQ群747976659",
+    "name": "<CN>HK/HLL菜鸟乐园『萌新友好』群号974297943",
     "addr": "156.146.44.225",
-    "port": 7827,
-    "removed": 1734113351
+    "port": 7827
   },
   {
     "name": "cn2忆江南的高强度苏美德地图服Q群341807965",
@@ -440,8 +444,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1734674955
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1380,8 +1383,7 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.174.129",
-    "port": 28200,
-    "removed": 1734631736
+    "port": 28200
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1683,8 +1685,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1734612683
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -2013,12 +2014,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3969,7 +3970,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734696670
   },
   {
     "name": "HLL Official - US East #02",
@@ -3989,8 +3991,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1734610312
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
