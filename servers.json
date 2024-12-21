@@ -192,7 +192,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1734761282
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -837,7 +838,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734761282
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -1733,6 +1735,11 @@
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "192.169.86.218",
     "port": 9014
+  },
+  {
+    "name": "Mikey's Marauders / Test / discord.gg/mikeys-mm",
+    "addr": "192.169.86.51",
+    "port": 7787
   },
   {
     "name": "=7Cav= HLL Training Server 1",
