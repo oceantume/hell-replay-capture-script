@@ -392,7 +392,7 @@
     "port": 7887
   },
   {
-    "name": "CN 1801西住真穗的黑森峰学院港服Q群677043328",
+    "name": "CN 1801蓝蔷薇少女的骑行港服Q群677043328",
     "addr": "156.146.44.225",
     "port": 7897
   },
@@ -2079,7 +2079,8 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734762171
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -4098,6 +4099,11 @@
     "name": "GREYHOUND NIGHT - Blue",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "hll Server",
+    "addr": "85.208.197.74",
+    "port": 7787
   },
   {
     "name": "HLL Official - South America #02",
