@@ -237,10 +237,9 @@
     "removed": 1734568278
   },
   {
-    "name": "[FR] Les Résistants",
+    "name": "[FR] Les Résistants | FR uniquement | discord.gg/hxSd3rqFRk",
     "addr": "141.94.133.10",
-    "port": 8530,
-    "removed": 1734807811
+    "port": 8530
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -2008,12 +2007,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
+    "name": "CN2#冬日里的深夜香甜猫咪攻防咖.啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2068,7 +2067,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -4090,7 +4089,8 @@
   {
     "name": "Dark Horizon Central | New Players Welcome | Discord.gg/dhz",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1734827559
   },
   {
     "name": "HLL Official - South America #02",
