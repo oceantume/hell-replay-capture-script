@@ -192,8 +192,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1734761282
+    "port": 9224
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -881,12 +880,14 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734847696
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1734847696
   },
   {
     "name": "HLL Official - Europe #06",
@@ -4042,6 +4043,11 @@
     "port": 28100
   },
   {
+    "name": "M$NEY JUST HITS DIFFERENT  (MJHD)",
+    "addr": "83.223.207.46",
+    "port": 28300
+  },
+  {
     "name": "German High Command (USA)",
     "addr": "83.223.207.50",
     "port": 28000
@@ -4055,6 +4061,11 @@
     "name": "The Practice Range",
     "addr": "83.223.207.55",
     "port": 28600
+  },
+  {
+    "name": "Durty Dozen",
+    "addr": "83.223.207.55",
+    "port": 28700
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
