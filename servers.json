@@ -237,7 +237,7 @@
     "removed": 1734568278
   },
   {
-    "name": "[FR] Les Résistants | FR uniquement | discord.gg/hxSd3rqFRk",
+    "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "141.94.133.10",
     "port": 8530
   },
@@ -1648,7 +1648,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1734890869
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -3922,7 +3923,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734890869
   },
   {
     "name": "HLL Official - Asia #04",
