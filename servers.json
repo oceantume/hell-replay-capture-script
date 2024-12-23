@@ -188,7 +188,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1734934193
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -836,7 +837,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1734934193
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -881,14 +883,12 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1734847696
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1734847696
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1225,7 +1225,8 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1734934193
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. Server",
@@ -1626,7 +1627,7 @@
     "removed": 1734869397
   },
   {
-    "name": "  BRASIL HELL | »BAIN« | bainclan.com.br",
+    "name": "  BRASIL HELL | »BAIN« | bainclan.com.br | Min. Lvl. »20«",
     "addr": "177.54.151.123",
     "port": 8898
   },
