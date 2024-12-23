@@ -309,7 +309,8 @@
   {
     "name": "PL/ENG ♦ PZJR Clan Server ♦ Event server",
     "addr": "149.50.108.134",
-    "port": 7777
+    "port": 7777,
+    "removed": 1734958155
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -370,6 +371,11 @@
     "name": "<CN>HK/HLL菜鸟乐园『萌新友好』群号974297943",
     "addr": "156.146.44.225",
     "port": 7827
+  },
+  {
+    "name": "<CN>HK北极星萌新服务器Q群：1018176083",
+    "addr": "156.146.44.225",
+    "port": 7837
   },
   {
     "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
