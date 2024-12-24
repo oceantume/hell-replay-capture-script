@@ -451,8 +451,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735020556
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -855,7 +854,8 @@
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
     "addr": "176.57.165.128",
-    "port": 32400
+    "port": 32400,
+    "removed": 1735042284
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1968,7 +1968,8 @@
   {
     "name": "(MsW) Ministry of Silly Warfare ENG UK/EU",
     "addr": "198.244.177.7",
-    "port": 9075
+    "port": 9075,
+    "removed": 1735042284
   },
   {
     "name": "☆ | UK Let Loose [UKLL] - ukletloose.co.uk | New Players Welc",
@@ -2021,12 +2022,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖啡馆|120748151",
+    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖啡馆|120748151",
+    "name": "C.N2#冬日里的深夜香甜猫咪攻防咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3985,8 +3986,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1734955892
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
