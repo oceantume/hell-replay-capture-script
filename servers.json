@@ -1900,12 +1900,6 @@
     "port": 28000
   },
   {
-    "name": "[#1] Hell Goon Locos (US West) Realistic Gameplay, New server, ",
-    "addr": "193.192.59.170",
-    "port": 28100,
-    "removed": 1734415808
-  },
-  {
     "name": "The Bay 707 (US WEST)",
     "addr": "193.192.59.99",
     "port": 28300
@@ -1929,12 +1923,6 @@
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
     "port": 7777
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
-    "addr": "195.181.175.180",
-    "port": 7777,
-    "removed": 1734415808
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -2217,12 +2205,6 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
     "port": 7777
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
-    "addr": "208.115.248.109",
-    "port": 7777,
-    "removed": 1734415808
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -3635,7 +3617,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735021483
   },
   {
     "name": "HLL Official - Asia #07",
