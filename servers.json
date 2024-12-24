@@ -720,12 +720,6 @@
     "port": 28000
   },
   {
-    "name": "D.E.C.I.B.E.L | LOW PING | NOOB FREINDLY ",
-    "addr": "176.57.140.16",
-    "port": 28200,
-    "removed": 1734437529
-  },
-  {
     "name": "[ESP] MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA | MEJOR PING | O",
     "addr": "176.57.140.16",
     "port": 28400,
@@ -854,8 +848,7 @@
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
     "addr": "176.57.165.128",
-    "port": 32400,
-    "removed": 1735042284
+    "port": 32400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -3618,7 +3611,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735043316
   },
   {
     "name": "HLL Official - Asia #07",
