@@ -1072,10 +1072,9 @@
     "port": 28000
   },
   {
-    "name": "Test-Server 2",
+    "name": "4story",
     "addr": "176.57.168.69",
-    "port": 28100,
-    "removed": 1734631736
+    "port": 28100
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
@@ -1879,8 +1878,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1735063704
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -2090,7 +2088,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3637,7 +3635,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735150101
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3963,14 +3962,12 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1734977310
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1735063704
+    "port": 28200
   },
   {
     "name": "HLL Official - Singapore #01",
