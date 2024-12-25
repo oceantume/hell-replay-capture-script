@@ -892,7 +892,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735106960
   },
   {
     "name": "QA Testing - EU #04",
@@ -1224,8 +1225,7 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1734934193
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. !Votemap",
@@ -1395,7 +1395,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735106960
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2019,12 +2020,12 @@
     "port": 8998
   },
   {
-    "name": "CN1#冬日里的深夜甜蜜少女萌新咖啡馆|120748151",
+    "name": "CN1#圣诞夜的深夜温暖少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬日里的深夜香甜猫咪攻防咖啡馆|120748151",
+    "name": "CN2#圣诞夜的深夜火鸡喵咪攻防咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
