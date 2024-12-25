@@ -1463,6 +1463,11 @@
     "port": 28200
   },
   {
+    "name": "CZ/SK ",
+    "addr": "176.57.181.144",
+    "port": 28000
+  },
+  {
     "name": "SLB #2",
     "addr": "176.57.181.144",
     "port": 28100
@@ -1696,7 +1701,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
+    "name": "σ CHAD STUART'S — MERRY XMAS, FREE VIP — discord.gg/chadfg",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -1818,8 +1823,7 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1735067187
+    "port": 9075
   },
   {
     "name": "10th Mountain Division ᄿ (US East) : discord.gg/10thMD",
@@ -2015,7 +2019,7 @@
     "port": 8998
   },
   {
-    "name": "C.N1#冬日里的深夜甜蜜少女萌新咖啡馆|120748151",
+    "name": "CN1#冬日里的深夜甜蜜少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -2085,7 +2089,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3612,7 +3616,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735086551
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3622,8 +3627,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1734977310
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
