@@ -1923,12 +1923,6 @@
     "port": 7787
   },
   {
-    "name": "[FR] La Compagnie de Feu [FR]",
-    "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1734569952
-  },
-  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
@@ -1955,7 +1949,7 @@
     "port": 9620
   },
   {
-    "name": "Gunny's Hideout -- ALL ELSENBORN ALL MODES -- Dallas",
+    "name": "Gunny's Hideout -- ALL SKIRMISH ALL THE TIME -- Dallas",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -3597,7 +3591,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735176888
   },
   {
     "name": "HLL Official - Asia #07",
