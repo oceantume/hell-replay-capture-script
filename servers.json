@@ -220,8 +220,7 @@
   {
     "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7787,
-    "removed": 1735283406
+    "port": 7787
   },
   {
     "name": "⑤ | THE CIRCLE #5 | DISCORD.GG/THE-CIRCLE",
@@ -427,7 +426,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1735301458
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -447,8 +447,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735279751
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -3245,7 +3244,8 @@
   {
     "name": "The Old Bastards 77th Infantry Divison",
     "addr": "45.45.238.233",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735301458
   },
   {
     "name": "Greyhound Night - Blue",
@@ -3918,7 +3918,8 @@
   {
     "name": "HLL Official - Asia #61",
     "addr": "83.223.197.170",
-    "port": 28800
+    "port": 28800,
+    "removed": 1735301458
   },
   {
     "name": "HLL Official - Asia #65",
@@ -3959,8 +3960,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1735215065
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -3975,7 +3975,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735301458
   },
   {
     "name": "HLL Official - US East #06",
