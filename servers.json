@@ -197,7 +197,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735409263
   },
   {
     "name": "A mysterious server",
@@ -686,7 +687,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735409263
   },
   {
     "name": "HLL Official - Australia #04",
@@ -696,8 +698,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1735322910
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -858,8 +859,7 @@
   {
     "name": "# 1 - Infantry squad © www.hellletloose.dk",
     "addr": "176.57.168.174",
-    "port": 28100,
-    "removed": 1735391519
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1859,7 +1859,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735409263
   },
   {
     "name": "QA Testing - US West #06",
@@ -2068,7 +2069,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3245,8 +3246,7 @@
   {
     "name": "The Old Bastards 77th Infantry Divison",
     "addr": "45.45.238.233",
-    "port": 8530,
-    "removed": 1735301458
+    "port": 8530
   },
   {
     "name": "Greyhound Night - Blue",
@@ -3587,8 +3587,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1735322910
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -3603,8 +3602,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1735322910
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #10",
@@ -3935,7 +3933,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735409263
   },
   {
     "name": "HLL Official - Asia #05",
@@ -4001,7 +4000,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735409263
   },
   {
     "name": "HLL Official - US East #79",
