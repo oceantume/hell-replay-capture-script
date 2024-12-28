@@ -1388,7 +1388,8 @@
   {
     "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
     "addr": "176.57.174.145",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735345740
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1841,52 +1842,62 @@
   {
     "name": "HLL Official - US West #81",
     "addr": "193.192.58.101",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735345740
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735345740
   },
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735345740
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735345740
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735345740
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735345740
   },
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735345740
   },
   {
     "name": "HLL Official - US West #80",
     "addr": "193.192.59.123",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735345740
   },
   {
     "name": "[ESP-EN] Hell Let Loose Server",
     "addr": "193.192.59.170",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735345740
   },
   {
     "name": "The Bay 707 (US WEST)",
     "addr": "193.192.59.99",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735345740
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -2000,12 +2011,12 @@
     "port": 8998
   },
   {
-    "name": "C.N1#跨年夜前深夜温暖少女萌新咖啡馆|120748151",
+    "name": "CN1#跨年夜前深夜温暖少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#跨年夜前深夜火炉喵咪攻防咖啡馆|120748151",
+    "name": "CN2#跨年夜前深夜火炉喵咪攻防咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2070,7 +2081,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3293,14 +3304,12 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
-    "port": 8530,
-    "removed": 1735326378
+    "port": 8530
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1735326378
+    "port": 9620
   },
   {
     "name": "47.Division Geist all Players Welcome",
