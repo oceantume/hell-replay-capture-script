@@ -970,7 +970,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding",
     "addr": "176.57.168.253",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735369569
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -3589,8 +3590,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1735368362
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -4054,8 +4054,7 @@
   {
     "name": "HLL Official - US East #80",
     "addr": "83.223.204.75",
-    "port": 28200,
-    "removed": 1735368910
+    "port": 28200
   },
   {
     "name": "QA Testing - US East #09",
