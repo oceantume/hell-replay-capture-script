@@ -197,8 +197,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1735409263
+    "port": 8530
   },
   {
     "name": "A mysterious server",
@@ -251,6 +250,11 @@
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
     "port": 9620
+  },
+  {
+    "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
+    "addr": "141.95.35.153",
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -432,8 +436,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1735301458
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -688,8 +691,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1735409263
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1825,7 +1827,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735495671
   },
   {
     "name": "HLL Official - US West #81",
@@ -2065,7 +2068,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3573,7 +3576,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735495671
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3929,8 +3933,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1735409263
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -3997,8 +4000,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1735409263
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #79",
