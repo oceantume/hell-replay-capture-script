@@ -187,7 +187,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1735452498
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -346,11 +347,10 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1735432371
+    "port": 7777
   },
   {
-    "name": "<CN>#3TT关注抖音间天唐网俱乐部(阴间图/冷门图)",
+    "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7787
   },
@@ -448,8 +448,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1735432371
+    "port": 9075
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -820,7 +819,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735452498
   },
   {
     "name": "QA Testing - EU #08",
@@ -850,8 +850,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1735279751
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -891,7 +890,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735452498
   },
   {
     "name": "QA Testing - EU #04",
@@ -1086,7 +1086,8 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735452498
   },
   {
     "name": "HLL Official - Europe #26",
@@ -1216,8 +1217,7 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1735366089
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. !Votemap",
@@ -1257,8 +1257,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1735366089
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1429,7 +1428,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735452498
   },
   {
     "name": "QA Testing - UK #07",
@@ -3584,7 +3584,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735452498
   },
   {
     "name": "HLL Official - Asia #07",
