@@ -187,8 +187,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1735452498
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
@@ -858,7 +857,7 @@
     "port": 28200
   },
   {
-    "name": "# 1 - Infantry squad © www.hellletloose.dk",
+    "name": "ENG/DK - Hell let loose - Denmark © www.hellletloose.dk",
     "addr": "176.57.168.174",
     "port": 28100
   },
@@ -3484,8 +3483,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1735455993
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3585,7 +3583,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735474194
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3962,12 +3961,14 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735474194
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735474194
   },
   {
     "name": "HLL Official - US East #02",
@@ -3987,8 +3988,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1735387797
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -4020,6 +4020,11 @@
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
     "port": 28000
+  },
+  {
+    "name": "US EAST New Players Welcome.",
+    "addr": "83.223.204.11",
+    "port": 28100
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
