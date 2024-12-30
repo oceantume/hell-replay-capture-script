@@ -255,7 +255,8 @@
   {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
     "addr": "141.95.35.153",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735582112
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -345,7 +346,8 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735582112
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -408,6 +410,11 @@
     "port": 7897
   },
   {
+    "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "addr": "156.146.44.225",
+    "port": 7907
+  },
+  {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
     "addr": "161.129.66.130",
     "port": 8530
@@ -415,7 +422,8 @@
   {
     "name": "Council Of Men//Casual Players Welcome/discord.gg/the-council-o",
     "addr": "161.129.66.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735582112
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -700,7 +708,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735582112
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1688,7 +1697,8 @@
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
     "addr": "192.169.85.194",
-    "port": 9620
+    "port": 9620,
+    "removed": 1735582112
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -1703,8 +1713,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1735563761
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1826,8 +1835,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1735495671
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -1857,8 +1865,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1735409263
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -3257,6 +3264,11 @@
     "port": 8530
   },
   {
+    "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
+    "addr": "5.9.77.39",
+    "port": 8530
+  },
+  {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
     "port": 8530
@@ -3385,8 +3397,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1735563761
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -3401,8 +3412,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1735563761
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -3558,13 +3568,13 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1735560691
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735582112
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3574,7 +3584,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735582112
   },
   {
     "name": "HLL Official - Asia #01",
