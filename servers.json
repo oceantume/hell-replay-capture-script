@@ -455,7 +455,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1735538991
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -820,8 +821,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1735452498
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #08",
@@ -891,8 +891,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1735452498
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1087,8 +1086,7 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1735452498
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #26",
@@ -1258,7 +1256,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735538991
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1429,8 +1428,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1735452498
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -3543,6 +3541,11 @@
     "port": 7777
   },
   {
+    "name": "(IC) Offensive Heaven | US Central #3 | discord.gg/icoh",
+    "addr": "69.162.89.150",
+    "port": 7777
+  },
+  {
     "name": "Emernic Test Server",
     "addr": "74.50.76.226",
     "port": 8530
@@ -3575,8 +3578,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1735522726
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
