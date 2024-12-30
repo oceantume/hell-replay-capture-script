@@ -308,12 +308,6 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Clan Server ♦ Event server",
-    "addr": "149.50.108.134",
-    "port": 7777,
-    "removed": 1734958155
-  },
-  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -1709,7 +1703,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735563761
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1744,7 +1739,8 @@
   {
     "name": "BadgerGrounds - West Mongolia (LOW PING)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1735563761
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -2258,8 +2254,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1735477883
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -3390,7 +3385,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797
+    "port": 7797,
+    "removed": 1735563761
   },
   {
     "name": "[Merc]iless Event Server",
@@ -3405,7 +3401,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1735563761
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
