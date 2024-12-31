@@ -393,7 +393,8 @@
   {
     "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
     "addr": "156.146.44.225",
-    "port": 7877
+    "port": 7877,
+    "removed": 1735647062
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -409,6 +410,11 @@
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7907
+  },
+  {
+    "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
+    "addr": "156.146.44.225",
+    "port": 7917
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -454,8 +460,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735625358
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1884,7 +1889,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735647062
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -3599,68 +3605,57 @@
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.158",
-    "port": 28000,
-    "removed": 1735604975
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.158",
-    "port": 28100,
-    "removed": 1735604975
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.158",
-    "port": 28200,
-    "removed": 1735604975
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.158",
-    "port": 28300,
-    "removed": 1735604975
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.158",
-    "port": 28400,
-    "removed": 1735604975
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #37",
     "addr": "83.223.197.158",
-    "port": 28500,
-    "removed": 1735604975
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #41",
     "addr": "83.223.197.158",
-    "port": 28600,
-    "removed": 1735604975
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #48",
     "addr": "83.223.197.158",
-    "port": 28700,
-    "removed": 1735604975
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #62",
     "addr": "83.223.197.158",
-    "port": 28800,
-    "removed": 1735604975
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #64",
     "addr": "83.223.197.158",
-    "port": 28900,
-    "removed": 1735604975
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #69",
     "addr": "83.223.197.158",
-    "port": 29000,
-    "removed": 1735604975
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #09",
@@ -3921,8 +3916,7 @@
   {
     "name": "HLL Official - Asia #61",
     "addr": "83.223.197.170",
-    "port": 28800,
-    "removed": 1735628974
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #65",
@@ -3963,8 +3957,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1735474194
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -3984,7 +3977,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735647062
   },
   {
     "name": "DevQA - US #03",
