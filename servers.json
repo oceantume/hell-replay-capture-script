@@ -198,7 +198,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735604975
   },
   {
     "name": "A mysterious server",
@@ -3569,7 +3570,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3601,57 +3603,68 @@
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.158",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.158",
-    "port": 28400
+    "port": 28400,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #37",
     "addr": "83.223.197.158",
-    "port": 28500
+    "port": 28500,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #41",
     "addr": "83.223.197.158",
-    "port": 28600
+    "port": 28600,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #48",
     "addr": "83.223.197.158",
-    "port": 28700
+    "port": 28700,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #62",
     "addr": "83.223.197.158",
-    "port": 28800
+    "port": 28800,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #64",
     "addr": "83.223.197.158",
-    "port": 28900
+    "port": 28900,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #69",
     "addr": "83.223.197.158",
-    "port": 29000
+    "port": 29000,
+    "removed": 1735604975
   },
   {
     "name": "HLL Official - Asia #09",
@@ -4130,6 +4143,16 @@
     "name": "(IC) Offensive Heaven | EU | discord.gg/icoh",
     "addr": "91.134.56.12",
     "port": 7797
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "91.134.56.12",
+    "port": 7817
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "91.134.56.12",
+    "port": 7827
   },
   {
     "name": "Team17",
