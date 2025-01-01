@@ -3226,7 +3226,7 @@
     "port": 9620
   },
   {
-    "name": "The Old Bastards 77th Infantry Divison",
+    "name": "The Old Bastards 77th Infantry Divison [New Player Friendly]",
     "addr": "45.45.238.233",
     "port": 8530
   },
@@ -3952,8 +3952,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1735474194
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -3978,8 +3977,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1735647062
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -4014,7 +4012,8 @@
   {
     "name": "US EAST New Players Welcome.",
     "addr": "83.223.204.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735733465
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
@@ -4169,7 +4168,8 @@
   {
     "name": "The Red Guard (US EAST) - discord.gg/N5jG5MvuDm",
     "addr": "92.118.18.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735733465
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
