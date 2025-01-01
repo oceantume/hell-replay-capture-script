@@ -193,13 +193,13 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1735625358
+    "port": 9224
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735711778
   },
   {
     "name": "A mysterious server",
@@ -1517,7 +1517,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735711778
   },
   {
     "name": "QA Testing - EU #10",
@@ -3403,8 +3404,7 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1735693331
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
