@@ -198,8 +198,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1735711778
+    "port": 8530
   },
   {
     "name": "A mysterious server",
@@ -2075,7 +2074,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3564,7 +3563,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735754918
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3574,8 +3574,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1735668503
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -3932,7 +3931,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735754918
   },
   {
     "name": "HLL Official - Asia #05",
