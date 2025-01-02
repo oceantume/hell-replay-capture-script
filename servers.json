@@ -455,7 +455,7 @@
     "port": 8530
   },
   {
-    "name": "[PV] Project V Network | USA East | https://discord.gg/pNUHmgYZ",
+    "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | https",
     "addr": "172.93.105.158",
     "port": 9075
   },
@@ -1701,7 +1701,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735843034
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1920,8 +1921,7 @@
   {
     "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1735647062
+    "port": 28000
   },
   {
     "name": "The Bay 707 (US WEST)",
@@ -1946,7 +1946,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1735843034
   },
   {
     "name": "per aspera ad astra",
@@ -3422,8 +3423,7 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720,
-    "removed": 1735842220
+    "port": 9720
   },
   {
     "name": "Hell Breaks Loose | Showcase Match | Live YT @Chessie204",
