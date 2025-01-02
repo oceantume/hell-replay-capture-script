@@ -198,7 +198,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "136.243.60.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735798159
   },
   {
     "name": "A mysterious server",
@@ -361,7 +362,8 @@
   {
     "name": "升兵种等级？淘宝搜帝国之鹰工作室！",
     "addr": "156.146.44.225",
-    "port": 7817
+    "port": 7817,
+    "removed": 1735798159
   },
   {
     "name": "<CN>HK/HLL菜鸟乐园『萌新友好』群号974297943",
@@ -728,7 +730,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735798159
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -889,7 +892,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735798159
   },
   {
     "name": "HLL Official - Europe #07",
@@ -984,7 +988,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735798159
   },
   {
     "name": "KRTs Christmas at Camelot ",
@@ -1395,7 +1400,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735798159
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1515,8 +1521,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1735711778
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #10",
@@ -1716,7 +1721,7 @@
     "port": 7777
   },
   {
-    "name": "Ψ Black Ridge Group | East | discord.gg/CEqRHrbfJR",
+    "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
     "addr": "192.169.86.213",
     "port": 7787
   },
@@ -2021,7 +2026,7 @@
     "port": 9078
   },
   {
-    "name": "CN2#元旦夜的深夜火炉喵咪攻防咖啡馆|120748151",
+    "name": "CN2#冬夜里的深夜火炉喵咪攻防咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -2073,12 +2078,14 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735798159
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "208.115.206.36",
-    "port": 7877
+    "port": 7877,
+    "removed": 1735798159
   },
   {
     "name": "StDb Event",
@@ -2093,7 +2100,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735798159
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
@@ -2252,6 +2260,16 @@
     "port": 7807
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
+    "addr": "31.58.228.53",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
+    "addr": "31.58.228.53",
+    "port": 7877
+  },
+  {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
     "port": 7777
@@ -2260,6 +2278,11 @@
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
     "port": 7787
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "addr": "31.58.228.76",
+    "port": 7977
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
