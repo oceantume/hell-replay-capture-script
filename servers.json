@@ -287,8 +287,7 @@
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
     "addr": "145.239.5.101",
-    "port": 9075,
-    "removed": 1735841314
+    "port": 9075
   },
   {
     "name": "hll Server",
@@ -301,7 +300,7 @@
     "port": 7777
   },
   {
-    "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
+    "name": "[FR] 7ème Compagnie #2 》LEVEL +30 》discord.gg/7ecie",
     "addr": "146.19.48.168",
     "port": 7777
   },
@@ -338,8 +337,7 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530,
-    "removed": 1735822953
+    "port": 8530
   },
   {
     "name": "[en] The Clinic / US EAST / NEW PLAYER WELCOME /",
@@ -457,7 +455,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[PV] Project V Network | USA East | https://discord.gg/pNUHmgYZ",
     "addr": "172.93.105.158",
     "port": 9075
   },
@@ -2232,10 +2230,9 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
     "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1735625358
+    "port": 7777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -3425,7 +3422,8 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720
+    "port": 9720,
+    "removed": 1735842220
   },
   {
     "name": "Hell Breaks Loose | Showcase Match | Live YT @Chessie204",
