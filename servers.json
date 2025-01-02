@@ -1716,7 +1716,7 @@
     "port": 7777
   },
   {
-    "name": "Ψ Black Ridge Group| East | discord.gg/CEqRHrbfJR",
+    "name": "Ψ Black Ridge Group | East | discord.gg/CEqRHrbfJR",
     "addr": "192.169.86.213",
     "port": 7787
   },
@@ -1936,12 +1936,14 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "195.181.175.183",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735781686
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "195.181.175.183",
-    "port": 7787
+    "port": 7787,
+    "removed": 1735781686
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2248,6 +2250,16 @@
     "name": "Dark Horizon | EU | Discord.gg/dhz",
     "addr": "31.58.228.52",
     "port": 7807
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "addr": "31.58.228.76",
+    "port": 7777
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
+    "addr": "31.58.228.76",
+    "port": 7787
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3573,8 +3585,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1735779380
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
