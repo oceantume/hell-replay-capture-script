@@ -193,7 +193,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1735819867
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -460,8 +461,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735800543
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -731,8 +731,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1735798159
+    "port": 28000
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -893,8 +892,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1735798159
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -989,8 +987,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1735798159
+    "port": 28000
   },
   {
     "name": "KRTs Christmas at Camelot ",
@@ -1525,6 +1522,11 @@
     "port": 28000
   },
   {
+    "name": "HLL Official - Europe #04",
+    "addr": "176.57.181.209",
+    "port": 28200
+  },
+  {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
     "port": 28300
@@ -1679,6 +1681,11 @@
     "name": "South America Event - Domingos 21hs - [D.C.] - [C.L.]",
     "addr": "181.214.221.212",
     "port": 7817
+  },
+  {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1999,7 +2006,8 @@
   {
     "name": "CN2「FJ&CZS」啤酒小屋萌新宝宝乐园｜HK｜Q719036493",
     "addr": "202.165.70.15",
-    "port": 8898
+    "port": 8898,
+    "removed": 1735819867
   },
   {
     "name": "CN【FJ】训练服/WEAT US/战队招人加Q群910091562",
@@ -2448,12 +2456,14 @@
   {
     "name": "HLL Official - US West #42",
     "addr": "45.137.246.13",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735819867
   },
   {
     "name": "HLL Official - US West #52",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735819867
   },
   {
     "name": "HLL Official - US West #69",
@@ -2463,7 +2473,8 @@
   {
     "name": "HLL Official - US West #78",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1735819867
   },
   {
     "name": "HLL Official - US West #93",
@@ -3358,7 +3369,8 @@
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1735819867
   },
   {
     "name": "[250H] Hell Let Loose",
@@ -3609,7 +3621,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735819867
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3997,7 +4010,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735819867
   },
   {
     "name": "HLL Official - US East #04",
@@ -4007,7 +4021,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735819867
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
