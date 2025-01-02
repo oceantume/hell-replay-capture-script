@@ -208,7 +208,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
+    "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "139.28.17.146",
     "port": 7777
   },
@@ -260,7 +260,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] 7ème Compagnie 》STATS 》VOTE MAP 》discord.gg/7ecie",
+    "name": "[FR] 7ème Compagnie #1 》STATS 》VOTE MAP 》discord.gg/7eci",
     "addr": "145.239.131.234",
     "port": 8530
   },
@@ -287,7 +287,8 @@
   {
     "name": "[1stA] 1st Airborne (EU) | All levels",
     "addr": "145.239.5.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1735841314
   },
   {
     "name": "hll Server",
@@ -297,6 +298,11 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
+    "port": 7777
+  },
+  {
+    "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
+    "addr": "146.19.48.168",
     "port": 7777
   },
   {
@@ -401,7 +407,8 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
-    "port": 7887
+    "port": 7887,
+    "removed": 1735841314
   },
   {
     "name": "CN 1801蓝蔷薇少女的骑行港服Q群677043328",
@@ -448,6 +455,11 @@
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
     "addr": "172.93.105.158",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "172.93.105.158",
+    "port": 9075
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1261,7 +1273,7 @@
     "port": 28400
   },
   {
-    "name": "PV",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ LVL+50",
     "addr": "176.57.171.44",
     "port": 28500
   },
@@ -1440,7 +1452,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735841314
   },
   {
     "name": "QA Testing - UK #07",
@@ -1461,6 +1474,11 @@
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
     "addr": "176.57.181.105",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose Official Server by g-portal.com",
+    "addr": "176.57.181.11",
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #121",
@@ -1628,12 +1646,6 @@
     "port": 7847
   },
   {
-    "name": "  BRASIL HELL | »BAIN« | bainclan.com.br | Min. Lvl. »20«",
-    "addr": "177.54.151.123",
-    "port": 8898,
-    "removed": 1735236507
-  },
-  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
     "port": 7777
@@ -1684,6 +1696,11 @@
     "port": 7817
   },
   {
+    "name": "Landsharks (7th Armoured Cavalry) - Training Server",
+    "addr": "185.125.205.116",
+    "port": 8530
+  },
+  {
     "name": "HLL Server",
     "addr": "185.34.11.165",
     "port": 7777
@@ -1706,7 +1723,8 @@
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
     "addr": "192.169.85.194",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735841314
   },
   {
     "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
@@ -1727,8 +1745,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1735822953
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -1738,8 +1755,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1735822953
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
@@ -1825,8 +1841,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1735822111
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2000,7 +2015,8 @@
   {
     "name": "[PV] Project V Network | USA East | https://discord.gg/pNUHmgYZ",
     "addr": "198.96.89.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1735841314
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -2013,12 +2029,12 @@
     "port": 8898
   },
   {
-    "name": "CN【FJ】训练服/WEAT US/战队招人加Q群910091562",
+    "name": "CN3「FJ&CZS」绿魔鬼战队纯攻防｜JP｜Q716701264",
     "addr": "203.10.96.196",
     "port": 8888
   },
   {
-    "name": "US『CZS』 Special training clothing",
+    "name": "CN4「FJ&CZS」超质数中队攻防/遭遇｜JP｜Q719036493",
     "addr": "203.10.96.196",
     "port": 8898
   },
@@ -2105,7 +2121,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3422,7 +3438,7 @@
     "port": 8772
   },
   {
-    "name": "PL/ENG ♦ PZJR Clan Server ♦ Event server",
+    "name": "PL/ENG ♦ PZJR Polski Serwer ♦ VIP for seeding #1",
     "addr": "57.128.229.70",
     "port": 7777
   },
@@ -3454,8 +3470,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1735822953
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -3470,8 +3485,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1735822953
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -3581,8 +3595,7 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777,
-    "removed": 1735822953
+    "port": 7777
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #3 SPONSORED QONZER.COM",
@@ -3613,8 +3626,7 @@
   {
     "name": " ! [TBG] NEW PLAYER FRIENDLY | DISCORD.GG/TBGCLAN | RECRUITING ",
     "addr": "74.63.236.250",
-    "port": 8530,
-    "removed": 1735822953
+    "port": 8530
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -3629,13 +3641,13 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1735819867
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735841314
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3992,13 +4004,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735841314
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1735754918
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -4008,7 +4020,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735841314
   },
   {
     "name": "<CN>  萌新的快乐小屋",
@@ -4045,7 +4058,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735841314
   },
   {
     "name": "DevQA - US #03",
@@ -4119,7 +4133,7 @@
     "port": 28100
   },
   {
-    "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
+    "name": "EASY Company Level 50+ | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.207.46",
     "port": 28100
   },
@@ -4204,7 +4218,7 @@
     "port": 7797
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
