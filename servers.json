@@ -4527,6 +4527,11 @@
   {
     "name": "{serverName}",
     "addr": "92.38.151.75",
+    "port": 28000
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
     "port": 28100
   },
   {
