@@ -213,7 +213,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
+    "name": "❶ | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -433,6 +433,11 @@
     "addr": "161.129.66.154",
     "port": 8530,
     "removed": 1735582112
+  },
+  {
+    "name": "2nd Armored | US EAST | discord.gg/2ad",
+    "addr": "162.216.115.122",
+    "port": 8530
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -743,6 +748,11 @@
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
+  },
+  {
+    "name": "WST",
+    "addr": "176.57.140.16",
+    "port": 28100
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -1845,8 +1855,7 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1735560691
+    "port": 9075
   },
   {
     "name": "10th Mountain Division ᄿ (US East) : discord.gg/10thMD",
@@ -2062,7 +2071,7 @@
     "port": 9098
   },
   {
-    "name": "<CN> 白泽Beta战队社区低延迟日服服务器 Q群:暂无",
+    "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "203.10.99.7",
     "port": 9108
   },
@@ -2119,7 +2128,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2130,7 +2139,7 @@
     "removed": 1735798159
   },
   {
-    "name": "[GER] Fliesentisch-Veteranen #1 | BFTB |",
+    "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
     "addr": "208.115.206.74",
     "port": 7777
   },
@@ -2220,7 +2229,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2297,17 +2306,20 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735864168
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1735864168
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7977
+    "port": 7977,
+    "removed": 1735864168
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
