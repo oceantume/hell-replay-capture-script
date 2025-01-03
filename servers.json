@@ -15,7 +15,7 @@
     "port": 7787
   },
   {
-    "name": "薯条重生之我在秋叶原当赛博皇帝",
+    "name": "CN薯条重生之我在秋叶原当赛博皇帝群号1098305217",
     "addr": "103.62.49.39",
     "port": 8888
   },
@@ -241,7 +241,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -254,12 +254,6 @@
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
     "port": 8530
-  },
-  {
-    "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
-    "addr": "141.94.133.10",
-    "port": 8530,
-    "removed": 1735322910
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -330,7 +324,8 @@
   {
     "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
     "addr": "146.19.48.168",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735927745
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -453,6 +448,11 @@
     "port": 7917
   },
   {
+    "name": "<CN>HKclzd萌新骑服主管理头上玩群号532933387",
+    "addr": "156.146.44.225",
+    "port": 7937
+  },
+  {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
     "addr": "161.129.66.130",
     "port": 8530
@@ -489,7 +489,7 @@
     "port": 8530
   },
   {
-    "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | https",
+    "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | disco",
     "addr": "172.93.105.158",
     "port": 9075
   },
@@ -532,6 +532,16 @@
     "name": "Test",
     "addr": "176.57.134.27",
     "port": 28300
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 5 | FRONTLINE NEWBIE | QS | OINK",
+    "addr": "176.57.134.27",
+    "port": 28400
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 9 | WTF WHO DEFEND | QS | OINK",
+    "addr": "176.57.134.27",
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #14",
@@ -934,6 +944,11 @@
     "port": 28100
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 6 | BUMSHÜTTE | QS | OINK",
+    "addr": "176.57.168.178",
+    "port": 28300
+  },
+  {
     "name": "SHK (EU) Micro muss ,Deutsch ja ",
     "addr": "176.57.168.178",
     "port": 28400,
@@ -1026,6 +1041,11 @@
     "port": 28300
   },
   {
+    "name": "     [ GER ] KAMPFSCHWEINE 9.9 | ENDGAME | QS | OINK",
+    "addr": "176.57.168.252",
+    "port": 28400
+  },
+  {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
@@ -1036,7 +1056,7 @@
     "port": 28200
   },
   {
-    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
+    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare Unser",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -1289,8 +1309,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1735884551
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -1386,6 +1405,11 @@
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
     "port": 28100
+  },
+  {
+    "name": "     [ GER ] KAMPFSCHWEINE 7 | FUNKYTOWN | QS | OINK",
+    "addr": "176.57.173.119",
+    "port": 28200
   },
   {
     "name": "!New Players Welcome!",
@@ -1750,9 +1774,19 @@
     "removed": 1735908507
   },
   {
-    "name": "H9H Hispaniarum Hell - Spanish/Español",
+    "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
     "port": 7777
+  },
+  {
+    "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
+    "addr": "188.165.39.157",
+    "port": 7877
+  },
+  {
+    "name": "[ESP] LATAMSQUAD #1 - discord.gg/latamsquad | latamsquad.com",
+    "addr": "189.1.170.234",
+    "port": 8530
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -2042,7 +2076,7 @@
     "port": 9620
   },
   {
-    "name": "Gunny's Hideout -- ALL SKIRMISH ALL THE TIME -- Dallas",
+    "name": "[BR1] BR1 Gaming - US CENTRAL (2) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -2170,15 +2204,14 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "name": "[AUT/GER] All Cats Are Beauties [ACAB] #CAT",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1735798159
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -2218,7 +2251,8 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735927745
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2271,7 +2305,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2358,8 +2392,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7977,
-    "removed": 1735864168
+    "port": 7977
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3434,8 +3467,7 @@
   {
     "name": "En Svensk Tiger | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1735819867
+    "port": 9075
   },
   {
     "name": "[250H] Hell Let Loose",
@@ -3695,7 +3727,7 @@
     "port": 8530
   },
   {
-    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
+    "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | discord.gg/Vu55R9Q",
     "addr": "79.141.174.116",
     "port": 8530
   },
@@ -3707,8 +3739,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1735841314
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3997,19 +4028,109 @@
     "port": 28900
   },
   {
+    "name": "HLL Official - Asia #70",
+    "addr": "83.223.197.56",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #53",
+    "addr": "83.223.197.56",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #10",
+    "addr": "83.223.197.56",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #69",
+    "addr": "83.223.197.57",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #51",
+    "addr": "83.223.197.57",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #35",
+    "addr": "83.223.197.57",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #66",
+    "addr": "83.223.197.58",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #47",
+    "addr": "83.223.197.58",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #22",
+    "addr": "83.223.197.58",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #62",
+    "addr": "83.223.197.61",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #48",
+    "addr": "83.223.197.61",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #11",
+    "addr": "83.223.197.61",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #64",
+    "addr": "83.223.197.67",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #33",
+    "addr": "83.223.197.67",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #18",
+    "addr": "83.223.197.67",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1735841314
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735927745
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #54",
+    "addr": "83.223.197.71",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #43",
+    "addr": "83.223.197.71",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #37",
+    "addr": "83.223.197.71",
     "port": 28200
   },
   {
@@ -4019,9 +4140,34 @@
     "removed": 1735841314
   },
   {
+    "name": "HLL Official - Asia #24",
+    "addr": "83.223.197.76",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #58",
+    "addr": "83.223.197.81",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #41",
+    "addr": "83.223.197.81",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #15",
+    "addr": "83.223.197.81",
+    "port": 28200
+  },
+  {
     "name": "<CN>  萌新的快乐小屋",
     "addr": "83.223.197.89",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose (Taiwan) Server by g-portal.com",
+    "addr": "83.223.197.89",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #03",
@@ -4197,6 +4343,86 @@
     "port": 7787
   },
   {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28000
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28100
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28200
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28300
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28400
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28500
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28600
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.36",
+    "port": 28700
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28000
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28100
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28200
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28300
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28400
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28500
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28600
+  },
+  {
+    "name": "{serverName}",
+    "addr": "89.43.106.37",
+    "port": 28700
+  },
+  {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
     "port": 28100
@@ -4299,9 +4525,64 @@
     "port": 7777
   },
   {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
+    "port": 28100
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
+    "port": 28200
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
+    "port": 28300
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
+    "port": 28400
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.75",
+    "port": 28500
+  },
+  {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28000
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28100
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28200
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28300
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28400
+  },
+  {
+    "name": "{serverName}",
+    "addr": "92.38.151.90",
+    "port": 28500
   },
   {
     "name": "(LAT) Hell let loose by AK",
