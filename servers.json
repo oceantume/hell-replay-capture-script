@@ -15,7 +15,7 @@
     "port": 7787
   },
   {
-    "name": "HLL Server",
+    "name": "薯条重生之我在秋叶原当赛博皇帝",
     "addr": "103.62.49.39",
     "port": 8888
   },
@@ -23,6 +23,11 @@
     "name": "CN-音奏的萌新快乐服6服|335411305|JP节点",
     "addr": "103.62.49.39",
     "port": 8898
+  },
+  {
+    "name": "CNUT",
+    "addr": "103.62.49.39",
+    "port": 8908
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -236,7 +241,7 @@
     "port": 7777
   },
   {
-    "name": "❶ | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -2510,12 +2515,14 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735907303
   },
   {
     "name": "HLL Official - US West #27",
     "addr": "45.137.246.13",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735907303
   },
   {
     "name": "HLL Official - US West #42",
@@ -2526,12 +2533,14 @@
   {
     "name": "HLL Official - US West #52",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735907303
   },
   {
     "name": "HLL Official - US West #69",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1735907303
   },
   {
     "name": "HLL Official - US West #78",
@@ -2542,7 +2551,8 @@
   {
     "name": "HLL Official - US West #93",
     "addr": "45.137.246.13",
-    "port": 28600
+    "port": 28600,
+    "removed": 1735907303
   },
   {
     "name": "HLL Official - US West #19",
@@ -4217,8 +4227,7 @@
   {
     "name": "⑦ | THE CIRCLE #7 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
-    "port": 7817,
-    "removed": 1735906272
+    "port": 7817
   },
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
