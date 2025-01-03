@@ -25,14 +25,15 @@
     "port": 8898
   },
   {
-    "name": "CNUT",
+    "name": "[CN]JP :CNUT萌新服#1|Q群:809972300 |开黑啦:https://kook.",
     "addr": "103.62.49.39",
     "port": 8908
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "103.62.49.49",
-    "port": 8888
+    "port": 8888,
+    "removed": 1735908507
   },
   {
     "name": "<CN>BW黑色守望/红区长岛基地/Q:682305162",
@@ -428,10 +429,9 @@
     "port": 7867
   },
   {
-    "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
+    "name": "<CN>#2 HK北极星萌新服务器Q群：1018176083",
     "addr": "156.146.44.225",
-    "port": 7877,
-    "removed": 1735647062
+    "port": 7877
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -1747,7 +1747,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735908507
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -2271,7 +2272,7 @@
     "port": 7777
   },
   {
-    "name": "❸ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2515,14 +2516,12 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1735907303
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #27",
     "addr": "45.137.246.13",
-    "port": 28100,
-    "removed": 1735907303
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #42",
@@ -2533,26 +2532,22 @@
   {
     "name": "HLL Official - US West #52",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1735907303
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #69",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1735907303
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #78",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1735819867
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #93",
     "addr": "45.137.246.13",
-    "port": 28600,
-    "removed": 1735907303
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #19",
