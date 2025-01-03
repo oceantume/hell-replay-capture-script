@@ -319,8 +319,7 @@
   {
     "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
-    "port": 7777,
-    "removed": 1735930042
+    "port": 7777
   },
   {
     "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
@@ -1783,6 +1782,11 @@
     "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
     "addr": "188.165.39.157",
     "port": 7877
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "188.64.33.82",
+    "port": 8530
   },
   {
     "name": "[ESP] LATAMSQUAD #1 - discord.gg/latamsquad | latamsquad.com",
@@ -4401,8 +4405,7 @@
   {
     "name": "{serverName}",
     "addr": "89.43.106.37",
-    "port": 28200,
-    "removed": 1735930042
+    "port": 28200
   },
   {
     "name": "{serverName}",
@@ -4427,7 +4430,8 @@
   {
     "name": "{serverName}",
     "addr": "89.43.106.37",
-    "port": 28700
+    "port": 28700,
+    "removed": 1735930580
   },
   {
     "name": "HLL Official - South America #02",
