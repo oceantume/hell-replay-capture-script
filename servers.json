@@ -15,6 +15,31 @@
     "port": 7787
   },
   {
+    "name": "HLL Server",
+    "addr": "103.62.49.39",
+    "port": 8888
+  },
+  {
+    "name": "CN-音奏的萌新快乐服6服|335411305|JP节点",
+    "addr": "103.62.49.39",
+    "port": 8898
+  },
+  {
+    "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
+    "addr": "103.62.49.49",
+    "port": 8888
+  },
+  {
+    "name": "<CN>BW黑色守望/红区长岛基地/Q:682305162",
+    "addr": "103.62.49.49",
+    "port": 8898
+  },
+  {
+    "name": "[CN]国服金色切尔西萌新基地，Q群：425375843",
+    "addr": "103.62.49.49",
+    "port": 8908
+  },
+  {
     "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
@@ -192,8 +217,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1735819867
+    "port": 9224
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -478,8 +502,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735884551
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -950,7 +973,8 @@
   {
     "name": "Cert",
     "addr": "176.57.168.194",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735906272
   },
   {
     "name": "HLL Official - Europe #12",
@@ -1718,8 +1742,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1735843034
+    "port": 7777
   },
   {
     "name": "H9H Hispaniarum Hell - Spanish/Español",
@@ -1786,7 +1809,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1735906272
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2064,6 +2088,11 @@
     "port": 8998
   },
   {
+    "name": "Cn/Beta萌新社区/jp/q群",
+    "addr": "203.10.99.7",
+    "port": 9058
+  },
+  {
     "name": "CN1#冬夜里的深夜温暖少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
@@ -2084,7 +2113,7 @@
     "port": 9108
   },
   {
-    "name": "CN ITK五河琴里的二次元家园日服Q群48381851",
+    "name": "CN ITK#1琴里酱的二次元家园日服Q群48381851",
     "addr": "203.10.99.7",
     "port": 9118
   },
@@ -2314,14 +2343,12 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777,
-    "removed": 1735864168
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
-    "port": 7787,
-    "removed": 1735864168
+    "port": 7787
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -2499,8 +2526,7 @@
   {
     "name": "HLL Official - US West #52",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1735819867
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #69",
@@ -3496,9 +3522,19 @@
     "port": 7797
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "CN ITK#2琴里酱的约会大作战日服Q群48381851",
     "addr": "64.31.11.26",
     "port": 8530
+  },
+  {
+    "name": "CN3#冬夜里的深夜萌新军官的咖啡馆|120748151",
+    "addr": "64.31.11.26",
+    "port": 9075
+  },
+  {
+    "name": "CN ITK#3琴里酱的ACG圣地日服Q群48381851",
+    "addr": "64.31.11.26",
+    "port": 9620
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -3988,8 +4024,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1735819867
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -4015,8 +4050,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1735841314
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -4183,7 +4217,8 @@
   {
     "name": "⑦ | THE CIRCLE #7 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
-    "port": 7817
+    "port": 7817,
+    "removed": 1735906272
   },
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
