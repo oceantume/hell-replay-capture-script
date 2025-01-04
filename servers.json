@@ -30,7 +30,7 @@
     "port": 8908
   },
   {
-    "name": "HLL Server",
+    "name": "ARO（原TR联队）极光旅社区服 加速器日本节点  Q",
     "addr": "103.62.49.39",
     "port": 8918
   },
@@ -238,7 +238,8 @@
   {
     "name": "A mysterious server",
     "addr": "136.243.70.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1735970889
   },
   {
     "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -559,7 +560,7 @@
     "port": 28600
   },
   {
-    "name": "[GERMAN] MIC! Warthunder_https://discord.gg/9WpGPJgJJp",
+    "name": "[GER/ENG] NEW PLAYERS WELCOME! !MIC! Empire of Thunder: https:/",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -921,7 +922,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735970889
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -931,7 +933,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735970889
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -946,7 +949,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "QA Testing - EU #03",
@@ -982,7 +986,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "HLL Official - Europe #07",
@@ -997,14 +1002,12 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1735950544
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1735950544
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -1205,8 +1208,7 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1735884551
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #26",
@@ -1386,7 +1388,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1511,7 +1514,8 @@
   {
     "name": "The Boys! - UK/EU - English Only - Mates Rates",
     "addr": "176.57.174.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1576,7 +1580,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "QA Testing - UK #07",
@@ -1591,7 +1596,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735970889
   },
   {
     "name": "QA Testing - EU #05",
@@ -1864,6 +1870,11 @@
     "port": 7827
   },
   {
+    "name": "Legión Condor [Latam] New Players Welcome",
+    "addr": "181.214.221.212",
+    "port": 7837
+  },
+  {
     "name": "Landsharks (7th Armoured Cavalry) - Training Server",
     "addr": "185.125.205.116",
     "port": 8530
@@ -1893,6 +1904,11 @@
     "name": "[ESP] LATAMSQUAD #1 - discord.gg/latamsquad | latamsquad.com",
     "addr": "189.1.170.234",
     "port": 8530
+  },
+  {
+    "name": "[ESP] LATAMSQUAD #2 - discord.gg/latamsquad | latamsquad.com",
+    "addr": "189.1.170.234",
+    "port": 9075
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -2227,6 +2243,16 @@
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
     "addr": "203.10.98.103",
     "port": 8888
+  },
+  {
+    "name": "CN丨<Ca> 德械师丨萌新社曲丨Q群：686811081",
+    "addr": "203.10.98.5",
+    "port": 8888
+  },
+  {
+    "name": "CN | HLL Server |JP",
+    "addr": "203.10.98.5",
+    "port": 8898
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -3562,7 +3588,7 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK #2 [VLK] valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3607,7 +3633,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] CZ/SK | Každé úterý od 19h | valkyriahll.cz",
+    "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 9620
   },
@@ -3678,9 +3704,19 @@
     "port": 7797
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "CN exp小南梁马克萌新服务器Q556560029",
     "addr": "64.31.11.26",
     "port": 10165
+  },
+  {
+    "name": "CN#129[MX]风起云涌萌新社 JP Q群:698529167",
+    "addr": "64.31.11.26",
+    "port": 10710
+  },
+  {
+    "name": "Dsquad&SKNS无规则服q群交流抓挂：875570590",
+    "addr": "64.31.11.26",
+    "port": 11255
   },
   {
     "name": "CN ITK#2琴里酱的约会大作战日服Q群48381851",
@@ -4562,6 +4598,11 @@
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
     "port": 28200
+  },
+  {
+    "name": "Dark Horizon Singapore",
+    "addr": "89.46.1.159",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita [ESP]",
