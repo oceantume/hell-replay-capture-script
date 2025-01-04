@@ -269,8 +269,7 @@
   {
     "name": "[GER] Panzerschreck Peanut Butter ",
     "addr": "136.243.79.58",
-    "port": 8530,
-    "removed": 1735993602
+    "port": 8530
   },
   {
     "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -467,7 +466,8 @@
   {
     "name": "RECLAIMER TRAINING&EVENT",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1735994766
   },
   {
     "name": "CN#HK 东方幻想乡（纯冲突）KFC外卖热线：245578354",
@@ -498,6 +498,11 @@
     "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
     "addr": "156.146.44.225",
     "port": 7917
+  },
+  {
+    "name": "CN1#HK ODST地狱空降师//Xpp//萌新小窝//QQ群：47858320",
+    "addr": "156.146.44.225",
+    "port": 7927
   },
   {
     "name": "<CN>HKclzd萌新骑服主管理头上玩群号532933387",
@@ -1388,7 +1393,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735994766
   },
   {
     "name": "Borry‘s Playground",
@@ -3751,10 +3757,9 @@
     "port": 10165
   },
   {
-    "name": "CN#129[MX]风起云涌萌新社 JP Q群:698529167",
+    "name": "CN#129[MX]风起云涌 JP Q群:162996620",
     "addr": "64.31.11.26",
-    "port": 10710,
-    "removed": 1735993602
+    "port": 10710
   },
   {
     "name": "Dsquad&SKNS特雷森学院无规则服q群8755705900",
