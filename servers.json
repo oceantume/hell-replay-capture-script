@@ -249,8 +249,7 @@
   {
     "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7787,
-    "removed": 1735971781
+    "port": 7787
   },
   {
     "name": "⑤ | THE CIRCLE #5 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -773,8 +772,7 @@
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1735971781
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #01",
@@ -4342,7 +4340,8 @@
   {
     "name": "Hell let loose (Taiwan) Server by g-portal.com",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735972575
   },
   {
     "name": "HLL Official - US East #03",
