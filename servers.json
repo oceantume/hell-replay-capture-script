@@ -185,7 +185,7 @@
     "port": 7777
   },
   {
-    "name": "-TL- The Line | WEST | COMP LVL25+ SLs | Discord.gg/TheLine",
+    "name": "-TL- The Line | US WEST | New Player Friendly | Discord.gg/TheL",
     "addr": "104.238.222.122",
     "port": 7797
   },
@@ -256,7 +256,7 @@
     "port": 8530
   },
   {
-    "name": "[MEX][LAT] CLANZEROSTUDIOS!",
+    "name": "[MEX][LAT] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
     "addr": "141.11.34.139",
     "port": 7777
   },
@@ -918,8 +918,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1735950544
+    "port": 28100
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -949,8 +948,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1735950544
+    "port": 28200
   },
   {
     "name": "ENG/DK - Hell let loose - Denmark © www.hellletloose.dk",
@@ -1013,8 +1011,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1735950544
+    "port": 28200
   },
   {
     "name": "Cert",
@@ -1596,8 +1593,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1735950544
+    "port": 28200
   },
   {
     "name": "Dutch Let Loose #6 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -1702,8 +1698,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1735950544
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #22",
@@ -1897,7 +1892,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS │ LVL 25+ │ discord.gg/c",
+    "name": "σ CHAD STUART'S — LVL 25+ │ discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -3559,7 +3554,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] Valkyria CZ/SK/EN #2 | PUBLIC | vlkhll.cz",
+    "name": "[VLK] CZ/SK/EN #2 | PUBLIC | vlkhll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -4466,82 +4461,84 @@
     "port": 7787
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
     "port": 28000
   },
   {
     "name": "{serverName}",
     "addr": "89.43.106.36",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735952155
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #25",
     "addr": "89.43.106.36",
     "port": 28200
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #26",
     "addr": "89.43.106.36",
     "port": 28300
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #27",
     "addr": "89.43.106.36",
     "port": 28400
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #28",
     "addr": "89.43.106.36",
     "port": 28500
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #29",
     "addr": "89.43.106.36",
     "port": 28600
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #30",
     "addr": "89.43.106.36",
     "port": 28700
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #04",
     "addr": "89.43.106.37",
     "port": 28000
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #05",
     "addr": "89.43.106.37",
     "port": 28100
   },
   {
     "name": "{serverName}",
     "addr": "89.43.106.37",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735952155
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #11",
     "addr": "89.43.106.37",
     "port": 28300
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #12",
     "addr": "89.43.106.37",
     "port": 28400
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #13",
     "addr": "89.43.106.37",
     "port": 28500
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #16",
     "addr": "89.43.106.37",
     "port": 28600
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #18",
     "addr": "89.43.106.37",
     "port": 28700
   },
@@ -4648,32 +4645,32 @@
     "port": 7777
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #06",
     "addr": "92.38.151.75",
     "port": 28000
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
     "port": 28100
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #09",
     "addr": "92.38.151.75",
     "port": 28200
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #15",
     "addr": "92.38.151.75",
     "port": 28300
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #19",
     "addr": "92.38.151.75",
     "port": 28400
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #20",
     "addr": "92.38.151.75",
     "port": 28500
   },
@@ -4688,34 +4685,35 @@
     "port": 28900
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #03",
     "addr": "92.38.151.90",
     "port": 28000
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #08",
     "addr": "92.38.151.90",
     "port": 28100
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #14",
     "addr": "92.38.151.90",
     "port": 28200
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #17",
     "addr": "92.38.151.90",
     "port": 28300
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #21",
     "addr": "92.38.151.90",
     "port": 28400
   },
   {
     "name": "{serverName}",
     "addr": "92.38.151.90",
-    "port": 28500
+    "port": 28500,
+    "removed": 1735952155
   },
   {
     "name": "(LAT) Hell let loose by AK",
