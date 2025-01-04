@@ -241,7 +241,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -254,6 +254,11 @@
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
     "port": 8530
+  },
+  {
+    "name": "[MEX][LAT] CLANZEROSTUDIOS!",
+    "addr": "141.11.34.139",
+    "port": 7777
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -307,7 +312,7 @@
     "port": 9014
   },
   {
-    "name": "[1stA] 1st Airborne (EU) | All levels",
+    "name": "[1stA] 1st Airborne (EU) | LVL 10+",
     "addr": "145.239.5.101",
     "port": 9075
   },
@@ -331,6 +336,11 @@
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
     "port": 7787
+  },
+  {
+    "name": "TH Hell Let loose Thailand Community",
+    "addr": "15.235.225.173",
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -544,6 +554,11 @@
     "port": 28600
   },
   {
+    "name": "[GER/ENG] NEW PLAYERS WELCOME! Warthunder-----https://discord.g",
+    "addr": "176.57.134.27",
+    "port": 28700
+  },
+  {
     "name": "HLL Official - Europe #14",
     "addr": "176.57.134.30",
     "port": 28000
@@ -681,7 +696,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735950544
   },
   {
     "name": "HLL Dev Team",
@@ -691,7 +707,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735950544
   },
   {
     "name": "HLL Official - Europe #106",
@@ -792,6 +809,11 @@
     "name": "WST",
     "addr": "176.57.140.16",
     "port": 28100
+  },
+  {
+    "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
+    "addr": "176.57.140.16",
+    "port": 28200
   },
   {
     "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
@@ -896,7 +918,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735950544
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -926,7 +949,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735950544
   },
   {
     "name": "ENG/DK - Hell let loose - Denmark © www.hellletloose.dk",
@@ -972,12 +996,14 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735950544
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735950544
   },
   {
     "name": "HLL Official - Europe #08",
@@ -987,7 +1013,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735950544
   },
   {
     "name": "Cert",
@@ -1049,6 +1076,11 @@
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
+  },
+  {
+    "name": "1st RM - HLL| ENG - Mic preferred  | https://discord.gg/bbb2Ayx",
+    "addr": "176.57.168.253",
+    "port": 28100
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding ",
@@ -1161,6 +1193,11 @@
     "port": 28400
   },
   {
+    "name": "2.PAC-Event Server - https://discord.gg/2-PAC",
+    "addr": "176.57.168.91",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
     "port": 28100
@@ -1240,6 +1277,11 @@
     "name": "HLL Official - Europe #147",
     "addr": "176.57.169.108",
     "port": 28700
+  },
+  {
+    "name": "CZ/SK Server ",
+    "addr": "176.57.169.115",
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #15",
@@ -1330,6 +1372,11 @@
     "name": "(GER) - [HB] Heurigen-Bataillon Austria - Buschenschank",
     "addr": "176.57.171.38",
     "port": 28400
+  },
+  {
+    "name": "Hell let loose (EU) Blueice gaming",
+    "addr": "176.57.171.44",
+    "port": 28100
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ +50 LEVEL",
@@ -1462,15 +1509,14 @@
     "port": 28200
   },
   {
+    "name": "The Boys! - UK/EU - English Only - Mates Rates",
+    "addr": "176.57.174.145",
+    "port": 28000
+  },
+  {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
     "port": 28100
-  },
-  {
-    "name": "[GER] 1. Kavallerie-Division | Mic Only | Low Ping",
-    "addr": "176.57.174.145",
-    "port": 28200,
-    "removed": 1735345740
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1513,6 +1559,21 @@
     "port": 28600
   },
   {
+    "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
+    "addr": "176.57.178.127",
+    "port": 28100
+  },
+  {
+    "name": "Dutch Let Loose #4 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
+    "addr": "176.57.178.127",
+    "port": 28200
+  },
+  {
+    "name": "Dutch Let Loose #5 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
+    "addr": "176.57.178.127",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -1523,6 +1584,11 @@
     "port": 28200
   },
   {
+    "name": "[UK] Hearts of Bruh By Luna Developments",
+    "addr": "176.57.178.15",
+    "port": 28000
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -1530,12 +1596,38 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
+    "port": 28200,
+    "removed": 1735950544
+  },
+  {
+    "name": "Dutch Let Loose #6 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
+    "addr": "176.57.178.44",
+    "port": 28000
+  },
+  {
+    "name": "Dutch Let Loose #7 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
+    "addr": "176.57.178.44",
+    "port": 28100
+  },
+  {
+    "name": "Dutch Let Loose #8 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
+    "addr": "176.57.178.44",
     "port": 28200
+  },
+  {
+    "name": "{SPECIALSERVER}",
+    "addr": "176.57.178.44",
+    "port": 28300
   },
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
     "addr": "176.57.181.105",
     "port": 28000
+  },
+  {
+    "name": "[GER] Sancheez Community  | Mic Only",
+    "addr": "176.57.181.105",
+    "port": 28300
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
@@ -1610,7 +1702,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1735950544
   },
   {
     "name": "HLL Official - Europe #22",
@@ -1696,6 +1789,11 @@
     "name": "BALLERBUDE [mic only]",
     "addr": "176.9.121.214",
     "port": 8530
+  },
+  {
+    "name": "『V』WWW.VANGUARDA.PRO.BR",
+    "addr": "177.54.147.141",
+    "port": 7777
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
@@ -1799,7 +1897,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
+    "name": "σ CHAD STUART'S FLARE GUN FRIENDS │ LVL 25+ │ discord.gg/c",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -1975,7 +2073,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.52",
-    "port": 28200
+    "port": 28200,
+    "removed": 1735950544
   },
   {
     "name": "HLL Official - US West #01",
@@ -2132,7 +2231,7 @@
     "port": 8998
   },
   {
-    "name": "Cn/Beta萌新社区/jp/q群",
+    "name": "Cn/Beta萌新社区/jp/q群882377564",
     "addr": "203.10.99.7",
     "port": 9058
   },
@@ -2209,17 +2308,17 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
   {
-    "name": "[AUT/GER] All Cats Are Beauties [ACAB] #CAT",
+    "name": "[AUT|GER] |ACAB| All Cats Are Beauties #CAT",
     "addr": "208.115.206.50",
     "port": 7777
   },
   {
-    "name": "  [GER] NEW PLAYER FRIENDLY",
+    "name": "             [GER] [AFD] Alice Weidel FTW",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -2315,7 +2414,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3450,12 +3549,17 @@
     "port": 9620
   },
   {
+    "name": "[NL/ENG] WW2",
+    "addr": "51.195.176.120",
+    "port": 8530
+  },
+  {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
     "addr": "51.75.144.129",
     "port": 9075
   },
   {
-    "name": "[VLK] Valkyria CZ/SK/EN #2 | EVENT | vlkhll.cz",
+    "name": "[VLK] Valkyria CZ/SK/EN #2 | PUBLIC | vlkhll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3483,6 +3587,11 @@
     "name": "[250H] Hell Let Loose",
     "addr": "51.89.192.209",
     "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "51.89.235.87",
+    "port": 8530
   },
   {
     "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
@@ -3633,6 +3742,11 @@
   {
     "name": "HLL Rumble Invitational :: LA :: Sponsored by Radical Gaming",
     "addr": "64.31.6.93",
+    "port": 7777
+  },
+  {
+    "name": " »BAIN« | Training & Event | bainclan.com.br ",
+    "addr": "64.31.60.34",
     "port": 7777
   },
   {
@@ -4302,7 +4416,7 @@
     "port": 28100
   },
   {
-    "name": "=B&B= Bloodybucket",
+    "name": "=B&B= Bloody Bucket discordgg/bbucket",
     "addr": "83.223.207.50",
     "port": 28200
   },
@@ -4344,8 +4458,7 @@
   {
     "name": "GREYHOUND NIGHT - Blue",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1735884551
+    "port": 7817
   },
   {
     "name": "Dark Horizon Official | New Players Welcome | Discord.gg/dhz",
@@ -4563,6 +4676,11 @@
     "name": "{serverName}",
     "addr": "92.38.151.75",
     "port": 28500
+  },
+  {
+    "name": "[ARG-ESP] Paradox Empire - discord.gg/paradoxempire ",
+    "addr": "92.38.151.86",
+    "port": 28100
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
