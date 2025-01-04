@@ -30,12 +30,17 @@
     "port": 8908
   },
   {
+    "name": "HLL Server",
+    "addr": "103.62.49.39",
+    "port": 8918
+  },
+  {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "103.62.49.49",
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区长岛基地/Q:682305162",
+    "name": "<CN>BW黑色守望/红区萌新基地/Q:682305162",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -554,7 +559,7 @@
     "port": 28600
   },
   {
-    "name": "[GER/ENG] NEW PLAYERS WELCOME! Warthunder-----https://discord.g",
+    "name": "[GERMAN] MIC! Warthunder_https://discord.gg/9WpGPJgJJp",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -696,8 +701,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100,
-    "removed": 1735950544
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -707,8 +711,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1735950544
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #106",
@@ -1786,7 +1789,7 @@
     "port": 8530
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR",
+    "name": "『V』WWW.VANGUARDA.PRO.BR - MELHOR SERVIDOR DO BRASIL",
     "addr": "177.54.147.141",
     "port": 7777
   },
@@ -1799,6 +1802,11 @@
     "name": "HLL Sur America #04 | CLAN [·CTM·] CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
     "port": 7847
+  },
+  {
+    "name": "DSLive | HLL #1 | Sao Paulo",
+    "addr": "177.54.147.141",
+    "port": 7867
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1991,7 +1999,7 @@
     "port": 9075
   },
   {
-    "name": "Fire For Effect [FFE] - S2 - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 - !VOTEMAP - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
   },
@@ -3554,7 +3562,7 @@
     "port": 9075
   },
   {
-    "name": "[VLK] CZ/SK/EN #2 | PUBLIC | vlkhll.cz",
+    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3668,6 +3676,11 @@
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.93",
     "port": 7797
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.31.11.26",
+    "port": 10165
   },
   {
     "name": "CN ITK#2琴里酱的约会大作战日服Q群48381851",
@@ -4466,10 +4479,9 @@
     "port": 28000
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #24",
     "addr": "89.43.106.36",
-    "port": 28100,
-    "removed": 1735952155
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #25",
@@ -4512,10 +4524,9 @@
     "port": 28100
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #10",
     "addr": "89.43.106.37",
-    "port": 28200,
-    "removed": 1735952155
+    "port": 28200
   },
   {
     "name": "HLL Official - South America #11",
@@ -4710,10 +4721,9 @@
     "port": 28400
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Official - South America #22",
     "addr": "92.38.151.90",
-    "port": 28500,
-    "removed": 1735952155
+    "port": 28500
   },
   {
     "name": "(LAT) Hell let loose by AK",
