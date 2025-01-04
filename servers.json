@@ -30,9 +30,19 @@
     "port": 8908
   },
   {
-    "name": "ARO（原TR联队）极光旅社区服 加速器日本节点  Q",
+    "name": "ARO（原TR联队）CN JP Q群703608483",
     "addr": "103.62.49.39",
     "port": 8918
+  },
+  {
+    "name": "CN4#冬夜里的深夜萌新军官的攻防咖啡馆|120748151",
+    "addr": "103.62.49.39",
+    "port": 8928
+  },
+  {
+    "name": "[CN]COH狗叫大队,Everyone Welcome JP QQ群：558699689",
+    "addr": "103.62.49.39",
+    "port": 8938
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -50,9 +60,19 @@
     "port": 8908
   },
   {
-    "name": "ARO(原TR)马局机枪天下第一 HK",
+    "name": "ARO(原TR)马局机枪天下第一 CN JP",
     "addr": "103.62.49.49",
     "port": 8918
+  },
+  {
+    "name": "CN(原TR/SESH) 阿康的ARO复兴大业 JP",
+    "addr": "103.62.49.49",
+    "port": 8928
+  },
+  {
+    "name": "[CN]JP:革命军87TH萌新服#2|Q群:807630815|开黑啦:GZ41J3",
+    "addr": "103.62.49.49",
+    "port": 8938
   },
   {
     "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
@@ -247,12 +267,17 @@
     "removed": 1735970889
   },
   {
+    "name": "[GER] Panzerschreck Peanut Butter ",
+    "addr": "136.243.79.58",
+    "port": 8530
+  },
+  {
     "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "139.28.17.146",
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -352,6 +377,11 @@
     "name": "TH Hell Let loose Thailand Community",
     "addr": "15.235.225.173",
     "port": 8530
+  },
+  {
+    "name": "Dark Kontol Malaysia",
+    "addr": "15.235.225.173",
+    "port": 9075
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -527,8 +557,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1735973699
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -911,7 +940,7 @@
     "port": 28700
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus [Mikro Pflicht]",
+    "name": "[GER]Kampfgruppe Lazarus [ab Lvl 25] [Mikro Pflicht]",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -939,8 +968,7 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1735970889
+    "port": 28100
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -1382,7 +1410,7 @@
     "port": 28400
   },
   {
-    "name": "Hell let loose (EU) Blueice gaming",
+    "name": "[GER] Old Daddy by BlueIce Gaming",
     "addr": "176.57.171.44",
     "port": 28100
   },
@@ -1394,8 +1422,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1735970889
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1468,6 +1495,11 @@
     "port": 28200
   },
   {
+    "name": "[BWR] Trening  RU\\ENG",
+    "addr": "176.57.173.119",
+    "port": 28400
+  },
+  {
     "name": "!New Players Welcome!",
     "addr": "176.57.173.119",
     "port": 28500
@@ -1526,8 +1558,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1735974372
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1977,8 +2008,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1735906272
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2263,7 +2293,7 @@
     "port": 8888
   },
   {
-    "name": "CN | HLL Server |JP",
+    "name": "萌新之家同盟攻防测试服 QQ147559947JP",
     "addr": "203.10.98.5",
     "port": 8898
   },
@@ -2318,7 +2348,7 @@
     "port": 7777
   },
   {
-    "name": "[LCM] La Compañia Maldita - Pruebas [ESP]",
+    "name": "[LCM] La Compañia Maldita [ESP] lacompaniamaldita.es",
     "addr": "208.115.196.19",
     "port": 7777
   },
@@ -2402,8 +2432,7 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7777,
-    "removed": 1735927745
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3591,7 +3620,7 @@
     "port": 9620
   },
   {
-    "name": "[NL/ENG] WW2",
+    "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
     "port": 8530
   },
@@ -3601,7 +3630,7 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK #2 [VLK] valkyriahll.cz",
+    "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3666,7 +3695,7 @@
     "port": 9720
   },
   {
-    "name": "Hell Breaks Loose | Showcase Match | Live YT @Chessie204",
+    "name": "Blood, Sweat & Beers #2 | LvL 25 | bsbhll.com",
     "addr": "54.36.60.213",
     "port": 8530
   },
@@ -3717,7 +3746,7 @@
     "port": 7797
   },
   {
-    "name": "CN|节点:JP|EXP小南梁马克萌新服务器|Q556560029",
+    "name": "[CN]EXP小南梁马克纯冲突/Q556560029/JP",
     "addr": "64.31.11.26",
     "port": 10165
   },
@@ -3727,7 +3756,7 @@
     "port": 10710
   },
   {
-    "name": "Dsquad&SKNS无规则服q群交流抓挂：875570590",
+    "name": "Dsquad&SKNS特雷森学院无规则服q群交流抓挂：875570",
     "addr": "64.31.11.26",
     "port": 11255
   },
@@ -3737,13 +3766,28 @@
     "port": 8530
   },
   {
-    "name": "CN3#冬夜里的深夜萌新军官的咖啡馆|120748151",
+    "name": "CN3#冬夜里的深夜萌新军官的冲突咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
   },
   {
     "name": "CN ITK#3琴里酱的ACG圣地日服Q群48381851",
     "addr": "64.31.11.26",
+    "port": 9620
+  },
+  {
+    "name": "CN：灰猎犬萌新EPIC攻防服/JP Q：441245221",
+    "addr": "64.31.11.50",
+    "port": 8530
+  },
+  {
+    "name": "CN1|米奇妙妙屋的萌新宝宝激情乐园QQ群：975625508",
+    "addr": "64.31.11.50",
+    "port": 9075
+  },
+  {
+    "name": "CN2薯条重生之我在秋叶原当赛博皇帝群号109830521",
+    "addr": "64.31.11.50",
     "port": 9620
   },
   {
@@ -4346,7 +4390,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (Taiwan) Server by g-portal.com",
+    "name": "日本人応援サーバー、JP、JAPAN、JPN https://discord.",
     "addr": "83.223.197.89",
     "port": 28100
   },
@@ -4358,13 +4402,13 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735992602
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200,
-    "removed": 1735819867
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -4374,12 +4418,14 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1735992602
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735992602
   },
   {
     "name": "DevQA - US #03",
@@ -4448,9 +4494,15 @@
     "port": 28200
   },
   {
+    "name": "HLL Playtest Server - US #02",
+    "addr": "83.223.206.29",
+    "port": 28000
+  },
+  {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1735992602
   },
   {
     "name": "EASY Company Level 50+ | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -4618,7 +4670,7 @@
     "port": 7777
   },
   {
-    "name": "[LCM] La Compañia Maldita [ESP]",
+    "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
     "port": 7787
   },
@@ -4672,12 +4724,6 @@
     "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
     "addr": "92.118.18.72",
     "port": 7817
-  },
-  {
-    "name": "The Fox's Den [US EAST] [NEW PLAYERS WELCOME]",
-    "addr": "92.118.18.76",
-    "port": 7787,
-    "removed": 1735387797
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
