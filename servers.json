@@ -1437,6 +1437,11 @@
     "port": 28100
   },
   {
+    "name": "(Ger) Jeder Willkommen! ",
+    "addr": "176.57.171.44",
+    "port": 28300
+  },
+  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ +50 LEVEL",
     "addr": "176.57.171.44",
     "port": 28500
@@ -1940,7 +1945,7 @@
     "port": 7837
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "<COBRAS FUMANTES> MARRAM #4 hllbr.vip",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -4720,7 +4725,8 @@
   {
     "name": "HLL Official - South America #13",
     "addr": "89.43.106.37",
-    "port": 28500
+    "port": 28500,
+    "removed": 1736016862
   },
   {
     "name": "HLL Official - South America #16",
