@@ -5,6 +5,16 @@
     "port": 8888
   },
   {
+    "name": "GARRYBUSTERS | discord.gg/garrybusters",
+    "addr": "103.193.80.145",
+    "port": 7777
+  },
+  {
+    "name": "GARRYBUSTERS #2 | discord.gg/garrybusters",
+    "addr": "103.193.80.145",
+    "port": 7787
+  },
+  {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
     "port": 7807
@@ -13,6 +23,11 @@
     "name": "TAGLESS OCE | MIXED MODES |FREE LIFETIME VIP LVL100+",
     "addr": "103.193.80.97",
     "port": 7787
+  },
+  {
+    "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
+    "addr": "103.193.80.97",
+    "port": 7807
   },
   {
     "name": "CN薯条重生之我在秋叶原当赛博皇帝群号1098305217",
@@ -30,7 +45,7 @@
     "port": 8908
   },
   {
-    "name": "ARO（原TR联队）CN JP Q群703608483",
+    "name": "<CN>ARO（原TR联队）JP Q群703608483",
     "addr": "103.62.49.39",
     "port": 8918
   },
@@ -60,7 +75,7 @@
     "port": 8908
   },
   {
-    "name": "ARO(原TR)马局机枪天下第一 CN JP",
+    "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
     "port": 8918
   },
@@ -76,7 +91,7 @@
     "removed": 1736037167
   },
   {
-    "name": "[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
+    "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
     "addr": "103.62.49.49",
     "port": 8948
   },
@@ -236,7 +251,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] DOG Hundehütte",
+    "name": "[GER] DOG Hundehütte (min lvl 25)",
     "addr": "135.125.188.111",
     "port": 8530
   },
@@ -514,10 +529,11 @@
   {
     "name": "CN斗罗大陆之萌新玩家超神(纯攻防)Q群797464980",
     "addr": "156.146.44.225",
-    "port": 7917
+    "port": 7917,
+    "removed": 1736057310
   },
   {
-    "name": "CN1#HK ODST地狱空降师//Xpp//萌新小窝//QQ群：47858320",
+    "name": "CN1#HK ODST地狱空降师/Xpp/萌新小窝/QQ群：478583207",
     "addr": "156.146.44.225",
     "port": 7927
   },
@@ -527,12 +543,12 @@
     "port": 7937
   },
   {
-    "name": "[TR] Turks Let Loose - Turkish Only - discord.gg/RSjE9d4ZDW",
+    "name": "Turks Let Loose [TR] - New player friendly - discord.gg/RSjE9d4",
     "addr": "156.67.62.23",
     "port": 7777
   },
   {
-    "name": "CZ AND SK heslo dostanete na dc pacmansk",
+    "name": "CZ AND SK discord pacman",
     "addr": "159.69.226.137",
     "port": 7797
   },
@@ -658,7 +674,7 @@
     "port": 28700
   },
   {
-    "name": "[3IRD] Ukrainian Server | UA/EN",
+    "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.134.27",
     "port": 28800
   },
@@ -1094,7 +1110,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736057310
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1445,7 +1462,8 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736057310
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. !Votemap",
@@ -1489,7 +1507,7 @@
     "removed": 1736037167
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ +50 LEVEL",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ +30 LEVEL",
     "addr": "176.57.171.44",
     "port": 28500
   },
@@ -1707,7 +1725,7 @@
     "removed": 1736014079
   },
   {
-    "name": "[UK] Hearts of Bruh By Luna Developments",
+    "name": "[UK] Hearts of Bruh By Luna Developments.",
     "addr": "176.57.178.15",
     "port": 28000
   },
@@ -1815,7 +1833,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736057310
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1938,12 +1957,62 @@
     "port": 7867
   },
   {
+    "name": "<CN>#4 TT天堂萌新俱乐部(美军图)Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7777
+  },
+  {
+    "name": "<CN>#5 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7787
+  },
+  {
+    "name": "<CN>#6 TT天堂萌新俱乐部（遭遇战）Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7797
+  },
+  {
+    "name": "<CN>#7 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7807
+  },
+  {
+    "name": "<CN>#8 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7817
+  },
+  {
+    "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
+    "addr": "178.249.213.164",
+    "port": 7827
+  },
+  {
+    "name": "CN1#JP ODST地狱空降师//Xpp//萌新小窝//QQ群：47858320",
+    "addr": "178.249.213.164",
+    "port": 7837
+  },
+  {
+    "name": "reclaimer training server",
+    "addr": "178.249.213.164",
+    "port": 7847
+  },
+  {
+    "name": "CN#1帝国之鹰Q群1016686458",
+    "addr": "178.249.213.164",
+    "port": 7857
+  },
+  {
+    "name": "<CN>#9 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "addr": "178.249.213.164",
+    "port": 7867
+  },
+  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
     "port": 7777
   },
   {
-    "name": "69th Space Force Japan [MILSIM FRIENDLY]",
+    "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
     "port": 7797
   },
@@ -2001,6 +2070,11 @@
     "name": "<COBRAS FUMANTES> MARRAM #4 hllbr.vip",
     "addr": "181.214.221.212",
     "port": 7847
+  },
+  {
+    "name": "<COBRAS FUMANTES> MARRAM #5 hllbr.vip",
+    "addr": "181.214.221.41",
+    "port": 7777
   },
   {
     "name": "Landsharks (7th Armoured Cavalry) - Training Server",
@@ -2340,10 +2414,11 @@
   {
     "name": "The Dales UK | New Players Welcome | use mic | ENG",
     "addr": "195.82.158.186",
-    "port": 20400
+    "port": 20400,
+    "removed": 1736057310
   },
   {
-    "name": "für die epic-store-schnorrer",
+    "name": "German HLL - Warfare - Kursk, Marie, Carentan, Hill 400",
     "addr": "195.82.158.186",
     "port": 20800
   },
@@ -2530,8 +2605,7 @@
   {
     "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1736038896
+    "port": 7777
   },
   {
     "name": "[AUT|GER] |ACAB| All Cats Are Beauties #CAT",
@@ -3057,6 +3131,11 @@
     "name": "HLL Official - US West #84",
     "addr": "45.137.246.19",
     "port": 28600
+  },
+  {
+    "name": "Hell let loose (US West) Server by g-portal.com",
+    "addr": "45.137.246.2",
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #15",
@@ -3709,7 +3788,7 @@
     "port": 29000
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[DIV33] PANZERGRUPPE 33 | SERVER OFICIAL DEL CLAN",
     "addr": "45.143.199.200",
     "port": 8530
   },
@@ -3746,12 +3825,14 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736057310
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1736057310
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -3894,6 +3975,11 @@
     "port": 7787
   },
   {
+    "name": "Bob The Builder OFFICIAL | HLL COMBAT ENGINEERS | FAST LOADOUTS",
+    "addr": "63.143.60.20",
+    "port": 7777
+  },
+  {
     "name": "8th Tank Battalion | US East | USA vs Germany Only | discord.gg",
     "addr": "63.143.60.20",
     "port": 7787
@@ -3932,7 +4018,8 @@
   {
     "name": "[CN]EXP小南梁马克纯冲突/Q556560029/JP",
     "addr": "64.31.11.26",
-    "port": 10165
+    "port": 10165,
+    "removed": 1736057310
   },
   {
     "name": "CN#129[MX]风起云涌 JP Q群:162996620",
@@ -3940,7 +4027,7 @@
     "port": 10710
   },
   {
-    "name": "Dsquad&SKNS特雷森学院无规则服q群8755705900",
+    "name": "CN<Dsquad>SKNS特雷森学院日服Q群875570590",
     "addr": "64.31.11.26",
     "port": 11255
   },
@@ -3965,9 +4052,14 @@
     "port": 10165
   },
   {
-    "name": "<CN>BW黑色守望/黄区神圣卫国战争/Q群:682305162",
+    "name": "<CN>BW黑色守望/黄区卫国战争苏德专场/Q:682305162",
     "addr": "64.31.11.50",
     "port": 10710
+  },
+  {
+    "name": "[CN]EXP小南梁马克/纯冲突/Q556560029/JP",
+    "addr": "64.31.11.50",
+    "port": 11255
   },
   {
     "name": "CN：灰猎犬萌新EPIC攻防服/JP Q：441245221",
@@ -4027,6 +4119,11 @@
   {
     "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
     "addr": "64.31.40.205",
+    "port": 7777
+  },
+  {
+    "name": "69 SPACE FORCE |  US West",
+    "addr": "64.31.6.90",
     "port": 7777
   },
   {
@@ -4937,7 +5034,7 @@
     "port": 7817
   },
   {
-    "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & LOYALTY VIP",
+    "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & SEEDING VIP",
     "addr": "92.118.18.78",
     "port": 7777
   },
@@ -4957,7 +5054,7 @@
     "port": 7777
   },
   {
-    "name": "PC Gamers - Español/English (DALLAS)",
+    "name": "PC Gamers LATAM - DALLAS",
     "addr": "92.118.19.142",
     "port": 7777
   },
@@ -4969,6 +5066,11 @@
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
+    "port": 7777
+  },
+  {
+    "name": "No Man's Squad",
+    "addr": "92.118.19.82",
     "port": 7777
   },
   {
@@ -5040,6 +5142,11 @@
     "name": "HLL Official - South America #22",
     "addr": "92.38.151.90",
     "port": 28500
+  },
+  {
+    "name": "(Brazil) Server AlemaozinhoCG",
+    "addr": "92.38.151.91",
+    "port": 28100
   },
   {
     "name": "(LAT) Hell let loose by AK",
