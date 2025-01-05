@@ -549,6 +549,11 @@
     "port": 7777
   },
   {
+    "name": "KNIL(DUTCH Speaking)",
+    "addr": "159.69.226.137",
+    "port": 7777
+  },
+  {
     "name": "CZ AND SK discord pacmansk",
     "addr": "159.69.226.137",
     "port": 7797
@@ -4053,7 +4058,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.11.26",
-    "port": 10165
+    "port": 10165,
+    "removed": 1736081968
   },
   {
     "name": "CN#129[MX]风起云涌 JP Q群:162996620",
@@ -4908,10 +4914,9 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Blue",
+    "name": "Greyhound Event #2",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1736081157
+    "port": 7817
   },
   {
     "name": "Dark Horizon Official | New Players Welcome | Discord.gg/dhz",
