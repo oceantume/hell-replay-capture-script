@@ -928,7 +928,8 @@
   {
     "name": "HLL Official - Australia #04",
     "addr": "176.57.135.34",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736103825
   },
   {
     "name": "HLL Official - Australia #02",
@@ -938,7 +939,8 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "176.57.135.48",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736103825
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1119,6 +1121,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com / GER-Deutsch ",
     "addr": "176.57.140.64",
     "port": 28100
+  },
+  {
+    "name": "Frogus 11",
+    "addr": "176.57.140.64",
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #19",
@@ -5614,7 +5621,8 @@
   {
     "name": "HLL Official - Australia #17",
     "addr": "94.250.221.26",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736103825
   },
   {
     "name": "HLL Official - Australia #24",
@@ -5684,7 +5692,8 @@
   {
     "name": "HLL Official - Australia #26",
     "addr": "94.250.221.35",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736103825
   },
   {
     "name": "HLL Official - Australia #37",
