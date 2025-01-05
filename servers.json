@@ -2,7 +2,8 @@
   {
     "name": "Midas | HLL | discord.gg/VRShkgegff",
     "addr": "103.1.213.33",
-    "port": 8888
+    "port": 8888,
+    "removed": 1736079002
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -80,7 +81,7 @@
     "port": 8918
   },
   {
-    "name": "CN(原TR/SESH) 阿康的ARO复兴大业 JP",
+    "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
     "addr": "103.62.49.49",
     "port": 8928
   },
@@ -548,14 +549,15 @@
     "port": 7777
   },
   {
-    "name": "CZ AND SK discord pacman",
+    "name": "CZ AND SK discord pacmansk",
     "addr": "159.69.226.137",
     "port": 7797
   },
   {
     "name": "BPNL Frontline Warfare Europe",
     "addr": "159.69.226.158",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736079002
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -582,6 +584,11 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "162.55.199.102",
     "port": 8530
+  },
+  {
+    "name": "[PL] [EU] Polski Serwer HLL ",
+    "addr": "168.119.79.144",
+    "port": 10165
   },
   {
     "name": "[German] - Die Bunkerkinder | Mic + Deutsch /",
@@ -1210,7 +1217,7 @@
     "port": 28200
   },
   {
-    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare Unser",
+    "name": "[YII] 9. Panzerdivision » only GER/ENG + Mic » only warfare a",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -1474,6 +1481,11 @@
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
     "port": 28300
+  },
+  {
+    "name": "Crazy's Let Loose [NL/EN]",
+    "addr": "176.57.171.161",
+    "port": 28000
   },
   {
     "name": "Borry‘s Playground",
@@ -1972,7 +1984,7 @@
     "port": 7797
   },
   {
-    "name": "<CN>#7 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "name": "<CN>#7 TT天堂萌新俱乐部（夜间图）Q群：578097070",
     "addr": "178.249.213.164",
     "port": 7807
   },
@@ -2010,6 +2022,11 @@
     "name": "<CN>#10TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "178.249.213.164",
     "port": 7877
+  },
+  {
+    "name": "JP CN1801 极北蔷薇社区服 Q群：677043328",
+    "addr": "178.249.213.164",
+    "port": 7887
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -2145,8 +2162,7 @@
   {
     "name": "σ CHAD STUART'S — LVL 25+ │ discord.gg/chadfgf",
     "addr": "191.101.166.120",
-    "port": 9620,
-    "removed": 1736060804
+    "port": 9620
   },
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2418,10 +2434,9 @@
     "removed": 1735781686
   },
   {
-    "name": "The Dales UK | New Players Welcome | use mic | ENG",
+    "name": "[TDUK] The Dales UK | New Players Welcome | use mic | ENG",
     "addr": "195.82.158.186",
-    "port": 20400,
-    "removed": 1736057310
+    "port": 20400
   },
   {
     "name": "German HLL - Warfare - Kursk, Marie, Carentan, Hill 400",
@@ -2437,6 +2452,11 @@
     "name": "(GER)Hier sind nur Verrückte",
     "addr": "195.82.158.186",
     "port": 21100
+  },
+  {
+    "name": "CZ/SK test",
+    "addr": "195.82.158.186",
+    "port": 21400
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2619,7 +2639,7 @@
     "port": 7777
   },
   {
-    "name": "             [GER] [AFD] Alice Weidel FTW",
+    "name": "[GER][US] Stronger Together | USA-Germany Friendship Server",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -2681,8 +2701,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777,
-    "removed": 1736060804
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3382,7 +3401,8 @@
   {
     "name": "HLL Official - US East #26",
     "addr": "45.137.247.20",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #36",
@@ -3397,7 +3417,8 @@
   {
     "name": "HLL Official - US East #60",
     "addr": "45.137.247.20",
-    "port": 28400
+    "port": 28400,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #70",
@@ -3577,7 +3598,8 @@
   {
     "name": "HLL Official - US East #59",
     "addr": "45.137.247.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #65",
@@ -3707,7 +3729,8 @@
   {
     "name": "HLL Official - US East #37",
     "addr": "45.137.247.86",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #47",
@@ -3742,7 +3765,8 @@
   {
     "name": "HLL Official - US East #10",
     "addr": "45.137.247.88",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #21",
@@ -3752,7 +3776,8 @@
   {
     "name": "HLL Official - US East #28",
     "addr": "45.137.247.88",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736079002
   },
   {
     "name": "HLL Official - US East #31",
@@ -4072,7 +4097,7 @@
     "port": 8530
   },
   {
-    "name": "CN1|米奇妙妙屋的萌新宝宝激情乐园QQ群：975625508",
+    "name": "CN1#米奇妙妙屋的萌新宝宝激情乐园QQ群：975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -4705,8 +4730,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1735992602
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -4738,7 +4762,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736079002
   },
   {
     "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -4804,7 +4829,8 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736079002
   },
   {
     "name": "QA Testing - US East #09",
@@ -4865,8 +4891,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1736060804
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
