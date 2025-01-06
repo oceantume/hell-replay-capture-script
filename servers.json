@@ -1297,7 +1297,8 @@
   {
     "name": "Frogus 11",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736146777
   },
   {
     "name": "[ITA/ENG] WildWolf  Clan | The New Era | Map Rotation | New Pla",
@@ -3157,6 +3158,11 @@
     "port": 8908
   },
   {
+    "name": "HLL Server",
+    "addr": "202.165.70.15",
+    "port": 8918
+  },
+  {
     "name": "CN3「FJ&CZS」绿魔鬼战队纯攻防｜JP｜Q716701264",
     "addr": "203.10.96.196",
     "port": 8888
@@ -3326,8 +3332,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777,
-    "removed": 1736146241
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -5563,8 +5568,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1736146241
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
