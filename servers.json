@@ -23,7 +23,8 @@
   {
     "name": "Digger Company - DIG",
     "addr": "103.193.80.57",
-    "port": 9075
+    "port": 9075,
+    "removed": 1736186922
   },
   {
     "name": "TAGLESS OCE | MIXED MODES |FREE LIFETIME VIP LVL100+",
@@ -306,6 +307,11 @@
     "removed": 1736123493
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "136.243.82.234",
+    "port": 8530
+  },
+  {
     "name": "ZOO - Match server",
     "addr": "138.201.16.137",
     "port": 8530
@@ -356,16 +362,9 @@
     "port": 9620
   },
   {
-    "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
-    "addr": "141.95.35.153",
-    "port": 8530,
-    "removed": 1735582112
-  },
-  {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "name": "DE/ENG New Player Welcome / TK = Bann",
     "addr": "141.95.35.24",
-    "port": 8530,
-    "removed": 1736165507
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -429,7 +428,7 @@
     "port": 8530
   },
   {
-    "name": "WW3 Join now!",
+    "name": "Hell Let Loose (UK) Server 24/7 Enlist now",
     "addr": "149.102.135.184",
     "port": 28000
   },
@@ -531,7 +530,7 @@
     "port": 7837
   },
   {
-    "name": "cn.HK 忆江南【PUMA】夜晚激战冲突服qq746699634",
+    "name": "【PUMA】PRCnew player server q746699634",
     "addr": "156.146.44.225",
     "port": 7847
   },
@@ -612,12 +611,6 @@
     "port": 8530
   },
   {
-    "name": "Council Of Men//Casual Players Welcome/discord.gg/the-council-o",
-    "addr": "161.129.66.154",
-    "port": 8530,
-    "removed": 1735582112
-  },
-  {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
     "port": 8530
@@ -655,7 +648,8 @@
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
     "addr": "168.119.79.144",
-    "port": 12345
+    "port": 12345,
+    "removed": 1736186922
   },
   {
     "name": "[German] - Die Bunkerkinder | Mic + Deutsch /",
@@ -1051,7 +1045,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736186922
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1311,11 +1306,10 @@
   {
     "name": "Frogus 11",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1736146777
+    "port": 28200
   },
   {
-    "name": "[ITA/ENG] WildWolf  Clan | The New Era | Map Rotation | New Pla",
+    "name": "[ITA/ENG] WildWolf  Clan | The New Era | (LOW PING)  Server 1#",
     "addr": "176.57.140.64",
     "port": 28300
   },
@@ -1367,8 +1361,7 @@
   {
     "name": "[1.BV] Brennholzverleih | GER Mic | Active Admins",
     "addr": "176.57.140.83",
-    "port": 28200,
-    "removed": 1736123493
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -2327,7 +2320,7 @@
     "port": 28300
   },
   {
-    "name": "[UA] Rage of Freedom | discord.gg/jkRxfkbQ6x",
+    "name": "[UA] Rage of Freedom | discord.gg/xpbYePVhUx",
     "addr": "176.57.178.134",
     "port": 28100
   },
@@ -2588,6 +2581,11 @@
     "port": 7867
   },
   {
+    "name": "JP   |火力全开 |   日服低延迟 Q群1016260095",
+    "addr": "178.212.33.44",
+    "port": 30200
+  },
+  {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军图)Q群：578097070",
     "addr": "178.249.213.164",
     "port": 7777
@@ -2816,12 +2814,6 @@
     "removed": 1735841314
   },
   {
-    "name": "69th Space Force Division (REALISM) New Players Welcome ;)",
-    "addr": "192.169.85.194",
-    "port": 9620,
-    "removed": 1735582112
-  },
-  {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
     "port": 7787
@@ -2834,8 +2826,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1736168667
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2949,7 +2940,7 @@
     "port": 7777
   },
   {
-    "name": "TD ♦ Tank Destroyers LVL  | EU/ENG | Discord.gg/TankDestroyer",
+    "name": "TD ♦ Tank Destroyers LVL 25+ SLs  | EU/ENG | Discord.gg/TankD",
     "addr": "193.160.22.142",
     "port": 7777
   },
@@ -3163,7 +3154,7 @@
     "port": 8898
   },
   {
-    "name": "CN5「CZS&FJ」纯冲突70级以上｜HK｜Q716701264",
+    "name": "CN5「CZS&FJ」细雨清风萌新乐园｜HK｜Q716701264",
     "addr": "202.165.70.15",
     "port": 8908
   },
@@ -3280,7 +3271,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3440,9 +3431,14 @@
     "port": 28000
   },
   {
-    "name": "GER.Johnnsy.Official",
+    "name": "GER.Johnnsy.Official-YT",
     "addr": "213.136.94.160",
     "port": 28000
+  },
+  {
+    "name": "[BWR] UKRAINIAN SERVER (UA/ENG) https://discord.gg/nYkwZQSf3m",
+    "addr": "213.136.94.160",
+    "port": 28100
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -4485,6 +4481,11 @@
     "port": 8530
   },
   {
+    "name": "It's born, whats the name?",
+    "addr": "45.151.81.210",
+    "port": 7787
+  },
+  {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "45.43.3.83",
     "port": 9620
@@ -4520,6 +4521,11 @@
     "port": 28000
   },
   {
+    "name": "[PL/ENG] TGD Clan",
+    "addr": "5.189.132.77",
+    "port": 28000
+  },
+  {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -4533,6 +4539,11 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "5.226.141.83",
     "port": 8530
+  },
+  {
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "addr": "5.9.77.39",
+    "port": 12345
   },
   {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
@@ -4601,7 +4612,7 @@
     "port": 9075
   },
   {
-    "name": "[UA] DPS Ukrainian Community Server | discord.gg/MgSBjeqQ",
+    "name": "[UA/EN Only] DPS Ukrainian Community Server | discord.gg/MgSBje",
     "addr": "51.83.150.41",
     "port": 7797
   },
@@ -4794,8 +4805,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1736168667
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5001,8 +5011,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1736014079
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #10",
@@ -5348,8 +5357,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1736014079
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5414,7 +5422,8 @@
   {
     "name": "CN战军服务器（国服）火力全开",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736186922
   },
   {
     "name": "HLL Official - US East #03",
@@ -5752,7 +5761,7 @@
     "port": 7827
   },
   {
-    "name": "Current level: Luigi's Mansion(D1CK)",
+    "name": "Hell Let Loose Server",
     "addr": "92.118.18.120",
     "port": 7787
   },
