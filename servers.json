@@ -364,7 +364,8 @@
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
     "addr": "141.95.35.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736165507
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -423,6 +424,11 @@
     "port": 7787
   },
   {
+    "name": "PL - Polski Serwer - VIP Sloty za dychę: bit.ly/hell-let-loose",
+    "addr": "146.59.47.230",
+    "port": 8530
+  },
+  {
     "name": "TH Hell Let loose Thailand Community 2",
     "addr": "15.235.219.197",
     "port": 8530
@@ -459,7 +465,7 @@
     "removed": 1736014079
   },
   {
-    "name": "【FR】Eglantine Ici La [7CIE] https://discord.gg/H6pUB3CkBJ",
+    "name": "[FR] Eglantine Ici La [7CIE] https://discord.gg/H6pUB3CkBJ",
     "addr": "152.228.223.2",
     "port": 9075
   },
@@ -689,8 +695,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1736143807
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1846,7 +1851,7 @@
     "port": 28300
   },
   {
-    "name": "Crazy's Let Loose [NL/EN]",
+    "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
     "addr": "176.57.171.161",
     "port": 28000
   },
@@ -2752,7 +2757,8 @@
   {
     "name": "PL - Polski Serwer - VIP Sloty za dychę: bit.ly/hell-let-loose",
     "addr": "188.64.33.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736165507
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -2760,7 +2766,7 @@
     "port": 8530
   },
   {
-    "name": "[D.C.] Devils Company",
+    "name": "[D.C.] Devils Company - LATAM - Discord: devilscompany.net",
     "addr": "189.1.170.234",
     "port": 10165
   },
@@ -3070,7 +3076,7 @@
     "removed": 1736123493
   },
   {
-    "name": "German HLL - Warfare - Kursk, Marie, Carentan, Hill 400",
+    "name": "[GER] LWWC - Warfare - Rotation: Kursk, Marie, Carentan, Hill 4",
     "addr": "195.82.158.186",
     "port": 20800
   },
@@ -3158,7 +3164,7 @@
     "port": 8908
   },
   {
-    "name": "HLL Server",
+    "name": "CN6「CZS&FJ」萌新保护100级以下｜HK｜Q719036493",
     "addr": "202.165.70.15",
     "port": 8918
   },
@@ -3380,7 +3386,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3420,8 +3426,13 @@
     "port": 7777
   },
   {
-    "name": "Hell let loose (EU) ",
+    "name": "GER Hell let loose (EU) ",
     "addr": "213.136.80.177",
+    "port": 28000
+  },
+  {
+    "name": "[ITA/ENG] =BIA= Italian Community Official #1",
+    "addr": "213.136.88.87",
     "port": 28000
   },
   {
@@ -4067,8 +4078,7 @@
   {
     "name": "HLL Official - US East #60",
     "addr": "45.137.247.20",
-    "port": 28400,
-    "removed": 1736079002
+    "port": 28400
   },
   {
     "name": "HLL Official - US East #70",
@@ -4248,8 +4258,7 @@
   {
     "name": "HLL Official - US East #59",
     "addr": "45.137.247.38",
-    "port": 28300,
-    "removed": 1736079002
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #65",
@@ -4764,7 +4773,7 @@
     "port": 8530
   },
   {
-    "name": "CN1#米奇妙妙屋的萌新宝宝激情乐园QQ群：975625508",
+    "name": "CN1#米奇妙妙屋的萌新宝宝乐园jp|Q群:975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -4914,12 +4923,6 @@
     "port": 7777
   },
   {
-    "name": "Emernic Test Server",
-    "addr": "74.50.76.226",
-    "port": 8530,
-    "removed": 1735560691
-  },
-  {
     "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
@@ -4967,7 +4970,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736165507
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5591,6 +5595,11 @@
     "port": 8530
   },
   {
+    "name": "Hookway's Server",
+    "addr": "89.32.89.73",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
     "port": 28000
@@ -5673,12 +5682,14 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736165507
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736165507
   },
   {
     "name": "Dark Horizon Singapore",
