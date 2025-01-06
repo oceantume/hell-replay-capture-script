@@ -604,7 +604,8 @@
   {
     "name": "BPNL Frontline Warfare Europe",
     "addr": "159.69.226.158",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736189844
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -4740,6 +4741,11 @@
     "port": 7797
   },
   {
+    "name": "[MEX][LAT] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
+    "addr": "63.143.62.94",
+    "port": 7777
+  },
+  {
     "name": "CN5#冬夜里的深夜春节咖啡馆萌新专用服|JP12074815",
     "addr": "64.31.11.26",
     "port": 10165
@@ -5678,8 +5684,7 @@
   {
     "name": "HLL Official - South America #11",
     "addr": "89.43.106.37",
-    "port": 28300,
-    "removed": 1736189292
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #12",
