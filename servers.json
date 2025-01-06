@@ -429,6 +429,11 @@
     "port": 8530
   },
   {
+    "name": "WW3 Enlist now!",
+    "addr": "149.102.135.184",
+    "port": 28000
+  },
+  {
     "name": "TH Hell Let loose Thailand Community 2",
     "addr": "15.235.219.197",
     "port": 8530
@@ -646,6 +651,11 @@
     "name": "ProxGaming Europe",
     "addr": "168.119.79.144",
     "port": 11800
+  },
+  {
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "addr": "168.119.79.144",
+    "port": 12345
   },
   {
     "name": "[German] - Die Bunkerkinder | Mic + Deutsch /",
@@ -5597,7 +5607,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736166556
   },
   {
     "name": "HLL Official - South America #23",
@@ -5682,14 +5693,12 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1736165507
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200,
-    "removed": 1736165507
+    "port": 28200
   },
   {
     "name": "Dark Horizon Singapore",
