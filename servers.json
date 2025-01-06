@@ -339,7 +339,8 @@
   {
     "name": "[MEX][LAT] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
     "addr": "141.11.34.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736188685
   },
   {
     "name": "Corrosion.gg | LvL1 Friendly | Qonzer Powered",
@@ -603,7 +604,8 @@
   {
     "name": "BPNL Frontline Warfare Europe",
     "addr": "159.69.226.158",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736188685
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -4523,7 +4525,8 @@
   {
     "name": "[PL/ENG] TGD Clan",
     "addr": "5.189.132.77",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736188685
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -4985,8 +4988,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1736168667
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5850,6 +5852,11 @@
     "name": "HLL Official - South America #20",
     "addr": "92.38.151.75",
     "port": 28500
+  },
+  {
+    "name": "HLL BRASIL SERVER - CLÃ 1ºESQUADRÃO BRASILEIRO ",
+    "addr": "92.38.151.76",
+    "port": 28200
   },
   {
     "name": "[ARG] Paradox Empire - discord.gg/paradoxempire ",
