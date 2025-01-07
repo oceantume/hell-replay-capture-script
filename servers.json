@@ -2835,7 +2835,8 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736255040
   },
   {
     "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
@@ -2856,7 +2857,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736255040
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2896,7 +2898,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii)",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1736255040
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3103,7 +3106,8 @@
   {
     "name": "NoXTeam.de - GER",
     "addr": "195.82.158.186",
-    "port": 20300
+    "port": 20300,
+    "removed": 1736255040
   },
   {
     "name": "[TDUK] The Dales UK | New Players Welcome | use mic | ENG",
@@ -3153,7 +3157,7 @@
     "port": 8530
   },
   {
-    "name": "☆ | UK Let Loose [UKLL] - ukletloose.co.uk | New Players Welc",
+    "name": "☆ UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players Welcome",
     "addr": "198.244.177.7",
     "port": 9620
   },
@@ -3240,7 +3244,7 @@
     "port": 8998
   },
   {
-    "name": "Cn/Beta萌新社区/jp/q群882377564",
+    "name": "Cn/Beta萌新社区/jp/群号955048191",
     "addr": "203.10.99.7",
     "port": 9058
   },
@@ -4633,6 +4637,11 @@
     "port": 9620
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "51.195.176.115",
+    "port": 8530
+  },
+  {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
     "port": 8530
@@ -4877,7 +4886,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736255040
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5063,7 +5073,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736255040
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5638,8 +5649,7 @@
   {
     "name": "HLL Official - South America #24",
     "addr": "89.43.106.36",
-    "port": 28100,
-    "removed": 1736254179
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #25",
