@@ -957,8 +957,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100,
-    "removed": 1736209813
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -968,8 +967,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300,
-    "removed": 1736209813
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #106",
@@ -3152,7 +3150,7 @@
     "port": 8530
   },
   {
-    "name": "[BR1] BR1 Gaming - US CENTRAL (2) - discord.gg/br1",
+    "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -4608,8 +4606,7 @@
   {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
-    "port": 8530,
-    "removed": 1736209813
+    "port": 8530
   },
   {
     "name": "RealityShowTV",
@@ -4959,7 +4956,7 @@
     "port": 7827
   },
   {
-    "name": "Dark Horizon LVL 50+ |Deathwish Mode| Discord.gg/dhz",
+    "name": "Dark Horizon LVL 35+ |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
     "port": 7777
   },
@@ -5037,7 +5034,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736213785
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5912,7 +5910,8 @@
   {
     "name": "[ARG] Paradox Empire - discord.gg/paradoxempire ",
     "addr": "92.38.151.86",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736213785
   },
   {
     "name": "(Brazil)SUL AMERICA ",
