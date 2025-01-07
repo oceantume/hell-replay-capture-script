@@ -1846,8 +1846,7 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1736209813
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2. !Votemap",
@@ -2817,7 +2816,7 @@
     "port": 9075
   },
   {
-    "name": "σ CHAD STUART'S — LVL 25+ │ discord.gg/chadfgf",
+    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "191.101.166.120",
     "port": 9620
   },
@@ -2896,6 +2895,11 @@
     "name": "Dark Horizon Central 3 | New Players Welcome | Discord.gg/dhz",
     "addr": "192.169.93.235",
     "port": 7787
+  },
+  {
+    "name": "Current level: Luigi's Mansion(D1CK)",
+    "addr": "192.169.93.236",
+    "port": 7777
   },
   {
     "name": "Dark Horizon Central 2 | New Players Welcome | Discord.gg/dhz",
@@ -5745,8 +5749,7 @@
   {
     "name": "HLL Official - South America #18",
     "addr": "89.43.106.37",
-    "port": 28700,
-    "removed": 1736209813
+    "port": 28700
   },
   {
     "name": "HLL Official - South America #02",
@@ -5812,7 +5815,8 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.18.120",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736211448
   },
   {
     "name": "The Red Guard (US EAST) - discord.gg/N5jG5MvuDm",
