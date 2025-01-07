@@ -3416,8 +3416,7 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1736273325
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
@@ -4719,6 +4718,11 @@
     "name": "[UA] Ukraine Unity Frontline #1 discord.gg/uuf",
     "addr": "51.83.150.42",
     "port": 7777
+  },
+  {
+    "name": "[UA/EU] Ukraine Unity Frontline #2 HLL discord.gg/uuf",
+    "addr": "51.83.150.42",
+    "port": 7797
   },
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
