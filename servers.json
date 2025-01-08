@@ -337,7 +337,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -565,7 +565,7 @@
     "removed": 1736251881
   },
   {
-    "name": "【PUMA】碧蓝大战指挥官vs老师萌新服qq群746699634",
+    "name": "CN.hk【PUMA】碧蓝大战指挥官vs老师萌新服qq群74669",
     "addr": "156.146.44.225",
     "port": 7847
   },
@@ -711,7 +711,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1736338297
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -736,8 +737,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1736316553
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1892,7 +1892,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] Die Alteingesessenen - Mikrofonpflicht - Deutsch - LVL 50",
+    "name": "[GER] Die Alteingesessenen - Min LVL 50+ - Mikrofonpflicht - Wa",
     "addr": "176.57.171.161",
     "port": 28200
   },
@@ -2660,7 +2660,7 @@
     "port": 7837
   },
   {
-    "name": "Reclaimer遭遇战专属服务器qq746699634",
+    "name": "CN.jp【PUMA】腊月激情对抗遭遇战服务器qq746699634",
     "addr": "178.249.213.164",
     "port": 7847
   },
@@ -2786,8 +2786,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1736252924
+    "port": 7777
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2823,8 +2822,7 @@
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
     "addr": "188.64.33.86",
-    "port": 8530,
-    "removed": 1736296205
+    "port": 8530
   },
   {
     "name": "[D.C.] Devils Company - LATAM - Discord: devilscompany.net",
@@ -2838,12 +2836,12 @@
     "port": 10710
   },
   {
-    "name": "[ESP] LATAMSQUAD #1 - discord.gg/latamsquad | latamsquad.com",
+    "name": "[ESP] LATAMSQUAD #1 - discord.gg/latamsquad | latamsquad.org",
     "addr": "189.1.170.234",
     "port": 8530
   },
   {
-    "name": "[ESP] LATAMSQUAD #2 - discord.gg/latamsquad | latamsquad.com",
+    "name": "[ESP] LATAMSQUAD #2 - discord.gg/latamsquad | latamsquad.org",
     "addr": "189.1.170.234",
     "port": 9075
   },
@@ -3604,7 +3602,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] La Tempête d'Acier.com⎮ToP Pe**⎮Mini +50⎮French Onl",
+    "name": "[FR] La Tempête d'Acier.com ⎮ToP Pe** ⎮Mini +50 ⎮French ",
     "addr": "37.187.25.13",
     "port": 8530
   },
@@ -4634,6 +4632,11 @@
     "port": 28100
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "5.189.130.178",
+    "port": 28200
+  },
+  {
     "name": "[PL/ENG] TGD Clan",
     "addr": "5.189.132.77",
     "port": 28000
@@ -5588,12 +5591,6 @@
     "port": 28000
   },
   {
-    "name": "US EAST New Players Welcome.",
-    "addr": "83.223.204.11",
-    "port": 28100,
-    "removed": 1735733465
-  },
-  {
     "name": "Hell let loose (US East) AVR les gars AVR",
     "addr": "83.223.204.11",
     "port": 28200
@@ -5896,12 +5893,6 @@
     "port": 7787
   },
   {
-    "name": "The Red Guard (US EAST) - discord.gg/N5jG5MvuDm",
-    "addr": "92.118.18.130",
-    "port": 7777,
-    "removed": 1735733465
-  },
-  {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
@@ -5992,7 +5983,7 @@
     "port": 28100
   },
   {
-    "name": "(Brazil)SUL AMERICA ",
+    "name": "(Brazil)SUL AMERICA https://discord.gg/8Cc64YYk",
     "addr": "92.38.151.86",
     "port": 28200
   },
