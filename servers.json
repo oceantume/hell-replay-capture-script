@@ -379,6 +379,11 @@
     "port": 9620
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "141.95.35.163",
+    "port": 8530
+  },
+  {
     "name": "DE/ENG New Player Welcome / TK = Bann",
     "addr": "141.95.35.24",
     "port": 8530
@@ -552,10 +557,9 @@
     "port": 7817
   },
   {
-    "name": "<CN>JP/HLL菜鸟乐园『萌新友好』群号974297943",
+    "name": "<CN>#9 TT天堂萌新俱乐部 (随机图)Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7827,
-    "removed": 1736319473
+    "port": 7827
   },
   {
     "name": "<CN>HK北极星萌新服务器Q群：1018176083",
@@ -571,7 +575,8 @@
   {
     "name": "[CN]#HK薯薯是朋友 朋友很好吃丨1021844594",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1736340582
   },
   {
     "name": "CN#HK 东方幻想乡（纯冲突）KFC外卖热线：245578354",
@@ -2651,8 +2656,7 @@
   {
     "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
     "addr": "178.249.213.164",
-    "port": 7827,
-    "removed": 1736339340
+    "port": 7827
   },
   {
     "name": "CN1#JP ODST地狱空降师/Xpp/萌新小窝/QQ群：478583207",
@@ -3602,7 +3606,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] La Tempête d'Acier.com ⎮ToP Pe** ⎮Mini +50 ⎮French ",
+    "name": "[FR] La Tempête d'Acier.com / ToP Pe** / Mini +50 / French Onl",
     "addr": "37.187.25.13",
     "port": 8530
   },
