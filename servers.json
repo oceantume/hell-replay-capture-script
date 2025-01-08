@@ -2712,7 +2712,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> VIP.MARRAM.COM.BR #2 OFF. 4ever",
+    "name": "<COBRAS FUMANTES> MARRAM #2 OFFENSIVE 4ever",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -2742,7 +2742,7 @@
     "port": 7837
   },
   {
-    "name": "<COBRAS FUMANTES> VIP.MARRAM.COM.BR #4",
+    "name": "<COBRAS FUMANTES> MARRAM #4 hllbr.vip",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -4900,7 +4900,7 @@
     "port": 8530
   },
   {
-    "name": "CN3#冬夜里的深夜萌新军官的冲突咖啡馆|120748151",
+    "name": "CN3#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
   },
@@ -5510,6 +5510,11 @@
     "removed": 1736186922
   },
   {
+    "name": "HLL - US East  public ",
+    "addr": "83.223.203.121",
+    "port": 28000
+  },
+  {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
     "port": 28000
@@ -5553,7 +5558,8 @@
   {
     "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736300183
   },
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
