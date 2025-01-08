@@ -2876,7 +2876,7 @@
     "port": 9620
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "ESP-MX server",
     "addr": "191.101.30.131",
     "port": 8530
   },
@@ -4953,7 +4953,8 @@
   {
     "name": "<CN>BW黑色守望/黄区卫国战争/JP/Q:682305162",
     "addr": "64.31.11.50",
-    "port": 10710
+    "port": 10710,
+    "removed": 1736361491
   },
   {
     "name": "[CN]EXP小南梁马克萌新服/纯冲突/Q556560029/JP",
