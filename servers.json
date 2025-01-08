@@ -58,7 +58,7 @@
     "port": 8918
   },
   {
-    "name": "CN4#冬夜里的深夜萌新军官的攻防咖啡馆|120748151",
+    "name": "CN4#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "103.62.49.39",
     "port": 8928
   },
@@ -262,6 +262,11 @@
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
     "addr": "134.255.240.110",
     "port": 11000
+  },
+  {
+    "name": "HAST [BE]",
+    "addr": "135.125.163.81",
+    "port": 8530
   },
   {
     "name": "[GER] DOG Hundehütte (min lvl 25)",
@@ -522,10 +527,9 @@
     "port": 38200
   },
   {
-    "name": "<CN> EROS男同天堂HK Q群：686886842",
+    "name": "CN#1帝国之鹰Q群1016686458",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1736100474
+    "port": 7777
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -611,12 +615,12 @@
     "port": 7937
   },
   {
-    "name": "Turks Let Loose #1 [TR] - Turkish Only - discord.gg/RSjE9d4ZDW",
+    "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
     "port": 7777
   },
   {
-    "name": "Turks Let Loose #2 [TR] - Turkish Only - discord.gg/RSjE9d4ZDW",
+    "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
     "port": 7787
   },
@@ -731,7 +735,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1736316553
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -811,7 +816,7 @@
     "port": 28600
   },
   {
-    "name": "[GER/ENG] NEW PLAYERS WELCOME! MIC! | Empire of Thunder",
+    "name": "Empire of Thunder: Frontline Forces [GER/ENG | MIC!]",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -1595,7 +1600,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER/ENG + Mic » only warfare a",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736316553
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1721,7 +1727,8 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736316553
   },
   {
     "name": "HLL Official - Europe #192",
@@ -2368,7 +2375,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736316553
   },
   {
     "name": "QA Testing - EU #05",
@@ -2638,7 +2646,8 @@
   {
     "name": "<CN>#8 TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "178.249.213.164",
-    "port": 7817
+    "port": 7817,
+    "removed": 1736316553
   },
   {
     "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
@@ -2658,7 +2667,8 @@
   {
     "name": "CN#1帝国之鹰Q群1016686458",
     "addr": "178.249.213.164",
-    "port": 7857
+    "port": 7857,
+    "removed": 1736316553
   },
   {
     "name": "<CN>#9 TT天堂萌新俱乐部（随机图）Q群：578097070",
@@ -2669,12 +2679,14 @@
   {
     "name": "<CN>#10TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "178.249.213.164",
-    "port": 7877
+    "port": 7877,
+    "removed": 1736316553
   },
   {
     "name": "CN1801 极北的蓝蔷薇少女 日服 Q群：677043328",
     "addr": "178.249.213.164",
-    "port": 7887
+    "port": 7887,
+    "removed": 1736316553
   },
   {
     "name": "<CN>#3 JP北极星萌新服务器Q群：1018176083",
@@ -4814,12 +4826,12 @@
     "port": 7777
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Low Ping",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Low Ping",
     "addr": "57.128.229.70",
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Low Ping",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Low Ping",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -4910,7 +4922,7 @@
     "port": 9620
   },
   {
-    "name": "CN：灰猎犬萌新EPIC禁炮冲突/JP Q：441245221",
+    "name": "CN：灰猎犬连萌新EPIC禁炮冲突/JP Q：441245221",
     "addr": "64.31.11.50",
     "port": 10165
   },
@@ -4925,7 +4937,7 @@
     "port": 11255
   },
   {
-    "name": "CN：灰猎犬萌新EPIC攻防服/JP Q：441245221",
+    "name": "CN：灰猎犬连萌新EPIC攻防服/JP Q：441245221",
     "addr": "64.31.11.50",
     "port": 8530
   },
@@ -5010,7 +5022,7 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
   },
@@ -5558,8 +5570,7 @@
   {
     "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1736300183
+    "port": 28000
   },
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
@@ -5824,6 +5835,11 @@
     "port": 7807
   },
   {
+    "name": "JP CN1801 极北蔷薇社区服 Q群：677043328",
+    "addr": "89.46.1.190",
+    "port": 7817
+  },
+  {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
     "port": 7787
@@ -5896,7 +5912,7 @@
     "port": 7817
   },
   {
-    "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VET & SEEDING VIP",
+    "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VIP IN DISCORD",
     "addr": "92.118.18.78",
     "port": 7777
   },
