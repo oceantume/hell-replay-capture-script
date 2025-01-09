@@ -336,7 +336,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -3491,7 +3491,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3620,7 +3620,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736425713
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
@@ -4743,7 +4744,7 @@
     "port": 8530
   },
   {
-    "name": "RealityShowTV",
+    "name": "RealityShowTV EU",
     "addr": "51.195.63.92",
     "port": 8530
   },
