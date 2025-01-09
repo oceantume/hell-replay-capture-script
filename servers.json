@@ -35,7 +35,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1736446130
   },
   {
     "name": "CN薯条重生之我在秋叶原当赛博皇帝群号1098305217",
@@ -336,7 +337,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -351,9 +352,24 @@
     "port": 8530
   },
   {
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "addr": "141.105.66.70",
+    "port": 10165
+  },
+  {
     "name": "[Cult] Moscow | discord.cultcity.ru | Russian Public Server",
     "addr": "141.105.66.70",
     "port": 8530
+  },
+  {
+    "name": "[TSA] Russian server [RU] tsa-server.ru/discord",
+    "addr": "141.105.66.70",
+    "port": 9075
+  },
+  {
+    "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
+    "addr": "141.105.66.70",
+    "port": 9620
   },
   {
     "name": "[MEX][LAT] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
@@ -433,7 +449,7 @@
     "port": 7797
   },
   {
-    "name": "[GER][US] Stronger Together | USA-Germany Friendship Server",
+    "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
     "port": 7777
   },
@@ -447,6 +463,11 @@
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
     "port": 7787
+  },
+  {
+    "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
+    "addr": "146.59.149.83",
+    "port": 9075
   },
   {
     "name": "PL - Polski Serwer - VIP za dychę - Discord: bit.ly/hell-let-l",
@@ -679,7 +700,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "162.55.199.102",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736446130
   },
   {
     "name": "[PL] [EU] Polski Serwer HLL ",
@@ -720,7 +742,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "168.119.79.144",
-    "port": 9620
+    "port": 9620,
+    "removed": 1736446130
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -835,7 +858,7 @@
     "port": 28600
   },
   {
-    "name": "Empire of Thunder: Frontline Forces [GER/ENG | MIC!]",
+    "name": "Empire of Thunder NEW PLAYERS WELCOME! [GER/ENG | MIC!]",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -2428,7 +2451,8 @@
   {
     "name": "[GER] Sancheez Community  | Mikrofon ist Pflicht | Level 15+",
     "addr": "176.57.181.105",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736446130
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
@@ -2752,7 +2776,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #2 OFFENSIVE 4ever",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #2 OFF. 4ever",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -2782,17 +2806,17 @@
     "port": 7837
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #4 hllbr.vip",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #4",
     "addr": "181.214.221.212",
     "port": 7847
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #5 hllbr.vip",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #5",
     "addr": "181.214.221.41",
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #6 HLLBR.VIP",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #6 ",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -2819,7 +2843,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736446130
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2858,7 +2883,7 @@
     "port": 8530
   },
   {
-    "name": "[LH] Legion Hispana LATAM - Servidor en Construccion",
+    "name": "[LH] Legion Hispana LATAM -  https://discord.gg/eS279ZkmD7 ",
     "addr": "189.1.170.234",
     "port": 10165
   },
@@ -2900,19 +2925,12 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1736427821
+    "port": 7777
   },
   {
     "name": "America... Hell yeah! US 24/7",
     "addr": "192.169.82.122",
     "port": 8530
-  },
-  {
-    "name": "Bravo Company | US WEST | https://discord.gg/ftCkQgvY4N | NEW |",
-    "addr": "192.169.85.194",
-    "port": 8530,
-    "removed": 1735841314
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -2967,8 +2985,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1736427821
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3059,7 +3076,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736446130
   },
   {
     "name": "HLL Official - US West #81",
@@ -3085,7 +3103,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736446130
   },
   {
     "name": "HLL Official - US West #02",
@@ -3204,7 +3223,7 @@
     "port": 21400
   },
   {
-    "name": "[PL] ElitarniExp",
+    "name": "[PL] Elitarni ",
     "addr": "195.82.158.186",
     "port": 21600
   },
@@ -3254,12 +3273,6 @@
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 9620
-  },
-  {
-    "name": "[PV] Project V Network | USA East | https://discord.gg/pNUHmgYZ",
-    "addr": "198.96.89.226",
-    "port": 8530,
-    "removed": 1735841314
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -3367,8 +3380,13 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | LVL 25+ | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
+    "port": 7777
+  },
+  {
+    "name": "1.Fjg Server 3 - not managed",
+    "addr": "208.115.206.195",
     "port": 7777
   },
   {
@@ -3382,7 +3400,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3548,6 +3566,11 @@
     "port": 28100
   },
   {
+    "name": "mmmeo",
+    "addr": "213.136.80.177",
+    "port": 28200
+  },
+  {
     "name": "[ITA/ENG] =BIA= Italian Community Official #1",
     "addr": "213.136.88.87",
     "port": 28000
@@ -3647,7 +3670,8 @@
   {
     "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
     "addr": "37.187.25.13",
-    "port": 9075
+    "port": 9075,
+    "removed": 1736446130
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -4640,7 +4664,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Event Server #1",
+    "name": "Greyhound Night - Blue",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -4702,7 +4726,8 @@
   {
     "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
     "addr": "5.9.77.39",
-    "port": 12345
+    "port": 12345,
+    "removed": 1736446130
   },
   {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
@@ -4737,13 +4762,13 @@
   {
     "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https://dsc.gg/hllpt",
     "addr": "51.195.190.147",
-    "port": 9075,
-    "removed": 1736427821
+    "port": 9075
   },
   {
     "name": "New HLL Russian Server [RU ONLY]",
     "addr": "51.195.63.187",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736446130
   },
   {
     "name": "RealityShowTV EU",
@@ -4792,9 +4817,14 @@
     "port": 9075
   },
   {
-    "name": "[UA/EN Only] DPS Ukrainian Community Server | discord.gg/MgSBje",
+    "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/hll",
     "addr": "51.83.150.41",
     "port": 7797
+  },
+  {
+    "name": "[PL] Hell Let Loose Polska - Polski Serwer HLL - Niski Ping",
+    "addr": "51.83.150.41",
+    "port": 7817
   },
   {
     "name": "[UA] Ukraine Unity Frontline #1 discord.gg/uuf",
@@ -4871,7 +4901,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "54.37.245.13",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736446130
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding ",
@@ -5023,8 +5054,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1736427821
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5210,8 +5240,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1736427821
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5226,7 +5255,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736446130
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5271,8 +5301,7 @@
   {
     "name": "HLL Official - Asia #42",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1736427821
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #50",
@@ -5517,8 +5546,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1736273325
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5895,7 +5923,7 @@
     "port": 7807
   },
   {
-    "name": "JP CN1801 极北蔷薇社区服 Q群：677043328",
+    "name": "CN1801 极北的蓝蔷薇少女 萌新日服 Q群：677043328",
     "addr": "89.46.1.190",
     "port": 7817
   },
@@ -5920,7 +5948,7 @@
     "port": 7797
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | RAFFIS'S RATSNEST | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | RAFFI'S RATSNEST | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -5948,6 +5976,11 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
+    "port": 7777
+  },
+  {
+    "name": "HLL-ESP (ONLY SPANISH)  // https://discord.gg/tGs6MzgP //",
+    "addr": "92.118.16.134",
     "port": 7777
   },
   {
@@ -6102,7 +6135,7 @@
     "port": 28100
   },
   {
-    "name": "TESTE MAKAUBA",
+    "name": "Servidor Oficial PT-BR - Servidor Com ADM.",
     "addr": "92.38.151.91",
     "port": 28600
   },
