@@ -2611,6 +2611,11 @@
     "port": 8530
   },
   {
+    "name": "HUN Y9 HLL Server",
+    "addr": "176.9.113.23",
+    "port": 9075
+  },
+  {
     "name": "BALLERBUDE [mic only]",
     "addr": "176.9.121.214",
     "port": 8530
@@ -4746,6 +4751,11 @@
     "port": 8530
   },
   {
+    "name": "[PT/EN] HELL LET LOOSE PORTUGAL - Discord: https://dsc.gg/hllpt",
+    "addr": "51.195.190.147",
+    "port": 9075
+  },
+  {
     "name": "New HLL Russian Server [RU ONLY]",
     "addr": "51.195.63.187",
     "port": 8530
@@ -5864,12 +5874,14 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736384223
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736384223
   },
   {
     "name": "Dark Horizon Singapore",
@@ -6092,6 +6104,11 @@
     "name": "(Brazil) Server AlemaozinhoCG",
     "addr": "92.38.151.91",
     "port": 28100
+  },
+  {
+    "name": "TESTE MAKAUBA",
+    "addr": "92.38.151.91",
+    "port": 28600
   },
   {
     "name": "(LAT) Hell let loose by AK",
