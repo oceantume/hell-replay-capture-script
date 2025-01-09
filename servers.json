@@ -299,12 +299,6 @@
     "port": 9224
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
-    "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1735798159
-  },
-  {
     "name": "A mysterious server",
     "addr": "136.243.70.117",
     "port": 7777,
@@ -439,7 +433,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] {WoA} World of Asgard 2 |Events",
+    "name": "[GER][US] Stronger Together | USA-Germany Friendship Server",
     "addr": "146.19.48.157",
     "port": 7777
   },
@@ -631,7 +625,8 @@
   {
     "name": "<CN>HKclzd萌新骑服主管理头上玩群号532933387",
     "addr": "156.146.44.225",
-    "port": 7937
+    "port": 7937,
+    "removed": 1736402966
   },
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -644,7 +639,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
     "port": 7797
   },
@@ -759,7 +754,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1736402966
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1146,7 +1142,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1736402966
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1750,8 +1747,7 @@
   {
     "name": "91. Panzergrenadierdivision #2 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.168.91",
-    "port": 28300,
-    "removed": 1736316553
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #192",
@@ -2611,7 +2607,7 @@
     "port": 8530
   },
   {
-    "name": "EU/EN | Vault #1 | New players welcome!",
+    "name": "EU/EN | Vault #1 | New players welcome! WARFARE ONLY",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -2909,7 +2905,7 @@
     "port": 7777
   },
   {
-    "name": "Epic Gamez Friendly",
+    "name": "America... Hell yeah! US 24/7",
     "addr": "192.169.82.122",
     "port": 8530
   },
@@ -3379,18 +3375,6 @@
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "208.115.206.35",
     "port": 7777
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
-    "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1735798159
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
-    "addr": "208.115.206.36",
-    "port": 7877,
-    "removed": 1735798159
   },
   {
     "name": "StDb Event",
@@ -4749,10 +4733,9 @@
     "port": 8530
   },
   {
-    "name": "[PT/EN] HELL LET LOOSE PORTUGAL - Discord: https://dsc.gg/hllpt",
+    "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https://dsc.gg/hllpt",
     "addr": "51.195.190.147",
-    "port": 9075,
-    "removed": 1736388019
+    "port": 9075
   },
   {
     "name": "New HLL Russian Server [RU ONLY]",
@@ -4903,7 +4886,7 @@
     "port": 7807
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ VIP for seeding",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 30+",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -5873,14 +5856,12 @@
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.40",
-    "port": 28100,
-    "removed": 1736384223
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200,
-    "removed": 1736384223
+    "port": 28200
   },
   {
     "name": "Dark Horizon Singapore",
@@ -5913,6 +5894,16 @@
     "port": 7817
   },
   {
+    "name": "<CN>JP/HLL菜鸟乐园纯冲突『萌新友好』/群号9742979",
+    "addr": "89.46.1.190",
+    "port": 7827
+  },
+  {
+    "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
+    "addr": "89.46.1.190",
+    "port": 7837
+  },
+  {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
     "port": 7787
@@ -5923,7 +5914,7 @@
     "port": 7797
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | Old Joe's RP | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | Raffi's ratnest | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
