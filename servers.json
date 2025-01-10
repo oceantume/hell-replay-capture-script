@@ -420,7 +420,8 @@
   {
     "name": "[FR] 7ème Compagnie #1/3  》100% FR  》STATS  》discord.gg/",
     "addr": "145.239.131.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736473062
   },
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
@@ -547,7 +548,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] La Tempête d'Acier.com /Mini +50/French Only",
+    "name": "[FR|TDA] La Tempête d'Acier.com |Top Pe**| ***+50| Francophone",
     "addr": "152.228.223.21",
     "port": 9075
   },
@@ -4997,12 +4998,6 @@
     "port": 7777
   },
   {
-    "name": "Dark Horizon West 3 | New Players Welcome | Discord.gg/dhz",
-    "addr": "63.143.62.100",
-    "port": 7787,
-    "removed": 1735868105
-  },
-  {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
     "port": 7777
@@ -5216,7 +5211,8 @@
   {
     "name": "Dark Horizon LVL 35+ |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736473062
   },
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
