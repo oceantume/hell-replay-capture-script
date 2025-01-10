@@ -249,7 +249,7 @@
     "port": 7797
   },
   {
-    "name": "σ CHAD STUART'S 2 — EVENT SERVER – US WEST — discord.gg/",
+    "name": "σ CHAD STUART'S 2 — US WEST — discord.gg/chadfgf",
     "addr": "104.255.170.181",
     "port": 8530
   },
@@ -467,12 +467,6 @@
     "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
     "port": 7777
-  },
-  {
-    "name": "[FR] 7ème Compagnie #2 》STATS 》VOTE MAP 》discord.gg/7eci",
-    "addr": "146.19.48.168",
-    "port": 7777,
-    "removed": 1735927745
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -1883,8 +1877,7 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000,
-    "removed": 1736532521
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1937,8 +1930,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1736532521
+    "port": 28400
   },
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
@@ -2652,6 +2644,11 @@
     "name": "#100 Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.34",
     "port": 28000
+  },
+  {
+    "name": " [BWR] UKRAINIAN SERVER № 1 (UA/ENG) https://discord.gg/nYkwZ",
+    "addr": "176.57.181.34",
+    "port": 28100
   },
   {
     "name": "PL Polski Serwer Saigi",
@@ -3676,7 +3673,8 @@
   {
     "name": "[BWR] UKRAINIAN SERVER (UA/ENG) https://discord.gg/nYkwZQSf3m",
     "addr": "213.136.94.160",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736533433
   },
   {
     "name": "[GER/ENG] VANGUARD 77  // discord.gg/vanguard77",
