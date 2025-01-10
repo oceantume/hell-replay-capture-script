@@ -404,6 +404,11 @@
     "port": 9620
   },
   {
+    "name": "[GER] LWWC.de - Warfare - Comms Please - Seeding for VIP - Vote",
+    "addr": "141.95.35.153",
+    "port": 8530
+  },
+  {
     "name": "A Czech Warrior Spot",
     "addr": "141.95.35.163",
     "port": 8530
@@ -521,7 +526,7 @@
     "port": 8530
   },
   {
-    "name": "#01 STEAM+GP ONLY [ESP] Comunidad Hispana - discord.comunidadhl",
+    "name": "#01 [ESP] Lvl 40+ -Comunidad Hispana - discord.comunidadhll.es",
     "addr": "151.80.27.200",
     "port": 8772
   },
@@ -553,7 +558,7 @@
     "port": 8530
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com |Top Pe**| ***+50| Francophone",
+    "name": "[FR|TDA] La Tempête d'Acier.com | Mini+50 | Francophone",
     "addr": "152.228.223.21",
     "port": 9075
   },
@@ -745,7 +750,7 @@
     "removed": 1736186922
   },
   {
-    "name": "[German] - Die Bunkerkinder | Mic + Deutsch /",
+    "name": "The bunker children | Die Bunkerkinder | [Mic] + [GER] - |",
     "addr": "168.119.79.144",
     "port": 8530
   },
@@ -793,8 +798,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1736489373
+    "port": 9620
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1581,12 +1585,6 @@
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
     "port": 28200
-  },
-  {
-    "name": "Cert",
-    "addr": "176.57.168.194",
-    "port": 28300,
-    "removed": 1735906272
   },
   {
     "name": "HLL Official - Europe #12",
@@ -2679,8 +2677,7 @@
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1736489373
+    "port": 7847
   },
   {
     "name": "DonSebastian.LIVE | HLL #1 | Chile - LATAM",
@@ -2698,7 +2695,7 @@
     "port": 7907
   },
   {
-    "name": "[LATAM/ARG] #2 Paradox Empire - discord.gg/paradoxempire",
+    "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
     "port": 7927
   },
@@ -2882,15 +2879,14 @@
     "port": 9075
   },
   {
-    "name": "Springfield Let Loose | New Players Welcome | Uk/EU",
+    "name": "Springfield Let Loose | New Players Welcome ",
     "addr": "185.206.151.114",
     "port": 8530
   },
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1736446130
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3256,7 +3252,8 @@
   {
     "name": "[GER] LWWC - Warfare - Rotation: Kursk, Marie, Carentan, Hill 4",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1736511086
   },
   {
     "name": "[GER] Mogeltrupp",
@@ -3324,7 +3321,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1736511086
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -3347,14 +3345,24 @@
     "port": 8918
   },
   {
+    "name": "CN7「CZS」啤酒小屋萌新夜图馆|HK|Q719036493",
+    "addr": "202.165.70.91",
+    "port": 8888
+  },
+  {
     "name": "CN3「FJ&CZS」绿魔鬼战队纯攻防｜JP｜Q716701264",
     "addr": "203.10.96.196",
     "port": 8888
   },
   {
-    "name": "CN4「FJ&CZS」超质数中队攻防/遭遇｜JP｜Q719036493",
+    "name": "CN6#咖啡馆&CZS训练刷分升级服密码群1022240199",
     "addr": "203.10.96.196",
     "port": 8898
+  },
+  {
+    "name": "『CZS』 Special training clothing/Test server",
+    "addr": "203.10.96.196",
+    "port": 8918
   },
   {
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
@@ -3427,7 +3435,7 @@
     "port": 7777
   },
   {
-    "name": "#02 Lvl+40 [ESP] Comunidad Hispana - discord.comunidadhll.es - ",
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "208.115.196.2",
     "port": 7777
   },
@@ -3457,7 +3465,7 @@
     "port": 7777
   },
   {
-    "name": "[AUT|GER] |ACAB| All Cats Are Beauties #CAT",
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
     "port": 7777
   },
@@ -3567,7 +3575,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3654,7 +3662,7 @@
     "port": 28100
   },
   {
-    "name": "VANGUARD 77  [OFFICIAL] // discord.gg/vanguard77",
+    "name": "[GER/ENG] VANGUARD 77  // discord.gg/vanguard77",
     "addr": "213.136.94.160",
     "port": 28200
   },
@@ -3676,7 +3684,8 @@
   {
     "name": "-TL- The Line | EAST | Discord.gg/TheLine",
     "addr": "216.219.93.63",
-    "port": 7797
+    "port": 7797,
+    "removed": 1736511086
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -3702,8 +3711,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777,
-    "removed": 1736425713
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
@@ -4771,14 +4779,12 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1736490311
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014,
-    "removed": 1736490311
+    "port": 9014
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -4904,7 +4910,7 @@
     "port": 7817
   },
   {
-    "name": "[ENG] Just Die Already (OFFENSIVE)- New Players Welcome",
+    "name": "[ENG] Just Die Already (OFFENSIVE Only) - Lvl 25+",
     "addr": "51.89.152.177",
     "port": 8530
   },
@@ -5093,9 +5099,14 @@
     "port": 11255
   },
   {
-    "name": "CN.日服JP/贺新年/萌新服务器",
+    "name": "<CN>#贺新年/萌新小屋/JP",
     "addr": "64.31.11.50",
     "port": 11800
+  },
+  {
+    "name": "TianyBF",
+    "addr": "64.31.11.50",
+    "port": 12345
   },
   {
     "name": "CN：灰猎犬连萌新EPIC攻防服/JP Q：441245221",
@@ -5695,12 +5706,14 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736511086
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736511086
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -5786,7 +5799,8 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736511086
   },
   {
     "name": "QA Testing - US East #09",
@@ -6056,7 +6070,7 @@
     "port": 7797
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | RAFFI'S RATSNEST | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | Irdy Birdie | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -6073,7 +6087,8 @@
   {
     "name": "[FR] Régiment Regis | 100% OPTIMISÉ | Discord.gg/Regis ! ",
     "addr": "91.134.56.12",
-    "port": 7847
+    "port": 7847,
+    "removed": 1736511086
   },
   {
     "name": "[UA] DPS Ukrainian Community Server | discord.gg/MgSBjeqQ",
@@ -6102,10 +6117,20 @@
     "port": 7827
   },
   {
+    "name": "LOW.MS Testing",
+    "addr": "92.118.18.104",
+    "port": 7777
+  },
+  {
     "name": "Hell Let Loose Server",
     "addr": "92.118.18.120",
     "port": 7787,
     "removed": 1736382592
+  },
+  {
+    "name": "Echo Detachment (EXO)",
+    "addr": "92.118.18.131",
+    "port": 7777
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
@@ -6193,7 +6218,7 @@
     "port": 28200
   },
   {
-    "name": "[LATAM/ARG] Paradox Empire - discord.gg/paradoxempire ",
+    "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "92.38.151.86",
     "port": 28100
   },
