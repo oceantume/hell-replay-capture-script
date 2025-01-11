@@ -2890,7 +2890,8 @@
   {
     "name": "Gaming Dads on the Frontline I WARFARE ONLY! I New Players Welc",
     "addr": "185.125.205.119",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736599569
   },
   {
     "name": "ESP [DIV33] SERVIDOR OFICIAL DEL CLAN",
@@ -3752,6 +3753,11 @@
     "addr": "216.219.93.63",
     "port": 7797,
     "removed": 1736511086
+  },
+  {
+    "name": "[HU/EN] Absolute Zero HLL",
+    "addr": "217.146.80.186",
+    "port": 8530
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -5038,7 +5044,7 @@
     "port": 9620
   },
   {
-    "name": "Desert Ratz #1 | UK/EU | Gamepass Welcome Now Recruiting",
+    "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
   },
@@ -5316,7 +5322,8 @@
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.50",
-    "port": 7817
+    "port": 7817,
+    "removed": 1736599569
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -6085,7 +6092,8 @@
   {
     "name": "<CN>JP/菜鸟乐园纯攻防『萌新友好』群号974297943",
     "addr": "89.46.1.190",
-    "port": 7397
+    "port": 7397,
+    "removed": 1736599569
   },
   {
     "name": "<CN>#3 JP北极星萌新服务器Q群：1018176083",
