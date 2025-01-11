@@ -305,12 +305,6 @@
     "port": 8530
   },
   {
-    "name": "A mysterious server",
-    "addr": "136.243.70.117",
-    "port": 7777,
-    "removed": 1735970889
-  },
-  {
     "name": "[GER] Panzerschreck Peanut Butter - 2 | BRAD PITT | MIC ONLY | ",
     "addr": "136.243.79.51",
     "port": 8530
@@ -1144,7 +1138,8 @@
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1736575693
   },
   {
     "name": "HLL Official - Australia #01",
@@ -1578,20 +1573,17 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1736489373
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1736559325
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1736559325
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -1892,7 +1884,8 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736575693
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1913,8 +1906,7 @@
   {
     "name": "HLL Official - Europe #87",
     "addr": "176.57.171.120",
-    "port": 28400,
-    "removed": 1736489373
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #122",
@@ -1930,7 +1922,8 @@
   {
     "name": "HLL Official - Europe #146",
     "addr": "176.57.171.120",
-    "port": 28700
+    "port": 28700,
+    "removed": 1736575693
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -1960,7 +1953,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736575693
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2070,7 +2064,7 @@
     "port": 28100
   },
   {
-    "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
+    "name": "[PKKA]-Event Server - discord.gg/PKKA",
     "addr": "176.57.171.7",
     "port": 28200
   },
@@ -2694,7 +2688,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1736575693
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -2993,7 +2988,7 @@
     "port": 9620
   },
   {
-    "name": "ESP-MX server",
+    "name": "ESP-MX Vip: https://mpago.la/2PZJ1BU",
     "addr": "191.101.30.131",
     "port": 8530
   },
@@ -3553,7 +3548,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736575693
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3687,8 +3683,7 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1736559325
+    "port": 28300
   },
   {
     "name": "GER.Johnnsy.Official-YT",
@@ -3711,7 +3706,7 @@
     "port": 8530
   },
   {
-    "name": "Glows Hotdog SoulSniper Mikey Easy Whisky - hooflcan.com - LVL2",
+    "name": "Frog Legs 24x7 French Maps - hooflcan.com",
     "addr": "216.173.119.202",
     "port": 9075
   },
@@ -3754,7 +3749,8 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736575693
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
@@ -5118,7 +5114,8 @@
   {
     "name": "Cn/Beta萌新高利贷社区2/jp/群号955048191",
     "addr": "64.31.11.26",
-    "port": 11800
+    "port": 11800,
+    "removed": 1736575693
   },
   {
     "name": "<CN>BW黑色守望/黄区卫国战争/JP/Q:682305162",
@@ -5141,14 +5138,15 @@
     "port": 9620
   },
   {
-    "name": "CN：灰猎犬连萌新EPIC禁炮冲突/JP Q：441245221",
+    "name": "CN：灰猎犬连萌新EPIC禁炮服/JP Q：441245221",
     "addr": "64.31.11.50",
     "port": 10165
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.11.50",
-    "port": 10710
+    "port": 10710,
+    "removed": 1736575693
   },
   {
     "name": "[CN]EXP小南梁马克萌新服/纯冲突/Q556560029/JP",
@@ -5866,7 +5864,7 @@
     "port": 28100
   },
   {
-    "name": "EASY Company LVL 50+ | GPORTAL | DISCORD.GG/EASYCOMPANY",
+    "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.207.46",
     "port": 28100
   },
@@ -6237,6 +6235,11 @@
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
+    "port": 7777
+  },
+  {
+    "name": "Hellhounds #1",
+    "addr": "92.118.19.72",
     "port": 7777
   },
   {
