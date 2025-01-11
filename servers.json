@@ -1584,12 +1584,14 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736559325
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736559325
   },
   {
     "name": "HLL Official - Europe #08",
@@ -2440,7 +2442,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736559325
   },
   {
     "name": "[UK] Hearts of Bruh By Luna Developments.",
@@ -3684,7 +3687,8 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736559325
   },
   {
     "name": "GER.Johnnsy.Official-YT",
@@ -3692,7 +3696,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] 1. DosenBier Division (MIC Pflicht, German only, Anfänge",
+    "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
     "addr": "213.136.94.160",
     "port": 28100
   },
@@ -4098,6 +4102,11 @@
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "45.137.246.2",
     "port": 28000
+  },
+  {
+    "name": "Broken Earth (US West)",
+    "addr": "45.137.246.2",
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #15",
