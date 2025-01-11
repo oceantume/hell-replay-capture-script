@@ -35,7 +35,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1736555379
   },
   {
     "name": "CN薯条重生之我在秋叶原当赛博皇帝群号1098305217",
@@ -339,10 +340,11 @@
   {
     "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736555379
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -404,9 +406,24 @@
     "port": 9620
   },
   {
+    "name": "[EU] Hadfiúk/War boys (HU/EN) (No skirmish)",
+    "addr": "141.95.34.126",
+    "port": 8530
+  },
+  {
+    "name": "(GER) Pimmelbande",
+    "addr": "141.95.34.126",
+    "port": 9075
+  },
+  {
     "name": "HLL Official - Hungary #1",
     "addr": "141.95.34.154",
     "port": 9075
+  },
+  {
+    "name": "BRSKR server",
+    "addr": "141.95.34.91",
+    "port": 8530
   },
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - VIP4Seeding - Votemap",
@@ -659,7 +676,7 @@
     "port": 7917
   },
   {
-    "name": "<CN> EROS男同天堂HK Q群：686886842",
+    "name": "<CN>萌新禁炮 EROS狗叫天堂HK Q群：686886842",
     "addr": "156.146.44.225",
     "port": 7927
   },
@@ -744,10 +761,9 @@
     "port": 11800
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
+    "name": "First Line of Defence EU",
     "addr": "168.119.79.144",
-    "port": 12345,
-    "removed": 1736186922
+    "port": 12345
   },
   {
     "name": "The bunker children | Die Bunkerkinder | [Mic] + [GER] - |",
@@ -1408,8 +1424,7 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1736489373
+    "port": 28200
   },
   {
     "name": "[ITA/ENG] WildWolf  Clan | The New Era | (LOW PING)  Server 1#",
@@ -2661,7 +2676,7 @@
     "port": 8530
   },
   {
-    "name": "HUN Y9 Magyar Server (HUN/ENG)",
+    "name": "[HUN/ENG] Y9 | Magyar Hell Let Loose szerver.",
     "addr": "176.9.113.23",
     "port": 9075
   },
@@ -2865,7 +2880,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #6 ",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #3 ",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -2887,6 +2902,11 @@
   {
     "name": "[SLL] Springfield Let Loose | New Players Welcome | English",
     "addr": "185.206.151.114",
+    "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.216.147.183",
     "port": 8530
   },
   {
@@ -2982,10 +3002,9 @@
     "port": 7777
   },
   {
-    "name": "[Whites Only] lol (Fast US Server 24/7)",
+    "name": "Clans-R-Lame | Warfare US Central | discord.gg/ND5NWHC5",
     "addr": "192.169.82.122",
-    "port": 8530,
-    "removed": 1736489373
+    "port": 8530
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -3054,7 +3073,7 @@
     "port": 7787
   },
   {
-    "name": "Current level: Luigi's Mansion(D1CK)",
+    "name": "Gavin's Fire Frenzy(D1CK)",
     "addr": "192.169.93.236",
     "port": 7777
   },
@@ -3148,12 +3167,6 @@
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (US West) Server by g-portal.com",
-    "addr": "193.192.58.52",
-    "port": 28200,
-    "removed": 1735950544
   },
   {
     "name": "HLL Official - US West #01",
@@ -3259,12 +3272,14 @@
   {
     "name": "Server moved - Search for LWWC to find the new one!",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1736555379
   },
   {
     "name": "[TDUK] The Dales UK | New Players Welcome | use mic | ENG",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1736555379
   },
   {
     "name": "[GER] Mogeltrupp",
@@ -3475,7 +3490,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3590,7 +3605,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3648,22 +3663,25 @@
   {
     "name": "mmmeo",
     "addr": "213.136.80.177",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736555379
   },
   {
     "name": "[German] Sterben für Anfänger [Deutsch/Mic Only]",
     "addr": "213.136.80.177",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736555379
   },
   {
-    "name": "[ITA/ENG] =BIA= Italian Community Official #1",
+    "name": "[ITA/ENG] =BIA= Clan D Day Maps",
     "addr": "213.136.88.87",
     "port": 28000
   },
   {
     "name": "Hell let loose (EU) (PL) POLSKI SERWER ",
     "addr": "213.136.88.87",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736555379
   },
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
@@ -3691,7 +3709,7 @@
     "port": 8530
   },
   {
-    "name": "Frog Legs 24x7 - hooflcan.com - LVL20+",
+    "name": "Glows Hotdog SoulSniper Mikey Easy Whisky - hooflcan.com - LVL2",
     "addr": "216.173.119.202",
     "port": 9075
   },
@@ -3767,6 +3785,11 @@
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28400
+  },
+  {
+    "name": "Hell's Pet Goose, New Player Friendly (US Central)",
+    "addr": "45.137.244.9",
+    "port": 28600
   },
   {
     "name": "HLL Official - Japan #01",
@@ -4913,7 +4936,7 @@
     "port": 9075
   },
   {
-    "name": "[UA] DPS Ukrainian Community Server | discord.gg/hll",
+    "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/hll",
     "addr": "51.83.150.41",
     "port": 7797
   },
@@ -5283,7 +5306,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #3 SPONSORED QONZER.COM",
+    "name": "<COBRAS FUMANTES> MARRAM #6 SPONSORED QONZER.COM",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -5329,7 +5352,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] L'École des Bleus | Serveur Pour Débutants - French Only",
+    "name": "[FR] L'École des Bleus | Serveur Pour Débutants - discord.gg/",
     "addr": "79.137.89.136",
     "port": 9075
   },
@@ -6301,7 +6324,7 @@
     "port": 28100
   },
   {
-    "name": "Servidor Oficial PT-BR - Servidor Com ADM.",
+    "name": "BUNKER BRASIL || LVL 50+ || SOMENTE PT-BR || ADM ON || VIP",
     "addr": "92.38.151.91",
     "port": 28600
   },
