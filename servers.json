@@ -38,12 +38,12 @@
     "port": 8888
   },
   {
-    "name": "CN-音奏的萌新快乐服6服|335411305|JP节点",
+    "name": "CN-音奏的萌新进阶服6服|335411305|JP节点",
     "addr": "103.62.49.39",
     "port": 8898
   },
   {
-    "name": "[CN]JP CNUT萌新1服|Q群:809972300 |开黑啦:https://kook.vi",
+    "name": "[CN]JP AFZ萌新1服|Q群:809972300",
     "addr": "103.62.49.39",
     "port": 8908
   },
@@ -329,7 +329,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -396,7 +396,7 @@
     "port": 9620
   },
   {
-    "name": "[GER]DRAGONCITY /MIKRO /WIR REKRUTIEREN / TEAMPLAY",
+    "name": "[GER]DRAGONCITY /MIKRO /WIR REKRUTIEREN / TEAMPLAY /Ts 49.12.17",
     "addr": "141.95.34.126",
     "port": 10165
   },
@@ -411,7 +411,7 @@
     "port": 9075
   },
   {
-    "name": "(EU) #1 PRESS F / NO FRENCH MAPS (SORRY)",
+    "name": "(EU) #1 PRESS F / NO FRENCH MAPS / discord.gg/WdP8keg6",
     "addr": "141.95.34.126",
     "port": 9620
   },
@@ -484,7 +484,7 @@
     "port": 7797
   },
   {
-    "name": "[GER][US] Stronger Together | USA-Germany Friendship Server",
+    "name": "[GER] {WoA} World of Asgard 2 |Events",
     "addr": "146.19.48.157",
     "port": 7777
   },
@@ -539,7 +539,7 @@
     "port": 9075
   },
   {
-    "name": "HLL Official - Singapore #02",
+    "name": "HLL Official - Singapore #02 https://discord.gg/UaYGXp34vw",
     "addr": "15.235.226.40",
     "port": 8530
   },
@@ -744,6 +744,11 @@
     "removed": 1736446130
   },
   {
+    "name": "First Line of Defence EU",
+    "addr": "167.235.169.114",
+    "port": 12345
+  },
+  {
     "name": "[PL] [EU] Polski Serwer HLL ",
     "addr": "168.119.79.144",
     "port": 10165
@@ -767,7 +772,8 @@
   {
     "name": "First Line of Defence EU",
     "addr": "168.119.79.144",
-    "port": 12345
+    "port": 12345,
+    "removed": 1736705267
   },
   {
     "name": "The bunker children | Die Bunkerkinder | [Mic] + [GER] - |",
@@ -1793,7 +1799,7 @@
     "port": 28000
   },
   {
-    "name": "Bob The Builder XP Farm  4story",
+    "name": "4story ",
     "addr": "176.57.168.69",
     "port": 28100
   },
@@ -2695,8 +2701,7 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR - MELHOR SERVIDOR DO BRASIL",
     "addr": "177.54.147.141",
-    "port": 7777,
-    "removed": 1736683824
+    "port": 7777
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
@@ -3109,7 +3114,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1736705267
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -3181,7 +3187,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736705267
   },
   {
     "name": "HLL Official - US West #02",
@@ -3495,7 +3502,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz | Zamknute od 16h",
+    "name": "CZ & SK | EVENT | VLK @ valkyriahll.cz ",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3515,7 +3522,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3662,7 +3669,8 @@
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
     "addr": "208.115.255.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736705267
   },
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3723,6 +3731,11 @@
     "port": 28400
   },
   {
+    "name": "Polski Server 100 SLOTS",
+    "addr": "213.136.88.87",
+    "port": 28500
+  },
+  {
     "name": "GER.Johnnsy.Official-YT",
     "addr": "213.136.94.160",
     "port": 28000
@@ -3742,6 +3755,11 @@
     "addr": "213.136.94.160",
     "port": 28300,
     "removed": 1736618875
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "213.136.94.160",
+    "port": 28400
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -3796,7 +3814,7 @@
     "port": 7877
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK LVL10+",
     "addr": "31.58.228.76",
     "port": 7777
   },
@@ -4873,7 +4891,8 @@
   {
     "name": "[FR] Los pollos hermanos",
     "addr": "5.189.130.178",
-    "port": 28500
+    "port": 28500,
+    "removed": 1736705267
   },
   {
     "name": "[PL/ENG] TGD Clan",
@@ -5011,7 +5030,7 @@
     "port": 8530
   },
   {
-    "name": "[UA] DPS Ukrainian Community Server | discord.gg/HLL",
+    "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/HLL",
     "addr": "51.83.150.41",
     "port": 7797
   },
@@ -5224,7 +5243,7 @@
     "port": 10710
   },
   {
-    "name": "[CN]EXP小南梁马克萌新服/纯冲突/Q556560029/JP",
+    "name": "EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
     "addr": "64.31.11.50",
     "port": 11255
   },
@@ -5336,7 +5355,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736705267
   },
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
@@ -5386,7 +5406,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736705267
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #6 SPONSORED QONZER.COM",
@@ -5401,7 +5422,8 @@
   {
     "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
     "addr": "74.63.231.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736705267
   },
   {
     "name": "[L9] The Loyal Nine | New Players Welcome - L9Clan.com/discord",
@@ -5763,8 +5785,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1736532521
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5774,8 +5795,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1736618875
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #54",
@@ -6271,7 +6291,7 @@
     "port": 7777
   },
   {
-    "name": "  [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
+    "name": "   [SCSD] All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
   },
@@ -6325,6 +6345,11 @@
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
     "port": 7777
+  },
+  {
+    "name": "Hell Let Loose Server",
+    "addr": "92.118.19.140",
+    "port": 7787
   },
   {
     "name": "PC Gamers LATAM - DALLAS",
