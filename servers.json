@@ -706,12 +706,6 @@
     "port": 7797
   },
   {
-    "name": "KNIL(DUTCH Speaking)",
-    "addr": "159.69.226.137",
-    "port": 7777,
-    "removed": 1736100474
-  },
-  {
     "name": "CZ AND SK discord pacmansk",
     "addr": "159.69.226.137",
     "port": 7797,
@@ -891,12 +885,6 @@
     "addr": "176.57.134.27",
     "port": 28200,
     "removed": 1736251881
-  },
-  {
-    "name": "Test",
-    "addr": "176.57.134.27",
-    "port": 28300,
-    "removed": 1736100474
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 5 | FRONTLINE NEWBIE | QS | OINK",
@@ -3564,7 +3552,8 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736706142
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
