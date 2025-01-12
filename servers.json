@@ -275,8 +275,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1736489373
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -400,6 +399,11 @@
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
     "port": 9620
+  },
+  {
+    "name": "[GER]DRAGONCITY /MIKRO /WIR REKRUTIEREN / TEAMPLAY",
+    "addr": "141.95.34.126",
+    "port": 10165
   },
   {
     "name": "[EU] Hadfiúk/War boys (HU/EN) (No skirmish) (Magyar)",
@@ -805,6 +809,11 @@
     "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | disco",
     "addr": "172.93.105.158",
     "port": 9075
+  },
+  {
+    "name": "ZGaming Servers - discord.gg/ZGaming",
+    "addr": "172.93.110.17",
+    "port": 8530
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1584,7 +1593,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736662103
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1905,8 +1915,7 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000,
-    "removed": 1736575693
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1916,8 +1925,7 @@
   {
     "name": "HLL Official - Europe #52",
     "addr": "176.57.171.120",
-    "port": 28200,
-    "removed": 1736489373
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #68",
@@ -1932,13 +1940,13 @@
   {
     "name": "HLL Official - Europe #122",
     "addr": "176.57.171.120",
-    "port": 28500,
-    "removed": 1736489373
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #133",
     "addr": "176.57.171.120",
-    "port": 28600
+    "port": 28600,
+    "removed": 1736662103
   },
   {
     "name": "HLL Official - Europe #146",
@@ -1974,7 +1982,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736662103
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2064,7 +2073,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736662103
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -3000,7 +3010,7 @@
     "port": 9620
   },
   {
-    "name": "ESP-MX Vip: https://mpago.la/2PZJ1BU",
+    "name": "ESP-MX Vip: https://goo.su/tcWr9OY",
     "addr": "191.101.30.131",
     "port": 8530
   },
@@ -3342,8 +3352,7 @@
   {
     "name": "BigAzza's Hell Let Loose",
     "addr": "198.244.254.144",
-    "port": 8530,
-    "removed": 1736643725
+    "port": 8530
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
@@ -3488,7 +3497,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz | Zamknute od 16h",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -4932,8 +4941,7 @@
   {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
-    "port": 8530,
-    "removed": 1736643725
+    "port": 8530
   },
   {
     "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https://dsc.gg/hllpt",
@@ -5156,7 +5164,7 @@
     "port": 7777
   },
   {
-    "name": "CN5#冬夜里的深夜春节咖啡馆萌新专用服|JP12074815",
+    "name": "CN5#冬夜里的深夜春节咖啡馆萌新专服|JP120748151",
     "addr": "64.31.11.26",
     "port": 10165
   },
@@ -5191,7 +5199,7 @@
     "port": 9075
   },
   {
-    "name": "CN ITK#3琴里酱的ACG圣地日服Q群48381851",
+    "name": "CN ITK#3琴里酱的ACG攻防禁炮日服Q群48381851",
     "addr": "64.31.11.26",
     "port": 9620
   },
@@ -5243,8 +5251,7 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1736643725
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -5364,8 +5371,7 @@
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
-    "port": 7777,
-    "removed": 1736643725
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
