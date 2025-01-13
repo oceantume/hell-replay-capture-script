@@ -1215,6 +1215,11 @@
     "port": 28100
   },
   {
+    "name": "[ITA/ENG] =BIA= Clan D Day Maps",
+    "addr": "176.57.140.196",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Europe #152",
     "addr": "176.57.140.202",
     "port": 28000
@@ -3211,7 +3216,8 @@
   {
     "name": "[FR Only] Eglantine Ici La [7CIE] https://discord.gg/H6pUB3CkBJ",
     "addr": "193.70.122.179",
-    "port": 9075
+    "port": 9075,
+    "removed": 1736771392
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
@@ -3613,7 +3619,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -6052,12 +6058,6 @@
     "addr": "88.198.47.123",
     "port": 9075,
     "removed": 1736621660
-  },
-  {
-    "name": "Hookway's Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1736166556
   },
   {
     "name": "HLL Official - South America #23",
