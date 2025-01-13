@@ -282,10 +282,9 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Event & Match | discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1736728363
+    "port": 9224
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
@@ -318,7 +317,7 @@
     "port": 9075
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENT | DISCORD.GG/THE-CIRCLE",
+    "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "139.28.17.146",
     "port": 7777
   },
@@ -657,8 +656,7 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
-    "port": 7887,
-    "removed": 1736730060
+    "port": 7887
   },
   {
     "name": "CN 1801蓝蔷薇少女的骑行港服Q群677043328",
@@ -1491,7 +1489,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736748608
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1577,8 +1576,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1736662103
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1905,7 +1903,8 @@
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736748608
   },
   {
     "name": "HLL Official - Europe #52",
@@ -1915,7 +1914,8 @@
   {
     "name": "HLL Official - Europe #68",
     "addr": "176.57.171.120",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736748608
   },
   {
     "name": "HLL Official - Europe #87",
@@ -1925,13 +1925,13 @@
   {
     "name": "HLL Official - Europe #122",
     "addr": "176.57.171.120",
-    "port": 28500
+    "port": 28500,
+    "removed": 1736748608
   },
   {
     "name": "HLL Official - Europe #133",
     "addr": "176.57.171.120",
-    "port": 28600,
-    "removed": 1736662103
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #146",
@@ -2560,7 +2560,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736748608
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2844,7 +2845,8 @@
   {
     "name": "   BRASIL HELL | »BAIN« | bainclan.com.br | Min. Lvl. 30",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1736748608
   },
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
@@ -2852,7 +2854,7 @@
     "port": 7807
   },
   {
-    "name": "[D.C.] Devils Company - LATAM - Discord: https://devilscompany.",
+    "name": "[D.C.] Devils Company - LATAM - Disc: https://devilscompany.net",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -3000,6 +3002,11 @@
     "port": 8530
   },
   {
+    "name": "30th ID Battle of Mortain",
+    "addr": "192.154.253.22",
+    "port": 8530
+  },
+  {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
     "port": 7777
@@ -3048,8 +3055,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1736683824
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3164,8 +3170,7 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1736663005
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #01",
@@ -3448,7 +3453,7 @@
     "port": 9108
   },
   {
-    "name": "CN ITK#1琴里酱的二次元家园日服Q群48381851",
+    "name": "CN ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "203.10.99.7",
     "port": 9118
   },
@@ -3560,7 +3565,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736748608
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -5126,7 +5132,7 @@
     "port": 7787
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM | 1M+XP |COMBAT ENGINEERS|",
+    "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
     "addr": "63.143.60.20",
     "port": 7777
   },
@@ -5196,12 +5202,12 @@
     "port": 11800
   },
   {
-    "name": "<CN>BW黑色守望/黄区卫国战争/北非战争/Q:682305162",
+    "name": "<CN>BW黑色守望/绿区希望镇萌新区/Q:682305162",
     "addr": "64.31.11.26",
     "port": 12345
   },
   {
-    "name": "CN ITK#2琴里酱的约会大作战日服Q群48381851",
+    "name": "CN ITK#2琴里~约会大作战攻防日服Q群48381851",
     "addr": "64.31.11.26",
     "port": 8530
   },
@@ -5378,7 +5384,8 @@
   {
     "name": "Dark Horizon LVL 10+ |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736748608
   },
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
