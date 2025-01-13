@@ -4874,7 +4874,8 @@
   {
     "name": "[GER]  181. Infanterie-Division ",
     "addr": "5.189.130.178",
-    "port": 28500
+    "port": 28500,
+    "removed": 1736794215
   },
   {
     "name": "[PL/ENG] TGD Clan",
@@ -4882,7 +4883,7 @@
     "port": 28000
   },
   {
-    "name": "[GER/EUR] Hell let loose - New player friendly",
+    "name": "[EUR] Hell let loose - lets go",
     "addr": "5.189.132.77",
     "port": 28100
   },
