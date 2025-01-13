@@ -322,7 +322,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -2680,7 +2680,8 @@
   {
     "name": "[HUN/ENG] Y9 | Magyar Hell Let Loose szerver.",
     "addr": "176.9.113.23",
-    "port": 9075
+    "port": 9075,
+    "removed": 1736772673
   },
   {
     "name": "BALLERBUDE [mic only]",
@@ -3216,8 +3217,7 @@
   {
     "name": "[FR Only] Eglantine Ici La [7CIE] https://discord.gg/H6pUB3CkBJ",
     "addr": "193.70.122.179",
-    "port": 9075,
-    "removed": 1736771392
+    "port": 9075
   },
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
@@ -4971,7 +4971,8 @@
   {
     "name": "[FR] Only-Frères de Tranchées [FTC]-discord.gg/T7qfbYHP",
     "addr": "51.210.34.97",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736772673
   },
   {
     "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
