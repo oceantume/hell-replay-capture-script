@@ -2825,8 +2825,7 @@
   {
     "name": "   BRASIL HELL | »BAIN« | bainclan.com.br | Min. Lvl. 30",
     "addr": "181.214.221.212",
-    "port": 7797,
-    "removed": 1736857684
+    "port": 7797
   },
   {
     "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
@@ -5341,20 +5340,17 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1736857684
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1736857684
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1736818419
+    "port": 7777
   },
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
@@ -5435,7 +5431,8 @@
   {
     "name": "BRASIL CAPITAL SERVER BR DISCORD https://discord.gg/qxZw478pPS ",
     "addr": "78.111.102.114",
-    "port": 28500
+    "port": 28500,
+    "removed": 1736858862
   },
   {
     "name": "RoidedEwok's ***Offensive Only*** HLL Server",
