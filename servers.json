@@ -382,10 +382,9 @@
     "port": 10165
   },
   {
-    "name": "[EU] Hadfiúk/War boys (HU/EN) (No skirmish) (Magyar)",
+    "name": "Hadfiúk | War boys [ HUN / ENG ] [ Magyar ]",
     "addr": "141.95.34.126",
-    "port": 8530,
-    "removed": 1736880938
+    "port": 8530
   },
   {
     "name": "(GER|ENG) Pimmelbande (New player welcome)",
@@ -3568,7 +3567,8 @@
   {
     "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
     "addr": "208.115.226.2",
-    "port": 7817
+    "port": 7817,
+    "removed": 1736881584
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -5898,7 +5898,8 @@
   {
     "name": "HELLFOXES PLAYGROUND -(US East) -Offensive -New Players Welcome",
     "addr": "83.223.203.155",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - US East #79",
@@ -6429,8 +6430,7 @@
   {
     "name": "HLL Official - South America #14",
     "addr": "92.38.151.90",
-    "port": 28200,
-    "removed": 1736880938
+    "port": 28200
   },
   {
     "name": "HLL Official - South America #17",
@@ -6490,7 +6490,8 @@
   {
     "name": "HLL Official - Australia #34",
     "addr": "94.250.221.22",
-    "port": 28400
+    "port": 28400,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - Australia #41",
@@ -6515,12 +6516,14 @@
   {
     "name": "HLL Official - Australia #21",
     "addr": "94.250.221.23",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - Australia #28",
     "addr": "94.250.221.23",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - Australia #35",
@@ -6550,7 +6553,8 @@
   {
     "name": "HLL Official - Australia #30",
     "addr": "94.250.221.25",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - Australia #31",
@@ -6660,7 +6664,8 @@
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600
+    "port": 28600,
+    "removed": 1736881584
   },
   {
     "name": "HLL Official - Australia #06",
@@ -6695,7 +6700,8 @@
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600
+    "port": 28600,
+    "removed": 1736881584
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
