@@ -3815,7 +3815,8 @@
   {
     "name": "Hell's Pet Goose, New Player Friendly (US Central)",
     "addr": "45.137.244.9",
-    "port": 28600
+    "port": 28600,
+    "removed": 1736879810
   },
   {
     "name": "HLL Official - Japan #01",
@@ -5111,6 +5112,11 @@
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 30+",
     "addr": "57.128.229.70",
     "port": 7817
+  },
+  {
+    "name": "PL - Polski Serwer - VIP za piątala - Discord: ",
+    "addr": "57.128.229.70",
+    "port": 7827
   },
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
