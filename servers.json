@@ -322,7 +322,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1591,12 +1591,14 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736814509
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1736814509
   },
   {
     "name": "HLL Official - Europe #08",
@@ -2437,8 +2439,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1736559325
+    "port": 28200
   },
   {
     "name": "[UK] Hearts of Bruh By Luna Developments.",
@@ -2694,7 +2695,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
+    "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -2883,6 +2884,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "181.214.221.41",
+    "port": 7797
+  },
+  {
     "name": "Landsharks (7th Armoured Cavalry) - Training Server",
     "addr": "185.125.205.116",
     "port": 8530
@@ -2910,7 +2916,8 @@
   {
     "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https://dsc.gg/hllpt",
     "addr": "185.216.144.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1736814509
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -3502,7 +3509,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3617,7 +3624,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3675,7 +3682,8 @@
   {
     "name": "mmmeo",
     "addr": "213.136.80.177",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736814509
   },
   {
     "name": "[German] Sterben für Anfänger [Deutsch/Mic Only]",
@@ -3714,6 +3722,11 @@
     "name": "Polski Server 100 SLOTS",
     "addr": "213.136.88.87",
     "port": 28500
+  },
+  {
+    "name": "NomNom",
+    "addr": "213.136.88.87",
+    "port": 28600
   },
   {
     "name": "GER.Johnnsy.Official-YT",
@@ -4882,7 +4895,7 @@
     "port": 28000
   },
   {
-    "name": "[EUR] Hell let loose - lets go",
+    "name": "[EUR-GER] HLL -  play fair, fight hard",
     "addr": "5.189.132.77",
     "port": 28100
   },
@@ -4964,6 +4977,11 @@
   {
     "name": "RealityShowTV EU",
     "addr": "51.195.63.92",
+    "port": 8530
+  },
+  {
+    "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https//dsc.gg/hllpt",
+    "addr": "51.210.32.201",
     "port": 8530
   },
   {
@@ -5327,6 +5345,11 @@
   {
     "name": " »BAIN« | Training & Event | bainclan.com.br ",
     "addr": "64.31.60.34",
+    "port": 7777
+  },
+  {
+    "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
+    "addr": "64.31.60.36",
     "port": 7777
   },
   {
@@ -5805,7 +5828,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736814509
   },
   {
     "name": "HLL Official - Asia #24",
@@ -5913,6 +5937,11 @@
     "name": "Clown Squad HLL",
     "addr": "83.223.203.182",
     "port": 28200
+  },
+  {
+    "name": "Realistic Warthunder",
+    "addr": "83.223.204.11",
+    "port": 28100
   },
   {
     "name": "Hell let loose (US East) AVR les gars AVR",
