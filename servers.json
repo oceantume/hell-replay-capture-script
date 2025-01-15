@@ -301,6 +301,11 @@
     "port": 8530
   },
   {
+    "name": "[GER] Ballerbude NEW! | Neuespieler willkommmen",
+    "addr": "136.243.82.234",
+    "port": 9075
+  },
+  {
     "name": "ZOO - Match server",
     "addr": "138.201.16.137",
     "port": 8530
@@ -3051,7 +3056,8 @@
   {
     "name": "Current Level: Gavin's Fire Frenzy(D1CK)",
     "addr": "192.169.93.236",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736966778
   },
   {
     "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
