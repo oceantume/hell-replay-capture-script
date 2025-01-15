@@ -1778,12 +1778,6 @@
     "port": 28400
   },
   {
-    "name": "2.PAC-Event Server - https://discord.gg/2-PAC",
-    "addr": "176.57.168.91",
-    "port": 28000,
-    "removed": 1736296205
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
     "port": 28100
@@ -3268,18 +3262,6 @@
     "removed": 1736555379
   },
   {
-    "name": "[GER] Mogeltrupp",
-    "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1736296205
-  },
-  {
-    "name": "(GER)Hier sind nur Verrückte",
-    "addr": "195.82.158.186",
-    "port": 21100,
-    "removed": 1736296205
-  },
-  {
     "name": "[GER] 19. Panzer Division - Event-Server",
     "addr": "195.82.158.186",
     "port": 21200
@@ -3801,8 +3783,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7977,
-    "removed": 1736900952
+    "port": 7977
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -5474,8 +5455,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1736900952
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -6341,7 +6321,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1736902564
   },
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
