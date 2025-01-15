@@ -2853,12 +2853,14 @@
   {
     "name": "Landsharks (7th Armoured Cavalry) - Training Server",
     "addr": "185.125.205.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736922276
   },
   {
     "name": "Gaming Dads on the Frontline I WARFARE ONLY! I New Players http",
     "addr": "185.125.205.119",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736922276
   },
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2884,7 +2886,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.216.147.183",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736922276
   },
   {
     "name": "HLL Server",
@@ -3274,14 +3277,12 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530,
-    "removed": 1736921358
+    "port": 8530
   },
   {
     "name": "☆ UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players Welcome",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1736921358
+    "port": 9620
   },
   {
     "name": "BigAzza's Hell Let Loose",
@@ -3524,8 +3525,7 @@
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777,
-    "removed": 1736921358
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -3741,7 +3741,8 @@
   {
     "name": "[HUN/ENG] Absolute Zero | Magyar HLL szerver",
     "addr": "217.146.80.186",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736922276
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -4922,6 +4923,11 @@
   {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
+    "port": 8530
+  },
+  {
+    "name": "47.Division Geist all Players Welcome",
+    "addr": "51.195.190.147",
     "port": 8530
   },
   {
@@ -6184,7 +6190,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新日服 Q群：6770433",
+    "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新日服 Q:677043328",
     "addr": "89.46.1.190",
     "port": 7817
   },
