@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1049,7 +1049,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736944087
   },
   {
     "name": "HLL Dev Team",
@@ -1581,7 +1582,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736944087
   },
   {
     "name": "DevQA - EU #02",
@@ -3247,7 +3249,8 @@
   {
     "name": "[GER] 19. Panzer Division - Event-Server",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1736944087
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3263,7 +3266,8 @@
   {
     "name": "[PL] Elitarni - Polski serwer. Discorde: https://discord.gg/HQ9",
     "addr": "195.82.158.186",
-    "port": 21600
+    "port": 21600,
+    "removed": 1736944087
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3563,7 +3567,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -5445,8 +5449,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1736924879
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
