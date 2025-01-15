@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -341,7 +341,7 @@
     "port": 10165
   },
   {
-    "name": "BWR|Russian Server Moscow|https://discord.gg/PQ6wFSy5u8",
+    "name": "BWR|Russian Server Moscow|RU|https://discord.gg/PQ6wFSy5u8",
     "addr": "141.105.66.70",
     "port": 10710
   },
@@ -510,6 +510,11 @@
     "port": 28100
   },
   {
+    "name": "[SCSD] 2 - All Levels welcome | discord.gg/scsd | Active Admin",
+    "addr": "149.102.135.184",
+    "port": 28200
+  },
+  {
     "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
     "port": 8530
@@ -555,7 +560,7 @@
     "port": 8530
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com | Mini+50 | Francophone",
+    "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
     "addr": "152.228.223.21",
     "port": 9075
   },
@@ -638,7 +643,8 @@
   {
     "name": "CN [MX]幼儿园薯条加工厂HK QQ群162996620",
     "addr": "156.146.44.225",
-    "port": 7877
+    "port": 7877,
+    "removed": 1736964503
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -687,7 +693,7 @@
     "port": 7797
   },
   {
-    "name": "[TR] Anadolu Cephesi - Warfare - Turks Only",
+    "name": "[TR] İstanbul Server #01 - Sadece Warfare",
     "addr": "156.67.62.23",
     "port": 7807
   },
@@ -1140,8 +1146,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1736878118
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1151,8 +1156,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1736878118
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2413,7 +2417,7 @@
     "port": 28000
   },
   {
-    "name": "[UA] Ukraine Unity Frontline #3 HLL discord.gg/uuf",
+    "name": "[UA] Event  Ukraine Unity Frontline #3 HLL discord.gg/uuf",
     "addr": "176.57.178.134",
     "port": 28100
   },
@@ -2857,7 +2861,7 @@
     "port": 8530
   },
   {
-    "name": "Gaming Dads on the Frontline I WARFARE ONLY! I New Players http",
+    "name": "Gamer Dads on the Frontline I WARFARE ONLY! I New Players welco",
     "addr": "185.125.205.119",
     "port": 8530
   },
@@ -2890,7 +2894,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736964503
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2976,8 +2981,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1736946122
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/ND5NWHC5",
@@ -3228,6 +3232,11 @@
     "removed": 1736856662
   },
   {
+    "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
+    "addr": "195.82.158.186",
+    "port": 20400
+  },
+  {
     "name": "PeanutClub CZ/SK",
     "addr": "195.82.158.186",
     "port": 20600,
@@ -3329,7 +3338,7 @@
     "port": 8888
   },
   {
-    "name": "CN5「CZS&FJ」细雨清风萌新乐园｜HK｜Q716701264",
+    "name": "CN3「FJ」细雨清风萌新乐园｜HK｜Q716701264",
     "addr": "202.165.70.91",
     "port": 8908
   },
@@ -3339,7 +3348,7 @@
     "port": 8918
   },
   {
-    "name": "CN3「FJ&CZS」绿魔鬼战队纯攻防｜JP｜Q716701264",
+    "name": "CN［FJ］American Western Training Camp",
     "addr": "203.10.96.196",
     "port": 8888
   },
@@ -3449,7 +3458,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3626,7 +3635,8 @@
   {
     "name": "mmmeo",
     "addr": "213.136.80.177",
-    "port": 28200
+    "port": 28200,
+    "removed": 1736964503
   },
   {
     "name": "[German] Sterben für Anfänger [Deutsch/Mic Only]",
@@ -3696,7 +3706,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
-    "port": 28400
+    "port": 28400,
+    "removed": 1736964503
   },
   {
     "name": "FIN [BL-SQ] Hell let loose (EU) Server by g-portal.com",
@@ -3737,7 +3748,8 @@
   {
     "name": "[HUN/ENG] Absolute Zero | Magyar HLL szerver",
     "addr": "217.146.80.186",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736964503
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -4926,7 +4938,7 @@
     "port": 8530
   },
   {
-    "name": "#01 ESP TERCIOS ESPAÑOLES Spanish/Español",
+    "name": "#01 ESP DESEMBARCO EN NORMANDIA Spanish/Español",
     "addr": "51.195.190.147",
     "port": 9075
   },
@@ -5252,8 +5264,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1736946122
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5448,13 +5459,13 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1736946122
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736964503
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5464,7 +5475,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736964503
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5764,20 +5776,17 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1736878118
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1736791772
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1736878118
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #54",
