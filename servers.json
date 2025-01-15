@@ -362,6 +362,11 @@
     "port": 9620
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "141.95.3.139",
+    "port": 8530
+  },
+  {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
     "port": 8530
@@ -1130,8 +1135,7 @@
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1736904872
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #01",
@@ -1506,7 +1510,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736921358
   },
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
@@ -1881,7 +1886,8 @@
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100
+    "port": 28100,
+    "removed": 1736921358
   },
   {
     "name": "HLL Official - Europe #52",
@@ -1896,8 +1902,7 @@
   {
     "name": "HLL Official - Europe #87",
     "addr": "176.57.171.120",
-    "port": 28400,
-    "removed": 1736834948
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #122",
@@ -1932,8 +1937,7 @@
   {
     "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
     "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1736834948
+    "port": 28000
   },
   {
     "name": "Freier Server  Ohne Admin",
@@ -2673,6 +2677,11 @@
     "port": 7777
   },
   {
+    "name": "LOS KINGS | Chile - LATAM",
+    "addr": "177.54.147.141",
+    "port": 7807
+  },
+  {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
     "port": 7827
@@ -2738,12 +2747,6 @@
     "removed": 1736469044
   },
   {
-    "name": "<CN>#8 TT天堂萌新俱乐部（随机图）Q群：578097070",
-    "addr": "178.249.213.164",
-    "port": 7817,
-    "removed": 1736316553
-  },
-  {
     "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
     "addr": "178.249.213.164",
     "port": 7827,
@@ -2760,24 +2763,6 @@
     "addr": "178.249.213.164",
     "port": 7847,
     "removed": 1736469044
-  },
-  {
-    "name": "CN#1帝国之鹰Q群1016686458",
-    "addr": "178.249.213.164",
-    "port": 7857,
-    "removed": 1736316553
-  },
-  {
-    "name": "<CN>#10TT天堂萌新俱乐部（随机图）Q群：578097070",
-    "addr": "178.249.213.164",
-    "port": 7877,
-    "removed": 1736316553
-  },
-  {
-    "name": "CN1801 极北的蓝蔷薇少女 日服 Q群：677043328",
-    "addr": "178.249.213.164",
-    "port": 7887,
-    "removed": 1736316553
   },
   {
     "name": "<CN>#3 JP北极星萌新服务器Q群：1018176083",
@@ -2803,14 +2788,12 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1736900952
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1736900952
+    "port": 8772
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -3291,12 +3274,14 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736921358
   },
   {
     "name": "☆ UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players Welcome",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1736921358
   },
   {
     "name": "BigAzza's Hell Let Loose",
@@ -3528,7 +3513,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1736921358
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3538,7 +3524,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736921358
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -3621,6 +3608,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.255.53",
+    "port": 7777
+  },
+  {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
@@ -3666,8 +3658,7 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1736904872
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) welcome BALKAN",
@@ -4906,8 +4897,7 @@
   {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
     "addr": "5.9.77.39",
-    "port": 8530,
-    "removed": 1736641996
+    "port": 8530
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -4935,10 +4925,9 @@
     "port": 8530
   },
   {
-    "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https://dsc.gg/hllpt",
+    "name": "#01 ESP TERCIOS ESPAÑOLES Spanish/Español",
     "addr": "51.195.190.147",
-    "port": 9075,
-    "removed": 1736791772
+    "port": 9075
   },
   {
     "name": "New HLL Russian Server [RU ONLY]",
@@ -6323,8 +6312,7 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1736902564
+    "port": 7797
   },
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
