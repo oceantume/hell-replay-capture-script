@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -408,7 +408,7 @@
     "removed": 1736597404
   },
   {
-    "name": "[GER] LWWC.de - Warfare - Comms! - VIP4Seeding - Votemap",
+    "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
     "addr": "141.95.35.153",
     "port": 8530
   },
@@ -680,6 +680,16 @@
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
     "port": 7797
+  },
+  {
+    "name": "[TR] Anadolu Cephesi - Warfare - Turks Only",
+    "addr": "156.67.62.23",
+    "port": 7807
+  },
+  {
+    "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "156.67.62.23",
+    "port": 7817
   },
   {
     "name": "BPNL Frontline Warfare Europe",
@@ -1114,7 +1124,8 @@
   {
     "name": "DerHerzeleid's Skirmish",
     "addr": "176.57.135.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736900952
   },
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -2797,12 +2808,14 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1736900952
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1736900952
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
@@ -3450,7 +3463,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK OPEN @ 19:00 CET",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3470,7 +3483,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3567,8 +3580,7 @@
   {
     "name": "[GER] 106. Panzerbrigade | HighPerformance&GER MIC",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1736881584
+    "port": 7817
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -3586,7 +3598,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3777,19 +3789,20 @@
     "port": 7877
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK LVL10+",
+    "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
     "port": 7777
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "31.58.228.76",
     "port": 7787
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
     "addr": "31.58.228.76",
-    "port": 7977
+    "port": 7977,
+    "removed": 1736900952
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3807,6 +3820,11 @@
     "addr": "37.187.25.13",
     "port": 9075,
     "removed": 1736446130
+  },
+  {
+    "name": "The Salty Neckbeards - US Central - GTXGaming",
+    "addr": "38.18.231.120",
+    "port": 8530
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -4810,7 +4828,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #3",
+    "name": "GHN-BLUE",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -5055,12 +5073,6 @@
     "name": "RealityShowTV EU 2",
     "addr": "51.89.64.100",
     "port": 8530
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "51.91.215.64",
-    "port": 8530,
-    "removed": 1736276898
   },
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
@@ -5347,8 +5359,7 @@
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1736834948
+    "port": 7777
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -5366,7 +5377,7 @@
     "port": 7787
   },
   {
-    "name": "多 | Hostile Unknown | US-C | .gg/hostile",
+    "name": "多 | New Player Friendly | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
   },
@@ -5463,7 +5474,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1736900952
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5811,8 +5823,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1736814509
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -5896,10 +5907,9 @@
     "port": 28000
   },
   {
-    "name": "HELLFOXES PLAYGROUND -(US East) -Offensive -New Players Welcome",
+    "name": "HELLFOXES PLAYGROUND -(US East) ",
     "addr": "83.223.203.155",
-    "port": 28300,
-    "removed": 1736881584
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #79",
@@ -5935,7 +5945,8 @@
   {
     "name": "Ralph's Rejects (US East) Server LVL 20+ ONLY",
     "addr": "83.223.204.123",
-    "port": 28000
+    "port": 28000,
+    "removed": 1736900952
   },
   {
     "name": "вит | Bad Intentions Server #2 [US EAST]",
@@ -6039,7 +6050,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event #2",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -6343,7 +6354,7 @@
     "port": 7787
   },
   {
-    "name": "PC Gamers LATAM - DALLAS",
+    "name": "PC Gamers - LATAM",
     "addr": "92.118.19.142",
     "port": 7777
   },
@@ -6453,7 +6464,7 @@
     "port": 28100
   },
   {
-    "name": "BUNKER BRASIL || LVL 50+ || SOMENTE PT-BR || ADM ON || VIP",
+    "name": "<BUNKER BRASIL ||   SOMENTE PT-BR || ADM ON || VIP",
     "addr": "92.38.151.91",
     "port": 28600
   },
@@ -6490,8 +6501,7 @@
   {
     "name": "HLL Official - Australia #34",
     "addr": "94.250.221.22",
-    "port": 28400,
-    "removed": 1736881584
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #41",
@@ -6516,14 +6526,12 @@
   {
     "name": "HLL Official - Australia #21",
     "addr": "94.250.221.23",
-    "port": 28200,
-    "removed": 1736881584
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #28",
     "addr": "94.250.221.23",
-    "port": 28300,
-    "removed": 1736881584
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #35",
@@ -6553,8 +6561,7 @@
   {
     "name": "HLL Official - Australia #30",
     "addr": "94.250.221.25",
-    "port": 28300,
-    "removed": 1736881584
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #31",
@@ -6664,8 +6671,7 @@
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600,
-    "removed": 1736881584
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #06",
@@ -6700,8 +6706,7 @@
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600,
-    "removed": 1736881584
+    "port": 28600
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
