@@ -663,7 +663,7 @@
     "port": 7887
   },
   {
-    "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新日服 Q:677043328",
+    "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
     "addr": "156.146.44.225",
     "port": 7897
   },
@@ -686,6 +686,11 @@
     "name": "<CN>#12 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7937
+  },
+  {
+    "name": "<CN>1801#1 蓝蔷薇少女的骑行 日服 Q群：677043328",
+    "addr": "156.146.44.225",
+    "port": 7947
   },
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -4870,7 +4875,8 @@
   {
     "name": "Pelihelvetti",
     "addr": "5.189.130.178",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737032509
   },
   {
     "name": "HLL Official - Hungary #1",
@@ -5490,8 +5496,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737029453
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
