@@ -744,12 +744,6 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "162.55.199.102",
-    "port": 8530,
-    "removed": 1736446130
-  },
-  {
     "name": "First Line of Defence EU",
     "addr": "167.235.169.114",
     "port": 12345
@@ -790,12 +784,6 @@
     "name": "kacownia rp",
     "addr": "168.119.79.144",
     "port": 9075
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "168.119.79.144",
-    "port": 9620,
-    "removed": 1736446130
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -1609,7 +1597,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737051811
   },
   {
     "name": "QA Testing - EU #02",
@@ -2488,12 +2477,6 @@
     "name": "[ GER ] Hack Let Loose | Test Server | by Brennholzverleih",
     "addr": "176.57.181.105",
     "port": 28000
-  },
-  {
-    "name": "[GER] Sancheez Community  | Mikrofon ist Pflicht | Level 15+",
-    "addr": "176.57.181.105",
-    "port": 28300,
-    "removed": 1736446130
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
@@ -3477,7 +3460,8 @@
   {
     "name": "[GER] Reported | Mic Only! | Neue Spieler willkommen | Discord:",
     "addr": "208.115.206.197",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737051811
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -3840,12 +3824,6 @@
     "addr": "37.187.25.13",
     "port": 8530,
     "removed": 1736469044
-  },
-  {
-    "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
-    "addr": "37.187.25.13",
-    "port": 9075,
-    "removed": 1736446130
   },
   {
     "name": "The Salty Neckbeards - US Central - GTXGaming",
@@ -4832,7 +4810,8 @@
   {
     "name": "    [SCSD]3 All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "45.143.198.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737051811
   },
   {
     "name": " ESP [DIV33] SERVIDOR OFICIAL DEL CLAN 2",
@@ -4862,7 +4841,8 @@
   {
     "name": "GHN-BLUE",
     "addr": "46.105.223.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737051811
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -4946,12 +4926,6 @@
     "removed": 1737050914
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server discord.gg/egserver",
-    "addr": "5.9.77.39",
-    "port": 12345,
-    "removed": 1736446130
-  },
-  {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
     "addr": "5.9.77.39",
     "port": 8530
@@ -4990,12 +4964,6 @@
     "name": "#01 ESP DESEMBARCO EN NORMANDIA Spanish/Español",
     "addr": "51.195.190.147",
     "port": 9075
-  },
-  {
-    "name": "New HLL Russian Server [RU ONLY]",
-    "addr": "51.195.63.187",
-    "port": 8530,
-    "removed": 1736446130
   },
   {
     "name": "RealityShowTV EU",
@@ -5131,12 +5099,6 @@
     "name": "#04 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
     "port": 8772
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "54.37.245.13",
-    "port": 8530,
-    "removed": 1736446130
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding ",
@@ -5393,8 +5355,7 @@
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1737050914
+    "port": 7777
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -6107,7 +6068,8 @@
   {
     "name": "SLB #3",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1737051811
   },
   {
     "name": "Dark Horizon EU 1 | New Players Welcome | Discord.gg/dhz",
