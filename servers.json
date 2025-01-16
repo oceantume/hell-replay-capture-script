@@ -1597,8 +1597,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1737051811
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -3458,10 +3457,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] Reported | Mic Only! | Neue Spieler willkommen | Discord:",
+    "name": "[ GER ] Reported | Gute Performance | Neue Spieler Willkommen |",
     "addr": "208.115.206.197",
-    "port": 7777,
-    "removed": 1737051811
+    "port": 7777
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -4810,8 +4808,7 @@
   {
     "name": "    [SCSD]3 All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "45.143.198.27",
-    "port": 8530,
-    "removed": 1737051811
+    "port": 8530
   },
   {
     "name": " ESP [DIV33] SERVIDOR OFICIAL DEL CLAN 2",
@@ -4826,7 +4823,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [Central]",
     "addr": "45.43.3.83",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737052597
   },
   {
     "name": "The Old Bastards 77th Infantry Divison [New Player Friendly]",
@@ -4839,10 +4837,9 @@
     "port": 8530
   },
   {
-    "name": "GHN-BLUE",
+    "name": "Greyhounds Event",
     "addr": "46.105.223.204",
-    "port": 7777,
-    "removed": 1737051811
+    "port": 7777
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -6043,7 +6040,8 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "85.208.197.66",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737052597
   },
   {
     "name": "hll Server",
@@ -6058,7 +6056,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737052597
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
