@@ -485,7 +485,7 @@
     "port": 7787
   },
   {
-    "name": "FR - L'IGLOO#1 — discord.gg/l-igloo [IGL] FRENCH speaking onl",
+    "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
     "addr": "146.59.149.83",
     "port": 9075
   },
@@ -520,7 +520,7 @@
     "port": 28100
   },
   {
-    "name": "[SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
+    "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "149.102.135.184",
     "port": 28200
   },
@@ -581,10 +581,9 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[FR] Chiens de la casse Bonne ambiance obligatoire !",
     "addr": "152.228.223.28",
-    "port": 9075,
-    "removed": 1736424674
+    "port": 9075
   },
   {
     "name": "2nd Armored | US CENTRAL | discord.gg/2ad",
@@ -2919,7 +2918,8 @@
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "188.40.113.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737029453
   },
   {
     "name": "[EU] deinHell - Beginners welcome",
@@ -3003,7 +3003,7 @@
     "port": 7777
   },
   {
-    "name": "[MEXICO][LATAM] CLANZEROSTUDIOS! #1 Discord.gg/ClanZeroStudios",
+    "name": "[MEXICO][LATAM] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
     "addr": "192.169.86.210",
     "port": 7797
   },
@@ -3397,7 +3397,7 @@
     "port": 9058
   },
   {
-    "name": "CN1#冬夜里的深夜温暖少女萌新咖啡馆|120748151",
+    "name": "C.N1#冬夜里的深夜温暖少女萌新咖啡馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
@@ -3457,7 +3457,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Willkommen auf Omen",
+    "name": "Free candy! Hop in! Omen Pub Server [GER/EN]",
     "addr": "208.115.206.196",
     "port": 7777
   },
@@ -3534,8 +3534,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1737007762
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3731,6 +3730,11 @@
     "port": 28500
   },
   {
+    "name": "Hell let loose (EU) Server by yodini",
+    "addr": "213.136.94.160",
+    "port": 28600
+  },
+  {
     "name": "σ CHAD STUART'S — LVL 25+ PEAK HOURS | discord.gg/chadfgf",
     "addr": "216.173.113.154",
     "port": 9620
@@ -3770,7 +3774,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1737029453
   },
   {
     "name": "Dark Horizon EU 2 | New Player Friendly | Discord.gg/dhz",
@@ -4857,10 +4862,9 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Pelihelvetti",
     "addr": "5.189.130.178",
-    "port": 28200,
-    "removed": 1736469044
+    "port": 28200
   },
   {
     "name": "HLL Official - Hungary #1",
@@ -5363,7 +5367,7 @@
     "port": 8888
   },
   {
-    "name": "Perkele Let Loose Finland ",
+    "name": "Perkeleet Let Loose Finland ",
     "addr": "65.21.46.146",
     "port": 8530
   },
@@ -5480,7 +5484,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737029453
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5874,14 +5879,12 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1737007762
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200,
-    "removed": 1737007762
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -6250,6 +6253,11 @@
     "port": 7857
   },
   {
+    "name": "cn99999",
+    "addr": "89.46.1.190",
+    "port": 7867
+  },
+  {
     "name": "<CN>JP喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
     "port": 7897
@@ -6367,7 +6375,8 @@
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
     "addr": "92.118.19.43",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737029453
   },
   {
     "name": "U Test Server",
