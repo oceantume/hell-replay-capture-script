@@ -38,7 +38,8 @@
   {
     "name": "[CN]JP AFZ萌新1服|Q群:809972300",
     "addr": "103.62.49.39",
-    "port": 8908
+    "port": 8908,
+    "removed": 1737094158
   },
   {
     "name": "<CN>ARO（原TR）MAGA！ JP Q群703608483",
@@ -46,7 +47,7 @@
     "port": 8918
   },
   {
-    "name": "CN4#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
+    "name": "CN#萌新的温柔咖绯馆（萌新友好）|120748151",
     "addr": "103.62.49.39",
     "port": 8928
   },
@@ -61,7 +62,7 @@
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区萌新基地/Q:682305162",
+    "name": "<CN>BW黑色守望/红区简泰克萌新基地/Q:682305162",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -671,8 +672,7 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
-    "port": 7887,
-    "removed": 1737077647
+    "port": 7887
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
@@ -1900,8 +1900,7 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000,
-    "removed": 1737007762
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #42",
@@ -2369,7 +2368,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737094158
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2455,7 +2455,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737094158
   },
   {
     "name": "QA Testing - EU #05",
@@ -2742,7 +2743,7 @@
     "port": 7797
   },
   {
-    "name": "TPL Japan #1 - Powered by Radical Gaming",
+    "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
     "addr": "178.249.213.95",
     "port": 7787
   },
@@ -2812,7 +2813,7 @@
     "port": 7797
   },
   {
-    "name": "HLL Oficial - Sur America #01 [BARDO TEAM] [SOLO VETERANOS]",
+    "name": "HLL Oficial - Sur America #01 [BARDO TEAM] [LVL+20 ESPAÑOL]",
     "addr": "181.214.221.41",
     "port": 7807
   },
@@ -3157,7 +3158,7 @@
     "port": 28200
   },
   {
-    "name": "(IC) Offensive Heaven | US West #3 | discord.gg/icoh",
+    "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
     "port": 28000
   },
@@ -3389,12 +3390,12 @@
     "port": 9058
   },
   {
-    "name": "CN1#冬夜里的深夜温暖少女萌新咖啡馆|120748151",
+    "name": "C1N1#燕云十六声中又有清河蔓延萌新茶馆|120748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#冬夜里的深夜火炉喵咪攻防咖啡馆|120748151",
+    "name": "C1N2#燕云十六声中又有青丝竹缕攻防茶馆|120748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3531,7 +3532,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737094158
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3667,16 +3669,14 @@
     "removed": 1736770328
   },
   {
-    "name": "Hell let loose (EU) (PL) POLSKI SERWER ",
+    "name": "[GER] [MIC] Die Schmiede der Verdammten",
     "addr": "213.136.88.87",
-    "port": 28100,
-    "removed": 1736555379
+    "port": 28100
   },
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1737077647
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) welcome BALKAN",
@@ -5132,8 +5132,12 @@
   {
     "name": "Bob the Builder | XP Farm Est 2021 | DISCORD.GG/BOBTHEBUILDER",
     "addr": "63.143.62.100",
-    "port": 7777,
-    "removed": 1737073737
+    "port": 7777
+  },
+  {
+    "name": "Dark Horizon US 3 | New Players Welcome | Discord.gg/dhz",
+    "addr": "63.143.62.100",
+    "port": 7787
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -5202,7 +5206,7 @@
     "port": 8530
   },
   {
-    "name": "CN3#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
+    "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
   },
@@ -5329,26 +5333,22 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1737075336
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1737075336
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1737073737
+    "port": 7777
   },
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1737075336
+    "port": 7777
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -6081,50 +6081,42 @@
   {
     "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
-    "port": 28000,
-    "removed": 1737073737
+    "port": 28000
   },
   {
     "name": "HLL Official - South America #24",
     "addr": "89.43.106.36",
-    "port": 28100,
-    "removed": 1737073737
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #25",
     "addr": "89.43.106.36",
-    "port": 28200,
-    "removed": 1737073737
+    "port": 28200
   },
   {
     "name": "HLL Official - South America #26",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1737073737
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #27",
     "addr": "89.43.106.36",
-    "port": 28400,
-    "removed": 1737073737
+    "port": 28400
   },
   {
     "name": "HLL Official - South America #28",
     "addr": "89.43.106.36",
-    "port": 28500,
-    "removed": 1737073737
+    "port": 28500
   },
   {
     "name": "HLL Official - South America #29",
     "addr": "89.43.106.36",
-    "port": 28600,
-    "removed": 1737073737
+    "port": 28600
   },
   {
     "name": "HLL Official - South America #30",
     "addr": "89.43.106.36",
-    "port": 28700,
-    "removed": 1737073737
+    "port": 28700
   },
   {
     "name": "HLL Official - South America #04",
