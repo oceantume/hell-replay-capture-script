@@ -3642,7 +3642,8 @@
   {
     "name": "PL / ENG Pluton wpierdalania kapusty z grochem by Tagard, Cashn",
     "addr": "213.136.80.177",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737138986
   },
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
@@ -5479,8 +5480,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737138222
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -6391,6 +6391,11 @@
   {
     "name": "No Man's Squad | Level 15+ | Offensive | discord.gg/HszEYcg6Ta",
     "addr": "92.118.19.82",
+    "port": 7777
+  },
+  {
+    "name": "HLL Server",
+    "addr": "92.16.215.0",
     "port": 7777
   },
   {
