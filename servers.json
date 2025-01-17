@@ -671,7 +671,8 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
-    "port": 7887
+    "port": 7887,
+    "removed": 1737077647
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
@@ -898,8 +899,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 9 | WTF WHO DEFEND | QS | OINK",
     "addr": "176.57.134.27",
-    "port": 28600,
-    "removed": 1737075336
+    "port": 28600
   },
   {
     "name": "NEW PLAYERS WELCOME! [GER/ENG | MIC!] - Empire of Thunder ",
@@ -2742,7 +2742,7 @@
     "port": 7797
   },
   {
-    "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
+    "name": "TPL Japan #1 - Powered by Radical Gaming",
     "addr": "178.249.213.95",
     "port": 7787
   },
@@ -2958,22 +2958,26 @@
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "192.169.85.226",
-    "port": 7797
+    "port": 7797,
+    "removed": 1737077647
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "192.169.85.226",
-    "port": 7807
+    "port": 7807,
+    "removed": 1737077647
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "192.169.85.226",
-    "port": 7827
+    "port": 7827,
+    "removed": 1737077647
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "192.169.85.226",
-    "port": 7837
+    "port": 7837,
+    "removed": 1737077647
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -3671,7 +3675,8 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737077647
   },
   {
     "name": "Hell let loose (EU) welcome BALKAN",
@@ -5133,8 +5138,7 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
-    "port": 7777,
-    "removed": 1737075336
+    "port": 7777
   },
   {
     "name": "[13SNC] #4 - Dirty's Afterparty - discord.gg/13snc",
