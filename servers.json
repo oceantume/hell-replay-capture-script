@@ -322,7 +322,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -652,7 +652,7 @@
     "port": 7837
   },
   {
-    "name": "CN.hk【PUMA】碧蓝大战指挥官vs老师服q746699634",
+    "name": "CN.hk【PUMA】耐睡王男娘米米服q746699634",
     "addr": "156.146.44.225",
     "port": 7847
   },
@@ -831,8 +831,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1737115848
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1534,6 +1533,11 @@
     "port": 28100
   },
   {
+    "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
+    "addr": "176.57.153.41",
+    "port": 28200
+  },
+  {
     "name": "Devil Dogs Powered by Simulation For The Nation",
     "addr": "176.57.165.122",
     "port": 32500
@@ -1692,8 +1696,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1737180474
+    "port": 28000
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1805,6 +1808,11 @@
     "addr": "176.57.168.69",
     "port": 28400,
     "removed": 1736923090
+  },
+  {
+    "name": "[3IRD] Ukrainian Events Server | UA/EN discord.gg/3irdua",
+    "addr": "176.57.168.91",
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -3142,8 +3150,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1737050914
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -3218,7 +3225,7 @@
     "port": 30000
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "(Uk) Legends at war community server",
     "addr": "195.140.215.54",
     "port": 8530
   },
@@ -3257,7 +3264,8 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20400
+    "port": 20400,
+    "removed": 1737223664
   },
   {
     "name": "PeanutClub CZ/SK",
@@ -3282,7 +3290,7 @@
     "removed": 1736856662
   },
   {
-    "name": "[PL] Elitarni - Polski serwer #1. Admin: Konkordzik",
+    "name": "[PL] Elitarni - Polski serwer #1. |Vip 15PLN Admin: Konkordzik",
     "addr": "195.82.158.186",
     "port": 21600
   },
@@ -3468,7 +3476,7 @@
     "port": 7777
   },
   {
-    "name": "[ GER ] Reported | Gute Performance | Neue Spieler Willkommen |",
+    "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
     "addr": "208.115.206.197",
     "port": 7777
   },
@@ -3483,7 +3491,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3718,7 +3726,7 @@
     "port": 28600
   },
   {
-    "name": "[PL] Elitarni - Polski serwer #2. |Vips 15PLN Admin: Konkordzik",
+    "name": "[PL] Elitarni - Polski serwer #2. |Vip 15PLN Admin: Konkordzik",
     "addr": "213.136.88.87",
     "port": 28700
   },
@@ -3730,7 +3738,8 @@
   {
     "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
     "addr": "213.136.94.160",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737223664
   },
   {
     "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/apexdivision // W",
@@ -5499,7 +5508,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737223664
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5509,13 +5519,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1737137317
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737223664
   },
   {
     "name": "HLL Official - Asia #01",
@@ -6117,7 +6127,7 @@
     "removed": 1736621660
   },
   {
-    "name": "The Old Bastards 77th Infantry Divison [New Player Friendly]",
+    "name": "The Old Bastards 77th Infantry Divison[New Player Friendly][Rec",
     "addr": "88.209.197.59",
     "port": 8530
   },
@@ -6337,7 +6347,7 @@
     "port": 7777
   },
   {
-    "name": "   [SCSD] 2 All Levels Welcome | discord.gg/scsd | Active Admin",
+    "name": "    [SCSD]2 All Levels Welcome | discord.gg/scsd | Active Admin",
     "addr": "92.118.16.184",
     "port": 7777
   },
@@ -6384,8 +6394,7 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1737202175
+    "port": 7777
   },
   {
     "name": "Hell Let Loose Server",
@@ -6411,7 +6420,8 @@
   {
     "name": "Hellhounds #1",
     "addr": "92.118.19.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737223664
   },
   {
     "name": "No Man's Squad | Level 15+ | Offensive | discord.gg/HszEYcg6Ta",
