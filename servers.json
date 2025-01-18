@@ -3315,7 +3315,8 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
     "addr": "199.127.63.52",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737163888
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -4436,14 +4437,12 @@
   {
     "name": "HLL Official - US East #35",
     "addr": "45.137.247.31",
-    "port": 28200,
-    "removed": 1737161632
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #48",
     "addr": "45.137.247.31",
-    "port": 28300,
-    "removed": 1737161632
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #64",
@@ -4453,14 +4452,12 @@
   {
     "name": "HLL Official - US East #77",
     "addr": "45.137.247.31",
-    "port": 28500,
-    "removed": 1737161632
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #91",
     "addr": "45.137.247.31",
-    "port": 28600,
-    "removed": 1737161632
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #99",
