@@ -516,7 +516,8 @@
   {
     "name": "[PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.gg/japczan",
     "addr": "146.59.52.33",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737180474
   },
   {
     "name": "ENG/PL KEBAB MESZANA",
@@ -670,7 +671,8 @@
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
     "addr": "156.146.44.225",
-    "port": 7867
+    "port": 7867,
+    "removed": 1737180474
   },
   {
     "name": "CN [MX]幼儿园薯条加工厂HK QQ群162996620",
@@ -1546,7 +1548,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737180474
   },
   {
     "name": "QA Testing - EU #03",
@@ -1691,7 +1694,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737180474
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1928,7 +1932,8 @@
   {
     "name": "HLL Official - Europe #122",
     "addr": "176.57.171.120",
-    "port": 28500
+    "port": 28500,
+    "removed": 1737180474
   },
   {
     "name": "HLL Official - Europe #133",
@@ -2748,6 +2753,11 @@
     "port": 7777
   },
   {
+    "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
+    "addr": "178.249.213.79",
+    "port": 7787
+  },
+  {
     "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
     "port": 7797
@@ -2755,7 +2765,8 @@
   {
     "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
     "addr": "178.249.213.95",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737180474
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -2964,8 +2975,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1737137317
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3034,7 +3044,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1737180474
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3315,8 +3326,7 @@
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
     "addr": "199.127.63.52",
-    "port": 9620,
-    "removed": 1737163888
+    "port": 9620
   },
   {
     "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
@@ -3396,12 +3406,12 @@
     "port": 9058
   },
   {
-    "name": "C1N1#燕云十六声中又有清河蔓延萌新茶馆|120748151",
+    "name": "C11N1#燕云十六声中又有清河蔓延萌新茶馆|12.07481",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C1N2#燕云十六声中又有青丝竹缕攻防茶馆|120748151",
+    "name": "C11N2#燕云十六声中又有青丝竹缕攻防茶馆|12.07481",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -5269,7 +5279,7 @@
     "port": 8530
   },
   {
-    "name": "ÇÑ1#米奇妙妙屋的萌新宝宝乐园jp|Q群:975625508",
+    "name": "CN1#米奇妙妙屋的萌新宝宝乐园jp|Q:975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -5954,6 +5964,11 @@
     "port": 28300
   },
   {
+    "name": "[NEW PLAYERS WELCOME] M Jew 42 - Offensive Heaven",
+    "addr": "83.223.203.51",
+    "port": 28400
+  },
+  {
     "name": "Realistic Warthunder",
     "addr": "83.223.204.11",
     "port": 28100
@@ -6269,10 +6284,9 @@
     "port": 7857
   },
   {
-    "name": "cn99999",
+    "name": "CN#JP 东方幻想乡 KFC外卖热线：245578354",
     "addr": "89.46.1.190",
-    "port": 7867,
-    "removed": 1737096461
+    "port": 7867
   },
   {
     "name": "<CN>JP喷火龙的军官营Q群:341807965",
