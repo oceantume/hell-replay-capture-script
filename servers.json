@@ -3252,18 +3252,6 @@
     "removed": 1736856662
   },
   {
-    "name": "Server moved - Search for LWWC to find the new one!",
-    "addr": "195.82.158.186",
-    "port": 20800,
-    "removed": 1736555379
-  },
-  {
-    "name": "[TDUK] The Dales UK | New Players Welcome | use mic | ENG",
-    "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1736555379
-  },
-  {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
     "port": 21200
@@ -3671,12 +3659,6 @@
     "name": "mmmeo",
     "addr": "213.136.80.177",
     "port": 28200
-  },
-  {
-    "name": "[German] Sterben für Anfänger [Deutsch/Mic Only]",
-    "addr": "213.136.80.177",
-    "port": 28300,
-    "removed": 1736555379
   },
   {
     "name": "[Gutta På Skauen] | ENG/NOR | Beginner Friendly",
@@ -4454,12 +4436,14 @@
   {
     "name": "HLL Official - US East #35",
     "addr": "45.137.247.31",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737161632
   },
   {
     "name": "HLL Official - US East #48",
     "addr": "45.137.247.31",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737161632
   },
   {
     "name": "HLL Official - US East #64",
@@ -4469,12 +4453,14 @@
   {
     "name": "HLL Official - US East #77",
     "addr": "45.137.247.31",
-    "port": 28500
+    "port": 28500,
+    "removed": 1737161632
   },
   {
     "name": "HLL Official - US East #91",
     "addr": "45.137.247.31",
-    "port": 28600
+    "port": 28600,
+    "removed": 1737161632
   },
   {
     "name": "HLL Official - US East #99",
@@ -6519,7 +6505,7 @@
     "port": 28100
   },
   {
-    "name": "<BUNKER BRASIL ||   SOMENTE PT-BR || ADM ON || VIP",
+    "name": "BUNKER BRASIL || SOMENTE PT-BR || LVL 50+ || ADM ON || VIP",
     "addr": "92.38.151.91",
     "port": 28600
   },
