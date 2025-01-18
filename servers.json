@@ -3158,7 +3158,8 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737205738
   },
   {
     "name": "HLL Official - US West #01",
@@ -3215,6 +3216,11 @@
     "name": "Hotdog6",
     "addr": "194.140.197.77",
     "port": 30000
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "195.140.215.54",
+    "port": 8530
   },
   {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
