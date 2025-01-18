@@ -258,8 +258,7 @@
   {
     "name": "[GER] DOG Hundehütte (min lvl 25)",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -277,15 +276,14 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose #2 | Private event for this weekend",
     "addr": "135.181.165.173",
     "port": 9224
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
     "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "What can I say",
@@ -293,10 +291,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] Panzerschreck Peanut Butter - 2 | BRAD PITT | MIC ONLY | ",
+    "name": "[GER] Panzerschreck Peanut Butter - 2 | BRAD PITT | NEW PLAYER ",
     "addr": "136.243.79.51",
-    "port": 8530,
-    "removed": 1737137317
+    "port": 8530
   },
   {
     "name": "[GER]Daddelbude Discord https://discord.gg/SdZFhpR8u9",
@@ -320,7 +317,7 @@
     "port": 9075
   },
   {
-    "name": "④ | THE CIRCLE #4 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
+    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7777
   },
@@ -388,8 +385,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1737183811
+    "port": 9620
   },
   {
     "name": "[GER]101st Airborne Division/WIR REKRUTIEREN / Website: 101stai",
@@ -509,7 +505,8 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
     "addr": "146.59.52.33",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737202175
   },
   {
     "name": "[PL] Polski Piekarnik [VIP 10 zł https://discord.gg/u7Zpp6jWz5",
@@ -590,8 +587,7 @@
   {
     "name": "[FR/BE/QC] WNM HLL | FR ONLY | discord.gg/CYVVV4GmgC",
     "addr": "152.228.223.21",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
@@ -773,6 +769,11 @@
     "port": 12345
   },
   {
+    "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
+    "addr": "167.235.169.114",
+    "port": 8530
+  },
+  {
     "name": "[PL] [EU] Polski Serwer HLL",
     "addr": "168.119.79.144",
     "port": 10165
@@ -794,7 +795,7 @@
     "removed": 1736705267
   },
   {
-    "name": "The bunker children | Die Bunkerkinder | [Mic] + [GER] - |",
+    "name": "[GER] - Die Bunkerkinder | [Mic] + [GER] - |",
     "addr": "168.119.79.144",
     "port": 8530
   },
@@ -910,7 +911,7 @@
     "port": 28600
   },
   {
-    "name": "NEW PLAYERS WELCOME! [GER/ENG | MIC!] - Empire of Thunder ",
+    "name": "ALL PLAYERS WELCOME! (ENG/GER) - Empire of Thunder",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -1692,8 +1693,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding ",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1737183811
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
@@ -1704,8 +1704,7 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1737183811
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2376,8 +2375,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1737183811
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -2955,7 +2953,8 @@
   {
     "name": "BRASIL FRONTEIRA HELL | VIP: www.fronteirahell.store",
     "addr": "189.1.170.234",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737202175
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -3050,8 +3049,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1737180474
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3239,8 +3237,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1737183811
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -3261,7 +3258,8 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20400
+    "port": 20400,
+    "removed": 1737202175
   },
   {
     "name": "PeanutClub CZ/SK",
@@ -3277,7 +3275,8 @@
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
     "addr": "195.82.158.186",
-    "port": 21300
+    "port": 21300,
+    "removed": 1737202175
   },
   {
     "name": "CZ/SK svet",
@@ -3288,7 +3287,8 @@
   {
     "name": "[PL] Elitarni - Polski serwer #1. Admin: Konkordzik",
     "addr": "195.82.158.186",
-    "port": 21600
+    "port": 21600,
+    "removed": 1737202175
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3803,7 +3803,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1737202175
   },
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
@@ -4827,7 +4828,7 @@
     "port": 29000
   },
   {
-    "name": "    [SCSD]3 All Levels welcome | discord.gg/scsd | Active Admin",
+    "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "45.143.198.27",
     "port": 8530
   },
@@ -4997,8 +4998,7 @@
   {
     "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https//dsc.gg/hllpt",
     "addr": "51.210.32.201",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "[FR] Only-Frères de Tranchées [FTC]-discord.gg/Uuw4NRVc",
@@ -5103,8 +5103,7 @@
   {
     "name": "Happy Hour @ Blood, Sweat & Beers [BSB]",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -5134,20 +5133,17 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787,
-    "removed": 1737183811
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7807,
-    "removed": 1737183811
+    "port": 7807
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 30+",
     "addr": "57.128.229.70",
-    "port": 7817,
-    "removed": 1737183811
+    "port": 7817
   },
   {
     "name": "PL/ENG Polski Serwer #1 VIP 5 DC: bit.ly/hell-let-loose-pl",
@@ -5251,7 +5247,7 @@
     "port": 9075
   },
   {
-    "name": "JP#1最大二次元聚集地纯攻防(禁炮)日服4.8.38.1851",
+    "name": "JP#1二次元聚集地纯攻防(禁炮)日服Q群1015690448",
     "addr": "64.31.11.26",
     "port": 9620
   },
@@ -5498,8 +5494,7 @@
   {
     "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | discord.gg/Vu55R9Q",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1737183811
+    "port": 8530
   },
   {
     "name": "[EU] Nordic war 24/7",
@@ -5932,7 +5927,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737202175
   },
   {
     "name": "HLL Official - US East #01",
@@ -6404,7 +6400,8 @@
   {
     "name": "=ROTN= Rangers of the North | discord.gg/rangersofthenorth | St",
     "addr": "92.118.18.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737202175
   },
   {
     "name": "Hell Let Loose Server",
