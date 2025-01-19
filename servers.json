@@ -2655,6 +2655,11 @@
     "port": 28100
   },
   {
+    "name": "Lehrjahr 24/25",
+    "addr": "176.57.181.34",
+    "port": 28200
+  },
+  {
     "name": "PL ARHN.EU Polski Serwer Saigi",
     "addr": "176.9.112.232",
     "port": 8530
@@ -3438,7 +3443,8 @@
   {
     "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737312238
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division 2 !Votemap",
@@ -5304,7 +5310,8 @@
   {
     "name": "Lucky Strike Event Server",
     "addr": "64.31.40.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737312238
   },
   {
     "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
