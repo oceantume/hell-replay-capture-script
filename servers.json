@@ -427,12 +427,6 @@
     "port": 8530
   },
   {
-    "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
-    "addr": "145.239.144.76",
-    "port": 8530,
-    "removed": 1736641996
-  },
-  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -1434,12 +1428,6 @@
     "port": 28200
   },
   {
-    "name": "[ITA/ENG] WildWolf  Clan | The New Era | (LOW PING)  Server 1#",
-    "addr": "176.57.140.64",
-    "port": 28300,
-    "removed": 1736641996
-  },
-  {
     "name": "HLL Official - Europe #19",
     "addr": "176.57.140.73",
     "port": 28000
@@ -2073,7 +2061,7 @@
     "port": 28200
   },
   {
-    "name": "PARABELLUM COMMUNITY RIVALS",
+    "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
     "addr": "176.57.171.7",
     "port": 28300
   },
@@ -3486,7 +3474,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737248391
   },
   {
     "name": "[GER][ENG] Fastest HLL Server by Qonzer.com",
@@ -4151,12 +4140,6 @@
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "45.137.246.2",
     "port": 28000
-  },
-  {
-    "name": "Broken Earth (US West) Warfare - Best Maps",
-    "addr": "45.137.246.2",
-    "port": 28100,
-    "removed": 1736641996
   },
   {
     "name": "HLL Official - US West #15",
@@ -6751,7 +6734,6 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777,
-    "removed": 1737246706
+    "port": 7777
   }
 ]
