@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -501,7 +501,7 @@
     "port": 9620
   },
   {
-    "name": "DEV #1 XYZ",
+    "name": "ENG/PL KEBAB MESZANA LOW PING",
     "addr": "146.59.52.47",
     "port": 10165
   },
@@ -711,7 +711,7 @@
     "port": 7797
   },
   {
-    "name": "[TR] İstanbul Server #01 - Sadece Warfare",
+    "name": "[TR] Türk Silahlı Kuvvetleri #01 - Turkish Only",
     "addr": "156.67.62.23",
     "port": 7807
   },
@@ -1160,8 +1160,7 @@
   {
     "name": "HLL Official - Australia #04",
     "addr": "176.57.135.34",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #02",
@@ -1171,8 +1170,7 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "176.57.135.48",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1800,7 +1798,7 @@
     "removed": 1736923090
   },
   {
-    "name": "[3IRD] Ukrainian Events Server | UA/EN discord.gg/3irdua",
+    "name": "[3IRD] Ukrainian Skirmish Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.168.91",
     "port": 28000
   },
@@ -2075,7 +2073,7 @@
     "port": 28200
   },
   {
-    "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
+    "name": "PARABELLUM COMMUNITY RIVALS",
     "addr": "176.57.171.7",
     "port": 28300
   },
@@ -3271,8 +3269,7 @@
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
     "addr": "195.82.158.186",
-    "port": 21300,
-    "removed": 1737226920
+    "port": 21300
   },
   {
     "name": "CZ/SK svet",
@@ -3402,12 +3399,12 @@
     "port": 9058
   },
   {
-    "name": "C11N1#燕云十六声中又有清河蔓延萌新茶馆|12.07481",
+    "name": "JP1#燕云声中有清河蔓延萌.新茶馆|12.0748151",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C11N2#燕云十六声中又有青丝竹缕攻防茶馆|12.07481",
+    "name": "JP2#燕云声中有开封盛世攻.防茶馆|12.0748151",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3452,7 +3449,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK EVENT",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3482,7 +3479,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3602,7 +3599,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -4990,6 +4987,11 @@
     "port": 8530
   },
   {
+    "name": "6th Recon Division [6RCN] NA-EAST",
+    "addr": "51.222.44.122",
+    "port": 8530
+  },
+  {
     "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
@@ -5446,7 +5448,7 @@
     "port": 8530
   },
   {
-    "name": "BRASIL CAPITAL LEVEL30 SERVER BR DISCORD https://discord.gg/qxZ",
+    "name": "BRASIL CAPITAL SERVER BR | DISCORD https://discord.gg/bCEVHsTCu",
     "addr": "78.111.102.114",
     "port": 28500
   },
@@ -5684,8 +5686,7 @@
   {
     "name": "HLL Official - Asia #23",
     "addr": "83.223.197.170",
-    "port": 28000,
-    "removed": 1737160073
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #25",
@@ -5987,6 +5988,11 @@
     "name": "вит | Bad Intentions Server #2 [US EAST]",
     "addr": "83.223.204.123",
     "port": 28200
+  },
+  {
+    "name": "Hell let loose (Virgil's Training Server)",
+    "addr": "83.223.204.123",
+    "port": 28300
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -6515,26 +6521,22 @@
   {
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.22",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #18",
     "addr": "94.250.221.22",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #22",
     "addr": "94.250.221.22",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #29",
     "addr": "94.250.221.22",
-    "port": 28300,
-    "removed": 1737226920
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #34",
@@ -6544,8 +6546,7 @@
   {
     "name": "HLL Official - Australia #41",
     "addr": "94.250.221.22",
-    "port": 28500,
-    "removed": 1737226920
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #48",
@@ -6560,14 +6561,12 @@
   {
     "name": "HLL Official - Australia #13",
     "addr": "94.250.221.23",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #21",
     "addr": "94.250.221.23",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #28",
@@ -6587,20 +6586,17 @@
   {
     "name": "HLL Official - Australia #05",
     "addr": "94.250.221.25",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #16",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #19",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #30",
@@ -6615,8 +6611,7 @@
   {
     "name": "HLL Official - Australia #42",
     "addr": "94.250.221.25",
-    "port": 28500,
-    "removed": 1737226920
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #47",
@@ -6626,8 +6621,7 @@
   {
     "name": "HLL Official - Australia #09",
     "addr": "94.250.221.26",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #17",
@@ -6657,56 +6651,47 @@
   {
     "name": "HLL Official - Australia #08",
     "addr": "94.250.221.27",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #14",
     "addr": "94.250.221.27",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #23",
     "addr": "94.250.221.27",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #38",
     "addr": "94.250.221.27",
-    "port": 28300,
-    "removed": 1737226920
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #43",
     "addr": "94.250.221.27",
-    "port": 28400,
-    "removed": 1737226920
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #44",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1737226920
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #07",
     "addr": "94.250.221.35",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #12",
     "addr": "94.250.221.35",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #20",
     "addr": "94.250.221.35",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #26",
@@ -6731,20 +6716,17 @@
   {
     "name": "HLL Official - Australia #06",
     "addr": "94.250.221.36",
-    "port": 28000,
-    "removed": 1737226920
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.36",
-    "port": 28100,
-    "removed": 1737226920
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #25",
     "addr": "94.250.221.36",
-    "port": 28200,
-    "removed": 1737226920
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #27",
@@ -6769,6 +6751,7 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737246706
   }
 ]
