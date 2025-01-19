@@ -317,7 +317,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -334,7 +334,8 @@
   {
     "name": "GARRYBUSTERS INC | discord.gg/garrybusters",
     "addr": "139.99.209.215",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737310058
   },
   {
     "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
@@ -2060,7 +2061,7 @@
     "port": 28200
   },
   {
-    "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
+    "name": "PARABELLUM COMMUNITY RIVALS ",
     "addr": "176.57.171.7",
     "port": 28300
   },
@@ -2437,7 +2438,7 @@
     "port": 28200
   },
   {
-    "name": "[UK] Hearts of Bruh By Luna Developments.",
+    "name": "[UK] Hearts of Bruh By Luna Developments - UPDATED RULES (Seedi",
     "addr": "176.57.178.15",
     "port": 28000
   },
@@ -2846,7 +2847,7 @@
     "port": 8530
   },
   {
-    "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/6vx9Sx",
+    "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
     "addr": "185.206.151.30",
     "port": 8530
   },
@@ -2957,7 +2958,8 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3207,8 +3209,7 @@
   {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
     "addr": "195.181.175.172",
-    "port": 7787,
-    "removed": 1737160073
+    "port": 7787
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -3247,6 +3248,11 @@
     "addr": "195.82.158.186",
     "port": 20600,
     "removed": 1736856662
+  },
+  {
+    "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
+    "addr": "195.82.158.186",
+    "port": 20700
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -3466,7 +3472,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -5394,27 +5400,32 @@
   {
     "name": "Dark Horizon LVL 10+ |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #6 SPONSORED QONZER.COM",
     "addr": "69.162.89.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "(IC) Offensive Heaven | US Central #3 | discord.gg/icoh",
     "addr": "69.162.89.150",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737310058
   },
   {
     "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
@@ -5464,7 +5475,8 @@
   {
     "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | ",
     "addr": "79.141.174.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737310058
   },
   {
     "name": "[EU] Nordic war 24/7",
@@ -5479,8 +5491,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737288590
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5495,8 +5506,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1737223664
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5802,7 +5812,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737310058
   },
   {
     "name": "HLL Official - Asia #05",
@@ -5862,7 +5873,8 @@
   {
     "name": "CN#1801极北蔷薇社区攻防服务器 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737310058
   },
   {
     "name": "HLL Official - US East  ",
@@ -5914,7 +5926,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737310058
   },
   {
     "name": "HELLFOXES SKIRMISH PLAYGROUND -(US East) Low Ping",
@@ -6045,6 +6058,11 @@
     "name": "[US] [ENG] Sigma Let Loose | Farming XP and Roles",
     "addr": "83.223.207.50",
     "port": 28500
+  },
+  {
+    "name": "420th Prayer Division",
+    "addr": "83.223.207.55",
+    "port": 28000
   },
   {
     "name": "The Practice Range",
@@ -6427,7 +6445,8 @@
   {
     "name": "HLL Official - South America #19",
     "addr": "92.38.151.75",
-    "port": 28400
+    "port": 28400,
+    "removed": 1737310058
   },
   {
     "name": "HLL Official - South America #20",
