@@ -5485,7 +5485,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737311647
   },
   {
     "name": "HLL Official - Asia #07",
@@ -6439,8 +6440,7 @@
   {
     "name": "HLL Official - South America #19",
     "addr": "92.38.151.75",
-    "port": 28400,
-    "removed": 1737310058
+    "port": 28400
   },
   {
     "name": "HLL Official - South America #20",
