@@ -3141,8 +3141,7 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1737205738
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #01",
@@ -3833,7 +3832,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737292174
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5462,7 +5462,7 @@
     "port": 9620
   },
   {
-    "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | discord.gg/Vu55R9Q",
+    "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | ",
     "addr": "79.141.174.116",
     "port": 8530
   },
