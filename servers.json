@@ -215,7 +215,7 @@
     "port": 28600
   },
   {
-    "name": "Another mysterious server",
+    "name": "Man !",
     "addr": "104.238.222.122",
     "port": 7777
   },
@@ -1506,7 +1506,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737266903
   },
   {
     "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -1526,8 +1527,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1737180474
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -1914,8 +1914,7 @@
   {
     "name": "HLL Official - Europe #122",
     "addr": "176.57.171.120",
-    "port": 28500,
-    "removed": 1737180474
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #133",
@@ -2429,7 +2428,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737266903
   },
   {
     "name": "QA Testing - UK #07",
@@ -2444,8 +2444,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1737094158
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -2562,7 +2561,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737266903
   },
   {
     "name": "QA Testing - EU #10",
@@ -2692,7 +2692,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1737266903
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
@@ -3474,8 +3475,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1737248391
+    "port": 7777
   },
   {
     "name": "[GER][ENG] Fastest HLL Server by Qonzer.com",
@@ -5022,7 +5022,8 @@
   {
     "name": "[UA] Ukraine Unity Frontline #1 HLL discord.gg/uuf",
     "addr": "51.83.150.42",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737266903
   },
   {
     "name": "[UA] Ukraine Unity Frontline #2 HLL discord.gg/uuf",
@@ -5216,7 +5217,7 @@
     "port": 9075
   },
   {
-    "name": "JP#1二次元聚集地纯攻防(禁炮)日服Q群1015690448",
+    "name": "[US West]Femboy's Family!Meow!ENG ONLY",
     "addr": "64.31.11.26",
     "port": 9620
   },
