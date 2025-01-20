@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -413,7 +413,7 @@
     "port": 8530
   },
   {
-    "name": "A Czech Warrior Spot",
+    "name": "Normandy campaign only",
     "addr": "141.95.35.163",
     "port": 8530
   },
@@ -491,7 +491,7 @@
     "port": 9075
   },
   {
-    "name": "[PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.com/invite/bppNFv2",
+    "name": "[5CITY] [PL/ENG] Czterej Pancerni i Fajterek discord.gg/5cityhl",
     "addr": "146.59.52.33",
     "port": 9620
   },
@@ -615,7 +615,8 @@
   {
     "name": "<CN>#1 TT天堂萌新俱乐部(投票地图)Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797
+    "port": 7797,
+    "removed": 1737396514
   },
   {
     "name": "CN淘宝人间地狱工作室服务器出租兵种代刷",
@@ -640,7 +641,7 @@
     "port": 7837
   },
   {
-    "name": "CN.hk【PUMA】耐睡王男娘米米服q746699634",
+    "name": "hk【PUMA】Madarin server q746699634",
     "addr": "156.146.44.225",
     "port": 7847
   },
@@ -1418,7 +1419,7 @@
     "port": 28700
   },
   {
-    "name": "PL/ENG | ErikaGaming | LOW PING & NEW PLAYERS WELCOME",
+    "name": "POLSKI SERWER | ERIKAGAMING | LOW PING & NEW PLAYERS WELCOME",
     "addr": "176.57.140.64",
     "port": 28000
   },
@@ -1969,7 +1970,7 @@
     "port": 28200
   },
   {
-    "name": "[FR] No Rules, No Seed viens t'amuser",
+    "name": "[FR] Tout est plein, viens ici",
     "addr": "176.57.171.161",
     "port": 28300
   },
@@ -2181,8 +2182,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.173.119",
-    "port": 28000,
-    "removed": 1737375093
+    "port": 28000
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -2692,7 +2692,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #33 CHILE | discord.clanctm.cl",
+    "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -2862,11 +2862,17 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737396514
   },
   {
     "name": "D55L Donner Legion PL",
     "addr": "185.38.150.51",
+    "port": 8530
+  },
+  {
+    "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
+    "addr": "185.83.152.101",
     "port": 8530
   },
   {
@@ -2888,7 +2894,8 @@
   {
     "name": "[EU] deinHell - Beginners welcome",
     "addr": "188.40.122.93",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737396514
   },
   {
     "name": "[GER] Feldfunk",
@@ -2948,8 +2955,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2998,8 +3004,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -3009,8 +3014,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
@@ -3035,8 +3039,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1737378173
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3279,7 +3282,7 @@
     "port": 8530
   },
   {
-    "name": "☆ UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players Welcome",
+    "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players We",
     "addr": "198.244.177.7",
     "port": 9620
   },
@@ -3459,7 +3462,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3616,8 +3619,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA -LiveCMD Chat -discord.gg/etool -Qonzer",
@@ -3654,7 +3656,8 @@
   {
     "name": "[GR] Gorgopotamos - Greek/English HLL server - Europe - Warfare",
     "addr": "213.136.80.177",
-    "port": 28600
+    "port": 28600,
+    "removed": 1737396514
   },
   {
     "name": "[GER] [MIC] {DSDV} Die Schmiede der Verdammten Discord: Qd9xVEj",
@@ -3664,7 +3667,8 @@
   {
     "name": "Builders UTD",
     "addr": "213.136.88.87",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737396514
   },
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
@@ -5060,7 +5064,7 @@
     "port": 9620
   },
   {
-    "name": "RealityShowTV EU 2",
+    "name": "RealityShowTV EU",
     "addr": "51.89.64.100",
     "port": 8530
   },
@@ -5252,7 +5256,7 @@
     "port": 8530
   },
   {
-    "name": "CN1#米奇妙妙屋的萌.新宝宝乐园j.p|Q975625508",
+    "name": "CN#米奇妙妙屋的萌新宝宝乐园j.p|Q975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -5269,8 +5273,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1737378173
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5435,7 +5438,8 @@
   {
     "name": "RoidedEwok's ***Offensive Only*** HLL Server",
     "addr": "78.142.218.164",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737396514
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -5475,8 +5479,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5797,8 +5800,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1737310058
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -5909,8 +5911,7 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1737310058
+    "port": 28000
   },
   {
     "name": "HELLFOXES SKIRMISH PLAYGROUND -(US East) Low Ping",
@@ -6050,6 +6051,11 @@
     "name": "Durty Dozen",
     "addr": "83.223.207.55",
     "port": 28700
+  },
+  {
+    "name": "[9COH] - 9 Circles Of Hell - NEW PLAYERS - discord.gg/MQqpyNHJZ",
+    "addr": "85.10.193.130",
+    "port": 8530
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -6376,8 +6382,7 @@
   {
     "name": "PC Gamers - LATAM",
     "addr": "92.118.19.142",
-    "port": 7777,
-    "removed": 1737378173
+    "port": 7777
   },
   {
     "name": "OFFENSIVE [HELL] | US CENTRAL | DISCORD.GG/HH-GAMING",
