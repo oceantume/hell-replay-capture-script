@@ -47,8 +47,7 @@
   {
     "name": "[CN]COH狗叫大队,Everyone Welcome JP QQ群：558699689",
     "addr": "103.62.49.39",
-    "port": 8938,
-    "removed": 1737289567
+    "port": 8938
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -271,7 +270,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose #2 | Private event for this weekend",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -384,7 +383,7 @@
     "port": 9620
   },
   {
-    "name": "[GER]101st Airborne Division/WIR REKRUTIEREN / Website: 101stai",
+    "name": "[GER]101st Airborne Division/WIR REKRUTIEREN/101stairbornedivis",
     "addr": "141.95.34.126",
     "port": 10165
   },
@@ -586,6 +585,11 @@
   {
     "name": "2nd Armored | US CENTRAL | discord.gg/2ad",
     "addr": "154.16.170.225",
+    "port": 8530
+  },
+  {
+    "name": "ZuluFoxtrot Gaming | Coming Soon",
+    "addr": "154.16.200.156",
     "port": 8530
   },
   {
@@ -2418,8 +2422,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1737266903
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -2551,8 +2554,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200,
-    "removed": 1737266903
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #10",
@@ -3048,7 +3050,7 @@
     "port": 7777
   },
   {
-    "name": "10th Mountain Division ᄿ Event/Training : discord.gg/10thMD",
+    "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
     "port": 8530
   },
@@ -3239,14 +3241,12 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1737336965
+    "port": 20700
   },
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1737336965
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3528,7 +3528,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737353377
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -4951,10 +4952,9 @@
     "port": 8530
   },
   {
-    "name": "#01 ESP DESEMBARCO EN NORMANDIA Spanish/Español",
+    "name": "#01 ESP LEGIÓN DE HIERRO (Spanish Only) https://discord.gg/Qqj",
     "addr": "51.195.190.147",
-    "port": 9075,
-    "removed": 1737336965
+    "port": 9075
   },
   {
     "name": "A Hell Let Loose PL",
@@ -5351,8 +5351,7 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1737332994
+    "port": 7777
   },
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
@@ -5407,8 +5406,7 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777,
-    "removed": 1737310058
+    "port": 7777
   },
   {
     "name": "<COBRAS FUMANTES> MARRAM #6 SPONSORED QONZER.COM",
@@ -6288,8 +6286,7 @@
   {
     "name": "⑦ | THE CIRCLE #7 | WET TREE! | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
-    "port": 7817,
-    "removed": 1737336965
+    "port": 7817
   },
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
@@ -6305,6 +6302,11 @@
     "name": "[FR] Régiment Regis | 100% OPTIMISÉ | Discord.gg/Regis ! ",
     "addr": "91.134.56.12",
     "port": 7847
+  },
+  {
+    "name": "hll Server",
+    "addr": "91.134.56.12",
+    "port": 7887
   },
   {
     "name": "[ESP] L.C.K. España [Spain] LVL+20",
