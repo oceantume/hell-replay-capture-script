@@ -316,7 +316,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -350,12 +350,6 @@
     "name": "[Cult] Moscow | discord.cultcity.ru | Russian Public Server",
     "addr": "141.105.66.70",
     "port": 8530
-  },
-  {
-    "name": "[TSA] Russian server [RU] tsa-server.ru/discord",
-    "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1736878118
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -758,7 +752,8 @@
   {
     "name": "[PL] [EU] Polski Serwer HLL",
     "addr": "168.119.79.144",
-    "port": 10165
+    "port": 10165,
+    "removed": 1737482940
   },
   {
     "name": "Hell Let Loose LTCOM [LT/EU}",
@@ -1150,7 +1145,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1160,7 +1156,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1487,12 +1484,6 @@
     "name": "HLL Official - Europe #209",
     "addr": "176.57.140.94",
     "port": 28300
-  },
-  {
-    "name": "QA Testing - EU #08",
-    "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1736878118
   },
   {
     "name": "HLL Official - Europe #219",
@@ -2052,7 +2043,8 @@
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
     "addr": "176.57.171.7",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Europe #155",
@@ -2846,7 +2838,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737482940
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2937,8 +2930,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1737464538
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2987,8 +2979,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1737464538
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2998,8 +2989,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1737464538
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
@@ -3024,8 +3014,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1737464538
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3110,7 +3099,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - US West #81",
@@ -3125,7 +3115,8 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - US West #01",
@@ -3136,12 +3127,6 @@
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
     "port": 28100
-  },
-  {
-    "name": "QA Testing - US West #06",
-    "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1736878118
   },
   {
     "name": "HLL Official - US West #80",
@@ -3430,7 +3415,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3580,10 +3565,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "  ! [TBG] SEASONED SOLDIERS | LEVEL 50+ | DISCORD.GG/TBGCLAN | ",
     "addr": "208.115.250.5",
-    "port": 7787,
-    "removed": 1737464538
+    "port": 7787
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -3593,8 +3577,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1737464538
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3651,7 +3634,7 @@
     "port": 28300
   },
   {
-    "name": "[GER/AT][Lvl.25+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
+    "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
     "addr": "213.136.88.87",
     "port": 28400
   },
@@ -3662,10 +3645,9 @@
     "removed": 1737160073
   },
   {
-    "name": "NomNom",
+    "name": "Hell let loose (EU) Server by Cubefighter_Gaming  :-)",
     "addr": "213.136.88.87",
-    "port": 28600,
-    "removed": 1737332994
+    "port": 28600
   },
   {
     "name": "[PL] Elitarni - Polski serwer #1. |Vip 15PLN Admin: Konkordzik",
@@ -3678,15 +3660,19 @@
     "port": 28000
   },
   {
-    "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
+    "name": "Blitzkrieg [ESP] #1 - Español",
     "addr": "213.136.94.160",
-    "port": 28100,
-    "removed": 1737223664
+    "port": 28100
   },
   {
     "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/cPAGjECexc // Wel",
     "addr": "213.136.94.160",
     "port": 28200
+  },
+  {
+    "name": "Mr Turk Group #1 Turks Server | Discord : https://discord.gg/mr",
+    "addr": "213.136.94.160",
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -4765,7 +4751,8 @@
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "45.143.199.200",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737482940
   },
   {
     "name": "Testing1337",
@@ -4807,7 +4794,8 @@
   {
     "name": "[ GER ] #DTT Eventserver | Trümmertruppe",
     "addr": "46.4.97.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737482940
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
@@ -4947,7 +4935,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] Only-Frères de Tranchées [FTC]-discord.gg/Uuw4NRVc",
+    "name": "[FR Only] Frères de Tranchées [FTC]-discord.gg/Uuw4NRVc",
     "addr": "51.210.34.97",
     "port": 8530
   },
@@ -5097,7 +5085,7 @@
     "port": 7807
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 50+",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 40+",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -5266,8 +5254,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1737464538
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5451,12 +5438,12 @@
     "port": 9075
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
+    "name": "[FR|TDA] La Tempête d'Acier.com | *** ~ | Admin 24/24 | Mic ON",
     "addr": "79.137.89.136",
     "port": 9620
   },
   {
-    "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | ",
+    "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
     "addr": "79.141.174.116",
     "port": 8530
   },
@@ -5473,7 +5460,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5488,7 +5476,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5734,7 +5723,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737482940
   },
   {
     "name": "HLL Official - Asia #05",
@@ -5933,12 +5923,6 @@
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
     "port": 28000
-  },
-  {
-    "name": "QA Testing - US East #09",
-    "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1736878118
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
