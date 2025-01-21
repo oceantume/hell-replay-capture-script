@@ -537,7 +537,7 @@
     "port": 9075
   },
   {
-    "name": "HLL Official - Singapore #02 https://discord.gg/UaYGXp34vw",
+    "name": "HLL Philippine Server | https://discord.gg/UaYGXp34vw",
     "addr": "15.235.226.40",
     "port": 8530
   },
@@ -3557,8 +3557,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "208.115.226.3",
-    "port": 7777,
-    "removed": 1737439765
+    "port": 7777
   },
   {
     "name": "WTH Training Server",
@@ -5172,6 +5171,11 @@
     "addr": "63.143.62.94",
     "port": 7777,
     "removed": 1737007762
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.20.34.114",
+    "port": 8530
   },
   {
     "name": "House of FeaR - New Players Welcome!",
