@@ -698,12 +698,14 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737423239
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737423239
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -714,17 +716,20 @@
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #01 - Turkish Only",
     "addr": "156.67.62.23",
-    "port": 7807
+    "port": 7807,
+    "removed": 1737423239
   },
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7817
+    "port": 7817,
+    "removed": 1737423239
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827
+    "port": 7827,
+    "removed": 1737423239
   },
   {
     "name": "BPNL Frontline Warfare Europe",
@@ -2752,7 +2757,7 @@
     "port": 8772
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
+    "name": "<COBRAS FUMANTES> MARRAM #1 lvl +30 DISCORD.GOLD",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -3239,7 +3244,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1737423239
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3659,13 +3665,13 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737423239
   },
   {
-    "name": "[GER/AT][ZGR]Willkommen Zuhause![German Mic|Active Admins]",
+    "name": "[GER/AT][Lvl.25+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1737420909
+    "port": 28400
   },
   {
     "name": "Polski Server 100 SLOTS",
@@ -5460,7 +5466,8 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
     "addr": "79.137.89.136",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737423239
   },
   {
     "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | ",
@@ -6054,7 +6061,7 @@
     "port": 28700
   },
   {
-    "name": "[9COH] - 9 Circles Of Hell - NEW PLAYERS - discord.gg/MQqpyNHJZ",
+    "name": "[9COH] - 9 Circles Of Hell - NEW PLAYERS - discord.gg/k7dJCWSj5",
     "addr": "85.10.193.130",
     "port": 8530
   },
@@ -6206,8 +6213,7 @@
   {
     "name": "<CN>#3 JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7597,
-    "removed": 1737375093
+    "port": 7597
   },
   {
     "name": "CN1#JP ODST地狱空降师/Xpp/萌新小窝/QQ群：478583207",
@@ -6222,8 +6228,7 @@
   {
     "name": "<CN>#2 JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7787,
-    "removed": 1737375093
+    "port": 7787
   },
   {
     "name": "<CN>#6 TT天堂萌新俱乐部（遭遇战）Q群：578097070",
