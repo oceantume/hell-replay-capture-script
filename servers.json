@@ -698,38 +698,32 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7777,
-    "removed": 1737423239
+    "port": 7777
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7787,
-    "removed": 1737423239
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7797,
-    "removed": 1737419320
+    "port": 7797
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #01 - Turkish Only",
     "addr": "156.67.62.23",
-    "port": 7807,
-    "removed": 1737423239
+    "port": 7807
   },
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7817,
-    "removed": 1737423239
+    "port": 7817
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827,
-    "removed": 1737423239
+    "port": 7827
   },
   {
     "name": "BPNL Frontline Warfare Europe",
@@ -1899,7 +1893,8 @@
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737439765
   },
   {
     "name": "HLL Official - Europe #52",
@@ -1929,7 +1924,8 @@
   {
     "name": "HLL Official - Europe #146",
     "addr": "176.57.171.120",
-    "port": 28700
+    "port": 28700,
+    "removed": 1737439765
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -3244,8 +3240,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1737423239
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3521,7 +3516,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737439765
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3561,7 +3557,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "208.115.226.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737439765
   },
   {
     "name": "WTH Training Server",
@@ -3665,8 +3662,7 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1737423239
+    "port": 28300
   },
   {
     "name": "[GER/AT][Lvl.25+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -5466,8 +5462,7 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
     "addr": "79.137.89.136",
-    "port": 9620,
-    "removed": 1737423239
+    "port": 9620
   },
   {
     "name": "[MSB] Formation Skithög LVL 20+ | SWE/ENG | ",
@@ -5487,7 +5482,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737439765
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5563,66 +5559,6 @@
     "name": "HLL Official - Asia #63",
     "addr": "83.223.197.160",
     "port": 28900
-  },
-  {
-    "name": "HLL Official - Asia #12",
-    "addr": "83.223.197.161",
-    "port": 28000,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #16",
-    "addr": "83.223.197.161",
-    "port": 28100,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #20",
-    "addr": "83.223.197.161",
-    "port": 28200,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #28",
-    "addr": "83.223.197.161",
-    "port": 28300,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #34",
-    "addr": "83.223.197.161",
-    "port": 28400,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #39",
-    "addr": "83.223.197.161",
-    "port": 28500,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #45",
-    "addr": "83.223.197.161",
-    "port": 28600,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #55",
-    "addr": "83.223.197.161",
-    "port": 28700,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #59",
-    "addr": "83.223.197.161",
-    "port": 28800,
-    "removed": 1736834948
-  },
-  {
-    "name": "HLL Official - Asia #68",
-    "addr": "83.223.197.161",
-    "port": 28900,
-    "removed": 1736834948
   },
   {
     "name": "HLL Official - Asia #13",
@@ -5868,8 +5804,7 @@
   {
     "name": "CN#1801极北蔷薇社区攻防服务器 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1737310058
+    "port": 28200
   },
   {
     "name": "HLL Official - US East  ",
