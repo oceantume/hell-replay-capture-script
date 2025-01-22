@@ -62,12 +62,14 @@
   {
     "name": "[CN]国服金色切尔西萌新基地，Q群：425375843",
     "addr": "103.62.49.49",
-    "port": 8908
+    "port": 8908,
+    "removed": 1737571125
   },
   {
     "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
-    "port": 8918
+    "port": 8918,
+    "removed": 1737571125
   },
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
@@ -419,6 +421,11 @@
   {
     "name": "[FR] 7ème Compagnie #1/3  》100% FR  》STATS  》discord.gg/",
     "addr": "145.239.131.234",
+    "port": 8530
+  },
+  {
+    "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
+    "addr": "145.239.144.76",
     "port": 8530
   },
   {
@@ -2825,7 +2832,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737571125
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3193,8 +3201,7 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1737570279
+    "port": 20700
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -5465,8 +5472,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737570279
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
