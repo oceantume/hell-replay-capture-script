@@ -62,14 +62,12 @@
   {
     "name": "[CN]国服金色切尔西萌新基地，Q群：425375843",
     "addr": "103.62.49.49",
-    "port": 8908,
-    "removed": 1737571125
+    "port": 8908
   },
   {
     "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
-    "port": 8918,
-    "removed": 1737571125
+    "port": 8918
   },
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
@@ -2631,7 +2629,8 @@
   {
     "name": "Lehrjahr 24/25",
     "addr": "176.57.181.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737571721
   },
   {
     "name": "PL ARHN.EU Polski Serwer Saigi",
