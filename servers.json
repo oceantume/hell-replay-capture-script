@@ -1493,7 +1493,8 @@
   {
     "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737526175
   },
   {
     "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -1553,7 +1554,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737526175
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1633,7 +1635,8 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737526175
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 9.9 | ENDGAME | QS | OINK",
@@ -1880,8 +1883,7 @@
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100,
-    "removed": 1737439765
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #52",
@@ -1911,8 +1913,7 @@
   {
     "name": "HLL Official - Europe #146",
     "addr": "176.57.171.120",
-    "port": 28700,
-    "removed": 1737439765
+    "port": 28700
   },
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
@@ -3206,8 +3207,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1737509692
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3477,7 +3477,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737526175
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3749,8 +3750,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
-    "port": 7777,
-    "removed": 1737505763
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -4096,7 +4096,8 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737526175
   },
   {
     "name": "HLL Official - US West #15",
@@ -5223,7 +5224,7 @@
     "port": 10710
   },
   {
-    "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
+    "name": "LGBT Defense club | New Players Welcome | 556560029",
     "addr": "64.31.11.50",
     "port": 11255
   },
@@ -5248,7 +5249,7 @@
     "port": 8530
   },
   {
-    "name": "CN#米奇妙妙屋的萌新宝宝乐园j.p|Q975625508",
+    "name": "CN#米奇妙妙屋的萌新宝宝乐园|jp|Q975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -5874,7 +5875,7 @@
     "port": 28300
   },
   {
-    "name": "[NEW PLAYERS WELCOME] M Jew 42 - Offensive Heaven",
+    "name": "(IC) Offensive Heaven I US East I discord.gg.icoh",
     "addr": "83.223.203.51",
     "port": 28400
   },
