@@ -2865,8 +2865,7 @@
   {
     "name": "[ITA/EU] PIZZA LET LOOSE PLL- https://discord.gg/VpgVW84U",
     "addr": "188.64.33.118",
-    "port": 8530,
-    "removed": 1737547870
+    "port": 8530
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -3660,7 +3659,8 @@
   {
     "name": "Mr Turk Group #1 Turks Server | Discord : https://discord.gg/mr",
     "addr": "213.136.94.160",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737550106
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
