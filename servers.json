@@ -32,7 +32,8 @@
   {
     "name": "[CN]JP AFZ萌新1服|Q群:809972300",
     "addr": "103.62.49.39",
-    "port": 8908
+    "port": 8908,
+    "removed": 1737527952
   },
   {
     "name": "<CN>ARO（原TR）MAGA！ JP Q群703608483",
@@ -1183,12 +1184,6 @@
     "port": 28200
   },
   {
-    "name": "=V=Invictus & (PRB)Parabellum | Pub Server | ENG/HUN |",
-    "addr": "176.57.140.181",
-    "port": 29700,
-    "removed": 1736923090
-  },
-  {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
     "port": 30700
@@ -1767,12 +1762,6 @@
     "name": "[BxB] - Black Bees Server - [ESP] ",
     "addr": "176.57.168.69",
     "port": 28200
-  },
-  {
-    "name": "=V= Invictus EU/UK | Event server | Discord.gg/InvictusHLL",
-    "addr": "176.57.168.69",
-    "port": 28400,
-    "removed": 1736923090
   },
   {
     "name": "[3IRD] Ukrainian Skirmish Server | UA/EN discord.gg/3irdua",
@@ -3169,7 +3158,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] ORION | German Server | Only Mic » !votemap",
+    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
     "addr": "195.181.175.172",
     "port": 7787
   },
@@ -3745,8 +3734,7 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.53",
-    "port": 7877,
-    "removed": 1737527109
+    "port": 7877
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
