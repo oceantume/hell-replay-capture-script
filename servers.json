@@ -300,12 +300,6 @@
     "port": 8530
   },
   {
-    "name": "[GER] Ballerbude NEW! | Neuespieler willkommmen",
-    "addr": "136.243.82.234",
-    "port": 9075,
-    "removed": 1737050914
-  },
-  {
     "name": "ZOO - Match server",
     "addr": "138.201.16.137",
     "port": 8530
@@ -321,7 +315,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -503,8 +497,7 @@
   {
     "name": "PL/ENG KEBAB MESZANA | LOW PING | DISCORD.GG/KEBABM",
     "addr": "146.59.52.47",
-    "port": 10165,
-    "removed": 1737634287
+    "port": 10165
   },
   {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
@@ -2798,7 +2791,8 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
     "addr": "185.206.151.118",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737655733
   },
   {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
@@ -2899,8 +2893,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1737637351
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2949,8 +2942,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1737637351
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2960,8 +2952,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1737637351
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
@@ -2986,8 +2977,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1737637351
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3003,6 +2993,11 @@
     "name": "Current Level: Gavin's Fire Frenzy(D1CK)",
     "addr": "192.169.93.236",
     "port": 7777
+  },
+  {
+    "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
+    "addr": "192.169.93.237",
+    "port": 7817
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -3142,6 +3137,11 @@
     "port": 30000
   },
   {
+    "name": "[FR|TDA] La Tempête d'Acier.com | Test | Admin 24/7 | Mic ON",
+    "addr": "194.164.96.82",
+    "port": 8530
+  },
+  {
     "name": "(UK) Legends At War Community Server",
     "addr": "195.140.215.54",
     "port": 8530
@@ -3203,7 +3203,8 @@
   {
     "name": "Server Off: Zapraszam [PL] Elitarni #1 oraz #2",
     "addr": "195.82.158.186",
-    "port": 21600
+    "port": 21600,
+    "removed": 1737655733
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3219,6 +3220,11 @@
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Players We",
     "addr": "198.244.177.7",
     "port": 9620
+  },
+  {
+    "name": "DK/ENG Hell Let Loose - Danmark # 2 © www.hellletloose.dk",
+    "addr": "198.244.177.84",
+    "port": 8530
   },
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
@@ -3311,7 +3317,7 @@
     "port": 8998
   },
   {
-    "name": "Cn/Beta萌新高利贷社区/jp/群号955048191",
+    "name": "cn/JP/Beta Newcomer Community Server/Q955048191",
     "addr": "203.10.99.7",
     "port": 9058
   },
@@ -3366,7 +3372,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK EVENT",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3396,7 +3402,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3558,8 +3564,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1737637351
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3593,10 +3598,9 @@
     "port": 28300
   },
   {
-    "name": "[Gutta På Skauen] | ENG/NOR | Beginner Friendly",
+    "name": " (EU) 千杯不醒咖啡屋 节点：欧洲  群号：102381769",
     "addr": "213.136.80.177",
-    "port": 28400,
-    "removed": 1737137317
+    "port": 28400
   },
   {
     "name": "[GR] Gorgopotamos - Greek/English HLL server - Europe - Warfare",
@@ -3684,7 +3688,7 @@
     "port": 8530
   },
   {
-    "name": "Mikey Bob Loyal 9 Hot Dog Soul Garrison Builders Easy - 5 Day V",
+    "name": "hoofclan.com - 5 Day VIP Seeding - Mikey Bob Loyal 9 Hot Dog So",
     "addr": "216.173.119.202",
     "port": 9075
   },
@@ -3763,8 +3767,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1737637351
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4863,7 +4866,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Viel Spaß!",
+    "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Seeding+",
     "addr": "5.9.150.142",
     "port": 8530
   },
@@ -4905,7 +4908,8 @@
   {
     "name": "47.Division Geist all Players Welcome",
     "addr": "51.195.190.147",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737655733
   },
   {
     "name": "#01 ESP LEGIÓN DE HIERRO (Spanish Only) https://discord.gg/Qqj",
@@ -4970,7 +4974,7 @@
     "port": 7777
   },
   {
-    "name": "[5CITY #3] [PL/ENG] ",
+    "name": "[5CITY #3] [PL/ENG] BITWA POD FÜNFSTADT ",
     "addr": "51.75.58.125",
     "port": 7777
   },
@@ -5181,7 +5185,7 @@
     "port": 11255
   },
   {
-    "name": "JP/Beta Newcomer Community Server/Q955048191",
+    "name": "cn/JP/Beta 2 Newcomer Community Server/Q955048191",
     "addr": "64.31.11.26",
     "port": 11800
   },
@@ -5258,8 +5262,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1737637351
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5369,7 +5372,8 @@
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.50",
-    "port": 7817
+    "port": 7817,
+    "removed": 1737655733
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -5466,36 +5470,34 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737634287
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1737569350
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1737569350
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737655733
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737655733
   },
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1737569350
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5725,13 +5727,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737655733
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1737482940
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -6114,8 +6116,7 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7177,
-    "removed": 1737637351
+    "port": 7177
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -6135,8 +6136,7 @@
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1737637351
+    "port": 7777
   },
   {
     "name": "<CN>#2 JP北极星萌新服务器Q群：1018176083",
@@ -6177,7 +6177,8 @@
   {
     "name": "<CN>#9 TT天堂萌新俱乐部 (随机图)Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7857
+    "port": 7857,
+    "removed": 1737655733
   },
   {
     "name": "CN#JP 东方幻想乡 KFC外卖热线：245578354",
@@ -6418,7 +6419,7 @@
     "port": 28100
   },
   {
-    "name": "BUNKER BRASIL || SOMENTE PT-BR || LVL 50+ || discord.gg/tXexuHa",
+    "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
     "port": 28600
   },
