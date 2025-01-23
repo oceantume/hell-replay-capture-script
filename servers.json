@@ -40,7 +40,7 @@
     "port": 8918
   },
   {
-    "name": "JP#萌新的攻防甜品店（萌新限杀）|12.074.8151",
+    "name": "CN3#JP#时央的萌新军官攻防营|Q群1022778056",
     "addr": "103.62.49.39",
     "port": 8928
   },
@@ -235,6 +235,11 @@
     "port": 9075
   },
   {
+    "name": "(So1) Sanctuary of the First",
+    "addr": "134.255.240.110",
+    "port": 10200
+  },
+  {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
     "addr": "134.255.240.110",
     "port": 11000
@@ -316,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -337,7 +342,7 @@
     "removed": 1737310058
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server VIP for SEED",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -461,8 +466,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
-    "port": 7787,
-    "removed": 1737572954
+    "port": 7787
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
@@ -764,8 +768,7 @@
   {
     "name": "[PL] [EU] Polski Serwer HLL",
     "addr": "168.119.79.144",
-    "port": 10165,
-    "removed": 1737572954
+    "port": 10165
   },
   {
     "name": "Hell Let Loose LTCOM [LT/EU}",
@@ -831,7 +834,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
-    "port": 7807
+    "port": 7807,
+    "removed": 1737592136
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1201,8 +1205,7 @@
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
     "addr": "176.57.140.196",
-    "port": 28000,
-    "removed": 1737505763
+    "port": 28000
   },
   {
     "name": "[ENG/ITA] WildWolf Server | The New Era | [LOW PING]",
@@ -1422,8 +1425,7 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1737505763
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #19",
@@ -2737,7 +2739,7 @@
     "port": 8772
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #1 lvl +30 DISCORD.GOLD",
+    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -2874,7 +2876,7 @@
     "port": 9075
   },
   {
-    "name": "[ITA/EU] PIZZA LET LOOSE PLL- https://discord.gg/VpgVW84U",
+    "name": "[ENG/EU] NEW PLAYERS WELCOME! PIZZA LET LOOSE PLL- https://disc",
     "addr": "188.64.33.118",
     "port": 8530
   },
@@ -3169,6 +3171,11 @@
     "port": 8530
   },
   {
+    "name": "GSPF - Work In Progres",
+    "addr": "195.140.215.56",
+    "port": 8530
+  },
+  {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
     "addr": "195.181.175.172",
     "port": 7787,
@@ -3213,7 +3220,8 @@
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
     "addr": "195.82.158.186",
-    "port": 21300
+    "port": 21300,
+    "removed": 1737592136
   },
   {
     "name": "Server Off: Zapraszam [PL] Elitarni #1 oraz #2",
@@ -3331,12 +3339,12 @@
     "port": 9058
   },
   {
-    "name": "C.N1#JP#蟹粉的萌新军官欢乐训练营|Q群1022778056",
+    "name": "CN1#JP#蟹粉的萌新军官欢乐训练营|Q群1022778056",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "C.N2#JP#妙手的攻防军官欢乐训练营|Q群1022778056",
+    "name": "CN2#JP#妙手的攻防军官欢乐训练营|Q群1022778056",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3411,7 +3419,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3531,7 +3539,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3594,8 +3602,7 @@
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
     "addr": "213.136.80.177",
-    "port": 28100,
-    "removed": 1737505763
+    "port": 28100
   },
   {
     "name": "mmmeo",
@@ -4088,8 +4095,7 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200,
-    "removed": 1737526175
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #15",
@@ -4798,8 +4804,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1737572270
+    "port": 7807
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
@@ -4946,8 +4951,14 @@
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
-    "addr": "51.222.44.122",
+    "addr": "51.222.248.105",
     "port": 8530
+  },
+  {
+    "name": "6th Recon Division [6RCN] NA-EAST",
+    "addr": "51.222.44.122",
+    "port": 8530,
+    "removed": 1737592136
   },
   {
     "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
@@ -5339,7 +5350,8 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737592136
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
@@ -5455,7 +5467,8 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/24 | Mic ON",
     "addr": "79.137.89.136",
-    "port": 9620
+    "port": 9620,
+    "removed": 1737592136
   },
   {
     "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
@@ -5475,8 +5488,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737572954
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5888,7 +5900,8 @@
   {
     "name": "Realistic Warthunder",
     "addr": "83.223.204.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737592136
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
