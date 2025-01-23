@@ -592,7 +592,7 @@
     "port": 8530
   },
   {
-    "name": "ZuluFoxtrot Gaming | US Central | XP Farm",
+    "name": "ZuluFoxtrot | zf-gaming.com | XP Farmville",
     "addr": "154.16.200.156",
     "port": 8530
   },
@@ -742,8 +742,7 @@
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
-    "port": 8530,
-    "removed": 1737596075
+    "port": 8530
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -828,8 +827,7 @@
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
-    "port": 7807,
-    "removed": 1737592136
+    "port": 7807
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1194,7 +1192,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1737612568
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1554,8 +1553,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1737526175
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1924,12 +1922,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28400
-  },
-  {
-    "name": "91. Panzergrenadierdivision #1 | Warfare only | Mic + Deutsch /",
-    "addr": "176.57.171.158",
-    "port": 28000,
-    "removed": 1737007762
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
@@ -2733,7 +2725,7 @@
     "port": 8772
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD",
+    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GG/COBRASFUMANTES",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -2818,7 +2810,7 @@
     "port": 8530
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com | Lvl test | Admin 24/24 | Mic",
+    "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
     "addr": "185.206.151.118",
     "port": 8530
   },
@@ -3487,7 +3479,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737612568
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3570,7 +3563,7 @@
     "port": 7777
   },
   {
-    "name": "! [TBG] SEASONED SOLDIERS | LEVEL 50+ | DISCORD.GG/TBGCLAN | RE",
+    "name": "! [TBG] SEASONED SOLDIERS | LEVEL 25+ | DISCORD.GG/TBGCLAN | RE",
     "addr": "208.115.250.5",
     "port": 7787
   },
@@ -3641,8 +3634,7 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1737596075
+    "port": 28300
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -3715,14 +3707,12 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1737596075
+    "port": 7797
   },
   {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
-    "port": 7777,
-    "removed": 1737596075
+    "port": 7777
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -4774,12 +4764,12 @@
     "removed": 1737052597
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "GSFP - Great and Stupendous Fighting Project",
     "addr": "45.45.238.218",
     "port": 8530
   },
   {
-    "name": "ZuluFoxtrot Gaming | US Central | VIP Rewards",
+    "name": "ZuluFoxtrot | New Players | zf-gaming.com | VIP Rewards",
     "addr": "45.45.238.228",
     "port": 8530
   },
@@ -4865,8 +4855,7 @@
   {
     "name": "PARABELLUM PUBLIC SERVER #2 | HUN/ENG",
     "addr": "5.189.132.77",
-    "port": 28400,
-    "removed": 1737596075
+    "port": 28400
   },
   {
     "name": "Pirate Gaming - Hell Let Loose ",
@@ -5177,12 +5166,6 @@
     "port": 7797
   },
   {
-    "name": "[MEXICO][LATAM] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
-    "addr": "63.143.62.94",
-    "port": 7777,
-    "removed": 1737007762
-  },
-  {
     "name": "вит | Bad Intentions Server #3 [US EAST]",
     "addr": "64.20.34.114",
     "port": 8530
@@ -5190,8 +5173,7 @@
   {
     "name": "House of FeaR - New Players Welcome!",
     "addr": "64.20.48.138",
-    "port": 8530,
-    "removed": 1737596075
+    "port": 8530
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
@@ -5477,8 +5459,7 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/24 | Mic ON",
     "addr": "79.137.89.136",
-    "port": 9620,
-    "removed": 1737592136
+    "port": 9620
   },
   {
     "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
@@ -6236,7 +6217,8 @@
   {
     "name": "⑦ | THE CIRCLE #7 | WET TREE! | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
-    "port": 7817
+    "port": 7817,
+    "removed": 1737612568
   },
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
