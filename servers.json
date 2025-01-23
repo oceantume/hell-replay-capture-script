@@ -742,7 +742,8 @@
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737596075
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -817,8 +818,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1737461470
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -2818,7 +2818,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[FR|TDA] La Tempête d'Acier.com | Lvl test | Admin 24/24 | Mic",
     "addr": "185.206.151.118",
     "port": 8530
   },
@@ -3215,7 +3215,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1737596075
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3640,7 +3641,8 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737596075
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -3713,12 +3715,14 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1737596075
   },
   {
     "name": "-TL- The Line | OLD EVENT SERVER (EAST) | TheLine.GG",
     "addr": "216.219.93.63",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737596075
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -4770,6 +4774,11 @@
     "removed": 1737052597
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "45.45.238.218",
+    "port": 8530
+  },
+  {
     "name": "ZuluFoxtrot Gaming | US Central | VIP Rewards",
     "addr": "45.45.238.228",
     "port": 8530
@@ -4856,7 +4865,8 @@
   {
     "name": "PARABELLUM PUBLIC SERVER #2 | HUN/ENG",
     "addr": "5.189.132.77",
-    "port": 28400
+    "port": 28400,
+    "removed": 1737596075
   },
   {
     "name": "Pirate Gaming - Hell Let Loose ",
@@ -5180,7 +5190,8 @@
   {
     "name": "House of FeaR - New Players Welcome!",
     "addr": "64.20.48.138",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737596075
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
