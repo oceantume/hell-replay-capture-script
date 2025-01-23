@@ -577,12 +577,6 @@
     "port": 8530
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com | Mini+30 | Francophone",
-    "addr": "152.228.223.21",
-    "port": 9075,
-    "removed": 1736987337
-  },
-  {
     "name": "CDS",
     "addr": "152.228.223.24",
     "port": 8530
@@ -2824,6 +2818,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.206.151.118",
+    "port": 8530
+  },
+  {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
     "addr": "185.206.151.30",
     "port": 8530
@@ -3173,7 +3172,8 @@
   {
     "name": "GSPF - Work In Progres",
     "addr": "195.140.215.56",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737593740
   },
   {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
@@ -5350,8 +5350,7 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1737592136
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
