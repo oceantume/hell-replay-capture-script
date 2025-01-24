@@ -312,8 +312,7 @@
   {
     "name": "④ | THE CIRCLE #4 | NIGHT OWLS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1737680142
+    "port": 7777
   },
   {
     "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
@@ -614,8 +613,7 @@
   {
     "name": "<CN>#1 TT天堂萌新俱乐部(投票地图)Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797,
-    "removed": 1737680142
+    "port": 7797
   },
   {
     "name": "CN淘宝人间地狱工作室服务器出租兵种代刷",
@@ -2786,8 +2784,7 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
     "addr": "185.206.151.118",
-    "port": 8530,
-    "removed": 1737655733
+    "port": 8530
   },
   {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
@@ -2894,30 +2891,6 @@
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
     "addr": "192.169.82.122",
     "port": 8530
-  },
-  {
-    "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
-    "addr": "192.169.85.226",
-    "port": 7797,
-    "removed": 1737077647
-  },
-  {
-    "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
-    "addr": "192.169.85.226",
-    "port": 7807,
-    "removed": 1737077647
-  },
-  {
-    "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
-    "addr": "192.169.85.226",
-    "port": 7827,
-    "removed": 1737077647
-  },
-  {
-    "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
-    "addr": "192.169.85.226",
-    "port": 7837,
-    "removed": 1737077647
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -3187,7 +3160,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1737682474
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3617,7 +3591,8 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737682474
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -5453,8 +5428,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737680142
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5946,6 +5920,11 @@
     "name": "420th Prayer Division",
     "addr": "83.223.207.55",
     "port": 28000
+  },
+  {
+    "name": "Over Here 30GA",
+    "addr": "83.223.207.55",
+    "port": 28200
   },
   {
     "name": "The Practice Range",
