@@ -240,6 +240,11 @@
     "port": 10200
   },
   {
+    "name": "nitrado.net gameserver y_DAUKIs",
+    "addr": "134.255.240.110",
+    "port": 10600
+  },
+  {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
     "addr": "134.255.240.110",
     "port": 11000
@@ -1175,8 +1180,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1737612568
+    "port": 30700
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1496,7 +1500,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737698963
   },
   {
     "name": "QA Testing - EU #03",
@@ -1536,7 +1541,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737698963
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1546,7 +1552,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737698963
   },
   {
     "name": "QA Testing - EU #04",
@@ -1642,7 +1649,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737698963
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1848,12 +1856,14 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737698963
   },
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737698963
   },
   {
     "name": "HLL Official - Europe #52",
@@ -3160,8 +3170,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1737682474
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3438,7 +3447,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737698963
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3521,7 +3531,7 @@
     "port": 7777
   },
   {
-    "name": "! [TBG] SEASONED SOLDIERS | LEVEL 25+ | DISCORD.GG/TBGCLAN | RE",
+    "name": "! [TBG] SEASONED SOLDIERS | LVL 25+ | DISCORD.GG/TBGCLAN | RECR",
     "addr": "208.115.250.5",
     "port": 7787
   },
@@ -3567,7 +3577,7 @@
     "port": 28300
   },
   {
-    "name": " (EU) 千杯不醒咖啡屋 节点：欧洲  群号：102381769",
+    "name": " MICO千杯不醒咖啡屋 节点：欧洲  群号：1023817690",
     "addr": "213.136.80.177",
     "port": 28400
   },
@@ -3591,8 +3601,7 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1737682474
+    "port": 28300
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -4716,7 +4725,7 @@
     "port": 7787
   },
   {
-    "name": "GSFP - Great and Stupendous Fighting Project",
+    "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
     "port": 8530
   },
@@ -5407,8 +5416,7 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/24 | Mic ON",
     "addr": "79.137.89.136",
-    "port": 9620,
-    "removed": 1737634287
+    "port": 9620
   },
   {
     "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
@@ -5833,13 +5841,19 @@
   {
     "name": "(IC) Offensive Heaven I US East I discord.gg.icoh",
     "addr": "83.223.203.51",
-    "port": 28400
+    "port": 28400,
+    "removed": 1737698963
   },
   {
     "name": "Realistic Warthunder",
     "addr": "83.223.204.11",
     "port": 28100,
     "removed": 1737592136
+  },
+  {
+    "name": "In The Cord",
+    "addr": "83.223.204.11",
+    "port": 28200
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
@@ -6129,8 +6143,7 @@
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
     "addr": "89.46.1.190",
-    "port": 7837,
-    "removed": 1737637351
+    "port": 7837
   },
   {
     "name": "Reclaimer training server",
@@ -6161,6 +6174,11 @@
     "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
     "addr": "89.46.1.190",
     "port": 7927
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "91.134.4.54",
+    "port": 8530
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -6294,6 +6312,11 @@
     "addr": "92.16.215.0",
     "port": 7777,
     "removed": 1737140752
+  },
+  {
+    "name": "Brasil | Canal do Rafha | Estreia dia 24/01 as 19:00h ",
+    "addr": "92.38.150.204",
+    "port": 29300
   },
   {
     "name": "HLL Official - South America #06",
