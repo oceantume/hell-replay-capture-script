@@ -43,8 +43,7 @@
   {
     "name": "CN3#JP#时央的萌新军官攻防营|Q群1022778056",
     "addr": "103.62.49.39",
-    "port": 8928,
-    "removed": 1737723681
+    "port": 8928
   },
   {
     "name": "[CN]COH狗叫大队,Everyone Welcome JP QQ群：558699689",
@@ -322,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -459,12 +458,6 @@
     "port": 7797
   },
   {
-    "name": "[GER] {WoA} World of Asgard 2 |Events",
-    "addr": "146.19.48.157",
-    "port": 7777,
-    "removed": 1737137317
-  },
-  {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
     "port": 7787
@@ -475,7 +468,7 @@
     "port": 9075
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę - Discord: bit.ly/hell-let-l",
+    "name": "PL - Polski Serwer - VIP za dychę - discord.gg/hll-pl",
     "addr": "146.59.47.230",
     "port": 8530
   },
@@ -1470,6 +1463,11 @@
     "port": 28300
   },
   {
+    "name": "QA Testing - EU #08",
+    "addr": "176.57.140.97",
+    "port": 28100
+  },
+  {
     "name": "HLL Official - Europe #219",
     "addr": "176.57.140.97",
     "port": 28300
@@ -1538,8 +1536,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1737721677
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1652,8 +1649,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1737698963
+    "port": 28000
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1754,7 +1750,8 @@
   {
     "name": "4story ",
     "addr": "176.57.168.69",
-    "port": 28100
+    "port": 28100,
+    "removed": 1737742135
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
@@ -2392,8 +2389,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1737461470
+    "port": 28200
   },
   {
     "name": "[UK] Hearts of Bruh By Luna Developments - UPDATED RULES (Seedi",
@@ -2408,8 +2404,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1737547870
+    "port": 28200
   },
   {
     "name": "Dutch Let Loose #6 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -2514,8 +2509,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1737461470
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #22",
@@ -2817,7 +2811,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737742135
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3053,8 +3048,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1737482940
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -3080,6 +3074,11 @@
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
     "port": 28100
+  },
+  {
+    "name": "QA Testing - US West #06",
+    "addr": "193.192.58.65",
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #80",
@@ -3120,6 +3119,11 @@
     "name": "Hotdog6",
     "addr": "194.140.197.77",
     "port": 30000
+  },
+  {
+    "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
+    "addr": "194.140.198.168",
+    "port": 28500
   },
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
@@ -3173,6 +3177,11 @@
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
     "port": 20700
+  },
+  {
+    "name": "Kommando Hummel",
+    "addr": "195.82.158.186",
+    "port": 20900
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -3387,7 +3396,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3507,7 +3516,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3583,7 +3592,7 @@
     "port": 28300
   },
   {
-    "name": "[CN/EU] 千杯不醒咖啡屋 欧洲节点  收留心碎国服�",
+    "name": "＜CN＞Mico千杯不醒咖啡屋 欧服节点 收留心碎国�",
     "addr": "213.136.80.177",
     "port": 28400
   },
@@ -3696,6 +3705,11 @@
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "23.111.240.210",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "23.111.240.210",
+    "port": 9075
   },
   {
     "name": "Dark Horizon EU 2 | New Player Friendly | Discord.gg/dhz",
@@ -4747,13 +4761,7 @@
     "port": 8530
   },
   {
-    "name": "The Old Bastards 77th Infantry Divison [New Player Friendly]",
-    "addr": "45.45.238.233",
-    "port": 8530,
-    "removed": 1737137317
-  },
-  {
-    "name": "Crimson Tide | Noob Friendly! | Discord.gg/CrimsonTideHLL",
+    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Discord.gg/CrimsonTideH",
     "addr": "45.59.162.3",
     "port": 8530
   },
@@ -5464,8 +5472,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1737655733
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5706,8 +5713,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1737655733
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5823,13 +5829,8 @@
   {
     "name": "вит | Bad Intentions Server #1 [US EAST]",
     "addr": "83.223.203.155",
-    "port": 28000
-  },
-  {
-    "name": "HELLFOXES SKIRMISH PLAYGROUND -(US East) Low Ping",
-    "addr": "83.223.203.155",
-    "port": 28300,
-    "removed": 1737137317
+    "port": 28000,
+    "removed": 1737742135
   },
   {
     "name": "HLL Official - US East #79",
@@ -5908,6 +5909,11 @@
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - US East #09",
+    "addr": "83.223.206.29",
+    "port": 28100
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -6185,7 +6191,7 @@
     "port": 7927
   },
   {
-    "name": "[CN/EUFR]EROS·西欧分部·欢迎国服难民·welcome·禁�",
+    "name": "[CN/EUFR]EROS·西欧分部·欢迎国服难民·welcome·Q群�",
     "addr": "91.134.4.54",
     "port": 8530
   },
@@ -6323,7 +6329,7 @@
     "removed": 1737140752
   },
   {
-    "name": "Brasil | Canal do Rafha | Estreia dia 24/01 as 19:00h ",
+    "name": "Brasil | Youtube @CANALDORAFHA | Estreia 24/01 as 19:00h ",
     "addr": "92.38.150.204",
     "port": 29300
   },
