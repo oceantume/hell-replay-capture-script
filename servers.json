@@ -241,7 +241,7 @@
     "port": 10200
   },
   {
-    "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious",
+    "name": "nitrado.net gameserver eHvt_Rsq",
     "addr": "134.255.240.110",
     "port": 10600
   },
@@ -3181,7 +3181,8 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20700
+    "port": 20700,
+    "removed": 1737744432
   },
   {
     "name": "Kommando Hummel",
@@ -5456,7 +5457,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737744432
   },
   {
     "name": "HLL Official - Asia #07",
