@@ -243,7 +243,8 @@
   {
     "name": "nitrado.net gameserver PWKUzk0T",
     "addr": "134.255.240.110",
-    "port": 10600
+    "port": 10600,
+    "removed": 1737743042
   },
   {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
@@ -2613,6 +2614,11 @@
     "port": 8530
   },
   {
+    "name": "Test Server Hias",
+    "addr": "176.9.112.232",
+    "port": 9075
+  },
+  {
     "name": "Vault #1 | New players welcome! | [EU/EN] vaultgg.com",
     "addr": "176.9.113.23",
     "port": 8530
@@ -3616,7 +3622,8 @@
   {
     "name": "Schwäbische Hölle [GER] MIC ONLY! ",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737743042
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
