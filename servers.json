@@ -3736,6 +3736,11 @@
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
+    "port": 28100
+  },
+  {
+    "name": "Hell let loose (US Mid) Server by g-portal.com",
+    "addr": "45.137.244.9",
     "port": 28400
   },
   {
@@ -6118,7 +6123,8 @@
   {
     "name": "<CN>#2 JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737701830
   },
   {
     "name": "<CN>#6 TT天堂刷分升级服进群领密码Q群：578097070",
@@ -6143,8 +6149,7 @@
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
     "addr": "89.46.1.190",
-    "port": 7837,
-    "removed": 1737701277
+    "port": 7837
   },
   {
     "name": "Reclaimer training server",
