@@ -53,7 +53,8 @@
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "103.62.49.49",
-    "port": 8888
+    "port": 8888,
+    "removed": 1737785284
   },
   {
     "name": "<CN>BW黑色守望/红区萌新基地/Q群:682305162",
@@ -73,7 +74,8 @@
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
     "addr": "103.62.49.49",
-    "port": 8928
+    "port": 8928,
+    "removed": 1737785284
   },
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
@@ -281,7 +283,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -569,7 +571,7 @@
     "port": 9075
   },
   {
-    "name": "2nd Armored | EVENT SERVER | discord.gg/2ad",
+    "name": "2nd Armored | US CENTRAL | discord.gg/2ad",
     "addr": "154.16.170.225",
     "port": 8530
   },
@@ -623,12 +625,6 @@
     "addr": "156.146.44.225",
     "port": 7857,
     "removed": 1737634287
-  },
-  {
-    "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
-    "addr": "156.146.44.225",
-    "port": 7867,
-    "removed": 1737180474
   },
   {
     "name": "CN [MX]幼儿园薯条加工厂HK QQ群162996620",
@@ -1163,7 +1159,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1737785284
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1529,8 +1526,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1737698963
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1540,8 +1536,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1737698963
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1849,14 +1844,12 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000,
-    "removed": 1737698963
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #42",
     "addr": "176.57.171.120",
-    "port": 28100,
-    "removed": 1737698963
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #52",
@@ -2492,7 +2485,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737785284
   },
   {
     "name": "QA Testing - EU #10",
@@ -2684,12 +2678,6 @@
     "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
     "port": 7797
-  },
-  {
-    "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
-    "addr": "178.249.213.95",
-    "port": 7787,
-    "removed": 1737180474
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -3001,8 +2989,7 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620,
-    "removed": 1737768772
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -3394,8 +3381,7 @@
   {
     "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1737768772
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
@@ -3583,7 +3569,7 @@
     "port": 28300
   },
   {
-    "name": "＜CN＞Mico千杯不醒咖啡屋 欧服节点 收留心碎国�",
+    "name": "CN MICO千杯不醒咖啡屋 欧服节点收留心碎国人",
     "addr": "213.136.80.177",
     "port": 28400
   },
@@ -3759,6 +3745,11 @@
     "name": "Hell's Pet Goose, New Player Friendly (US Central)",
     "addr": "45.137.244.9",
     "port": 28600
+  },
+  {
+    "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious4",
+    "addr": "45.137.244.9",
+    "port": 28700
   },
   {
     "name": "HLL Official - Japan #01",
@@ -4921,7 +4912,7 @@
     "removed": 1737547870
   },
   {
-    "name": "6th Recon Division [6RCN] Events",
+    "name": "6th Recon Division [6RCN] NA East",
     "addr": "51.222.248.105",
     "port": 8530
   },
@@ -5094,7 +5085,8 @@
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
     "addr": "63.143.60.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1737785284
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
@@ -5173,7 +5165,7 @@
     "port": 11800
   },
   {
-    "name": "<BW黑色守望/绿区希望镇萌新区/Q:682305162",
+    "name": "<CN>BW黑色守望/绿区希望镇萌新区/Q:682305162",
     "addr": "64.31.11.26",
     "port": 12345
   },
@@ -6180,17 +6172,18 @@
     "port": 7877
   },
   {
-    "name": "<CN>JP喷火龙的军官营Q群:341807965",
+    "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
     "port": 7897
   },
   {
     "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
     "addr": "89.46.1.190",
-    "port": 7927
+    "port": 7927,
+    "removed": 1737785284
   },
   {
-    "name": "[CN/EUFR]EROS·西欧分部·欢迎国服难民·Q群：6868868",
+    "name": "[CN/EU]EROS·西欧分部·欢迎国服难民·Q群：686886842",
     "addr": "91.134.4.54",
     "port": 8530
   },
@@ -6322,7 +6315,7 @@
     "removed": 1737334628
   },
   {
-    "name": "Treads & Trenches | 3 DAY SEED VIP | discord.gg/tandt",
+    "name": "T&T | New Players Welcome | WARFARE | discord.gg/tandt",
     "addr": "92.118.19.84",
     "port": 7777
   },
