@@ -473,12 +473,6 @@
     "port": 8530
   },
   {
-    "name": "[PL/ENG] SSO - Polish Group Server | Voting, Low Ping",
-    "addr": "146.59.52.33",
-    "port": 8530,
-    "removed": 1737202175
-  },
-  {
     "name": "[PL] Polski Piekarnik [VIP 10 zł https://discord.gg/u7Zpp6jWz5",
     "addr": "146.59.52.33",
     "port": 9075
@@ -5457,8 +5451,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737806973
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
