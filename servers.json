@@ -53,8 +53,7 @@
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "103.62.49.49",
-    "port": 8888,
-    "removed": 1737785284
+    "port": 8888
   },
   {
     "name": "<CN>BW黑色守望/红区萌新基地/Q群:682305162",
@@ -74,8 +73,7 @@
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
     "addr": "103.62.49.49",
-    "port": 8928,
-    "removed": 1737785284
+    "port": 8928
   },
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
@@ -240,12 +238,14 @@
   {
     "name": "(So1) Sanctuary of the First",
     "addr": "134.255.240.110",
-    "port": 10200
+    "port": 10200,
+    "removed": 1737786161
   },
   {
     "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious3",
     "addr": "134.255.240.110",
-    "port": 10600
+    "port": 10600,
+    "removed": 1737786161
   },
   {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
@@ -6177,10 +6177,9 @@
     "port": 7897
   },
   {
-    "name": "CN斗罗大陆之萌新玩家超神（纯攻防）Q群797464980",
+    "name": "[CN]Hell on Earth is a new player纯攻防Q群797464980",
     "addr": "89.46.1.190",
-    "port": 7927,
-    "removed": 1737785284
+    "port": 7927
   },
   {
     "name": "[CN/EU]EROS·西欧分部·欢迎国服难民·Q群：686886842",
