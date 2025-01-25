@@ -3158,12 +3158,6 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20400,
-    "removed": 1737223664
-  },
-  {
-    "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
-    "addr": "195.82.158.186",
     "port": 20700,
     "removed": 1737828451
   },
@@ -3317,7 +3311,8 @@
   {
     "name": "<CN>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "203.10.99.7",
-    "port": 9098
+    "port": 9098,
+    "removed": 1737829313
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -6356,12 +6351,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "Hellhounds #1",
-    "addr": "92.118.19.72",
-    "port": 7777,
-    "removed": 1737223664
   },
   {
     "name": "No Man's Squad | Level 15+ | Offensive | discord.gg/HszEYcg6Ta",
