@@ -493,7 +493,7 @@
     "port": 28000
   },
   {
-    "name": "MTG - UK- Die or Try! Warfare Only",
+    "name": "MTG - UK- Die or Try! Warfare Only - New players Welcome",
     "addr": "149.102.135.184",
     "port": 28100
   },
@@ -505,7 +505,8 @@
   {
     "name": "矢车菊（BKornblume）//HK 无规则服 //q群： 726807477",
     "addr": "15.235.180.103",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737828451
   },
   {
     "name": "TH Hell Let Loose Thailand Community 2",
@@ -646,11 +647,10 @@
   {
     "name": "<CN>萌新禁炮 EROS狗叫天堂HK Q群：686886842",
     "addr": "156.146.44.225",
-    "port": 7927,
-    "removed": 1737806973
+    "port": 7927
   },
   {
-    "name": "<CN>#12 关注微信公众号TT天堂/Q群：578097070",
+    "name": "[CN]12公众号TT天堂免费领取永久VIP",
     "addr": "156.146.44.225",
     "port": 7937
   },
@@ -727,7 +727,8 @@
   {
     "name": "Hell Let Loose LTCOM [LT/EU}",
     "addr": "168.119.79.144",
-    "port": 10710
+    "port": 10710,
+    "removed": 1737828451
   },
   {
     "name": "ProxGaming Europe EU",
@@ -1117,7 +1118,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737828451
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2432,7 +2434,8 @@
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
     "addr": "176.57.181.144",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737828451
   },
   {
     "name": "HLL Official - Europe #18",
@@ -3047,7 +3050,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1737828451
   },
   {
     "name": "HLL Official - US West #02",
@@ -3121,7 +3125,7 @@
     "removed": 1737593740
   },
   {
-    "name": "[BHX] Polaris server",
+    "name": "《CN》#2 节点:欧洲 北极星萌新服务器",
     "addr": "195.140.215.57",
     "port": 8530
   },
@@ -3160,7 +3164,8 @@
   {
     "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
     "addr": "195.82.158.186",
-    "port": 20700
+    "port": 20700,
+    "removed": 1737828451
   },
   {
     "name": "Kommando Hummel",
@@ -3351,12 +3356,12 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK EVENT @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division 2 !Votemap",
+    "name": "[GER] 1. Fallschirmjäger-Division 2 Intern",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -3381,7 +3386,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3640,6 +3645,11 @@
     "port": 28300
   },
   {
+    "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
+    "addr": "213.136.94.160",
+    "port": 28400
+  },
+  {
     "name": "FIN [BL-SQ] Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
     "port": 28500,
@@ -3691,9 +3701,34 @@
     "port": 9075
   },
   {
-    "name": "测试服123",
+    "name": "CN1#JP ✿ MyGo ✿ 软糯小祥の冲突馆 QQ群120748151",
+    "addr": "31.56.0.81",
+    "port": 7777
+  },
+  {
+    "name": "CN2#JP ✿ MyGo ✿ 千早唐音の攻防馆 QQ群120748151",
     "addr": "31.56.0.81",
     "port": 7787
+  },
+  {
+    "name": "CN3#JP ✿ MyGo ✿ 萌新限杀の攻防馆 QQ群120748151",
+    "addr": "31.56.0.81",
+    "port": 7797
+  },
+  {
+    "name": "<CN>吃D牢窝/JP节点/萌新进阶/Q:882377564",
+    "addr": "31.56.0.81",
+    "port": 7807
+  },
+  {
+    "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
+    "addr": "31.56.0.81",
+    "port": 7817
+  },
+  {
+    "name": "hll Server6",
+    "addr": "31.56.0.81",
+    "port": 7827
   },
   {
     "name": "Dark Horizon EU 2 | New Player Friendly | Discord.gg/dhz",
@@ -4760,7 +4795,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Night - Blue",
+    "name": "Greyhound Event #1",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -4854,7 +4889,8 @@
   {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
     "addr": "5.9.77.39",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737828451
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -4893,7 +4929,7 @@
     "removed": 1737655733
   },
   {
-    "name": "#01 ESP LEGIÓN DE HIERRO (Spanish Only) https://discord.gg/Qqj",
+    "name": "#01 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
     "addr": "51.195.190.147",
     "port": 9075
   },
@@ -5005,7 +5041,7 @@
     "port": 8530
   },
   {
-    "name": "#1 BARMY ARMY [ENG] - New Players Welcome",
+    "name": "#1 BARMY ARMY [ENG] - LOW PING",
     "addr": "51.89.152.177",
     "port": 8530
   },
@@ -5332,7 +5368,12 @@
     "port": 8888
   },
   {
-    "name": "Perkeleet Let Loose Finland | discord.gg/4uW3jsUU4r",
+    "name": "Hell-let-loose-norway",
+    "addr": "65.21.22.47",
+    "port": 7777
+  },
+  {
+    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
     "port": 8530
   },
@@ -5472,8 +5513,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1737655733
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5990,7 +6030,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
     "addr": "85.208.197.69",
     "port": 7777
   },
@@ -6155,8 +6195,7 @@
   {
     "name": "<CN>#8 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1737810535
+    "port": 7817
   },
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
@@ -6174,15 +6213,14 @@
     "port": 7847
   },
   {
-    "name": "<CN>#9 关注微信公众号TT天堂/Q群：578097070",
+    "name": "[CN]9 公众号TT天堂免费领取永久VIP",
     "addr": "89.46.1.190",
     "port": 7857
   },
   {
     "name": "CN#JP 东方幻想乡 KFC外卖热线：245578354",
     "addr": "89.46.1.190",
-    "port": 7867,
-    "removed": 1737810535
+    "port": 7867
   },
   {
     "name": "[CN]#JP薯薯是朋友 朋友很好吃丨1021844594",
@@ -6337,7 +6375,7 @@
     "port": 7777
   },
   {
-    "name": "Brasil | Youtube @CANALDORAFHA | Estreia 24/01 as 19:00h ",
+    "name": "BRASIL | Youtube @CANALDORAFHA | Inscreva-se! ",
     "addr": "92.38.150.204",
     "port": 29300
   },
