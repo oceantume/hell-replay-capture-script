@@ -237,7 +237,8 @@
   {
     "name": "(So1) Sanctuary of the First",
     "addr": "134.255.240.110",
-    "port": 10200
+    "port": 10200,
+    "removed": 1737873874
   },
   {
     "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious3",
@@ -327,8 +328,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "139.28.17.146",
-    "port": 7797,
-    "removed": 1737873324
+    "port": 7797
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -3463,7 +3463,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737873874
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -3473,7 +3474,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737873874
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3533,7 +3535,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | LVL 25 PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737873874
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -5294,8 +5297,7 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797,
-    "removed": 1737873324
+    "port": 7797
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #1 :: discord.gg/glows",
@@ -6037,7 +6039,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737873874
   },
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
