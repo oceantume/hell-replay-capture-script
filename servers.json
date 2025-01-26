@@ -262,8 +262,7 @@
   {
     "name": "[GER] DOG Hundehütte (min lvl 25)",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1737875043
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -288,8 +287,7 @@
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
     "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1737875043
+    "port": 8530
   },
   {
     "name": "What can I say",
@@ -343,7 +341,7 @@
     "removed": 1737310058
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server VIP for SEED",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -380,8 +378,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1737875043
+    "port": 9620
   },
   {
     "name": "[GER]101st Airborne Division/WIR REKRUTIEREN/101stairbornedivis",
@@ -557,8 +554,7 @@
   {
     "name": "[FR/BE/QC] WNM HLL | FR ONLY | discord.gg/CYVVV4GmgC",
     "addr": "152.228.223.21",
-    "port": 8530,
-    "removed": 1737875043
+    "port": 8530
   },
   {
     "name": "CDS",
@@ -618,7 +614,8 @@
   {
     "name": "hk【PUMA】Madarin server q746699634",
     "addr": "156.146.44.225",
-    "port": 7847
+    "port": 7847,
+    "removed": 1737893380
   },
   {
     "name": "[CN]#HK薯薯是朋友 朋友很好吃丨1021844594",
@@ -657,7 +654,7 @@
     "port": 7927
   },
   {
-    "name": "[CN]12公众号TT天堂免费领取永久VIP",
+    "name": "[CN]#12 公众号TT天堂免费领取永久VIP/Q群:578097070",
     "addr": "156.146.44.225",
     "port": 7937
   },
@@ -1626,8 +1623,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding ",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1737875043
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
@@ -2295,8 +2291,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1737875043
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -3143,7 +3138,8 @@
   {
     "name": "《CN》#2 节点:欧洲 北极星萌新服务器",
     "addr": "195.140.215.57",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737893380
   },
   {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
@@ -3159,8 +3155,7 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1737875043
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -3585,7 +3580,8 @@
   {
     "name": "[PL] Elitarni #2 Tryb Gry: Potyczka |Vip 15PLN",
     "addr": "213.136.80.177",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737893380
   },
   {
     "name": "CN MICO千杯不醒咖啡屋 欧服节点收留心碎国人",
@@ -3740,6 +3736,11 @@
     "name": "hll Server6",
     "addr": "31.56.0.81",
     "port": 7827
+  },
+  {
+    "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
+    "addr": "31.56.0.81",
+    "port": 7837
   },
   {
     "name": "Dark Horizon EU 2 | New Player Friendly | Discord.gg/dhz",
@@ -4962,8 +4963,7 @@
   {
     "name": "[PT/EN] Hell Let Loose PORTUGAL - Discord: https//dsc.gg/hllpt",
     "addr": "51.210.32.201",
-    "port": 8530,
-    "removed": 1737875043
+    "port": 8530
   },
   {
     "name": "[FR Only] Frères de Tranchées [FTC]-discord.gg/Uuw4NRVc",
@@ -5088,7 +5088,7 @@
     "port": 8530
   },
   {
-    "name": "[FR Only] Frères de Tranchées [FTC]-discord.gg/Uuw4NRVc",
+    "name": "[FR Only] Frères de Tranchées [FTC]-discord.gg/cqDVfCyq",
     "addr": "51.91.215.64",
     "port": 8530
   },
@@ -5125,20 +5125,17 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787,
-    "removed": 1737875043
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7807,
-    "removed": 1737875043
+    "port": 7807
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ LVL 40+",
     "addr": "57.128.229.70",
-    "port": 7817,
-    "removed": 1737875043
+    "port": 7817
   },
   {
     "name": "PL/ENG Polski Serwer #1 VIP 5 DC: bit.ly/hell-let-loose-pl",
@@ -5255,7 +5252,8 @@
   {
     "name": "<CN>#1 JP北极星萌新服务器Q群：1018176083",
     "addr": "64.31.11.50",
-    "port": 10710
+    "port": 10710,
+    "removed": 1737893380
   },
   {
     "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
@@ -5497,8 +5495,7 @@
   {
     "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1737875043
+    "port": 8530
   },
   {
     "name": "[EU] Nordic war 24/7",
@@ -5844,14 +5841,12 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1737806973
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1737806973
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -5967,8 +5962,7 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000,
-    "removed": 1737806973
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -6194,14 +6188,12 @@
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1737766483
+    "port": 7777
   },
   {
-    "name": "<CN>#2 JP北极星萌新服务器Q群：1018176083",
+    "name": "CN.JP【PUMA】男娘米米大王萌新服q746699634",
     "addr": "89.46.1.190",
-    "port": 7787,
-    "removed": 1737766483
+    "port": 7787
   },
   {
     "name": "<CN>#6 TT天堂刷分升级服进群领密码Q群：578097070",
@@ -6234,7 +6226,7 @@
     "port": 7847
   },
   {
-    "name": "[CN]9 公众号TT天堂免费领取永久VIP",
+    "name": "[CN]#9 公众号TT天堂免费领取永久VIP/Q群:578097070",
     "addr": "89.46.1.190",
     "port": 7857
   },
@@ -6249,12 +6241,17 @@
     "port": 7877
   },
   {
+    "name": "<CN>MAX-老毕灯国服爱好者 Q群：258455568",
+    "addr": "89.46.1.190",
+    "port": 7887
+  },
+  {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
     "port": 7897
   },
   {
-    "name": "[CN]Hell on Earth is a new player纯攻防Q群797464980",
+    "name": "[CN]HLL斗罗大陆之萌新超神(纯攻防)Q群797464980",
     "addr": "89.46.1.190",
     "port": 7927
   },
@@ -6281,8 +6278,7 @@
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
-    "port": 7827,
-    "removed": 1737875043
+    "port": 7827
   },
   {
     "name": "[FR] 7ème Compagnie #3/3  》100% FR  》STATS  》discord.gg/",
