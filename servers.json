@@ -321,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -342,7 +342,7 @@
     "removed": 1737310058
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server VIP for SEED",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -429,7 +429,8 @@
   {
     "name": "#4 EXD.gg » Fun Events | Discord.exd.gg",
     "addr": "145.239.144.76",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737851384
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -502,10 +503,14 @@
     "port": 28300
   },
   {
+    "name": "RULE BRITTANIA [ENG] BRITISH EMPIRE 2 ELECTRIC BOOGALOO",
+    "addr": "149.102.135.184",
+    "port": 28400
+  },
+  {
     "name": "矢车菊（BKornblume）//HK 无规则服 //q群： 726807477",
     "addr": "15.235.180.103",
-    "port": 8530,
-    "removed": 1737828451
+    "port": 8530
   },
   {
     "name": "TH Hell Let Loose Thailand Community 2",
@@ -686,7 +691,8 @@
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827
+    "port": 7827,
+    "removed": 1737851384
   },
   {
     "name": "BPNL Frontline Warfare Europe",
@@ -2639,7 +2645,7 @@
     "port": 7867
   },
   {
-    "name": "[LATAM/ARG]  Hydra's Legion | https://discord.gg/ZsgaCYDS",
+    "name": "[LATAM/ARG]  Hydra's Legion | https://discord.gg/CbneXMFPYa",
     "addr": "177.54.147.141",
     "port": 7887
   },
@@ -2824,6 +2830,11 @@
     "name": "[GER] Feldfunk",
     "addr": "188.40.122.93",
     "port": 9075
+  },
+  {
+    "name": "LTCOM LT",
+    "addr": "188.40.124.108",
+    "port": 8530
   },
   {
     "name": "[ENG/EU] NEW PLAYERS WELCOME! PIZZA LET LOOSE PLL- https://disc",
@@ -3075,7 +3086,8 @@
   {
     "name": "The Bay 707 (US WEST)",
     "addr": "193.192.59.99",
-    "port": 28300
+    "port": 28300,
+    "removed": 1737851384
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -3115,7 +3127,8 @@
   {
     "name": "(UK) Legends At War Community Server",
     "addr": "195.140.215.54",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737851384
   },
   {
     "name": "GSPF - Work In Progres",
@@ -3350,7 +3363,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK EVENT @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3380,7 +3393,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3500,7 +3513,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3597,10 +3610,9 @@
     "removed": 1737396514
   },
   {
-    "name": "Schwäbische Hölle [GER] MIC ONLY! ",
+    "name": "Balkan Server - NEW PLAYERS WELCOME",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1737743042
+    "port": 28300
   },
   {
     "name": "[GER/AT][Lvl.10+][ZGR]Willkommen Zuhause![German Mic|Active Adm",
@@ -3655,7 +3667,7 @@
     "port": 28600
   },
   {
-    "name": "σ CHAD STUART'S — LVL 25+ PEAK HOURS | discord.gg/chadfgf",
+    "name": "σ CHAD STUART'S — LVL 30+ PEAK HOURS | discord.gg/chadfgf",
     "addr": "216.173.113.154",
     "port": 9620
   },
@@ -3695,17 +3707,17 @@
     "port": 9075
   },
   {
-    "name": "CN1#JP ✿ MyGo ✿ 软糯小祥の冲突馆 QQ群120748151",
+    "name": "CN1#JP冬夜里的萌新军官の咖啡馆|Q群120748151",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP ✿ MyGo ✿ 千早唐音の攻防馆 QQ群120748151",
+    "name": "CN2#JP冬夜里的甜甜攻防の咖啡馆|Q群120748151",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP ✿ MyGo ✿ 萌新限杀の攻防馆 QQ群120748151",
+    "name": "CN3#JP冬夜里的萌新限杀の咖啡馆|Q群120748151",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -4881,6 +4893,11 @@
     "port": 8530
   },
   {
+    "name": "[GER]Oma's Bunkerparty - Deerdy Sancheez Community Server| Mic ",
+    "addr": "5.9.150.142",
+    "port": 9075
+  },
+  {
     "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
     "addr": "5.9.77.39",
     "port": 8530,
@@ -5486,8 +5503,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737810535
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5772,7 +5788,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737851384
   },
   {
     "name": "HLL Official - Asia #24",
@@ -5874,7 +5891,7 @@
     "port": 28000
   },
   {
-    "name": "HELLFOXES PLAYGROUND (US East) Server by g-portal.com",
+    "name": "HELLFOXES PLAYGROUND (US East) [ENG] Server by g-portal.com",
     "addr": "83.223.203.51",
     "port": 28300
   },
