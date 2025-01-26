@@ -3364,7 +3364,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ EVENT",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3637,10 +3637,9 @@
     "port": 28000
   },
   {
-    "name": "Blitzkrieg [ESP] #1 - Español",
+    "name": "Def Con 2 - Clan VOid - #1 [ESP] ",
     "addr": "213.136.94.160",
-    "port": 28100,
-    "removed": 1737505763
+    "port": 28100
   },
   {
     "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/cPAGjECexc // Wel",
@@ -5493,8 +5492,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777,
-    "removed": 1737894351
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -6192,7 +6190,8 @@
   {
     "name": "<CN>#8 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7817
+    "port": 7817,
+    "removed": 1737895433
   },
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
