@@ -320,7 +320,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1473,7 +1473,8 @@
   {
     "name": "Devil Dogs Powered by Simulation For The Nation",
     "addr": "176.57.165.122",
-    "port": 32500
+    "port": 32500,
+    "removed": 1737894351
   },
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
@@ -3513,7 +3514,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3741,12 +3742,6 @@
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
     "port": 7837
-  },
-  {
-    "name": "Dark Horizon EU 2 | New Player Friendly | Discord.gg/dhz",
-    "addr": "31.58.228.52",
-    "port": 7807,
-    "removed": 1737288590
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -4843,12 +4838,6 @@
     "port": 28100
   },
   {
-    "name": "Pelihelvetti",
-    "addr": "5.189.130.178",
-    "port": 28200,
-    "removed": 1737288590
-  },
-  {
     "name": "HLL Official - Hungary #1",
     "addr": "5.189.130.178",
     "port": 28400
@@ -5162,12 +5151,6 @@
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
     "addr": "63.143.62.100",
     "port": 7777
-  },
-  {
-    "name": "Dark Horizon US 3 | New Players Welcome | Discord.gg/dhz",
-    "addr": "63.143.62.100",
-    "port": 7787,
-    "removed": 1737288590
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -5510,7 +5493,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "81.21.1.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737894351
   },
   {
     "name": "HLL Official - Asia #07",
@@ -6070,7 +6054,7 @@
     "port": 8530
   },
   {
-    "name": "The Old Bastards 77th Infantry Divison[New Player Friendly][Rec",
+    "name": "The Old Bastards 77thID, Changing to the 63rd Infantry Division",
     "addr": "88.209.197.59",
     "port": 8530
   },
