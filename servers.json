@@ -736,7 +736,8 @@
   {
     "name": "[GER]  1. Fallschirmjäger  Squad ",
     "addr": "168.119.79.144",
-    "port": 8530
+    "port": 8530,
+    "removed": 1737917117
   },
   {
     "name": "kacownia rp",
@@ -2747,7 +2748,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #7",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -5874,6 +5875,11 @@
     "addr": "83.223.203.155",
     "port": 28000,
     "removed": 1737742135
+  },
+  {
+    "name": "murphy hell let loose east  Server by g-portal.com ",
+    "addr": "83.223.203.155",
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #79",
