@@ -3184,12 +3184,14 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1738002239
   },
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738002239
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -5823,8 +5825,7 @@
   {
     "name": "CN#深夜食堂的萌新小窝syst 节点HK QQ群1017723887",
     "addr": "83.223.197.89",
-    "port": 28300,
-    "removed": 1738001338
+    "port": 28300
   },
   {
     "name": "HLL Official - US East  ",
@@ -6363,7 +6364,8 @@
   {
     "name": "=ROTN= | discord.gg/rangersofthenorth | LVL 25+ AT PEAK HOURS",
     "addr": "92.118.18.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738002239
   },
   {
     "name": "Hell Let Loose Server",
