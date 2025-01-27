@@ -1378,7 +1378,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1737959107
   },
   {
     "name": "HLL Official - Europe #19",
@@ -2894,7 +2895,8 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1737959107
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3737,8 +3739,7 @@
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1737958174
+    "port": 7807
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -3753,8 +3754,7 @@
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7837,
-    "removed": 1737958174
+    "port": 7837
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -6254,10 +6254,9 @@
     "port": 7877
   },
   {
-    "name": "<CN>MAX-老毕灯国服爱好者 Q群：258455568",
+    "name": "<CN>MAX-老毕灯国服爱好者JP Q群：258455568",
     "addr": "89.46.1.190",
-    "port": 7887,
-    "removed": 1737958174
+    "port": 7887
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
