@@ -2449,7 +2449,8 @@
   {
     "name": "SLB #1b",
     "addr": "176.57.181.144",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738089451
   },
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
@@ -3474,7 +3475,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "SLB #2",
     "addr": "208.115.206.83",
     "port": 7777
   },
@@ -3564,7 +3565,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "SLB #1a",
     "addr": "208.115.248.106",
     "port": 7787
   },
