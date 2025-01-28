@@ -2449,8 +2449,7 @@
   {
     "name": "SLB #1b",
     "addr": "176.57.181.144",
-    "port": 28100,
-    "removed": 1738089451
+    "port": 28100
   },
   {
     "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
@@ -2608,6 +2607,11 @@
     "addr": "176.57.181.34",
     "port": 28200,
     "removed": 1737571721
+  },
+  {
+    "name": "Caje du huan",
+    "addr": "176.57.181.34",
+    "port": 28400
   },
   {
     "name": "PL ARHN.EU Polski Serwer Saigi",
@@ -6086,7 +6090,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Green",
+    "name": "SLB #3",
     "addr": "85.208.197.70",
     "port": 7817
   },
