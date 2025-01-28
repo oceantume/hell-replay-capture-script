@@ -25,7 +25,7 @@
     "port": 8888
   },
   {
-    "name": "CN-音奏的萌新进阶服6服|335411305|JP节点",
+    "name": "CN-音奏的萌新进阶服6服|Q群:598632634|JP节点",
     "addr": "103.62.49.39",
     "port": 8898
   },
@@ -321,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -336,7 +336,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -532,7 +532,7 @@
     "port": 8530
   },
   {
-    "name": "#01 [ESP] Lvl 40+ -Comunidad Hispana - discord.comunidadhll.es",
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es -Spa Only",
     "addr": "151.80.27.200",
     "port": 8772
   },
@@ -777,7 +777,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738066276
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -2657,8 +2658,7 @@
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
-    "port": 7927,
-    "removed": 1738048092
+    "port": 7927
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil / Servidor de Eventos - https://di",
@@ -2668,6 +2668,11 @@
   {
     "name": "[ESP] IBEROS LOCOS (https://discord.gg/mJtNnNd7)[ESP]",
     "addr": "178.239.168.167",
+    "port": 8530
+  },
+  {
+    "name": "HLL - United Kingdom ",
+    "addr": "178.239.170.76",
     "port": 8530
   },
   {
@@ -2738,7 +2743,8 @@
   {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #8",
     "addr": "181.214.221.212",
-    "port": 7857
+    "port": 7857,
+    "removed": 1738066276
   },
   {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #5",
@@ -2809,8 +2815,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1737742135
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2858,6 +2863,11 @@
     "port": 8530
   },
   {
+    "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
+    "addr": "188.64.33.86",
+    "port": 9075
+  },
+  {
     "name": "[LH] Legion Hispana LATAM -  https://discord.gg/eS279ZkmD7 ",
     "addr": "189.1.170.234",
     "port": 10165
@@ -2880,7 +2890,8 @@
   {
     "name": "BRASIL FRONTEIRA HELL | VIP: WWW.FRONTEIRAHELL.STORE",
     "addr": "189.1.170.234",
-    "port": 9620
+    "port": 9620,
+    "removed": 1738066276
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -2950,7 +2961,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738066276
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3479,8 +3491,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738044551
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3533,7 +3544,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3701,7 +3712,8 @@
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "23.111.240.210",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738066276
   },
   {
     "name": "[GER] Die verbotenen Karten ( ͡° ͜ʖ ͡°) [BFTB]",
@@ -5278,7 +5290,7 @@
     "port": 8530
   },
   {
-    "name": "【CN】妙妙屋/community server/jp/975625508",
+    "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "64.31.11.50",
     "port": 9075
   },
@@ -5439,7 +5451,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #7 level +50",
+    "name": "<COBRAS FUMANTES> MARRAM #7 level +50 QONZER.COM",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -5853,7 +5865,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738066276
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -5873,8 +5886,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1737979911
+    "port": 28200
   },
   {
     "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -6275,7 +6287,7 @@
     "removed": 1738001338
   },
   {
-    "name": "[CN/EU]EROS西欧分部·禁炮No artillery·Q：686886842",
+    "name": "[CN]EROS西欧分部·禁炮No artillery·Q：686886842",
     "addr": "91.134.4.54",
     "port": 8530
   },
@@ -6330,7 +6342,7 @@
     "port": 7777
   },
   {
-    "name": "    [SCSD]2 All Levels Welcome | discord.gg/scsd | Active Admin",
+    "name": "Search SCSD for our new HLL server",
     "addr": "92.118.16.184",
     "port": 7777
   },
