@@ -1021,7 +1021,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738025766
   },
   {
     "name": "HLL Dev Team",
@@ -1031,7 +1032,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738025766
   },
   {
     "name": "HLL Official - Europe #106",
@@ -1443,7 +1445,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738025766
   },
   {
     "name": "HLL Official - Europe #219",
@@ -1484,7 +1487,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738025766
   },
   {
     "name": "HLL Official - Europe #250",
@@ -1492,7 +1496,7 @@
     "port": 28300
   },
   {
-    "name": "DK/ENG Hell Let Loose # 1 © www.hellletloose.dk",
+    "name": "DK/ENG Hell Let Loose # 2 © www.hellletloose.dk",
     "addr": "176.57.168.174",
     "port": 28100
   },
@@ -1535,12 +1539,14 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738025766
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738025766
   },
   {
     "name": "HLL Official - Europe #08",
@@ -1898,8 +1904,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1738024157
+    "port": 28400
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
@@ -2376,7 +2381,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738025766
   },
   {
     "name": "[UK] Hearts of Bruh By Luna Developments - UPDATED RULES (Seedi",
@@ -2391,7 +2397,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738025766
   },
   {
     "name": "Dutch Let Loose #6 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -2497,7 +2504,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738025766
   },
   {
     "name": "HLL Official - Europe #22",
@@ -3226,7 +3234,7 @@
     "port": 9620
   },
   {
-    "name": "DK/ENG Hell Let Loose # 2 © www.hellletloose.dk",
+    "name": "DK/ENG Hell Let Loose # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -5183,7 +5191,7 @@
     "port": 7797
   },
   {
-    "name": "вит | Bad Intentions - Public [US EAST]",
+    "name": "вит | Bad Intentions - Event [US EAST]",
     "addr": "64.20.34.114",
     "port": 8530
   },
