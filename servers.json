@@ -321,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -469,7 +469,8 @@
   {
     "name": "[PL] Polski Piekarnik [VIP 10 zł https://discord.gg/u7Zpp6jWz5",
     "addr": "146.59.52.33",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738087731
   },
   {
     "name": "[5CITY #1] [PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.gg/5cit",
@@ -499,7 +500,8 @@
   {
     "name": "[ENG] BRITISH EMPIRE 2 ELECTRIC BOOGALOO (NEW PLAYER FRIENDLY)",
     "addr": "149.102.135.184",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738087731
   },
   {
     "name": "矢车菊（BKornblume）//HK 无规则服 //q群： 726807477",
@@ -572,7 +574,7 @@
     "port": 8530
   },
   {
-    "name": "Mediocre Gaming | Noobie Playground | 1 week VIP for 1 match",
+    "name": "Mediocre Gaming | New Player Friendly | Central US",
     "addr": "154.16.200.252",
     "port": 8530
   },
@@ -661,37 +663,49 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738087731
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738087731
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7797
+    "port": 7797,
+    "removed": 1738087731
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #01 - Turkish Only",
     "addr": "156.67.62.23",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738087731
   },
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738087731
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738087731
+  },
+  {
+    "name": "[TR] Türk Silahlı Kuvvetleri #02 - Turkish Only",
+    "addr": "159.69.226.137",
+    "port": 7777
   },
   {
     "name": "BPNL Frontline Warfare Europe",
     "addr": "159.69.226.158",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738087731
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -1108,8 +1122,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1738001338
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -2598,12 +2611,14 @@
   {
     "name": "PL ARHN.EU Polski Serwer Saigi",
     "addr": "176.9.112.232",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738087731
   },
   {
     "name": "Test Server Hias",
     "addr": "176.9.112.232",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738087731
   },
   {
     "name": "Vault #1 | New players welcome! | [EU/EN] vaultgg.com",
@@ -2815,7 +2830,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738087731
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2880,14 +2896,12 @@
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530,
-    "removed": 1738069316
+    "port": 8530
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 9075,
-    "removed": 1738069316
+    "port": 9075
   },
   {
     "name": "BRASIL FRONTEIRA HELL | VIP: WWW.FRONTEIRAHELL.STORE",
@@ -3425,7 +3439,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3587,8 +3601,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1738069316
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3828,8 +3841,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738069316
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5076,7 +5088,7 @@
     "port": 8530
   },
   {
-    "name": "#1 BARMY ARMY [ENG] - LOW PING",
+    "name": "#1 BARMY ARMY [ENG] - Level 25+ ",
     "addr": "51.89.152.177",
     "port": 8530
   },
@@ -5295,7 +5307,8 @@
   {
     "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "64.31.11.50",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738087731
   },
   {
     "name": "秋叶原国服难民营群号1098305217",
@@ -5479,7 +5492,7 @@
     "port": 8530
   },
   {
-    "name": "BRASIL CAPITAL SERVER BR | DISCORD https://discord.gg/bCEVHsTCu",
+    "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
     "addr": "78.111.102.114",
     "port": 28500
   },
@@ -5537,18 +5550,19 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1738001338
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738087731
   },
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738087731
   },
   {
     "name": "HLL Official - Asia #09",
@@ -6279,6 +6293,11 @@
     "port": 7897
   },
   {
+    "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
+    "addr": "89.46.1.190",
+    "port": 7907
+  },
+  {
     "name": "[CN]HLL斗罗大陆之萌新超神(纯攻防)Q群797464980",
     "addr": "89.46.1.190",
     "port": 7927
@@ -6290,7 +6309,7 @@
     "removed": 1738001338
   },
   {
-    "name": "[CN]EROS西欧分部新春爆炸物刀战活动禁炮，枪，�",
+    "name": "[CN]EROS西欧分部萌新禁炮No artilleryQQ：686886842",
     "addr": "91.134.4.54",
     "port": 8530
   },
