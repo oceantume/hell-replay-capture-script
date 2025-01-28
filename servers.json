@@ -2880,12 +2880,14 @@
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738069316
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738069316
   },
   {
     "name": "BRASIL FRONTEIRA HELL | VIP: WWW.FRONTEIRAHELL.STORE",
@@ -3585,7 +3587,8 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738069316
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3825,7 +3828,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738069316
   },
   {
     "name": "HLL Official - Japan #17",
