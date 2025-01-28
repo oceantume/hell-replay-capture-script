@@ -267,7 +267,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738044551
   },
   {
     "name": "HLL Official - Russia #02",
@@ -335,7 +336,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP/ Russian server VIP for SEED",
+    "name": "[RUS] EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -443,7 +444,8 @@
   {
     "name": "[1stA] 1st Airborne (EU) | LVL 10+",
     "addr": "145.239.5.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738044551
   },
   {
     "name": "hll Server",
@@ -1152,8 +1154,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1737958174
+    "port": 30700
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1433,7 +1434,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738044551
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1514,8 +1516,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1737958174
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -2642,8 +2643,7 @@
   {
     "name": "DonSebastian.LIVE | HLL #1 | Chile - LATAM",
     "addr": "177.54.147.141",
-    "port": 7867,
-    "removed": 1737871699
+    "port": 7867
   },
   {
     "name": "[LATAM/ARG]  Hydra's Legion | https://discord.gg/CbneXMFPYa",
@@ -2736,6 +2736,11 @@
     "port": 7847
   },
   {
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #8",
+    "addr": "181.214.221.212",
+    "port": 7857
+  },
+  {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #5",
     "addr": "181.214.221.41",
     "port": 7777
@@ -2756,7 +2761,7 @@
     "port": 7807
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #6 lvl+50",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #6",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -2773,17 +2778,20 @@
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.206.151.110",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "Die Gang",
     "addr": "185.206.151.110",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738044551
   },
   {
     "name": "Springfield Let Loose | New Players Welcome | UK / EU",
     "addr": "185.206.151.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
@@ -2794,7 +2802,8 @@
   {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
     "addr": "185.206.151.30",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2815,7 +2824,8 @@
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.83.152.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2845,7 +2855,8 @@
   {
     "name": "[ENG/EU] NEW PLAYERS WELCOME! PIZZA LET LOOSE PLL- https://disc",
     "addr": "188.64.33.118",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -3194,8 +3205,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738028073
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3232,12 +3242,14 @@
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
     "addr": "198.244.200.129",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "BigAzza's Hell Let Loose",
     "addr": "198.244.254.144",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
@@ -3245,7 +3257,7 @@
     "port": 8530
   },
   {
-    "name": "♤Ctrl Alt Defeat [SKIRMISH] ctrlalt-defeat.com",
+    "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
     "port": 9075
   },
@@ -3475,7 +3487,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738044551
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3714,7 +3727,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#除夕一声中萌新限杀の咖啡馆|Q120748151",
+    "name": "CN3#JP除夕一声中萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -4774,7 +4787,8 @@
   {
     "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "45.143.198.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -4923,17 +4937,20 @@
   {
     "name": "BROTHERHOOD.LV LT/LV/EE",
     "addr": "51.195.176.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "CZ/SK SVET",
     "addr": "51.195.176.120",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738044551
   },
   {
     "name": "47.Division Geist all Players Welcome",
@@ -4944,7 +4961,8 @@
   {
     "name": "#01 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
     "addr": "51.195.190.147",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738044551
   },
   {
     "name": "A Hell Let Loose PL",
@@ -5011,7 +5029,8 @@
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
@@ -5052,17 +5071,20 @@
   {
     "name": "|GoF HQ|New Player Friendly|Join Discord",
     "addr": "51.89.152.171",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "#1 BARMY ARMY [ENG] - LOW PING",
     "addr": "51.89.152.177",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738044551
   },
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
     "addr": "51.89.192.209",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738044551
   },
   {
     "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
@@ -5433,7 +5455,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #7 SPONSORED QONZER.COM",
+    "name": "<COBRAS FUMANTES> MARRAM #7 level +50",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -6421,7 +6443,8 @@
   {
     "name": "HLL Official - South America #19",
     "addr": "92.38.151.75",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738044551
   },
   {
     "name": "HLL Official - South America #20",
