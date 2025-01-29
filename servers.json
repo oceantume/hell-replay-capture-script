@@ -451,6 +451,11 @@
     "port": 7797
   },
   {
+    "name": "[GER][ENG] Fastest HLL Server by Qonzer.com",
+    "addr": "146.19.48.157",
+    "port": 7777
+  },
+  {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
     "port": 7787
@@ -2603,10 +2608,9 @@
     "removed": 1737571721
   },
   {
-    "name": "Caje du huan",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.34",
-    "port": 28400,
-    "removed": 1738090621
+    "port": 28400
   },
   {
     "name": "PL ARHN.EU Polski Serwer Saigi",
@@ -2688,7 +2692,8 @@
   {
     "name": "HLL - United Kingdom ",
     "addr": "178.239.170.76",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738152667
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -2708,7 +2713,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "178.249.213.87",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738152667
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -2835,8 +2841,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1738087731
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3430,7 +3435,8 @@
   {
     "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
     "addr": "208.115.206.197",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738152667
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -3510,8 +3516,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738130962
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3728,7 +3733,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1738152667
   },
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
@@ -3740,6 +3746,11 @@
     "name": "[GER] Die verbotenen Karten ( ͡° ͜ʖ ͡°) [BFTB]",
     "addr": "23.111.240.210",
     "port": 9075
+  },
+  {
+    "name": "CN1#米奇妙妙屋祝大家新年快乐/jp/975625508",
+    "addr": "31.56.0.104",
+    "port": 7777
   },
   {
     "name": "CN1#JP新春爆竹声中萌新军官の咖啡馆|Q120748151",
@@ -5861,7 +5872,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738152667
   },
   {
     "name": "HLL Official - US East #04",
@@ -5871,8 +5883,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200,
-    "removed": 1738066276
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -6285,7 +6296,8 @@
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
-    "port": 7907
+    "port": 7907,
+    "removed": 1738152667
   },
   {
     "name": "[CN]HLL斗罗大陆之萌新超神(纯攻防)Q群797464980",
