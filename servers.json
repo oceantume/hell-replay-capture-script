@@ -672,22 +672,26 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738177642
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738177642
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7797
+    "port": 7797,
+    "removed": 1738177642
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #01 - Turkish Only",
     "addr": "156.67.62.23",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738177642
   },
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -698,7 +702,8 @@
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738177642
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #02 - Turkish Only",
@@ -3276,8 +3281,7 @@
   {
     "name": "DK/ENG Hell Let Loose # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1738176982
+    "port": 8530
   },
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
@@ -3891,7 +3895,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738177642
   },
   {
     "name": "The Salty Neckbeards - US Central - GTXGaming",
@@ -3915,10 +3920,9 @@
     "port": 28600
   },
   {
-    "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious4",
+    "name": "Cadmando - Commander Coffee Break, Flanked & Furious4",
     "addr": "45.137.244.9",
-    "port": 28700,
-    "removed": 1738176982
+    "port": 28700
   },
   {
     "name": "HLL Official - Japan #01",
@@ -4896,10 +4900,9 @@
     "port": 7787
   },
   {
-    "name": "| Off Cooldown | New Community! | Discord: offcooldown.net",
+    "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
-    "port": 8530,
-    "removed": 1738176982
+    "port": 8530
   },
   {
     "name": "GSFP - 24/7 Warzone - US East",
@@ -5295,8 +5298,7 @@
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
     "addr": "64.20.48.138",
-    "port": 9075,
-    "removed": 1738176982
+    "port": 9075
   },
   {
     "name": "CN5#冬夜里的深夜春节咖啡馆萌新专服|JP120748151",
@@ -5580,8 +5582,7 @@
   {
     "name": "[FR] L'École des Bleus | Serveur Pour Débutants - discord.gg/",
     "addr": "79.137.89.136",
-    "port": 9075,
-    "removed": 1738176982
+    "port": 9075
   },
   {
     "name": "CN/EU EXP小南梁马克萌新服｜纯冲突｜Q556560029",
