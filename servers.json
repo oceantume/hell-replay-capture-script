@@ -267,8 +267,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1738044551
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -1441,8 +1440,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1738044551
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #209",
@@ -2494,7 +2492,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738130962
   },
   {
     "name": "HLL Official - Europe #04",
@@ -3225,8 +3224,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738114478
+    "port": 21200
   },
   {
     "name": "[Eu] Hell Let Loose Frontline #1",
@@ -3506,7 +3504,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738130962
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -6274,7 +6273,8 @@
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
-    "port": 7897
+    "port": 7897,
+    "removed": 1738130962
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
