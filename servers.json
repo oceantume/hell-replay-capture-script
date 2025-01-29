@@ -1543,14 +1543,12 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1738110550
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1738110550
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -3357,12 +3355,12 @@
     "port": 9058
   },
   {
-    "name": "CN1#JP#蟹粉的萌新军官欢乐训练营|Q群1022778056",
+    "name": "CN1#JP#新年快乐！萌新军官欢乐训练营|Q群102277805",
     "addr": "203.10.99.7",
     "port": 9078
   },
   {
-    "name": "CN2#JP#妙手的攻防军官欢乐训练营|Q群1022778056",
+    "name": "CN2#JP#新年快乐！攻防军官欢乐训练营|Q群102277805",
     "addr": "203.10.99.7",
     "port": 9088
   },
@@ -3796,12 +3794,6 @@
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
     "port": 7777
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
-    "addr": "31.58.228.76",
-    "port": 7787,
-    "removed": 1737505763
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
@@ -6387,7 +6379,8 @@
   {
     "name": "RIPLOMACY.ORG 》TEAMWORK REQUIRED 》FREE VIP IN DISCORD",
     "addr": "92.118.18.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738112157
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
