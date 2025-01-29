@@ -240,7 +240,7 @@
     "port": 10200
   },
   {
-    "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious3",
+    "name": "nitrado.net gameserver SfVXltGz",
     "addr": "134.255.240.110",
     "port": 10600
   },
@@ -1745,12 +1745,6 @@
     "name": "HLL Official - Europe #237",
     "addr": "176.57.168.61",
     "port": 28700
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.69",
-    "port": 28000,
-    "removed": 1737569350
   },
   {
     "name": "4story ",
@@ -3376,8 +3370,7 @@
   {
     "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
     "addr": "203.10.98.5",
-    "port": 8888,
-    "removed": 1738174145
+    "port": 8888
   },
   {
     "name": "萌新之家同盟进攻冷门图 QQ147559947JP",
@@ -4977,6 +4970,11 @@
     "port": 28500
   },
   {
+    "name": "[GER] Willkommen in der Hölle / Mic / Anfängerfreundlich / No",
+    "addr": "5.189.130.178",
+    "port": 29000
+  },
+  {
     "name": "[PL/ENG] TGD Clan",
     "addr": "5.189.132.77",
     "port": 28000
@@ -5285,7 +5283,8 @@
   {
     "name": "[13SNC] #4 - Dirty's Afterparty - discord.gg/13snc",
     "addr": "63.143.62.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738175042
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -5946,7 +5945,8 @@
   {
     "name": "CN#深夜食堂的萌新小窝syst 节点HK QQ群1017723887",
     "addr": "83.223.197.89",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738175042
   },
   {
     "name": "HLL Official - US East  ",
@@ -6173,7 +6173,8 @@
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
     "addr": "85.208.197.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738175042
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
