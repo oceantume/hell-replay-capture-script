@@ -321,7 +321,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 |  LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 |  DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -336,7 +336,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -683,8 +683,7 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7817,
-    "removed": 1738087731
+    "port": 7817
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -787,8 +786,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1738066276
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1545,12 +1543,14 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738110550
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738110550
   },
   {
     "name": "HLL Official - Europe #08",
@@ -2978,8 +2978,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1738066276
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3410,7 +3409,7 @@
     "port": 7777
   },
   {
-    "name": "CZ & SK | #3 | VLK EVENT @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3441,7 +3440,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY  LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY  LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3561,7 +3560,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ | DISCORD.GG/THE-CIR",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3618,7 +3617,8 @@
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
     "addr": "213.136.80.177",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738110550
   },
   {
     "name": "mmmeo",
@@ -3738,17 +3738,17 @@
     "port": 9075
   },
   {
-    "name": "CN1#JP除夕一声中萌新军官の咖啡馆|Q120748151",
+    "name": "CN1#JP新春爆竹声中萌新军官の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP除夕一声中甜甜攻防の咖啡馆|Q120748151",
+    "name": "CN2#JP新春爆竹声中甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP除夕一声中萌新限杀の咖啡馆|Q120748151",
+    "name": "CN3#JP新春爆竹声中萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -4153,7 +4153,8 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738110550
   },
   {
     "name": "HLL Official - US West #15",
@@ -5158,7 +5159,7 @@
     "port": 7817
   },
   {
-    "name": "PL/ENG Polski Serwer #1 VIP 5 DC: bit.ly/hell-let-loose-pl",
+    "name": "PL/ENG Polski Serwer #1 FREE VIP DC: bit.ly/hell-let-loose-pl",
     "addr": "57.128.229.70",
     "port": 7827
   },
@@ -5209,7 +5210,7 @@
     "port": 8530
   },
   {
-    "name": "House of FeaR - New Players Welcome!",
+    "name": "=F|A=Fearless-Assassins=New Players Welcome=",
     "addr": "64.20.48.138",
     "port": 8530
   },
