@@ -2613,12 +2613,6 @@
     "port": 28100
   },
   {
-    "name": "Lehrjahr 24/25",
-    "addr": "176.57.181.34",
-    "port": 28200,
-    "removed": 1737571721
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.coq",
     "addr": "176.57.181.34",
     "port": 28400
@@ -3282,7 +3276,8 @@
   {
     "name": "DK/ENG Hell Let Loose # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738176982
   },
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
@@ -3750,38 +3745,32 @@
   {
     "name": "GER.Johnnsy.Official-YT",
     "addr": "213.136.94.160",
-    "port": 28000,
-    "removed": 1738174145
+    "port": 28000
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 ",
     "addr": "213.136.94.160",
-    "port": 28100,
-    "removed": 1738174145
+    "port": 28100
   },
   {
     "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/cPAGjECexc // Wel",
     "addr": "213.136.94.160",
-    "port": 28200,
-    "removed": 1738174145
+    "port": 28200
   },
   {
     "name": "[TR] Mr Turk Group #1 | https://discord.gg/mrturkgroup",
     "addr": "213.136.94.160",
-    "port": 28300,
-    "removed": 1738174145
+    "port": 28300
   },
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
     "addr": "213.136.94.160",
-    "port": 28400,
-    "removed": 1738174145
+    "port": 28400
   },
   {
     "name": "[AUT/GER] Sturmbataillon  !!NEW!! Beginnerfreundlich",
     "addr": "213.136.94.160",
-    "port": 28600,
-    "removed": 1738174145
+    "port": 28600
   },
   {
     "name": "σ CHAD STUART'S — LVL 25+ PEAK HOURS | discord.gg/chadfgf",
@@ -3928,7 +3917,8 @@
   {
     "name": "Cadmando - Commander’s Coffee Break, Flanked & Furious4",
     "addr": "45.137.244.9",
-    "port": 28700
+    "port": 28700,
+    "removed": 1738176982
   },
   {
     "name": "HLL Official - Japan #01",
@@ -4908,7 +4898,8 @@
   {
     "name": "| Off Cooldown | New Community! | Discord: offcooldown.net",
     "addr": "45.45.238.203",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738176982
   },
   {
     "name": "GSFP - 24/7 Warzone - US East",
@@ -5304,7 +5295,8 @@
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
     "addr": "64.20.48.138",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738176982
   },
   {
     "name": "CN5#冬夜里的深夜春节咖啡馆萌新专服|JP120748151",
@@ -5588,7 +5580,8 @@
   {
     "name": "[FR] L'École des Bleus | Serveur Pour Débutants - discord.gg/",
     "addr": "79.137.89.136",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738176982
   },
   {
     "name": "CN/EU EXP小南梁马克萌新服｜纯冲突｜Q556560029",
