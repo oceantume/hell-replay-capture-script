@@ -57,7 +57,8 @@
   {
     "name": "<CN>BW黑色守望/红区萌新基地/Q群:682305162",
     "addr": "103.62.49.49",
-    "port": 8898
+    "port": 8898,
+    "removed": 1738220865
   },
   {
     "name": "[CN]国服金色切尔西萌新基地，Q群：425375843",
@@ -6177,8 +6178,7 @@
   {
     "name": "The Old Bastards 77thID, Changing to the 63rd Infantry Division",
     "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1738220183
+    "port": 8530
   },
   {
     "name": "{serverName}",
