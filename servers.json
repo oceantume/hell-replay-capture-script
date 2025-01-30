@@ -1192,7 +1192,7 @@
     "port": 28100
   },
   {
-    "name": "[ITA/ENG] =BIA= Clan New Players Welcome  ",
+    "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
     "addr": "176.57.140.196",
     "port": 28200
   },
@@ -3494,7 +3494,8 @@
   {
     "name": "[SAF] Scandinavian Armed Forces (level 20+, mic/voice, english)",
     "addr": "208.115.206.196",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738264016
   },
   {
     "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
@@ -4922,7 +4923,7 @@
     "port": 8530
   },
   {
-    "name": " Greyhound Event #1",
+    "name": "Greyhound Night Green",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -5064,7 +5065,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
     "port": 9075
   },
@@ -5562,6 +5563,11 @@
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
     "port": 8530
+  },
+  {
+    "name": "[SAF] Scandinavian Armed Forces (level 20+, mic/voice, english)",
+    "addr": "79.127.249.117",
+    "port": 7777
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
