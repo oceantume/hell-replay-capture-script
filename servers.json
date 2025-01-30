@@ -2808,7 +2808,8 @@
   {
     "name": "UK/EU 1 Gamer Dads on the Frontline I WARFARE ONLY! I New Playe",
     "addr": "185.125.205.119",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738240127
   },
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2844,8 +2845,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1738174145
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
