@@ -32,7 +32,8 @@
   {
     "name": "[CN]JP AFZ萌新1服|Q群:809972300",
     "addr": "103.62.49.39",
-    "port": 8908
+    "port": 8908,
+    "removed": 1738239093
   },
   {
     "name": "<CN>ARO（原TR）MAGA！ JP Q群703608483",
@@ -57,8 +58,7 @@
   {
     "name": "<CN>BW黑色守望/红区萌新基地/Q群:682305162",
     "addr": "103.62.49.49",
-    "port": 8898,
-    "removed": 1738220865
+    "port": 8898
   },
   {
     "name": "[CN]国服金色切尔西萌新基地，Q群：425375843",
@@ -323,7 +323,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -338,7 +338,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -518,7 +518,8 @@
   {
     "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738239093
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -625,12 +626,6 @@
     "addr": "156.146.44.225",
     "port": 7847,
     "removed": 1737893380
-  },
-  {
-    "name": "[CN]#HK薯薯是朋友 朋友很好吃丨1021844594",
-    "addr": "156.146.44.225",
-    "port": 7857,
-    "removed": 1737634287
   },
   {
     "name": "CN [MX]幼儿园薯条加工厂HK QQ群162996620",
@@ -2390,12 +2385,6 @@
     "port": 28300
   },
   {
-    "name": "RTC Gaming HLL #1 - EN - Discord.gg/rtcgaming",
-    "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1737634287
-  },
-  {
     "name": "[UA] Ukraine Unity Frontline #3 HLL discord.gg/uuf",
     "addr": "176.57.178.134",
     "port": 28100
@@ -3586,8 +3575,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738217349
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -5971,8 +5959,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1738174145
+    "port": 28200
   },
   {
     "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -6307,7 +6294,8 @@
   {
     "name": "CN.JP【PUMA】男娘米米大王萌新服q746699634",
     "addr": "89.46.1.190",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738239093
   },
   {
     "name": "<CN>#6 TT天堂刷分升级服进群领密码Q群：578097070",
@@ -6341,7 +6329,8 @@
   {
     "name": "Reclaimer training server",
     "addr": "89.46.1.190",
-    "port": 7847
+    "port": 7847,
+    "removed": 1738239093
   },
   {
     "name": "[CN]#9 公众号TT天堂免费领取永久VIP/Q群:578097070",
@@ -6358,7 +6347,8 @@
   {
     "name": "[CN]#JP薯薯是朋友 朋友很好吃丨1021844594",
     "addr": "89.46.1.190",
-    "port": 7877
+    "port": 7877,
+    "removed": 1738239093
   },
   {
     "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
@@ -6448,7 +6438,8 @@
   {
     "name": "Search SCSD for our new HLL server",
     "addr": "92.118.16.184",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738239093
   },
   {
     "name": "Excel Spreadsheets",
