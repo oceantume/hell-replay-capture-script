@@ -261,7 +261,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] DOG Hundehütte (min lvl 25)",
+    "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
     "port": 8530
   },
@@ -283,7 +283,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Event & T",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -323,7 +323,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -518,8 +518,7 @@
   {
     "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
-    "port": 8530,
-    "removed": 1738239093
+    "port": 8530
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -670,32 +669,38 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738260525
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738260525
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7797
+    "port": 7797,
+    "removed": 1738260525
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #1 | discord.gg/TSKHLL | Turkish",
     "addr": "156.67.62.23",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738260525
   },
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738260525
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "156.67.62.23",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738260525
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #2 | discord.gg/TSKHLL | Turkish",
@@ -736,7 +741,8 @@
   {
     "name": "[PL] [EU] Polski Serwer HLL",
     "addr": "168.119.79.144",
-    "port": 10165
+    "port": 10165,
+    "removed": 1738260525
   },
   {
     "name": "Hell Let Loose LTCOM [LT/EU}",
@@ -1137,7 +1143,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738260525
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1954,7 +1961,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
+    "name": "[GER] 1. Fallschirmjäger-Division 2 !Votemap",
     "addr": "176.57.171.176",
     "port": 28300
   },
@@ -2824,7 +2831,8 @@
   {
     "name": "Springfield Let Loose | New Players Welcome | UK / EU",
     "addr": "185.206.151.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738260525
   },
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
@@ -2845,7 +2853,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738260525
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2870,12 +2879,14 @@
   {
     "name": "HLL Germany | Low Ping | High Performance",
     "addr": "188.40.122.93",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738260525
   },
   {
     "name": "[GER] Feldfunk",
     "addr": "188.40.122.93",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738260525
   },
   {
     "name": "LTCOM LT",
@@ -3006,7 +3017,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1738260525
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3096,8 +3108,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1738174145
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -3482,7 +3493,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division 2 Votemap",
+    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -3508,7 +3519,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3608,10 +3619,9 @@
     "port": 7807
   },
   {
-    "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! ",
+    "name": "[GER] 106. Panzerbrigade | Wir rekrutieren!",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1738242109
+    "port": 7817
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -3629,7 +3639,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3705,6 +3715,11 @@
     "port": 28400
   },
   {
+    "name": "[PL/ENG] Elitarni #1 Tryb Gry: Działanie Wojenne | discord.gg/",
+    "addr": "213.136.80.177",
+    "port": 28900
+  },
+  {
     "name": "[NL/EN] [4th] Logan Bar Division",
     "addr": "213.136.88.87",
     "port": 28000
@@ -3732,7 +3747,13 @@
   {
     "name": "[PL] Elitarni #1 Tryb Gry: Działanie Wojenne |Vip 15PLN",
     "addr": "213.136.88.87",
-    "port": 28700
+    "port": 28700,
+    "removed": 1738260525
+  },
+  {
+    "name": "[PL/ENG] Elitarni #2  | discord.gg/HdHMHsSE9V",
+    "addr": "213.136.88.87",
+    "port": 28800
   },
   {
     "name": "GER.Johnnsy.Official-YT",
@@ -3851,7 +3872,7 @@
     "port": 7837
   },
   {
-    "name": "hll Server",
+    "name": "hell let loose",
     "addr": "31.56.0.81",
     "port": 7847
   },
@@ -5029,7 +5050,7 @@
     "port": 8530
   },
   {
-    "name": "CZ/SK SVET",
+    "name": "CZ/SK svet",
     "addr": "51.195.176.120",
     "port": 9075
   },
@@ -6116,7 +6137,8 @@
   {
     "name": "[9COH] - 9 Circles Of Hell -Warfare Only- discord.gg/k7dJCWSj5c",
     "addr": "85.10.193.130",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738260525
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -6164,7 +6186,7 @@
     "port": 8530
   },
   {
-    "name": "The Old Bastards 77thID, Changing to the 63rd Infantry Division",
+    "name": "63rd infantry Division [iB][new player friendly][Recruiting now",
     "addr": "88.209.197.59",
     "port": 8530
   },
@@ -6287,8 +6309,7 @@
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1738242109
+    "port": 7777
   },
   {
     "name": "CN.JP【PUMA】男娘米米大王萌新服q746699634",
@@ -6298,13 +6319,13 @@
   {
     "name": "<CN>#6 TT天堂刷分升级服进群领密码Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7797,
-    "removed": 1738174145
+    "port": 7797
   },
   {
     "name": "<CN>#7 TT天堂萌新俱乐部 （夜间图）Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738260525
   },
   {
     "name": "<CN>#8 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -6345,8 +6366,7 @@
   {
     "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
-    "port": 7887,
-    "removed": 1738217349
+    "port": 7887
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
@@ -6413,7 +6433,8 @@
   {
     "name": "[ESP] L.C.K. España [Spain] LVL+20",
     "addr": "92.118.16.102",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738260525
   },
   {
     "name": "Team17",
@@ -6486,6 +6507,11 @@
     "name": "PC Gamers - LATAM",
     "addr": "92.118.19.142",
     "port": 7777
+  },
+  {
+    "name": "The Unnamed Company",
+    "addr": "92.118.19.60",
+    "port": 7787
   },
   {
     "name": "U Test Server",
