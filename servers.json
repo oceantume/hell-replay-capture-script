@@ -80,7 +80,7 @@
     "port": 8948
   },
   {
-    "name": "BigD.com.au AU#2 | Offensive | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
     "addr": "103.62.51.135",
     "port": 8888
   },
@@ -267,12 +267,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738217349
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738217349
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -637,8 +639,7 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
-    "port": 7887,
-    "removed": 1738200838
+    "port": 7887
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
@@ -806,6 +807,11 @@
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
     "addr": "172.96.172.104",
     "port": 7807
+  },
+  {
+    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
+    "addr": "173.225.109.146",
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1501,8 +1507,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1738174145
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -1552,8 +1557,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1738174145
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1866,7 +1870,8 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738217349
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1881,17 +1886,20 @@
   {
     "name": "HLL Official - Europe #68",
     "addr": "176.57.171.120",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738217349
   },
   {
     "name": "HLL Official - Europe #87",
     "addr": "176.57.171.120",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738217349
   },
   {
     "name": "HLL Official - Europe #122",
     "addr": "176.57.171.120",
-    "port": 28500
+    "port": 28500,
+    "removed": 1738217349
   },
   {
     "name": "HLL Official - Europe #133",
@@ -2987,7 +2995,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "192.169.86.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1738217349
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -3243,8 +3252,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738200838
+    "port": 21200
   },
   {
     "name": "Server Off: Zapraszam [PL] Elitarni #1 oraz #2",
@@ -3577,7 +3585,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738217349
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -5356,8 +5365,7 @@
   {
     "name": "<CN>JP/菜鸟乐园纯攻防『萌新友好』群号974297943",
     "addr": "64.31.11.50",
-    "port": 12890,
-    "removed": 1738200838
+    "port": 12890
   },
   {
     "name": "CN：灰猎犬连萌新EPIC攻防服/JP Q：441245221",
@@ -6073,7 +6081,8 @@
   {
     "name": "M$NEY JUST HITS DIFFERENT  (MJHD)",
     "addr": "83.223.207.46",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738217349
   },
   {
     "name": "130.Panzer Lehr Division (USA-TX) https://discord.gg/VgwWbkHjNj",
@@ -6325,7 +6334,8 @@
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
     "addr": "89.46.1.190",
-    "port": 7837
+    "port": 7837,
+    "removed": 1738217349
   },
   {
     "name": "Reclaimer training server",
@@ -6352,7 +6362,8 @@
   {
     "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
-    "port": 7887
+    "port": 7887,
+    "removed": 1738217349
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
