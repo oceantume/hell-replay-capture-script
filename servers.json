@@ -1557,14 +1557,12 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1738196916
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1738196916
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -3247,12 +3245,6 @@
     "port": 21200
   },
   {
-    "name": "[Eu] Hell Let Loose Frontline #1",
-    "addr": "195.82.158.186",
-    "port": 21300,
-    "removed": 1737592136
-  },
-  {
     "name": "Server Off: Zapraszam [PL] Elitarni #1 oraz #2",
     "addr": "195.82.158.186",
     "port": 21600,
@@ -4901,8 +4893,7 @@
   {
     "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
-    "port": 8530,
-    "removed": 1738196916
+    "port": 8530
   },
   {
     "name": "ZuluFoxtrot | New Players | zf-gaming.com | VIP Rewards",
@@ -5076,12 +5067,6 @@
     "name": "6th Recon Division [6RCN] NA East",
     "addr": "51.222.248.105",
     "port": 8530
-  },
-  {
-    "name": "6th Recon Division [6RCN] NA-EAST",
-    "addr": "51.222.44.122",
-    "port": 8530,
-    "removed": 1737592136
   },
   {
     "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
@@ -6014,12 +5999,6 @@
     "addr": "83.223.203.51",
     "port": 28400,
     "removed": 1737698963
-  },
-  {
-    "name": "Realistic Warthunder",
-    "addr": "83.223.204.11",
-    "port": 28100,
-    "removed": 1737592136
   },
   {
     "name": "For the Boys - US East",
