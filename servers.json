@@ -3256,12 +3256,6 @@
     "port": 21200
   },
   {
-    "name": "Server Off: Zapraszam [PL] Elitarni #1 oraz #2",
-    "addr": "195.82.158.186",
-    "port": 21600,
-    "removed": 1737655733
-  },
-  {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
     "port": 8530
@@ -5055,12 +5049,6 @@
     "port": 9075
   },
   {
-    "name": "47.Division Geist all Players Welcome",
-    "addr": "51.195.190.147",
-    "port": 8530,
-    "removed": 1737655733
-  },
-  {
     "name": "#01 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
     "addr": "51.195.190.147",
     "port": 9075
@@ -5519,12 +5507,6 @@
     "name": "多 | New Player Friendly | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7797
-  },
-  {
-    "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
-    "addr": "69.162.102.50",
-    "port": 7817,
-    "removed": 1737655733
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -6433,8 +6415,7 @@
   {
     "name": "[ESP] L.C.K. España [Spain] LVL+20",
     "addr": "92.118.16.102",
-    "port": 7787,
-    "removed": 1738260525
+    "port": 7787
   },
   {
     "name": "Team17",
