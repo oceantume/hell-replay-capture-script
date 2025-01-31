@@ -1791,12 +1791,6 @@
     "port": 28700
   },
   {
-    "name": "4story ",
-    "addr": "176.57.168.69",
-    "port": 28100,
-    "removed": 1737742135
-  },
-  {
     "name": "[BxB] - Black Bees Server - [ESP] ",
     "addr": "176.57.168.69",
     "port": 28200
@@ -3292,8 +3286,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738346913
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -6041,12 +6034,6 @@
     "port": 28000
   },
   {
-    "name": "вит | Bad Intentions Server #1 [US EAST]",
-    "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1737742135
-  },
-  {
     "name": "murphy hell let loose east  Server by g-portal.com ",
     "addr": "83.223.203.155",
     "port": 28300,
@@ -6249,7 +6236,8 @@
   {
     "name": "HLL Server",
     "addr": "89.242.189.190",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738347814
   },
   {
     "name": "HLL Official - South America #23",
@@ -6304,7 +6292,8 @@
   {
     "name": "HLL Official - South America #10",
     "addr": "89.43.106.37",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738347814
   },
   {
     "name": "HLL Official - South America #11",
