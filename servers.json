@@ -76,6 +76,11 @@
     "port": 8928
   },
   {
+    "name": "HLL Server",
+    "addr": "103.62.49.49",
+    "port": 8938
+  },
+  {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
     "addr": "103.62.49.49",
     "port": 8948
@@ -2705,7 +2710,7 @@
     "port": 7867
   },
   {
-    "name": "[LATAM/ARG]  Hydra's Legion | https://discord.gg/CbneXMFPYa",
+    "name": "Hell Let Loose Server",
     "addr": "177.54.147.141",
     "port": 7887
   },
@@ -3282,7 +3287,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738287262
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3863,56 +3869,47 @@
   {
     "name": "CN1#JP新春爆竹声中萌新军官の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777,
-    "removed": 1738284965
+    "port": 7777
   },
   {
     "name": "CN2#JP新春爆竹声中甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1738284965
+    "port": 7787
   },
   {
     "name": "CN3#JP新春爆竹声中萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1738284965
+    "port": 7797
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1738284965
+    "port": 7807
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1738284965
+    "port": 7817
   },
   {
     "name": "CN4#JP新春爆竹声中萌新限杀の冲突馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7827,
-    "removed": 1738284965
+    "port": 7827
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7837,
-    "removed": 1738284965
+    "port": 7837
   },
   {
     "name": "hell let loose",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1738284965
+    "port": 7847
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7857,
-    "removed": 1738284965
+    "port": 7857
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -3942,7 +3939,8 @@
   {
     "name": "The Salty Neckbeards - US Central - GTXGaming",
     "addr": "38.18.231.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738287262
   },
   {
     "name": "Devils Brigade (US CENTRAL)",
@@ -5088,10 +5086,9 @@
     "port": 9075
   },
   {
-    "name": "#01 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
+    "name": "#03 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
     "addr": "51.195.190.147",
-    "port": 9075,
-    "removed": 1738284965
+    "port": 9075
   },
   {
     "name": "A Hell Let Loose PL",
@@ -6537,7 +6534,8 @@
   {
     "name": "The Unnamed Company",
     "addr": "92.118.19.60",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738287262
   },
   {
     "name": "U Test Server",
