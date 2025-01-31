@@ -328,7 +328,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -385,7 +385,8 @@
   {
     "name": "[GER]101st Airborne Division/WIR REKRUTIEREN/101stairbornedivis",
     "addr": "141.95.34.126",
-    "port": 10165
+    "port": 10165,
+    "removed": 1738346913
   },
   {
     "name": "War boys [ENG] (LVL 25+) - NEW SERVER COME SEED!",
@@ -621,7 +622,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#10 TT天堂萌新俱乐部 （随机图）Q群：578097070",
+    "name": "<CN>#9 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7837
   },
@@ -652,7 +653,7 @@
     "port": 7907
   },
   {
-    "name": "<CN>#11 TT天堂刷分升级服进群领密码Q群：578097070",
+    "name": "<CN>#10 TT天堂刷分升级服进群领密码Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7917
   },
@@ -662,7 +663,7 @@
     "port": 7927
   },
   {
-    "name": "[CN]#12 公众号TT天堂免费领取永久VIP/Q群:578097070",
+    "name": "[CN]#8 公众号TT天堂免费领取永久VIP/Q群:578097070",
     "addr": "156.146.44.225",
     "port": 7937
   },
@@ -773,17 +774,20 @@
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738346913
   },
   {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738346913
   },
   {
     "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
-    "port": 7797
+    "port": 7797,
+    "removed": 1738346913
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #1 | discord.gg/TSKHLL | Turkish",
@@ -793,12 +797,14 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738346913
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.73",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738346913
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -1179,8 +1185,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1738260525
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2362,8 +2367,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1738307323
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -2929,7 +2933,7 @@
     "port": 8530
   },
   {
-    "name": "[ENG/EU] NEW PLAYERS WELCOME! PIZZA LET LOOSE PLL- https://disc",
+    "name": "[ITA/EU] 🍕 PIZZA LET LOOSE - PLL - NEW PLAYERS WELCOME! - ht",
     "addr": "188.64.33.118",
     "port": 8530
   },
@@ -3162,7 +3166,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738346913
   },
   {
     "name": "HLL Official - US West #02",
@@ -3287,7 +3292,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738346913
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3333,8 +3339,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1738325473
+    "port": 9620
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
@@ -3397,8 +3402,7 @@
   {
     "name": "萌新之家同盟进攻冷门图 QQ147559947JP",
     "addr": "203.10.98.5",
-    "port": 8898,
-    "removed": 1738328479
+    "port": 8898
   },
   {
     "name": "✠︎101 JP#[Violet]紫罗兰 | Warfare | 少女与战车GuP",
@@ -3550,7 +3554,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3670,7 +3674,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3861,6 +3865,31 @@
     "name": "CN1#米奇妙妙屋祝大家新年快乐/jp/975625508",
     "addr": "31.56.0.104",
     "port": 7777
+  },
+  {
+    "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "31.56.0.120",
+    "port": 7777
+  },
+  {
+    "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "31.56.0.120",
+    "port": 7787
+  },
+  {
+    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "31.56.0.120",
+    "port": 7797
+  },
+  {
+    "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "31.56.0.120",
+    "port": 7817
+  },
+  {
+    "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "addr": "31.56.0.120",
+    "port": 7827
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
@@ -4951,7 +4980,8 @@
   {
     "name": "ZuluFoxtrot | New Players | zf-gaming.com | VIP Rewards",
     "addr": "45.45.238.228",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738346913
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTideHLL",
@@ -5192,7 +5222,7 @@
     "port": 8530
   },
   {
-    "name": "#1 BARMY ARMY [ENG] - Level 25+ ",
+    "name": "[BA] #1 BARMY ARMY [ENG] - Low Ping ",
     "addr": "51.89.152.177",
     "port": 8530
   },
@@ -5648,8 +5678,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1738174145
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -6218,6 +6247,11 @@
     "port": 28300
   },
   {
+    "name": "HLL Server",
+    "addr": "89.242.189.190",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
     "port": 28000
@@ -6339,7 +6373,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#6 TT天堂刷分升级服进群领密码Q群：578097070",
+    "name": "<CN>#6 TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "89.46.1.190",
     "port": 7797
   },
@@ -6350,7 +6384,7 @@
     "removed": 1738260525
   },
   {
-    "name": "<CN>#8 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
+    "name": "<CN>#7 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "89.46.1.190",
     "port": 7817
   },
