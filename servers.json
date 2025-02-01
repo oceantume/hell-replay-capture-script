@@ -1529,7 +1529,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] Willkommen im Sandkasten der 106. Panzerbrigade",
+    "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hllb",
     "addr": "176.57.153.41",
     "port": 28100
   },
@@ -6655,7 +6655,8 @@
   {
     "name": "HLL Official - South America #21",
     "addr": "92.38.151.90",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738435922
   },
   {
     "name": "HLL Official - South America #22",
