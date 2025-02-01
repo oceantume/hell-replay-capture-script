@@ -4019,7 +4019,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738415337
   },
   {
     "name": "HLL Official - Japan #17",
@@ -6393,7 +6394,8 @@
   {
     "name": "<CN>白毛萝莉萌新训练营 Q群：870524153",
     "addr": "89.46.1.190",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738415337
   },
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
@@ -6683,8 +6685,7 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600,
-    "removed": 1738414613
+    "port": 28600
   },
   {
     "name": "(LAT) Hell let loose by AK",
