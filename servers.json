@@ -784,6 +784,11 @@
     "port": 7777
   },
   {
+    "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
+    "addr": "169.150.215.66",
+    "port": 7877
+  },
+  {
     "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
@@ -6678,7 +6683,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1738414613
   },
   {
     "name": "(LAT) Hell let loose by AK",
