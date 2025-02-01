@@ -799,8 +799,7 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
-    "port": 7817,
-    "removed": 1738390096
+    "port": 7817
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -3277,14 +3276,12 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1738434821
+    "port": 20900
   },
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738434821
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3302,7 +3299,7 @@
     "port": 9620
   },
   {
-    "name": "DK/ENG Hell Let Loose # 1 © www.hellletloose.dk",
+    "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
