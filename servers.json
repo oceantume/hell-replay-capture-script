@@ -288,10 +288,9 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Private Event| discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | Private Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1738412767
+    "port": 9224
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
@@ -329,7 +328,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -716,7 +715,7 @@
     "removed": 1738260525
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #2 | discord.gg/TSKHLL | Turkish",
+    "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "159.69.226.137",
     "port": 7777
   },
@@ -758,12 +757,6 @@
     "removed": 1738260525
   },
   {
-    "name": "Hell Let Loose LTCOM [LT/EU}",
-    "addr": "168.119.79.144",
-    "port": 10710,
-    "removed": 1737828451
-  },
-  {
     "name": "ProxGaming Europe EU",
     "addr": "168.119.79.144",
     "port": 11800
@@ -784,7 +777,7 @@
     "port": 7777
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
+    "name": "[TR] Türk Silahlı Kuvvetleri #2 | discord.gg/TSKHLL | Turkish",
     "addr": "169.150.215.66",
     "port": 7877
   },
@@ -1542,7 +1535,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] [1DBD)1./ DosenBier Division (MIC Pflicht, German only, A",
+    "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
     "addr": "176.57.153.41",
     "port": 28200
   },
@@ -2485,7 +2478,7 @@
     "port": 28300
   },
   {
-    "name": "[ GER ] Skirmish Event Server | by Kampfgruppe Lazarus",
+    "name": "[ GER ] Hack Let Loose | Test Server | by Kampfgruppe Lazarus",
     "addr": "176.57.181.105",
     "port": 28300
   },
@@ -2508,12 +2501,6 @@
     "name": "SLB #1b",
     "addr": "176.57.181.144",
     "port": 28100
-  },
-  {
-    "name": "[GER]Chaos-Chaoten-Clan!Twitch Albert Meilenstein!",
-    "addr": "176.57.181.144",
-    "port": 28200,
-    "removed": 1737828451
   },
   {
     "name": "HLL Official - Europe #18",
@@ -3171,8 +3158,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1738346913
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -3289,12 +3275,6 @@
     "port": 7777
   },
   {
-    "name": "Régiment Des Lames d'Acier - 8e Groupe Blindé",
-    "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1737828451
-  },
-  {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
     "port": 20900
@@ -3404,7 +3384,7 @@
     "port": 8888
   },
   {
-    "name": "CN1「FJ&CZS」纯冲突进阶服｜JP｜Q716701264",
+    "name": "CN3「CU」超质数中队冲突|JP|Q719036493",
     "addr": "203.10.98.41",
     "port": 8888
   },
@@ -3526,6 +3506,16 @@
     "port": 8888
   },
   {
+    "name": "CN2「CZS」九尾狐啤酒小屋萌新攻防|EU|Q719036493",
+    "addr": "203.23.178.6",
+    "port": 8888
+  },
+  {
+    "name": "CN1「CZS」深夜啤酒小屋萌新图书馆||Q719036493",
+    "addr": "203.27.106.45",
+    "port": 8888
+  },
+  {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
     "port": 7777
@@ -3573,7 +3563,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3918,7 +3908,8 @@
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "31.56.0.80",
-    "port": 7877
+    "port": 7877,
+    "removed": 1738433251
   },
   {
     "name": "CN1#JP新春爆竹声中萌新军官の咖啡馆|Q120748151",
@@ -5059,6 +5050,11 @@
     "port": 29000
   },
   {
+    "name": "[TR] Mr Turk Group #2 | Test Sunucusu | https://discord.gg/mrtu",
+    "addr": "5.189.130.178",
+    "port": 29100
+  },
+  {
     "name": "[PL/ENG] TGD Clan",
     "addr": "5.189.132.77",
     "port": 28000
@@ -5097,7 +5093,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "5.226.141.83",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738433251
   },
   {
     "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Seeding+",
@@ -5108,12 +5105,6 @@
     "name": "[GER] Sancheez Community| Mic Only!",
     "addr": "5.9.150.142",
     "port": 9075
-  },
-  {
-    "name": "[GER]Bratwurst Brigade | Mic only | Aktiv Admins | new Server",
-    "addr": "5.9.77.39",
-    "port": 8530,
-    "removed": 1737828451
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -5707,7 +5698,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738433251
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5952,7 +5944,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738433251
   },
   {
     "name": "HLL Official - Asia #05",
@@ -6392,10 +6385,9 @@
     "removed": 1738392320
   },
   {
-    "name": "<CN>白毛萝莉萌新训练营 Q群：870524153",
+    "name": "<CN> 白毛萝莉|萌新俱乐部|JP|Q群814464",
     "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1738415337
+    "port": 7817
   },
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
