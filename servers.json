@@ -3189,6 +3189,11 @@
     "port": 28000
   },
   {
+    "name": "Outlaw's Hideout (US West)",
+    "addr": "193.192.59.39",
+    "port": 28100
+  },
+  {
     "name": "The Bay 707 (US WEST)",
     "addr": "193.192.59.99",
     "port": 28300,
@@ -3619,7 +3624,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738391764
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -6369,16 +6375,14 @@
     "port": 7797
   },
   {
-    "name": "cn9999",
+    "name": "【FJ】Fallschirmjäger绿魔鬼服务器Q群716701264 ",
     "addr": "89.46.1.190",
-    "port": 7807,
-    "removed": 1738390987
+    "port": 7807
   },
   {
-    "name": "<CN>#7 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
+    "name": "<CN>白毛萝莉萌新训练营 Q群：870524153",
     "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1738390987
+    "port": 7817
   },
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
