@@ -472,7 +472,8 @@
   {
     "name": "hll Server",
     "addr": "146.19.48.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738390096
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
@@ -799,12 +800,14 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738390096
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.73",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738390096
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -839,8 +842,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1738325473
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1552,7 +1554,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738390096
   },
   {
     "name": "QA Testing - EU #03",
@@ -1587,7 +1590,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738390096
   },
   {
     "name": "HLL Official - Europe #07",
@@ -2446,7 +2450,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738390096
   },
   {
     "name": "QA Testing - EU #05",
@@ -2547,13 +2552,13 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1738303746
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738390096
   },
   {
     "name": "QA Testing - EU #10",
@@ -2720,7 +2725,8 @@
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
-    "port": 7927
+    "port": 7927,
+    "removed": 1738390096
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil / Servidor de Eventos - https://di",
@@ -3033,7 +3039,8 @@
   {
     "name": "EASY Company  | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.88.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738390096
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -5308,12 +5315,6 @@
     "port": 7827
   },
   {
-    "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
-    "addr": "63.143.60.18",
-    "port": 7787,
-    "removed": 1737785284
-  },
-  {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
     "addr": "63.143.60.20",
     "port": 7777
@@ -6368,10 +6369,9 @@
     "port": 7797
   },
   {
-    "name": "<CN>#7 TT天堂萌新俱乐部 （夜间图）Q群：578097070",
+    "name": "cn9999",
     "addr": "89.46.1.190",
-    "port": 7807,
-    "removed": 1738260525
+    "port": 7807
   },
   {
     "name": "<CN>#7 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -6530,7 +6530,7 @@
     "removed": 1738112157
   },
   {
-    "name": "[TOG] Official Training Server",
+    "name": "[TOG] The Old Guard Official (US VA)",
     "addr": "92.118.18.82",
     "port": 7787
   },
