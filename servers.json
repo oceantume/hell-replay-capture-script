@@ -827,8 +827,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1738500992
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1521,8 +1520,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hllb",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1738476520
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -3235,10 +3233,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] Free candy! Hop on! [Omen]",
+    "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
-    "port": 7787,
-    "removed": 1738500992
+    "port": 7787
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -3985,8 +3982,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738415337
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -6331,8 +6327,7 @@
   {
     "name": "CN1#JP ODST地狱空降师/Xpp/萌新小窝/QQ群：478583207",
     "addr": "89.46.1.190",
-    "port": 7637,
-    "removed": 1738500992
+    "port": 7637
   },
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
@@ -6376,7 +6371,7 @@
     "port": 7847
   },
   {
-    "name": "【FJ】绿魔鬼服务器/Q群716701264",
+    "name": "CN1#【FJ】绿魔鬼战队服务器/Q群716701264",
     "addr": "89.46.1.190",
     "port": 7857
   },
@@ -6393,8 +6388,7 @@
   {
     "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
-    "port": 7887,
-    "removed": 1738500231
+    "port": 7887
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
@@ -6569,7 +6563,8 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738501705
   },
   {
     "name": "HLL Official - South America #09",
