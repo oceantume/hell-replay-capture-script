@@ -2861,6 +2861,11 @@
     "port": 8530
   },
   {
+    "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
+    "addr": "185.206.151.114",
+    "port": 9075
+  },
+  {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
     "addr": "185.206.151.30",
     "port": 8530
@@ -6378,7 +6383,8 @@
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738478188
   },
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
