@@ -327,7 +327,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -360,6 +360,11 @@
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
     "port": 9620
+  },
+  {
+    "name": "57thReg./57.Alay + + + YENİ GELMEDİK GERİ GELDİK :) TUR/ENG",
+    "addr": "141.95.3.135",
+    "port": 8530
   },
   {
     "name": " [Ger/Eng] 77th Apex Division #1 // discord.gg/cPAGjECexc // We",
@@ -906,7 +911,7 @@
     "removed": 1738456289
   },
   {
-    "name": "ALL PLAYERS WELCOME! (ENG/GER) - Empire of Thunder",
+    "name": "ALL PLAYERS WELCOME! (Europe) - Empire of Thunder",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -1173,7 +1178,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738519681
   },
   {
     "name": "HLL Official - Australia #03",
@@ -3120,7 +3126,7 @@
     "port": 7777
   },
   {
-    "name": "TD〢Tank Destroyers LVL 25+ SLs  | EU/ENG | Discord.gg/TankDes",
+    "name": "TD 〢 Tank Destroyers LVL 50+  | EU/ENG | Discord.gg/TankDestr",
     "addr": "193.160.22.142",
     "port": 7777
   },
@@ -3503,7 +3509,7 @@
     "port": 7777
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Skirmish SMDM",
+    "name": "[Ger] 1. Fallschirmjäger Division Skirmish Event",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -3530,7 +3536,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -5191,7 +5197,8 @@
   {
     "name": "[PL] Hell Let Loose Polska - Polski Serwer HLL - VIP za seeding",
     "addr": "51.83.150.41",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738519681
   },
   {
     "name": "[UA] Ukraine Unity Frontline #1 HLL discord.gg/uuf",
@@ -5575,7 +5582,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #7 level +50 QONZER.COM",
+    "name": "<COBRAS FUMANTES> MARRAM #7   QONZER.COM",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -5653,7 +5660,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738519681
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5663,8 +5671,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1738433251
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5909,8 +5916,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1738433251
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -6047,7 +6053,8 @@
   {
     "name": "Husk let loose (US East)",
     "addr": "83.223.204.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738519681
   },
   {
     "name": "For the Boys - US East",
@@ -6335,7 +6342,7 @@
     "port": 7777
   },
   {
-    "name": "CN.JP【PUMA】男娘米米大王萌新服q746699634",
+    "name": "CN.JP【PUMA】夜晚激战冲突对抗服q746699634",
     "addr": "89.46.1.190",
     "port": 7787
   },
@@ -6563,8 +6570,7 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100,
-    "removed": 1738501705
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #09",
