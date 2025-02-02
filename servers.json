@@ -279,8 +279,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1738217349
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -622,7 +621,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#9 TT天堂萌新俱乐部 （随机图）Q群：578097070",
+    "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7837
   },
@@ -653,7 +652,7 @@
     "port": 7907
   },
   {
-    "name": "<CN>#10 TT天堂刷分升级服进群领密码Q群：578097070",
+    "name": "<CN>#9 TT天堂刷分升级服进群领密码Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7917
   },
@@ -1526,7 +1525,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hllb",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738476520
   },
   {
     "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -1545,10 +1545,14 @@
     "port": 32400
   },
   {
+    "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
+    "addr": "176.57.165.128",
+    "port": 33400
+  },
+  {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1738390096
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -1583,8 +1587,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1738390096
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1599,7 +1602,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738476520
   },
   {
     "name": "QA Testing - EU #04",
@@ -2443,8 +2447,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1738390096
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -2544,8 +2547,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.181.209",
-    "port": 28200,
-    "removed": 1738390096
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #10",
@@ -2882,7 +2884,8 @@
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.83.152.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738476520
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -3208,7 +3211,8 @@
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
     "addr": "194.140.198.168",
-    "port": 28500
+    "port": 28500,
+    "removed": 1738476520
   },
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
@@ -3803,6 +3807,11 @@
     "name": "[AUT/GER] Sturmbataillon  !!NEW!! Beginnerfreundlich",
     "addr": "213.136.94.160",
     "port": 28600
+  },
+  {
+    "name": "Twitch: iGoDLiKe_v2",
+    "addr": "213.136.94.160",
+    "port": 28900
   },
   {
     "name": "σ CHAD STUART'S — LVL 25+ PEAK HOURS | discord.gg/chadfgf",
@@ -6140,7 +6149,8 @@
   {
     "name": "=B&B= Bloody Bucket discordgg/bbucket",
     "addr": "83.223.207.50",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738476520
   },
   {
     "name": "[US] [ENG] Sigma Let Loose | Farming XP and Roles",
@@ -6412,7 +6422,7 @@
     "port": 7907
   },
   {
-    "name": "[CN]HLL斗罗大陆之萌新超神(纯攻防)Q群797464980",
+    "name": "[CN]斗罗大陆之海军上酱女装(纯攻防)Q群797464980",
     "addr": "89.46.1.190",
     "port": 7927
   },
@@ -6658,7 +6668,8 @@
   {
     "name": "(LAT) Hell let loose by AK",
     "addr": "92.38.151.92",
-    "port": 29100
+    "port": 29100,
+    "removed": 1738476520
   },
   {
     "name": "US WEST | Blood Buckets",
