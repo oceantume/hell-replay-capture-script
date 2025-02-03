@@ -342,7 +342,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -1533,10 +1533,9 @@
     "port": 28000
   },
   {
-    "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hllb",
+    "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1738562991
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -2889,8 +2888,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1738327665
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3387,7 +3385,8 @@
   {
     "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
     "addr": "203.10.98.5",
-    "port": 8888
+    "port": 8888,
+    "removed": 1738584681
   },
   {
     "name": "CN6#咖啡馆&CZS训练刷分升级服密码群1022240199",
@@ -3398,6 +3397,11 @@
     "name": "『CZS』 Special training clothing［Jp］",
     "addr": "203.10.98.5",
     "port": 8908
+  },
+  {
+    "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
+    "addr": "203.10.98.5",
+    "port": 8918
   },
   {
     "name": "✠︎101 JP#[Violet]紫罗兰 | Warfare | 少女与战车GuP",
@@ -3620,8 +3624,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738562991
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3752,6 +3755,11 @@
     "name": "[PL/ENG] Elitarni #1 Tryb Gry: Działanie Wojenne | discord.gg/",
     "addr": "213.136.80.177",
     "port": 28900
+  },
+  {
+    "name": "Warfrags Studios",
+    "addr": "213.136.80.177",
+    "port": 29000
   },
   {
     "name": "[NL/EN] [4th] Logan Bar Division",
@@ -5349,7 +5357,8 @@
   {
     "name": "[13SNC] #4 - Dirty's Afterparty - discord.gg/13snc",
     "addr": "63.143.62.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738584681
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -6007,13 +6016,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1738498185
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738584681
   },
   {
     "name": "HLL Official - US East #02",
