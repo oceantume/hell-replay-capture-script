@@ -313,8 +313,7 @@
   {
     "name": "[GER]Daddelbude Discord https://discord.gg/SdZFhpR8u9",
     "addr": "136.243.82.234",
-    "port": 8530,
-    "removed": 1738607049
+    "port": 8530
   },
   {
     "name": "ZOO - Match server",
@@ -3531,7 +3530,8 @@
   {
     "name": "Dewi und die Soulsisters",
     "addr": "208.115.206.196",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738607819
   },
   {
     "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
