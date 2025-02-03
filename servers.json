@@ -22,7 +22,8 @@
   {
     "name": "qiu ye yuan nan ming ying qi e1098305217",
     "addr": "103.62.49.39",
-    "port": 8888
+    "port": 8888,
+    "removed": 1738562991
   },
   {
     "name": "CN-音奏的萌新进阶服6服|Q群:598632634|JP节点",
@@ -906,7 +907,7 @@
     "port": 28700
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 5 | FRONTLINE NEWBIE | QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | FRONTLINE NEWBIE | QS | OINK",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -1221,7 +1222,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1738562991
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1501,7 +1503,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738562991
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1511,7 +1514,8 @@
   {
     "name": "HLL Playtest Server - Europe #02",
     "addr": "176.57.140.97",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738562991
   },
   {
     "name": "QA Testing - EU #08",
@@ -1532,7 +1536,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hllb",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738562991
   },
   {
     "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
@@ -1580,7 +1585,7 @@
     "port": 28100
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 6 | BUMSHÜTTE | QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 4 | BUMSHÜTTE | QS | OINK",
     "addr": "176.57.168.178",
     "port": 28300
   },
@@ -1602,8 +1607,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1738476520
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1920,7 +1924,8 @@
   {
     "name": "HLL Official - Europe #52",
     "addr": "176.57.171.120",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738562991
   },
   {
     "name": "HLL Official - Europe #68",
@@ -2205,7 +2210,7 @@
     "port": 28100
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 7 | FUNKYTOWN | QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 5 | BALLERBUDE | QS | OINK",
     "addr": "176.57.173.119",
     "port": 28200
   },
@@ -3274,8 +3279,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738546571
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3617,7 +3621,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738562991
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3951,20 +3956,23 @@
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
     "addr": "31.58.228.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738562991
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.53",
-    "port": 7877
+    "port": 7877,
+    "removed": 1738562991
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
     "addr": "31.58.228.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738562991
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | Cola Whisky | QS |OINK OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.76",
     "port": 7977
   },
@@ -6058,12 +6066,6 @@
     "addr": "83.223.204.11",
     "port": 28100,
     "removed": 1738519681
-  },
-  {
-    "name": "For the Boys - US East",
-    "addr": "83.223.204.11",
-    "port": 28200,
-    "removed": 1737958174
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
