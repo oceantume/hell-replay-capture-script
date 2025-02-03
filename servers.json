@@ -22,7 +22,8 @@
   {
     "name": "qiu ye yuan nan ming ying qi e1098305217",
     "addr": "103.62.49.39",
-    "port": 8888
+    "port": 8888,
+    "removed": 1738606137
   },
   {
     "name": "CN-音奏的萌新进阶服6服|Q群:598632634|JP节点",
@@ -39,17 +40,20 @@
   {
     "name": "<CN>ARO（原TR）MAGA！ JP Q群703608483",
     "addr": "103.62.49.39",
-    "port": 8918
+    "port": 8918,
+    "removed": 1738606137
   },
   {
     "name": "CN3#JP#时央的萌新军官攻防营|Q群1022778056",
     "addr": "103.62.49.39",
-    "port": 8928
+    "port": 8928,
+    "removed": 1738606137
   },
   {
     "name": "[CN]COH狗叫大队,Everyone Welcome JP QQ群：558699689",
     "addr": "103.62.49.39",
-    "port": 8938
+    "port": 8938,
+    "removed": 1738606137
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -327,7 +331,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -420,7 +424,8 @@
   {
     "name": "Normandy campaign",
     "addr": "141.95.35.163",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738606137
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1184,8 +1189,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1738519681
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2768,12 +2772,12 @@
     "port": 8772
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GOLD qonzer.com",
+    "name": "<COBRAS FUMANTES> MARRAM #1 DISCORD.GG/COBRASFUMANTES",
     "addr": "181.214.221.212",
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #2 Off 4ever qonzer.com",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #2 Offensive 4ever ",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -2803,7 +2807,7 @@
     "port": 7837
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #4 qonzer.com",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #4",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -2819,7 +2823,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #3 qonzer.com ",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #3",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -2834,7 +2838,7 @@
     "port": 7807
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #6 qonzer.com",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #6",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -2986,8 +2990,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1738587734
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3012,8 +3015,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1738587734
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -3055,8 +3057,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1738587734
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3533,6 +3534,11 @@
     "removed": 1738264016
   },
   {
+    "name": "Dewi und die Soulsisters",
+    "addr": "208.115.206.196",
+    "port": 7787
+  },
+  {
     "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
     "addr": "208.115.206.197",
     "port": 7777,
@@ -3549,7 +3555,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3669,14 +3675,15 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
     "addr": "208.115.248.106",
     "port": 7777
   },
   {
     "name": "SLB #1a",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738606137
   },
   {
     "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
@@ -3711,8 +3718,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1738587734
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3826,6 +3832,11 @@
     "port": 28900
   },
   {
+    "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
+    "addr": "216.144.245.82",
+    "port": 7807
+  },
+  {
     "name": "σ CHAD STUART'S — LVL 25+ PEAK HOURS | discord.gg/chadfgf",
     "addr": "216.173.113.154",
     "port": 9620
@@ -3926,7 +3937,8 @@
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738606137
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -4011,8 +4023,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738587734
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5202,12 +5213,6 @@
     "port": 9075
   },
   {
-    "name": "TH Hell Let Loose Thailand Community 3",
-    "addr": "51.79.163.139",
-    "port": 8530,
-    "removed": 1737982959
-  },
-  {
     "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/HLL",
     "addr": "51.83.150.41",
     "port": 7797
@@ -5351,8 +5356,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1738587734
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5468,8 +5472,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1738587734
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5674,8 +5677,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1738519681
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5690,7 +5692,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738606137
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5925,7 +5928,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738606137
   },
   {
     "name": "HLL Official - Asia #04",
@@ -6543,8 +6547,7 @@
   {
     "name": "PC Gamers - LATAM",
     "addr": "92.118.19.142",
-    "port": 7777,
-    "removed": 1738587734
+    "port": 7777
   },
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
