@@ -3628,7 +3628,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738650325
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3668,8 +3669,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "208.115.226.3",
-    "port": 7777,
-    "removed": 1738649386
+    "port": 7777
   },
   {
     "name": "WTH Training Server",
