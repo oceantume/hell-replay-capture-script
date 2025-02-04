@@ -3278,7 +3278,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738630544
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -4008,12 +4009,6 @@
     "name": "Devils Brigade (US CENTRAL)",
     "addr": "45.137.244.9",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (US Mid) Server by g-portal.com",
-    "addr": "45.137.244.9",
-    "port": 28400,
-    "removed": 1738024157
   },
   {
     "name": "Hell's Pet Goose, New Player Friendly (US Central)",
