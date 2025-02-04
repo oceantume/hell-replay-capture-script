@@ -308,7 +308,8 @@
   {
     "name": "[GER] Panzerschreck Peanut Butter - 2 | BRAD PITT | NEW PLAYER ",
     "addr": "136.243.79.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738692535
   },
   {
     "name": "[GER]Daddelbude Discord https://discord.gg/SdZFhpR8u9",
@@ -331,7 +332,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -366,7 +367,7 @@
     "port": 9620
   },
   {
-    "name": "57thReg./57.Alay + + + YENİ GELMEDİK GERİ GELDİK :) TUR/ENG",
+    "name": "57th Infantry Regiment // 57. Alay - TUR & ENG",
     "addr": "141.95.3.135",
     "port": 8530
   },
@@ -471,7 +472,8 @@
   {
     "name": "[FR] ★ 7ème Compagnie #3 ★ | 100% FR | discord.gg/7ecie",
     "addr": "146.19.48.168",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738692535
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -493,12 +495,6 @@
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
     "port": 8530
-  },
-  {
-    "name": "[PL] Polski Piekarnik [VIP 10 zł https://discord.gg/u7Zpp6jWz5",
-    "addr": "146.59.52.33",
-    "port": 9075,
-    "removed": 1738087731
   },
   {
     "name": "[5CITY #1] [PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.gg/5cit",
@@ -524,12 +520,6 @@
     "name": "FR/EN - Server Free Player Spirit (FPS) ",
     "addr": "149.102.135.184",
     "port": 28300
-  },
-  {
-    "name": "[ENG] BRITISH EMPIRE 2 ELECTRIC BOOGALOO (NEW PLAYER FRIENDLY)",
-    "addr": "149.102.135.184",
-    "port": 28400,
-    "removed": 1738087731
   },
   {
     "name": "矢车菊（BKornblume）//HK 无规则服 //q群： 726807477",
@@ -669,7 +659,8 @@
   {
     "name": "<CN>萌新禁炮 EROS狗叫天堂HK Q群：686886842",
     "addr": "156.146.44.225",
-    "port": 7927
+    "port": 7927,
+    "removed": 1738692535
   },
   {
     "name": "[CN]#8 公众号TT天堂免费领取永久VIP/Q群:578097070",
@@ -721,12 +712,6 @@
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "159.69.226.137",
     "port": 7777
-  },
-  {
-    "name": "BPNL Frontline Warfare Europe",
-    "addr": "159.69.226.158",
-    "port": 7787,
-    "removed": 1738087731
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -925,7 +910,7 @@
     "removed": 1738456289
   },
   {
-    "name": "ALL PLAYERS WELCOME! (Europe) - Empire of Thunder",
+    "name": "NEW PLAYERS WELCOME! (Europe) - Empire of Thunder",
     "addr": "176.57.134.27",
     "port": 28700
   },
@@ -1182,7 +1167,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738692535
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1988,7 +1974,8 @@
   {
     "name": "[FR] Tout est plein, viens ici",
     "addr": "176.57.171.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738692535
   },
   {
     "name": "Borry‘s Playground",
@@ -2653,18 +2640,6 @@
     "port": 28400
   },
   {
-    "name": "PL ARHN.EU Polski Serwer Saigi",
-    "addr": "176.9.112.232",
-    "port": 8530,
-    "removed": 1738087731
-  },
-  {
-    "name": "Test Server Hias",
-    "addr": "176.9.112.232",
-    "port": 9075,
-    "removed": 1738087731
-  },
-  {
     "name": "Vault #1 | New players welcome! | [EU/EN] vaultgg.com",
     "addr": "176.9.113.23",
     "port": 8530
@@ -2727,7 +2702,7 @@
     "port": 7947
   },
   {
-    "name": "[ESP] IBEROS LOCOS (https://discord.gg/mJtNnNd7)[ESP]",
+    "name": "#1[ESP] IBEROS LOCOS [ESP]",
     "addr": "178.239.168.167",
     "port": 8530
   },
@@ -2883,7 +2858,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738692535
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2986,8 +2962,7 @@
   {
     "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1738674170
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3012,8 +2987,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1738674170
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -3023,8 +2997,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1738674170
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
@@ -3056,8 +3029,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1738674170
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3259,6 +3231,11 @@
     "port": 7787
   },
   {
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
+    "addr": "195.181.175.180",
+    "port": 7787
+  },
+  {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "195.181.175.181",
     "port": 7777
@@ -3271,7 +3248,8 @@
   {
     "name": "[GER] 300 Spartaner / Werde auch du Spartaner! https://discord.",
     "addr": "195.82.158.186",
-    "port": 20700
+    "port": 20700,
+    "removed": 1738692535
   },
   {
     "name": "Kommando Hummel",
@@ -3525,7 +3503,8 @@
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "208.115.196.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738692535
   },
   {
     "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
@@ -3563,7 +3542,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3683,14 +3662,15 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
     "addr": "208.115.248.106",
     "port": 7777
   },
   {
     "name": "SLB #1a",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738692535
   },
   {
     "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
@@ -3725,8 +3705,7 @@
   {
     "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1738674170
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -4025,8 +4004,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738674170
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5030,6 +5008,11 @@
     "port": 7787
   },
   {
+    "name": "[FR] ★ 7ème Compagnie #3 ★ | 100% FR | discord.gg/7ecie",
+    "addr": "46.105.223.204",
+    "port": 7877
+  },
+  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
     "addr": "49.12.83.52",
     "port": 7807
@@ -5078,6 +5061,11 @@
     "name": "(EU) New Player Friendly by Nexus-Chemicals.com",
     "addr": "5.189.132.77",
     "port": 28100
+  },
+  {
+    "name": "#1 LAST HOPE [Deutschsprachig] Low Ping",
+    "addr": "5.189.132.77",
+    "port": 28200
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #2 | HUN/ENG",
@@ -5213,8 +5201,7 @@
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1738671107
+    "port": 9075
   },
   {
     "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/HLL",
@@ -5453,12 +5440,6 @@
     "port": 8530
   },
   {
-    "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
-    "addr": "64.31.11.50",
-    "port": 9075,
-    "removed": 1738087731
-  },
-  {
     "name": "秋叶原国服难民营群号1098305217",
     "addr": "64.31.11.50",
     "port": 9620
@@ -5466,8 +5447,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1738674170
+    "port": 7777
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -5677,7 +5657,8 @@
   {
     "name": "[EU] Nordic war 24/7",
     "addr": "79.141.174.121",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738692535
   },
   {
     "name": "En Svensk Tiger #２OFFENSIVE | SE/NO/EN",
@@ -5687,7 +5668,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738692535
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5702,8 +5684,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1738606137
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5993,6 +5974,11 @@
     "port": 28200
   },
   {
+    "name": "<CN>HK#2北极星萌新服务器Q群：10181760",
+    "addr": "83.223.197.85",
+    "port": 28000
+  },
+  {
     "name": "<CN>  萌新的快乐小屋",
     "addr": "83.223.197.89",
     "port": 28000
@@ -6229,7 +6215,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Panzerschreck Peanut Butter - 1 | MEGAN FOX | MIC ONLY | ",
+    "name": "[GER] Panzerschreck Peanut Butter | MEGAN FOX | MIC ONLY | VOTE",
     "addr": "88.198.47.123",
     "port": 8530
   },
@@ -6342,8 +6328,7 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：578097070",
     "addr": "89.46.1.190",
-    "port": 7177,
-    "removed": 1738674170
+    "port": 7177
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -6428,7 +6413,7 @@
     "port": 7907
   },
   {
-    "name": "[CN]斗罗大陆之海军上酱女装(纯攻防)Q群797464980",
+    "name": "[CN]海军上酱大战男娘黑丝500回合(纯攻防)Q群79746",
     "addr": "89.46.1.190",
     "port": 7927
   },
@@ -6446,6 +6431,11 @@
     "name": "(IC) Offensive Heaven | EU | discord.gg/icoh",
     "addr": "91.134.56.12",
     "port": 7797
+  },
+  {
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "91.134.56.12",
+    "port": 7807
   },
   {
     "name": "⑦ | THE CIRCLE #7 | WET TREE! | DISCORD.GG/THE-CIRCLE",
