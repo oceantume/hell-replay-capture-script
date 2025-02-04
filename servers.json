@@ -293,8 +293,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1738649386
+    "port": 9224
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
@@ -347,7 +346,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -846,7 +845,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738671107
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1707,8 +1707,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1738649386
+    "port": 28000
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2704,7 +2703,8 @@
   {
     "name": "DonSebastian.LIVE | HLL #1 | Chile - LATAM",
     "addr": "177.54.147.141",
-    "port": 7867
+    "port": 7867,
+    "removed": 1738671107
   },
   {
     "name": "[LATAM/ARG]  Hydra's Legion | https://discord.gg/CbneXMFPYa",
@@ -2801,18 +2801,13 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.212",
-    "port": 7837
+    "port": 7837,
+    "removed": 1738671107
   },
   {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #4",
     "addr": "181.214.221.212",
     "port": 7847
-  },
-  {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #8",
-    "addr": "181.214.221.212",
-    "port": 7857,
-    "removed": 1738066276
   },
   {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #5",
@@ -2888,8 +2883,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1738586905
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3387,7 +3381,8 @@
   {
     "name": "CN3「CU」超质数中队冲突|JP|Q719036493",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1738671107
   },
   {
     "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
@@ -3398,17 +3393,20 @@
   {
     "name": "CN6#咖啡馆&CZS训练刷分升级服密码群1022240199",
     "addr": "203.10.98.5",
-    "port": 8898
+    "port": 8898,
+    "removed": 1738671107
   },
   {
     "name": "『CZS』 Special training clothing［Jp］",
     "addr": "203.10.98.5",
-    "port": 8908
+    "port": 8908,
+    "removed": 1738671107
   },
   {
     "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
     "addr": "203.10.98.5",
-    "port": 8918
+    "port": 8918,
+    "removed": 1738671107
   },
   {
     "name": "✠︎101 JP#[Violet]紫罗兰 | Warfare | 少女与战车GuP",
@@ -3501,7 +3499,7 @@
     "port": 8888
   },
   {
-    "name": "CN2「CZS」九尾狐啤酒小屋萌新攻防|EU|Q719036493",
+    "name": "Fox&SE［EU］New player server",
     "addr": "203.23.178.6",
     "port": 8888
   },
@@ -3628,8 +3626,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738650325
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3878,12 +3875,6 @@
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
-  },
-  {
-    "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
-    "addr": "23.111.240.210",
-    "port": 8530,
-    "removed": 1738066276
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -5216,7 +5207,8 @@
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738671107
   },
   {
     "name": "[UA/EN] DPS Ukrainian Community Server | discord.gg/HLL",
@@ -5391,7 +5383,8 @@
   {
     "name": "CN#129[MX]风起云涌 JP Q群:698529167",
     "addr": "64.31.11.26",
-    "port": 10710
+    "port": 10710,
+    "removed": 1738671107
   },
   {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
@@ -5558,6 +5551,11 @@
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
     "port": 7777
+  },
+  {
+    "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
+    "addr": "64.42.176.163",
+    "port": 8888
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -6015,13 +6013,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738671107
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1738584681
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -6117,7 +6115,8 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738671107
   },
   {
     "name": "QA Testing - US East #09",
