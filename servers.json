@@ -331,7 +331,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -346,7 +346,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -803,12 +803,14 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738628942
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.73",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738628942
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -2497,7 +2499,7 @@
     "port": 28000
   },
   {
-    "name": "SLB #1b",
+    "name": "SLB #*",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -2671,7 +2673,8 @@
   {
     "name": "[HUN/ENG] Y9 | Magyar Hell Let Loose szerver.",
     "addr": "176.9.113.23",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738628942
   },
   {
     "name": "BALLERBUDE [mic only]",
@@ -3134,7 +3137,7 @@
     "port": 7777
   },
   {
-    "name": "TD〢Tank Destroyers | LVL 50+ | EU/ENG | Discord.gg/TankDestro",
+    "name": "TD〢Tank Destroyers | LVL 30+ SL | EU/ENG | Discord.gg/TankDes",
     "addr": "193.160.22.142",
     "port": 7777
   },
@@ -3156,7 +3159,8 @@
   {
     "name": "EASY Company #4 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738628942
   },
   {
     "name": "HLL Official - US West #01",
@@ -3260,6 +3264,11 @@
     "name": "[GER] 4 Fäuste gegen Blaubeeren  [Omen]",
     "addr": "195.181.175.182",
     "port": 7777
+  },
+  {
+    "name": "[GER] 300 Spartaner / Werde auch du Spartaner! https://discord.",
+    "addr": "195.82.158.186",
+    "port": 20700
   },
   {
     "name": "Kommando Hummel",
@@ -3529,14 +3538,12 @@
   {
     "name": "Dewi und die Soulsisters",
     "addr": "208.115.206.196",
-    "port": 7787,
-    "removed": 1738609572
+    "port": 7787
   },
   {
-    "name": "[GER] Reported | low ping | Für Anfänger | Freundliche Commun",
+    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "208.115.206.197",
-    "port": 7777,
-    "removed": 1738152667
+    "port": 7777
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -3549,7 +3556,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3669,7 +3676,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3736,7 +3743,8 @@
   {
     "name": "GangbangONG",
     "addr": "213.136.80.177",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738628942
   },
   {
     "name": "CN MICO咖啡屋  欧洲节点 Q1023817690",
@@ -3788,6 +3796,11 @@
     "name": "[PL/ENG] Elitarni #2  | discord.gg/HdHMHsSE9V",
     "addr": "213.136.88.87",
     "port": 28800
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "213.136.88.87",
+    "port": 28900
   },
   {
     "name": "GER.Johnnsy.Official-YT",
@@ -5343,8 +5356,7 @@
   {
     "name": "[13SNC] #4 - Dirty's Afterparty - discord.gg/13snc",
     "addr": "63.143.62.90",
-    "port": 7777,
-    "removed": 1738584681
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -6196,7 +6208,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS #4 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "85.208.197.70",
     "port": 7777
   },
@@ -6670,8 +6682,7 @@
   {
     "name": "HLL Official - Australia #22",
     "addr": "94.250.221.22",
-    "port": 28200,
-    "removed": 1738609572
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #29",
@@ -6691,8 +6702,7 @@
   {
     "name": "HLL Official - Australia #48",
     "addr": "94.250.221.22",
-    "port": 28600,
-    "removed": 1738609572
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #10",
@@ -6717,14 +6727,12 @@
   {
     "name": "HLL Official - Australia #35",
     "addr": "94.250.221.23",
-    "port": 28400,
-    "removed": 1738609572
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #50",
     "addr": "94.250.221.23",
-    "port": 28500,
-    "removed": 1738609572
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #05",
@@ -6739,8 +6747,7 @@
   {
     "name": "HLL Official - Australia #19",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1738609572
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #30",
@@ -6750,14 +6757,12 @@
   {
     "name": "HLL Official - Australia #31",
     "addr": "94.250.221.25",
-    "port": 28400,
-    "removed": 1738609572
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #42",
     "addr": "94.250.221.25",
-    "port": 28500,
-    "removed": 1738609572
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #47",
@@ -6777,8 +6782,7 @@
   {
     "name": "HLL Official - Australia #24",
     "addr": "94.250.221.26",
-    "port": 28200,
-    "removed": 1738609572
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #32",
@@ -6793,8 +6797,7 @@
   {
     "name": "HLL Official - Australia #45",
     "addr": "94.250.221.26",
-    "port": 28500,
-    "removed": 1738609572
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #08",
@@ -6824,8 +6827,7 @@
   {
     "name": "HLL Official - Australia #44",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1738609572
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #07",
@@ -6850,20 +6852,17 @@
   {
     "name": "HLL Official - Australia #37",
     "addr": "94.250.221.35",
-    "port": 28400,
-    "removed": 1738609572
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #40",
     "addr": "94.250.221.35",
-    "port": 28500,
-    "removed": 1738609572
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600,
-    "removed": 1738609572
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #06",
@@ -6888,8 +6887,7 @@
   {
     "name": "HLL Official - Australia #33",
     "addr": "94.250.221.36",
-    "port": 28400,
-    "removed": 1738609572
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #39",
@@ -6899,8 +6897,7 @@
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600,
-    "removed": 1738609572
+    "port": 28600
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
