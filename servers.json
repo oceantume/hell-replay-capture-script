@@ -3853,10 +3853,9 @@
     "port": 7797
   },
   {
-    "name": "MT Server",
+    "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1738778946
+    "port": 7807
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -3882,6 +3881,31 @@
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
     "port": 7857
+  },
+  {
+    "name": "hll MT Server",
+    "addr": "31.56.0.81",
+    "port": 7887
+  },
+  {
+    "name": "hll MT Server",
+    "addr": "31.56.0.81",
+    "port": 7907
+  },
+  {
+    "name": "hll MT Server",
+    "addr": "31.56.0.81",
+    "port": 7937
+  },
+  {
+    "name": "MT server",
+    "addr": "31.56.0.81",
+    "port": 7947
+  },
+  {
+    "name": "hll MT Server",
+    "addr": "31.56.0.81",
+    "port": 7957
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
@@ -4903,7 +4927,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[ITM] In The Mood | US West #1",
     "addr": "45.143.199.200",
     "port": 8530
   },
@@ -6525,7 +6549,8 @@
   {
     "name": "[BRASIL] 1ºESQUADRÃO BRASILEIRO - discord.gg/3PNcV8mweX",
     "addr": "92.38.151.76",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738779858
   },
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
