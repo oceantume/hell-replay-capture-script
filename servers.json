@@ -248,12 +248,14 @@
   {
     "name": "(So1) Sanctuary of the First",
     "addr": "134.255.240.110",
-    "port": 10200
+    "port": 10200,
+    "removed": 1738715371
   },
   {
     "name": "Cadmando - Commander Coffee Break, Flanked & Furious3",
     "addr": "134.255.240.110",
-    "port": 10600
+    "port": 10600,
+    "removed": 1738715371
   },
   {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
@@ -298,7 +300,8 @@
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
     "addr": "136.243.60.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738715371
   },
   {
     "name": "What can I say",
@@ -332,7 +335,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -347,7 +350,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -367,7 +370,7 @@
     "port": 9620
   },
   {
-    "name": "57th Infantry Regiment // 57. Alay - TUR & ENG",
+    "name": "   #57th Infantry Regiment // 57. Alay - TURK & ENG",
     "addr": "141.95.3.135",
     "port": 8530
   },
@@ -2628,7 +2631,8 @@
   {
     "name": "#100 Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.181.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738715371
   },
   {
     "name": " [BWR] UKRAINIAN SERVER № 1 (UA/ENG) https://discord.gg/nYkwZ",
@@ -3260,7 +3264,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738715371
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3543,7 +3548,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3663,12 +3668,12 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "BWCC vs. BxB",
     "addr": "208.115.248.106",
     "port": 7787
   },
@@ -3720,7 +3725,8 @@
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
     "addr": "213.136.80.177",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738715371
   },
   {
     "name": "mmmeo",
@@ -3792,7 +3798,8 @@
   {
     "name": "GER.Johnnsy.Official-YT",
     "addr": "213.136.94.160",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738715371
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -3907,12 +3914,12 @@
     "removed": 1738433251
   },
   {
-    "name": "CN1#JP新春爆竹声中萌新军官の咖啡馆|Q120748151",
+    "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP新春爆竹声中甜甜攻防の咖啡馆|Q120748151",
+    "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7787
   },
@@ -5635,6 +5642,11 @@
     "port": 7777
   },
   {
+    "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
+    "addr": "79.127.249.117",
+    "port": 7787
+  },
+  {
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
     "port": 8530
@@ -5950,8 +5962,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1738542609
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -6324,8 +6335,7 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.40",
-    "port": 28200,
-    "removed": 1738696046
+    "port": 28200
   },
   {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：578097070",
