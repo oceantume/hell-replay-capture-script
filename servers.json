@@ -253,7 +253,8 @@
   {
     "name": "Cadmando - Commander Coffee Break, Flanked & Furious3",
     "addr": "134.255.240.110",
-    "port": 10600
+    "port": 10600,
+    "removed": 1738735767
   },
   {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
@@ -832,8 +833,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1738671107
+    "port": 9075
   },
   {
     "name": "Search for mikeys-mm and use new US East server.",
@@ -1222,7 +1222,8 @@
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
     "addr": "176.57.140.196",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738735767
   },
   {
     "name": "[ENG/ITA] WildWolf Server | The New Era | [LOW PING]",
@@ -1962,7 +1963,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738735767
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2680,7 +2682,7 @@
     "port": 7847
   },
   {
-    "name": "『V』VANGUARDA by Gatinho",
+    "name": "『V』WWW.VANGUARDA.PRO.BR | +50 LEVEL",
     "addr": "177.54.147.141",
     "port": 7867
   },
@@ -2777,10 +2779,9 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
+    "name": "MARRAM VETERANOS DE GUERRA +60  VIP.MARRAM.COM.BR",
     "addr": "181.214.221.212",
-    "port": 7837,
-    "removed": 1738671107
+    "port": 7837
   },
   {
     "name": "<COBRAS FUMANTES> vip.marram.com.br #4",
@@ -2813,7 +2814,7 @@
     "port": 7817
   },
   {
-    "name": "[LATAM/ESP] Legión Cóndor | S.A.#1 | discord.gg/legion-condor",
+    "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
     "port": 7827
   },
@@ -3262,8 +3263,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738719310
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3613,7 +3613,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738735767
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3827,7 +3828,8 @@
   {
     "name": "Twitch: iGoDLiKe_v2",
     "addr": "213.136.94.160",
-    "port": 28900
+    "port": 28900,
+    "removed": 1738735767
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
@@ -5003,7 +5005,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #5",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -5545,7 +5547,7 @@
     "port": 7777
   },
   {
-    "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
+    "name": "<CCG> Cheshire cats Guards |beginner community | US | QQ8851877",
     "addr": "64.42.176.163",
     "port": 8888
   },
@@ -6132,10 +6134,9 @@
     "port": 28100
   },
   {
-    "name": "M$NEY JUST HITS DIFFERENT  (MJHD)",
+    "name": "Gaming Misfits|All levels|Admins online",
     "addr": "83.223.207.46",
-    "port": 28300,
-    "removed": 1738217349
+    "port": 28300
   },
   {
     "name": "130.Panzer Lehr Division (USA-TX) https://discord.gg/VgwWbkHjNj",
@@ -6215,7 +6216,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -6409,18 +6410,14 @@
   {
     "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
-    "port": 7887
+    "port": 7887,
+    "removed": 1738735767
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
-    "port": 7897,
-    "removed": 1738130962
-  },
-  {
-    "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
-    "addr": "89.46.1.190",
-    "port": 7907
+    "port": 7907,
+    "removed": 1738735767
   },
   {
     "name": "[CN]海军上酱大战男娘黑丝500回合(纯攻防)Q群79746",
