@@ -2669,8 +2669,7 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1738778946
+    "port": 7827
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
@@ -3451,7 +3450,7 @@
     "port": 7777
   },
   {
-    "name": "Dewi und die Soulsisters",
+    "name": "[GER] {404} skill not found | Mic Only",
     "addr": "208.115.206.196",
     "port": 7787
   },
@@ -3855,7 +3854,8 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738780681
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -3885,22 +3885,31 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7887
+    "port": 7877
   },
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7907
+    "port": 7887,
+    "removed": 1738780681
   },
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7937
+    "port": 7907,
+    "removed": 1738780681
+  },
+  {
+    "name": "hll MT Server",
+    "addr": "31.56.0.81",
+    "port": 7937,
+    "removed": 1738780681
   },
   {
     "name": "MT server",
     "addr": "31.56.0.81",
-    "port": 7947
+    "port": 7947,
+    "removed": 1738780681
   },
   {
     "name": "hll MT Server",
