@@ -334,7 +334,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -838,7 +838,8 @@
   {
     "name": "Search for mikeys-mm and use new US East server.",
     "addr": "172.93.97.74",
-    "port": 9620
+    "port": 9620,
+    "removed": 1738778946
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1950,12 +1951,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1738174145
-  },
-  {
     "name": "UFO",
     "addr": "176.57.171.158",
     "port": 28100
@@ -2417,7 +2412,8 @@
   {
     "name": "[UA] Ukraine Unity Frontline #3 HLL discord.gg/uuf",
     "addr": "176.57.178.134",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738778946
   },
   {
     "name": "HLL Official - UK #01",
@@ -2673,7 +2669,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1738778946
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
@@ -2766,7 +2763,7 @@
     "port": 7827
   },
   {
-    "name": "MARRAM VETERANOS DE GUERRA +50  VIP.MARRAM.COM.BR",
+    "name": "<CF> MARRAM VETERANOS DE GUERRA +50  VIP.MARRAM.COM.BR",
     "addr": "181.214.221.212",
     "port": 7837
   },
@@ -2953,8 +2950,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1738760582
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -3176,12 +3172,6 @@
     "port": 9620
   },
   {
-    "name": "MAGA Full Send 420",
-    "addr": "194.140.197.196",
-    "port": 30400,
-    "removed": 1738174145
-  },
-  {
     "name": "Hotdog6",
     "addr": "194.140.197.77",
     "port": 30000
@@ -3280,12 +3270,6 @@
     "port": 8530
   },
   {
-    "name": "BigAzza's Hell Let Loose",
-    "addr": "198.244.254.144",
-    "port": 8530,
-    "removed": 1738174145
-  },
-  {
     "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
     "addr": "198.37.123.75",
     "port": 8530
@@ -3329,24 +3313,6 @@
     "name": "CN6「CZS&FJ」萌新保护100级以下｜HK｜Q719036493",
     "addr": "202.165.70.91",
     "port": 8918
-  },
-  {
-    "name": "CN［FJ］American Western Training Camp",
-    "addr": "203.10.96.196",
-    "port": 8888,
-    "removed": 1738174145
-  },
-  {
-    "name": "CN6#咖啡馆&CZS训练刷分升级服密码群1022240199",
-    "addr": "203.10.96.196",
-    "port": 8898,
-    "removed": 1738174145
-  },
-  {
-    "name": "『CZS』 Special training clothing/Test server",
-    "addr": "203.10.96.196",
-    "port": 8918,
-    "removed": 1738174145
   },
   {
     "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
@@ -3434,36 +3400,6 @@
     "port": 8978
   },
   {
-    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
-    "addr": "203.10.99.7",
-    "port": 8998,
-    "removed": 1738174145
-  },
-  {
-    "name": "cn/JP/Beta Newcomer Community Server/Q955048191",
-    "addr": "203.10.99.7",
-    "port": 9058,
-    "removed": 1738174145
-  },
-  {
-    "name": "CN1#JP#新年快乐！萌新军官欢乐训练营|Q群102277805",
-    "addr": "203.10.99.7",
-    "port": 9078,
-    "removed": 1738174145
-  },
-  {
-    "name": "CN2#JP#新年快乐！攻防军官欢乐训练营|Q群102277805",
-    "addr": "203.10.99.7",
-    "port": 9088,
-    "removed": 1738174145
-  },
-  {
-    "name": "CN ITK#1琴里~二次元家园冲突日服Q群48381851",
-    "addr": "203.10.99.7",
-    "port": 9118,
-    "removed": 1738174145
-  },
-  {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
     "port": 8888
@@ -3489,7 +3425,7 @@
     "port": 7777
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
     "addr": "208.115.196.19",
     "port": 7777
   },
@@ -3500,7 +3436,7 @@
     "removed": 1738692535
   },
   {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ Training",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3535,7 +3471,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3697,8 +3633,7 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1738760582
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3920,7 +3855,8 @@
   {
     "name": "MT Server",
     "addr": "31.56.0.81",
-    "port": 7807
+    "port": 7807,
+    "removed": 1738778946
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -3999,8 +3935,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738760582
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4968,6 +4903,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "45.143.199.200",
+    "port": 8530
+  },
+  {
     "name": "Testing1337",
     "addr": "45.151.81.210",
     "port": 7787
@@ -5051,7 +4991,8 @@
   {
     "name": "[PL/ENG] TGD Clan",
     "addr": "5.189.132.77",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738778946
   },
   {
     "name": "(EU) New Player Friendly by Nexus-Chemicals.com",
@@ -5343,8 +5284,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1738760582
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5445,8 +5385,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1738760582
+    "port": 7777
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -5672,8 +5611,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1738692535
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5923,8 +5861,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1738606137
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5934,7 +5871,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738778946
   },
   {
     "name": "HLL Official - Asia #54",
@@ -6642,6 +6580,11 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
+    "port": 28600
+  },
+  {
+    "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
+    "addr": "92.38.151.92",
     "port": 28600
   },
   {
