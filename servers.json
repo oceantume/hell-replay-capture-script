@@ -349,7 +349,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -1963,8 +1963,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1738735767
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2712,12 +2711,6 @@
     "port": 8530
   },
   {
-    "name": "HLL - United Kingdom ",
-    "addr": "178.239.170.76",
-    "port": 8530,
-    "removed": 1738152667
-  },
-  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
     "port": 7777
@@ -2731,12 +2724,6 @@
     "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
     "port": 7797
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "178.249.213.87",
-    "port": 7777,
-    "removed": 1738152667
   },
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
@@ -2964,7 +2951,7 @@
     "port": 9075
   },
   {
-    "name": "EASY Company #6 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
     "port": 7777
   },
@@ -3217,7 +3204,8 @@
   {
     "name": "[GER] ORION | German Server | Only Mic » !votemap",
     "addr": "195.181.175.172",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738757493
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -3613,8 +3601,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738735767
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3707,7 +3694,7 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #7 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
     "port": 7777
   },
@@ -3811,7 +3798,7 @@
     "port": 28200
   },
   {
-    "name": "[TR] Mr Turk Group #1 | https://discord.gg/mrturkgroup",
+    "name": "Mr Turk Group #1 | Türkiye | https://discord.gg/mrturkgroup",
     "addr": "213.136.94.160",
     "port": 28300
   },
@@ -3929,10 +3916,9 @@
     "port": 7797
   },
   {
-    "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
+    "name": "MT Server",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1738606137
+    "port": 7807
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -5055,7 +5041,7 @@
     "port": 29000
   },
   {
-    "name": "[TR] Mr Turk Group #2 | +30 Seviye | https://discord.gg/mrturkg",
+    "name": "Mr Turk Group #2 | Türkiye | https://discord.gg/mrturkgroup",
     "addr": "5.189.130.178",
     "port": 29100
   },
@@ -5547,7 +5533,7 @@
     "port": 7777
   },
   {
-    "name": "<CCG> Cheshire cats Guards |beginner community | US | QQ8851877",
+    "name": "<CCG> 柴郡猫猫近卫军 | 萌新曲社 | JP | Q群885187716",
     "addr": "64.42.176.163",
     "port": 8888
   },
@@ -6017,8 +6003,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1738671107
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -6051,7 +6036,7 @@
     "port": 28200
   },
   {
-    "name": "EASY Company #5 | GPORTAL | DISCORD.GG/EASYCOMPANY",
+    "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
     "port": 28000
   },
@@ -6120,8 +6105,7 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000,
-    "removed": 1738671107
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -6359,7 +6343,8 @@
   {
     "name": "CN.JP【PUMA】夜晚激战冲突对抗服q746699634",
     "addr": "89.46.1.190",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738757493
   },
   {
     "name": "<CN>#6 TT天堂萌新俱乐部（随机图）Q群：578097070",
@@ -6390,7 +6375,8 @@
   {
     "name": "Reclaimer training server",
     "addr": "89.46.1.190",
-    "port": 7847
+    "port": 7847,
+    "removed": 1738757493
   },
   {
     "name": "CN1#【FJ】绿魔鬼战队服务器/Q群716701264",
@@ -6408,15 +6394,14 @@
     "port": 7877
   },
   {
-    "name": "CN1 MAX-老毕灯国服爱好者@JP Q群：258455568",
+    "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
     "port": 7887
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "89.46.1.190",
-    "port": 7907,
-    "removed": 1738738636
+    "port": 7907
   },
   {
     "name": "[CN]海军上酱大战男娘黑丝500回合(纯攻防)Q群79746",
