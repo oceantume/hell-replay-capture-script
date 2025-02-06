@@ -293,7 +293,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL ",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -350,7 +350,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -525,12 +525,12 @@
     "port": 28300
   },
   {
-    "name": "矢车菊（BKornblume）//HK 无规则服 //q群： 726807477",
+    "name": "CN//矢车菊（BKornblume）//HK 无规则服 //q群： 726807",
     "addr": "15.235.180.103",
     "port": 8530
   },
   {
-    "name": "TH Hell Let Loose Thailand Community 2",
+    "name": "TH Hell Let Loose Thailand Community [Event]",
     "addr": "15.235.219.197",
     "port": 8530
   },
@@ -647,8 +647,7 @@
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
     "addr": "156.146.44.225",
-    "port": 7897,
-    "removed": 1738695385
+    "port": 7897
   },
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -674,7 +673,8 @@
   {
     "name": "<CN>1801#1 蓝蔷薇少女的骑行 港服 Q群：677043328",
     "addr": "156.146.44.225",
-    "port": 7947
+    "port": 7947,
+    "removed": 1738843887
   },
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -1536,7 +1536,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] [1DBD]1./ DosenBier Division (MIC Pflicht, German only, A",
+    "name": "[GER] [1DBD] 1. DosenBier Division (MIC Pflicht, German only, A",
     "addr": "176.57.153.41",
     "port": 28200
   },
@@ -3031,7 +3031,8 @@
   {
     "name": "Current Level: Dora's Deported(D1CK)",
     "addr": "192.169.93.236",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738843887
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
@@ -3541,8 +3542,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1738822190
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3595,7 +3595,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3652,7 +3652,8 @@
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
     "addr": "213.136.80.177",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738843887
   },
   {
     "name": "mmmeo",
@@ -4833,52 +4834,62 @@
   {
     "name": "HLL Official - US East #08",
     "addr": "45.137.247.86",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #16",
     "addr": "45.137.247.86",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #29",
     "addr": "45.137.247.86",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #37",
     "addr": "45.137.247.86",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #47",
     "addr": "45.137.247.86",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #52",
     "addr": "45.137.247.86",
-    "port": 28500
+    "port": 28500,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #56",
     "addr": "45.137.247.86",
-    "port": 28600
+    "port": 28600,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #72",
     "addr": "45.137.247.86",
-    "port": 28700
+    "port": 28700,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #82",
     "addr": "45.137.247.86",
-    "port": 28800
+    "port": 28800,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #95",
     "addr": "45.137.247.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #10",
@@ -5997,7 +6008,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738843887
   },
   {
     "name": "HLL Official - US East #04",
@@ -6099,7 +6111,8 @@
   {
     "name": "HLL Playtest Server - US #02",
     "addr": "83.223.206.29",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738843887
   },
   {
     "name": "QA Testing - US East #09",
@@ -6327,7 +6340,8 @@
   {
     "name": "CN1#JP ODST地狱空降师/Xpp/萌新小窝/QQ群：478583207",
     "addr": "89.46.1.190",
-    "port": 7637
+    "port": 7637,
+    "removed": 1738843887
   },
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
@@ -6383,7 +6397,8 @@
   {
     "name": "[CN]#JP薯薯是朋友 朋友很好吃丨1021844594",
     "addr": "89.46.1.190",
-    "port": 7877
+    "port": 7877,
+    "removed": 1738843887
   },
   {
     "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
@@ -6396,7 +6411,7 @@
     "port": 7907
   },
   {
-    "name": "[CN]海军上酱大战男娘黑丝500回合(纯攻防)Q群79746",
+    "name": "[CN]斗罗大陆之海军上酱伪娘(纯攻防)Q群797464980",
     "addr": "89.46.1.190",
     "port": 7927
   },
