@@ -311,7 +311,8 @@
   {
     "name": "[GER]Daddelbude Discord https://discord.gg/SdZFhpR8u9",
     "addr": "136.243.82.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738846148
   },
   {
     "name": "ZOO - Match server",
@@ -2636,7 +2637,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.coq",
     "addr": "176.57.181.34",
-    "port": 28400
+    "port": 28400,
+    "removed": 1738846148
   },
   {
     "name": "Vault #1 | New players welcome! | [EU/EN] vaultgg.com",
@@ -2982,7 +2984,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1738846148
   },
   {
     "name": "EASY Company  | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3058,7 +3061,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738846148
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -4820,8 +4824,7 @@
   {
     "name": "HLL Official - US East #08",
     "addr": "45.137.247.86",
-    "port": 28000,
-    "removed": 1738843887
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #16",
@@ -4831,20 +4834,17 @@
   {
     "name": "HLL Official - US East #29",
     "addr": "45.137.247.86",
-    "port": 28200,
-    "removed": 1738843887
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #37",
     "addr": "45.137.247.86",
-    "port": 28300,
-    "removed": 1738843887
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #47",
     "addr": "45.137.247.86",
-    "port": 28400,
-    "removed": 1738843887
+    "port": 28400
   },
   {
     "name": "HLL Official - US East #52",
@@ -4854,8 +4854,7 @@
   {
     "name": "HLL Official - US East #56",
     "addr": "45.137.247.86",
-    "port": 28600,
-    "removed": 1738843887
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #72",
@@ -4865,8 +4864,7 @@
   {
     "name": "HLL Official - US East #82",
     "addr": "45.137.247.86",
-    "port": 28800,
-    "removed": 1738843887
+    "port": 28800
   },
   {
     "name": "HLL Official - US East #95",
