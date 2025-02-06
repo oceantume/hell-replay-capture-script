@@ -330,7 +330,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -525,7 +525,7 @@
     "port": 8530
   },
   {
-    "name": "TH Hell Let Loose Thailand Community [Event]",
+    "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
     "port": 8530
   },
@@ -602,7 +602,8 @@
   {
     "name": "[en] The Clinic / US EAST / NEW PLAYER WELCOME /",
     "addr": "154.53.48.184",
-    "port": 38200
+    "port": 38200,
+    "removed": 1738865333
   },
   {
     "name": "CN#1帝国之鹰Q群1016686458",
@@ -672,42 +673,6 @@
     "removed": 1738843887
   },
   {
-    "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "156.67.62.23",
-    "port": 7777,
-    "removed": 1738260525
-  },
-  {
-    "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "156.67.62.23",
-    "port": 7787,
-    "removed": 1738260525
-  },
-  {
-    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "156.67.62.23",
-    "port": 7797,
-    "removed": 1738260525
-  },
-  {
-    "name": "[TR] Türk Silahlı Kuvvetleri #1 | discord.gg/TSKHLL | Turkish",
-    "addr": "156.67.62.23",
-    "port": 7807,
-    "removed": 1738260525
-  },
-  {
-    "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "156.67.62.23",
-    "port": 7817,
-    "removed": 1738260525
-  },
-  {
-    "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "156.67.62.23",
-    "port": 7827,
-    "removed": 1738260525
-  },
-  {
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "159.69.226.137",
     "port": 7777
@@ -736,12 +701,6 @@
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
     "addr": "167.235.169.114",
     "port": 8530
-  },
-  {
-    "name": "[PL] [EU] Polski Serwer HLL",
-    "addr": "168.119.79.144",
-    "port": 10165,
-    "removed": 1738260525
   },
   {
     "name": "ProxGaming Europe EU",
@@ -1167,8 +1126,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1738692535
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -2764,7 +2722,7 @@
     "port": 7827
   },
   {
-    "name": "<CF> MARRAM VETERANOS DE GUERRA +50  VIP.MARRAM.COM.BR",
+    "name": "MARRAM VETERANOS DE GUERRA +50  CONCORRA PRÊMIOS",
     "addr": "181.214.221.212",
     "port": 7837
   },
@@ -2841,7 +2799,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738865333
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2863,18 +2822,6 @@
     "name": "[FR] ★ 7ème Compagnie #1 ★ | 100% FR | discord.gg/7ecie",
     "addr": "188.165.39.157",
     "port": 7877
-  },
-  {
-    "name": "HLL Germany | Low Ping | High Performance",
-    "addr": "188.40.122.93",
-    "port": 8530,
-    "removed": 1738260525
-  },
-  {
-    "name": "[GER] Feldfunk",
-    "addr": "188.40.122.93",
-    "port": 9075,
-    "removed": 1738260525
   },
   {
     "name": "LTCOM LT",
@@ -2899,7 +2846,8 @@
   {
     "name": "[LH] Legion Hispana LATAM -  https://discord.gg/eS279ZkmD7 ",
     "addr": "189.1.170.234",
-    "port": 10165
+    "port": 10165,
+    "removed": 1738865333
   },
   {
     "name": "The Canga Leitones BR",
@@ -2944,8 +2892,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1738846986
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2970,8 +2917,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1738846986
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2981,8 +2927,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1738846986
+    "port": 7777
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -3009,8 +2954,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1738846986
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
@@ -3207,7 +3151,7 @@
     "port": 7787
   },
   {
-    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #2",
     "addr": "195.181.175.180",
     "port": 7787
   },
@@ -3438,6 +3382,11 @@
     "port": 7777
   },
   {
+    "name": "WTH Training Server",
+    "addr": "208.115.206.194",
+    "port": 7787
+  },
+  {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
     "port": 7777
@@ -3468,7 +3417,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3580,7 +3529,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.226.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738865333
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -3630,8 +3580,7 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1738846986
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3701,15 +3650,10 @@
     "port": 28600
   },
   {
-    "name": "[PL] Elitarni #1 Tryb Gry: Działanie Wojenne |Vip 15PLN",
-    "addr": "213.136.88.87",
-    "port": 28700,
-    "removed": 1738260525
-  },
-  {
     "name": "[PL/ENG] Elitarni #2  | discord.gg/HdHMHsSE9V",
     "addr": "213.136.88.87",
-    "port": 28800
+    "port": 28800,
+    "removed": 1738865333
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -3828,6 +3772,11 @@
     "addr": "31.56.0.120",
     "port": 7827,
     "removed": 1738369904
+  },
+  {
+    "name": "hll Server",
+    "addr": "31.56.0.79",
+    "port": 7777
   },
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
@@ -3968,8 +3917,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738846986
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4948,6 +4896,11 @@
     "port": 7787
   },
   {
+    "name": "t17 test",
+    "addr": "45.151.81.211",
+    "port": 7777
+  },
+  {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
     "port": 8530
@@ -5131,7 +5084,7 @@
     "port": 9075
   },
   {
-    "name": "[PRT/ENG] HLL.PT - Officer Lvl 30+ / Cmnd Lvl 50+",
+    "name": "[HLL@PT] - Officer Lvl 30+ / Cmnd Lvl 50+ (PRT/ENG)",
     "addr": "51.210.32.201",
     "port": 8530
   },
@@ -5206,7 +5159,7 @@
     "port": 7817
   },
   {
-    "name": "|GoF HQ|New Player Friendly|Join Discord",
+    "name": "|GoF HQ|New Player Friendly|discord.gg/gofhq",
     "addr": "51.89.152.171",
     "port": 8530
   },
@@ -5296,6 +5249,11 @@
     "port": 7827
   },
   {
+    "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
+    "addr": "63.143.60.18",
+    "port": 7787
+  },
+  {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
     "addr": "63.143.60.20",
     "port": 7777
@@ -5329,8 +5287,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1738846986
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5431,8 +5388,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1738846986
+    "port": 7777
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -5442,8 +5398,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1738846986
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5675,12 +5630,14 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738865333
   },
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738865333
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5910,7 +5867,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738865333
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5920,8 +5878,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1738778946
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #54",
@@ -6139,6 +6096,11 @@
     "port": 28500
   },
   {
+    "name": "The Fuhrer Bunker (US MID) New Players Welcome!",
+    "addr": "83.223.207.50",
+    "port": 28800
+  },
+  {
     "name": "420th Prayer Division",
     "addr": "83.223.207.55",
     "port": 28000
@@ -6157,12 +6119,6 @@
     "name": "Durty Dozen",
     "addr": "83.223.207.55",
     "port": 28700
-  },
-  {
-    "name": "[9COH] - 9 Circles Of Hell -Warfare Only- discord.gg/k7dJCWSj5c",
-    "addr": "85.10.193.130",
-    "port": 8530,
-    "removed": 1738260525
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -6572,7 +6528,8 @@
   {
     "name": "Omaha Beach 1944 Hell let loose (BRASIL) ",
     "addr": "92.38.151.76",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738865333
   },
   {
     "name": "[BRASIL] 1ºESQUADRÃO BRASILEIRO - discord.gg/3PNcV8mweX",
