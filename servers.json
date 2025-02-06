@@ -259,7 +259,8 @@
   {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
     "addr": "134.255.240.110",
-    "port": 11000
+    "port": 11000,
+    "removed": 1738801789
   },
   {
     "name": "LAN HAST [BE]",
@@ -334,7 +335,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -349,7 +350,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -1229,7 +1230,8 @@
   {
     "name": "[ENG/ITA] WildWolf Server | The New Era | [LOW PING]",
     "addr": "176.57.140.196",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738801789
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1439,7 +1441,8 @@
   {
     "name": "POLSKI SERWER | ERIKAGAMING | LOW PING & NEW PLAYERS WELCOME",
     "addr": "176.57.140.64",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738801789
   },
   {
     "name": "frogus",
@@ -3268,6 +3271,11 @@
     "port": 8530
   },
   {
+    "name": "Squeedy's Sauna - Warfare & Offensive",
+    "addr": "198.244.254.14",
+    "port": 8530
+  },
+  {
     "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
     "addr": "198.37.123.75",
     "port": 8530
@@ -3469,7 +3477,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3589,7 +3597,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3646,8 +3654,7 @@
   {
     "name": " HLL (EU) Official https://discord.gg/tPQyKaer",
     "addr": "213.136.80.177",
-    "port": 28100,
-    "removed": 1738715371
+    "port": 28100
   },
   {
     "name": "mmmeo",
@@ -4938,7 +4945,8 @@
   {
     "name": "[ITM] In The Mood | US West #1",
     "addr": "45.143.199.200",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738801789
   },
   {
     "name": "Testing1337",
@@ -5046,6 +5054,11 @@
     "name": "Pirate Gaming - Hell Let Loose ",
     "addr": "5.189.132.77",
     "port": 28600
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "5.189.132.77",
+    "port": 28700
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -5297,6 +5310,11 @@
     "name": "8th Tank Battalion Milsim Unit | US East | English Only | disco",
     "addr": "63.143.60.20",
     "port": 7787
+  },
+  {
+    "name": "[ITM] In The Mood | Official Server",
+    "addr": "63.143.60.21",
+    "port": 7777
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5593,7 +5611,8 @@
   {
     "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
     "addr": "78.111.102.114",
-    "port": 28500
+    "port": 28500,
+    "removed": 1738801789
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -6554,6 +6573,11 @@
     "name": "HLL Official - South America #20",
     "addr": "92.38.151.75",
     "port": 28500
+  },
+  {
+    "name": "Omaha Beach 1944 Hell let loose (BRASIL) ",
+    "addr": "92.38.151.76",
+    "port": 28000
   },
   {
     "name": "[BRASIL] 1ºESQUADRÃO BRASILEIRO - discord.gg/3PNcV8mweX",
