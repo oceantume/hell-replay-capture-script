@@ -330,7 +330,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -388,12 +388,6 @@
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
     "port": 9620
-  },
-  {
-    "name": "[GER]101st Airborne Division/WIR REKRUTIEREN/101stairbornedivis",
-    "addr": "141.95.34.126",
-    "port": 10165,
-    "removed": 1738346913
   },
   {
     "name": "War boys [ENG] (LVL 25+) - NEW SERVER COME SEED!",
@@ -573,7 +567,8 @@
   {
     "name": "[FR/BE/QC] WNM HLL | FR ONLY | discord.gg/CYVVV4GmgC",
     "addr": "152.228.223.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1738951741
   },
   {
     "name": "CDS",
@@ -863,7 +858,7 @@
     "port": 28700
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | FRONTLINE NEWBIE | QS | OINK",
+    "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -2636,7 +2631,7 @@
     "port": 7827
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE | discord.clanctm.cl",
+    "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
     "port": 7847
   },
@@ -2652,7 +2647,7 @@
     "removed": 1738822190
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | discord.clanctm.cl",
+    "name": "HLL Sur America - CLAN [·CTM·] CHILE | PRACTICAS & EVENTOS",
     "addr": "177.54.147.141",
     "port": 7907
   },
@@ -2679,7 +2674,8 @@
   {
     "name": "HLL Rumble Invitational :: TOKYO :: Sponsored by Radical Gaming",
     "addr": "178.249.213.79",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738951741
   },
   {
     "name": "69 SPACE FORCE | Japan",
@@ -2747,7 +2743,7 @@
     "port": 7787
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
+    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | discord.clanctm.cl",
     "addr": "181.214.221.41",
     "port": 7797
   },
@@ -2804,7 +2800,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738951741
   },
   {
     "name": "D55L Donner Legion PL",
@@ -2901,8 +2898,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1738933320
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2963,13 +2959,13 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1738933320
+    "port": 9014
   },
   {
     "name": "American Premier League :: TEXAS :: Powered by Qonzer.com :: di",
     "addr": "192.169.93.234",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738951741
   },
   {
     "name": "Dark Horizon US 2 | New Players Welcome | Discord.gg/dhz",
@@ -3045,25 +3041,23 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1738930276
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1738930276
+    "port": 7777
   },
   {
     "name": "TD〢Tank Destroyers | LVL 30+ SL | EU/ENG | Discord.gg/TankDes",
     "addr": "193.160.22.142",
-    "port": 7777,
-    "removed": 1738930276
+    "port": 7777
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738951741
   },
   {
     "name": "HLL Official - US West #81",
@@ -3089,7 +3083,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738951741
   },
   {
     "name": "QA Testing - US West #06",
@@ -3387,7 +3382,8 @@
   {
     "name": "American Premier League :: PARIS :: Powered by Qonzer.com :: di",
     "addr": "208.115.196.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738951741
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
@@ -3446,7 +3442,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3503,7 +3499,8 @@
   {
     "name": "RADICAL GAMING :: NY :: DISCORD.GG/RADICALGAMING",
     "addr": "208.115.212.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738951741
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -3948,8 +3945,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1738933320
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4925,14 +4921,12 @@
   {
     "name": "Testing1337",
     "addr": "45.151.81.210",
-    "port": 7787,
-    "removed": 1738930276
+    "port": 7787
   },
   {
     "name": "t17 test",
     "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1738930276
+    "port": 7777
   },
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
@@ -4943,12 +4937,6 @@
     "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
     "port": 8530
-  },
-  {
-    "name": "ZuluFoxtrot | New Players | zf-gaming.com | VIP Rewards",
-    "addr": "45.45.238.228",
-    "port": 8530,
-    "removed": 1738346913
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTideHLL",
@@ -5287,7 +5275,8 @@
   {
     "name": "American Premier League :: WASHINGTON :: Powered by Qonzer.com ",
     "addr": "63.143.60.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738951741
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
@@ -5300,7 +5289,7 @@
     "port": 7787
   },
   {
-    "name": "[ITM] In The Mood | Official Server | Offensive Only",
+    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "63.143.60.21",
     "port": 7777
   },
@@ -5424,8 +5413,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1738933320
+    "port": 7777
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
@@ -5435,8 +5423,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1738933320
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5451,7 +5438,8 @@
   {
     "name": "RADICAL GAMING :: MIAMI :: DISCORD.GG/RADICALGAMING",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738951741
   },
   {
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
@@ -5461,7 +5449,8 @@
   {
     "name": "HLL Rumble Invitational :: MIAMI :: Sponsored by Radical Gaming",
     "addr": "64.31.40.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738951741
   },
   {
     "name": "Lucky Strike Event Server",
@@ -5486,7 +5475,8 @@
   {
     "name": "HLL Rumble Invitational :: LA :: Sponsored by Radical Gaming",
     "addr": "64.31.6.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738951741
   },
   {
     "name": " »BAIN« | Training & Event | bainclan.com.br",
@@ -5668,19 +5658,18 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738951741
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1738865333
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1738865333
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5910,8 +5899,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1738865333
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -6189,7 +6177,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Λ • TAURUS #4 | Wir rekrutieren! | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS #4 | Level 50+ | discord.gg/taurus",
     "addr": "85.208.197.70",
     "port": 7777
   },
@@ -6399,7 +6387,8 @@
   {
     "name": "[CN]斗罗大陆之海军上酱伪娘(纯攻防)Q群797464980",
     "addr": "89.46.1.190",
-    "port": 7927
+    "port": 7927,
+    "removed": 1738951741
   },
   {
     "name": "[CN]EROS·西欧萌新服·禁炮No artillery·QQ：686886842",
@@ -6445,7 +6434,8 @@
   {
     "name": "hll Server",
     "addr": "91.134.56.12",
-    "port": 7887
+    "port": 7887,
+    "removed": 1738951741
   },
   {
     "name": "[ESP] L.C.K. España [Spain] LVL+20",
@@ -6541,7 +6531,8 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738951741
   },
   {
     "name": "HLL Official - South America #09",
