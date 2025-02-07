@@ -3037,6 +3037,11 @@
     "port": 9075
   },
   {
+    "name": "hll Server",
+    "addr": "192.169.95.21",
+    "port": 7777
+  },
+  {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
     "addr": "192.169.95.98",
     "port": 9075
@@ -3198,7 +3203,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738892116
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -5980,7 +5986,8 @@
   {
     "name": "HLL Official - US East  ",
     "addr": "83.223.203.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738892116
   },
   {
     "name": "HLL Official - US East #03",
