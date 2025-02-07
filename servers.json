@@ -330,7 +330,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -345,7 +345,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -460,7 +460,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "146.19.48.156",
-    "port": 7797
+    "port": 7797,
+    "removed": 1738888178
   },
   {
     "name": "[GER] Eiserne Division | Low Ping | GER Mic",
@@ -676,6 +677,11 @@
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "159.69.226.137",
     "port": 7777
+  },
+  {
+    "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "160.202.167.11",
+    "port": 8888
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -2595,7 +2601,8 @@
   {
     "name": "PaulanerGarte Anfängerfreundlich Kein Admin LG",
     "addr": "176.57.181.34",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738888178
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.coq",
@@ -2894,6 +2901,11 @@
     "port": 9075
   },
   {
+    "name": "Goober Battlefield",
+    "addr": "192.154.253.22",
+    "port": 9620
+  },
+  {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
     "port": 7777
@@ -3179,6 +3191,11 @@
     "port": 20900
   },
   {
+    "name": "Wointown",
+    "addr": "195.82.158.186",
+    "port": 21100
+  },
+  {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
     "port": 21200
@@ -3380,7 +3397,12 @@
     "removed": 1738692535
   },
   {
-    "name": "CZ & SK | #3 | VLK @ Training",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "addr": "208.115.206.190",
+    "port": 7797
+  },
+  {
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3420,7 +3442,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3541,7 +3563,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3682,7 +3704,8 @@
   {
     "name": "Mr Turk Group #1 | Türkiye | https://discord.gg/mrturkgroup",
     "addr": "213.136.94.160",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738888178
   },
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
@@ -4977,7 +5000,8 @@
   {
     "name": "Mr Turk Group #2 | Türkiye | https://discord.gg/mrturkgroup",
     "addr": "5.189.130.178",
-    "port": 29100
+    "port": 29100,
+    "removed": 1738888178
   },
   {
     "name": "[PL/ENG] TGD Clan",
@@ -5469,7 +5493,7 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Blueberry Dreams #2 :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
   },
@@ -5559,7 +5583,7 @@
     "port": 7777
   },
   {
-    "name": " ! [TBG] NEW PLAYER FRIENDLY | DISCORD.GG/TBGCLAN | RECRUITING ",
+    "name": "  ![TBG] NEW PLAYER FRIENDLY | DISCORD.GG/TBGCLAN | RECRUITING ",
     "addr": "74.63.236.250",
     "port": 8530
   },
@@ -5583,6 +5607,11 @@
     "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
     "addr": "79.127.249.117",
     "port": 7787
+  },
+  {
+    "name": "[FR Only] Régiment Des Lames d'Acier | Discord : https://disco",
+    "addr": "79.137.89.136",
+    "port": 10165
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
@@ -6099,7 +6128,7 @@
     "port": 28500
   },
   {
-    "name": "The Fuhrer Bunker (US MID) New Players Welcome!",
+    "name": "The Fuhrer Bunker  All Maps New Players Welcome!",
     "addr": "83.223.207.50",
     "port": 28800
   },
@@ -6529,7 +6558,7 @@
     "port": 28500
   },
   {
-    "name": "Omaha Beach 1944 Hell let loose (BRASIL) ",
+    "name": "STALINGRAD 24/7  (BRASIL) ",
     "addr": "92.38.151.76",
     "port": 28000
   },
