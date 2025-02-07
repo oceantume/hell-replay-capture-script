@@ -6207,12 +6207,6 @@
     "port": 28300
   },
   {
-    "name": "HLL Server",
-    "addr": "89.242.189.190",
-    "port": 7777,
-    "removed": 1738347814
-  },
-  {
     "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
     "port": 28000
@@ -6531,8 +6525,7 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100,
-    "removed": 1738951741
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #09",
