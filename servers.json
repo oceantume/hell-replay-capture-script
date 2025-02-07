@@ -26,12 +26,6 @@
     "removed": 1738606137
   },
   {
-    "name": "CN-音奏的萌新进阶服6服|Q群:598632634|JP节点",
-    "addr": "103.62.49.39",
-    "port": 8898,
-    "removed": 1738303746
-  },
-  {
     "name": "<CN>ARO（原TR）MAGA！ JP Q群703608483",
     "addr": "103.62.49.39",
     "port": 8918,
@@ -1563,8 +1557,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1738649386
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -2312,7 +2305,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738908588
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2380,8 +2374,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1738822190
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -2397,7 +2390,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738908588
   },
   {
     "name": "QA Testing - EU #05",
@@ -2647,7 +2641,7 @@
     "port": 7847
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | +50 LEVEL",
+    "name": "『V』WWW.VANGUARDA.PRO.BR | +30 LEVEL",
     "addr": "177.54.147.141",
     "port": 7867
   },
@@ -3037,7 +3031,7 @@
     "port": 9075
   },
   {
-    "name": "hll Server",
+    "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "192.169.95.21",
     "port": 7777
   },
@@ -3203,8 +3197,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738892116
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3515,12 +3508,14 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1738908588
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738908588
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -3530,7 +3525,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738908588
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3591,7 +3587,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | LVL 25 PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738908588
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -6177,7 +6174,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738908588
   },
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
@@ -6421,7 +6419,8 @@
   {
     "name": "⑦ | THE CIRCLE #7 | WET TREE! | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
-    "port": 7817
+    "port": 7817,
+    "removed": 1738908588
   },
   {
     "name": "⑥ | THE CIRCLE #6 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
