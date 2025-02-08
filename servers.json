@@ -264,7 +264,8 @@
   {
     "name": "BALKAN HLL #1",
     "addr": "135.125.163.81",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739038058
   },
   {
     "name": "[GER] DOG Hundehütte",
@@ -330,7 +331,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -402,7 +403,8 @@
   {
     "name": "(ENG/EU) #1 PRESS F / NO FRENCH MAPS / discord.gg/6UwSAHnR",
     "addr": "141.95.34.126",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739038058
   },
   {
     "name": "HLL Official - Hungary #2",
@@ -759,8 +761,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1739016582
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -852,6 +853,11 @@
     "name": "HLL Official - Europe #228",
     "addr": "176.57.134.23",
     "port": 28700
+  },
+  {
+    "name": "[GER] - BlitzKrieg - Mic Pflicht - Wir Rekrutieren - https://di",
+    "addr": "176.57.134.27",
+    "port": 28100
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
@@ -1123,7 +1129,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739038058
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1650,8 +1657,7 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1738998304
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2589,10 +2595,9 @@
     "port": 28100
   },
   {
-    "name": "PaulanerGarte Anfängerfreundlich Kein Admin LG",
+    "name": "[Ger]Che/Aut EisenMineSchmiede[ab lv50][Mikro Pflicht]danke",
     "addr": "176.57.181.34",
-    "port": 28300,
-    "removed": 1738888178
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.coq",
@@ -2905,7 +2910,8 @@
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
     "addr": "192.169.82.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739038058
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -3004,6 +3010,11 @@
     "port": 7777
   },
   {
+    "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
+    "addr": "192.169.95.19",
+    "port": 7777
+  },
+  {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
     "port": 8530
@@ -3056,8 +3067,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1738951741
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -3083,8 +3093,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1738951741
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -3442,7 +3451,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3666,7 +3675,7 @@
     "port": 28300
   },
   {
-    "name": "[GER]Zum Goldenen Reiter [German Mic][Lvl.10]",
+    "name": "[GER] Zum Goldenen Reiter [German Mic][Lvl.10+]",
     "addr": "213.136.88.87",
     "port": 28400
   },
@@ -3716,7 +3725,8 @@
   {
     "name": "[AUT/GER] Sturmbataillon  !!NEW!! Beginnerfreundlich",
     "addr": "213.136.94.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739038058
   },
   {
     "name": "Twitch: iGoDLiKe_v2",
@@ -3769,12 +3779,6 @@
     "addr": "31.56.0.79",
     "port": 7777,
     "removed": 1738930276
-  },
-  {
-    "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
-    "addr": "31.56.0.80",
-    "port": 7877,
-    "removed": 1738433251
   },
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
@@ -5011,12 +5015,6 @@
     "port": 9014
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "5.226.141.83",
-    "port": 8530,
-    "removed": 1738433251
-  },
-  {
     "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Seeding+",
     "addr": "5.9.150.142",
     "port": 8530
@@ -5049,7 +5047,8 @@
   {
     "name": "DUTCH / ENGLISH WW2",
     "addr": "51.195.176.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739038058
   },
   {
     "name": "CZ/SK svet",
@@ -5077,7 +5076,7 @@
     "port": 9075
   },
   {
-    "name": "[HLL#PT] - Officer Lvl 30+ / Cmnd Lvl 50+ (PRT/ENG)",
+    "name": "[HLL#PT] - Officer Lvl 20+ / Cmnd Lvl 40+ (PRT/ENG)",
     "addr": "51.210.32.201",
     "port": 8530
   },
@@ -5333,7 +5332,8 @@
   {
     "name": "CN ITK#2琴里~约会大作战攻防日服Q群48381851",
     "addr": "64.31.11.26",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739038058
   },
   {
     "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
@@ -5343,7 +5343,8 @@
   {
     "name": "[US WEST]IT'S MYGO!KTI Community NEW PLAYER WELCOME",
     "addr": "64.31.11.26",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739038058
   },
   {
     "name": "CN：灰猎犬连萌新EPIC禁炮服/JP Q：441245221",
@@ -5461,6 +5462,11 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.60.36",
+    "port": 7777
+  },
+  {
+    "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
+    "addr": "64.31.60.37",
     "port": 7777
   },
   {
@@ -5605,7 +5611,7 @@
     "port": 9620
   },
   {
-    "name": "[MSB] Formation Skithög LVL 30+ | SWE/ENG | ",
+    "name": "[MSB] Formation Skithög | SWE/ENG | ",
     "addr": "79.141.174.116",
     "port": 8530
   },
@@ -5633,8 +5639,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1738951741
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5934,7 +5939,8 @@
   {
     "name": "<CN>  萌新的快乐小屋",
     "addr": "83.223.197.89",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739038058
   },
   {
     "name": "日本人応援サーバー、JP、JAPAN、JPN https://discord.",
@@ -6279,7 +6285,7 @@
     "port": 28200
   },
   {
-    "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：578097070",
+    "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：797464980",
     "addr": "89.46.1.190",
     "port": 7177
   },
@@ -6305,7 +6311,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#6 公众号TT天堂免费领取永久VIP/Q群：578097070",
+    "name": "<CN>#6 公众号TT天堂免费领取永久VIP/Q群：797464980",
     "addr": "89.46.1.190",
     "port": 7797
   },
