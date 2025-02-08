@@ -330,7 +330,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -612,7 +612,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部(投票地图)Q群：578097070",
+    "name": "<CN>#1 TT天堂萌新俱乐部(随机图)Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -624,7 +624,8 @@
   {
     "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1738974522
   },
   {
     "name": "CN [MX]幼儿园薯条加工厂HK QQ群162996620",
@@ -649,7 +650,8 @@
   {
     "name": "<CN>#9 TT天堂刷分升级服进群领密码Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7917
+    "port": 7917,
+    "removed": 1738974522
   },
   {
     "name": "<CN>萌新禁炮 EROS狗叫天堂HK Q群：686886842",
@@ -660,7 +662,8 @@
   {
     "name": "[CN]#8 公众号TT天堂免费领取永久VIP/Q群:578097070",
     "addr": "156.146.44.225",
-    "port": 7937
+    "port": 7937,
+    "removed": 1738974522
   },
   {
     "name": "<CN>1801#1 蓝蔷薇少女的骑行 港服 Q群：677043328",
@@ -725,7 +728,7 @@
     "port": 7777
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #2 | discord.gg/TSKHLL | Turkish",
+    "name": "[TR] Türk Silahlı Kuvvetleri #2 | TSKHLL.COM | Turkish Only",
     "addr": "169.150.215.66",
     "port": 7877
   },
@@ -740,7 +743,7 @@
     "port": 7797
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #1 | discord.gg/TSKHLL | Turkish",
+    "name": "[TR] Türk Silahlı Kuvvetleri #1 | TSKHLL.COM | Turkish Only",
     "addr": "169.150.215.70",
     "port": 7807
   },
@@ -1934,7 +1937,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1738974522
   },
   {
     "name": "HLL Official - Europe #157",
@@ -3020,8 +3024,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1738930276
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3442,7 +3445,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3564,7 +3567,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -5416,6 +5419,11 @@
     "port": 7777
   },
   {
+    "name": "Testing123",
+    "addr": "64.31.2.218",
+    "port": 7777
+  },
+  {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
     "port": 7777
@@ -6127,7 +6135,7 @@
     "port": 28500
   },
   {
-    "name": "The Fuhrer Bunker  All Maps New Players Welcome!",
+    "name": "╔ ╗ THE BUNKER ╔ ╗  ALL MAPS NEW PLAYERS WELCOME",
     "addr": "83.223.207.50",
     "port": 28800
   },
@@ -6194,7 +6202,8 @@
   {
     "name": "KieransServer",
     "addr": "86.157.77.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1738974522
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MEGAN FOX | MIC ONLY | VOTE",
