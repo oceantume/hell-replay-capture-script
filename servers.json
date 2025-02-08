@@ -474,12 +474,6 @@
     "port": 7787
   },
   {
-    "name": "hll Server",
-    "addr": "146.19.48.212",
-    "port": 7777,
-    "removed": 1738390096
-  },
-  {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
     "addr": "146.59.149.83",
     "port": 9075
@@ -1176,7 +1170,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1738994901
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1856,7 +1851,8 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000
+    "port": 28000,
+    "removed": 1738994901
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1866,7 +1862,8 @@
   {
     "name": "HLL Official - Europe #52",
     "addr": "176.57.171.120",
-    "port": 28200
+    "port": 28200,
+    "removed": 1738994901
   },
   {
     "name": "HLL Official - Europe #68",
@@ -2004,7 +2001,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.7",
-    "port": 28100
+    "port": 28100,
+    "removed": 1738994901
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -2304,8 +2302,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1738908588
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2389,8 +2386,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1738908588
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -2946,12 +2942,6 @@
     "port": 9075
   },
   {
-    "name": "EASY Company  | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "192.169.88.74",
-    "port": 7777,
-    "removed": 1738390096
-  },
-  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -3206,8 +3196,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1738978444
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3789,38 +3778,32 @@
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777,
-    "removed": 1738976115
+    "port": 7777
   },
   {
     "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1738976115
+    "port": 7787
   },
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1738976115
+    "port": 7797
+  },
+  {
+    "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
+    "addr": "31.56.0.81",
+    "port": 7807
   },
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1738780681
+    "port": 7817
   },
   {
-    "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
+    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1738976115
-  },
-  {
-    "name": "CN4#JP春日猫猫萌新限杀の冲突馆|Q120748151",
-    "addr": "31.56.0.81",
-    "port": 7827,
-    "removed": 1738976115
+    "port": 7827
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
@@ -3835,16 +3818,19 @@
     "removed": 1738976115
   },
   {
-    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
+    "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7857,
-    "removed": 1738976115
+    "port": 7857
   },
   {
-    "name": "hll MT Server",
+    "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7877,
-    "removed": 1738781265
+    "port": 7867
+  },
+  {
+    "name": "CN-音奏的萌新进阶服8服|Q群:598632634|JP节点",
+    "addr": "31.56.0.81",
+    "port": 7877
   },
   {
     "name": "hll MT Server",
@@ -5095,7 +5081,7 @@
     "port": 8530
   },
   {
-    "name": "6th Recon Division [6RCN] FNF",
+    "name": "6th Recon Division [6RCN] NA East",
     "addr": "51.222.248.105",
     "port": 8530
   },
@@ -5399,7 +5385,7 @@
     "port": 7777
   },
   {
-    "name": "Testing123",
+    "name": "The Motor Pool | Coming Soon",
     "addr": "64.31.2.218",
     "port": 7777
   },
