@@ -515,7 +515,7 @@
     "port": 28300
   },
   {
-    "name": "CN//矢车菊（BKornblume）//HK 无规则服 //q群： 726807",
+    "name": "CN矢车菊（BKornblume）//HK无规则服//q群：726807477",
     "addr": "15.235.180.103",
     "port": 8530
   },
@@ -2653,7 +2653,8 @@
   {
     "name": "HLL Sur America - CLAN [·CTM·] CHILE | PRACTICAS & EVENTOS",
     "addr": "177.54.147.141",
-    "port": 7907
+    "port": 7907,
+    "removed": 1738978444
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -3205,7 +3206,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1738978444
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -5093,7 +5095,7 @@
     "port": 8530
   },
   {
-    "name": "6th Recon Division [6RCN] NA East",
+    "name": "6th Recon Division [6RCN] FNF",
     "addr": "51.222.248.105",
     "port": 8530
   },
@@ -6211,8 +6213,7 @@
   {
     "name": "HLL Official - South America #25",
     "addr": "89.43.106.36",
-    "port": 28200,
-    "removed": 1738976115
+    "port": 28200
   },
   {
     "name": "HLL Official - South America #26",
