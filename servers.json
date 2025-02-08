@@ -2594,10 +2594,9 @@
     "port": 28100
   },
   {
-    "name": "[Ger]Che/Aut EisenMineSchmiede[ab lv50][Mikro Pflicht]danke",
+    "name": "[Ger]Che/Aut EisenMineSchmiede[ab lv Mikro Thx]",
     "addr": "176.57.181.34",
-    "port": 28300,
-    "removed": 1739039645
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.coq",
@@ -3176,8 +3175,7 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
-    "port": 7787,
-    "removed": 1739039645
+    "port": 7787
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -3212,7 +3210,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739040206
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
