@@ -433,12 +433,6 @@
     "port": 8530
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #1 ★ | 100% FR | discord.gg/7ecie",
-    "addr": "145.239.131.234",
-    "port": 8530,
-    "removed": 1738521331
-  },
-  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -615,8 +609,7 @@
   {
     "name": "<CN>#1 TT天堂萌新俱乐部(随机图)Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7797,
-    "removed": 1739126044
+    "port": 7797
   },
   {
     "name": "CN淘宝人间地狱工作室服务器出租兵种代刷",
@@ -3177,8 +3170,7 @@
   {
     "name": "[GER] 300 Spartaner / https://discord.gg/CYhQ9Khr ",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1739126044
+    "port": 20700
   },
   {
     "name": "Kommando Hummel",
@@ -3193,8 +3185,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739126044
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -5210,7 +5201,8 @@
   {
     "name": "Blood, Sweat & Beers | Happy Hour #2 | bsbhll.com",
     "addr": "54.36.60.213",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739126606
   },
   {
     "name": "#05 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
