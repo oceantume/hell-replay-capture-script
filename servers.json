@@ -860,7 +860,8 @@
   {
     "name": "[GER] - BlitzKrieg - Mic Pflicht - Wir Rekrutieren - https://di",
     "addr": "176.57.134.27",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739105066
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
@@ -3176,12 +3177,14 @@
   {
     "name": "Wointown",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1739105066
   },
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739105066
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3791,7 +3794,7 @@
     "port": 7827
   },
   {
-    "name": "CN：灰猎犬连萌新攻防/禁抱团 Q：441245221",
+    "name": "CN：灰猎犬连萌新攻防/禁抱团/JP Q：441245221",
     "addr": "31.56.0.81",
     "port": 7837
   },
