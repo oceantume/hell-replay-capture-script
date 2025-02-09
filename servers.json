@@ -293,7 +293,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL ",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -336,7 +336,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -604,7 +604,8 @@
   {
     "name": "CN#1帝国之鹰Q群1016686458",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739124455
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -718,7 +719,8 @@
   {
     "name": "kacownia rp",
     "addr": "168.119.79.144",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739124455
   },
   {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -1126,8 +1128,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1739038058
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1137,7 +1138,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739124455
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1396,6 +1398,11 @@
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
+  },
+  {
+    "name": "Deutsches Staatseigentum [Neue Spieler Willkommen]",
+    "addr": "176.57.140.64",
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #19",
@@ -1924,8 +1931,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1738974522
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #157",
@@ -2340,10 +2346,9 @@
     "port": 28100
   },
   {
-    "name": "Dutch Let Loose #4 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
+    "name": "<CN>1801#1 蓝蔷薇少女的骑行 欧服 Q群：677043328",
     "addr": "176.57.178.127",
-    "port": 28200,
-    "removed": 1738542609
+    "port": 28200
   },
   {
     "name": "Dutch Let Loose #5 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -2769,7 +2774,8 @@
   {
     "name": "Die Gang",
     "addr": "185.206.151.110",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739124455
   },
   {
     "name": "Desert Ratz Event Server!",
@@ -2820,6 +2826,11 @@
   {
     "name": "[ITA/EU] PIZZA LET LOOSE - NEW PLAYERS WELCOME! - https://disco",
     "addr": "188.64.33.118",
+    "port": 8530
+  },
+  {
+    "name": "Recently Renamed Sloots - Vanilla",
+    "addr": "188.64.33.2",
     "port": 8530
   },
   {
@@ -2912,8 +2923,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1739106575
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -3164,10 +3174,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] 300 Spartaner / Werde auch du Spartaner! https://discord.",
+    "name": "[GER] 300 Spartaner / https://discord.gg/CYhQ9Khr ",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1739061120
+    "port": 20700
   },
   {
     "name": "Kommando Hummel",
@@ -3434,7 +3443,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3880,7 +3889,8 @@
   {
     "name": "The Salty Neckbeards - US Central - GTXGaming",
     "addr": "38.18.231.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739124455
   },
   {
     "name": "Devils Brigade (US CENTRAL)",
@@ -4864,7 +4874,7 @@
     "port": 29000
   },
   {
-    "name": "RageMonkies Let Loose (RMK) https://discord.gg/ragemonkies",
+    "name": "RageMonkies-OFFENSIVE ONLY(RMK) https://discord.gg/ragemonkies ",
     "addr": "45.143.198.25",
     "port": 8530
   },
@@ -5170,7 +5180,7 @@
     "port": 9620
   },
   {
-    "name": "RealityShowTV EU",
+    "name": "PolskaGurom PL",
     "addr": "51.89.64.100",
     "port": 8530
   },
@@ -5325,7 +5335,8 @@
   {
     "name": "<CN>BW黑色守望/绿区希望镇萌新区/Q:682305162",
     "addr": "64.31.11.26",
-    "port": 12345
+    "port": 12345,
+    "removed": 1739124455
   },
   {
     "name": "CN ITK#2琴里~约会大作战攻防日服Q群48381851",
@@ -5347,7 +5358,8 @@
   {
     "name": "CN：灰猎犬连萌新EPIC禁炮服/JP Q：441245221",
     "addr": "64.31.11.50",
-    "port": 10165
+    "port": 10165,
+    "removed": 1739124455
   },
   {
     "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
@@ -5372,12 +5384,14 @@
   {
     "name": "CN：灰猎犬连萌新EPIC攻防服/JP Q：441245221",
     "addr": "64.31.11.50",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739124455
   },
   {
     "name": "秋叶原国服难民营群号1098305217",
     "addr": "64.31.11.50",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739124455
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -6013,7 +6027,7 @@
     "port": 28000
   },
   {
-    "name": "[BDG 34th] NA East New server Noob Friendly ",
+    "name": "[BDG 34th] 2nd Infantry DIV | New Players Welcome - US East -",
     "addr": "83.223.203.51",
     "port": 28000
   },
@@ -6183,8 +6197,7 @@
   {
     "name": "63rd infantry Division [iB][New Player Friendly][Recruiting now",
     "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1739106575
+    "port": 8530
   },
   {
     "name": "{serverName}",
@@ -6351,6 +6364,11 @@
     "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
     "port": 7887
+  },
+  {
+    "name": "CN2 [FJ] 包子的男同俱乐部JP Q群:1029886683",
+    "addr": "89.46.1.190",
+    "port": 7897
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
