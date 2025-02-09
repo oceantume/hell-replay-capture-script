@@ -290,7 +290,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL ",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1739081303
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
@@ -331,7 +332,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -674,6 +675,11 @@
     "addr": "160.202.167.11",
     "port": 8888,
     "removed": 1739061120
+  },
+  {
+    "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "160.202.167.30",
+    "port": 8888
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -1163,8 +1169,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1738994901
+    "port": 30700
   },
   {
     "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
@@ -1492,7 +1497,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739081303
   },
   {
     "name": "QA Testing - EU #03",
@@ -1839,8 +1845,7 @@
   {
     "name": "HLL Official - Europe #15",
     "addr": "176.57.171.120",
-    "port": 28000,
-    "removed": 1738994901
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #42",
@@ -1850,8 +1855,7 @@
   {
     "name": "HLL Official - Europe #52",
     "addr": "176.57.171.120",
-    "port": 28200,
-    "removed": 1738994901
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #68",
@@ -2635,10 +2639,9 @@
     "removed": 1738822190
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] CHILE | PRACTICAS & EVENTOS",
+    "name": "HLL Sur America - CLAN [·CTM·] #03 CHILE |  Practicas & Event",
     "addr": "177.54.147.141",
-    "port": 7907,
-    "removed": 1738978444
+    "port": 7907
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -2717,7 +2720,7 @@
     "port": 7827
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #8 UTAH 4EVER",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #8 ",
     "addr": "181.214.221.212",
     "port": 7837
   },
@@ -3443,7 +3446,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -5260,6 +5263,11 @@
     "port": 7777
   },
   {
+    "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
+    "addr": "63.143.60.21",
+    "port": 7787
+  },
+  {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
     "addr": "63.143.62.100",
     "port": 7777
@@ -6488,7 +6496,7 @@
     "port": 7777
   },
   {
-    "name": "  [US] The Inglorious Bastards #1 I PS5/Xbox I Https://discord.",
+    "name": "  [US] The Inglorious Bastards #1 I New Player Friendly I Https",
     "addr": "92.118.19.142",
     "port": 7807
   },
