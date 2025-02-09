@@ -331,7 +331,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -346,7 +346,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -356,7 +356,7 @@
     "port": 10710
   },
   {
-    "name": "[Cult] Moscow | discord.cultcity.ru | Russian Public Server",
+    "name": "Cult | Moscow | discord.cultcity.ru | Russian Public Server",
     "addr": "141.105.66.70",
     "port": 8530
   },
@@ -480,7 +480,7 @@
     "port": 9075
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę lub seeding - **********/hll",
+    "name": "PL - Polski Serwer - VIP za dychę lub seeding - ***********hll",
     "addr": "146.59.47.230",
     "port": 8530
   },
@@ -672,7 +672,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.11",
-    "port": 8888
+    "port": 8888,
+    "removed": 1739061120
   },
   {
     "name": "00 US EAST | LOOK MA, I BOUGHT A SERVER |",
@@ -743,8 +744,7 @@
   {
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
-    "port": 7817,
-    "removed": 1738628942
+    "port": 7817
   },
   {
     "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
@@ -856,19 +856,12 @@
   {
     "name": "[GER] - BlitzKrieg - Mic Pflicht - Wir Rekrutieren - https://di",
     "addr": "176.57.134.27",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
     "addr": "176.57.134.27",
     "port": 28400
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 9 | WTF WHO DEFEND | QS | OINK",
-    "addr": "176.57.134.27",
-    "port": 28600,
-    "removed": 1738456289
   },
   {
     "name": "NEW PLAYERS WELCOME! (Europe) - Empire of Thunder",
@@ -1135,8 +1128,7 @@
   {
     "name": "HLL Official - Australia #04",
     "addr": "176.57.135.34",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #02",
@@ -1146,8 +1138,7 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "176.57.135.48",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
@@ -1163,12 +1154,6 @@
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
-  },
-  {
-    "name": "WST",
-    "addr": "176.57.140.16",
-    "port": 28100,
-    "removed": 1738456289
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -1629,12 +1614,6 @@
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
     "port": 28300
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 9.9 | ENDGAME | QS | OINK",
-    "addr": "176.57.168.252",
-    "port": 28400,
-    "removed": 1738456289
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -2624,7 +2603,7 @@
     "port": 8530
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR - MELHOR SERVIDOR DO BRASIL",
+    "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
     "addr": "177.54.147.141",
     "port": 7777
   },
@@ -2738,7 +2717,7 @@
     "port": 7827
   },
   {
-    "name": "MARRAM VETERANOS DE GUERRA +50  CONCORRA PRÊMIOS",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #8 UTAH 4EVER",
     "addr": "181.214.221.212",
     "port": 7837
   },
@@ -2768,7 +2747,7 @@
     "port": 7807
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #6",
+    "name": "<COBRAS FUMANTES> vip.marram.com.br #6 - ESTRATÉGIA",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -3055,7 +3034,8 @@
   {
     "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "192.169.95.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739061120
   },
   {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
@@ -3122,12 +3102,6 @@
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
     "port": 28000
-  },
-  {
-    "name": "Outlaw's Hideout (US West)",
-    "addr": "193.192.59.39",
-    "port": 28100,
-    "removed": 1738456289
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -3204,7 +3178,8 @@
   {
     "name": "[GER] 300 Spartaner / Werde auch du Spartaner! https://discord.",
     "addr": "195.82.158.186",
-    "port": 20700
+    "port": 20700,
+    "removed": 1739061120
   },
   {
     "name": "Kommando Hummel",
@@ -3444,7 +3419,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] {404} skill not found | Mic Only",
+    "name": "[GER] [404] skill not found | Mic Only",
     "addr": "208.115.206.196",
     "port": 7787
   },
@@ -3469,7 +3444,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY LVL 75+| DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY LVL 25+| DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3591,7 +3566,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  LVL 25+ DISCORD.GG/THE-CIRCL",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE |  DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3811,7 +3786,8 @@
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797
+    "port": 7797,
+    "removed": 1739061120
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
@@ -5415,7 +5391,7 @@
     "port": 7777
   },
   {
-    "name": "The Motor Pool | Coming Soon",
+    "name": "△ The Motor Pool | Coming Soon",
     "addr": "64.31.2.218",
     "port": 7777
   },
@@ -5573,7 +5549,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #7   QONZER.COM",
+    "name": "<COBRAS FUMANTES> MARRAM #7 - QONZER.COM - EVENTOS",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -5937,7 +5913,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739061120
   },
   {
     "name": "HLL Official - Asia #24",
@@ -6041,6 +6018,11 @@
   {
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
+    "port": 28000
+  },
+  {
+    "name": "[BDG 34th] NA East New server Noob Friendly ",
+    "addr": "83.223.203.51",
     "port": 28000
   },
   {
@@ -6213,7 +6195,7 @@
     "port": 8530
   },
   {
-    "name": "63rd infantry Division [iB][new player friendly][Recruiting now",
+    "name": "63rd infantry Division [iB][New Player Friendly][Recruiting now",
     "addr": "88.209.197.59",
     "port": 8530
   },
@@ -6508,6 +6490,11 @@
     "port": 7777
   },
   {
+    "name": "  [US] The Inglorious Bastards #1 I PS5/Xbox I Https://discord.",
+    "addr": "92.118.19.142",
+    "port": 7807
+  },
+  {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
     "addr": "92.118.19.60",
     "port": 7787
@@ -6558,7 +6545,7 @@
     "port": 28500
   },
   {
-    "name": "STALINGRAD 24/7  (BRASIL) ",
+    "name": "Operação Barbarossa Sangue no Leste ( BRASIL ) ",
     "addr": "92.38.151.76",
     "port": 28000
   },
@@ -6571,7 +6558,8 @@
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "92.38.151.86",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739061120
   },
   {
     "name": "A. HHL(Brazil)SUL AMERICA https://discord.gg/H3nx7PzvUV",
@@ -6616,7 +6604,8 @@
   {
     "name": "(Brazil) Server AlemaozinhoCG",
     "addr": "92.38.151.91",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739061120
   },
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
@@ -6642,278 +6631,232 @@
   {
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.22",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #18",
     "addr": "94.250.221.22",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #22",
     "addr": "94.250.221.22",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #29",
     "addr": "94.250.221.22",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #34",
     "addr": "94.250.221.22",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #41",
     "addr": "94.250.221.22",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #48",
     "addr": "94.250.221.22",
-    "port": 28600,
-    "removed": 1739041353
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #10",
     "addr": "94.250.221.23",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #13",
     "addr": "94.250.221.23",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #21",
     "addr": "94.250.221.23",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #28",
     "addr": "94.250.221.23",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #35",
     "addr": "94.250.221.23",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #50",
     "addr": "94.250.221.23",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #05",
     "addr": "94.250.221.25",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #16",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #19",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #30",
     "addr": "94.250.221.25",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #31",
     "addr": "94.250.221.25",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #42",
     "addr": "94.250.221.25",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #47",
     "addr": "94.250.221.25",
-    "port": 28600,
-    "removed": 1739041353
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #09",
     "addr": "94.250.221.26",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #17",
     "addr": "94.250.221.26",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #24",
     "addr": "94.250.221.26",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #32",
     "addr": "94.250.221.26",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #36",
     "addr": "94.250.221.26",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #45",
     "addr": "94.250.221.26",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #08",
     "addr": "94.250.221.27",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #14",
     "addr": "94.250.221.27",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #23",
     "addr": "94.250.221.27",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #38",
     "addr": "94.250.221.27",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #43",
     "addr": "94.250.221.27",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #44",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #07",
     "addr": "94.250.221.35",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #12",
     "addr": "94.250.221.35",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #20",
     "addr": "94.250.221.35",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #26",
     "addr": "94.250.221.35",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #37",
     "addr": "94.250.221.35",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #40",
     "addr": "94.250.221.35",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600,
-    "removed": 1739041353
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #06",
     "addr": "94.250.221.36",
-    "port": 28000,
-    "removed": 1739041353
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.36",
-    "port": 28100,
-    "removed": 1739041353
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #25",
     "addr": "94.250.221.36",
-    "port": 28200,
-    "removed": 1739041353
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #27",
     "addr": "94.250.221.36",
-    "port": 28300,
-    "removed": 1739041353
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #33",
     "addr": "94.250.221.36",
-    "port": 28400,
-    "removed": 1739041353
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #39",
     "addr": "94.250.221.36",
-    "port": 28500,
-    "removed": 1739041353
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600,
-    "removed": 1739041353
+    "port": 28600
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
