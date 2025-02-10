@@ -82,12 +82,18 @@
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
     "addr": "103.62.49.49",
-    "port": 8948
+    "port": 8948,
+    "removed": 1739189498
   },
   {
     "name": "CN Mico咖啡屋 日服 Q群:1023817690",
     "addr": "103.62.49.49",
     "port": 8958
+  },
+  {
+    "name": "<CN>BW黑色守望/黄区卫国战争/北非战场/Q:682305162",
+    "addr": "103.62.49.49",
+    "port": 8968
   },
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
@@ -352,7 +358,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -477,7 +483,8 @@
   {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
     "addr": "146.59.149.83",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739189498
   },
   {
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - ***********hll",
@@ -569,6 +576,11 @@
     "name": "CDS",
     "addr": "152.228.223.24",
     "port": 8530
+  },
+  {
+    "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
+    "addr": "152.228.223.24",
+    "port": 9075
   },
   {
     "name": "[FR] Chiens De La Casse - Bonne ambiance de rigueur !",
@@ -2654,12 +2666,12 @@
     "port": 8772
   },
   {
-    "name": "◀COBRAS FUMANTES▶ MARRAM #1 DISCORD.GG/COBRASFUMANTES",
+    "name": "《COBRAS FUMANTES》MARRAM #1 discord.gg/cobrasfumantes",
     "addr": "181.214.221.212",
     "port": 7777
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #2 Offensive 4ever ",
+    "name": "《COBRAS FUMANTES》vip.marram.com.br #2 Offensive 4ever ",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -2684,22 +2696,22 @@
     "port": 7827
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #8 - level +20 ",
+    "name": "《COBRAS FUMANTES》vip.marram.com.br #8 - level +30 ",
     "addr": "181.214.221.212",
     "port": 7837
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #4",
+    "name": "《COBRAS FUMANTES》vip.marram.com.br #4",
     "addr": "181.214.221.212",
     "port": 7847
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #5",
+    "name": "《COBRAS FUMANTES》 vip.marram.com.br #5",
     "addr": "181.214.221.41",
     "port": 7777
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #3",
+    "name": "《COBRAS FUMANTES》vip.marram.com.br #3",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -2714,7 +2726,7 @@
     "port": 7807
   },
   {
-    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #6 - ESTRATÉGIA",
+    "name": "《COBRAS FUMANTES》 vip.marram.com.br #6 - ESTRATÉGIA",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -3245,12 +3257,6 @@
     "removed": 1738671107
   },
   {
-    "name": "CN#<CCG>柴郡猫猫近卫军|萌新社区|JP|Q885187716",
-    "addr": "203.10.98.5",
-    "port": 8888,
-    "removed": 1738584681
-  },
-  {
     "name": "CN6#咖啡馆&CZS训练刷分升级服密码群1022240199",
     "addr": "203.10.98.5",
     "port": 8898,
@@ -3528,7 +3534,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -5503,7 +5509,7 @@
     "port": 7777
   },
   {
-    "name": "◀COBRAS FUMANTES▶ MARRAM #7 - QONZER.COM - EVENTOS",
+    "name": "《COBRAS FUMANTES》MARRAM #7 - QONZER.COM - EVENTOS",
     "addr": "69.162.89.149",
     "port": 7777
   },
@@ -6277,7 +6283,8 @@
   {
     "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1739189498
   },
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
@@ -6494,7 +6501,7 @@
     "port": 28500
   },
   {
-    "name": "IRON BLITZ: THE BATTLEFRONT ( BRASIL )",
+    "name": "IRON BLITZ BRASIL  || IBD ||  ironblitz.com.br",
     "addr": "92.38.151.76",
     "port": 28000
   },
