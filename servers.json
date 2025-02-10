@@ -1392,7 +1392,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739171454
   },
   {
     "name": "Deutsches Staatseigentum [Neue Spieler Willkommen]",
@@ -5249,14 +5250,12 @@
   {
     "name": "=F|A=Fearless-Assassins=New Players Welcome=",
     "addr": "64.20.48.138",
-    "port": 8530,
-    "removed": 1739170736
+    "port": 8530
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
     "addr": "64.20.48.138",
-    "port": 9075,
-    "removed": 1739170736
+    "port": 9075
   },
   {
     "name": "CN5#冬夜里的深夜春节咖啡馆萌新专服|JP120748151",
@@ -6311,7 +6310,7 @@
     "port": 7887
   },
   {
-    "name": "CN2#【FJ】包子の男同俱乐部JP Q群:1029886683",
+    "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
     "addr": "89.46.1.190",
     "port": 7897
   },
