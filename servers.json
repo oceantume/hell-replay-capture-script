@@ -280,7 +280,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739167815
   },
   {
     "name": "HLL Official - Russia #02",
@@ -1496,8 +1497,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1739081303
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -1538,7 +1538,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739167815
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1563,7 +1564,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739167815
   },
   {
     "name": "QA Testing - EU #02",
@@ -2347,7 +2349,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739167815
   },
   {
     "name": "QA Testing - UK #07",
@@ -2690,7 +2693,7 @@
     "port": 7847
   },
   {
-    "name": "<COBRAS FUMANTES> vip.marram.com.br #5",
+    "name": "◀COBRAS FUMANTES▶ vip.marram.com.br #5",
     "addr": "181.214.221.41",
     "port": 7777
   },
@@ -3475,7 +3478,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739167815
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -3822,24 +3826,6 @@
     "addr": "31.56.0.81",
     "port": 7957,
     "removed": 1738976115
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | NASTY BUT TRUSTED | HC-QS | OINK",
-    "addr": "31.58.228.53",
-    "port": 7777,
-    "removed": 1738562991
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
-    "addr": "31.58.228.53",
-    "port": 7877,
-    "removed": 1738562991
-  },
-  {
-    "name": "     [ GER ] KAMPFSCHWEINE 8 | BALLERBUDE | QS | OINK",
-    "addr": "31.58.228.76",
-    "port": 7777,
-    "removed": 1738562991
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -6158,6 +6144,11 @@
     "port": 28300
   },
   {
+    "name": "Skridge's Server US EAST",
+    "addr": "89.117.72.67",
+    "port": 30800
+  },
+  {
     "name": "HLL Official - South America #23",
     "addr": "89.43.106.36",
     "port": 28000
@@ -6299,7 +6290,7 @@
     "port": 7847
   },
   {
-    "name": "CN1#【FJ】Fallschirmjäger绿魔鬼空降猎兵服务器Q群7",
+    "name": "CN1#JP#【FJ】绿魔鬼空降猎兵服务器Q群716701264",
     "addr": "89.46.1.190",
     "port": 7857
   },
@@ -6355,7 +6346,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WET TREE! | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | NEW PLAYERS WELCOME | DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
