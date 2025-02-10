@@ -3532,7 +3532,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | LVL 25 PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739213783
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -5332,8 +5333,7 @@
   {
     "name": "△ The Motor Pool | New Player Friendly",
     "addr": "64.31.2.218",
-    "port": 7777,
-    "removed": 1739213236
+    "port": 7777
   },
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
