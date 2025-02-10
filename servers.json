@@ -3676,7 +3676,8 @@
   {
     "name": "[GER] ZUM BESENKAMMER | NEW PLAYER FRIENDLY ",
     "addr": "213.136.94.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1739149116
   },
   {
     "name": "[AUT/GER] Sturmbataillon  !!NEW!! Beginnerfreundlich",
@@ -3749,8 +3750,7 @@
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1739147456
+    "port": 7797
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
@@ -5517,7 +5517,7 @@
     "port": 7777
   },
   {
-    "name": "<COBRAS FUMANTES> MARRAM #7 - QONZER.COM - EVENTOS",
+    "name": "◀COBRAS FUMANTES▶ MARRAM #7 - QONZER.COM - EVENTOS",
     "addr": "69.162.89.149",
     "port": 7777
   },
