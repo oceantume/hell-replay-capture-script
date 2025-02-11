@@ -2710,7 +2710,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739298979
   },
   {
     "name": "D55L Donner Legion PL",
@@ -3123,7 +3124,8 @@
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739298979
   },
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
@@ -5447,7 +5449,7 @@
     "port": 8530
   },
   {
-    "name": "[SAF] Scandinavian Armed Forces (level 20+, mic/voice, english)",
+    "name": "[SAF] (level 20+, mic/voice, english) - New player friendly!",
     "addr": "79.127.249.117",
     "port": 7777
   },
@@ -5510,7 +5512,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739298979
   },
   {
     "name": "HLL Official - Asia #06",
