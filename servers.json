@@ -262,8 +262,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1739167815
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -278,7 +277,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1739254161
   },
   {
     "name": "[GER] Team Vikings HLL | Just 4 Fun",
@@ -516,8 +516,7 @@
   {
     "name": "HLL Philippine Server [Fil/Eng]",
     "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1739233782
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -1444,7 +1443,8 @@
   {
     "name": "HLL Playtest Server - Europe #02",
     "addr": "176.57.140.97",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739254161
   },
   {
     "name": "HLL Official - Europe #219",
@@ -1520,8 +1520,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1739167815
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1546,8 +1545,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1739167815
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -1883,7 +1881,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739254161
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2331,8 +2330,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1739167815
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -3132,8 +3130,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739237720
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3447,7 +3444,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739254161
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -4977,6 +4975,11 @@
     "removed": 1739210952
   },
   {
+    "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
+    "addr": "51.195.88.43",
+    "port": 8530
+  },
+  {
     "name": "#2 [LL] Lost Legion | Blood, Guts, and Iron | lostlegion.eu",
     "addr": "51.195.89.45",
     "port": 8530
@@ -4987,7 +4990,7 @@
     "port": 9075
   },
   {
-    "name": "[HLL#PT] - Officer Lvl 20+ / Cmnd Lvl 40+ (PRT/ENG)",
+    "name": "[HLL#PT] Opened Weekends&Events->DISCORD: https://dsc.gg/hllpt",
     "addr": "51.210.32.201",
     "port": 8530
   },
@@ -5177,7 +5180,8 @@
   {
     "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "63.143.60.21",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739254161
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
