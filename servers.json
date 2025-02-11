@@ -5512,8 +5512,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1739298979
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5779,7 +5778,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739299579
   },
   {
     "name": "HLL Official - Asia #24",
@@ -5888,12 +5888,6 @@
     "name": "[BDG 34th] 2nd Infantry DIV | New Players Welcome - US East -",
     "addr": "83.223.203.51",
     "port": 28000
-  },
-  {
-    "name": "HELLFOXES PLAYGROUND (US East) [ENG] Server by g-portal.com",
-    "addr": "83.223.203.51",
-    "port": 28300,
-    "removed": 1738694250
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
