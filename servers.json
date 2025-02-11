@@ -319,7 +319,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -334,7 +334,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -459,7 +459,7 @@
     "removed": 1739189498
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę lub seeding - ***********hll",
+    "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
     "port": 8530
   },
@@ -516,7 +516,8 @@
   {
     "name": "HLL Philippine Server [Fil/Eng]",
     "addr": "15.235.226.40",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739233782
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -732,12 +733,6 @@
     "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.72",
     "port": 7817
-  },
-  {
-    "name": "Turks Let Loose #5 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "169.150.215.73",
-    "port": 7827,
-    "removed": 1738628942
   },
   {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
@@ -2547,12 +2542,6 @@
     "port": 8530
   },
   {
-    "name": "[HUN/ENG] Y9 | Magyar Hell Let Loose szerver.",
-    "addr": "176.9.113.23",
-    "port": 9075,
-    "removed": 1738628942
-  },
-  {
     "name": "BALLERBUDE [mic only]",
     "addr": "176.9.121.214",
     "port": 8530
@@ -2763,7 +2752,7 @@
     "port": 7777
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #1 ★ | 100% FR | discord.gg/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
     "addr": "188.165.39.157",
     "port": 7877
   },
@@ -3388,7 +3377,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3510,7 +3499,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3574,12 +3563,6 @@
     "name": "mmmeo",
     "addr": "213.136.80.177",
     "port": 28200
-  },
-  {
-    "name": "GangbangONG",
-    "addr": "213.136.80.177",
-    "port": 28300,
-    "removed": 1738628942
   },
   {
     "name": "CN MICO咖啡屋  欧洲节点 Q1023817690",
@@ -3759,10 +3742,9 @@
     "port": 7837
   },
   {
-    "name": "CN-音奏的萌新进阶服8服|Q群:598632634|JP节点",
+    "name": "CN4#JP春日猫猫萌新限杀の冲突馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1738976115
+    "port": 7847
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
@@ -4853,7 +4835,7 @@
     "port": 7787
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #3 ★ | 100% FR | discord.gg/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #3 ★ 100% FR - discord.gg/7ecie",
     "addr": "46.105.223.204",
     "port": 7877
   },
@@ -5003,7 +4985,7 @@
     "port": 9075
   },
   {
-    "name": "[HLL#PT] Opened Weekends&Events->DISCORD: https://dsc.gg/hllpt",
+    "name": "[HLL#PT] - Officer Lvl 20+ / Cmnd Lvl 40+ (PRT/ENG)",
     "addr": "51.210.32.201",
     "port": 8530
   },
@@ -6003,7 +5985,8 @@
   {
     "name": "Angelo's Only Toes - Dedicated to the #1 Feet on HLL- 32vs32 Sk",
     "addr": "83.223.204.52",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739233782
   },
   {
     "name": "HLL Official - US East #80",
@@ -6345,7 +6328,7 @@
     "port": 7827
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #2 ★ | 100% FR | discord.gg/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #2 ★ 100% FR - discord.gg/7ecie",
     "addr": "91.134.56.12",
     "port": 7837
   },
