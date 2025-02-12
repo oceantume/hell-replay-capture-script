@@ -3098,7 +3098,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739324108
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3131,7 +3132,7 @@
     "port": 8530
   },
   {
-    "name": "[BR1] BR1 Gaming - US CENTRAL Server 2 - (Dallas) - discord.gg/",
+    "name": "[BR1] BR1 Gaming - US CENTRAL 2 / Event - (Dallas) - discord.gg",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -4923,7 +4924,8 @@
   {
     "name": "[HLL#PT] Opened Weekends&Events->DISCORD: https://dsc.gg/hllpt",
     "addr": "51.210.32.201",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739324108
   },
   {
     "name": "6th Recon Division [6RCN] NA East",
@@ -5293,6 +5295,11 @@
     "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
     "addr": "64.31.40.205",
     "port": 7777
+  },
+  {
+    "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
+    "addr": "64.31.58.62",
+    "port": 7787
   },
   {
     "name": "69 SPACE FORCE |  US West",
