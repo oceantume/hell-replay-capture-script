@@ -2504,8 +2504,7 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1739383747
+    "port": 7827
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -2537,7 +2536,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil // Lvl. 50+ // INSANIDADE EM 2.0",
     "addr": "177.54.147.141",
-    "port": 7947
+    "port": 7947,
+    "removed": 1739384669
   },
   {
     "name": "#1[ESP] IBEROS LOCOS [ESP]",
@@ -6381,12 +6381,6 @@
     "name": "IRON BLITZ BRASIL  || IBD ||  ironblitz.com.br",
     "addr": "92.38.151.76",
     "port": 28000
-  },
-  {
-    "name": "[BRASIL] 1ºESQUADRÃO BRASILEIRO - discord.gg/3PNcV8mweX",
-    "addr": "92.38.151.76",
-    "port": 28200,
-    "removed": 1738779858
   },
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
