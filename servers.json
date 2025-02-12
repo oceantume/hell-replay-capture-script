@@ -299,7 +299,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -439,7 +439,7 @@
     "removed": 1739189498
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę lub seeding - ***********hll",
+    "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
     "port": 8530
   },
@@ -713,6 +713,11 @@
     "port": 7817
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "169.150.238.99",
+    "port": 7777
+  },
+  {
     "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
     "addr": "172.93.104.218",
     "port": 8530
@@ -747,12 +752,6 @@
     "addr": "172.93.97.74",
     "port": 9075,
     "removed": 1739362295
-  },
-  {
-    "name": "Search for mikeys-mm and use new US East server.",
-    "addr": "172.93.97.74",
-    "port": 9620,
-    "removed": 1738778946
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1077,7 +1076,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739383747
   },
   {
     "name": "HLL Official - Australia #04",
@@ -2275,12 +2275,6 @@
     "port": 28200
   },
   {
-    "name": "[UA] Ukraine Unity Frontline #3 HLL discord.gg/uuf",
-    "addr": "176.57.178.134",
-    "port": 28100,
-    "removed": 1738778946
-  },
-  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -2510,7 +2504,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1739383747
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -2723,7 +2718,8 @@
   {
     "name": "Recently Renamed Sloots - Vanilla",
     "addr": "188.64.33.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739383747
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -2816,8 +2812,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1739365380
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2827,8 +2822,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1739365380
+    "port": 7777
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2848,8 +2842,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1739365380
+    "port": 9014
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -3299,7 +3292,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3739,8 +3732,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1739365380
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4808,12 +4800,6 @@
     "removed": 1738888178
   },
   {
-    "name": "[PL/ENG] TGD Clan",
-    "addr": "5.189.132.77",
-    "port": 28000,
-    "removed": 1738778946
-  },
-  {
     "name": "(EU) New Player Friendly by Nexus-Chemicals.com",
     "addr": "5.189.132.77",
     "port": 28100
@@ -5120,16 +5106,9 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #4 - Dirty's Afterparty - discord.gg/13snc",
-    "addr": "63.143.62.90",
-    "port": 7777,
-    "removed": 1738760582
-  },
-  {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1739365380
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5511,8 +5490,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1739210952
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5747,12 +5725,14 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739383747
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739383747
   },
   {
     "name": "HLL Official - Asia #54",
@@ -6143,8 +6123,7 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：797464980",
     "addr": "89.46.1.190",
-    "port": 7177,
-    "removed": 1739365380
+    "port": 7177
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
