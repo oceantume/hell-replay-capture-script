@@ -231,12 +231,6 @@
     "port": 10200
   },
   {
-    "name": "Cadmando - Commander Coffee Break, Flanked & Furious3",
-    "addr": "134.255.240.110",
-    "port": 10600,
-    "removed": 1738735767
-  },
-  {
     "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
     "addr": "134.255.240.110",
     "port": 11000,
@@ -567,10 +561,9 @@
     "removed": 1738865333
   },
   {
-    "name": "CN#1帝国之鹰Q群1016686458",
+    "name": "<CN>HK别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1739124455
+    "port": 7777
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -824,12 +817,6 @@
     "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
     "addr": "176.57.134.27",
     "port": 28400
-  },
-  {
-    "name": "NEW PLAYERS WELCOME! (Europe) - Empire of Thunder",
-    "addr": "176.57.134.27",
-    "port": 28700,
-    "removed": 1738719310
   },
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
@@ -1125,12 +1112,6 @@
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
     "port": 30700
-  },
-  {
-    "name": "[GER] Verdammte Legion | Taktik und Kameradschaft an vorderster",
-    "addr": "176.57.140.196",
-    "port": 28000,
-    "removed": 1738735767
   },
   {
     "name": "[ENG/ITA] WildWolf Server | The New Era | [LOW PING]",
@@ -2387,7 +2368,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739340584
   },
   {
     "name": "HLL Official - Europe #04",
@@ -3098,8 +3080,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739324108
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3383,12 +3364,14 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739340584
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739340584
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -3398,7 +3381,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739340584
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3457,7 +3441,7 @@
     "port": 7787
   },
   {
-    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | LVL 25 PBSGAMETEAM.COM",
+    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
     "port": 7777
   },
@@ -3585,12 +3569,6 @@
     "addr": "213.136.94.160",
     "port": 28600,
     "removed": 1739038058
-  },
-  {
-    "name": "Twitch: iGoDLiKe_v2",
-    "addr": "213.136.94.160",
-    "port": 28900,
-    "removed": 1738735767
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
@@ -3722,6 +3700,11 @@
     "addr": "31.56.0.81",
     "port": 7957,
     "removed": 1738976115
+  },
+  {
+    "name": "The great test",
+    "addr": "31.56.0.97",
+    "port": 7777
   },
   {
     "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -4734,12 +4717,14 @@
   {
     "name": "Testing1337",
     "addr": "45.151.81.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739340584
   },
   {
     "name": "t17 test",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739340584
   },
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
@@ -4922,10 +4907,9 @@
     "port": 9075
   },
   {
-    "name": "[HLL#PT] Opened Weekends&Events->DISCORD: https://dsc.gg/hllpt",
+    "name": "[HLL#PT] Opened Weekends&Events | DISCORD:https://dsc.gg/hllpt",
     "addr": "51.210.32.201",
-    "port": 8530,
-    "removed": 1739324108
+    "port": 8530
   },
   {
     "name": "6th Recon Division [6RCN] NA East",
@@ -5481,8 +5465,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | ",
     "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1739320172
+    "port": 8530
   },
   {
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
@@ -6346,7 +6329,8 @@
   {
     "name": "  [US] The Inglorious Bastards #1 I New Player Friendly I Https",
     "addr": "92.118.19.142",
-    "port": 7807
+    "port": 7807,
+    "removed": 1739340584
   },
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
