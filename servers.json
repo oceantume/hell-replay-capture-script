@@ -279,12 +279,6 @@
     "port": 9224
   },
   {
-    "name": "[GER] Team Vikings HLL | Just 4 Fun",
-    "addr": "136.243.60.211",
-    "port": 8530,
-    "removed": 1738715371
-  },
-  {
     "name": "What can I say",
     "addr": "136.243.70.117",
     "port": 7777
@@ -311,7 +305,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -326,7 +320,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -451,7 +445,7 @@
     "removed": 1739189498
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
+    "name": "PL - Polski Serwer - VIP za dychę lub seeding - ***********hll",
     "addr": "146.59.47.230",
     "port": 8530
   },
@@ -2631,7 +2625,7 @@
     "port": 7827
   },
   {
-    "name": "《COBRAS FUMANTES》vip.marram.com.br #8 - level +30 ",
+    "name": "《COBRAS FUMANTES》vip.marram.com.br #8",
     "addr": "181.214.221.212",
     "port": 7837
   },
@@ -2734,7 +2728,7 @@
     "port": 8530
   },
   {
-    "name": "[ITA/EU] PIZZA LET LOOSE - NEW PLAYERS WELCOME! - https://disco",
+    "name": "[ITA/EU/ENG] PizzaLetLoose | VOTEMAP AVAILABLE! | https://disco",
     "addr": "188.64.33.118",
     "port": 8530
   },
@@ -3104,7 +3098,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739320172
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3275,7 +3270,7 @@
     "port": 7797
   },
   {
-    "name": "CZ & SK | #3 | VLK @ CIVIL WAR",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777
   },
@@ -3320,7 +3315,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3557,12 +3552,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.88.87",
     "port": 28900
-  },
-  {
-    "name": "GER.Johnnsy.Official-YT",
-    "addr": "213.136.94.160",
-    "port": 28000,
-    "removed": 1738715371
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -5123,7 +5112,8 @@
   {
     "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "63.143.60.21",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739320172
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5485,10 +5475,11 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | ",
     "addr": "79.141.174.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739320172
   },
   {
-    "name": "En Svensk Tiger #２OFFENSIVE | SE/NO/EN",
+    "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
     "addr": "79.141.174.122",
     "port": 8530
   },
@@ -6501,20 +6492,17 @@
   {
     "name": "HLL Official - Australia #34",
     "addr": "94.250.221.22",
-    "port": 28400,
-    "removed": 1739300771
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #41",
     "addr": "94.250.221.22",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #48",
     "addr": "94.250.221.22",
-    "port": 28600,
-    "removed": 1739300771
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #10",
@@ -6534,8 +6522,7 @@
   {
     "name": "HLL Official - Australia #28",
     "addr": "94.250.221.23",
-    "port": 28300,
-    "removed": 1739300771
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #35",
@@ -6545,8 +6532,7 @@
   {
     "name": "HLL Official - Australia #50",
     "addr": "94.250.221.23",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #05",
@@ -6576,14 +6562,12 @@
   {
     "name": "HLL Official - Australia #42",
     "addr": "94.250.221.25",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #47",
     "addr": "94.250.221.25",
-    "port": 28600,
-    "removed": 1739300771
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #09",
@@ -6608,14 +6592,12 @@
   {
     "name": "HLL Official - Australia #36",
     "addr": "94.250.221.26",
-    "port": 28400,
-    "removed": 1739300771
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #45",
     "addr": "94.250.221.26",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #08",
@@ -6645,8 +6627,7 @@
   {
     "name": "HLL Official - Australia #44",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #07",
@@ -6656,14 +6637,12 @@
   {
     "name": "HLL Official - Australia #12",
     "addr": "94.250.221.35",
-    "port": 28100,
-    "removed": 1739300771
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #20",
     "addr": "94.250.221.35",
-    "port": 28200,
-    "removed": 1739300771
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #26",
@@ -6683,8 +6662,7 @@
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600,
-    "removed": 1739300771
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #06",
@@ -6714,14 +6692,12 @@
   {
     "name": "HLL Official - Australia #39",
     "addr": "94.250.221.36",
-    "port": 28500,
-    "removed": 1739300771
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600,
-    "removed": 1739300771
+    "port": 28600
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
