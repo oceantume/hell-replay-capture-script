@@ -231,12 +231,6 @@
     "port": 10200
   },
   {
-    "name": "brasil capital Miami server |DISCORD https://discord.gg/qxZw478",
-    "addr": "134.255.240.110",
-    "port": 11000,
-    "removed": 1738801789
-  },
-  {
     "name": "LAN HAST [BE]",
     "addr": "135.125.163.81",
     "port": 8530
@@ -755,8 +749,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1739362295
+    "port": 9075
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1125,12 +1118,6 @@
     "port": 30700
   },
   {
-    "name": "[ENG/ITA] WildWolf Server | The New Era | [LOW PING]",
-    "addr": "176.57.140.196",
-    "port": 28100,
-    "removed": 1738801789
-  },
-  {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
     "addr": "176.57.140.196",
     "port": 28200
@@ -1334,12 +1321,6 @@
     "name": "HLL Official - Europe #212",
     "addr": "176.57.140.24",
     "port": 28700
-  },
-  {
-    "name": "POLSKI SERWER | ERIKAGAMING | LOW PING & NEW PLAYERS WELCOME",
-    "addr": "176.57.140.64",
-    "port": 28000,
-    "removed": 1738801789
   },
   {
     "name": "frogus",
@@ -3087,8 +3068,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739406575
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3634,7 +3614,8 @@
   {
     "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739408200
   },
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
@@ -4696,12 +4677,6 @@
     "port": 8530
   },
   {
-    "name": "[ITM] In The Mood | US West #1",
-    "addr": "45.143.199.200",
-    "port": 8530,
-    "removed": 1738801789
-  },
-  {
     "name": "Testing1337",
     "addr": "45.151.81.210",
     "port": 7787,
@@ -5089,7 +5064,8 @@
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
     "addr": "63.143.62.100",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739408200
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -5314,7 +5290,8 @@
   {
     "name": "Dark Horizon US 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739408200
   },
   {
     "name": "<CCG> 柴郡猫猫近卫军 | 萌新曲社 | JP | Q群885187716",
@@ -5344,6 +5321,11 @@
   {
     "name": "The Iron Curtain | US Central | New Players Welcome",
     "addr": "66.235.173.137",
+    "port": 8530
+  },
+  {
+    "name": "D2 - Damned Defiants [Lvl 70+] [US]",
+    "addr": "67.211.208.154",
     "port": 8530
   },
   {
@@ -5400,12 +5382,6 @@
     "name": "  ![TBG] NEW PLAYER FRIENDLY | FREE VIP! | DISCORD.GG/TBGCLAN |",
     "addr": "74.63.236.250",
     "port": 8530
-  },
-  {
-    "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
-    "addr": "78.111.102.114",
-    "port": 28500,
-    "removed": 1738801789
   },
   {
     "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
@@ -6428,8 +6404,7 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600,
-    "removed": 1739406575
+    "port": 28600
   },
   {
     "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
