@@ -299,7 +299,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -314,7 +314,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -545,6 +545,11 @@
     "port": 8530
   },
   {
+    "name": "MEXICO OGT LATAM",
+    "addr": "154.16.170.225",
+    "port": 9075
+  },
+  {
     "name": "ZuluFoxtrot | LVL 50+ |  zf-gaming.com | VIP Rewards",
     "addr": "154.16.200.156",
     "port": 8530
@@ -713,7 +718,7 @@
     "port": 7817
   },
   {
-    "name": "Zuid Afrika",
+    "name": "Zuid Afrika || discord.gg/kNkZXq2p",
     "addr": "169.150.238.99",
     "port": 7777
   },
@@ -2504,7 +2509,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827
+    "port": 7827,
+    "removed": 1739406575
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -2660,7 +2666,8 @@
   {
     "name": "D2 - Damned Defiants (Lvl 70+)",
     "addr": "185.206.151.110",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739406575
   },
   {
     "name": "Desert Ratz Event Server!",
@@ -2946,7 +2953,7 @@
     "port": 7777
   },
   {
-    "name": "TD〢Tank Destroyers | LVL 30+ SL | EU/ENG | Discord.gg/TankDes",
+    "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
     "port": 7777
   },
@@ -3009,6 +3016,11 @@
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
     "port": 9620
+  },
+  {
+    "name": "slayersgam.ing | lvl 20+ peak hours | east",
+    "addr": "194.140.197.175",
+    "port": 30500
   },
   {
     "name": "Hotdog6",
@@ -3075,7 +3087,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739406575
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3291,7 +3304,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3414,7 +3427,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3455,7 +3468,7 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
     "port": 7777
   },
@@ -3529,7 +3542,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.88.87",
-    "port": 28900
+    "port": 28900,
+    "removed": 1739406575
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -3615,50 +3629,42 @@
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777,
-    "removed": 1739385506
+    "port": 7777
   },
   {
     "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1739385506
+    "port": 7787
   },
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1739385506
+    "port": 7797
   },
   {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1739385506
+    "port": 7807
   },
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1739385506
+    "port": 7817
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7827,
-    "removed": 1739385506
+    "port": 7827
   },
   {
     "name": "CN：灰猎犬连萌新攻防/禁抱团/JP Q：441245221",
     "addr": "31.56.0.81",
-    "port": 7837,
-    "removed": 1739385506
+    "port": 7837
   },
   {
     "name": "CN4#JP春日猫猫萌新限杀の冲突馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1739385506
+    "port": 7847
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
@@ -3669,14 +3675,12 @@
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7867,
-    "removed": 1739385506
+    "port": 7867
   },
   {
     "name": "CN-音奏的萌新进阶服8服|Q群:598632634|JP节点",
     "addr": "31.56.0.81",
-    "port": 7877,
-    "removed": 1739385506
+    "port": 7877
   },
   {
     "name": "hll MT Server",
@@ -4886,11 +4890,10 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1739387329
+    "port": 9075
   },
   {
-    "name": "[HLL#PT] Opened Weekends&Events | DISCORD:https://dsc.gg/hllpt",
+    "name": "[HLL#PT] Officer20+ / Cmnd40+ | https://dsc.gg/hllpt",
     "addr": "51.210.32.201",
     "port": 8530
   },
@@ -5094,7 +5097,7 @@
     "port": 7777
   },
   {
-    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
+    "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "63.143.62.91",
     "port": 7797
   },
@@ -5329,7 +5332,7 @@
     "port": 7777
   },
   {
-    "name": "✮21ARMY",
+    "name": "21 ARMY | Русский Сервер | LVL10+ | discord.gg/21a",
     "addr": "65.21.22.47",
     "port": 7807
   },
@@ -5740,7 +5743,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739406575
   },
   {
     "name": "HLL Official - Asia #24",
@@ -6424,7 +6428,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739406575
   },
   {
     "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
