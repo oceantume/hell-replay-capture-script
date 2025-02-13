@@ -5276,7 +5276,7 @@
     "port": 7777
   },
   {
-    "name": "21 ARMY|Русский Сервер|VIP for Seeding|discord.gg/",
+    "name": "21 ARMY | Русский Сервер | discord.gg/21army",
     "addr": "65.21.22.47",
     "port": 7807
   },
@@ -5958,7 +5958,8 @@
   {
     "name": "63rd infantry Division [iB][New Player Friendly][Recruiting now",
     "addr": "88.209.197.59",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739471898
   },
   {
     "name": "{serverName}",
@@ -6003,8 +6004,7 @@
   {
     "name": "HLL Official - South America #29",
     "addr": "89.43.106.36",
-    "port": 28600,
-    "removed": 1739471055
+    "port": 28600
   },
   {
     "name": "HLL Official - South America #30",
