@@ -5798,6 +5798,11 @@
     "port": 28000
   },
   {
+    "name": "The Battered Bastards/discord.gg/2VJDvM8P",
+    "addr": "83.223.204.11",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.11",
     "port": 28300
@@ -5998,7 +6003,8 @@
   {
     "name": "HLL Official - South America #29",
     "addr": "89.43.106.36",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739471055
   },
   {
     "name": "HLL Official - South America #30",
