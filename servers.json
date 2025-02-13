@@ -272,12 +272,6 @@
     "port": 7777
   },
   {
-    "name": "[GER]Daddelbude Discord https://discord.gg/SdZFhpR8u9",
-    "addr": "136.243.82.234",
-    "port": 8530,
-    "removed": 1738846148
-  },
-  {
     "name": "ZOO - Match server",
     "addr": "138.201.16.137",
     "port": 8530
@@ -2460,12 +2454,6 @@
     "port": 28300
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.coq",
-    "addr": "176.57.181.34",
-    "port": 28400,
-    "removed": 1738846148
-  },
-  {
     "name": "Vault #1 | New players welcome! | [EU/EN] vaultgg.com",
     "addr": "176.9.113.23",
     "port": 8530
@@ -2665,8 +2653,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1739449738
+    "port": 7777
   },
   {
     "name": "D55L Donner Legion PL",
