@@ -3057,7 +3057,8 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1739410519
   },
   {
     "name": "Wointown",
@@ -3597,8 +3598,7 @@
   {
     "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "31.56.0.104",
-    "port": 7777,
-    "removed": 1739385506
+    "port": 7777
   },
   {
     "name": "hll Server",
@@ -3614,8 +3614,7 @@
   {
     "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1739408200
+    "port": 7787
   },
   {
     "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
@@ -5292,6 +5291,11 @@
     "addr": "64.31.61.93",
     "port": 7777,
     "removed": 1739408200
+  },
+  {
+    "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
+    "addr": "64.31.61.94",
+    "port": 7777
   },
   {
     "name": "<CCG> 柴郡猫猫近卫军 | 萌新曲社 | JP | Q群885187716",
