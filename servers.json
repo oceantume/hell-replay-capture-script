@@ -442,6 +442,11 @@
     "port": 10165
   },
   {
+    "name": "HLL Server",
+    "addr": "148.252.128.29",
+    "port": 7777
+  },
+  {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
     "addr": "149.102.135.184",
     "port": 28000
@@ -5276,10 +5281,9 @@
     "port": 7777
   },
   {
-    "name": "21 ARMY | Русский Сервер | discord.gg/21army",
+    "name": "21 ARMY | Русский Сервер | Discord.gg/21army",
     "addr": "65.21.22.47",
-    "port": 7807,
-    "removed": 1739472496
+    "port": 7807
   },
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
