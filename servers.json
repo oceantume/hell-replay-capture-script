@@ -259,10 +259,11 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1739426958
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose | Private&Event | discord.gg/FLL",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -1386,7 +1387,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739426958
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1827,7 +1829,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739426958
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1847,7 +1850,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739426958
   },
   {
     "name": "HLL Official - Europe #157",
@@ -2353,8 +2357,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1739340584
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2490,8 +2493,7 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1739406575
+    "port": 7827
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -3057,8 +3059,7 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1739410519
+    "port": 20900
   },
   {
     "name": "Wointown",
@@ -3354,7 +3355,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739426958
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3649,8 +3651,7 @@
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7857,
-    "removed": 1739385506
+    "port": 7857
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
@@ -3661,6 +3662,11 @@
     "name": "CN-音奏的萌新进阶服8服|Q群:598632634|JP节点",
     "addr": "31.56.0.81",
     "port": 7877
+  },
+  {
+    "name": "hll Server",
+    "addr": "31.56.0.81",
+    "port": 7887
   },
   {
     "name": "hll MT Server",
@@ -4765,6 +4771,11 @@
     "removed": 1738888178
   },
   {
+    "name": "[HistoDidou] Serveur Fr, débutants acceptés",
+    "addr": "5.189.132.77",
+    "port": 28000
+  },
+  {
     "name": "(EU) New Player Friendly by Nexus-Chemicals.com",
     "addr": "5.189.132.77",
     "port": 28100
@@ -5383,7 +5394,7 @@
     "port": 7777
   },
   {
-    "name": "  ![TBG] NEW PLAYER FRIENDLY | FREE VIP! | DISCORD.GG/TBGCLAN |",
+    "name": " ! [TBG] NEW PLAYER FRIENDLY | FREE VIP! | DISCORD.GG/TBGCLAN |",
     "addr": "74.63.236.250",
     "port": 8530
   },
