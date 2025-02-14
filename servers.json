@@ -540,7 +540,7 @@
     "port": 8530
   },
   {
-    "name": "MEXICO OGT LATAM",
+    "name": "MEXICO LATAM ESP OGT",
     "addr": "154.16.170.225",
     "port": 9075
   },
@@ -3046,7 +3046,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739496913
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
