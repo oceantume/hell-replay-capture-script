@@ -1,5 +1,10 @@
 [
   {
+    "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
+    "addr": "103.1.215.69",
+    "port": 8888
+  },
+  {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
     "addr": "103.193.80.145",
     "port": 7777
@@ -73,7 +78,8 @@
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
     "addr": "103.62.51.135",
-    "port": 8888
+    "port": 8888,
+    "removed": 1739492975
   },
   {
     "name": "HLL Official - Japan #02",
@@ -287,7 +293,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -302,7 +308,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -510,7 +516,8 @@
   {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "152.228.223.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739492975
   },
   {
     "name": "[FR/BE/QC] WNM HLL | FR ONLY | discord.gg/CYVVV4GmgC",
@@ -2196,7 +2203,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739492975
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -3260,7 +3268,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3377,7 +3385,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL +25 | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3431,6 +3439,11 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
+  },
+  {
+    "name": "[ESP]MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA [PVP] [discord.gg",
+    "addr": "213.136.80.177",
+    "port": 28000
   },
   {
     "name": "mmmeo",
@@ -4948,6 +4961,11 @@
     "port": 8530
   },
   {
+    "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
+    "addr": "51.91.214.94",
+    "port": 9620
+  },
+  {
     "name": "[FR Only] Frères de Tranchées [FTC]-discord.gg/jSCASAtWva",
     "addr": "51.91.215.64",
     "port": 8530
@@ -5692,8 +5710,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1739406575
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -6377,7 +6394,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739492975
   },
   {
     "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
