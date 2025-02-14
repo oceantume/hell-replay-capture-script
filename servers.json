@@ -65,7 +65,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区久元の坦克大战/Q:682305162",
+    "name": "<CN>BW黑色守望/黄区卫国战争/北非战争/Q:682305162",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -288,7 +288,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1067,8 +1067,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1739383747
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1078,7 +1077,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739556526
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1844,8 +1844,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1739426958
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #157",
@@ -1895,7 +1894,8 @@
   {
     "name": "Polish Veterans",
     "addr": "176.57.171.44",
-    "port": 28500
+    "port": 28500,
+    "removed": 1739556526
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
@@ -2759,8 +2759,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1739538130
+    "port": 7777
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2796,8 +2795,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1739538130
+    "port": 7777
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2817,8 +2815,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1739538130
+    "port": 9014
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -2955,8 +2952,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1739470138
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -3037,6 +3033,11 @@
     "name": "[GER] 4 Fäuste gegen Blaubeeren  [Omen]",
     "addr": "195.181.175.182",
     "port": 7777
+  },
+  {
+    "name": "eXiTe-Gaming",
+    "addr": "195.82.158.186",
+    "port": 20500
   },
   {
     "name": "[GER] 300 Spartaner / https://discord.gg/CYhQ9Khr ",
@@ -3236,7 +3237,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.194",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739556526
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
@@ -3274,7 +3276,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3434,8 +3436,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1739538130
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3506,7 +3507,8 @@
   {
     "name": "Metalliceur server",
     "addr": "213.136.94.160",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739556526
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -3587,6 +3589,11 @@
     "name": "[GER] Eiserne Division | Low Ping | GER Mic",
     "addr": "31.56.0.13",
     "port": 7777
+  },
+  {
+    "name": "WTH Training Server",
+    "addr": "31.56.0.15",
+    "port": 7787
   },
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
@@ -4783,7 +4790,8 @@
   {
     "name": "HLL - Han Solo",
     "addr": "5.189.132.77",
-    "port": 28800
+    "port": 28800,
+    "removed": 1739556526
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -5070,8 +5078,7 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1739538130
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5193,8 +5200,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1739538130
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5450,8 +5456,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1739297281
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5696,13 +5701,13 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1739383747
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739556526
   },
   {
     "name": "HLL Official - Asia #54",
