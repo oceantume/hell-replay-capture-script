@@ -330,8 +330,7 @@
   {
     "name": "[GER] 300 Spartaner https://discord.gg/PSYtYaYJ",
     "addr": "141.95.3.135",
-    "port": 9075,
-    "removed": 1739537308
+    "port": 9075
   },
   {
     "name": " [Ger/Eng] 77th Apex Division #1 // discord.gg/cPAGjECexc // We",
@@ -2548,8 +2547,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1739535085
+    "port": 8772
   },
   {
     "name": "《COBRAS FUMANTES》MARRAM #1 discord.gg/cobrasfumantes",
@@ -2761,7 +2759,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739538130
   },
   {
     "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
@@ -2797,7 +2796,8 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739538130
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2817,7 +2817,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1739538130
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -3433,7 +3434,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739538130
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3500,6 +3502,11 @@
     "addr": "213.136.88.87",
     "port": 28900,
     "removed": 1739406575
+  },
+  {
+    "name": "Metalliceur server",
+    "addr": "213.136.94.160",
+    "port": 28000
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -3682,8 +3689,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1739451806
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5064,7 +5070,8 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "63.143.62.91",
-    "port": 7797
+    "port": 7797,
+    "removed": 1739538130
   },
   {
     "name": "[Merc]iless Event Server",
@@ -5186,7 +5193,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739538130
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -6107,6 +6115,11 @@
     "name": "<CN>#6 公众号TT天堂免费领取永久VIP/Q群：797464980",
     "addr": "89.46.1.190",
     "port": 7797
+  },
+  {
+    "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
+    "addr": "89.46.1.190",
+    "port": 7807
   },
   {
     "name": "<CN> 白毛萝莉|萌新俱乐部|JP|Q群814464",
