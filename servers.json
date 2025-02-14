@@ -2999,7 +2999,8 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
     "addr": "194.164.96.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739515676
   },
   {
     "name": "[FR | LPP] Le Peloton Perdu",
@@ -5230,7 +5231,8 @@
   {
     "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
     "addr": "64.31.40.205",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739515676
   },
   {
     "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
@@ -5352,8 +5354,7 @@
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
-    "port": 7777,
-    "removed": 1739515094
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
