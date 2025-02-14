@@ -255,7 +255,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739513353
   },
   {
     "name": "HLL Official - Russia #02",
@@ -408,17 +409,20 @@
   {
     "name": "[GER] Eiserne Division | Low Ping | GER Mic",
     "addr": "146.19.48.157",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739513353
   },
   {
     "name": "Radical Gaming :: Paris :: Powered by Qonzer.com",
     "addr": "146.19.48.168",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739513353
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "146.19.48.168",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739513353
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
@@ -807,7 +811,7 @@
     "port": 28100
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
+    "name": "       [ GER ] KAMPFSCHWEINE 3 | FUNKYTOWN | QS | OINK",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -1376,8 +1380,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1739426958
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1446,7 +1449,7 @@
     "port": 28100
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 4 | BUMSHÜTTE | QS | OINK",
+    "name": "       [ GER ] KAMPFSCHWEINE 4 | BUMSHÜTTE | QS | OINK",
     "addr": "176.57.168.178",
     "port": 28300
   },
@@ -1458,7 +1461,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739513353
   },
   {
     "name": "HLL Official - Europe #249",
@@ -2045,7 +2049,7 @@
     "port": 28100
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 5 | BALLERBUDE | QS | OINK",
+    "name": "       [ GER ] KAMPFSCHWEINE 5 | BALLERBUDE | QS | OINK",
     "addr": "176.57.173.119",
     "port": 28200
   },
@@ -2348,7 +2352,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739513353
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2669,6 +2674,11 @@
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
     "port": 7777
+  },
+  {
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "addr": "188.165.39.157",
+    "port": 7787
   },
   {
     "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
@@ -3332,7 +3342,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739513353
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3521,9 +3532,15 @@
     "removed": 1739038058
   },
   {
+    "name": "[CN/JP] DAL-李云龙的坦克圣地-欢迎萌新Q:67029267",
+    "addr": "216.144.245.82",
+    "port": 7797
+  },
+  {
     "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
     "addr": "216.144.245.82",
-    "port": 7807
+    "port": 7807,
+    "removed": 1739513353
   },
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
@@ -3558,6 +3575,11 @@
   {
     "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "31.56.0.104",
+    "port": 7777
+  },
+  {
+    "name": "[GER] Eiserne Division | Low Ping | GER Mic",
+    "addr": "31.56.0.13",
     "port": 7777
   },
   {
@@ -3638,7 +3660,7 @@
     "port": 7777
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
+    "name": "       [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.76",
     "port": 7977
   },
@@ -4683,12 +4705,17 @@
     "port": 7877
   },
   {
+    "name": "Radical Gaming :: Paris :: Powered by Qonzer.com",
+    "addr": "46.105.223.204",
+    "port": 7977
+  },
+  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP ENABLED | EU/ENG | discord.gg/Y3C",
     "addr": "49.12.83.52",
     "port": 7807
   },
   {
-    "name": "     [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
+    "name": "       [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
     "addr": "49.12.83.52",
     "port": 7827
   },
@@ -5375,7 +5402,8 @@
   {
     "name": "[EU/欧服] DAL-李云龙的坦克圣地-欢迎萌新Q:67029267",
     "addr": "79.127.249.117",
-    "port": 7797
+    "port": 7797,
+    "removed": 1739513353
   },
   {
     "name": "[FR Only] Régiment Des Lames d'Acier | Discord : https://disco",
@@ -5740,12 +5768,6 @@
     "name": "CN#深夜食堂的萌新小窝syst 节点HK QQ群1017723887",
     "addr": "83.223.197.89",
     "port": 28300
-  },
-  {
-    "name": "HLL Official - US East  ",
-    "addr": "83.223.203.121",
-    "port": 28000,
-    "removed": 1738892116
   },
   {
     "name": "HLL Official - US East #03",
