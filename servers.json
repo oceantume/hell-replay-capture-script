@@ -260,7 +260,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1739599701
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private&Event | discord.gg/FLL",
@@ -554,7 +555,8 @@
   {
     "name": "<CN>HK别d我了求了喷火龙的军官营Q群:341807965",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739599701
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -562,7 +564,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部(随机图)Q群：578097070",
+    "name": "TT天堂比赛服 密码",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -572,7 +574,7 @@
     "port": 7807
   },
   {
-    "name": "TT天堂比赛专用服",
+    "name": "TT天堂训练专用服",
     "addr": "156.146.44.225",
     "port": 7817
   },
@@ -595,7 +597,8 @@
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
     "addr": "156.146.44.225",
-    "port": 7897
+    "port": 7897,
+    "removed": 1739599701
   },
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -637,6 +640,11 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
+    "port": 8530
+  },
+  {
+    "name": "[ENG/HR/SRB/BIH] Balkanska Sloga ┊ ACTIVE ADMINS ┊ Discord ",
+    "addr": "162.55.199.102",
     "port": 8530
   },
   {
@@ -1443,13 +1451,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739599701
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1739513353
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1475,7 +1483,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739599701
   },
   {
     "name": "QA Testing - EU #02",
@@ -1894,12 +1903,6 @@
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.7",
-    "port": 28100,
-    "removed": 1738994901
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -2344,8 +2347,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1739513353
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2477,8 +2479,7 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
     "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1739580964
+    "port": 7827
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -3031,8 +3032,7 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1739583256
+    "port": 20900
   },
   {
     "name": "Wointown",
@@ -3043,8 +3043,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739583256
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3252,7 +3251,8 @@
   {
     "name": "StDb Event",
     "addr": "208.115.206.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739599701
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
@@ -3570,6 +3570,11 @@
     "port": 7777
   },
   {
+    "name": "StDb Event",
+    "addr": "31.56.0.14",
+    "port": 7777
+  },
+  {
     "name": "WTH Training Server",
     "addr": "31.56.0.15",
     "port": 7787
@@ -3637,7 +3642,8 @@
   {
     "name": "The great test",
     "addr": "31.56.0.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739599701
   },
   {
     "name": "       [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -4891,7 +4897,8 @@
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739599701
   },
   {
     "name": "[PL] Hell Let Loose Polska - Polski Serwer HLL - VIP za seeding",
@@ -5281,7 +5288,7 @@
     "port": 8530
   },
   {
-    "name": "D2 - Damned Defiants [Lvl 70+] [US]",
+    "name": "D2 - Damned Defiants [Lvl 50+] [US] [MIC REQ]",
     "addr": "67.211.208.154",
     "port": 8530
   },
@@ -6106,14 +6113,15 @@
     "port": 7877
   },
   {
-    "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
+    "name": "CN1 MAX-老B灯国服爱好者！限杀！禁炮！@JP Q群：2",
     "addr": "89.46.1.190",
     "port": 7887
   },
   {
     "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
     "addr": "89.46.1.190",
-    "port": 7897
+    "port": 7897,
+    "removed": 1739599701
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
@@ -6204,8 +6212,7 @@
   {
     "name": "=ROTN= | discord.gg/rangersofthenorth | LVL 25+ AT PEAK HOURS",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1739579355
+    "port": 7777
   },
   {
     "name": "Hell Let Loose Server",
