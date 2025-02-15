@@ -236,12 +236,6 @@
     "port": 8530
   },
   {
-    "name": "BALKAN HLL #1",
-    "addr": "135.125.163.81",
-    "port": 9075,
-    "removed": 1739038058
-  },
-  {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
     "port": 8530
@@ -365,15 +359,10 @@
     "removed": 1739210952
   },
   {
-    "name": "(ENG/EU) #1 PRESS F / NO FRENCH MAPS / discord.gg/6UwSAHnR",
-    "addr": "141.95.34.126",
-    "port": 9620,
-    "removed": 1739038058
-  },
-  {
     "name": "HLL Official - Hungary #2",
     "addr": "141.95.34.154",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739642859
   },
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
@@ -437,7 +426,8 @@
   {
     "name": "[5CITY #1] [PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.gg/5cit",
     "addr": "146.59.52.33",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739642859
   },
   {
     "name": "[PL/ENG] | KEBAB MESZANA | LOW PING | NEW PLAYERS WELCOME",
@@ -563,7 +553,7 @@
     "port": 7787
   },
   {
-    "name": "TT天堂比赛服 密码",
+    "name": "<CN>#1 TT天堂萌新俱乐部(随机图)Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -644,7 +634,8 @@
   {
     "name": "[ENG/HR/SRB/BIH] Balkanska Sloga ┊ ACTIVE ADMINS ┊ Discord ",
     "addr": "162.55.199.102",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739642859
   },
   {
     "name": "First Line of Defence EU",
@@ -669,7 +660,7 @@
     "removed": 1739124455
   },
   {
-    "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose Etkinlik Sunucusu - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
   },
@@ -1895,8 +1886,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1739621406
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -2746,12 +2736,6 @@
     "port": 7777
   },
   {
-    "name": "Clans-R-Lame | Warfare US Central | discord.gg/rMAxsvHqeG",
-    "addr": "192.169.82.122",
-    "port": 8530,
-    "removed": 1739038058
-  },
-  {
     "name": "Ж | Helios - Event Server",
     "addr": "192.169.86.109",
     "port": 7787
@@ -3250,7 +3234,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3478,10 +3462,9 @@
     "removed": 1739406575
   },
   {
-    "name": "Metalliceur server",
+    "name": "[EU/UK] v7 Conflict",
     "addr": "213.136.94.160",
-    "port": 28000,
-    "removed": 1739556526
+    "port": 28000
   },
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
@@ -3507,13 +3490,12 @@
     "removed": 1739149116
   },
   {
-    "name": "[AUT/GER] Sturmbataillon  !!NEW!! Beginnerfreundlich",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
-    "port": 28600,
-    "removed": 1739038058
+    "port": 28600
   },
   {
-    "name": "[CN] NekoHaven猫猫庇护所日服社区Q群500001820",
+    "name": "[CN]NH/NekoHaven猫猫庇护所社区日服/Q群500001820",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -3536,7 +3518,8 @@
   {
     "name": "hoofclan.com - 5 Day VIP Seeding - Mikey Bob Loyal 9 Hot Dog So",
     "addr": "216.173.119.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739642859
   },
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
@@ -4762,10 +4745,9 @@
     "port": 28700
   },
   {
-    "name": "HLL - Han Solo",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "5.189.132.77",
-    "port": 28800,
-    "removed": 1739556526
+    "port": 28800
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -4813,12 +4795,6 @@
     "port": 8530
   },
   {
-    "name": "DUTCH / ENGLISH WW2",
-    "addr": "51.195.176.120",
-    "port": 8530,
-    "removed": 1739038058
-  },
-  {
     "name": "CZ/SK svet",
     "addr": "51.195.176.120",
     "port": 9075
@@ -4826,7 +4802,8 @@
   {
     "name": "#03 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
     "addr": "51.195.190.147",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739642859
   },
   {
     "name": "RealityShowTV",
@@ -5101,21 +5078,9 @@
     "removed": 1739124455
   },
   {
-    "name": "CN ITK#2琴里~约会大作战攻防日服Q群48381851",
-    "addr": "64.31.11.26",
-    "port": 8530,
-    "removed": 1739038058
-  },
-  {
     "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
-  },
-  {
-    "name": "[US WEST]IT'S MYGO!KTI Community NEW PLAYER WELCOME",
-    "addr": "64.31.11.26",
-    "port": 9620,
-    "removed": 1739038058
   },
   {
     "name": "CN：灰猎犬连萌新EPIC禁炮服/JP Q：441245221",
@@ -5131,7 +5096,8 @@
   {
     "name": "<CN>#庆新年/顶配不卡/萌新小屋/JP",
     "addr": "64.31.11.50",
-    "port": 11800
+    "port": 11800,
+    "removed": 1739642859
   },
   {
     "name": "CN#JP哈基米作战部队/瓜棚屌丝聚集地/1017723887",
@@ -5278,7 +5244,7 @@
     "port": 7777
   },
   {
-    "name": "21 ARMY | Русский Сервер | Discord.gg/21army",
+    "name": "21 ARMY | Русский Сервер | RUS only | Discord.gg/2",
     "addr": "65.21.22.47",
     "port": 7807
   },
@@ -5406,13 +5372,13 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739642859
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1739470138
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
@@ -5427,7 +5393,8 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739642859
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5667,8 +5634,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1739556526
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #54",
@@ -5716,12 +5682,6 @@
     "port": 28000
   },
   {
-    "name": "<CN>  萌新的快乐小屋",
-    "addr": "83.223.197.89",
-    "port": 28000,
-    "removed": 1739038058
-  },
-  {
     "name": "日本人応援サーバー、JP、JAPAN、JPN https://discord.",
     "addr": "83.223.197.89",
     "port": 28100
@@ -5729,7 +5689,8 @@
   {
     "name": "CN#1801极北蔷薇社区攻防服务器 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739642859
   },
   {
     "name": "CN#深夜食堂的萌新小窝syst 节点HK QQ群1017723887",
@@ -6087,7 +6048,7 @@
     "port": 7817
   },
   {
-    "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
+    "name": "FJ二服",
     "addr": "89.46.1.190",
     "port": 7827
   },
