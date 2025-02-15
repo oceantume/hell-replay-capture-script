@@ -4783,6 +4783,11 @@
     "port": 9014
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "5.226.141.83",
+    "port": 8530
+  },
+  {
     "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Seeding+",
     "addr": "5.9.150.142",
     "port": 8530
@@ -4821,8 +4826,7 @@
   {
     "name": "CZ/SK svet",
     "addr": "51.195.176.120",
-    "port": 9075,
-    "removed": 1739600609
+    "port": 9075
   },
   {
     "name": "#03 ESP DESEMBARCO DE LEGIONES - HLL Spanish/Español",
@@ -4935,8 +4939,7 @@
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
     "addr": "51.89.192.209",
-    "port": 9075,
-    "removed": 1739600609
+    "port": 9075
   },
   {
     "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
@@ -5257,7 +5260,8 @@
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
     "addr": "64.31.61.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739601416
   },
   {
     "name": "<CCG> 柴郡猫猫国防军 | 萌新曲社 | JP | Q群885187716",
@@ -6084,10 +6088,9 @@
     "port": 7817
   },
   {
-    "name": "<CN>JP/菜鸟乐园纯冲突『萌新友好』群号974297943",
+    "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
     "addr": "89.46.1.190",
-    "port": 7827,
-    "removed": 1739189498
+    "port": 7827
   },
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
