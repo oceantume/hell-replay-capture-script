@@ -213,7 +213,8 @@
   {
     "name": "Man !",
     "addr": "104.238.222.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739729263
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -287,7 +288,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -327,7 +328,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner https://discord.gg/PSYtYaYJ",
+    "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
     "addr": "141.95.3.135",
     "port": 9075
   },
@@ -652,12 +653,6 @@
     "removed": 1739210952
   },
   {
-    "name": "kacownia rp",
-    "addr": "168.119.79.144",
-    "port": 9075,
-    "removed": 1739124455
-  },
-  {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
@@ -746,7 +741,8 @@
   {
     "name": "Refuze - MATCH SERVER",
     "addr": "176.31.232.159",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739729263
   },
   {
     "name": "HLL Official - Europe #199",
@@ -1061,8 +1057,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1739556526
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2263,7 +2258,8 @@
   {
     "name": "[ GER ] Hack Let Loose | Test Server | by Kampfgruppe Lazarus",
     "addr": "176.57.181.105",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739729263
   },
   {
     "name": "HLL Official - Europe #121",
@@ -3037,7 +3033,8 @@
   {
     "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
     "addr": "198.244.200.129",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739729263
   },
   {
     "name": "Squeedy's Sauna - Warfare & Offensive",
@@ -3063,18 +3060,6 @@
     "name": "[TOG] The Old Guard Official Public Server [East]",
     "addr": "199.127.63.52",
     "port": 9620
-  },
-  {
-    "name": "CN1「FJ&CZS」纯冲突服｜HK｜Q716701264",
-    "addr": "202.165.70.15",
-    "port": 8898,
-    "removed": 1739106575
-  },
-  {
-    "name": "CN2「FJ&CZS」啤酒小屋萌新宝宝乐园｜HK｜Q719036493",
-    "addr": "202.165.70.15",
-    "port": 8908,
-    "removed": 1739106575
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -3224,7 +3209,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3398,7 +3383,8 @@
   {
     "name": "mmmeo",
     "addr": "213.136.80.177",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739729263
   },
   {
     "name": "CN MICO咖啡屋  欧洲节点 Q1023817690",
@@ -3428,8 +3414,7 @@
   {
     "name": "Hell let LuuL",
     "addr": "213.136.88.87",
-    "port": 28200,
-    "removed": 1739665971
+    "port": 28200
   },
   {
     "name": "Balkan Server - NEW PLAYERS WELCOME",
@@ -3461,8 +3446,7 @@
   {
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
     "addr": "213.136.94.160",
-    "port": 28100,
-    "removed": 1739470138
+    "port": 28100
   },
   {
     "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/cPAGjECexc // Wel",
@@ -3623,12 +3607,6 @@
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
-  },
-  {
-    "name": "The Salty Neckbeards - US Central - GTXGaming",
-    "addr": "38.18.231.120",
-    "port": 8530,
-    "removed": 1739124455
   },
   {
     "name": "Devils Brigade (US CENTRAL)",
@@ -4828,7 +4806,7 @@
     "port": 8530
   },
   {
-    "name": " CZ & SK | #2 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #2 | VLK vs LwJg46",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -4915,7 +4893,8 @@
   {
     "name": "PolskaGurom PL",
     "addr": "51.89.64.100",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739729263
   },
   {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
@@ -5057,21 +5036,9 @@
     "port": 11800
   },
   {
-    "name": "<CN>BW黑色守望/绿区希望镇萌新区/Q:682305162",
-    "addr": "64.31.11.26",
-    "port": 12345,
-    "removed": 1739124455
-  },
-  {
     "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
-  },
-  {
-    "name": "CN：灰猎犬连萌新EPIC禁炮服/JP Q：441245221",
-    "addr": "64.31.11.50",
-    "port": 10165,
-    "removed": 1739124455
   },
   {
     "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
@@ -5093,18 +5060,6 @@
     "name": "<CN>JP/菜鸟乐园纯攻防『萌新友好』群号974297943",
     "addr": "64.31.11.50",
     "port": 12890
-  },
-  {
-    "name": "CN：灰猎犬连萌新EPIC攻防服/JP Q：441245221",
-    "addr": "64.31.11.50",
-    "port": 8530,
-    "removed": 1739124455
-  },
-  {
-    "name": "秋叶原国服难民营群号1098305217",
-    "addr": "64.31.11.50",
-    "port": 9620,
-    "removed": 1739124455
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -5154,8 +5109,7 @@
   {
     "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1739686103
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5216,7 +5170,8 @@
   {
     "name": "<CCG> 柴郡猫猫国防军 | 萌新曲社 | JP | Q群885187716",
     "addr": "64.42.176.163",
-    "port": 8888
+    "port": 8888,
+    "removed": 1739729263
   },
   {
     "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
@@ -5237,6 +5192,11 @@
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
     "port": 8530
+  },
+  {
+    "name": "[MSB] Formation Skithög | SWE/ENG | ",
+    "addr": "65.21.46.146",
+    "port": 9075
   },
   {
     "name": "The Iron Curtain | US Central | New Players Welcome",
@@ -5347,7 +5307,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | ",
     "addr": "79.141.174.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739729263
   },
   {
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
@@ -5357,8 +5318,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1739642859
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5368,7 +5328,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739729263
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5378,8 +5339,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1739642859
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
