@@ -4675,7 +4675,8 @@
   {
     "name": "[GER]  181. Infanterie-Division | Newbie  Friendly |  Discord",
     "addr": "5.189.130.178",
-    "port": 28500
+    "port": 28500,
+    "removed": 1739730880
   },
   {
     "name": "[GER] Willkommen in der Hölle / Only Mic / Anfängerfreundlich",
@@ -6182,8 +6183,7 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100,
-    "removed": 1739730135
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #09",
@@ -6208,7 +6208,8 @@
   {
     "name": "IRON BLITZ BRASIL  || IBD ||  ironblitz.com.br",
     "addr": "92.38.151.76",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739730880
   },
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
