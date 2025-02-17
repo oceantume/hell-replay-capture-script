@@ -20,7 +20,7 @@
     "port": 7817
   },
   {
-    "name": "Drop Bear Battalion | discord.gg/Uc4DeShm7E | FDS",
+    "name": "Drop Bear Battalion |FDS| discord.gg/dropbear",
     "addr": "103.193.80.146",
     "port": 8530
   },
@@ -301,7 +301,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -415,12 +415,6 @@
     "addr": "146.19.48.168",
     "port": 7787,
     "removed": 1739513353
-  },
-  {
-    "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
-    "addr": "146.59.149.83",
-    "port": 9075,
-    "removed": 1739189498
   },
   {
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
@@ -548,7 +542,8 @@
   {
     "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739794316
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -694,7 +689,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1739794316
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1293,12 +1289,6 @@
     "port": 28700
   },
   {
-    "name": "frogus",
-    "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1739171454
-  },
-  {
     "name": "Deutsches Staatseigentum [Neue Spieler Willkommen]",
     "addr": "176.57.140.64",
     "port": 28300
@@ -1545,7 +1535,8 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739794316
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2449,7 +2440,8 @@
   {
     "name": "LOS KINGS | Chile - LATAM",
     "addr": "177.54.147.141",
-    "port": 7807
+    "port": 7807,
+    "removed": 1739794316
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
@@ -2929,7 +2921,8 @@
   {
     "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
     "addr": "193.70.122.179",
-    "port": 9620
+    "port": 9620,
+    "removed": 1739794316
   },
   {
     "name": "slayersgam.ing | lvl 20+ peak hours | east",
@@ -3264,8 +3257,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1739773577
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3417,7 +3409,7 @@
     "port": 28300
   },
   {
-    "name": "     [GER] Zum Goldenen Reiter [German Mic]",
+    "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
     "port": 28400
   },
@@ -5661,13 +5653,13 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1739707939
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739794316
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -5995,7 +5987,8 @@
   {
     "name": "FJ二服",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1739794316
   },
   {
     "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
@@ -6028,10 +6021,9 @@
     "port": 7887
   },
   {
-    "name": "CN2#JP#【FJ】包子の男同俱乐部Q群:1029886683",
+    "name": "cn9999",
     "addr": "89.46.1.190",
-    "port": 7897,
-    "removed": 1739599701
+    "port": 7897
   },
   {
     "name": "<CN>JP别d我了求了喷火龙的军官营Q群:341807965",
@@ -6060,7 +6052,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
