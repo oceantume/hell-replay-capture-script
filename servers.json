@@ -2970,7 +2970,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "195.181.175.180",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739753988
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -3209,7 +3210,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739753988
   },
   {
     "name": "[GER][ENG] Vanilla Maps Only",
@@ -3454,12 +3456,6 @@
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
     "addr": "213.136.94.160",
     "port": 28400
-  },
-  {
-    "name": "[GER] ZUM BESENKAMMER | NEW PLAYER FRIENDLY ",
-    "addr": "213.136.94.160",
-    "port": 28500,
-    "removed": 1739149116
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
