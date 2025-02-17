@@ -40,7 +40,7 @@
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区萌新基地/Q群:682305162",
+    "name": "<CN>BW黑色守望/红区萌新基地/限杀服/Q群:682305162",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -248,8 +248,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1739513353
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -262,7 +261,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Private&Event | discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -1433,8 +1432,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1739599701
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1541,7 +1539,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739772619
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2970,8 +2969,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "195.181.175.180",
-    "port": 7787,
-    "removed": 1739753988
+    "port": 7787
   },
   {
     "name": "[GER] Λ • TAURUS #2 | Wir rekrutieren! | discord.gg/taurus",
@@ -3210,8 +3208,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1739753988
+    "port": 7777
   },
   {
     "name": "[GER][ENG] Vanilla Maps Only",
@@ -3272,7 +3269,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739772619
   },
   {
     "name": "POWERBITS GAMETEAM EVENT  | LOW PING | PBSGAMETEAM .COM",
@@ -3338,7 +3336,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739772619
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -3455,12 +3454,14 @@
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
     "addr": "213.136.94.160",
-    "port": 28400
+    "port": 28400,
+    "removed": 1739772619
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739772619
   },
   {
     "name": "[CN]NH/NekoHaven猫猫庇护所社区日服/Q群500001820",
