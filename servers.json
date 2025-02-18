@@ -286,7 +286,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -306,7 +306,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -554,7 +554,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部(随机图)Q群：578097070",
+    "name": "<CN>TT天堂散人 vs TT天堂战队（训练赛场地专用）",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -564,7 +564,7 @@
     "port": 7807
   },
   {
-    "name": "TT天堂训练专用服",
+    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7817
   },
@@ -1066,8 +1066,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1739858969
+    "port": 28000
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -1388,8 +1387,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1739858969
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -1424,8 +1422,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1739858969
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1445,8 +1442,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1739535085
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -1773,6 +1769,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28200
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.171.140",
+    "port": 28400
   },
   {
     "name": "PL - Tylko Charków i Remagen ",
@@ -2165,13 +2166,13 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1739862570
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739880695
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2827,7 +2828,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1739880695
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2877,13 +2879,13 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1739815718
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739880695
   },
   {
     "name": "QA Testing - US West #06",
@@ -2920,6 +2922,11 @@
     "name": "slayersgam.ing | lvl 20+ peak hours | east",
     "addr": "194.140.197.175",
     "port": 30500
+  },
+  {
+    "name": "MAGA Full Send 420",
+    "addr": "194.140.197.196",
+    "port": 30400
   },
   {
     "name": "Hotdog6",
@@ -3243,8 +3250,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1739858969
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3447,7 +3453,7 @@
     "removed": 1739772619
   },
   {
-    "name": "[CN]NH/NekoHaven猫猫庇护所社区日服/Q群500001820",
+    "name": "[CN]NH❤猫猫庇护所❤NekoHaven❤日服/Q群500001820",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -4664,7 +4670,7 @@
     "removed": 1739470138
   },
   {
-    "name": "PARABELLUM PUBLIC SERVER #2 | HUN/ENG",
+    "name": "PARABELLUM EVENT SERVER",
     "addr": "5.189.132.77",
     "port": 28400
   },
@@ -4977,8 +4983,7 @@
   {
     "name": "=F|A=Fearless-Assassins=New Players Welcome=",
     "addr": "64.20.48.138",
-    "port": 8530,
-    "removed": 1739815718
+    "port": 8530
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE- US East",
@@ -5044,7 +5049,8 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1739880695
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams #1 :: discord.gg/glows",
@@ -5069,8 +5075,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1739858969
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5283,7 +5288,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739880695
   },
   {
     "name": "HLL Official - Asia #03",
@@ -5403,7 +5409,8 @@
   {
     "name": "HLL Official - Asia #23",
     "addr": "83.223.197.170",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739880695
   },
   {
     "name": "HLL Official - Asia #25",
@@ -5534,14 +5541,12 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1739815718
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.68",
-    "port": 28200,
-    "removed": 1739815718
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #54",
@@ -5642,8 +5647,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1739794316
+    "port": 28200
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -5964,7 +5968,7 @@
     "port": 7817
   },
   {
-    "name": "CN 放流之地",
+    "name": "CN 放逐 暖服送VIP Q414805368",
     "addr": "89.46.1.190",
     "port": 7827
   },
