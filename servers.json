@@ -238,7 +238,8 @@
   {
     "name": "LAN HAST [BE]",
     "addr": "135.125.163.81",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739902166
   },
   {
     "name": "[GER] DOG Hundehütte",
@@ -286,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -597,6 +598,11 @@
   {
     "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
     "addr": "159.69.226.137",
+    "port": 7777
+  },
+  {
+    "name": "test server",
+    "addr": "159.69.226.140",
     "port": 7777
   },
   {
@@ -1280,7 +1286,8 @@
   {
     "name": "Deutsches Staatseigentum [Neue Spieler Willkommen]",
     "addr": "176.57.140.64",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739902166
   },
   {
     "name": "HLL Official - Europe #19",
@@ -1770,7 +1777,7 @@
     "port": 28400
   },
   {
-    "name": "PL - Tylko Charków i Remagen ",
+    "name": "TK - Teams of Killers",
     "addr": "176.57.171.158",
     "port": 28000
   },
@@ -2467,12 +2474,6 @@
     "port": 7947
   },
   {
-    "name": "#1[ESP] IBEROS LOCOS [ESP]",
-    "addr": "178.239.168.167",
-    "port": 8530,
-    "removed": 1739297281
-  },
-  {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
     "port": 7807
@@ -2612,7 +2613,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #4",
     "addr": "188.165.39.157",
     "port": 7787
   },
@@ -2646,12 +2647,6 @@
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "188.64.33.86",
     "port": 9075
-  },
-  {
-    "name": "The Canga Leitones BR",
-    "addr": "189.1.170.234",
-    "port": 10710,
-    "removed": 1739297281
   },
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
@@ -2696,8 +2691,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1739883767
+    "port": 7777
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -2717,8 +2711,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1739883767
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2728,8 +2721,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1739883767
+    "port": 7777
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2749,8 +2741,7 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1739883767
+    "port": 9014
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -2820,8 +2811,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1739880695
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2834,7 +2824,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #5",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -3127,7 +3117,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #2",
     "addr": "208.115.206.190",
     "port": 7797
   },
@@ -3179,7 +3169,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3225,7 +3215,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #3",
     "addr": "208.115.206.85",
     "port": 7777
   },
@@ -3290,7 +3280,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3333,8 +3323,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1739883767
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3446,7 +3435,7 @@
     "removed": 1739772619
   },
   {
-    "name": "[CN]NH/猫猫庇护所NekoHaven日服Q群500001820",
+    "name": "[CN]NH^猫猫庇护所NekoHaven^日服Q群500001820",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -3568,6 +3557,11 @@
     "port": 7887
   },
   {
+    "name": "hll Server",
+    "addr": "31.56.0.81",
+    "port": 7897
+  },
+  {
     "name": "The great test",
     "addr": "31.56.0.97",
     "port": 7777,
@@ -3591,8 +3585,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1739883767
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4681,7 +4674,8 @@
   {
     "name": "Farm by g-portal",
     "addr": "5.189.132.77",
-    "port": 28800
+    "port": 28800,
+    "removed": 1739902166
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -4738,6 +4732,11 @@
     "addr": "51.195.190.147",
     "port": 9075,
     "removed": 1739642859
+  },
+  {
+    "name": "[GER] Ententeich [TEST]",
+    "addr": "51.195.63.188",
+    "port": 8530
   },
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -4884,7 +4883,8 @@
   {
     "name": "Blood Sweat & Beers | 49vs49 Event | 2 Year Anniversary | bsbhl",
     "addr": "54.36.60.213",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739902166
   },
   {
     "name": "#05 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
@@ -4892,7 +4892,7 @@
     "port": 8772
   },
   {
-    "name": "0+UTC Server | UK | PT | IE | IS |",
+    "name": "0+UTC Server | UK | IE | PT |",
     "addr": "57.128.188.198",
     "port": 8530
   },
@@ -4957,19 +4957,18 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1739883767
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.93",
-    "port": 7797,
-    "removed": 1739883767
+    "port": 7797
   },
   {
     "name": "Radical Gaming :: Los Angeles :: Powered by Qonzer.com",
     "addr": "63.143.62.99",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739902166
   },
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
@@ -5040,8 +5039,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1739883767
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5163,7 +5161,8 @@
   {
     "name": "The Iron Curtain | US Central | New Players Welcome",
     "addr": "66.235.173.137",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739902166
   },
   {
     "name": "D2 - Damned Defiants [Lvl 50+] [US] [MIC REQ] Discord.gg/FvdhNt",
@@ -5193,8 +5192,7 @@
   {
     "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
-    "port": 7777,
-    "removed": 1739883767
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
@@ -5277,6 +5275,11 @@
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
     "addr": "79.141.174.122",
     "port": 8530
+  },
+  {
+    "name": "HLL Server",
+    "addr": "80.41.175.236",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5533,8 +5536,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1739815718
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5966,7 +5968,7 @@
     "port": 7817
   },
   {
-    "name": "CN 放逐 暖服送VIP Q414805368",
+    "name": "CN 放逐JP节点 纯冲突 暖服送VIP Q414805368",
     "addr": "89.46.1.190",
     "port": 7827
   },
