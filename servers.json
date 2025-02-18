@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区/父辈的家书/Q:682305162",
+    "name": "<CN>BW黑色守望/黄区/我们的父辈/Q:682305162",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -286,7 +286,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -296,12 +296,17 @@
     "port": 7797
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "139.28.17.147",
+    "port": 7777
+  },
+  {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "139.99.144.18",
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -1519,8 +1524,7 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1739794316
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2413,7 +2417,7 @@
     "port": 28300
   },
   {
-    "name": "[ GER ] Hack let Loose | Testserver | by Brennholzverleih ",
+    "name": "[GER] Hack let Loose | Testserver | by Brennholzverleih ",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -3173,7 +3177,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY | LVL 75+ | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3284,7 +3288,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -4884,7 +4888,7 @@
     "port": 8772
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "0-UTC Server | UK | IE | PT |",
     "addr": "57.128.188.198",
     "port": 8530
   },
@@ -5059,7 +5063,7 @@
     "port": 7777
   },
   {
-    "name": "Mikey's Marauders / US EAST 2 / lvl 50+ / discord.gg/mikeys-mm",
+    "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
     "port": 7787
   },
@@ -5685,7 +5689,8 @@
   {
     "name": "Hell let loose (Virgil's Training Server)",
     "addr": "83.223.204.123",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739838573
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -6027,7 +6032,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
