@@ -638,6 +638,11 @@
     "port": 8530
   },
   {
+    "name": "[FR | LvL] Les Vieux Loups - discord.gg/teamlvl",
+    "addr": "167.235.169.114",
+    "port": 9075
+  },
+  {
     "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
@@ -2977,7 +2982,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1739842514
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
