@@ -1067,7 +1067,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739858969
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -1388,7 +1389,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739858969
   },
   {
     "name": "QA Testing - EU #03",
@@ -1423,7 +1425,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739858969
   },
   {
     "name": "HLL Official - Europe #249",
@@ -2582,12 +2585,6 @@
     "port": 8530
   },
   {
-    "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
-    "addr": "185.206.151.110",
-    "port": 8530,
-    "removed": 1739237720
-  },
-  {
     "name": "D2 - Damned Defiants (Lvl 70+)",
     "addr": "185.206.151.110",
     "port": 9075,
@@ -2982,8 +2979,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739842514
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3247,7 +3243,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739858969
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -4590,7 +4587,7 @@
     "port": 8530
   },
   {
-    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTideHLL",
+    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
     "port": 8530
   },
@@ -4895,7 +4892,7 @@
     "port": 8772
   },
   {
-    "name": "0-UTC Server | UK | IE | PT |",
+    "name": "0+UTC Server | UK | PT | IE | IS |",
     "addr": "57.128.188.198",
     "port": 8530
   },
@@ -5072,7 +5069,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739858969
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
