@@ -2172,8 +2172,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1739880695
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -5279,7 +5278,8 @@
   {
     "name": "HLL Server",
     "addr": "80.41.175.236",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739903101
   },
   {
     "name": "HLL Official - Asia #07",
