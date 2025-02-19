@@ -472,7 +472,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "15.235.225.173",
-    "port": 10165
+    "port": 10165,
+    "removed": 1739948288
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -2967,8 +2968,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1739947747
+    "port": 20500
   },
   {
     "name": "Kommando Hummel",
