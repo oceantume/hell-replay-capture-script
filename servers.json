@@ -470,6 +470,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "15.235.225.173",
+    "port": 10165
+  },
+  {
     "name": "TH Hell Let Loose Thailand Community",
     "addr": "15.235.225.173",
     "port": 8530
@@ -2967,7 +2972,8 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1739946305
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -4565,18 +4571,6 @@
     "port": 8530
   },
   {
-    "name": "Testing1337",
-    "addr": "45.151.81.210",
-    "port": 7787,
-    "removed": 1739340584
-  },
-  {
-    "name": "t17 test",
-    "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1739340584
-  },
-  {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
     "port": 8530
@@ -6112,12 +6106,6 @@
     "name": "PC Gamers - LATAM",
     "addr": "92.118.19.142",
     "port": 7777
-  },
-  {
-    "name": "  [US] The Inglorious Bastards #1 I New Player Friendly I Https",
-    "addr": "92.118.19.142",
-    "port": 7807,
-    "removed": 1739340584
   },
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
