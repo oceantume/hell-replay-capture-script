@@ -2858,7 +2858,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - US West #01",
@@ -2879,7 +2880,8 @@
   {
     "name": "HLL Official - US West #80",
     "addr": "193.192.59.123",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
@@ -2960,8 +2962,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1739925000
+    "port": 20500
   },
   {
     "name": "Kommando Hummel",
@@ -2971,8 +2972,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739925000
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3641,7 +3641,8 @@
   {
     "name": "HLL Official - US West #88",
     "addr": "45.137.246.10",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - US West #100",
@@ -3776,7 +3777,8 @@
   {
     "name": "HLL Official - US West #65",
     "addr": "45.137.246.16",
-    "port": 28400
+    "port": 28400,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - US West #85",
@@ -3801,7 +3803,8 @@
   {
     "name": "HLL Official - US West #33",
     "addr": "45.137.246.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - US West #41",
@@ -3941,7 +3944,8 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - US West #17",
@@ -6236,7 +6240,8 @@
   {
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.22",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #18",
@@ -6246,17 +6251,20 @@
   {
     "name": "HLL Official - Australia #22",
     "addr": "94.250.221.22",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #29",
     "addr": "94.250.221.22",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #34",
     "addr": "94.250.221.22",
-    "port": 28400
+    "port": 28400,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #41",
@@ -6266,27 +6274,32 @@
   {
     "name": "HLL Official - Australia #48",
     "addr": "94.250.221.22",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #10",
     "addr": "94.250.221.23",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #13",
     "addr": "94.250.221.23",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #21",
     "addr": "94.250.221.23",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #28",
     "addr": "94.250.221.23",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #35",
@@ -6306,7 +6319,8 @@
   {
     "name": "HLL Official - Australia #16",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #19",
@@ -6316,17 +6330,20 @@
   {
     "name": "HLL Official - Australia #30",
     "addr": "94.250.221.25",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #31",
     "addr": "94.250.221.25",
-    "port": 28400
+    "port": 28400,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #42",
     "addr": "94.250.221.25",
-    "port": 28500
+    "port": 28500,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #47",
@@ -6336,17 +6353,20 @@
   {
     "name": "HLL Official - Australia #09",
     "addr": "94.250.221.26",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #17",
     "addr": "94.250.221.26",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #24",
     "addr": "94.250.221.26",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #32",
@@ -6356,7 +6376,8 @@
   {
     "name": "HLL Official - Australia #36",
     "addr": "94.250.221.26",
-    "port": 28400
+    "port": 28400,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #45",
@@ -6366,7 +6387,8 @@
   {
     "name": "HLL Official - Australia #08",
     "addr": "94.250.221.27",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #14",
@@ -6376,7 +6398,8 @@
   {
     "name": "HLL Official - Australia #23",
     "addr": "94.250.221.27",
-    "port": 28200
+    "port": 28200,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #38",
@@ -6421,22 +6444,26 @@
   {
     "name": "HLL Official - Australia #40",
     "addr": "94.250.221.35",
-    "port": 28500
+    "port": 28500,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #49",
     "addr": "94.250.221.35",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #06",
     "addr": "94.250.221.36",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.36",
-    "port": 28100
+    "port": 28100,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #25",
@@ -6446,7 +6473,8 @@
   {
     "name": "HLL Official - Australia #27",
     "addr": "94.250.221.36",
-    "port": 28300
+    "port": 28300,
+    "removed": 1739926624
   },
   {
     "name": "HLL Official - Australia #33",
@@ -6461,7 +6489,8 @@
   {
     "name": "HLL Official - Australia #46",
     "addr": "94.250.221.36",
-    "port": 28600
+    "port": 28600,
+    "removed": 1739926624
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
