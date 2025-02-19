@@ -1077,7 +1077,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1739945372
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1525,7 +1526,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739945372
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2515,7 +2517,7 @@
     "port": 7797
   },
   {
-    "name": "Hagamos Garris-Ronin-hll.la/discord-[Merc]#4 Discord.gg/m3rc",
+    "name": "[LATAM] Hagamos Garris Nivel 20+ -R-  [Merc] Discord.gg/m3rc",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -2970,8 +2972,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1739928955
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3180,7 +3181,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1739945372
   },
   {
     "name": "[GER][ENG] Vanilla Maps Only",
@@ -3236,7 +3238,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739945372
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -5067,7 +5070,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1739945372
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5968,7 +5972,7 @@
     "port": 7817
   },
   {
-    "name": "CN 放逐JP节点 纯冲突 暖服送VIP Q414805368",
+    "name": "CN放逐/JP/萌新冲突/进群就送VIP Q414805368",
     "addr": "89.46.1.190",
     "port": 7827
   },
@@ -5998,7 +6002,7 @@
     "port": 7877
   },
   {
-    "name": "CN1 MAX-老B灯国服爱好者！限杀！禁炮！@JP Q群：2",
+    "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
     "addr": "89.46.1.190",
     "port": 7887
   },
