@@ -307,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -426,6 +426,11 @@
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "146.59.47.230",
+    "port": 9075
   },
   {
     "name": "[5CITY #1] [PL/ENG] CZTEREJ PANCERNI I FAJTEREK discord.gg/5cit",
@@ -691,7 +696,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1739967097
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -716,7 +722,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739967097
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -2499,7 +2506,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1739967097
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -2535,12 +2543,6 @@
     "name": "HLL Sur America #03| By [MSL] discord.gg/magic-servers",
     "addr": "181.214.221.212",
     "port": 7827
-  },
-  {
-    "name": "《COBRAS FUMANTES》vip.marram.com.br #8",
-    "addr": "181.214.221.212",
-    "port": 7837,
-    "removed": 1739362295
   },
   {
     "name": "《COBRAS FUMANTES》vip.marram.com.br #4",
@@ -2734,7 +2736,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1739967097
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2819,7 +2822,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1739967097
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3186,8 +3190,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1739945372
+    "port": 7777
   },
   {
     "name": "[GER][ENG] Vanilla Maps Only",
@@ -3215,12 +3218,6 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
-    "addr": "208.115.206.83",
-    "port": 7777,
-    "removed": 1739362295
-  },
-  {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
@@ -3243,8 +3240,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1739945372
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3295,12 +3291,6 @@
     "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
-  },
-  {
-    "name": "SLB #1",
-    "addr": "208.115.248.106",
-    "port": 7787,
-    "removed": 1739362295
   },
   {
     "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
@@ -3427,12 +3417,6 @@
     "addr": "213.136.94.160",
     "port": 28100,
     "removed": 1739752309
-  },
-  {
-    "name": "[Ger/Eng] 77th Apex Division #2 // discord.gg/cPAGjECexc // Wel",
-    "addr": "213.136.94.160",
-    "port": 28200,
-    "removed": 1739362295
   },
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
@@ -5063,8 +5047,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1739945372
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5612,7 +5595,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739967097
   },
   {
     "name": "HLL Official - US East #04",
@@ -5634,7 +5618,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1739967097
   },
   {
     "name": "HLL Official - US East #06",
