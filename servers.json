@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1740074942
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -287,7 +288,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -327,6 +328,11 @@
     "port": 9620
   },
   {
+    "name": "CZ & SK | TESTING #3 | VLK @ valkyriahll.cz",
+    "addr": "141.95.3.121",
+    "port": 8530
+  },
+  {
     "name": " [TR/EN] 57th Regiment // 57. Alay - Türk sunucusu",
     "addr": "141.95.3.135",
     "port": 8530
@@ -339,7 +345,8 @@
   {
     "name": " [Ger/Eng] 77th Apex Division #1 // discord.gg/cPAGjECexc // We",
     "addr": "141.95.3.139",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740074942
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -567,7 +574,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>TT天堂散人 vs TT天堂战队（训练赛场地专用）",
+    "name": "<CN>AIT日常赛",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -1049,8 +1056,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1739988549
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1060,8 +1066,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1739988549
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1522,12 +1527,6 @@
     "port": 28000
   },
   {
-    "name": "1st RM [1RM] - HLL | ENG - Mic | discord.gg/zsT2vSNEYv",
-    "addr": "176.57.168.253",
-    "port": 28100,
-    "removed": 1739470138
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding ",
     "addr": "176.57.168.253",
     "port": 28200
@@ -1790,7 +1789,8 @@
   {
     "name": "TK - Teams of Killers",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740074942
   },
   {
     "name": "UFO",
@@ -2178,8 +2178,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1740035388
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -2601,12 +2600,6 @@
     "removed": 1740055787
   },
   {
-    "name": "D55L Donner Legion PL",
-    "addr": "185.38.150.51",
-    "port": 8530,
-    "removed": 1739470138
-  },
-  {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
     "port": 7777
@@ -2684,8 +2677,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1740056637
+    "port": 7777
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -2715,8 +2707,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1740056637
+    "port": 7777
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2837,8 +2828,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000,
-    "removed": 1739988549
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #81",
@@ -2858,7 +2848,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740074942
   },
   {
     "name": "HLL Official - US West #02",
@@ -3167,7 +3158,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3272,7 +3263,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3365,8 +3356,7 @@
   {
     "name": "Hell let LuuL",
     "addr": "213.136.88.87",
-    "port": 28200,
-    "removed": 1739752309
+    "port": 28200
   },
   {
     "name": "Balkan Server - NEW PLAYERS WELCOME",
@@ -3443,8 +3433,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1740053497
+    "port": 8772
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -3537,7 +3526,7 @@
     "port": 7897
   },
   {
-    "name": "CN1/JP[KL]成分复杂且邦邦邦服 ",
+    "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075",
     "addr": "31.56.0.81",
     "port": 7907
   },
@@ -4619,10 +4608,9 @@
     "port": 28100
   },
   {
-    "name": "#1 LAST HOPE [Deutschsprachig] Low Ping",
+    "name": "KL/TP/100 EVENT",
     "addr": "5.189.132.77",
-    "port": 28200,
-    "removed": 1739470138
+    "port": 28200
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -4661,15 +4649,19 @@
     "port": 8530
   },
   {
-    "name": "[GER] KAMPFSCHRAUBER 1 | GER + Mic | Seeding+",
+    "name": "CZ & SK | TESTING #2 | VLK @ valkyriahll.cz",
     "addr": "5.9.150.142",
-    "port": 8530,
-    "removed": 1739988549
+    "port": 8530
   },
   {
     "name": "[GER] Sancheez Community| Mic Only!",
     "addr": "5.9.150.142",
     "port": 9075
+  },
+  {
+    "name": "CZ & SK | TESTING #1 | VLK @ valkyriahll.cz",
+    "addr": "5.9.150.142",
+    "port": 9620
   },
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
@@ -4715,7 +4707,8 @@
   {
     "name": "#2 [LL] Lost Legion | Blood, Guts, and Iron | lostlegion.eu",
     "addr": "51.195.89.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740074942
   },
   {
     "name": "BB | Blueberry Brigade",
@@ -4914,8 +4907,7 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1740056637
+    "port": 7797
   },
   {
     "name": "[Merc]iless Event Server",
@@ -4982,8 +4974,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1740056637
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -4998,8 +4989,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1740056637
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5250,7 +5240,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740074942
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5260,8 +5251,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1739988549
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5271,8 +5261,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1739988549
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5692,12 +5681,6 @@
     "name": "HLL Official - US East #80",
     "addr": "83.223.204.75",
     "port": 28200
-  },
-  {
-    "name": "HLL Playtest Server - US #02",
-    "addr": "83.223.206.29",
-    "port": 28000,
-    "removed": 1739470138
   },
   {
     "name": "QA Testing - US East #09",
