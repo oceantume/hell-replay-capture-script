@@ -451,12 +451,6 @@
     "port": 10165
   },
   {
-    "name": "HLL Server",
-    "addr": "148.252.128.29",
-    "port": 7777,
-    "removed": 1739473700
-  },
-  {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
     "addr": "149.102.135.184",
     "port": 28000
@@ -4713,7 +4707,8 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740078526
   },
   {
     "name": "0-UTC Server | UK | IE | PT |",
