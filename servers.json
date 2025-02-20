@@ -262,7 +262,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL2",
+    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -307,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -608,7 +608,7 @@
     "port": 7937
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #3 | discord.gg/TSKHLL | Turkish",
+    "name": "[EU] TSK Europe #1 | BEST ELO & STATS - TSKHLL.COM",
     "addr": "159.69.226.137",
     "port": 7777
   },
@@ -659,7 +659,7 @@
     "port": 7777
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #2 | TSKHLL.COM | Turkish Only",
+    "name": "[TR] TSK Türkiye #2 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
     "addr": "169.150.215.66",
     "port": 7877
   },
@@ -674,7 +674,7 @@
     "port": 7797
   },
   {
-    "name": "[TR] Türk Silahlı Kuvvetleri #1 | TSKHLL.COM | Turkish Only",
+    "name": "[TR] TSK Türkiye #1 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
     "addr": "169.150.215.70",
     "port": 7807
   },
@@ -722,7 +722,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740053497
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1364,12 +1365,6 @@
     "port": 28300
   },
   {
-    "name": "HLL Playtest Server - Europe #02",
-    "addr": "176.57.140.97",
-    "port": 28000,
-    "removed": 1739448697
-  },
-  {
     "name": "HLL Official - Europe #219",
     "addr": "176.57.140.97",
     "port": 28300
@@ -1392,7 +1387,8 @@
   {
     "name": "Hell let loose (NYC) Server by g-portal.com",
     "addr": "176.57.165.128",
-    "port": 32400
+    "port": 32400,
+    "removed": 1740053497
   },
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
@@ -2481,8 +2477,7 @@
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
-    "port": 7927,
-    "removed": 1740035388
+    "port": 7927
   },
   {
     "name": "♦ MIB ♦ - Made In Brasil // Lvl. 40+ // INSANIDADE EM 2.0",
@@ -2507,8 +2502,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1739967097
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -2725,8 +2719,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1739967097
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3014,7 +3007,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1740053497
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
@@ -3107,7 +3101,7 @@
     "port": 8888
   },
   {
-    "name": "CN1「CZS」深夜啤酒小屋萌新图书馆||Q719036493",
+    "name": "#cn「JWH」哈基米萌新冲突服.q1020812925",
     "addr": "203.27.106.45",
     "port": 8888
   },
@@ -3227,8 +3221,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1740031764
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3441,12 +3434,14 @@
   {
     "name": "The Draft [HAUS] |US EAST-VA| discord.gg/drafthaus",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1740053497
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740053497
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -3539,7 +3534,7 @@
     "port": 7897
   },
   {
-    "name": "hll Server",
+    "name": "CN1 JP成分复杂且邦邦邦服 ",
     "addr": "31.56.0.81",
     "port": 7907
   },
@@ -5029,8 +5024,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1740031764
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5567,7 +5561,7 @@
     "port": 28100
   },
   {
-    "name": "CN#2#1801蓝蔷薇社区服务器 Q群：677043328",
+    "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
     "addr": "83.223.197.89",
     "port": 28200
   },
@@ -5584,20 +5578,17 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1739967097
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1739925000
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200,
-    "removed": 1739925000
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -5607,8 +5598,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1739967097
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
@@ -5616,9 +5606,15 @@
     "port": 28100
   },
   {
+    "name": "DevQA - US #03",
+    "addr": "83.223.203.130",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740053497
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
