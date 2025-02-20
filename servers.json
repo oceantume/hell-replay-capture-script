@@ -287,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -307,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -541,7 +541,7 @@
     "port": 8530
   },
   {
-    "name": "MEXICO LATAM ESP OGT",
+    "name": "MEXICO LATAM OGT",
     "addr": "154.16.170.225",
     "port": 9075
   },
@@ -722,8 +722,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1739967097
+    "port": 9075
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1821,8 +1820,7 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1739925000
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -2586,12 +2584,6 @@
     "port": 8530
   },
   {
-    "name": "D2 - Damned Defiants (Lvl 70+)",
-    "addr": "185.206.151.110",
-    "port": 9075,
-    "removed": 1739406575
-  },
-  {
     "name": "Desert Ratz Event Server!",
     "addr": "185.206.151.114",
     "port": 8530
@@ -2823,7 +2815,8 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740011404
   },
   {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
@@ -3162,7 +3155,8 @@
   {
     "name": "Radical Gaming :: Frankfurt :: Powered by Qonzer.com",
     "addr": "208.115.206.199",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740011404
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -3176,7 +3170,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3281,7 +3275,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3391,12 +3385,6 @@
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming  :-)",
     "addr": "213.136.88.87",
     "port": 28600
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "213.136.88.87",
-    "port": 28900,
-    "removed": 1739406575
   },
   {
     "name": "[EU/UK] v7 Conflict",
@@ -4712,7 +4700,7 @@
     "removed": 1739642859
   },
   {
-    "name": "[GER] Ententeich [TEST]",
+    "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "51.195.63.188",
     "port": 8530
   },
@@ -5173,7 +5161,8 @@
   {
     "name": "《COBRAS FUMANTES》MARRAM #7 - QONZER.COM - EVENTOS",
     "addr": "69.162.89.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740011404
   },
   {
     "name": "(IC) Offensive Heaven | US Central #3 | discord.gg/icoh",
@@ -5539,8 +5528,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1739925000
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -6012,7 +6000,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
