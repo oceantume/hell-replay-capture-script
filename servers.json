@@ -262,6 +262,11 @@
     "removed": 1740118178
   },
   {
+    "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
+    "addr": "136.243.106.82",
+    "port": 8530
+  },
+  {
     "name": "What can I say",
     "addr": "136.243.70.117",
     "port": 7777
@@ -282,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -302,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -528,7 +533,7 @@
     "port": 8530
   },
   {
-    "name": "CN2#HK#【FJ】包子の男同俱乐部Q群:1029886683",
+    "name": "CN2HK# FJ 包子の男同俱乐部Q群:1029886683",
     "addr": "156.146.44.225",
     "port": 7777
   },
@@ -650,12 +655,6 @@
     "port": 7807
   },
   {
-    "name": "Turks Let Loose #4 [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "169.150.215.72",
-    "port": 7817,
-    "removed": 1739535085
-  },
-  {
     "name": "Zuid Afrika || discord.gg/kNkZXq2p",
     "addr": "169.150.238.99",
     "port": 7777
@@ -698,7 +697,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740139898
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -1064,8 +1064,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1740118178
+    "port": 30700
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1367,7 +1366,8 @@
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
     "addr": "176.57.165.128",
-    "port": 33400
+    "port": 33400,
+    "removed": 1740139898
   },
   {
     "name": "HLL Official - Europe #05",
@@ -2307,12 +2307,6 @@
     "port": 28200
   },
   {
-    "name": "DasAltBerg - Private Server",
-    "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1739535085
-  },
-  {
     "name": "HLL Official - Europe #22",
     "addr": "176.57.181.212",
     "port": 28000
@@ -2682,7 +2676,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740139898
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2768,7 +2763,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740139898
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2971,7 +2967,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1740139898
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
@@ -3184,8 +3181,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1740118178
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3359,14 +3355,12 @@
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
     "addr": "213.136.94.160",
-    "port": 28400,
-    "removed": 1739772619
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
-    "port": 28600,
-    "removed": 1739772619
+    "port": 28600
   },
   {
     "name": "[CN]NH^猫猫庇护所NekoHaven^日服Q群500001820",
@@ -3398,7 +3392,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740139898
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -3463,8 +3458,7 @@
   {
     "name": "CN4#JP春日猫猫萌新限杀の冲突馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1740121784
+    "port": 7847
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
@@ -3492,7 +3486,7 @@
     "port": 7897
   },
   {
-    "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075",
+    "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
     "port": 7907
   },
@@ -4663,7 +4657,8 @@
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "51.195.63.188",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740139898
   },
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -4720,7 +4715,8 @@
   {
     "name": "[5CITY #3] [PL/ENG] BITWA POD FÜNFSTADT discord.gg/5cityhll",
     "addr": "51.75.58.125",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740139898
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -4763,7 +4759,7 @@
     "port": 9075
   },
   {
-    "name": "#1 [LL] Lost Legion | We Are Recruiting | lostlegion.eu",
+    "name": "[LL] Lost Legion | We Are Recruiting | lostlegion.eu",
     "addr": "51.89.42.34",
     "port": 8530
   },
@@ -4843,12 +4839,6 @@
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
     "port": 7817
-  },
-  {
-    "name": "PL/ENG Polski Serwer #1 FREE VIP DC: bit.ly/hell-let-loose-pl",
-    "addr": "57.128.229.70",
-    "port": 7827,
-    "removed": 1739535085
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
@@ -4932,7 +4922,7 @@
     "port": 12345
   },
   {
-    "name": "<CN>JP/菜鸟乐园纯攻防『萌新友好』群号974297943",
+    "name": "<CN>JP/菜鸟乐园『萌新友好』群号974297943",
     "addr": "64.31.11.50",
     "port": 12890
   },
@@ -5531,7 +5521,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740139898
   },
   {
     "name": "HLL Official - US East #04",
@@ -5541,7 +5532,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740139898
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -5556,7 +5548,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740139898
   },
   {
     "name": "DevQA - US #03",
@@ -5886,7 +5879,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>JPclzd萌新骑服主管理头上玩群号532933387",
+    "name": "萌新骑管理玩加Q群532933387送免费VIP你还排就笑",
     "addr": "89.46.1.190",
     "port": 7837
   },
@@ -6031,12 +6024,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "T&T | New Players Welcome | WARFARE | discord.gg/tandt",
-    "addr": "92.118.19.84",
-    "port": 7777,
-    "removed": 1739535085
   },
   {
     "name": "BRASIL | Youtube @CANALDORAFHA | Inscreva-se! ",
