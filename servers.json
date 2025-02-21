@@ -76,12 +76,6 @@
     "port": 8968
   },
   {
-    "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
-    "addr": "103.62.51.135",
-    "port": 8888,
-    "removed": 1739492975
-  },
-  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -288,7 +282,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -308,7 +302,7 @@
     "port": 9075
   },
   {
-    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] discord.gg/egserver",
+    "name": "RUS EG Pycckuū CEPBEP|VIP for SEED discord.gg/egserver",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -328,7 +322,7 @@
     "port": 9620
   },
   {
-    "name": "CZ & SK | TESTING #3 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #6 | VLK @ EVENT",
     "addr": "141.95.3.121",
     "port": 8530
   },
@@ -514,12 +508,6 @@
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
     "addr": "152.228.223.2",
     "port": 10165
-  },
-  {
-    "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
-    "addr": "152.228.223.2",
-    "port": 9620,
-    "removed": 1739492975
   },
   {
     "name": "CDS",
@@ -709,6 +697,11 @@
     "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | disco",
     "addr": "172.93.105.158",
     "port": 9075
+  },
+  {
+    "name": "An RP Server ",
+    "addr": "172.93.105.158",
+    "port": 9620
   },
   {
     "name": "ZGaming Servers - DOSEKAI CTM ENTRA ACA",
@@ -2995,8 +2988,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1740053497
+    "port": 9620
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
@@ -3152,7 +3144,7 @@
     "removed": 1739599701
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3257,7 +3249,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3350,7 +3342,8 @@
   {
     "name": "Hell let LuuL",
     "addr": "213.136.88.87",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740097815
   },
   {
     "name": "Balkan Server - NEW PLAYERS WELCOME",
@@ -4643,7 +4636,7 @@
     "port": 8530
   },
   {
-    "name": "CZ & SK | TESTING #2 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #5 | VLK @ BOOTCAMP",
     "addr": "5.9.150.142",
     "port": 8530
   },
@@ -4653,7 +4646,7 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | TESTING #1 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #4 | VLK @ valkyriahll.cz",
     "addr": "5.9.150.142",
     "port": 9620
   },
@@ -4707,8 +4700,7 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1740078526
+    "port": 9075
   },
   {
     "name": "0-UTC Server | UK | IE | PT |",
@@ -4885,7 +4877,7 @@
     "port": 7777
   },
   {
-    "name": "8th Tank Battalion Milsim Unit | US East | English Only | disco",
+    "name": "51st Armored Infantry Battalion Milsim Unit | US East | English",
     "addr": "63.143.60.20",
     "port": 7787
   },
@@ -5626,6 +5618,11 @@
     "port": 28000
   },
   {
+    "name": "Based Let Loose (US East)",
+    "addr": "83.223.203.51",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.11",
     "port": 28300
@@ -5979,7 +5976,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
