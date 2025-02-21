@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1740074942
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -259,7 +258,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1740118178
   },
   {
     "name": "What can I say",
@@ -406,24 +406,6 @@
     "port": 9075
   },
   {
-    "name": "[GER] Eiserne Division | Low Ping | GER Mic",
-    "addr": "146.19.48.157",
-    "port": 7777,
-    "removed": 1739513353
-  },
-  {
-    "name": "Radical Gaming :: Paris :: Powered by Qonzer.com",
-    "addr": "146.19.48.168",
-    "port": 7777,
-    "removed": 1739513353
-  },
-  {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
-    "addr": "146.19.48.168",
-    "port": 7787,
-    "removed": 1739513353
-  },
-  {
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
     "port": 8530
@@ -490,7 +472,7 @@
     "port": 9620
   },
   {
-    "name": "HLL Philippine Server [Fil/Eng]",
+    "name": "The Coalition | HLL Philippine Server [FIL/ENG ONLY] discord.gg",
     "addr": "15.235.226.40",
     "port": 8530
   },
@@ -1082,7 +1064,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1740118178
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1419,13 +1402,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740118178
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1740031764
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -2234,7 +2217,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740118178
   },
   {
     "name": "QA Testing - EU #05",
@@ -2747,7 +2731,7 @@
     "port": 9075
   },
   {
-    "name": "Fire For Effect [FFE] - S2 - !VOTEMAP - FFECREW.COM",
+    "name": "Fire For Effect [FFE] - S2 - New Players Welcome! - FFECREW.COM",
     "addr": "192.169.95.178",
     "port": 7577
   },
@@ -2941,8 +2925,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740101792
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3201,7 +3184,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740118178
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3390,12 +3374,6 @@
     "port": 7797
   },
   {
-    "name": "<CN1>吃D牢窝/JP节点/萌新进阶/Q:882377564",
-    "addr": "216.144.245.82",
-    "port": 7807,
-    "removed": 1739513353
-  },
-  {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "216.173.113.154",
     "port": 9620
@@ -3508,7 +3486,7 @@
     "port": 7887
   },
   {
-    "name": "奥卡斯菠萝王国，VW50天天都是星期四 Q群：558699",
+    "name": "CN COH奥卡山狗叫大队，VW50天天都是星期四 Q群：",
     "addr": "31.56.0.81",
     "port": 7897
   },
@@ -4904,8 +4882,7 @@
   {
     "name": "Radical Gaming :: Los Angeles :: Powered by Qonzer.com",
     "addr": "63.143.62.99",
-    "port": 7777,
-    "removed": 1739902166
+    "port": 7777
   },
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
@@ -5180,12 +5157,6 @@
     "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
     "addr": "79.127.249.117",
     "port": 7787
-  },
-  {
-    "name": "[EU/欧服] DAL-李云龙的坦克圣地-欢迎萌新Q:67029267",
-    "addr": "79.127.249.117",
-    "port": 7797,
-    "removed": 1739513353
   },
   {
     "name": "[FR Only] Régiment Des Lames d'Acier | Discord : https://disco",
