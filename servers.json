@@ -2908,8 +2908,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1740206887
+    "port": 20500
   },
   {
     "name": "Kommando Hummel",
@@ -3172,7 +3171,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740207430
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3187,8 +3187,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777,
-    "removed": 1740206887
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3238,8 +3237,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1740206887
+    "port": 7777
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -5689,8 +5687,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1740206887
+    "port": 7777
   },
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
