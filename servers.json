@@ -259,8 +259,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1740118178
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -555,7 +554,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "name": "<CN>#1 TT天堂萌新俱乐部Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7817
   },
@@ -573,12 +572,6 @@
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
     "port": 7887
-  },
-  {
-    "name": "<CN>1801#2 极北的蓝蔷薇少女 萌新港服 Q:677043328",
-    "addr": "156.146.44.225",
-    "port": 7897,
-    "removed": 1739599701
   },
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1337,7 +1330,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740204506
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1408,8 +1402,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.168.187",
-    "port": 28000,
-    "removed": 1740118178
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1509,7 +1502,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740204506
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2152,7 +2146,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740204506
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2217,8 +2212,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1740118178
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -2924,8 +2918,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740188050
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3075,6 +3068,11 @@
     "port": 7777
   },
   {
+    "name": "多 | Hostile Unknown | Europe | .gg/hostile",
+    "addr": "208.115.206.187",
+    "port": 7777
+  },
+  {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.206.190",
     "port": 7797
@@ -3114,12 +3112,6 @@
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "208.115.206.35",
     "port": 7777
-  },
-  {
-    "name": "StDb Event",
-    "addr": "208.115.206.37",
-    "port": 7777,
-    "removed": 1739599701
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
@@ -3485,12 +3477,6 @@
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
     "port": 7907
-  },
-  {
-    "name": "The great test",
-    "addr": "31.56.0.97",
-    "port": 7777,
-    "removed": 1739599701
   },
   {
     "name": "       [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -4602,7 +4588,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "5.226.141.83",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740204506
   },
   {
     "name": "CZ & SK | #5 | VLK @ BOOTCAMP",
@@ -4971,7 +4958,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740204506
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5513,7 +5501,8 @@
   {
     "name": "The Proving Grounds | 2nd Armored - Hell on Wheels",
     "addr": "83.223.203.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740204506
   },
   {
     "name": "HLL Official - US East #03",
@@ -5876,7 +5865,7 @@
     "port": 7827
   },
   {
-    "name": "萌新骑管理玩加Q群532933387送免费VIP你还排就笑",
+    "name": "CNJP萌新骑管理玩加Q群532933387狂送免费VIP",
     "addr": "89.46.1.190",
     "port": 7837
   },
