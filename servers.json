@@ -287,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -656,8 +656,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1740312611
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -703,12 +702,6 @@
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
-  },
-  {
-    "name": "Refuze - MATCH SERVER",
-    "addr": "176.31.232.159",
-    "port": 9075,
-    "removed": 1739729263
   },
   {
     "name": "HLL Official - Europe #199",
@@ -1013,7 +1006,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740334076
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1053,8 +1047,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1740290907
+    "port": 30700
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1356,7 +1349,8 @@
   {
     "name": "[HOLY] The Holy Land | US EAST | NEW PLAYERS WELCOME",
     "addr": "176.57.165.128",
-    "port": 33400
+    "port": 33400,
+    "removed": 1740334076
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1492,8 +1486,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1740290907
+    "port": 28000
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2215,12 +2208,6 @@
     "port": 28300
   },
   {
-    "name": "[ GER ] Hack Let Loose | Test Server | by Kampfgruppe Lazarus",
-    "addr": "176.57.181.105",
-    "port": 28300,
-    "removed": 1739729263
-  },
-  {
     "name": "HLL Official - Europe #121",
     "addr": "176.57.181.11",
     "port": 28200
@@ -2753,8 +2740,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1740312611
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2804,13 +2790,13 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1740247648
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740334076
   },
   {
     "name": "QA Testing - US West #06",
@@ -2906,7 +2892,8 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1740334076
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -2932,12 +2919,6 @@
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
-  },
-  {
-    "name": "[BG/ENG] *Bulgarians Let Loose* | New Players are welcome |",
-    "addr": "198.244.200.129",
-    "port": 8530,
-    "removed": 1739729263
   },
   {
     "name": "Squeedy's Sauna - Warfare & Offensive",
@@ -3102,7 +3083,8 @@
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "208.115.206.197",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740334076
   },
   {
     "name": "Radical Gaming :: Frankfurt :: Powered by Qonzer.com",
@@ -3115,7 +3097,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3398,7 +3380,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] Eiserne Division | Low Ping | GER Mic",
+    "name": "     [EU|ENG] War&Beer | SL Mic only | discord.gg/drunkops",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -3488,7 +3470,7 @@
     "port": 7887
   },
   {
-    "name": "CN COH奥卡山狗叫大队，VW50天天都是星期四 Q群：",
+    "name": "CN COH奥卡山狗叫大队,VW50天天都是星期四 Q:5586996",
     "addr": "31.56.0.81",
     "port": 7897
   },
@@ -3515,7 +3497,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740334076
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4770,12 +4753,6 @@
     "port": 9620
   },
   {
-    "name": "PolskaGurom PL",
-    "addr": "51.89.64.100",
-    "port": 8530,
-    "removed": 1739729263
-  },
-  {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "51.91.214.94",
     "port": 9620
@@ -5162,12 +5139,6 @@
     "port": 9620
   },
   {
-    "name": "[MSB] Formation Skithög | SWE/ENG | ",
-    "addr": "79.141.174.116",
-    "port": 8530,
-    "removed": 1739729263
-  },
-  {
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
     "addr": "79.141.174.122",
     "port": 8530
@@ -5181,8 +5152,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1740247648
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5197,7 +5167,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740334076
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5830,8 +5801,7 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部(美军进攻)Q群：797464980",
     "addr": "89.46.1.190",
-    "port": 7177,
-    "removed": 1740315569
+    "port": 7177
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
@@ -5926,7 +5896,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
