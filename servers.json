@@ -299,7 +299,8 @@
   {
     "name": "Blood Sweat & Beers | Event Server | bsbhll.com",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740335691
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -4528,12 +4529,6 @@
     "name": "[PL/ENG] Polski Serwer Klanu MJ23! SEED = VIP! ",
     "addr": "5.189.130.178",
     "port": 28200
-  },
-  {
-    "name": "[GER]  181. Infanterie-Division | Newbie  Friendly |  Discord",
-    "addr": "5.189.130.178",
-    "port": 28500,
-    "removed": 1739730880
   },
   {
     "name": "[GER] Willkommen in der Hölle / Only Mic / Anfängerfreundlich",
