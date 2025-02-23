@@ -2902,8 +2902,7 @@
   {
     "name": "Kommando Hummel",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1740292582
+    "port": 20900
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -5688,7 +5687,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740293153
   },
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
