@@ -1052,7 +1052,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1740290907
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1318,8 +1319,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1740204506
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1360,7 +1360,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740290907
   },
   {
     "name": "QA Testing - EU #03",
@@ -1490,7 +1491,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740290907
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -2133,8 +2135,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1740204506
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -3099,8 +3100,7 @@
   {
     "name": "Radical Gaming :: Frankfurt :: Powered by Qonzer.com",
     "addr": "208.115.206.199",
-    "port": 7777,
-    "removed": 1740011404
+    "port": 7777
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -3166,7 +3166,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740290907
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
