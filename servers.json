@@ -4485,7 +4485,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Event",
+    "name": "Greyhound Event #1",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -4635,7 +4635,8 @@
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "51.195.88.43",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740336816
   },
   {
     "name": "#2 [LL] Lost Legion | Blood, Guts, and Iron | lostlegion.eu",
@@ -4976,7 +4977,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740336816
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
