@@ -307,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP| VIP for SEED |eghll.ru",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -2598,7 +2598,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740402309
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -2618,7 +2619,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740402309
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2628,7 +2630,8 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740402309
   },
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
@@ -3182,7 +3185,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3219,7 +3222,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740402309
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3381,7 +3385,8 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "31.56.0.33",
-    "port": 7797
+    "port": 7797,
+    "removed": 1740402309
   },
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
@@ -3481,8 +3486,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1740334076
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #17",
@@ -4877,7 +4881,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740402309
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -4892,7 +4897,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740402309
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -4962,8 +4968,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1740401436
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
