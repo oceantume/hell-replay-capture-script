@@ -254,7 +254,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1740377415
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -1355,8 +1356,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.169",
-    "port": 28000,
-    "removed": 1740290907
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #03",
@@ -2264,7 +2264,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740377415
   },
   {
     "name": "HLL Official - Europe #04",
@@ -3479,7 +3480,8 @@
   {
     "name": "Devils Brigade (US CENTRAL)",
     "addr": "45.137.244.9",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740377415
   },
   {
     "name": "HLL Official - Japan #01",
