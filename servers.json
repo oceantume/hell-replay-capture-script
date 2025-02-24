@@ -2876,8 +2876,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1740421486
+    "port": 20500
   },
   {
     "name": "Kommando Hummel",
@@ -2888,8 +2887,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740421486
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -5665,7 +5663,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event #1 - free Gana",
+    "name": "Greyhound Event",
     "addr": "85.208.197.70",
     "port": 7817
   },
