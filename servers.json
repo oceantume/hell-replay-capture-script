@@ -1817,12 +1817,6 @@
     "port": 28400
   },
   {
-    "name": "SGK - TEAMS OF KILLERS ",
-    "addr": "176.57.171.44",
-    "port": 28100,
-    "removed": 1739795380
-  },
-  {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
@@ -3337,8 +3331,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1740399112
+    "port": 8772
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -3464,6 +3457,16 @@
     "name": "       [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
     "addr": "31.58.228.76",
     "port": 7977
+  },
+  {
+    "name": "nitrado.net gameserver kUA3BDEp",
+    "addr": "37.10.127.2",
+    "port": 10700
+  },
+  {
+    "name": "nitrado.net gameserver MiZa_b5i",
+    "addr": "37.10.127.2",
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -4959,7 +4962,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740401436
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
