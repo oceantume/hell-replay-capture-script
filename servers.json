@@ -312,7 +312,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP| VIP for SEED |eghll.ru",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -656,7 +656,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1740485508
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1825,6 +1826,11 @@
     "port": 28400
   },
   {
+    "name": "ReagServer",
+    "addr": "176.57.171.44",
+    "port": 28100
+  },
+  {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
@@ -2524,8 +2530,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1740163067
+    "port": 7777
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2647,8 +2652,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1740399112
+    "port": 9075
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2734,7 +2738,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740485508
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3140,8 +3145,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1740463778
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3315,6 +3319,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.94.160",
     "port": 28600
+  },
+  {
+    "name": "CZ/EN Krieg - Community server #2",
+    "addr": "213.136.94.160",
+    "port": 28700
   },
   {
     "name": "[CN]NH^猫猫庇护所NekoHaven^日服Q群500001820",
@@ -4734,6 +4743,11 @@
     "port": 9620
   },
   {
+    "name": "       [ GER ] KAMPFSCHWEINE 2.1 | NEWPLAYER FRIENDLY |XT| OINK",
+    "addr": "51.89.64.100",
+    "port": 8530
+  },
+  {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "51.91.214.94",
     "port": 9620
@@ -4964,7 +4978,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740485508
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5465,19 +5480,18 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1740399112
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1740226193
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740485508
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -5843,7 +5857,7 @@
     "port": 7877
   },
   {
-    "name": "CN1 MAX-老B灯国服爱好者@JP Q群：258455568",
+    "name": "CN1 MAX-老B灯&喷火龙军官营@JP Q群：258455568丨341807",
     "addr": "89.46.1.190",
     "port": 7887
   },
@@ -5886,6 +5900,11 @@
     "name": "[FR] ★ 7ème Compagnie #2 ★ 100% FR - discord.gg/7ecie",
     "addr": "91.134.56.12",
     "port": 7837
+  },
+  {
+    "name": "Krieg - Community server #1 - CZ/EN",
+    "addr": "92.118.16.112",
+    "port": 7817
   },
   {
     "name": "Team17",
