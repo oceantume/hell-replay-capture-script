@@ -231,12 +231,6 @@
     "removed": 1740184134
   },
   {
-    "name": "LAN HAST [BE]",
-    "addr": "135.125.163.81",
-    "port": 8530,
-    "removed": 1739902166
-  },
-  {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
     "port": 8530
@@ -287,7 +281,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -339,7 +333,8 @@
   {
     "name": " [TR/EN] 57th Regiment // 57. Alay - Türk sunucusu",
     "addr": "141.95.3.135",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740506970
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -1008,8 +1003,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1740334076
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1256,12 +1250,6 @@
     "name": "HLL Official - Europe #212",
     "addr": "176.57.140.24",
     "port": 28700
-  },
-  {
-    "name": "Deutsches Staatseigentum [Neue Spieler Willkommen]",
-    "addr": "176.57.140.64",
-    "port": 28300,
-    "removed": 1739902166
   },
   {
     "name": "HLL Official - Europe #19",
@@ -1757,8 +1745,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1740463778
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2133,8 +2120,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1740463778
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2539,10 +2525,9 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "188.165.39.157",
-    "port": 7787,
-    "removed": 1740247648
+    "port": 7787
   },
   {
     "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
@@ -2633,8 +2618,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1740488680
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2740,8 +2724,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1740485508
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2754,7 +2737,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -3089,7 +3072,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3232,8 +3215,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1740488680
+    "port": 7777
   },
   {
     "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
@@ -3370,7 +3352,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -3380,7 +3362,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -3395,7 +3377,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -3466,7 +3448,7 @@
     "port": 7887
   },
   {
-    "name": "CN COH奥卡山狗叫大队,VW50天天都是星期四 Q:5586996",
+    "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
     "addr": "31.56.0.81",
     "port": 7897
   },
@@ -4552,7 +4534,7 @@
     "port": 28100
   },
   {
-    "name": "KL/TP/100 EVENT",
+    "name": "[GER+Mic] Bündnisserver KL | TP | 100.",
     "addr": "5.189.132.77",
     "port": 28200
   },
@@ -4570,12 +4552,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "5.189.132.77",
     "port": 28700
-  },
-  {
-    "name": "Farm by g-portal",
-    "addr": "5.189.132.77",
-    "port": 28800,
-    "removed": 1739902166
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -4601,7 +4577,8 @@
   {
     "name": "[GER] Sancheez Community| Mic Only!",
     "addr": "5.9.150.142",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740506970
   },
   {
     "name": "CZ & SK | #4 | VLK @ valkyriahll.cz",
@@ -4778,12 +4755,6 @@
     "port": 9720
   },
   {
-    "name": "Blood Sweat & Beers | 49vs49 Event | 2 Year Anniversary | bsbhl",
-    "addr": "54.36.60.213",
-    "port": 8530,
-    "removed": 1739902166
-  },
-  {
     "name": "#05 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
     "port": 8772
@@ -4898,8 +4869,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1740488680
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -4914,8 +4884,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1740488680
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5034,12 +5003,6 @@
     "port": 9075
   },
   {
-    "name": "The Iron Curtain | US Central | New Players Welcome",
-    "addr": "66.235.173.137",
-    "port": 8530,
-    "removed": 1739902166
-  },
-  {
     "name": "D2 - Damned Defiants [Lvl 50+] [US] [MIC REQ] Discord.gg/FvdhNt",
     "addr": "67.211.208.154",
     "port": 8530
@@ -5109,7 +5072,8 @@
   {
     "name": "defused",
     "addr": "78.46.59.147",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740506970
   },
   {
     "name": "[SAF] (level 20+, mic/voice, english) - New player friendly!",
@@ -5155,7 +5119,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740506970
   },
   {
     "name": "HLL Official - Asia #08",
@@ -5165,7 +5130,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740506970
   },
   {
     "name": "HLL Official - Asia #01",
@@ -5175,8 +5141,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.121",
-    "port": 28200,
-    "removed": 1740420556
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -5876,7 +5841,8 @@
   {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "91.134.4.54",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740506970
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
