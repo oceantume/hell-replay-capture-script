@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区/东西线牢区/Q:682305162",
+    "name": "<CN>BW黑色守望/黄区/我们的父辈/Q:682305162",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -254,7 +254,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1740463778
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -339,8 +340,7 @@
   {
     "name": " [TR/EN] 57th Regiment // 57. Alay - Türk sunucusu",
     "addr": "141.95.3.135",
-    "port": 8530,
-    "removed": 1740443441
+    "port": 8530
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -570,8 +570,7 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7907,
-    "removed": 1740443441
+    "port": 7907
   },
   {
     "name": "<CN>#8 公众号TT天堂免费领取永久VIP/Q群:578097070",
@@ -1050,7 +1049,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1740463778
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -1479,7 +1479,8 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740463778
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1756,7 +1757,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740463778
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -2126,7 +2128,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740463778
   },
   {
     "name": "HLL Official - Europe #20",
@@ -2181,7 +2184,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740463778
   },
   {
     "name": "QA Testing - UK #07",
@@ -2266,8 +2270,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1740377415
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2883,8 +2886,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740447455
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3139,7 +3141,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740463778
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -5536,7 +5539,8 @@
   {
     "name": "No Man's Land (US East)",
     "addr": "83.223.204.122",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740463778
   },
   {
     "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
