@@ -2883,7 +2883,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1740447455
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2923,8 +2924,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1740399112
+    "port": 9620
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
