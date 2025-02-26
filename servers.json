@@ -2734,12 +2734,12 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
   {
-    "name": "**L ** L***** ** ******* b* ********** ** S5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -3056,8 +3056,7 @@
   {
     "name": "[GER] [404] skill not found | Wir rekrutieren! | Mic Only",
     "addr": "208.115.206.196",
-    "port": 7787,
-    "removed": 1740595139
+    "port": 7787
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -3373,10 +3372,9 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1740595139
+    "port": 7797
   },
   {
     "name": "     HLL CamServer | type !admincam | discord.gg/RoadToVictory",
@@ -3384,10 +3382,9 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1740595139
+    "port": 7877
   },
   {
     "name": "StDb Event",
