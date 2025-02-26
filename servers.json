@@ -651,7 +651,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1740571925
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1814,7 +1815,8 @@
   {
     "name": "ReagServer",
     "addr": "176.57.171.44",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740571925
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
@@ -2419,7 +2421,8 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740571925
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -2724,7 +2727,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740571925
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2916,7 +2920,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1740571925
   },
   {
     "name": "[TOG] The Old Guard Official Public Server [East]",
@@ -3135,8 +3140,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1740550188
+    "port": 7787
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -3226,7 +3230,8 @@
   {
     "name": "! [TBG] SEASONED SOLDIERS | LVL 25+ | DISCORD.GG/TBGCLAN | RECR",
     "addr": "208.115.250.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740571925
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -3256,7 +3261,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "213.136.80.177",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740571925
   },
   {
     "name": "mmmeo",
@@ -3471,7 +3477,8 @@
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
     "addr": "31.56.0.81",
-    "port": 7897
+    "port": 7897,
+    "removed": 1740571925
   },
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
@@ -4986,7 +4993,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740571925
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5482,12 +5490,14 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740571925
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740571925
   },
   {
     "name": "HLL Official - US East #02",
@@ -5503,7 +5513,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "83.223.203.130",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740571925
   },
   {
     "name": "HLL Official - US East #06",
@@ -5519,7 +5530,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740571925
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -5529,8 +5541,7 @@
   {
     "name": "IRONSIDE GAMERS- NOOBS WELCOME-@IRONSIDEGAMERS",
     "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1740550188
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #79",
