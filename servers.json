@@ -3056,7 +3056,8 @@
   {
     "name": "[GER] [404] skill not found | Wir rekrutieren! | Mic Only",
     "addr": "208.115.206.196",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740595139
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -3374,7 +3375,8 @@
   {
     "name": "SLB #1",
     "addr": "31.56.0.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1740595139
   },
   {
     "name": "     HLL CamServer | type !admincam | discord.gg/RoadToVictory",
@@ -3384,7 +3386,8 @@
   {
     "name": "SLB #2",
     "addr": "31.56.0.13",
-    "port": 7877
+    "port": 7877,
+    "removed": 1740595139
   },
   {
     "name": "StDb Event",
@@ -3397,7 +3400,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -5545,7 +5548,8 @@
   {
     "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740595139
   },
   {
     "name": "HLL Official - US East #79",
