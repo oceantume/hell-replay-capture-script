@@ -282,7 +282,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -307,7 +307,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Pycckuū CEPBEP| VIP for SEED |eghll.ru",
+    "name": "[RUS] EG Pycckuū CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -332,10 +332,9 @@
     "port": 8530
   },
   {
-    "name": " [TR/EN] 57th Regiment // 57. Alay - Türk sunucusu",
+    "name": "Wehrmacht Dev",
     "addr": "141.95.3.135",
-    "port": 8530,
-    "removed": 1740506970
+    "port": 8530
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -460,7 +459,7 @@
     "port": 9620
   },
   {
-    "name": "The Coalition | HLL Philippine Server discord.gg/thecoalition",
+    "name": "The Coalition | PH Server #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
     "port": 8530
   },
@@ -651,8 +650,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1740571925
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1002,7 +1000,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1012,7 +1011,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2727,8 +2727,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1740571925
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2778,7 +2777,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - US West #02",
@@ -2834,7 +2834,8 @@
   {
     "name": "[FR | LPP] Le Peloton Perdu",
     "addr": "195.140.215.56",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740593346
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -3079,7 +3080,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3092,14 +3093,12 @@
   {
     "name": "[GER][ENG] Vanilla Maps Only",
     "addr": "208.115.206.51",
-    "port": 7777,
-    "removed": 1740550188
+    "port": 7777
   },
   {
     "name": "[13SNC] #5 - Dirty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.206.52",
-    "port": 7777,
-    "removed": 1740550188
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -3145,7 +3144,8 @@
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "208.115.214.218",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740593346
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3297,10 +3297,9 @@
     "removed": 1740529823
   },
   {
-    "name": "Balkan Server - NEW PLAYERS WELCOME",
+    "name": "1.KBD Event Server",
     "addr": "213.136.88.87",
-    "port": 28300,
-    "removed": 1740443441
+    "port": 28300
   },
   {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
@@ -3492,12 +3491,14 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1740593346
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100
+    "port": 11100,
+    "removed": 1740593346
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -4496,6 +4497,11 @@
     "port": 8530
   },
   {
+    "name": "63rd Infantry Divsion [Recruiting Now][discord.gg/63rdid]",
+    "addr": "45.45.238.228",
+    "port": 8530
+  },
+  {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
     "port": 8530
@@ -4583,8 +4589,7 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1740529823
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -4662,9 +4667,15 @@
     "port": 9075
   },
   {
+    "name": "6th Recon Division [6RCN] NA-EAST",
+    "addr": "51.222.244.23",
+    "port": 9075
+  },
+  {
     "name": "6th Recon Division [6RCN] NA East",
     "addr": "51.222.248.105",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740593346
   },
   {
     "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
@@ -5155,24 +5166,24 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1740506970
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1740506970
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5412,7 +5423,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740593346
   },
   {
     "name": "HLL Official - Asia #05",
@@ -5537,7 +5549,7 @@
     "port": 28000
   },
   {
-    "name": "IRONSIDE GAMERS- NOOBS WELCOME-@IRONSIDEGAMERS",
+    "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
     "addr": "83.223.203.155",
     "port": 28000
   },
