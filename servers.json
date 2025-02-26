@@ -434,6 +434,11 @@
     "port": 8530
   },
   {
+    "name": "The Coalition | PH Server #2 | discord.gg/thecoalition",
+    "addr": "15.235.219.197",
+    "port": 9075
+  },
+  {
     "name": "CN2#深夜食堂的萌新小窝/EROS 节点HK or Singapore QQ:6",
     "addr": "15.235.225.173",
     "port": 10165
@@ -676,8 +681,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1740399112
+    "port": 9075
   },
   {
     "name": "The Draft [HAUS] |US EAST-FL| discord.gg/drafthaus",
@@ -2870,7 +2874,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1740533826
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3128,8 +3133,18 @@
     "port": 7787
   },
   {
+    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "208.115.214.218",
+    "port": 7777
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
+    "port": 7777
+  },
+  {
+    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
+    "addr": "208.115.214.220",
     "port": 7777
   },
   {
@@ -5123,8 +5138,7 @@
   {
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
     "addr": "79.141.174.122",
-    "port": 8530,
-    "removed": 1740529823
+    "port": 8530
   },
   {
     "name": "HLL Official - Asia #07",
@@ -5596,7 +5610,8 @@
   {
     "name": "Gaming Misfits|All levels|Admins online",
     "addr": "83.223.207.46",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740533826
   },
   {
     "name": "130.Panzer Lehr Division (USA-TX) https://discord.gg/VgwWbkHjNj",
