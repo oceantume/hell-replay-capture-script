@@ -253,8 +253,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1740550188
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -334,7 +333,8 @@
   {
     "name": "Wehrmacht Dev",
     "addr": "141.95.3.135",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740636576
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -1379,8 +1379,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1740550188
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #249",
@@ -1390,7 +1389,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740636576
   },
   {
     "name": "QA Testing - EU #04",
@@ -2254,7 +2254,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740636576
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2805,7 +2806,7 @@
     "port": 9075
   },
   {
-    "name": "slayersgam.ing | lvl 20+ peak hours | east",
+    "name": "bpendz  | NooB Friendly |  lvl 20+ peak hours",
     "addr": "194.140.197.175",
     "port": 30500
   },
@@ -2875,8 +2876,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740620222
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3088,8 +3088,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
-    "port": 7777,
-    "removed": 1740550188
+    "port": 7777
   },
   {
     "name": "[GER][ENG] Vanilla Maps Only",
@@ -3140,7 +3139,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740636576
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -3396,7 +3396,8 @@
   {
     "name": "StDb Event",
     "addr": "31.56.0.14",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740636576
   },
   {
     "name": "WTH Training Server",
