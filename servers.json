@@ -2875,7 +2875,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1740620222
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3012,6 +3013,11 @@
     "name": "#cn「JWH」哈基米萌新冲突服.q1020812925",
     "addr": "203.27.106.45",
     "port": 8888
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "205.209.105.250",
+    "port": 8530
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
@@ -3496,14 +3502,12 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1740593346
+    "port": 10700
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1740593346
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
