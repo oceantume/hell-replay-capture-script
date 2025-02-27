@@ -380,8 +380,7 @@
   {
     "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
     "addr": "145.239.253.127",
-    "port": 8772,
-    "removed": 1740660630
+    "port": 8772
   },
   {
     "name": "[CFr] Corps Franc FR ONLY - discord.gg/qYCgvDd",
@@ -2591,7 +2590,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740661491
   },
   {
     "name": "Ж | Helios - Event Server",
@@ -2611,7 +2611,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740661491
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2644,12 +2645,6 @@
     "addr": "192.169.89.18",
     "port": 8772,
     "removed": 1740658305
-  },
-  {
-    "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
-    "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1740056637
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -4520,7 +4515,8 @@
   {
     "name": "Greyhound Orange",
     "addr": "46.105.223.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740661491
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -4924,7 +4920,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740661491
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -4939,7 +4936,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740661491
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5718,7 +5716,8 @@
   {
     "name": "Greyhound Event",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1740661491
   },
   {
     "name": "Dark Horizon EU 1 | New Players Welcome | Discord.gg/dhz",
@@ -5905,6 +5904,11 @@
     "name": "CN1 MAX老B灯&喷火龙@JP Q群：258455568丨341807965",
     "addr": "89.46.1.190",
     "port": 7887
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.246.108.194",
+    "port": 7777
   },
   {
     "name": "cn3（EU） EROS/深夜食堂的萌新进阶强度服 QQ:686886",
