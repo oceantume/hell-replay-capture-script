@@ -2399,8 +2399,7 @@
   {
     "name": "BHB | CREATE & DESTROY | US EAST",
     "addr": "181.214.149.21",
-    "port": 8530,
-    "removed": 1740571925
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -3324,7 +3323,8 @@
   {
     "name": "[CN]NH^猫猫庇护所NekoHaven^日服Q群500001820",
     "addr": "216.144.245.82",
-    "port": 7797
+    "port": 7797,
+    "removed": 1740724781
   },
   {
     "name": "σ CHAD STUART'S [GTX] — discord.gg/chadfgf",
@@ -5174,182 +5174,152 @@
   {
     "name": "HLL Official - Asia #09",
     "addr": "83.223.197.160",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #14",
     "addr": "83.223.197.160",
-    "port": 28100,
-    "removed": 1740706649
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #19",
     "addr": "83.223.197.160",
-    "port": 28200,
-    "removed": 1740706649
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #26",
     "addr": "83.223.197.160",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #31",
     "addr": "83.223.197.160",
-    "port": 28400,
-    "removed": 1740706649
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #38",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1740706649
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #42",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1740706649
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #50",
     "addr": "83.223.197.160",
-    "port": 28700,
-    "removed": 1740706649
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #56",
     "addr": "83.223.197.160",
-    "port": 28800,
-    "removed": 1740706649
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #63",
     "addr": "83.223.197.160",
-    "port": 28900,
-    "removed": 1740706649
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #13",
     "addr": "83.223.197.168",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #17",
     "addr": "83.223.197.168",
-    "port": 28100,
-    "removed": 1740706649
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #21",
     "addr": "83.223.197.168",
-    "port": 28200,
-    "removed": 1740706649
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #30",
     "addr": "83.223.197.168",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #36",
     "addr": "83.223.197.168",
-    "port": 28400,
-    "removed": 1740706649
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #44",
     "addr": "83.223.197.168",
-    "port": 28500,
-    "removed": 1740706649
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #49",
     "addr": "83.223.197.168",
-    "port": 28600,
-    "removed": 1740706649
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #57",
     "addr": "83.223.197.168",
-    "port": 28700,
-    "removed": 1740706649
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #60",
     "addr": "83.223.197.168",
-    "port": 28800,
-    "removed": 1740706649
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #67",
     "addr": "83.223.197.168",
-    "port": 28900,
-    "removed": 1740706649
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #23",
     "addr": "83.223.197.170",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #25",
     "addr": "83.223.197.170",
-    "port": 28100,
-    "removed": 1740706649
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #27",
     "addr": "83.223.197.170",
-    "port": 28200,
-    "removed": 1740706649
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #29",
     "addr": "83.223.197.170",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #32",
     "addr": "83.223.197.170",
-    "port": 28400,
-    "removed": 1740706649
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #40",
     "addr": "83.223.197.170",
-    "port": 28500,
-    "removed": 1740706649
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #46",
     "addr": "83.223.197.170",
-    "port": 28600,
-    "removed": 1740706649
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #52",
     "addr": "83.223.197.170",
-    "port": 28700,
-    "removed": 1740706649
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #61",
     "addr": "83.223.197.170",
-    "port": 28800,
-    "removed": 1740706649
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #65",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1740706649
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #70",
@@ -5369,38 +5339,32 @@
   {
     "name": "HLL Official - Asia #69",
     "addr": "83.223.197.57",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #51",
     "addr": "83.223.197.57",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.57",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #66",
     "addr": "83.223.197.58",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #47",
     "addr": "83.223.197.58",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.58",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #62",
@@ -5423,20 +5387,17 @@
   {
     "name": "HLL Official - Asia #64",
     "addr": "83.223.197.67",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #33",
     "addr": "83.223.197.67",
-    "port": 28100,
-    "removed": 1740706649
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.67",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -5502,20 +5463,17 @@
   {
     "name": "日本人応援サーバー、JP、JAPAN、JPN https://discord.",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK QQ群1017723887",
     "addr": "83.223.197.89",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "The Proving Grounds | 2nd Armored - Hell on Wheels",
