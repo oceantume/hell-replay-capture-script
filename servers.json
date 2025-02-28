@@ -1389,14 +1389,12 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1740744689
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300,
-    "removed": 1740744689
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -2854,7 +2852,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1740745726
   },
   {
     "name": "Kommando Hummel",
@@ -2865,7 +2864,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1740745726
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3501,12 +3501,14 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1740745726
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100
+    "port": 11100,
+    "removed": 1740745726
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -4652,12 +4654,6 @@
     "port": 9075
   },
   {
-    "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
-    "addr": "51.195.63.188",
-    "port": 8530,
-    "removed": 1740139898
-  },
-  {
     "name": "#1 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "51.195.88.43",
     "port": 8530,
@@ -4703,12 +4699,6 @@
     "name": "[ENG/PL] Skibidi Wermacht Gaming/Patric Texas",
     "addr": "51.75.58.124",
     "port": 7777
-  },
-  {
-    "name": "[5CITY #3] [PL/ENG] BITWA POD FÜNFSTADT discord.gg/5cityhll",
-    "addr": "51.75.58.125",
-    "port": 7777,
-    "removed": 1740139898
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -5008,7 +4998,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740745726
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
