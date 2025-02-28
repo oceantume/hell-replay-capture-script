@@ -77,158 +77,132 @@
   {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
-    "port": 28000,
-    "removed": 1740704283
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #04",
     "addr": "103.97.52.158",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "HLL Official - Japan #08",
     "addr": "103.97.52.158",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #13",
     "addr": "103.97.52.158",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #19",
     "addr": "103.97.52.158",
-    "port": 28400,
-    "removed": 1740706649
+    "port": 28400
   },
   {
     "name": "HLL Official - Japan #21",
     "addr": "103.97.52.158",
-    "port": 28500,
-    "removed": 1740704283
+    "port": 28500
   },
   {
     "name": "HLL Official - Japan #26",
     "addr": "103.97.52.158",
-    "port": 28600,
-    "removed": 1740704283
+    "port": 28600
   },
   {
     "name": "HLL Official - Japan #03",
     "addr": "103.97.52.159",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #10",
     "addr": "103.97.52.159",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "HLL Official - Japan #14",
     "addr": "103.97.52.159",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #23",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1740706649
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #29",
     "addr": "103.97.52.159",
-    "port": 28400,
-    "removed": 1740704283
+    "port": 28400
   },
   {
     "name": "HLL Official - Japan #05",
     "addr": "103.97.52.160",
-    "port": 28000,
-    "removed": 1740704283
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #07",
     "addr": "103.97.52.160",
-    "port": 28100,
-    "removed": 1740704283
+    "port": 28100
   },
   {
     "name": "HLL Official - Japan #09",
     "addr": "103.97.52.160",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #16",
     "addr": "103.97.52.160",
-    "port": 28300,
-    "removed": 1740704283
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #18",
     "addr": "103.97.52.160",
-    "port": 28400,
-    "removed": 1740704283
+    "port": 28400
   },
   {
     "name": "HLL Official - Japan #24",
     "addr": "103.97.52.160",
-    "port": 28500,
-    "removed": 1740706649
+    "port": 28500
   },
   {
     "name": "HLL Official - Japan #30",
     "addr": "103.97.52.160",
-    "port": 28600,
-    "removed": 1740704283
+    "port": 28600
   },
   {
     "name": "HLL Official - Japan #06",
     "addr": "103.97.52.175",
-    "port": 28000,
-    "removed": 1740706649
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #11",
     "addr": "103.97.52.175",
-    "port": 28100,
-    "removed": 1740706649
+    "port": 28100
   },
   {
     "name": "HLL Official - Japan #12",
     "addr": "103.97.52.175",
-    "port": 28200,
-    "removed": 1740704283
+    "port": 28200
   },
   {
     "name": "HLL Official - Japan #15",
     "addr": "103.97.52.175",
-    "port": 28300,
-    "removed": 1740704283
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #20",
     "addr": "103.97.52.175",
-    "port": 28400,
-    "removed": 1740706649
+    "port": 28400
   },
   {
     "name": "HLL Official - Japan #27",
     "addr": "103.97.52.175",
-    "port": 28500,
-    "removed": 1740704283
+    "port": 28500
   },
   {
     "name": "HLL Official - Japan #28",
     "addr": "103.97.52.175",
-    "port": 28600,
-    "removed": 1740706649
+    "port": 28600
   },
   {
     "name": "Man !",
@@ -502,12 +476,14 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/l-igloo [IGL] FRENCH speaking only",
     "addr": "152.228.223.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740722969
   },
   {
     "name": "[FR] Chiens De La Casse - Bonne ambiance de rigueur !",
@@ -557,7 +533,8 @@
   {
     "name": "taogun228",
     "addr": "156.146.44.225",
-    "port": 7827
+    "port": 7827,
+    "removed": 1740722969
   },
   {
     "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
@@ -1404,8 +1381,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1740636576
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -2264,8 +2240,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1740636576
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2506,17 +2481,20 @@
   {
     "name": "Desert Ratz Event Server!",
     "addr": "185.206.151.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.206.151.114",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740722969
   },
   {
     "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
     "addr": "185.206.151.30",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "HLL Server",
@@ -2548,7 +2526,8 @@
   {
     "name": "[ITA/EU/ENG] PizzaLetLoose | VOTEMAP AVAILABLE! | https://disco",
     "addr": "188.64.33.118",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -2828,7 +2807,8 @@
   {
     "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
     "addr": "194.164.96.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "[FR | LPP] Le Peloton Perdu",
@@ -2839,7 +2819,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1740722969
   },
   {
     "name": "per aspera ad astra",
@@ -2849,7 +2830,8 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740722969
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -2864,7 +2846,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren  [Omen]",
     "addr": "195.181.175.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740722969
   },
   {
     "name": "[GER] eXiTe-Gaming XP",
@@ -2880,8 +2863,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1740706649
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2901,12 +2883,14 @@
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "Squeedy's Sauna - Warfare & Offensive",
     "addr": "198.244.254.14",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL 2 / Event - (Dallas) - discord.gg",
@@ -3144,7 +3128,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740722969
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -3405,8 +3390,7 @@
   {
     "name": "StDb Event",
     "addr": "31.56.0.14",
-    "port": 7777,
-    "removed": 1740636576
+    "port": 7777
   },
   {
     "name": "WTH Training Server",
@@ -3512,14 +3496,12 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1740679752
+    "port": 10700
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1740679752
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -4500,12 +4482,14 @@
   {
     "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) https://discord.gg/ragem",
     "addr": "45.143.198.25",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "45.143.198.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
@@ -4657,12 +4641,14 @@
   {
     "name": "BROTHERHOOD.LV  EUROPE #1",
     "addr": "51.195.176.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "CZ/SK svet",
     "addr": "51.195.176.120",
-    "port": 9075
+    "port": 9075,
+    "removed": 1740722969
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -4757,7 +4743,8 @@
   {
     "name": "  #1 [GLL] GOOSE LET LOOSE - Low Ping",
     "addr": "51.89.152.177",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
@@ -4817,32 +4804,38 @@
   {
     "name": "0+UTC Server | UK | IE | PT |",
     "addr": "57.128.188.198",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740722969
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding ",
     "addr": "57.128.229.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740722969
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740722969
   },
   {
     "name": "PL/ENG ♦ PZJR PTFO Polski Spocony Serwer #5 ♦ LVL 25+",
     "addr": "57.128.229.70",
-    "port": 7797
+    "port": 7797,
+    "removed": 1740722969
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7807
+    "port": 7807,
+    "removed": 1740722969
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1740722969
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
@@ -5022,7 +5015,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740722969
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5130,10 +5124,9 @@
     "port": 8530
   },
   {
-    "name": "BWCC #2 | EU/ENG | discord.gg/BWCC",
+    "name": "BWCC #2 [old] | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
-    "port": 8530,
-    "removed": 1740226193
+    "port": 8530
   },
   {
     "name": "defused",
@@ -5605,7 +5598,8 @@
   {
     "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740722969
   },
   {
     "name": "HLL Official - US East #79",
