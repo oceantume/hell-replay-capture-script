@@ -3108,7 +3108,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL 2 / Event - (Dallas) - discord.gg",
     "addr": "198.37.123.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740790950
   },
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
@@ -3322,7 +3323,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.206.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740790950
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -3705,6 +3707,11 @@
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
     "port": 7907
+  },
+  {
+    "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
+    "addr": "31.56.0.97",
+    "port": 7777
   },
   {
     "name": "       [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY |QS| OINK",
@@ -5222,7 +5229,8 @@
   {
     "name": "BadgerGrounds - West Mongolia With Stats",
     "addr": "64.31.28.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740790950
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
