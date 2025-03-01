@@ -287,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -515,7 +515,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#6 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "name": "<CN>#6 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -535,7 +535,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#7 TT天堂萌新俱乐部 （纯冲突）Q群：578097070",
+    "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7837
   },
@@ -615,7 +615,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose Rekabetçi Etkinlik - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -638,8 +638,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1740831025
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1032,8 +1031,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1740766142
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1043,8 +1041,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1740593346
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2571,7 +2568,7 @@
     "port": 7777
   },
   {
-    "name": "🆄ranium Chile |HLL Latam| Únete discord.gg/EAHmsUbxJ",
+    "name": "🆄ranium Chile |HLL Latam| Únete discord.gg/F3Z3YuaD",
     "addr": "177.54.147.141",
     "port": 7797
   },
@@ -2919,8 +2916,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1740831025
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3142,7 +3138,8 @@
   {
     "name": "「CZS」Super prime  training server",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1740852468
   },
   {
     "name": "「JWH」哈基米白袜攻防服.JP.q1020812925",
@@ -3155,7 +3152,7 @@
     "port": 8918
   },
   {
-    "name": "#cn「JWH」哈基米萌新冲突服.q102081292",
+    "name": "「JWH」哈基米萌新冲突服.JP.q1020812925",
     "addr": "203.10.98.41",
     "port": 8928
   },
@@ -3254,12 +3251,6 @@
     "removed": 1740312611
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
-    "addr": "208.115.206.190",
-    "port": 7797,
-    "removed": 1740247648
-  },
-  {
     "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "208.115.206.194",
     "port": 7777,
@@ -3298,7 +3289,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3337,12 +3328,6 @@
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
-  },
-  {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
-    "addr": "208.115.206.85",
-    "port": 7777,
-    "removed": 1740247648
   },
   {
     "name": "[GER] {WoA} World of Asgard 2",
@@ -3516,7 +3501,8 @@
   {
     "name": "1.KBD Event Server",
     "addr": "213.136.88.87",
-    "port": 28300
+    "port": 28300,
+    "removed": 1740852468
   },
   {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
@@ -3537,6 +3523,11 @@
     "name": "[ESP]  Clan VOid - Def Con 2 -  https://discord.gg/CNFbKHjF",
     "addr": "213.136.94.160",
     "port": 28100
+  },
+  {
+    "name": "1.KBD Event Server",
+    "addr": "213.136.94.160",
+    "port": 28300
   },
   {
     "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
@@ -3717,7 +3708,7 @@
     "port": 7907
   },
   {
-    "name": "[CN][水晶枢纽CNC]|日服节点|无400规|Q群665327895",
+    "name": "[CN][水晶枢纽CNC]|日服节点|攻防冲突轮换|无400规",
     "addr": "31.56.0.81",
     "port": 7917
   },
@@ -3755,7 +3746,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1740852468
   },
   {
     "name": "HLL Official - Japan #17",
@@ -5163,12 +5155,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "63.143.62.91",
-    "port": 7797,
-    "removed": 1740247648
-  },
-  {
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.93",
     "port": 7797
@@ -5483,7 +5469,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740852468
   },
   {
     "name": "HLL Official - Asia #01",
@@ -6171,7 +6158,7 @@
     "port": 28200
   },
   {
-    "name": "<CN>#4 TT天堂萌新俱乐部（美军进攻）Q群：79746498",
+    "name": "<CN>#4 TT天堂萌新俱乐部（美军进攻）Q群:797464980",
     "addr": "89.46.1.190",
     "port": 7177
   },
