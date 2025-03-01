@@ -312,7 +312,7 @@
     "port": 9075
   },
   {
-    "name": "RUS EG Русский CEPBEP| VIP for SEED | eghll.ru",
+    "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -506,7 +506,8 @@
   {
     "name": "CN2HK# FJ 包子の男同俱乐部Q群:1029886683",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740831025
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -534,7 +535,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
+    "name": "<CN>#7 TT天堂萌新俱乐部 （纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
     "port": 7837
   },
@@ -567,12 +568,6 @@
     "name": "[EU] TSK Europe #1 | BEST ELO & STATS - TSKHLL.COM",
     "addr": "159.69.226.137",
     "port": 7777
-  },
-  {
-    "name": "test server",
-    "addr": "159.69.226.140",
-    "port": 7777,
-    "removed": 1740226193
   },
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -643,7 +638,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1740831025
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -2923,7 +2919,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740831025
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3119,7 +3116,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1740831025
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -3137,10 +3135,9 @@
     "port": 8918
   },
   {
-    "name": "CN【FJ】训练服/JP/战队招人加Q群910091562",
+    "name": "#「JWH」what can i say",
     "addr": "203.10.98.103",
-    "port": 8888,
-    "removed": 1740766142
+    "port": 8888
   },
   {
     "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
@@ -3585,7 +3582,8 @@
   {
     "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "31.56.0.104",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740831025
   },
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
@@ -4821,14 +4819,12 @@
   {
     "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
-    "port": 8530,
-    "removed": 1740812201
+    "port": 8530
   },
   {
     "name": "63rd Infantry Divsion [Recruiting Now][discord.gg/63rdid]",
     "addr": "45.45.238.228",
-    "port": 8530,
-    "removed": 1740812201
+    "port": 8530
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
@@ -5265,8 +5261,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1740810226
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5306,7 +5301,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740831025
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5427,7 +5423,8 @@
   {
     "name": "[SAF] (level 20+, mic/voice, english) - New player friendly!",
     "addr": "79.127.249.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740831025
   },
   {
     "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
@@ -5819,8 +5816,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1740571925
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
@@ -5848,8 +5844,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1740399112
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
