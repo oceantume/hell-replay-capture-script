@@ -3140,6 +3140,16 @@
     "port": 8888
   },
   {
+    "name": "#cn「JWH」哈基米萌新冲突服.JP.q1020812925",
+    "addr": "203.10.98.41",
+    "port": 8888
+  },
+  {
+    "name": "「JWH」哈基米白袜攻防服.JP.q1020812925",
+    "addr": "203.10.98.41",
+    "port": 8908
+  },
+  {
     "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
     "addr": "203.10.98.41",
     "port": 8918
@@ -3705,6 +3715,11 @@
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
     "port": 7907
+  },
+  {
+    "name": "[CN][水晶枢纽CNC]|日服节点|无400规|Q群665327895",
+    "addr": "31.56.0.81",
+    "port": 7917
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -5301,8 +5316,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1740831025
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
