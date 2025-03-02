@@ -259,8 +259,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1740895719
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -314,7 +313,7 @@
     "removed": 1740896622
   },
   {
-    "name": "RUS EG Русский CEPBEP| VIP for SEED | eghll.ru",
+    "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -528,7 +527,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部（投票地图）Q群：57809707",
+    "name": "<CN>#1 TT天堂萌新俱乐部（投票地图）Q群:578097070",
     "addr": "156.146.44.225",
     "port": 7817
   },
@@ -641,7 +640,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1740917406
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1857,8 +1857,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1740895719
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1942,8 +1941,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1740896622
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -2806,7 +2804,8 @@
   {
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740917406
   },
   {
     "name": "[MEXICO][LATAM] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
@@ -2847,7 +2846,8 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740917406
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -2919,7 +2919,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1740917406
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3288,7 +3289,8 @@
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740917406
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
@@ -3308,7 +3310,8 @@
   {
     "name": "[13SNC] #5 - Dirty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.206.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740917406
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -3583,6 +3586,11 @@
     "port": 9075
   },
   {
+    "name": "[13SNC] #5 - Dirty's Daycare - NEW PLAYERS WELCOME!",
+    "addr": "31.56.0.10",
+    "port": 7777
+  },
+  {
     "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
     "addr": "31.56.0.104",
     "port": 7777,
@@ -3614,6 +3622,11 @@
     "port": 7777
   },
   {
+    "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
+    "addr": "31.56.0.14",
+    "port": 7787
+  },
+  {
     "name": "WTH Training Server",
     "addr": "31.56.0.15",
     "port": 7787
@@ -3636,6 +3649,16 @@
   {
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "31.56.0.37",
+    "port": 7787
+  },
+  {
+    "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
+    "addr": "31.56.0.7",
+    "port": 7777
+  },
+  {
+    "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
+    "addr": "31.56.0.7",
     "port": 7787
   },
   {
@@ -4862,7 +4885,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1740917406
   },
   {
     "name": "       [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
@@ -5268,8 +5292,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1740895719
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -5824,13 +5847,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1740917406
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1740571925
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
@@ -5852,7 +5875,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1740917406
   },
   {
     "name": "DevQA - US #03",
@@ -5862,8 +5886,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1740571925
+    "port": 28200
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -6009,7 +6032,8 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "85.208.197.66",
-    "port": 7787
+    "port": 7787,
+    "removed": 1740917406
   },
   {
     "name": "hll Server",
@@ -6029,7 +6053,8 @@
   {
     "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
     "addr": "85.208.197.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740917406
   },
   {
     "name": "[GER] Λ • TAURUS #4 | Level 50+ | discord.gg/taurus",
@@ -6289,7 +6314,8 @@
   {
     "name": "HLL-ESP (ONLY SPANISH)  // https://discord.gg/7vT6ZPWGAh",
     "addr": "92.118.16.134",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740917406
   },
   {
     "name": "Excel Spreadsheets",
