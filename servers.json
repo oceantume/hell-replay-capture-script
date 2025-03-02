@@ -2610,6 +2610,11 @@
     "port": 8772
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "181.214.149.21",
+    "port": 9075
+  },
+  {
     "name": "《COBRAS FUMANTES》MARRAM #1 discord.gg/cobrasfumantes",
     "addr": "181.214.221.212",
     "port": 7777
@@ -2820,7 +2825,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "192.169.88.50",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740941252
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -3609,7 +3615,8 @@
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
     "addr": "31.56.0.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740941252
   },
   {
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
@@ -5296,8 +5303,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1740940656
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
