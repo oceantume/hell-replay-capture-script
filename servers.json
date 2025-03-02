@@ -3064,8 +3064,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1740898031
+    "port": 20500
   },
   {
     "name": "Kommando Hummel",
@@ -3421,8 +3420,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1740898031
+    "port": 7777
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -5311,7 +5309,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740898570
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
