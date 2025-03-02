@@ -540,8 +540,7 @@
   {
     "name": "<CN>#7 TT天堂萌新俱乐部 （随机图）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1740897446
+    "port": 7837
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -3065,7 +3064,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1740898031
   },
   {
     "name": "Kommando Hummel",
@@ -3421,7 +3421,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1740898031
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -4955,6 +4956,11 @@
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
     "port": 8530
+  },
+  {
+    "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
+    "addr": "51.161.197.24",
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
