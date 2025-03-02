@@ -2818,6 +2818,11 @@
     "removed": 1740616221
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "192.169.88.50",
+    "port": 8530
+  },
+  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -6221,7 +6226,8 @@
   {
     "name": "cn3（EU） EROS/深夜食堂的萌新进阶强度服 QQ:686886",
     "addr": "91.134.4.54",
-    "port": 8530
+    "port": 8530,
+    "removed": 1740939792
   },
   {
     "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
