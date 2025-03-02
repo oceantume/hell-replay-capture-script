@@ -1679,12 +1679,6 @@
     "port": 28400
   },
   {
-    "name": "jeff's server",
-    "addr": "176.57.168.69",
-    "port": 28500,
-    "removed": 1740312611
-  },
-  {
     "name": "[3IRD] Ukrainian Skirmish Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.168.91",
     "port": 28000
@@ -2731,12 +2725,6 @@
     "port": 7877
   },
   {
-    "name": "LTCOM LT",
-    "addr": "188.40.124.108",
-    "port": 8530,
-    "removed": 1740312611
-  },
-  {
     "name": "[ITA/EU/ENG] PizzaLetLoose | VOTEMAP AVAILABLE! | https://disco",
     "addr": "188.64.33.118",
     "port": 8530
@@ -3248,18 +3236,6 @@
     "port": 7777
   },
   {
-    "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
-    "addr": "208.115.206.188",
-    "port": 7777,
-    "removed": 1740312611
-  },
-  {
-    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
-    "addr": "208.115.206.194",
-    "port": 7777,
-    "removed": 1740312611
-  },
-  {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
     "port": 7777
@@ -3406,7 +3382,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -4885,8 +4861,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1740917406
+    "port": 7807
   },
   {
     "name": "       [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS| OINK OINK",
