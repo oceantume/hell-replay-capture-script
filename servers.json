@@ -2815,8 +2815,7 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787,
-    "removed": 1740961937
+    "port": 7787
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -3089,7 +3088,7 @@
     "port": 8530
   },
   {
-    "name": "[BR1] BR1 Gaming Event Server - discord.gg/br1",
+    "name": "[BR1] BR1 Gaming Event Server (Dallas) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
   },
