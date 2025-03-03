@@ -575,7 +575,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.30",
-    "port": 8888
+    "port": 8888,
+    "removed": 1741026281
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -632,12 +633,6 @@
     "addr": "169.150.238.99",
     "port": 7777,
     "removed": 1741003911
-  },
-  {
-    "name": "2nd Armored | WARFARE ONLY | discord.gg/2ad",
-    "addr": "172.93.104.218",
-    "port": 8530,
-    "removed": 1740420556
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -1434,12 +1429,6 @@
     "name": "Koalaz Gaming | GER/EN Mic | Active Admins",
     "addr": "176.57.168.174",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.174",
-    "port": 28300,
-    "removed": 1740420556
   },
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
@@ -3515,12 +3504,6 @@
     "addr": "213.136.94.160",
     "port": 28300,
     "removed": 1740938890
-  },
-  {
-    "name": "PL/ENG  Polski Serwer ALIEN_pl_ twitch",
-    "addr": "213.136.94.160",
-    "port": 28400,
-    "removed": 1740420556
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
