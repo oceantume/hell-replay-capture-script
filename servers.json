@@ -1919,7 +1919,8 @@
   {
     "name": "[ESP]Servidor RP--Comunidad de habla Hispana--TODOS BIENVENIDOS",
     "addr": "176.57.171.44",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741028279
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
@@ -4830,8 +4831,7 @@
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
-    "port": 8530,
-    "removed": 1741027742
+    "port": 8530
   },
   {
     "name": "Greyhound Event",
