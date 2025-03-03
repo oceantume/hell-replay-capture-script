@@ -574,6 +574,11 @@
   },
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "160.202.167.27",
+    "port": 8888
+  },
+  {
+    "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.30",
     "port": 8888,
     "removed": 1741026281
@@ -1919,8 +1924,7 @@
   {
     "name": "[ESP]Servidor RP--Comunidad de habla Hispana--TODOS BIENVENIDOS",
     "addr": "176.57.171.44",
-    "port": 28200,
-    "removed": 1741028279
+    "port": 28200
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
@@ -3058,7 +3062,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1741028958
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3722,7 +3727,8 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1741028958
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
@@ -4831,7 +4837,8 @@
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741028958
   },
   {
     "name": "Greyhound Event",
@@ -4976,7 +4983,8 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741028958
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -5875,7 +5883,8 @@
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741028958
   },
   {
     "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
@@ -6305,7 +6314,8 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1741028958
   },
   {
     "name": "LOW.MS Testing",
