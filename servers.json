@@ -25,6 +25,11 @@
     "port": 8530
   },
   {
+    "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
+    "addr": "103.193.80.149",
+    "port": 8530
+  },
+  {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
     "port": 7807
@@ -32,7 +37,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1741111761
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -259,8 +265,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1741068570
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -288,7 +293,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -429,7 +434,8 @@
   {
     "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741111761
   },
   {
     "name": "The Coalition | PH Server #2 | discord.gg/thecoalition",
@@ -568,7 +574,7 @@
     "port": 7937
   },
   {
-    "name": "[EU] TSK Europe #1 | RANKED - TSKHLL.COM | Discord.gg/TSKHLL",
+    "name": "[TR] TSK ONE LIFE SUNUCUSU | Discord.gg/TSKHLL",
     "addr": "159.69.226.137",
     "port": 7777
   },
@@ -641,8 +647,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1741090315
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1045,8 +1050,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200,
-    "removed": 1741025336
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -2086,8 +2090,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.173.119",
-    "port": 28000,
-    "removed": 1741090315
+    "port": 28000
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -2375,7 +2378,7 @@
     "port": 28000
   },
   {
-    "name": "Chessie <3 Simp ",
+    "name": "Chessie Playground",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -2555,7 +2558,8 @@
   {
     "name": "BALLERBUDE [mic only]",
     "addr": "176.9.121.214",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741111761
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
@@ -2613,7 +2617,7 @@
     "port": 7797
   },
   {
-    "name": "BHB Create & Destroy",
+    "name": "Helios Create & Destroy",
     "addr": "181.214.149.21",
     "port": 8530
   },
@@ -2818,8 +2822,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1741093503
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2829,8 +2832,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1741093503
+    "port": 7777
   },
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
@@ -2943,7 +2945,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -3285,7 +3287,7 @@
     "removed": 1740917406
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3601,7 +3603,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -3611,7 +3613,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -3636,15 +3638,14 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "31.56.0.33",
-    "port": 7797,
-    "removed": 1741093503
+    "port": 7797
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -4914,6 +4915,11 @@
     "port": 28200
   },
   {
+    "name": "[GER] Die Zockerbude -  https://discord.gg/kk6mHQHZhF",
+    "addr": "5.189.130.178",
+    "port": 28400
+  },
+  {
     "name": "[GER] Willkommen in der Hölle / Only Mic / Anfängerfreundlich",
     "addr": "5.189.130.178",
     "port": 29000,
@@ -4931,7 +4937,7 @@
     "removed": 1740961937
   },
   {
-    "name": "[GER+Mic] 100. Jager-Division",
+    "name": "[GER+Mic] BündnisServer der KL/TP/100.",
     "addr": "5.189.132.77",
     "port": 28200
   },
@@ -4986,7 +4992,8 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.197.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741111761
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -5260,8 +5267,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1741093503
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -5276,8 +5282,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1741093503
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5358,7 +5363,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741111761
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5516,23 +5522,25 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741111761
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741111761
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741111761
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1741025336
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5793,8 +5801,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000,
-    "removed": 1741025336
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #04",
@@ -5859,7 +5866,8 @@
   {
     "name": "日本人応援サーバー、JP、JAPAN、JPN https://discord.",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741111761
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
@@ -6293,7 +6301,8 @@
   {
     "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "91.134.4.54",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741111761
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
