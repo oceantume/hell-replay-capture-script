@@ -2880,14 +2880,12 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1741048237
+    "port": 7877
   },
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777,
-    "removed": 1741048237
+    "port": 7777
   },
   {
     "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
@@ -3062,7 +3060,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1741052271
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -5284,8 +5283,7 @@
   {
     "name": "Fire For Effect [FFE] - S2 - New Players Welcome! - FFECREW.COM",
     "addr": "64.31.53.182",
-    "port": 7577,
-    "removed": 1741048237
+    "port": 7577
   },
   {
     "name": "AS YT",
