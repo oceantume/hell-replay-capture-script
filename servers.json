@@ -2586,7 +2586,7 @@
     "port": 7867
   },
   {
-    "name": "[LATAM/ARG] #3 Paradox Empire | discord.gg/paradoxempire",
+    "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
     "port": 7887
   },
@@ -2618,7 +2618,8 @@
   {
     "name": "Helios Create & Destroy",
     "addr": "181.214.149.21",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741113598
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -3761,8 +3762,7 @@
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1741112701
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -5357,8 +5357,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1741111761
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -6441,7 +6440,8 @@
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "92.38.151.86",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741113598
   },
   {
     "name": "A. HHL(Brazil)SUL AMERICA https://discord.gg/H3nx7PzvUV",
