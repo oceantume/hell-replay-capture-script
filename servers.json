@@ -37,8 +37,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1741111761
+    "port": 7807
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -3762,7 +3761,8 @@
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100
+    "port": 11100,
+    "removed": 1741112701
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -4973,12 +4973,6 @@
     "removed": 1740961937
   },
   {
-    "name": "[GER] Sancheez Community| Mic Only!",
-    "addr": "5.9.150.142",
-    "port": 9075,
-    "removed": 1740506970
-  },
-  {
     "name": "CZ & SK | #4 | VLK @ valkyriahll.cz",
     "addr": "5.9.150.142",
     "port": 9620,
@@ -5476,12 +5470,6 @@
     "name": "BWCC #2 [old] | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
     "port": 8530
-  },
-  {
-    "name": "defused",
-    "addr": "78.46.59.147",
-    "port": 9075,
-    "removed": 1740506970
   },
   {
     "name": "[SAF] (level 20+, mic/voice, english) - New player friendly!",
