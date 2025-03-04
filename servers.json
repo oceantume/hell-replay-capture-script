@@ -259,7 +259,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1741068570
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -1075,7 +1076,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1741068570
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -2425,8 +2427,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.181.209",
-    "port": 28000,
-    "removed": 1740982222
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2574,6 +2575,11 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL #2",
     "addr": "177.54.147.141",
     "port": 7867
+  },
+  {
+    "name": "Paradox Empire 2",
+    "addr": "177.54.147.141",
+    "port": 7887
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -3060,8 +3066,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1741052271
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3321,7 +3326,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741068570
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -3668,7 +3674,8 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817
+    "port": 7817,
+    "removed": 1741068570
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -5294,7 +5301,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741068570
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
