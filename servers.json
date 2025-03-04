@@ -3247,7 +3247,8 @@
   {
     "name": "[GER] [404] skill not found | Wir rekrutieren! | Mic Only",
     "addr": "208.115.206.196",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741049894
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -3604,6 +3605,11 @@
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
     "addr": "31.56.0.14",
     "port": 7787
+  },
+  {
+    "name": "[GER] [404] skill not found | Wir rekrutieren! | Mic Only",
+    "addr": "31.56.0.15",
+    "port": 7777
   },
   {
     "name": "WTH Training Server",
@@ -5284,7 +5290,8 @@
   {
     "name": "AS YT",
     "addr": "64.31.54.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741049894
   },
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
