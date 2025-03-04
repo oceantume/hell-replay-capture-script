@@ -2438,8 +2438,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1741091369
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #22",
@@ -5354,7 +5353,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741092641
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -6213,7 +6213,7 @@
     "port": 7177
   },
   {
-    "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
+    "name": "<CN>#5 TT天堂[纯攻防]免费办卡抽VIP！Q群：578097070",
     "addr": "89.46.1.190",
     "port": 7287
   },
