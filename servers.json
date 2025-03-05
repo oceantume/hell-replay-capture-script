@@ -293,7 +293,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -647,8 +647,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1741176701
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -663,7 +662,8 @@
   {
     "name": "An RP Server ",
     "addr": "172.93.105.158",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741198160
   },
   {
     "name": "ZGaming Servers - DOSEKAI CTM ENTRA ACA",
@@ -1040,8 +1040,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1741025336
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1924,7 +1923,7 @@
     "removed": 1740658305
   },
   {
-    "name": "(OW) Odins Wolf´s Clan  Public und Clan Server (GER)",
+    "name": "(GER) Odins Wikinger  Wir Rekrutieren !| discord.gg/3s4G3vsQAt",
     "addr": "176.57.171.44",
     "port": 28100
   },
@@ -2732,7 +2731,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741198160
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2827,8 +2827,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1741179915
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2838,8 +2837,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1741179915
+    "port": 7777
   },
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
@@ -3027,12 +3025,6 @@
     "port": 8530
   },
   {
-    "name": "[FR | LPP] Le Peloton Perdu",
-    "addr": "195.140.215.56",
-    "port": 8530,
-    "removed": 1740593346
-  },
-  {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
     "port": 7877
@@ -3139,7 +3131,7 @@
     "removed": 1740852468
   },
   {
-    "name": "「JWH」哈基米白袜攻防服.JP.q1020812925",
+    "name": "CN2「JWH」哈基米冲突服JP.q1020812925",
     "addr": "203.10.98.41",
     "port": 8908
   },
@@ -3149,7 +3141,7 @@
     "port": 8918
   },
   {
-    "name": "「JWH」哈基米萌新冲突服.JP.q1020812925",
+    "name": "cn1「JWH」哈基米萌新冲突服JP.q1020812925",
     "addr": "203.10.98.41",
     "port": 8928
   },
@@ -3270,7 +3262,7 @@
     "removed": 1740917406
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3325,12 +3317,6 @@
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
     "port": 7787
-  },
-  {
-    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
-    "addr": "208.115.214.218",
-    "port": 7777,
-    "removed": 1740593346
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3617,8 +3603,7 @@
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "31.56.0.33",
-    "port": 7797,
-    "removed": 1741179915
+    "port": 7797
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
@@ -4996,12 +4981,6 @@
     "port": 9075
   },
   {
-    "name": "6th Recon Division [6RCN] NA East",
-    "addr": "51.222.248.105",
-    "port": 8530,
-    "removed": 1740593346
-  },
-  {
     "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
@@ -5252,8 +5231,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1741179915
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5334,8 +5312,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1741179915
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -5467,7 +5444,8 @@
   {
     "name": "[FR Only] Régiment Des Lames d'Acier | Discord : https://disco",
     "addr": "79.137.89.136",
-    "port": 10165
+    "port": 10165,
+    "removed": 1741198160
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
@@ -5492,25 +5470,23 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1741111761
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1741111761
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1741111761
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741198160
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5771,12 +5747,14 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741198160
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741198160
   },
   {
     "name": "HLL Official - Asia #05",
@@ -5858,8 +5836,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1741090315
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
