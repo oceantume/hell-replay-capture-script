@@ -944,8 +944,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100,
-    "removed": 1741176701
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -1397,8 +1396,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1741176701
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #219",
@@ -1429,8 +1427,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200,
-    "removed": 1741176701
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #250",
@@ -1477,8 +1474,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100,
-    "removed": 1741176701
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
@@ -1493,8 +1489,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1741176701
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #12",
@@ -2351,8 +2346,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1741176701
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -2363,8 +2357,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1741176701
+    "port": 28200
   },
   {
     "name": "{SPECIALSERVER}",
@@ -2452,8 +2445,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1741176701
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #22",
@@ -3419,12 +3411,6 @@
     "port": 7777
   },
   {
-    "name": "! [TBG] SEASONED SOLDIERS | LVL 25+ | DISCORD.GG/TBGCLAN | RECR",
-    "addr": "208.115.250.5",
-    "port": 7787,
-    "removed": 1740571925
-  },
-  {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -3448,12 +3434,6 @@
     "name": "[ESP]MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA [PVP] [discord.gg",
     "addr": "213.136.80.177",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "213.136.80.177",
-    "port": 28100,
-    "removed": 1740571925
   },
   {
     "name": "mmmeo",
