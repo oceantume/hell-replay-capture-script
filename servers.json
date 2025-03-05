@@ -249,7 +249,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741154983
   },
   {
     "name": "HLL Official - Russia #02",
@@ -437,7 +438,7 @@
     "removed": 1741111761
   },
   {
-    "name": "The Coalition | PH Server #2 | discord.gg/thecoalition",
+    "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
   },
@@ -463,7 +464,7 @@
     "removed": 1740895719
   },
   {
-    "name": "The Coalition | PH Server #1 | discord.gg/thecoalition",
+    "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
     "port": 8530
   },
@@ -1558,7 +1559,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » Votemap",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741154983
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1933,7 +1935,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741154983
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -2348,7 +2351,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741154983
   },
   {
     "name": "QA Testing - EU #05",
@@ -3069,8 +3073,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1741138671
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -3330,7 +3333,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741154983
   },
   {
     "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -5396,6 +5400,11 @@
     "port": 9075
   },
   {
+    "name": "Machine Soldiers Event Server | US EAST",
+    "addr": "66.45.244.162",
+    "port": 9075
+  },
+  {
     "name": "D2 - Damned Defiants [Lvl 50+] [US] [MIC REQ] Discord.gg/FvdhNt",
     "addr": "67.211.208.154",
     "port": 8530
@@ -5940,7 +5949,7 @@
     "port": 28300
   },
   {
-    "name": "  =MsO= 24/7 Elsenborn Ridge Update!",
+    "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
     "port": 28100
   },
