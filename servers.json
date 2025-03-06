@@ -1395,7 +1395,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741222716
   },
   {
     "name": "HLL Official - Europe #219",
@@ -1426,7 +1427,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.169",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741222716
   },
   {
     "name": "HLL Official - Europe #250",
@@ -1473,7 +1475,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741222716
   },
   {
     "name": "DevQA - EU #02",
@@ -2344,7 +2347,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741222716
   },
   {
     "name": "HLL Official - UK #02",
@@ -2355,7 +2359,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741222716
   },
   {
     "name": "{SPECIALSERVER}",
@@ -2607,8 +2612,7 @@
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
-    "port": 7807,
-    "removed": 1741221059
+    "port": 7807
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -3085,8 +3089,7 @@
   {
     "name": "[BR1] BR1 Gaming Event Server (Dallas) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 8530,
-    "removed": 1741221059
+    "port": 8530
   },
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
@@ -3172,8 +3175,7 @@
   {
     "name": "✠︎107 JP#[Violet]紫罗兰 | 刷分升级 | 少女与战车",
     "addr": "203.10.99.7",
-    "port": 8948,
-    "removed": 1741221059
+    "port": 8948
   },
   {
     "name": "✠︎108 JP#[Violet]紫罗兰 | 刷分升级 | 少女与战车",
@@ -3392,7 +3394,7 @@
     "port": 7777
   },
   {
-    "name": "Warfare Cache NA | BEST MAPS! | discord.gg/etool | Qonzer",
+    "name": "HLL eTool | US-W | .gg/etool | Qonzer",
     "addr": "208.115.255.53",
     "port": 7777
   },
