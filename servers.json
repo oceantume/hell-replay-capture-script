@@ -453,7 +453,8 @@
   {
     "name": "AFZ Training Server",
     "addr": "15.235.225.173",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741284542
   },
   {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
@@ -1027,13 +1028,13 @@
   {
     "name": " [ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1741266320
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741284542
   },
   {
     "name": "HLL Official - Australia #04",
@@ -2701,7 +2702,7 @@
     "port": 8530
   },
   {
-    "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
+    "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.206.151.114",
     "port": 9075
   },
@@ -2718,7 +2719,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741284542
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -2793,8 +2795,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1741266320
+    "port": 7777
   },
   {
     "name": "Helios - discord.gg/newhelios",
@@ -2814,8 +2815,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1741266320
+    "port": 7777
   },
   {
     "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
@@ -2906,8 +2906,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1741263111
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -3002,7 +3001,7 @@
     "port": 30000
   },
   {
-    "name": "[FR] La Tempête d'Acier | Contrôle Micro | Francophones SEULE",
+    "name": "[FR|TdA] La Tempête d'Acier|Contrôle Micro|Francophones|Modé",
     "addr": "194.164.96.82",
     "port": 8530
   },
@@ -3234,7 +3233,7 @@
     "removed": 1740917406
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3341,7 +3340,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3378,8 +3377,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1741266320
+    "port": 7777
   },
   {
     "name": "HLL eTool | US-W | .gg/etool | Qonzer",
@@ -3539,7 +3537,7 @@
     "port": 7797
   },
   {
-    "name": " [EN][GER] HLL Admincam Server | type !admincam | FUNSERVER",
+    "name": "[GER] DEUTSCHE OFFENSIVE ONLY | FUNSERVER | MIC only",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -4789,12 +4787,14 @@
   {
     "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741284542
   },
   {
     "name": "63rd Infantry Divsion [Recruiting Now][discord.gg/63rdid]",
     "addr": "45.45.238.228",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741284542
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
@@ -4802,7 +4802,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Event",
+    "name": "Greyhound Night - BLUE",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -5020,17 +5020,17 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | #6 | VLK @ EVENT",
+    "name": "CZ & SK | #5 | VLK @ EVENT",
     "addr": "51.89.42.34",
     "port": 10165
   },
   {
-    "name": "CZ & SK | #5 | VLK @ TRAINING",
+    "name": "CZ & SK | #4 | VLK @ TRAINING",
     "addr": "51.89.42.34",
     "port": 10710
   },
   {
-    "name": "CZ & SK | #4 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #3 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 11255
   },
@@ -5115,6 +5115,11 @@
     "port": 7817
   },
   {
+    "name": "Pathfinders | Chicago",
+    "addr": "63.143.56.3",
+    "port": 7777
+  },
+  {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
     "addr": "63.143.60.20",
     "port": 7777
@@ -5187,8 +5192,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1741266320
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -5203,8 +5207,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1741266320
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -5463,8 +5466,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1741198160
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -5731,8 +5733,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1741198160
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
@@ -6236,7 +6237,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -6249,6 +6250,11 @@
     "name": "[FR] ★ 7ème Compagnie #2 ★ 100% FR - discord.gg/7ecie",
     "addr": "91.134.56.12",
     "port": 7837
+  },
+  {
+    "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
+    "addr": "91.134.56.12",
+    "port": 7857
   },
   {
     "name": "CZ/EN Krieg - Clan server #1",
