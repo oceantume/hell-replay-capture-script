@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Offensive & Skirmish | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Offensive & Skirmish VM | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -249,8 +249,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1741154983
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -343,12 +342,6 @@
     "addr": "141.95.3.121",
     "port": 8530,
     "removed": 1740961937
-  },
-  {
-    "name": "Wehrmacht Dev",
-    "addr": "141.95.3.135",
-    "port": 8530,
-    "removed": 1740636576
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -458,10 +451,9 @@
     "port": 9075
   },
   {
-    "name": "CN|HK|AFZ萌新服务器|QQ：809972300",
+    "name": "AFZ Training Server",
     "addr": "15.235.225.173",
-    "port": 9620,
-    "removed": 1740895719
+    "port": 9620
   },
   {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
@@ -1468,7 +1460,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741241383
   },
   {
     "name": "QA Testing - EU #04",
@@ -2339,7 +2332,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741241383
   },
   {
     "name": "QA Testing - UK #07",
@@ -2349,8 +2343,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1741154983
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -3296,7 +3289,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741241383
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
