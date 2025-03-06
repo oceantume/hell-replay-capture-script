@@ -318,7 +318,7 @@
     "removed": 1740896622
   },
   {
-    "name": "RUS EG Русский CEPBEP| VIP for SEED | eghll.ru",
+    "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -406,14 +406,12 @@
   {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
     "addr": "149.102.135.184",
-    "port": 28000,
-    "removed": 1741244402
+    "port": 28000
   },
   {
     "name": "MTG - UK- Die or Try! Warfare Only - New players Welcome",
     "addr": "149.102.135.184",
-    "port": 28100,
-    "removed": 1741244402
+    "port": 28100
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS) ",
@@ -624,7 +622,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #3 [TR] - Türkiye - t.me/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -943,7 +941,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741263111
   },
   {
     "name": "DevQA - EU #01",
@@ -1909,12 +1908,6 @@
     "addr": "176.57.171.22",
     "port": 28700,
     "removed": 1740747814
-  },
-  {
-    "name": "(GER) - [HB] Heurigen-Bataillon Austria - Buschenschank",
-    "addr": "176.57.171.38",
-    "port": 28400,
-    "removed": 1740658305
   },
   {
     "name": "(GER) Odins Wikinger  Wir Rekrutieren !| discord.gg/3s4G3vsQAt",
@@ -2912,7 +2905,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1741263111
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2925,12 +2919,12 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
   {
-    "name": "**L ** L***** ** ******* b* ********** ** S5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -3007,7 +3001,7 @@
     "port": 30000
   },
   {
-    "name": "[FR|TDA] La Tempête d'Acier.com | Lvl ~ | Admin 24/7 | Mic ON",
+    "name": "[FR] La Tempête d'Acier | Contrôle Micro | Francophones SEULE",
     "addr": "194.164.96.82",
     "port": 8530
   },
@@ -3019,7 +3013,8 @@
   {
     "name": "per aspera ad astra",
     "addr": "195.181.175.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741263111
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -3054,8 +3049,7 @@
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
-    "port": 8530,
-    "removed": 1741244402
+    "port": 8530
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -3090,7 +3084,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741263111
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -3292,8 +3287,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1741241383
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3538,17 +3532,17 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "     HLL CamServer | type !admincam | discord.gg/RoadToVictory",
+    "name": " [EN][GER] HLL Admincam Server | type !admincam | FUNSERVER",
     "addr": "31.56.0.13",
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -3573,7 +3567,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -5812,12 +5806,14 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741263111
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741263111
   },
   {
     "name": "HLL Official - US East #02",
@@ -5986,8 +5982,7 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1741244402
+    "port": 7797
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
@@ -6256,14 +6251,12 @@
   {
     "name": "CZ/EN Krieg - Clan server #1",
     "addr": "92.118.16.112",
-    "port": 7817,
-    "removed": 1741244402
+    "port": 7817
   },
   {
     "name": "Team17",
     "addr": "92.118.16.126",
-    "port": 7777,
-    "removed": 1741244402
+    "port": 7777
   },
   {
     "name": "HLL-ESP (ONLY SPANISH)  // https://discord.gg/7vT6ZPWGAh",
