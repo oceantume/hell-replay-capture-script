@@ -293,7 +293,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -319,7 +319,7 @@
     "removed": 1740896622
   },
   {
-    "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
+    "name": "RUS EG Русский CEPBEP| VIP for SEED | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
   },
@@ -554,7 +554,7 @@
     "port": 7847
   },
   {
-    "name": "CN：jp男同皇帝萌新挨打服纯攻防",
+    "name": "<CN>jp男同皇帝萌新挨打服纯攻防",
     "addr": "156.146.44.225",
     "port": 7857
   },
@@ -2607,7 +2607,8 @@
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
-    "port": 7807
+    "port": 7807,
+    "removed": 1741221059
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -2844,12 +2845,6 @@
     "port": 7787
   },
   {
-    "name": "=7Cav= HLL Training Server 1",
-    "addr": "192.169.86.66",
-    "port": 9075,
-    "removed": 1740616221
-  },
-  {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "192.169.88.50",
     "port": 8530,
@@ -2928,8 +2923,7 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1740658305
+    "port": 9075
   },
   {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
@@ -3091,7 +3085,8 @@
   {
     "name": "[BR1] BR1 Gaming Event Server (Dallas) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741221059
   },
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
@@ -3177,7 +3172,8 @@
   {
     "name": "✠︎107 JP#[Violet]紫罗兰 | 刷分升级 | 少女与战车",
     "addr": "203.10.99.7",
-    "port": 8948
+    "port": 8948,
+    "removed": 1741221059
   },
   {
     "name": "✠︎108 JP#[Violet]紫罗兰 | 刷分升级 | 少女与战车",
@@ -3232,22 +3228,10 @@
     "port": 7777
   },
   {
-    "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
-    "addr": "208.115.206.196",
-    "port": 7777,
-    "removed": 1740616221
-  },
-  {
     "name": "[GER] [404] skill not found | Wir rekrutieren! | Mic Only",
     "addr": "208.115.206.196",
     "port": 7787,
     "removed": 1741049894
-  },
-  {
-    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
-    "addr": "208.115.206.197",
-    "port": 7777,
-    "removed": 1740616221
   },
   {
     "name": "Radical Gaming :: Frankfurt :: Powered by Qonzer.com",
@@ -3261,7 +3245,7 @@
     "removed": 1740917406
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3368,7 +3352,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -5424,6 +5408,11 @@
     "port": 8530
   },
   {
+    "name": "[US] ★ Western Front #1 ★ | US East",
+    "addr": "78.142.218.161",
+    "port": 8530
+  },
+  {
     "name": "BWCC #2 [old] | EU/ENG | discord.gg/BWCC",
     "addr": "78.46.59.147",
     "port": 8530
@@ -5780,8 +5769,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1741134642
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -5873,7 +5861,8 @@
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741221059
   },
   {
     "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
@@ -6254,7 +6243,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
