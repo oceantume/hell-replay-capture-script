@@ -3430,7 +3430,7 @@
     "port": 28600
   },
   {
-    "name": "ALU-Clanserver",
+    "name": "EL.ComandanteFanserver",
     "addr": "213.136.94.160",
     "port": 28000
   },
@@ -5681,12 +5681,6 @@
     "addr": "83.223.197.61",
     "port": 28100,
     "removed": 1740706649
-  },
-  {
-    "name": "HLL Official - Asia #11",
-    "addr": "83.223.197.61",
-    "port": 28200,
-    "removed": 1740704283
   },
   {
     "name": "HLL Official - Asia #64",
