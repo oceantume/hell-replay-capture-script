@@ -1366,7 +1366,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741327789
   },
   {
     "name": "HLL Official - Europe #209",
@@ -1450,8 +1451,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1741241383
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -2318,8 +2318,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1741241383
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -3275,7 +3274,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741327789
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3690,7 +3690,8 @@
   {
     "name": "Devils Brigade (US CENTRAL)",
     "addr": "45.137.244.9",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741327789
   },
   {
     "name": "HLL Official - Japan #01",
@@ -5065,7 +5066,7 @@
     "port": 8772
   },
   {
-    "name": "0+UTC Server | UK | IE | PT | - New Players Welcome",
+    "name": "[0+UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
     "addr": "57.128.188.198",
     "port": 8530
   },
