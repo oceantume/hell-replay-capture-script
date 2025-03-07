@@ -512,6 +512,11 @@
     "removed": 1741026281
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "161.129.66.154",
+    "port": 8530
+  },
+  {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
     "port": 8530
@@ -2281,8 +2286,7 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "31.56.0.7",
-    "port": 7787,
-    "removed": 1741371859
+    "port": 7787
   },
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
@@ -3363,7 +3367,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741372716
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
