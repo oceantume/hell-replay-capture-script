@@ -1887,18 +1887,6 @@
     "port": 8888
   },
   {
-    "name": "Fox&SE［EU］New player server",
-    "addr": "203.23.178.6",
-    "port": 8888,
-    "removed": 1740766142
-  },
-  {
-    "name": "#cn「JWH」哈基米萌新冲突服.q1020812925",
-    "addr": "203.27.106.45",
-    "port": 8888,
-    "removed": 1740766142
-  },
-  {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "205.209.105.250",
     "port": 8530
@@ -2293,7 +2281,8 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "31.56.0.7",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741371859
   },
   {
     "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
@@ -3754,12 +3743,6 @@
     "removed": 1741221059
   },
   {
-    "name": "NEW PLAYERS WELCOME-IRONSIDE GAMERS",
-    "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1740766142
-  },
-  {
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
     "port": 28000
@@ -4031,12 +4014,6 @@
     "name": "CN1#JP ODST/戈尔曼斯坦/萌新小窝/QQ群：478583207",
     "addr": "89.46.1.190",
     "port": 7877
-  },
-  {
-    "name": "CN1 MAX老B灯&喷火龙@JP Q群：258455568丨341807965",
-    "addr": "89.46.1.190",
-    "port": 7887,
-    "removed": 1740766142
   },
   {
     "name": "HLL Server",
