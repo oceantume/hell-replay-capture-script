@@ -485,6 +485,11 @@
     "port": 7857
   },
   {
+    "name": "<CN>【EGFJ】萌新训练集中营",
+    "addr": "156.146.44.225",
+    "port": 7867
+  },
+  {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "156.146.44.225",
     "port": 7887
@@ -697,7 +702,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741436658
   },
   {
     "name": "DevQA - EU #01",
@@ -2226,12 +2232,6 @@
     "port": 7777
   },
   {
-    "name": "CN1#米奇妙妙屋的萌新宝宝乐园/jp/975625508",
-    "addr": "31.56.0.104",
-    "port": 7777,
-    "removed": 1740831025
-  },
-  {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
     "addr": "31.56.0.11",
     "port": 7777
@@ -3510,12 +3510,6 @@
     "addr": "78.46.59.147",
     "port": 8530,
     "removed": 1741370936
-  },
-  {
-    "name": "[SAF] (level 20+, mic/voice, english) - New player friendly!",
-    "addr": "79.127.249.117",
-    "port": 7777,
-    "removed": 1740831025
   },
   {
     "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
