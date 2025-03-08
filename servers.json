@@ -514,7 +514,8 @@
   {
     "name": "Blueberry Frontline | Warfare Only | Active Admins",
     "addr": "161.129.66.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741393505
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -902,8 +903,7 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300,
-    "removed": 1741307462
+    "port": 28300
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1449,6 +1449,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "188.165.39.157",
+    "port": 7797
+  },
+  {
     "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
     "addr": "188.165.39.157",
     "port": 7877
@@ -1897,6 +1902,11 @@
     "port": 8530
   },
   {
+    "name": "Blueberry Frontline | Warfare Only | US East",
+    "addr": "205.209.120.234",
+    "port": 8530
+  },
+  {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
     "addr": "208.115.206.187",
     "port": 7777
@@ -1924,7 +1934,7 @@
     "removed": 1740917406
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2031,7 +2041,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2294,12 +2304,12 @@
     "port": 7777
   },
   {
-    "name": "CN2#JP春日猫猫甜甜攻防の咖啡馆|Q120748151",
+    "name": "CN2#JP周末当然要来猫猫甜甜攻防の咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP春日猫猫萌新限杀の咖啡馆|Q120748151",
+    "name": "CN3#JP周末当然要来猫猫萌新限杀の咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2324,7 +2334,7 @@
     "port": 7837
   },
   {
-    "name": "CN4#JP春日猫猫萌新限杀の冲突馆|Q120748151",
+    "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7847
   },
@@ -2892,7 +2902,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Night - BLUE",
+    "name": "Greyhound Event",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -2976,7 +2986,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "5.189.132.77",
-    "port": 28700
+    "port": 28700,
+    "removed": 1741393505
   },
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -3040,8 +3051,7 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1741374537
+    "port": 9075
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -3879,7 +3889,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Night - GREEN",
+    "name": "Greyhound Event #2",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -4053,7 +4063,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4111,7 +4121,8 @@
   {
     "name": "[TOG] The Old Guard Official (US VA)",
     "addr": "92.118.18.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741393505
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
