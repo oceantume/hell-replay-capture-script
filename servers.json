@@ -151,6 +151,11 @@
     "port": 28300
   },
   {
+    "name": "Mexico Cosmic Watermelon ESP/ENG",
+    "addr": "104.238.220.189",
+    "port": 8530
+  },
+  {
     "name": "Man !",
     "addr": "104.238.222.122",
     "port": 7777
@@ -742,7 +747,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741414052
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -797,8 +803,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.140.94",
-    "port": 28000,
-    "removed": 1741327789
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #08",
@@ -1285,7 +1290,8 @@
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
-    "port": 7847
+    "port": 7847,
+    "removed": 1741414052
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL #2",
@@ -1904,7 +1910,8 @@
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
     "addr": "205.209.120.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741414052
   },
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
@@ -2293,7 +2300,7 @@
     "port": 7787
   },
   {
-    "name": "CN1#JP春日猫猫萌新军官の咖啡馆|Q120748151",
+    "name": "CN1#JP周末当然要来猫猫萌新军官の咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7777
   },
@@ -3329,9 +3336,15 @@
     "removed": 1741049894
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.58.60",
+    "port": 7777
+  },
+  {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741414052
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -4115,8 +4128,7 @@
   {
     "name": "[TOG] The Old Guard Official (US VA)",
     "addr": "92.118.18.82",
-    "port": 7787,
-    "removed": 1741393505
+    "port": 7787
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
