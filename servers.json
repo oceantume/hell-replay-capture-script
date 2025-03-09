@@ -151,7 +151,7 @@
     "port": 28300
   },
   {
-    "name": "MEXICO COSMICWATERMELON (ESP)",
+    "name": "『MEXICO/LATAM』 ✹COSMICWATERMELON✹ ESPAÑOL",
     "addr": "104.238.220.189",
     "port": 8530
   },
@@ -862,7 +862,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741500465
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1718,8 +1719,7 @@
   {
     "name": "Hotdog6",
     "addr": "194.140.197.77",
-    "port": 30000,
-    "removed": 1741483845
+    "port": 30000
   },
   {
     "name": "[FR|TdA] La Tempête d'Acier|Contrôle Micro|Francophones|Modé",
@@ -3342,7 +3342,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741500465
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -3702,7 +3703,8 @@
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741500465
   },
   {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK QQ群1017723887",
@@ -4307,7 +4309,6 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777,
-    "removed": 1741457218
+    "port": 7777
   }
 ]
