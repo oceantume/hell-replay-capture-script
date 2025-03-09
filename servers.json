@@ -226,7 +226,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -354,7 +354,8 @@
   {
     "name": "Gamers Elite UK | Warfare | Player Friendly| Discord.gg/geuk",
     "addr": "149.102.135.184",
-    "port": 28400
+    "port": 28400,
+    "removed": 1741543609
   },
   {
     "name": "TH Hell Let Loose Thailand Community 2",
@@ -459,12 +460,12 @@
     "port": 7807
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部（投票地图）Q群:578097070",
+    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
     "addr": "156.146.44.225",
     "port": 7817
   },
   {
-    "name": "hll Server",
+    "name": "<CN> AIT日常赛/训练服（专用场地）",
     "addr": "156.146.44.225",
     "port": 7827
   },
@@ -586,8 +587,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1741523050
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -738,7 +738,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741543609
   },
   {
     "name": "HLL Official - Australia #03",
@@ -1498,7 +1499,8 @@
   {
     "name": "BRASIL FRONTEIRA HELL | VIP: WWW.FRONTEIRAHELL.STORE",
     "addr": "189.1.170.234",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741543609
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1640,8 +1642,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1741523050
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1918,8 +1919,7 @@
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
     "addr": "205.209.120.234",
-    "port": 8530,
-    "removed": 1741414052
+    "port": 8530
   },
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
@@ -1943,7 +1943,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -3373,8 +3373,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1741525201
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3652,13 +3651,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741543609
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1741457218
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
