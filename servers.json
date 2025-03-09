@@ -587,7 +587,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1741546129
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1569,12 +1570,6 @@
     "port": 7787
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "192.169.88.50",
-    "port": 8530,
-    "removed": 1740941252
-  },
-  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -1763,7 +1758,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1741546129
   },
   {
     "name": "[GER] 19. Panzer Division",
