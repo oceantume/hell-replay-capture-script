@@ -1919,7 +1919,8 @@
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
     "addr": "205.209.120.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741545050
   },
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
@@ -4009,12 +4010,6 @@
     "addr": "90.246.108.194",
     "port": 7777,
     "removed": 1741370936
-  },
-  {
-    "name": "cn3（EU） EROS/深夜食堂的萌新进阶强度服 QQ:686886",
-    "addr": "91.134.4.54",
-    "port": 8530,
-    "removed": 1740939792
   },
   {
     "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
