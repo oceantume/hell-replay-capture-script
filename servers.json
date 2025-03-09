@@ -352,6 +352,11 @@
     "port": 28300
   },
   {
+    "name": "Gamers Elite UK | Warfare | Player Friendly| Discord.gg/geuk",
+    "addr": "149.102.135.184",
+    "port": 28400
+  },
+  {
     "name": "TH Hell Let Loose Thailand Community 2",
     "addr": "15.235.219.197",
     "port": 8530,
@@ -467,7 +472,8 @@
   {
     "name": "cn1 第三帝国领免费vip加群258455568 HK节点",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1741523982
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -3963,7 +3969,8 @@
   {
     "name": "<CN> AIT日常赛/训练服（专用场地）",
     "addr": "89.46.1.190",
-    "port": 7797
+    "port": 7797,
+    "removed": 1741523982
   },
   {
     "name": "CN1MAX老B登&喷火龙的军官营JPQ341807965",
@@ -3994,6 +4001,11 @@
     "name": "CN1#JP#【FJ】绿魔鬼空降猎兵服务器Q群716701264",
     "addr": "89.46.1.190",
     "port": 7857
+  },
+  {
+    "name": "<CN>【EGFJ】萌新训练集中营",
+    "addr": "89.46.1.190",
+    "port": 7867
   },
   {
     "name": "CN1#JP ODST/戈尔曼斯坦/萌新小窝/QQ群：478583207",
