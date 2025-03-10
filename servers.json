@@ -178,8 +178,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1741590265
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -199,8 +198,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1741586928
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -290,8 +288,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1741590265
+    "port": 9620
   },
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
@@ -584,7 +581,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1741608738
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -931,8 +929,7 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1741590265
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1143,8 +1140,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1741590265
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1190,6 +1186,11 @@
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
     "port": 28200
+  },
+  {
+    "name": "[EU/ENG] | Gamers Elite UK | Warfare/Skirmish | Player Friendly",
+    "addr": "176.57.178.44",
+    "port": 28000
   },
   {
     "name": "{SPECIALSERVER}",
@@ -1369,12 +1370,6 @@
     "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
     "addr": "181.214.221.212",
     "port": 7817
-  },
-  {
-    "name": "HLL Sur America #03| By [MSL] discord.gg/magic-servers",
-    "addr": "181.214.221.212",
-    "port": 7827,
-    "removed": 1741003911
   },
   {
     "name": "《COBRAS FUMANTES》vip.marram.com.br #4",
@@ -1643,14 +1638,12 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1741590265
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1741590265
+    "port": 7777
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
@@ -1796,7 +1789,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741608738
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1973,8 +1967,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1741586928
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2074,7 +2067,8 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741608738
   },
   {
     "name": "[ESP]MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA [PVP] [discord.gg",
@@ -2204,8 +2198,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1741590265
+    "port": 7797
   },
   {
     "name": "       [GER] HaLL | Hack Let Loose Eventserver",
@@ -2215,8 +2208,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1741590265
+    "port": 7877
   },
   {
     "name": "StDb Event",
@@ -2241,8 +2233,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1741590265
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2324,12 +2315,6 @@
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
     "port": 7867
-  },
-  {
-    "name": "CN-音奏的萌新进阶服8服|Q群:598632634|JP节点",
-    "addr": "31.56.0.81",
-    "port": 7877,
-    "removed": 1741003911
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
@@ -2529,8 +2514,7 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200,
-    "removed": 1741590265
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #15",
@@ -3110,8 +3094,7 @@
   {
     "name": "Server Moved - search for BSB and update favorites",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1741590265
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -3297,8 +3280,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1741586928
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
@@ -3384,8 +3366,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "65.21.46.146",
-    "port": 9075,
-    "removed": 1741590265
+    "port": 9075
   },
   {
     "name": "Machine Soldiers Event Server | US EAST",
@@ -3697,18 +3678,13 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741608738
   },
   {
     "name": "DevQA - US #03",
     "addr": "83.223.203.130",
     "port": 28200
-  },
-  {
-    "name": "HLL Official - US East #01",
-    "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1741003911
   },
   {
     "name": "EASY Company #6 | GPORTAL | DISCORD.GG/EASYCOMPANY",
