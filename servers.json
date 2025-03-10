@@ -323,12 +323,14 @@
   {
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741611115
   },
   {
     "name": "MK",
     "addr": "146.59.47.230",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741611115
   },
   {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
@@ -426,7 +428,8 @@
   {
     "name": "MEXICO LATAM OGT",
     "addr": "154.16.170.225",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741611115
   },
   {
     "name": "Mediocre Gaming | New Player Friendly | Central US",
@@ -2020,7 +2023,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2178,12 +2181,6 @@
     "addr": "23.142.25.6",
     "port": 7777,
     "removed": 1741090315
-  },
-  {
-    "name": "HLL Server",
-    "addr": "31.126.216.227",
-    "port": 7777,
-    "removed": 1741006248
   },
   {
     "name": "[13SNC] #5 - Dirty's Daycare - NEW PLAYERS WELCOME!",
@@ -3144,7 +3141,8 @@
   {
     "name": "Pathfinders | Chicago",
     "addr": "63.143.56.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741611115
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| COMBAT ENGINEERS",
