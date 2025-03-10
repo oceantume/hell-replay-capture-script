@@ -46,7 +46,7 @@
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区曼哈顿基地/Q群:682305162",
+    "name": "<CN>BW黑色守望/红区曼哈顿基地/Q群:1034621661",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -76,7 +76,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区/我们的父辈/Q:682305162",
+    "name": "<CN>BW黑色守望/黄区/我们的父辈/Q:103462661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -198,7 +198,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1741586928
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -858,8 +859,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1741500465
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1966,7 +1966,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741586928
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3116,7 +3117,7 @@
     "port": 8772
   },
   {
-    "name": "[0-UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
+    "name": "[0UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
     "addr": "57.128.188.198",
     "port": 8530
   },
@@ -3284,7 +3285,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / lvl 50+ / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741586928
   },
   {
     "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
