@@ -810,8 +810,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1741695128
+    "port": 28100
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -2351,7 +2350,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741698396
   },
   {
     "name": "HLL Official - US West #11",
@@ -2401,7 +2401,8 @@
   {
     "name": "HLL Official - US West #38",
     "addr": "45.137.246.12",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741698396
   },
   {
     "name": "HLL Official - US West #14",
