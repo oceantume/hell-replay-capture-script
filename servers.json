@@ -76,7 +76,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区/我们的父辈/Q:103462661",
+    "name": "<CN>BW黑色守望/黄区/病毒隔离区/Q:103462661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -226,7 +226,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1183,7 +1183,8 @@
   {
     "name": "[EU/ENG] | Gamers Elite UK | Warfare/Skirmish | Player Friendly",
     "addr": "176.57.178.44",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741653072
   },
   {
     "name": "{SPECIALSERVER}",
@@ -1551,7 +1552,8 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741653072
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -1737,7 +1739,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1741653072
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1782,8 +1785,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1741608738
+    "port": 9620
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1918,7 +1920,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2013,7 +2015,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2283,7 +2285,7 @@
     "port": 7827
   },
   {
-    "name": "CN：灰猎犬连萌新攻防/禁抱团/JP Q：441245221",
+    "name": "HLL Server",
     "addr": "31.56.0.81",
     "port": 7837
   },
@@ -2975,8 +2977,7 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1741633756
+    "port": 9075
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -3594,7 +3595,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741653072
   },
   {
     "name": "HLL Official - Asia #24",
@@ -3939,7 +3941,7 @@
     "port": 7877
   },
   {
-    "name": "cn1 第三帝国领免费vip加群258455568 JP节点",
+    "name": "CN1# EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
   },
@@ -3971,7 +3973,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
