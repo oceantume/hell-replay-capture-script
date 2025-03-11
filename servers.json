@@ -503,6 +503,11 @@
     "removed": 1741349495
   },
   {
+    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
+    "addr": "157.180.8.107",
+    "port": 9075
+  },
+  {
     "name": "[TR] TSK ETKİNLİK SUNUCUSU | Discord.gg/TSKHLL",
     "addr": "159.69.226.137",
     "port": 7777
@@ -576,7 +581,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1741695128
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -804,7 +810,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741695128
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -925,7 +932,8 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741695128
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1171,7 +1179,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741695128
   },
   {
     "name": "HLL Official - UK #02",
@@ -1200,7 +1209,7 @@
     "port": 28000
   },
   {
-    "name": "Chessie Playground",
+    "name": "Training Ground (DM Chessie for admin cam and map change)",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1227,7 +1236,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741695128
   },
   {
     "name": "HLL Official - Europe #22",
@@ -1619,7 +1629,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1741695128
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1785,7 +1796,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741695128
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1956,8 +1968,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1741673385
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2161,12 +2172,6 @@
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
     "addr": "23.111.240.210",
     "port": 9075
-  },
-  {
-    "name": "dont!",
-    "addr": "23.142.25.6",
-    "port": 7777,
-    "removed": 1741090315
   },
   {
     "name": "[13SNC] #5 - Dirty's Daycare - NEW PLAYERS WELCOME!",
@@ -2820,12 +2825,6 @@
     "port": 8530
   },
   {
-    "name": "     [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
-    "addr": "45.143.198.27",
-    "port": 8530,
-    "removed": 1741090315
-  },
-  {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
     "port": 8530
@@ -3337,7 +3336,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "65.21.46.146",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741695128
   },
   {
     "name": "Machine Soldiers Event Server | US EAST",
@@ -3636,21 +3636,19 @@
     "removed": 1741523050
   },
   {
+    "name": "HLL Official - US East #02",
+    "addr": "83.223.203.125",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
   },
   {
-    "name": "HLL Official - US East #05",
-    "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1741090315
-  },
-  {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1741608738
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -3716,7 +3714,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741695128
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
