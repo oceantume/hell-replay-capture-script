@@ -227,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -575,8 +575,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1741695128
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1234,8 +1233,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300,
-    "removed": 1741695128
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #22",
@@ -1374,6 +1372,11 @@
     "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
     "addr": "181.214.221.212",
     "port": 7817
+  },
+  {
+    "name": "<Cobras Fumantes> discord.gg/cobrasfumantes",
+    "addr": "181.214.221.212",
+    "port": 7827
   },
   {
     "name": "MARRAM vip.marram.com.br #4",
@@ -1546,7 +1549,7 @@
     "port": 7777
   },
   {
-    "name": "Ψ Black Ridge Group | East | https://discord.gg/blackridge",
+    "name": "฿ Breakaway Battalion",
     "addr": "192.169.86.213",
     "port": 7787
   },
@@ -1794,8 +1797,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1741695128
+    "port": 9620
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1924,7 +1926,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2019,7 +2021,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2089,12 +2091,6 @@
     "port": 29000
   },
   {
-    "name": "Epic Battles",
-    "addr": "213.136.88.87",
-    "port": 28000,
-    "removed": 1741134642
-  },
-  {
     "name": "[GER] [MIC] {DSDV} Die Schmiede der Verdammten Discord: Qd9xVEj",
     "addr": "213.136.88.87",
     "port": 28100,
@@ -2116,7 +2112,7 @@
     "port": 28600
   },
   {
-    "name": "EL.ComandanteFanserver",
+    "name": "NordiNorweger",
     "addr": "213.136.94.160",
     "port": 28000
   },
@@ -3217,7 +3213,7 @@
     "port": 7797
   },
   {
-    "name": "Glow's Battlegrounds :: Blueberry Dreams #1 :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
     "port": 7807
   },
@@ -3470,7 +3466,8 @@
   {
     "name": "HLL Official - Asia #09",
     "addr": "83.223.197.160",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #14",
@@ -3480,32 +3477,38 @@
   {
     "name": "HLL Official - Asia #19",
     "addr": "83.223.197.160",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #26",
     "addr": "83.223.197.160",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #31",
     "addr": "83.223.197.160",
-    "port": 28400
+    "port": 28400,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #13",
     "addr": "83.223.197.168",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #17",
     "addr": "83.223.197.168",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #21",
     "addr": "83.223.197.168",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #30",
@@ -3520,47 +3523,56 @@
   {
     "name": "HLL Official - Asia #25",
     "addr": "83.223.197.170",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #27",
     "addr": "83.223.197.170",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #29",
     "addr": "83.223.197.170",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #32",
     "addr": "83.223.197.170",
-    "port": 28400
+    "port": 28400,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.56",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.57",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.58",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #33",
     "addr": "83.223.197.67",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.67",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #02",
@@ -3586,12 +3598,14 @@
   {
     "name": "HLL Official - Asia #24",
     "addr": "83.223.197.76",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.81",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741739454
   },
   {
     "name": "<CN>HK#2北极星萌新服务器Q群：1018176083",
@@ -3704,8 +3718,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "83.223.206.29",
-    "port": 28100,
-    "removed": 1741695128
+    "port": 28100
   },
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
@@ -3945,7 +3958,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
