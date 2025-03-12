@@ -1660,7 +1660,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "193.192.58.101",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741784781
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1680,7 +1681,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741784781
   },
   {
     "name": "QA Testing - US West #06",
@@ -2338,8 +2340,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200,
-    "removed": 1741698396
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #11",
