@@ -218,7 +218,8 @@
   {
     "name": "CZ AND SK discord pacmansk",
     "addr": "138.201.16.137",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741802966
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -226,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -420,7 +421,8 @@
   {
     "name": "MEXICO LATAM OGT",
     "addr": "154.16.170.225",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741802966
   },
   {
     "name": "Mediocre Gaming | New Player Friendly | Central US",
@@ -428,7 +430,7 @@
     "port": 8530
   },
   {
-    "name": "CN2HK# FJ 包子の男同俱乐部Q群:1029886683",
+    "name": "CN2#HK#【FJ】训练服/战队招人Q群:716701264",
     "addr": "156.146.44.225",
     "port": 7777
   },
@@ -720,7 +722,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1741802966
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1681,8 +1684,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "193.192.58.65",
-    "port": 28100,
-    "removed": 1741784781
+    "port": 28100
   },
   {
     "name": "QA Testing - US West #06",
@@ -1926,7 +1928,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2808,7 +2810,7 @@
     "port": 28400
   },
   {
-    "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) https://discord.gg/ragem",
+    "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
     "addr": "45.143.198.25",
     "port": 8530
   },
@@ -3404,12 +3406,6 @@
     "port": 7787
   },
   {
-    "name": "[FR Only] Régiment Des Lames d'Acier | Discord : https://disco",
-    "addr": "79.137.89.136",
-    "port": 10165,
-    "removed": 1741198160
-  },
-  {
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
     "port": 8530
@@ -3432,8 +3428,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000,
-    "removed": 1741716560
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3443,13 +3438,13 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.121",
-    "port": 28000,
-    "removed": 1741716560
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741802966
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3606,6 +3601,11 @@
     "port": 28000
   },
   {
+    "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK Q群1017723887",
+    "addr": "83.223.197.85",
+    "port": 28100
+  },
+  {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
     "addr": "83.223.197.89",
     "port": 28200
@@ -3613,7 +3613,8 @@
   {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK QQ群1017723887",
     "addr": "83.223.197.89",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741802966
   },
   {
     "name": "GIRTHY'S GRINDERS",
@@ -3920,7 +3921,7 @@
     "port": 7847
   },
   {
-    "name": "CN1#JP#【FJ】绿魔鬼空降猎兵服务器Q群716701264",
+    "name": "CN1#JP#【FJ】包子の男同俱乐部Q群:716701264",
     "addr": "89.46.1.190",
     "port": 7857
   },
@@ -4040,7 +4041,8 @@
   {
     "name": "THE 14th",
     "addr": "92.118.18.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741802966
   },
   {
     "name": "Hell Let Loose Server",
@@ -4064,7 +4066,7 @@
     "port": 7777
   },
   {
-    "name": "MEXICO LATAM OGT 2",
+    "name": "MEXICO LATAM OGT",
     "addr": "92.118.19.84",
     "port": 7777
   },
