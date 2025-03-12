@@ -178,8 +178,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1741762966
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -499,8 +498,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1741762966
+    "port": 9075
   },
   {
     "name": "[TR] TSK ETKİNLİK SUNUCUSU | Discord.gg/TSKHLL",
@@ -616,8 +614,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1741762966
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1141,8 +1138,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1741762966
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1234,7 +1230,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.181.209",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741781509
   },
   {
     "name": "HLL Official - Europe #22",
@@ -1316,7 +1313,8 @@
   {
     "name": "♦ MIB ♦ - Made In Brasil // Lvl. 40+ // INSANIDADE EM 2.0",
     "addr": "177.54.147.141",
-    "port": 7947
+    "port": 7947,
+    "removed": 1741781509
   },
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
@@ -1632,8 +1630,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1741762966
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1648,14 +1645,12 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1741762966
+    "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "**L ** L***** ** ******* b* ********** ** S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1741762966
+    "port": 7777
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
@@ -1971,8 +1966,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1741759800
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2184,8 +2178,7 @@
   {
     "name": "SLB #1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1741762966
+    "port": 7797
   },
   {
     "name": "       [GER] HaLL | Hack Let Loose Eventserver",
@@ -2195,8 +2188,7 @@
   {
     "name": "SLB #2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1741762966
+    "port": 7877
   },
   {
     "name": "StDb Event",
@@ -2221,8 +2213,7 @@
   {
     "name": "SLB #3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1741762966
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2243,12 +2234,6 @@
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "31.56.0.37",
     "port": 7787
-  },
-  {
-    "name": "[13SNC] #6 - Dirty's Spankbank - discord.gg/13snc",
-    "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1741176701
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -2338,7 +2323,8 @@
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100
+    "port": 11100,
+    "removed": 1741781509
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3072,8 +3058,7 @@
   {
     "name": "Server Moved - search for BSB and update favorites",
     "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1741762966
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -3638,24 +3623,28 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "83.223.203.125",
-    "port": 28000,
-    "removed": 1741263111
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "83.223.203.125",
-    "port": 28100,
-    "removed": 1741523050
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "83.223.203.125",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741781509
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
+  },
+  {
+    "name": "HLL Official - US East #05",
+    "addr": "83.223.203.130",
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #06",
@@ -3665,6 +3654,11 @@
   {
     "name": "DevQA - US #03",
     "addr": "83.223.203.130",
+    "port": 28200
+  },
+  {
+    "name": "HLL Official - US East #01",
+    "addr": "83.223.203.131",
     "port": 28200
   },
   {
@@ -3990,7 +3984,8 @@
   {
     "name": "The Forgotten Army  (14TH)",
     "addr": "92.118.16.112",
-    "port": 7797
+    "port": 7797,
+    "removed": 1741781509
   },
   {
     "name": "CZ/EN Krieg - Clan server #1",
