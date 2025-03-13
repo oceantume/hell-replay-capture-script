@@ -702,7 +702,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.134.56",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741827576
   },
   {
     "name": "HLL Official - Europe #21",
@@ -873,7 +874,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.168.189",
-    "port": 28300
+    "port": 28300,
+    "removed": 1741827576
   },
   {
     "name": "HLL Official - Europe #08",
@@ -3275,8 +3277,7 @@
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
     "addr": "64.31.60.37",
-    "port": 7777,
-    "removed": 1741825902
+    "port": 7777
   },
   {
     "name": "MARRAM #7 - QONZER.COM - EVENTOS",
