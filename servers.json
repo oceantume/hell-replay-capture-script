@@ -693,7 +693,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.134.56",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741849185
   },
   {
     "name": "HLL Dev Team",
@@ -809,7 +810,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.140.97",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741849185
   },
   {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
@@ -870,7 +872,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741849185
   },
   {
     "name": "DevQA - EU #02",
@@ -886,7 +889,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741849185
   },
   {
     "name": "HLL Official - Europe #12",
@@ -1180,7 +1184,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741849185
   },
   {
     "name": "HLL Official - UK #02",
@@ -1190,7 +1195,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741849185
   },
   {
     "name": "[EU/ENG] | Gamers Elite UK | Warfare/Skirmish | Player Friendly",
@@ -1697,7 +1703,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "193.192.58.65",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741849185
   },
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
@@ -1762,8 +1769,7 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1741848641
+    "port": 20500
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -3290,7 +3296,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741849185
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
