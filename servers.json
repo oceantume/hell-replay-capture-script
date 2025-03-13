@@ -1762,7 +1762,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1741848641
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -2331,8 +2332,7 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1741848017
+    "port": 10700
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
