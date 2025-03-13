@@ -68,8 +68,7 @@
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
     "addr": "103.62.49.49",
-    "port": 8948,
-    "removed": 1741871220
+    "port": 8948
   },
   {
     "name": "CN#1 Mico咖啡屋 日服 Q群:1023817690",
@@ -199,8 +198,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1741846179
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -229,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -375,12 +373,6 @@
     "port": 9075
   },
   {
-    "name": "AFZ Training Server",
-    "addr": "15.235.225.173",
-    "port": 9620,
-    "removed": 1741284542
-  },
-  {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
     "port": 8530
@@ -512,7 +504,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.27",
-    "port": 8888
+    "port": 8888,
+    "removed": 1741889369
   },
   {
     "name": "Blueberry Frontline | Warfare Only | Active Admins",
@@ -724,8 +717,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "176.57.135.34",
-    "port": 28000,
-    "removed": 1741802966
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
@@ -1090,8 +1082,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.173.119",
-    "port": 28000,
-    "removed": 1741867938
+    "port": 28000
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -1449,12 +1440,6 @@
     "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "185.206.151.30",
     "port": 9075
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1741284542
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -1942,7 +1927,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2113,7 +2098,7 @@
     "removed": 1741457218
   },
   {
-    "name": "Hell let LuuL",
+    "name": "Hell let LuuL (GER/DE) New Players Welcome #1",
     "addr": "213.136.88.87",
     "port": 28200
   },
@@ -2331,7 +2316,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1741889369
   },
   {
     "name": "nitrado.net gameserver kUA3BDEp",
@@ -3087,7 +3073,7 @@
     "port": 9720
   },
   {
-    "name": "#05 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
+    "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
     "port": 8772
   },
@@ -3458,8 +3444,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.121",
-    "port": 28100,
-    "removed": 1741802966
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3569,7 +3554,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741889369
   },
   {
     "name": "HLL Official - Asia #05",
@@ -3952,7 +3938,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
