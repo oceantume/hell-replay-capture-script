@@ -227,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -539,7 +539,7 @@
     "port": 9075
   },
   {
-    "name": "Turks Let Loose #1 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "[TR] Turks Let Loose #1 :: TÜRKÇE :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
   },
@@ -549,12 +549,12 @@
     "port": 7877
   },
   {
-    "name": "Turks Let Loose #2 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "[TR] Turks Let Loose #2 :: TÜRKÇE :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "[TR] Turks Let Loose #3 :: TÜRKÇE :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -833,7 +833,8 @@
   {
     "name": "Koalaz Gaming | GER/EN Mic | Active Admins",
     "addr": "176.57.168.174",
-    "port": 28100
+    "port": 28100,
+    "removed": 1741912242
   },
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
@@ -1927,7 +1928,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1977,7 +1978,7 @@
     "port": 7777
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
+    "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
     "addr": "208.115.214.220",
     "port": 7777
   },
@@ -2022,7 +2023,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2314,7 +2315,7 @@
     "port": 7917
   },
   {
-    "name": "Greyhound Night Server 3 | BFTB |",
+    "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
   },
@@ -2819,6 +2820,11 @@
     "port": 8530
   },
   {
+    "name": "Crimson Vanguard US Central ",
+    "addr": "45.45.238.203",
+    "port": 9075
+  },
+  {
     "name": "GSFP - 24/7 Warzone - US East",
     "addr": "45.45.238.218",
     "port": 8530,
@@ -3232,7 +3238,7 @@
     "port": 7577
   },
   {
-    "name": "The DRAFT [HAUS] |US EAST-NYC-Q| discord.gg/drafthaus",
+    "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "64.31.58.60",
     "port": 7777
   },
@@ -3564,7 +3570,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200
+    "port": 28200,
+    "removed": 1741912242
   },
   {
     "name": "HLL Official - Asia #24",
@@ -3937,7 +3944,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
