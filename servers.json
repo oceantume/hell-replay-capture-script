@@ -25,12 +25,6 @@
     "port": 8530
   },
   {
-    "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
-    "addr": "103.193.80.149",
-    "port": 8530,
-    "removed": 1741370936
-  },
-  {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
     "port": 7807
@@ -693,8 +687,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.56",
-    "port": 28200,
-    "removed": 1741975727
+    "port": 28200
   },
   {
     "name": "DevQA - EU #01",
@@ -2099,7 +2092,8 @@
   {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400
+    "port": 28400,
+    "removed": 1741976656
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming  :-)",
@@ -2182,10 +2176,9 @@
     "port": 7877
   },
   {
-    "name": "StDb Event",
+    "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "31.56.0.14",
-    "port": 7777,
-    "removed": 1741975727
+    "port": 7777
   },
   {
     "name": "[13SNC] #2 - Dirty's Offensives - discord.gg/13snc",
@@ -2816,12 +2809,6 @@
     "removed": 1741954289
   },
   {
-    "name": "GSFP - 24/7 Warzone - US East",
-    "addr": "45.45.238.218",
-    "port": 8530,
-    "removed": 1741370936
-  },
-  {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
     "port": 8530
@@ -2937,12 +2924,6 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
-  },
-  {
-    "name": "BROTHERHOOD.LV  EUROPE #1",
-    "addr": "51.195.176.115",
-    "port": 8530,
-    "removed": 1741370936
   },
   {
     "name": "CZ/SK svet",
@@ -3391,12 +3372,6 @@
     "name": "[US] ★ Western Front #1 ★ | US East",
     "addr": "78.142.218.161",
     "port": 8530
-  },
-  {
-    "name": "BWCC #2 [old] | EU/ENG | discord.gg/BWCC",
-    "addr": "78.46.59.147",
-    "port": 8530,
-    "removed": 1741370936
   },
   {
     "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
@@ -3920,12 +3895,6 @@
     "port": 7887
   },
   {
-    "name": "HLL Server",
-    "addr": "90.246.108.194",
-    "port": 7777,
-    "removed": 1741370936
-  },
-  {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
     "port": 7787
@@ -4117,12 +4086,6 @@
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
     "port": 28600
-  },
-  {
-    "name": "✠ BRASIL CAPITAL SERVER BR ✠ | DISCORD https://discord.gg/b",
-    "addr": "92.38.151.92",
-    "port": 28600,
-    "removed": 1741370936
   },
   {
     "name": "US WEST | Blood Buckets",
