@@ -53,7 +53,8 @@
   {
     "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
-    "port": 8918
+    "port": 8918,
+    "removed": 1741954289
   },
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
@@ -1574,7 +1575,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1741954289
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -1619,7 +1621,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741954289
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1801,7 +1804,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741954289
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1972,8 +1976,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1741932571
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -1981,7 +1984,7 @@
     "port": 7777
   },
   {
-    "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
+    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa",
     "addr": "208.115.214.220",
     "port": 7777
   },
@@ -2820,12 +2823,14 @@
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741954289
   },
   {
     "name": "Crimson Vanguard US Central ",
     "addr": "45.45.238.203",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741954289
   },
   {
     "name": "GSFP - 24/7 Warzone - US East",
@@ -3318,7 +3323,8 @@
   {
     "name": "21 ARMY | Русский Сервер [RUS] Discord.gg/21army",
     "addr": "65.21.22.47",
-    "port": 7807
+    "port": 7807,
+    "removed": 1741954289
   },
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
@@ -3597,7 +3603,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (Taiwan) Server by g-portal.com",
+    "name": "Jack",
     "addr": "83.223.197.89",
     "port": 28000
   },
