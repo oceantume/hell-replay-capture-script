@@ -508,6 +508,11 @@
     "removed": 1741889369
   },
   {
+    "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "160.202.167.30",
+    "port": 8888
+  },
+  {
     "name": "Blueberry Frontline | Warfare Only | Active Admins",
     "addr": "161.129.66.154",
     "port": 8530,
@@ -539,7 +544,7 @@
     "port": 9075
   },
   {
-    "name": "[TR] Turks Let Loose #1 :: TÜRKÇE :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #1 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
   },
@@ -549,12 +554,12 @@
     "port": 7877
   },
   {
-    "name": "[TR] Turks Let Loose #2 :: TÜRKÇE :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #2 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
   {
-    "name": "[TR] Turks Let Loose #3 :: TÜRKÇE :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #3 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -859,8 +864,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1741846179
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -875,8 +879,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1741846179
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #02",
@@ -1606,8 +1609,7 @@
   {
     "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
     "addr": "192.169.95.19",
-    "port": 7777,
-    "removed": 1741916268
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1749,7 +1751,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1741932571
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1965,7 +1968,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1741932571
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3587,6 +3591,11 @@
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK Q群1017723887",
     "addr": "83.223.197.85",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (Taiwan) Server by g-portal.com",
+    "addr": "83.223.197.89",
+    "port": 28000
   },
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
