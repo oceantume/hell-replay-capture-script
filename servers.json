@@ -913,7 +913,7 @@
     "port": 28200
   },
   {
-    "name": "ECL Frankfurt S2",
+    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare ",
     "addr": "176.57.168.254",
     "port": 28000
   },
@@ -2907,22 +2907,26 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530
+    "port": 8530,
+    "removed": 1741979368
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741979368
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741979368
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1741979368
   },
   {
     "name": "CZ/SK svet",
@@ -2932,7 +2936,8 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075
+    "port": 9075,
+    "removed": 1741979368
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
