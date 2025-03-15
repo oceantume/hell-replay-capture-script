@@ -498,7 +498,8 @@
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.30",
-    "port": 8888
+    "port": 8888,
+    "removed": 1742041621
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -3258,8 +3259,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742040617
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
