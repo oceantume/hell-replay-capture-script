@@ -192,8 +192,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1742018914
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -542,7 +541,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose :: TANK EĞİTİMİ :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -1038,6 +1037,11 @@
     "port": 28100
   },
   {
+    "name": "Schweizer Söldnertum [GER]",
+    "addr": "176.57.171.44",
+    "port": 28200
+  },
+  {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
@@ -1270,12 +1274,6 @@
     "port": 7797
   },
   {
-    "name": "♦ MIB ♦ - Made In Brasil - Junte-se à insanidade",
-    "addr": "177.54.147.141",
-    "port": 7827,
-    "removed": 1741435730
-  },
-  {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
     "port": 7847
@@ -1291,7 +1289,7 @@
     "port": 7887
   },
   {
-    "name": "LATAM ESP (Arg/Chi) Cougars & Condors https://discord.gg/YCfxR7",
+    "name": "LATAM/ESP Cougars & Condors https://discord.gg/YCfxR73h",
     "addr": "177.54.147.141",
     "port": 7907
   },
@@ -1639,17 +1637,20 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742040617
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742040617
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742040617
   },
   {
     "name": "HLL Official - US West #03",
@@ -1720,7 +1721,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "195.181.175.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742040617
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -1961,8 +1963,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742019832
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2166,7 +2167,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -2824,7 +2825,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Night - Blue ",
+    "name": "Greyhound Event",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -3257,7 +3258,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742040617
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3315,8 +3317,7 @@
   {
     "name": "The Lucky Strikes | New Players Welcome",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1742022475
+    "port": 7787
   },
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
@@ -3608,7 +3609,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742040617
   },
   {
     "name": "DevQA - US #03",
@@ -3618,7 +3620,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742040617
   },
   {
     "name": "Servidor de eventos Ronin",
