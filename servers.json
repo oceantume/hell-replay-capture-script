@@ -221,7 +221,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -542,7 +542,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose :: TANK EĞİTİMİ :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #3 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -731,8 +731,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1742021243
+    "port": 28000
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -1346,7 +1345,7 @@
     "port": 7777
   },
   {
-    "name": "♦ MIB ♦ vip.marram.com.br #2 Offensive 4ever ",
+    "name": "♦ MIB ♦ vip.marram.com.br #2 ",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1428,7 +1427,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
     "addr": "185.38.150.51",
     "port": 8530
   },
@@ -1465,7 +1464,8 @@
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
     "addr": "188.64.33.86",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742062094
   },
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
@@ -1927,7 +1927,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2092,12 +2092,6 @@
     "port": 29000
   },
   {
-    "name": "[GER] [MIC] {DSDV} Die Schmiede der Verdammten Discord: Qd9xVEj",
-    "addr": "213.136.88.87",
-    "port": 28100,
-    "removed": 1741457218
-  },
-  {
     "name": "Hell let LuuL (GER/DE) New Players Welcome #1",
     "addr": "213.136.88.87",
     "port": 28200
@@ -2105,8 +2099,7 @@
   {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1742043609
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming  :-)",
@@ -2321,8 +2314,7 @@
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1742043609
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -2572,8 +2564,7 @@
   {
     "name": "HLL Official - US West #22",
     "addr": "45.137.246.9",
-    "port": 28100,
-    "removed": 1741957423
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #36",
@@ -2974,10 +2965,9 @@
     "port": 7777
   },
   {
-    "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1742042795
+    "port": 8530
   },
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
@@ -3060,7 +3050,7 @@
     "port": 9720
   },
   {
-    "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
+    "name": "#05 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
     "port": 8772
   },
@@ -3267,8 +3257,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742043609
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3537,7 +3526,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742062094
   },
   {
     "name": "HLL Official - Asia #05",
