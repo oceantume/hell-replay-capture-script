@@ -32,8 +32,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1741975727
+    "port": 7807
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -222,7 +221,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -500,12 +499,6 @@
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.30",
     "port": 8888
-  },
-  {
-    "name": "Blueberry Frontline | Warfare Only | Active Admins",
-    "addr": "161.129.66.154",
-    "port": 8530,
-    "removed": 1741393505
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -828,8 +821,7 @@
   {
     "name": "Koalaz Gaming | GER/EN Mic | Active Admins",
     "addr": "176.57.168.174",
-    "port": 28100,
-    "removed": 1741912242
+    "port": 28100
   },
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
@@ -1286,7 +1278,7 @@
     "port": 7847
   },
   {
-    "name": "♦ MIB ♦ Brasil - vip.marram.com.br ",
+    "name": "♦ MIB ♦ Brasil - vip.marram.com.br #5 ",
     "addr": "177.54.147.141",
     "port": 7867
   },
@@ -1294,6 +1286,11 @@
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
     "port": 7887
+  },
+  {
+    "name": "LATAM (Arg/Chi) Cougars & Condors",
+    "addr": "177.54.147.141",
+    "port": 7907
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -1305,6 +1302,11 @@
     "addr": "177.54.147.141",
     "port": 7947,
     "removed": 1741781509
+  },
+  {
+    "name": "3° DIVISÃO FIRESTORM [FSD]",
+    "addr": "177.54.147.141",
+    "port": 7967
   },
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
@@ -1632,12 +1634,12 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
   {
-    "name": "**L ** L***** ** ******* b* ********** ** S5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1914,7 +1916,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2009,7 +2011,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2069,7 +2071,7 @@
     "port": 28200
   },
   {
-    "name": "CN MICO咖啡屋  欧洲节点 Q1023817690",
+    "name": "<CN>BW黑色守望/绿区枫叶基地/Q群:1034621661",
     "addr": "213.136.80.177",
     "port": 28400
   },
@@ -2170,7 +2172,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -2195,7 +2197,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2889,12 +2891,6 @@
     "port": 28600
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "5.189.132.77",
-    "port": 28700,
-    "removed": 1741393505
-  },
-  {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -2907,26 +2903,22 @@
   {
     "name": "Task Force Koala #1 | Mixed Modes | discord.gg/tfk",
     "addr": "51.161.196.191",
-    "port": 8530,
-    "removed": 1741979368
+    "port": 8530
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1741979368
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1741979368
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1741979368
+    "port": 9620
   },
   {
     "name": "CZ/SK svet",
@@ -2936,8 +2928,7 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1741979368
+    "port": 9075
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -3343,7 +3334,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US Central #3 | Warfare | Discord.gg/m3rc",
+    "name": "[Merc] US Central #3| All Welcome | Warfare | Discord.gg/m3rc",
     "addr": "69.162.89.147",
     "port": 7777
   },
@@ -3541,8 +3532,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.73",
-    "port": 28200,
-    "removed": 1741912242
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #24",
@@ -3914,7 +3904,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4012,7 +4002,7 @@
     "port": 7777
   },
   {
-    "name": "MEXICO LATAM OGT",
+    "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.84",
     "port": 7777
   },
