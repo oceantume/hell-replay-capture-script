@@ -192,7 +192,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1742018914
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -389,12 +390,14 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742018914
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/ae25ujTZdz [IGL] FRENCH speaking on",
     "addr": "152.228.223.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742018914
   },
   {
     "name": "[FR] Chiens De La Casse - Bonne ambiance de rigueur !",
@@ -846,7 +849,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742018914
   },
   {
     "name": "QA Testing - EU #04",
@@ -1288,7 +1292,7 @@
     "port": 7887
   },
   {
-    "name": "LATAM (Arg/Chi) Cougars & Condors",
+    "name": "LATAM ESP (Arg/Chi) Cougars & Condors https://discord.gg/YCfxR7",
     "addr": "177.54.147.141",
     "port": 7907
   },
@@ -1401,7 +1405,8 @@
   {
     "name": "Landsharks (7th Armoured Cavalry) - Training Server",
     "addr": "185.125.205.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742018914
   },
   {
     "name": "Desert Ratz Event Server!",
@@ -1707,7 +1712,8 @@
   {
     "name": "[FR|TdA] La Tempête d'Acier|Contrôle Micro|Francophones|Modé",
     "addr": "194.164.96.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742018914
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1757,12 +1763,14 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742018914
   },
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1742018914
   },
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
@@ -2795,7 +2803,8 @@
   {
     "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
     "addr": "45.143.198.25",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742018914
   },
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
@@ -4140,6 +4149,11 @@
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.36",
     "port": 28100
+  },
+  {
+    "name": "ReflexServers | New Player Friendly - Great Times!",
+    "addr": "95.156.198.83",
+    "port": 10400
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
