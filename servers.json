@@ -1644,20 +1644,17 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1742040617
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1742040617
+    "port": 7777
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777,
-    "removed": 1742040617
+    "port": 7777
   },
   {
     "name": "HLL Official - US West #03",
@@ -1799,7 +1796,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1742127042
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1970,8 +1968,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742107022
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2129,7 +2126,7 @@
     "port": 8530
   },
   {
-    "name": "[CN]NekoHaven猫娘庇护所之暖服大作战日服Q:500001820",
+    "name": "[CN]NekoHaven猫娘庇护所暖服大作战日服Q:500001820",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -2151,7 +2148,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1742127042
   },
   {
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
@@ -2169,7 +2167,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -2846,8 +2844,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1742087019
+    "port": 7807
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -3561,7 +3558,7 @@
     "port": 28100
   },
   {
-    "name": "Jack",
+    "name": "CN# UE玛丽亚之墙夺回战  节点HK  Q群：797064367",
     "addr": "83.223.197.89",
     "port": 28000
   },
@@ -3609,8 +3606,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "83.223.203.130",
-    "port": 28100,
-    "removed": 1742040617
+    "port": 28100
   },
   {
     "name": "DevQA - US #03",
@@ -3620,8 +3616,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200,
-    "removed": 1742040617
+    "port": 28200
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -3912,7 +3907,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
