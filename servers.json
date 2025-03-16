@@ -72,7 +72,8 @@
   {
     "name": "<CN>BW黑色守望/黄区/病毒隔离区/Q:1034621661",
     "addr": "103.62.49.49",
-    "port": 8968
+    "port": 8968,
+    "removed": 1742128058
   },
   {
     "name": "HLL Official - Japan #02",
@@ -461,12 +462,6 @@
     "name": "<CN>jp男同皇帝萌新挨打服纯攻防",
     "addr": "156.146.44.225",
     "port": 7857
-  },
-  {
-    "name": "<CN>【EGFJ】萌新训练集中营",
-    "addr": "156.146.44.225",
-    "port": 7867,
-    "removed": 1741523050
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -1124,8 +1119,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1742108842
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1528,12 +1522,6 @@
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
     "port": 7777
-  },
-  {
-    "name": "[MEXICO][LATAM] CLANZEROSTUDIOS! Discord.gg/ClanZeroStudios",
-    "addr": "192.169.86.210",
-    "port": 7797,
-    "removed": 1741523050
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3255,7 +3243,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742128058
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
