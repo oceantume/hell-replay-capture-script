@@ -527,7 +527,7 @@
     "port": 9075
   },
   {
-    "name": "Turks Let Loose #1 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #1 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
   },
@@ -537,12 +537,12 @@
     "port": 7877
   },
   {
-    "name": "Turks Let Loose #2 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #2 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 [TR] :: TÜRK :: discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #3 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -847,8 +847,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
-    "port": 28000,
-    "removed": 1742018914
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #04",
@@ -1167,7 +1166,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742105307
   },
   {
     "name": "QA Testing - EU #05",
@@ -1345,7 +1345,7 @@
     "port": 7777
   },
   {
-    "name": "♦ MIB ♦ vip.marram.com.br #2 ",
+    "name": "♦ MIB ♦ vip.marram.com.br #2",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1377,7 +1377,8 @@
   {
     "name": "♦ MIB ♦ Brasil - vip.marram.com.br #3",
     "addr": "181.214.221.41",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742105307
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | Prácticas & Event",
@@ -3171,8 +3172,7 @@
   {
     "name": "BadgerGrounds - West Mongolia",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1742087019
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
