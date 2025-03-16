@@ -1753,7 +1753,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1742107610
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1990,8 +1991,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777,
-    "removed": 1742107022
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -3737,8 +3737,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1742107022
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS #4 | Level 50+ | discord.gg/taurus",
