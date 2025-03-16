@@ -22,7 +22,8 @@
   {
     "name": "Drop Bear Battalion |FDS| discord.gg/dropbear",
     "addr": "103.193.80.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742148503
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -74,6 +75,11 @@
     "addr": "103.62.49.49",
     "port": 8968,
     "removed": 1742128058
+  },
+  {
+    "name": "CN.jp#琳琅天上萌新小屋纯攻防#qq群484555616",
+    "addr": "103.62.49.49",
+    "port": 8978
   },
   {
     "name": "HLL Official - Japan #02",
@@ -222,7 +228,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -340,12 +346,6 @@
     "name": "FR/EN - Server Free Player Spirit (FPS) ",
     "addr": "149.102.135.184",
     "port": 28300
-  },
-  {
-    "name": "Gamers Elite UK | Warfare | Player Friendly| Discord.gg/geuk",
-    "addr": "149.102.135.184",
-    "port": 28400,
-    "removed": 1741543609
   },
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
@@ -573,7 +573,8 @@
   {
     "name": "ZGaming Servers - DOSEKAI CTM ENTRA ACA",
     "addr": "172.93.110.17",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742148503
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -710,7 +711,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "176.57.135.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742148503
   },
   {
     "name": "HLL Official - Australia #03",
@@ -886,8 +888,7 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300,
-    "removed": 1741673385
+    "port": 28300
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1300,7 +1301,7 @@
     "removed": 1741781509
   },
   {
-    "name": "3° DIVISÃO FIRESTORM [FSD] BRASIL",
+    "name": "3° DIVISÃO FIRESTORM [FSD] BRASIL | Discord : discord.gg/EQ",
     "addr": "177.54.147.141",
     "port": 7967
   },
@@ -1476,12 +1477,6 @@
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
     "port": 9075
-  },
-  {
-    "name": "BRASIL FRONTEIRA HELL | VIP: WWW.FRONTEIRAHELL.STORE",
-    "addr": "189.1.170.234",
-    "port": 9620,
-    "removed": 1741543609
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1662,7 +1657,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742148503
   },
   {
     "name": "HLL Official - US West #02",
@@ -1739,7 +1735,8 @@
   {
     "name": "[GER] eXiTe-Gaming XP",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1742148503
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1914,7 +1911,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2951,7 +2948,7 @@
     "port": 7777
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
   },
@@ -3143,7 +3140,8 @@
   {
     "name": "<CN>JP/菜鸟乐园『萌新友好』群号974297943",
     "addr": "64.31.11.50",
-    "port": 12890
+    "port": 12890,
+    "removed": 1742148503
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3243,8 +3241,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742128058
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3388,7 +3385,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.11",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742148503
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3508,13 +3506,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742148503
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.68",
-    "port": 28100,
-    "removed": 1742062094
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #05",
