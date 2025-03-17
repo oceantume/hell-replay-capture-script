@@ -2783,6 +2783,11 @@
     "port": 28300
   },
   {
+    "name": "HLL Official - US East #01",
+    "addr": "45.137.247.33",
+    "port": 28700
+  },
+  {
     "name": "HLL Official - US East #17",
     "addr": "45.137.247.37",
     "port": 28000,
@@ -3892,7 +3897,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "83.223.203.131",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742237383
   },
   {
     "name": "Servidor de eventos Ronin",
@@ -3917,14 +3923,12 @@
   {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
-    "port": 28100,
-    "removed": 1742236762
+    "port": 28100
   },
   {
     "name": "Hellfoxes  (US East) ENG Server by g-portal.com",
     "addr": "83.223.204.122",
-    "port": 28300,
-    "removed": 1742236762
+    "port": 28300
   },
   {
     "name": "CrossFire Gaming",
