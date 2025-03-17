@@ -775,7 +775,7 @@
     "port": 28200
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus [ab Lvl 25] [Mikro Pflicht]",
+    "name": "[GER]Kampfgruppe Lazarus [ab Lvl 30] [Mikro Pflicht]",
     "addr": "176.57.140.83",
     "port": 28000
   },
@@ -854,7 +854,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.168.189",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742216935
   },
   {
     "name": "DevQA - EU #02",
@@ -1667,8 +1668,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "193.192.58.65",
-    "port": 28000,
-    "removed": 1742148503
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #02",
@@ -2317,7 +2317,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "45.137.245.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742216935
   },
   {
     "name": "HLL Official - US West #11",
