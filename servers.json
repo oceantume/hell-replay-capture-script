@@ -227,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -282,7 +282,7 @@
     "port": 8530
   },
   {
-    "name": "DKB EVENT SERVER",
+    "name": "SLB #1",
     "addr": "141.95.33.70",
     "port": 9075
   },
@@ -294,6 +294,11 @@
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
     "addr": "141.95.35.153",
+    "port": 8530
+  },
+  {
+    "name": "[GER] Burning Jokers | [BJ] | Mic only | Wir Rekrutieren!",
+    "addr": "141.95.35.33",
     "port": 8530
   },
   {
@@ -1130,8 +1135,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.173.119",
-    "port": 28000,
-    "removed": 1742299916
+    "port": 28000
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -1173,12 +1177,6 @@
     "addr": "176.57.174.129",
     "port": 28100,
     "removed": 1742234957
-  },
-  {
-    "name": "HLL Dev Team 2",
-    "addr": "176.57.174.129",
-    "port": 28200,
-    "removed": 1741716560
   },
   {
     "name": "The Boys! - UK/EU - English Only - Mates Rates",
@@ -1225,12 +1223,6 @@
     "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.178.127",
     "port": 28100
-  },
-  {
-    "name": "<CN>1801#1 蓝蔷薇少女的骑行 欧服 Q群：677043328",
-    "addr": "176.57.178.127",
-    "port": 28200,
-    "removed": 1741716560
   },
   {
     "name": "HLL Official - UK #01",
@@ -1474,21 +1466,9 @@
     "port": 8530
   },
   {
-    "name": "Desert Ratz Event Server!",
-    "addr": "185.206.151.114",
-    "port": 8530,
-    "removed": 1741716560
-  },
-  {
     "name": "#3 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "185.206.151.114",
     "port": 9075
-  },
-  {
-    "name": "FUBAR #1[UK]-New Players Welcome-WARFARE ONLY-discord.gg/CCbdPb",
-    "addr": "185.206.151.30",
-    "port": 8530,
-    "removed": 1741716560
   },
   {
     "name": "    [SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
@@ -1570,7 +1550,8 @@
   {
     "name": "30th ID Battle of Mortain || Don't forget to join our discord @",
     "addr": "192.154.253.22",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742321378
   },
   {
     "name": "Cadmando - Commander Coffee Break, Flanked & Furious5",
@@ -1841,7 +1822,7 @@
     "port": 8530
   },
   {
-    "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
+    "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
     "addr": "198.244.177.7",
     "port": 9620
   },
@@ -1991,7 +1972,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2292,7 +2273,7 @@
     "port": 7787
   },
   {
-    "name": "☆ [UKLL] UK Let Loose ☆ | 24/7 Offensive | UKLETLOOSE.CO.UK",
+    "name": "#2 ☆ [UKLL] UK Let Loose ☆ | Offensive 24/7 | UKLETLOOSE.CO",
     "addr": "31.56.0.7",
     "port": 7777
   },
@@ -3441,7 +3422,7 @@
     "port": 7787
   },
   {
-    "name": "Bob the Builder Official | XP Farm | DISCORD.GG/BOBTHEBUILDER",
+    "name": "Bob the Builder Official | XP Farm |discord.gg/zCyNTgHhnK",
     "addr": "64.31.59.76",
     "port": 7777
   },
@@ -3478,8 +3459,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742300976
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3521,12 +3501,6 @@
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
     "port": 9075
-  },
-  {
-    "name": "D2 - Damned Defiants [Lvl 50+] [US] [MIC REQ] Discord.gg/FvdhNt",
-    "addr": "67.211.208.154",
-    "port": 8530,
-    "removed": 1741716560
   },
   {
     "name": "The Lucky Strikes | New Players Welcome",
@@ -3687,7 +3661,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1742321378
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3763,6 +3738,11 @@
     "name": "HLL Official - Asia #32",
     "addr": "83.223.197.170",
     "port": 28400
+  },
+  {
+    "name": "HLL Official - Asia #08",
+    "addr": "83.223.197.170",
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3867,7 +3847,8 @@
   {
     "name": "GIRTHY'S GRINDERS",
     "addr": "83.223.203.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742321378
   },
   {
     "name": "HLL Official - US East #03",
@@ -3890,7 +3871,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742321378
   },
   {
     "name": "HLL Official - US East #05",
@@ -3919,52 +3901,62 @@
   {
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742321378
   },
   {
     "name": "2nd Infantry DIV | New Players Welcome | US East | ",
     "addr": "83.223.203.51",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742321378
   },
   {
     "name": "Based Let Loose (US East)",
     "addr": "83.223.203.51",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742321378
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742321378
   },
   {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742321378
   },
   {
     "name": "Hellfoxes  (US East) ENG Server by g-portal.com",
     "addr": "83.223.204.122",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742321378
   },
   {
     "name": "CrossFire Gaming",
     "addr": "83.223.204.123",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742321378
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742321378
   },
   {
     "name": "Boneyard",
     "addr": "83.223.204.229",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742321378
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "83.223.204.52",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742321378
   },
   {
     "name": "QA Testing - US East #09",
@@ -4212,7 +4204,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4410,6 +4402,11 @@
     "name": "HLL Official - Australia #04",
     "addr": "94.250.221.25",
     "port": 28000
+  },
+  {
+    "name": "HLL Official - Australia #02",
+    "addr": "94.250.221.25",
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
