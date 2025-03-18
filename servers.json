@@ -264,12 +264,14 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742300976
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1742300976
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -2086,7 +2088,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3479,7 +3481,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742300976
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3516,12 +3519,6 @@
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
     "port": 8530
-  },
-  {
-    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
-    "addr": "65.21.46.146",
-    "port": 9075,
-    "removed": 1741695128
   },
   {
     "name": "Machine Soldiers Event Server | US EAST",
