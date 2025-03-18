@@ -48,14 +48,12 @@
   {
     "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
-    "port": 8918,
-    "removed": 1742281257
+    "port": 8918
   },
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
     "addr": "103.62.49.49",
-    "port": 8928,
-    "removed": 1742281257
+    "port": 8928
   },
   {
     "name": "CN#3 Mico咖啡屋萌新日服 150级以下&限杀Q:1023817690",
@@ -75,8 +73,7 @@
   {
     "name": "<CN>BW黑色守望/黄区/病毒隔离区/Q:1034621661",
     "addr": "103.62.49.49",
-    "port": 8968,
-    "removed": 1742281257
+    "port": 8968
   },
   {
     "name": "CN.jp#琳琅天上萌新小屋纯攻防#qq群484555616",
@@ -916,14 +913,14 @@
     "port": 28100
   },
   {
-    "name": "QA Testing - EU #03",
+    "name": "HLL Official - Europe #48",
     "addr": "176.57.168.216",
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #48",
+    "name": "QA Testing - EU #03",
     "addr": "176.57.168.216",
-    "port": 28200
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1026,11 +1023,6 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - EU #04",
-    "addr": "176.57.169.108",
-    "port": 28100
-  },
-  {
     "name": "HLL Official - Europe #37",
     "addr": "176.57.169.108",
     "port": 28100
@@ -1044,6 +1036,11 @@
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
     "port": 28400
+  },
+  {
+    "name": "QA Testing - EU #04",
+    "addr": "176.57.169.108",
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #15",
@@ -1133,7 +1130,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.173.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742299916
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -1214,6 +1212,11 @@
     "removed": 1742278211
   },
   {
+    "name": "QA Testing - EU #02",
+    "addr": "176.57.174.240",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
     "port": 28500
@@ -1262,7 +1265,7 @@
     "port": 28000
   },
   {
-    "name": "Training Ground (DM Chessie for map change)",
+    "name": "SLB #5",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1355,7 +1358,7 @@
     "port": 7887
   },
   {
-    "name": "LATAM/ESP Cougars & Condors https://discord.gg/YCfxR73h",
+    "name": "latam/esp COUGARS & CONDORS [cyc]",
     "addr": "177.54.147.141",
     "port": 7907
   },
@@ -2030,8 +2033,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742278211
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2288,6 +2290,11 @@
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "31.56.0.37",
     "port": 7787
+  },
+  {
+    "name": "☆ [UKLL] UK Let Loose ☆ | 24/7 Offensive | UKLETLOOSE.CO.UK",
+    "addr": "31.56.0.7",
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
@@ -2662,7 +2669,7 @@
     "removed": 1742234957
   },
   {
-    "name": "DevQA - US #03",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
     "port": 28200
   },
@@ -2671,6 +2678,11 @@
     "addr": "45.137.247.19",
     "port": 28300,
     "removed": 1742234957
+  },
+  {
+    "name": "HLL Official - US East #02",
+    "addr": "45.137.247.19",
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #09",
@@ -3155,7 +3167,8 @@
   {
     "name": "[5CITY #2] [PL/ENG] PAKT BULITROP JABCZANOV discord.gg/5cityhll",
     "addr": "51.75.58.121",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742299916
   },
   {
     "name": "Moon",
