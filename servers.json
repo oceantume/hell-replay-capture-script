@@ -1105,7 +1105,8 @@
   {
     "name": "[BxB] - Black Bees Server - [ESP] ",
     "addr": "176.57.168.69",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742410840
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -1962,7 +1963,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1742410840
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2523,7 +2525,8 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1742410840
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
@@ -3352,7 +3355,8 @@
   {
     "name": "Balkan Let Loose #1 ",
     "addr": "45.143.199.235",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742410840
   },
   {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
@@ -3398,8 +3402,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1742410289
+    "port": 7807
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
