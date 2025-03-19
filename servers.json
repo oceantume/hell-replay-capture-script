@@ -705,7 +705,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742364596
   },
   {
     "name": "HLL Official - Europe #07",
@@ -930,7 +931,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742364596
   },
   {
     "name": "Death Korps of Krieg",
@@ -1040,7 +1042,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1742364596
   },
   {
     "name": "QA Testing - EU #04",
@@ -1239,7 +1242,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742364596
   },
   {
     "name": "QA Testing - EU #05",
@@ -1402,12 +1406,12 @@
     "port": 8772
   },
   {
-    "name": "♦ MIB ♦ & BDM™ Brasil - vip.marram.com.br #1",
+    "name": "BDM™ Brasil - vip.marram.com.br #1",
     "addr": "181.214.221.212",
     "port": 7777
   },
   {
-    "name": "♦ MIB ♦ & BDM™ Brasil - vip.marram.com.br #2",
+    "name": "BDM™ Brasil - vip.marram.com.br #2",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1427,7 +1431,7 @@
     "port": 7827
   },
   {
-    "name": "♦ MIB ♦ & BDM™ Brasil - vip.marram.com.br #4",
+    "name": "BDM™ Brasil - vip.marram.com.br #4",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -1437,7 +1441,7 @@
     "port": 7777
   },
   {
-    "name": "♦ MIB ♦ & BDM™ Brasil - vip.marram.com.br #3",
+    "name": "BDM™ Brasil - vip.marram.com.br #3",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -1452,7 +1456,7 @@
     "port": 7807
   },
   {
-    "name": "♦ MIB ♦ & BDM™ Brasil - vip.marram.com.br #6  qonzer",
+    "name": "BDM™ Brasil - vip.marram.com.br #6  qonzer",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -2015,7 +2019,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742364596
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2085,7 +2090,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742364596
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -2202,6 +2208,11 @@
     "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
     "addr": "23.111.240.210",
     "port": 9075
+  },
+  {
+    "name": "<Cobras Fumantes> discord.gg/cobrasfumantes TREINO",
+    "addr": "23.142.25.45",
+    "port": 7777
   },
   {
     "name": "[13SNC] #4 - Dirty's Daycare - NEW PLAYERS WELCOME!",
@@ -2332,6 +2343,11 @@
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
     "port": 7867
+  },
+  {
+    "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
+    "addr": "31.56.0.81",
+    "port": 7877
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
@@ -3453,7 +3469,7 @@
     "port": 7777
   },
   {
-    "name": "♦ MIB ♦ & BDM™ - vip.marram.com.br #7 - QONZER.COM",
+    "name": "BDM™ - vip.marram.com.br #7 - QONZER.COM",
     "addr": "64.31.60.38",
     "port": 7777
   },
