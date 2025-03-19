@@ -158,7 +158,8 @@
   {
     "name": "Man !",
     "addr": "104.238.222.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742386305
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -428,7 +429,7 @@
     "port": 8530
   },
   {
-    "name": "CN1#HK#【ICY】社区#包子の干饭小屋#Q群:685297992",
+    "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
     "port": 7777
   },
@@ -1225,8 +1226,7 @@
   {
     "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1742323876
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1693,8 +1693,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1742367690
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -2020,8 +2019,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742364596
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2227,8 +2225,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1742367690
+    "port": 7797
   },
   {
     "name": "       [GER] HaLL | Hack Let Loose Eventserver",
@@ -2872,7 +2869,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1742386305
   },
   {
     "name": "HLL Official - US East #06",
@@ -3012,6 +3010,11 @@
   {
     "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
     "addr": "45.143.198.25",
+    "port": 8530
+  },
+  {
+    "name": "Balkan Let Loose #1 SRB/CRO/BiH/SLO",
+    "addr": "45.143.199.235",
     "port": 8530
   },
   {
@@ -3866,8 +3869,7 @@
   {
     "name": "GIRTHY'S GRINDERS",
     "addr": "83.223.203.121",
-    "port": 28200,
-    "removed": 1742321378
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #03",
@@ -3890,8 +3892,7 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
-    "port": 28200,
-    "removed": 1742321378
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #05",
@@ -3920,62 +3921,52 @@
   {
     "name": "Servidor de eventos Ronin",
     "addr": "83.223.203.182",
-    "port": 28000,
-    "removed": 1742321378
+    "port": 28000
   },
   {
     "name": "2nd Infantry DIV | New Players Welcome | US East | ",
     "addr": "83.223.203.51",
-    "port": 28000,
-    "removed": 1742321378
+    "port": 28000
   },
   {
     "name": "Based Let Loose (US East)",
     "addr": "83.223.203.51",
-    "port": 28200,
-    "removed": 1742321378
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.11",
-    "port": 28300,
-    "removed": 1742321378
+    "port": 28300
   },
   {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
-    "port": 28100,
-    "removed": 1742321378
+    "port": 28100
   },
   {
     "name": "Hellfoxes  (US East) ENG Server by g-portal.com",
     "addr": "83.223.204.122",
-    "port": 28300,
-    "removed": 1742321378
+    "port": 28300
   },
   {
     "name": "CrossFire Gaming",
     "addr": "83.223.204.123",
-    "port": 28000,
-    "removed": 1742321378
+    "port": 28000
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.129",
-    "port": 28000,
-    "removed": 1742321378
+    "port": 28000
   },
   {
     "name": "Boneyard",
     "addr": "83.223.204.229",
-    "port": 28100,
-    "removed": 1742321378
+    "port": 28100
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "83.223.204.52",
-    "port": 28000,
-    "removed": 1742321378
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -4182,7 +4173,7 @@
     "port": 7847
   },
   {
-    "name": "CN1#JP#【FJ】包子の男同俱乐部Q群:716701264",
+    "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
     "addr": "89.46.1.190",
     "port": 7857
   },
