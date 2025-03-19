@@ -2009,7 +2009,8 @@
   {
     "name": "[GER] {WoA} World of Asgard 2",
     "addr": "208.115.206.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742365544
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -2090,8 +2091,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1742364596
+    "port": 7777
   },
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
@@ -2347,7 +2347,8 @@
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
     "addr": "31.56.0.81",
-    "port": 7877
+    "port": 7877,
+    "removed": 1742365544
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
@@ -4071,12 +4072,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "Skridge's Server US EAST",
-    "addr": "89.117.72.67",
-    "port": 30800,
-    "removed": 1741759800
   },
   {
     "name": "HLL Official - South America #01",
