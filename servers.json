@@ -1059,12 +1059,12 @@
     "port": 28000
   },
   {
-    "name": "HLL Official - Europe #43",
+    "name": "Team17 CERT",
     "addr": "176.57.168.38",
     "port": 28100
   },
   {
-    "name": "Team17 CERT",
+    "name": "HLL Official - Europe #43",
     "addr": "176.57.168.38",
     "port": 28100
   },
@@ -3819,7 +3819,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742434707
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -4379,6 +4380,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "85.208.197.76",
+    "port": 7777
+  },
+  {
     "name": "[GER] Panzerschreck Peanut Butter | MEGAN FOX | MIC ONLY | VOTE",
     "addr": "88.198.47.123",
     "port": 8530
@@ -4543,7 +4549,8 @@
   {
     "name": "HLL Server",
     "addr": "90.246.108.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742434707
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
