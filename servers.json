@@ -757,8 +757,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1742430658
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -3924,12 +3923,6 @@
     "port": 8530
   },
   {
-    "name": "[13SNC] #4 - Dirty's Vikings - discord.gg/13snc",
-    "addr": "79.127.249.117",
-    "port": 7787,
-    "removed": 1741825902
-  },
-  {
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
     "port": 8530
@@ -4546,6 +4539,11 @@
     "name": "CN1# EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.246.108.194",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
