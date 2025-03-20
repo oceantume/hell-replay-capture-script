@@ -751,8 +751,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1742364596
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1005,8 +1004,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500,
-    "removed": 1742364596
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #38",
@@ -1147,8 +1145,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1742364596
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -1195,7 +1192,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742450989
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1400,8 +1398,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1742364596
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1926,7 +1923,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1742450989
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -2168,7 +2166,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742450989
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3378,7 +3377,7 @@
     "port": 8530
   },
   {
-    "name": "SLB #3",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -4370,7 +4369,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Event",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -4380,7 +4379,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
     "addr": "85.208.197.76",
     "port": 7777
   },
