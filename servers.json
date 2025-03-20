@@ -1073,12 +1073,12 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -2507,8 +2507,7 @@
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1742497126
+    "port": 11100
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -3471,7 +3470,8 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742497815
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -4507,8 +4507,7 @@
   {
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
     "addr": "89.46.1.190",
-    "port": 7857,
-    "removed": 1742497126
+    "port": 7857
   },
   {
     "name": "<CN>【EGFJ】萌新训练集中营",
