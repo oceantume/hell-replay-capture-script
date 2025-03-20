@@ -310,7 +310,8 @@
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
     "addr": "141.95.3.135",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742495992
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1073,12 +1074,12 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -2218,6 +2219,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.250.3",
+    "port": 7787
+  },
+  {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "208.115.250.5",
     "port": 7777
@@ -3348,7 +3354,8 @@
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742495992
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
@@ -3782,8 +3789,7 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.60.36",
-    "port": 7777,
-    "removed": 1742495103
+    "port": 7777
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
@@ -4364,7 +4370,8 @@
   {
     "name": "63rd infantry Division [iB][New Player Friendly][Recruiting now",
     "addr": "88.209.197.59",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742495992
   },
   {
     "name": "{serverName}",
