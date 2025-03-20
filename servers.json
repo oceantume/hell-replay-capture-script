@@ -897,12 +897,6 @@
     "removed": 1742234957
   },
   {
-    "name": "QA Testing - EU #08",
-    "addr": "176.57.140.97",
-    "port": 28100,
-    "removed": 1741849185
-  },
-  {
     "name": "#1 SLL -=Scandinavians Let Loose=-  Offensive ONLY - VIP for Se",
     "addr": "176.57.153.114",
     "port": 28000
@@ -1223,8 +1217,7 @@
   {
     "name": "Chiemson",
     "addr": "176.57.171.44",
-    "port": 28000,
-    "removed": 1742453473
+    "port": 28000
   },
   {
     "name": "(GER) Odins Wikinger  Wir Rekrutieren !| discord.gg/3s4G3vsQAt",
@@ -1396,21 +1389,9 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1741849185
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
-  },
-  {
-    "name": "QA Testing - EU #05",
-    "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1741849185
   },
   {
     "name": "{SPECIALSERVER}",
@@ -1884,12 +1865,6 @@
     "addr": "193.192.58.65",
     "port": 28100,
     "removed": 1742234957
-  },
-  {
-    "name": "QA Testing - US West #06",
-    "addr": "193.192.58.65",
-    "port": 28200,
-    "removed": 1741849185
   },
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
@@ -2950,12 +2925,12 @@
     "removed": 1742234957
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "DevQA - US #03",
     "addr": "45.137.247.19",
     "port": 28200
   },
   {
-    "name": "DevQA - US #03",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
     "port": 28200
   },
