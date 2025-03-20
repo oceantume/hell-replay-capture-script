@@ -529,12 +529,6 @@
   },
   {
     "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
-    "addr": "160.202.167.27",
-    "port": 8888,
-    "removed": 1741889369
-  },
-  {
-    "name": "The Draft [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "160.202.167.30",
     "port": 8888,
     "removed": 1742041621
@@ -3788,7 +3782,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.60.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742495103
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
