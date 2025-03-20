@@ -245,8 +245,7 @@
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "136.243.106.82",
-    "port": 8530,
-    "removed": 1742430658
+    "port": 8530
   },
   {
     "name": "What can I say",
@@ -286,32 +285,27 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165,
-    "removed": 1742453473
+    "port": 10165
   },
   {
     "name": "BWR | Russian Server Moscow | RU | discord.gg/PQ6wFSy5u8",
     "addr": "141.105.66.70",
-    "port": 10710,
-    "removed": 1742452842
+    "port": 10710
   },
   {
     "name": "Cult | Moscow | discord.cultcity.ru | Russian Public Server",
     "addr": "141.105.66.70",
-    "port": 8530,
-    "removed": 1742452842
+    "port": 8530
   },
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1742452842
+    "port": 9075
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1742452842
+    "port": 9620
   },
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
@@ -496,8 +490,7 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1742407777
+    "port": 7837
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -1617,8 +1610,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1742234957
+    "port": 7777
   },
   {
     "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
@@ -1811,7 +1803,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1742472724
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2147,8 +2140,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742450989
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2412,7 +2404,7 @@
     "port": 7787
   },
   {
-    "name": "#2 ☆ [UKLL] UK Let Loose ☆ | Offensive 24/7 | UKLETLOOSE.CO",
+    "name": "#2 ☆ [UKLL] UK Let Loose ☆ | ALL MAPS | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
     "port": 7777
   },
@@ -2916,7 +2908,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742472724
   },
   {
     "name": "HLL Official - US East #27",
@@ -2925,12 +2918,12 @@
     "removed": 1742234957
   },
   {
-    "name": "DevQA - US #03",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
     "port": 28200
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "DevQA - US #03",
     "addr": "45.137.247.19",
     "port": 28200
   },
@@ -3172,8 +3165,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1742386305
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -3804,7 +3796,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742472724
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
