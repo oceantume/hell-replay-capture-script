@@ -310,8 +310,7 @@
   {
     "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
     "addr": "141.95.3.135",
-    "port": 9075,
-    "removed": 1742495992
+    "port": 9075
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1074,12 +1073,12 @@
     "port": 28200
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -2221,7 +2220,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.250.3",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742496581
   },
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
@@ -3354,8 +3354,7 @@
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
-    "port": 8530,
-    "removed": 1742495992
+    "port": 8530
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
@@ -4370,8 +4369,7 @@
   {
     "name": "63rd infantry Division [iB][New Player Friendly][Recruiting now",
     "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1742495992
+    "port": 8530
   },
   {
     "name": "{serverName}",
