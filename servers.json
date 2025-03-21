@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish VM | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1742580538
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -265,7 +266,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -345,7 +346,7 @@
     "port": 8530
   },
   {
-    "name": "Cossacsk's Gaming Team",
+    "name": "CGT Cossacks HLL server [PL/ENG] VIP for seeding discord.gg/cos",
     "addr": "142.132.135.202",
     "port": 8530
   },
@@ -492,7 +493,8 @@
   {
     "name": "cn#重生之我在费服当皇帝(混合图池)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1742580538
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -603,7 +605,8 @@
   {
     "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | disco",
     "addr": "172.93.105.158",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742580538
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -641,12 +644,6 @@
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
-  },
-  {
-    "name": "Hell let loose (EU) michal i ostrunia",
-    "addr": "176.57.134.27",
-    "port": 28200,
-    "removed": 1741975727
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
@@ -1464,7 +1461,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] Hack let Loose | Testserver | by Brennholzverleih ",
+    "name": "[GER] 1. DosenBier Division Eventserver | powered by Hack let L",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1617,7 +1614,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742580538
   },
   {
     "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
@@ -1652,7 +1650,8 @@
   {
     "name": "[ITA/EU/ENG] PizzaLetLoose | VOTEMAP AVAILABLE! | https://disco",
     "addr": "188.64.33.118",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742580538
   },
   {
     "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
@@ -1804,8 +1803,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1742540637
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -2255,7 +2253,8 @@
   {
     "name": "mmmeo",
     "addr": "213.136.80.177",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742580538
   },
   {
     "name": "<CN>BW黑色守望/绿区枫叶基地/Q群:1034621661",
@@ -2400,7 +2399,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] Λ • TAURUS | Event Server | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS | Event Server #1 | discord.gg/taurus",
     "addr": "31.56.0.37",
     "port": 7777
   },
@@ -2603,14 +2602,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1742562315
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1742562315
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #37",
@@ -2710,8 +2707,7 @@
   {
     "name": "HLL Official - US West #44",
     "addr": "45.137.246.18",
-    "port": 28300,
-    "removed": 1742562315
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #45",
@@ -2798,8 +2794,7 @@
   {
     "name": "HLL Official - US West #35",
     "addr": "45.137.246.6",
-    "port": 28200,
-    "removed": 1742562315
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #43",
@@ -2809,8 +2804,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1742562315
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #26",
@@ -2884,8 +2878,7 @@
   {
     "name": "HLL Official - US West #22",
     "addr": "45.137.246.9",
-    "port": 28100,
-    "removed": 1742562315
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #36",
@@ -2900,8 +2893,7 @@
   {
     "name": "HLL Official - US West #48",
     "addr": "45.137.246.9",
-    "port": 28400,
-    "removed": 1742562315
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #34",
@@ -2916,8 +2908,7 @@
   {
     "name": "HLL Official - US West #09",
     "addr": "45.137.246.9",
-    "port": 28700,
-    "removed": 1742562315
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -3336,7 +3327,7 @@
     "removed": 1742235886
   },
   {
-    "name": "RageMonkies-ENG/NL OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
+    "name": "RageMonkies- OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
     "addr": "45.143.198.25",
     "port": 8530
   },
@@ -3423,7 +3414,7 @@
     "port": 28000
   },
   {
-    "name": "[GER+Mic] BündnisServer der KL/TP/100.",
+    "name": "[GER+Mic] Bündnisserver der KL/TP/100.",
     "addr": "5.189.132.77",
     "port": 28200
   },
@@ -3993,7 +3984,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742580538
   },
   {
     "name": "HLL Official - Asia #04",
@@ -4183,7 +4175,8 @@
   {
     "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742580538
   },
   {
     "name": "GIRTHY'S GRINDERS",
@@ -4349,7 +4342,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Λ • TAURUS #4 | Level 50+ | discord.gg/taurus",
+    "name": "[GER] Λ • TAURUS | Event Server #2 | discord.gg/taurus",
     "addr": "85.208.197.70",
     "port": 7777
   },
@@ -4528,7 +4521,7 @@
     "port": 7877
   },
   {
-    "name": "CN1# EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
   },
@@ -4554,7 +4547,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4759,8 +4752,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1742407777
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
