@@ -856,6 +856,11 @@
     "port": 28700
   },
   {
+    "name": "frogus",
+    "addr": "176.57.140.64",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Europe #19",
     "addr": "176.57.140.73",
     "port": 28000,
@@ -1036,8 +1041,7 @@
   {
     "name": "KRTs Killing at Camelot ",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1742540637
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1050,14 +1054,14 @@
     "port": 28000
   },
   {
-    "name": "Team17 CERT",
+    "name": "HLL Official - Europe #43",
     "addr": "176.57.168.38",
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe #43",
+    "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #23",
@@ -1328,8 +1332,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1742540637
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
@@ -1743,12 +1746,6 @@
     "port": 8772
   },
   {
-    "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
-    "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1741954289
-  },
-  {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
     "addr": "192.169.93.234",
     "port": 7777
@@ -2143,8 +2140,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742537439
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2197,7 +2193,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2356,8 +2352,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1742540637
+    "port": 7797
   },
   {
     "name": "       [GER] HaLL | Hack Let Loose Eventserver",
@@ -2367,8 +2362,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1742540637
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2393,8 +2387,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1742540637
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2921,8 +2914,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1742472724
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #27",
@@ -3840,12 +3832,6 @@
     "name": "Hell-let-loose-norway",
     "addr": "65.21.22.47",
     "port": 7777
-  },
-  {
-    "name": "21 ARMY | Русский Сервер [RUS] Discord.gg/21army",
-    "addr": "65.21.22.47",
-    "port": 7807,
-    "removed": 1741954289
   },
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
