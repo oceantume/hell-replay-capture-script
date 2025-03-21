@@ -245,7 +245,8 @@
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "136.243.106.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742517093
   },
   {
     "name": "What can I say",
@@ -263,7 +264,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -343,7 +344,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Cossacsk's Gaming Team",
     "addr": "142.132.135.202",
     "port": 8530
   },
@@ -353,7 +354,7 @@
     "port": 9075
   },
   {
-    "name": "[FR] 2eBCP \\/ discord.gg/ZJhqdxKv7v \\/ 2ebcp.xooit.com",
+    "name": "[FR] 2eBCP \\_/ 2e Bataillon de Commandos Parachutistes \\_/",
     "addr": "145.239.253.127",
     "port": 8772
   },
@@ -574,7 +575,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #3 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose Eğitim Sunucusu - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -1073,12 +1074,12 @@
     "port": 28200
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -1395,7 +1396,7 @@
     "port": 28000
   },
   {
-    "name": "SLB #5",
+    "name": "Training Ground",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1476,7 +1477,7 @@
     "port": 7847
   },
   {
-    "name": "♦ MIB ♦ Brasil - vip.marram.com.br #5 ",
+    "name": "♦ MIB ♦ Brasil // Junte-se à insanidade",
     "addr": "177.54.147.141",
     "port": 7867
   },
@@ -1531,12 +1532,12 @@
     "port": 8772
   },
   {
-    "name": "BDM™ #1 - Concorra um mouse logitech  discord.gg/marram",
+    "name": "MARRAM #1 Concorra um Headset JBL discord.gg/marram",
     "addr": "181.214.221.212",
     "port": 7777
   },
   {
-    "name": "BDM™ #2 - Concorra um mouse logitech  discord.gg/marram",
+    "name": "MARRAM #2 Concorra um Headset JBL -  discord.gg/marram",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1556,7 +1557,7 @@
     "port": 7827
   },
   {
-    "name": "BDM™ #2 - Concorra um mouse logitech  discord.gg/marram",
+    "name": "MARRAM #4 Concorra um mouse logitech  discord.gg/marram",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -1566,7 +1567,7 @@
     "port": 7777
   },
   {
-    "name": "BDM™ #3 - Concorra um mouse logitech  discord.gg/marram",
+    "name": "MARRAM #3 Concorra um Headset JBL - discord.gg/marram",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -1896,8 +1897,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877,
-    "removed": 1742450989
+    "port": 7877
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -2097,7 +2097,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2193,7 +2193,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2299,7 +2299,7 @@
     "port": 28700
   },
   {
-    "name": "|GoF|UK|Stomping Grounds|discord.gg/gofhq",
+    "name": "[GoF]StaffyFPS Retirement Home|discord.gg/gofhq",
     "addr": "213.166.84.8",
     "port": 8530
   },
@@ -3340,6 +3340,11 @@
     "removed": 1742410840
   },
   {
+    "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
+    "addr": "45.143.199.235",
+    "port": 9075
+  },
+  {
     "name": "| Off Cooldown | New Player Friendly! | Discord: offcooldown.ne",
     "addr": "45.45.238.203",
     "port": 8530,
@@ -3361,7 +3366,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE",
+    "name": "GREYHOUND Event",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -3470,8 +3475,7 @@
   {
     "name": "BB | Blueberry Brigade",
     "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1742497815
+    "port": 9075
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
@@ -3844,7 +3848,8 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742517093
   },
   {
     "name": "The Lucky Strikes | New Players Welcome",
@@ -3904,6 +3909,11 @@
   {
     "name": "[US] ★ Western Front #1 ★ | US East",
     "addr": "78.142.218.161",
+    "port": 8530
+  },
+  {
+    "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
+    "addr": "78.46.101.16",
     "port": 8530
   },
   {
@@ -3994,8 +4004,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900,
-    "removed": 1742430658
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #02",
@@ -4346,7 +4355,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "Greyhound Prep",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -4546,7 +4555,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4666,7 +4675,7 @@
     "port": 28500
   },
   {
-    "name": "INFERNO NO LESTE  A GUERRA DE BARBAROSSA || BRASIL ||  ",
+    "name": "Barbarossa Blitz  || BRASIL || ironblitz.com.br",
     "addr": "92.38.151.76",
     "port": 28000
   },
