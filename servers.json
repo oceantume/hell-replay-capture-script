@@ -138,7 +138,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - Japan #05",
@@ -2602,12 +2603,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #37",
@@ -2707,7 +2710,8 @@
   {
     "name": "HLL Official - US West #44",
     "addr": "45.137.246.18",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #45",
@@ -2794,7 +2798,8 @@
   {
     "name": "HLL Official - US West #35",
     "addr": "45.137.246.6",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #43",
@@ -2804,7 +2809,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #26",
@@ -2878,7 +2884,8 @@
   {
     "name": "HLL Official - US West #22",
     "addr": "45.137.246.9",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #36",
@@ -2893,7 +2900,8 @@
   {
     "name": "HLL Official - US West #48",
     "addr": "45.137.246.9",
-    "port": 28400
+    "port": 28400,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US West #34",
@@ -2908,7 +2916,8 @@
   {
     "name": "HLL Official - US West #09",
     "addr": "45.137.246.9",
-    "port": 28700
+    "port": 28700,
+    "removed": 1742562315
   },
   {
     "name": "HLL Official - US East #04",
@@ -3775,6 +3784,11 @@
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "64.31.6.90",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.6.92",
+    "port": 7777
   },
   {
     "name": " »BAIN« | Training & Event | bainclan.com.br",
