@@ -56,7 +56,7 @@
     "port": 8928
   },
   {
-    "name": "CN#3 Mico咖啡屋萌新日服 150级以下&限杀Q:1023817690",
+    "name": "CN#3 Mico咖啡屋萌新日服 175级以下&限杀Q:1023817690",
     "addr": "103.62.49.49",
     "port": 8938
   },
@@ -240,7 +240,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1742537439
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -1074,12 +1075,12 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -1358,7 +1359,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742537439
   },
   {
     "name": "HLL Official - Europe #46",
@@ -2139,7 +2141,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742537439
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2184,8 +2187,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "208.115.226.3",
-    "port": 7777,
-    "removed": 1742494161
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -2218,7 +2220,7 @@
     "port": 7777
   },
   {
-    "name": "Crusader Gaming [ORDO] US Mixed Modes",
+    "name": "Crusader Gaming [ORDO] .gg/crusader",
     "addr": "208.115.250.3",
     "port": 7787
   },
@@ -3848,8 +3850,7 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075,
-    "removed": 1742517093
+    "port": 9075
   },
   {
     "name": "The Lucky Strikes | New Players Welcome",
