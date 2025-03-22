@@ -459,7 +459,8 @@
   {
     "name": "2nd Armored | US CENTRAL | discord.gg/2ad",
     "addr": "154.16.170.225",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742666896
   },
   {
     "name": "Mediocre Gaming | New Player Friendly | Central US",
@@ -1457,7 +1458,7 @@
     "port": 28000
   },
   {
-    "name": " [BWR] UKRAINIAN SERVER № 1 (UA/ENG) https://discord.gg/nYkwZ",
+    "name": " [BWR] UKRAINIAN SERVER № 1 (UA/ENG)https://discord.gg/eqDdVh",
     "addr": "176.57.181.34",
     "port": 28100
   },
@@ -1542,7 +1543,7 @@
     "port": 7777
   },
   {
-    "name": "MARRAM #2 Concorra um Headset JBL -  discord.gg/marram",
+    "name": "MARRAM #2 - Concorra um Headset JBL -  discord.gg/marram",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1655,12 +1656,6 @@
     "removed": 1742580538
   },
   {
-    "name": "[FR] Origins - French speaking only ! discord.gg/7zKKkeTwTY",
-    "addr": "188.64.33.86",
-    "port": 8530,
-    "removed": 1742062094
-  },
-  {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "188.64.33.86",
     "port": 9075
@@ -1721,7 +1716,7 @@
     "port": 7777
   },
   {
-    "name": "βreakaway βattalion | US EAST    https://discord.gg/breakaway",
+    "name": "βreakaway βattalion | US EAST discord.gg/breakawaybattalion",
     "addr": "192.169.86.213",
     "port": 7787
   },
@@ -2091,7 +2086,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2219,6 +2214,11 @@
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "208.115.250.5",
     "port": 7777
+  },
+  {
+    "name": "Pathfinders | Event Server",
+    "addr": "208.115.250.5",
+    "port": 7787
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -3323,7 +3323,7 @@
     "removed": 1742235886
   },
   {
-    "name": "RageMonkies- OFFENSIVE ONLY(RMK) discord.gg/ragemonkies ",
+    "name": "#1 RMK Europe - New Players Welcome - OFFENSIVE ONLY - discord.",
     "addr": "45.143.198.25",
     "port": 8530
   },
@@ -3507,7 +3507,7 @@
     "port": 9075
   },
   {
-    "name": " [BWR] UKRAINIAN SERVER № 2 (UA/ENG)https://discord.gg/nYkwZQ",
+    "name": " [BWR] UKRAINIAN SERVER № 2 (UA/ENG)https://discord.gg/eqDdVh",
     "addr": "51.83.150.42",
     "port": 7817
   },
@@ -3758,7 +3758,7 @@
     "port": 7787
   },
   {
-    "name": "Bob the Builder Official | XP Farm |discord.gg/zCyNTgHhnK",
+    "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
     "addr": "64.31.59.76",
     "port": 7777
   },
@@ -3903,6 +3903,11 @@
     "port": 8530
   },
   {
+    "name": "[GER] 300 Spartaner https://discord.gg/xzakqjCF",
+    "addr": "78.46.101.16",
+    "port": 9075
+  },
+  {
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
     "port": 8530
@@ -3980,8 +3985,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1742580538
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
@@ -4076,8 +4080,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1742494161
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
@@ -4504,8 +4507,7 @@
   {
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
     "addr": "89.46.1.190",
-    "port": 7857,
-    "removed": 1742648439
+    "port": 7857
   },
   {
     "name": "<CN>【EGFJ】萌新训练集中营",
