@@ -265,7 +265,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -2186,7 +2186,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -4504,7 +4504,8 @@
   {
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
     "addr": "89.46.1.190",
-    "port": 7857
+    "port": 7857,
+    "removed": 1742648439
   },
   {
     "name": "<CN>【EGFJ】萌新训练集中营",
