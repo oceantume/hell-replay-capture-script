@@ -66,7 +66,7 @@
     "port": 8948
   },
   {
-    "name": "CN#1 Mico咖啡屋 日服 Q群:1023817690",
+    "name": "CN#1 MICO咖啡屋の攻防日服 Q群:1023817690",
     "addr": "103.62.49.49",
     "port": 8958
   },
@@ -497,10 +497,9 @@
     "port": 7827
   },
   {
-    "name": "cn#重生之我在费服当皇帝(混合图池)Q群892753546",
+    "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1742580538
+    "port": 7837
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -1341,7 +1340,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742623727
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1367,8 +1367,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1742537439
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #46",
@@ -1393,7 +1392,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742623727
   },
   {
     "name": "{SPECIALSERVER}",
@@ -1939,8 +1939,7 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1742607461
+    "port": 21200
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -2145,7 +2144,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742623727
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -3766,7 +3766,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742623727
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/zCyNTgHhnK",
