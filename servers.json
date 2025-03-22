@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Offensive & Skirmish VM | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1742580538
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -395,6 +394,11 @@
     "name": "FR/EN - Server Free Player Spirit (FPS) ",
     "addr": "149.102.135.184",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "149.86.20.175",
+    "port": 7777
   },
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
@@ -1738,8 +1742,7 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1742603441
+    "port": 8530
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -4484,7 +4487,8 @@
   {
     "name": "CN1MAX老B登&喷火龙的军官营JPQ341807965",
     "addr": "89.46.1.190",
-    "port": 7807
+    "port": 7807,
+    "removed": 1742605089
   },
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
