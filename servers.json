@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Offensive & Skirmish VM | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Vote Map All Modes | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -346,7 +346,7 @@
     "port": 8530
   },
   {
-    "name": "[PL/ENG] CGT >> Cossacks HLL << VIP Seeding | discord.gg/cossac",
+    "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "142.132.135.202",
     "port": 8530
   },
@@ -583,7 +583,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose Eğitim Sunucusu - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #3 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
     "port": 7797
   },
@@ -2145,8 +2145,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742623727
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2427,17 +2426,17 @@
     "port": 7787
   },
   {
-    "name": "CN1#JP战斗当然要来猫猫萌新军官の咖啡馆|Q1207481",
+    "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP战斗当然要来猫猫甜甜攻防の咖啡馆|Q1207481",
+    "name": "CN2#JP战斗当然来猫猫甜甜攻防咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP战斗当然要来猫猫萌新限杀の咖啡馆|Q1207481",
+    "name": "CN3#JP战斗当然来猫猫萌新限杀咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -3088,7 +3087,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1742645415
   },
   {
     "name": "HLL Official - US East #47",
@@ -3767,8 +3767,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1742623727
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/zCyNTgHhnK",
