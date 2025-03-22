@@ -398,7 +398,8 @@
   {
     "name": "HLL Server",
     "addr": "149.86.20.175",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742607461
   },
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
@@ -1938,7 +1939,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1742607461
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -4485,10 +4487,9 @@
     "port": 7787
   },
   {
-    "name": "CN1MAX老B登&喷火龙的军官营JPQ341807965",
+    "name": "<CN>JP喷火龙的军官营Q群：341807965",
     "addr": "89.46.1.190",
-    "port": 7807,
-    "removed": 1742605089
+    "port": 7807
   },
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
@@ -4600,8 +4601,7 @@
   {
     "name": "[TOG] The Old Guard Official (US VA)",
     "addr": "92.118.18.82",
-    "port": 7787,
-    "removed": 1742603441
+    "port": 7787
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
