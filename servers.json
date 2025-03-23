@@ -647,6 +647,11 @@
     "port": 8530
   },
   {
+    "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
+    "addr": "176.57.134.27",
+    "port": 28000
+  },
+  {
     "name": "          [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
     "addr": "176.57.134.27",
     "port": 28400
@@ -807,7 +812,8 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742710130
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -837,7 +843,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1742710130
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1000,7 +1007,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742710130
   },
   {
     "name": "HLL Official - Europe #38",
@@ -1035,7 +1043,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare ",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742710130
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1229,7 +1238,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742710130
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1256,7 +1266,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.173.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742710130
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -1337,8 +1348,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1742623727
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1389,8 +1399,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1742623727
+    "port": 28000
   },
   {
     "name": "{SPECIALSERVER}",
@@ -2485,7 +2494,7 @@
     "port": 7907
   },
   {
-    "name": "|CNC|[水晶枢纽]日服冲突攻防轮换(665327895)",
+    "name": "|Nexus|[水晶枢纽]日服冲突攻防轮换(665327895)|CNC|",
     "addr": "31.56.0.81",
     "port": 7917
   },
@@ -4180,7 +4189,7 @@
     "port": 28100
   },
   {
-    "name": "CN# UE玛丽亚之墙夺回战  节点HK  Q群：797064367",
+    "name": "CN# UE 玛丽亚之墙夺回战  节点HK  Q群：797064367",
     "addr": "83.223.197.89",
     "port": 28000
   },
