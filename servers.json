@@ -1713,8 +1713,7 @@
   {
     "name": "Helios | Lvl 25+ | Discord.gg/newhelios",
     "addr": "192.169.86.109",
-    "port": 7787,
-    "removed": 1742711041
+    "port": 7787
   },
   {
     "name": "[13SNC] #3 - Dirty's Rejects [US] - Discord.gg/13snc",
@@ -3967,6 +3966,16 @@
     "addr": "83.223.197.121",
     "port": 28200,
     "removed": 1742234957
+  },
+  {
+    "name": "HLL Official - Asia #11",
+    "addr": "83.223.197.144",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #18",
+    "addr": "83.223.197.144",
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #24",
