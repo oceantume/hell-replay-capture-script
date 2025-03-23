@@ -139,8 +139,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1742562315
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -1866,7 +1865,8 @@
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742734882
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -2190,7 +2190,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3810,8 +3810,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742731827
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
