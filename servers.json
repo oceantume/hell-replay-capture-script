@@ -3765,7 +3765,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742713024
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
@@ -3810,8 +3811,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742712470
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
