@@ -265,7 +265,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1865,8 +1865,7 @@
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1742734882
+    "port": 28000
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -2000,7 +1999,7 @@
     "port": 8888
   },
   {
-    "name": "CN2「JWH」哈基米冲突服JP.q1020812925",
+    "name": "<cn1/jp>风暴兵忠嗣学院纯攻防q1020812925",
     "addr": "203.10.98.41",
     "port": 8908
   },
@@ -2010,7 +2009,7 @@
     "port": 8918
   },
   {
-    "name": "cn1「JWH」哈基米萌新冲突服JP.q1020812925",
+    "name": "<cn2/jp>风暴兵忠嗣学院纯冲突q1020812925",
     "addr": "203.10.98.41",
     "port": 8928
   },
@@ -2095,7 +2094,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2215,7 +2214,7 @@
     "port": 7777
   },
   {
-    "name": "Crusader [ORDO] Offensive Heavy .gg/crusader",
+    "name": "[ORDO] U.S. Central (Chicago) .gg/crusader",
     "addr": "208.115.250.3",
     "port": 7787
   },
@@ -3523,7 +3522,8 @@
   {
     "name": "  #1 [GLL] GOOSE LET LOOSE - Low Ping",
     "addr": "51.89.152.177",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742753301
   },
   {
     "name": "FOR KING & COUNTRY NEW PLAYERS WELCOME ",
@@ -4020,7 +4020,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1742753301
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -4030,7 +4031,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1742753301
   },
   {
     "name": "HLL Official - Asia #13",
@@ -4493,7 +4495,8 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（美军进攻）Q群:797464980",
     "addr": "89.46.1.190",
-    "port": 7177
+    "port": 7177,
+    "removed": 1742753301
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
@@ -4511,7 +4514,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>JP喷火龙的军官营Q群：341807965",
+    "name": "cn1 Max老b登&喷火龙的军官营JP341807965",
     "addr": "89.46.1.190",
     "port": 7807
   },
