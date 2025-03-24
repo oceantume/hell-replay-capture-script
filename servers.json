@@ -220,8 +220,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1742799774
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -328,8 +327,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1742799774
+    "port": 9620
   },
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
@@ -486,7 +484,8 @@
   {
     "name": "CN淘宝人间地狱工作室服务器出租兵种代刷",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1742818377
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -526,8 +525,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1742799774
+    "port": 9075
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 3 | LEXI-FLEXIS TABLEDANCE OINK",
@@ -634,8 +632,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1742799774
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1799,14 +1796,12 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1742799774
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1742799774
+    "port": 7777
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
@@ -2049,8 +2044,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "205.209.105.250",
-    "port": 8530,
-    "removed": 1742799774
+    "port": 8530
   },
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
@@ -2110,8 +2104,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742796624
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2245,12 +2238,6 @@
     "port": 29000
   },
   {
-    "name": "Hell let LuuL (GER/DE) New Players Welcome #1",
-    "addr": "213.136.88.87",
-    "port": 28200,
-    "removed": 1742213537
-  },
-  {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
     "port": 28400
@@ -2263,7 +2250,8 @@
   {
     "name": "NordiNorweger",
     "addr": "213.136.94.160",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742818377
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2307,7 +2295,7 @@
     "port": 8772
   },
   {
-    "name": "[GER] Die verbotenen Karten | Mic Only [BFTB]",
+    "name": "[GER] Gottimperator Ecko | Mic Pflicht",
     "addr": "23.111.240.210",
     "port": 9075
   },
@@ -2329,19 +2317,17 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1742799774
+    "port": 7797
   },
   {
-    "name": "       [GER] HaLL | Hack Let Loose Eventserver",
+    "name": "HaLL Testserver",
     "addr": "31.56.0.13",
     "port": 7777
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1742799774
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2366,8 +2352,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1742799774
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -2743,8 +2728,7 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200,
-    "removed": 1742799774
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #15",
@@ -2896,7 +2880,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742818377
   },
   {
     "name": "HLL Official - US East #27",
@@ -3147,8 +3132,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1742731827
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -3506,7 +3490,7 @@
     "removed": 1742753301
   },
   {
-    "name": "FOR KING & COUNTRY NEW PLAYERS WELCOME ",
+    "name": "FOR KING & COUNTRY UK/EU",
     "addr": "51.89.152.230",
     "port": 8530
   },
@@ -3739,8 +3723,7 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787,
-    "removed": 1742796624
+    "port": 7787
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
@@ -3891,6 +3874,11 @@
     "name": "[GER] 300 Spartaner https://discord.gg/xzakqjCF",
     "addr": "78.46.101.16",
     "port": 9075
+  },
+  {
+    "name": "GERMANIA | The ultimate European group",
+    "addr": "78.46.101.16",
+    "port": 9620
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
@@ -4201,12 +4189,6 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
-  },
-  {
-    "name": "HLL Official - US East #05",
-    "addr": "83.223.203.130",
-    "port": 28000,
-    "removed": 1742213537
   },
   {
     "name": "HLL Official - US East #06",
