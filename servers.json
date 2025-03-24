@@ -828,13 +828,13 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1742710130
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742796624
   },
   {
     "name": "HLL Official - Europe #42",
@@ -934,12 +934,6 @@
     "removed": 1742234957
   },
   {
-    "name": "HLL Official - Europe #07",
-    "addr": "176.57.168.187",
-    "port": 28200,
-    "removed": 1742191823
-  },
-  {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.168.189",
     "port": 28000,
@@ -956,12 +950,6 @@
     "addr": "176.57.168.189",
     "port": 28300,
     "removed": 1742234957
-  },
-  {
-    "name": "HLL Official - Europe #08",
-    "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1742191823
   },
   {
     "name": "QA Testing - EU #02",
@@ -992,8 +980,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500,
-    "removed": 1742710130
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #38",
@@ -1028,8 +1015,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare ",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1742710130
+    "port": 28000
   },
   {
     "name": "KRTs Killing at Camelot ",
@@ -1223,8 +1209,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1742710130
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1920,7 +1905,7 @@
     "port": 8530
   },
   {
-    "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
+    "name": "Hell Let Loose by GTXGaming.co.uk",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -2117,7 +2102,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742796624
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2740,7 +2726,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "45.137.246.2",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742796624
   },
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
@@ -3740,7 +3727,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742796624
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
