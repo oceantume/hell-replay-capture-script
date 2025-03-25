@@ -25,7 +25,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
     "addr": "103.193.80.26",
     "port": 7787
   },
@@ -67,8 +67,7 @@
   {
     "name": "CN#1 MICO咖啡屋の攻防日服 Q群:1023817690",
     "addr": "103.62.49.49",
-    "port": 8958,
-    "removed": 1742670376
+    "port": 8958
   },
   {
     "name": "<CN>BW黑色守望/黄区/周末品枪/Q:1034621661",
@@ -220,7 +219,8 @@
   {
     "name": "=7Cav= Tactical Realism | US West | Discord.gg/7Cav",
     "addr": "104.255.170.181",
-    "port": 9075
+    "port": 9075,
+    "removed": 1742883028
   },
   {
     "name": "[GER] DOG Hundehütte",
@@ -235,7 +235,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1742883028
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -506,7 +507,8 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1742883028
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -994,12 +996,12 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #33",
+    "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
     "port": 28300
   },
   {
-    "name": "DevQA - EU #01",
+    "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
   },
@@ -1258,12 +1260,6 @@
     "name": "HLL Official - Europe #40",
     "addr": "176.57.174.240",
     "port": 28100
-  },
-  {
-    "name": "QA Testing - EU #02",
-    "addr": "176.57.174.240",
-    "port": 28200,
-    "removed": 1742278211
   },
   {
     "name": "QA Testing - EU #02",
@@ -1621,6 +1617,11 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "192.169.86.51",
     "port": 7777
   },
   {
@@ -2002,7 +2003,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742883028
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2182,7 +2184,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1742883028
   },
   {
     "name": "Draft Haus has moved! Search: The DRAFT [HAUS] |US EAST",
@@ -2327,7 +2330,8 @@
   {
     "name": "HLL Server",
     "addr": "31.56.0.81",
-    "port": 7837
+    "port": 7837,
+    "removed": 1742883028
   },
   {
     "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
@@ -3685,6 +3689,11 @@
     "port": 8530
   },
   {
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
+    "addr": "78.142.218.164",
+    "port": 9075
+  },
+  {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -4321,8 +4330,7 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100,
-    "removed": 1742864405
+    "port": 28100
   },
   {
     "name": "HLL Official - South America #09",
@@ -4345,7 +4353,7 @@
     "port": 28500
   },
   {
-    "name": "BAND OF BROTHERS  || BRASIL || ironblitz.com.br",
+    "name": "BAND OF BROTHERS  || BRASIL || bobclan.com.br",
     "addr": "92.38.151.76",
     "port": 28000
   },
