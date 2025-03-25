@@ -25,6 +25,11 @@
     "port": 7807
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "103.193.80.26",
+    "port": 7787
+  },
+  {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
     "port": 7807
@@ -608,12 +613,6 @@
     "addr": "172.93.105.158",
     "port": 9075,
     "removed": 1742580538
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "172.93.105.158",
-    "port": 9620,
-    "removed": 1742259549
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -4322,7 +4321,8 @@
   {
     "name": "HLL Official - South America #07",
     "addr": "92.38.151.75",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742864405
   },
   {
     "name": "HLL Official - South America #09",
