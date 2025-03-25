@@ -55,7 +55,7 @@
     "port": 8928
   },
   {
-    "name": "CN#3 Mico咖啡屋萌新日服 175级以下&限杀Q:1023817690",
+    "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
     "addr": "103.62.49.49",
     "port": 8938
   },
@@ -225,8 +225,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1742886092
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -508,8 +507,7 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1742883028
+    "port": 7837
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -888,7 +886,8 @@
   {
     "name": "For Tea & Country [EU|ENG] New player friendly",
     "addr": "176.57.168.178",
-    "port": 28100
+    "port": 28100,
+    "removed": 1742904730
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 4 | BUMSHÜTTE |QS|OINK",
@@ -2004,8 +2003,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742883028
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2058,7 +2056,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2268,7 +2266,7 @@
     "port": 7857
   },
   {
-    "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
+    "name": "CN#3 Mico咖啡屋萌新日服 限制175级以下 Q:1023817690",
     "addr": "31.56.0.18",
     "port": 7777
   },
@@ -2794,8 +2792,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1742818377
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -3141,6 +3138,11 @@
     "port": 9075
   },
   {
+    "name": "[1stAL] 1st Armoured Legion ",
+    "addr": "45.143.199.235",
+    "port": 9620
+  },
+  {
     "name": "Crimson Vanguard US Central ",
     "addr": "45.45.238.203",
     "port": 9075
@@ -3269,12 +3271,6 @@
     "name": "RUS | Jager Group Server",
     "addr": "51.75.147.215",
     "port": 9075
-  },
-  {
-    "name": "[5CITY #2] [PL/ENG] PAKT BULITROP JABCZANOV discord.gg/5cityhll",
-    "addr": "51.75.58.121",
-    "port": 7777,
-    "removed": 1742299916
   },
   {
     "name": "Moon",
@@ -4173,7 +4169,8 @@
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
     "addr": "89.46.1.190",
-    "port": 7817
+    "port": 7817,
+    "removed": 1742904730
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
