@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区爆超纱雾/Q:1034621661",
+    "name": "<CN>BW黑色守望/纱雾baobao最棒/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -199,12 +199,6 @@
     "name": "USA WEST-BAKO BATTLEFIELD PC",
     "addr": "104.238.220.213",
     "port": 9075
-  },
-  {
-    "name": "Man !",
-    "addr": "104.238.222.122",
-    "port": 7777,
-    "removed": 1742386305
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -642,7 +636,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.134.27",
-    "port": 28000
+    "port": 28000,
+    "removed": 1742991124
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
@@ -1297,9 +1292,19 @@
     "port": 28000
   },
   {
+    "name": "QA Testing - UK #07",
+    "addr": "176.57.178.141",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - EU #05",
+    "addr": "176.57.178.17",
+    "port": 28200
   },
   {
     "name": "{SPECIALSERVER}",
@@ -1515,8 +1520,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1742580538
+    "port": 7777
   },
   {
     "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
@@ -1953,7 +1957,8 @@
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
     "addr": "208.115.206.187",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742991124
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
@@ -2008,8 +2013,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1742969409
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2306,32 +2310,38 @@
   {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742991124
   },
   {
     "name": "CN2#JP战斗当然来猫猫甜甜攻防咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787
+    "port": 7787,
+    "removed": 1742991124
   },
   {
     "name": "CN3#JP战斗当然来猫猫萌新限杀咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797
+    "port": 7797,
+    "removed": 1742991124
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807
+    "port": 7807,
+    "removed": 1742991124
   },
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817
+    "port": 7817,
+    "removed": 1742991124
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7827
+    "port": 7827,
+    "removed": 1742991124
   },
   {
     "name": "HLL Server",
@@ -2342,42 +2352,50 @@
   {
     "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
     "addr": "31.56.0.81",
-    "port": 7847
+    "port": 7847,
+    "removed": 1742991124
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7857
+    "port": 7857,
+    "removed": 1742991124
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7867
+    "port": 7867,
+    "removed": 1742991124
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
     "addr": "31.56.0.81",
-    "port": 7877
+    "port": 7877,
+    "removed": 1742991124
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "31.56.0.81",
-    "port": 7887
+    "port": 7887,
+    "removed": 1742991124
   },
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
     "addr": "31.56.0.81",
-    "port": 7897
+    "port": 7897,
+    "removed": 1742991124
   },
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
-    "port": 7907
+    "port": 7907,
+    "removed": 1742991124
   },
   {
     "name": "|Nexus|[水晶枢纽]日服冲突攻防轮换(665327895)|CNC|",
     "addr": "31.56.0.81",
-    "port": 7917
+    "port": 7917,
+    "removed": 1742991124
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -2815,7 +2833,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.19",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742991124
   },
   {
     "name": "HLL Official - US East #09",
