@@ -995,11 +995,6 @@
     "port": 28200
   },
   {
-    "name": "DevQA - EU #01",
-    "addr": "176.57.168.61",
-    "port": 28300
-  },
-  {
     "name": "HLL Official - Europe #33",
     "addr": "176.57.168.61",
     "port": 28300
@@ -1520,7 +1515,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742992178
   },
   {
     "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
@@ -3154,6 +3150,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "45.143.199.235",
+    "port": 10165
+  },
+  {
     "name": "Balkan Let Loose #1 ",
     "addr": "45.143.199.235",
     "port": 8530,
@@ -3621,7 +3622,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1742992178
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
