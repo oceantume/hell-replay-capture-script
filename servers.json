@@ -2460,30 +2460,6 @@
     "removed": 1742407777
   },
   {
-    "name": "HLL Official - US West #39",
-    "addr": "45.137.246.11",
-    "port": 28200,
-    "removed": 1742389607
-  },
-  {
-    "name": "HLL Official - US West #50",
-    "addr": "45.137.246.11",
-    "port": 28300,
-    "removed": 1742389607
-  },
-  {
-    "name": "HLL Official - US West #12",
-    "addr": "45.137.246.12",
-    "port": 28000,
-    "removed": 1742389607
-  },
-  {
-    "name": "HLL Official - US West #25",
-    "addr": "45.137.246.12",
-    "port": 28100,
-    "removed": 1742389607
-  },
-  {
     "name": "HLL Official - US West #38",
     "addr": "45.137.246.12",
     "port": 28200,
@@ -2512,7 +2488,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1742994494
   },
   {
     "name": "HLL Official - US West #37",
@@ -3627,8 +3604,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1742992178
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -4269,7 +4245,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
