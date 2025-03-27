@@ -1496,7 +1496,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1743100806
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -2829,7 +2830,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND Event",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -3257,7 +3258,8 @@
   {
     "name": " »BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.60.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743100806
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -3277,8 +3279,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743099888
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3734,7 +3735,7 @@
     "port": 7777
   },
   {
-    "name": "Greyhound Prep",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
   },
