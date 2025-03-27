@@ -955,8 +955,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1743077524
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #41",
@@ -1638,7 +1637,8 @@
   {
     "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
     "addr": "195.181.175.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743078593
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -3276,7 +3276,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743078593
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
