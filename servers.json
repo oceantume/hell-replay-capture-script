@@ -57,8 +57,7 @@
   {
     "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
     "addr": "103.62.49.49",
-    "port": 8938,
-    "removed": 1743015634
+    "port": 8938
   },
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
@@ -68,11 +67,10 @@
   {
     "name": "CN#1 MICO咖啡屋の攻防日服 Q群:1023817690",
     "addr": "103.62.49.49",
-    "port": 8958,
-    "removed": 1743015634
+    "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/纱雾baobao最棒/Q:1034621661",
+    "name": "<CN>BW黑色守望/狂超纱雾baobao/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -229,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -434,6 +432,11 @@
     "port": 8530
   },
   {
+    "name": "US(EAST) vanilla",
+    "addr": "154.53.48.184",
+    "port": 35100
+  },
+  {
     "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
     "port": 7777
@@ -546,7 +549,8 @@
   {
     "name": "Turks Let Loose #3 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.69",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743035505
   },
   {
     "name": "[TR] TSK Türkiye #1 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
@@ -1811,7 +1815,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1906,7 +1910,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2149,26 +2153,22 @@
   {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777,
-    "removed": 1742991124
+    "port": 7777
   },
   {
     "name": "CN2#JP战斗当然来猫猫甜甜攻防咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1742991124
+    "port": 7787
   },
   {
     "name": "CN3#JP战斗当然来猫猫萌新限杀咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1742991124
+    "port": 7797
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1742991124
+    "port": 7807
   },
   {
     "name": "hll MT Server",
@@ -2191,8 +2191,7 @@
   {
     "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1742991124
+    "port": 7847
   },
   {
     "name": "[CN]ITK#1琴里~二次元家园冲突日服Q群48381851",
@@ -2793,12 +2792,6 @@
     "name": "Hell Broke Luce",
     "addr": "45.143.199.235",
     "port": 10165
-  },
-  {
-    "name": "Balkan Let Loose #1 ",
-    "addr": "45.143.199.235",
-    "port": 8530,
-    "removed": 1742410840
   },
   {
     "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
@@ -4076,32 +4069,27 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "94.250.221.25",
-    "port": 28300,
-    "removed": 1743015634
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #06",
     "addr": "94.250.221.25",
-    "port": 28600,
-    "removed": 1743015634
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #07",
     "addr": "94.250.221.25",
-    "port": 28700,
-    "removed": 1743015634
+    "port": 28700
   },
   {
     "name": "HLL Official - Australia #08",
     "addr": "94.250.221.27",
-    "port": 28000,
-    "removed": 1743015634
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #14",
     "addr": "94.250.221.27",
-    "port": 28100,
-    "removed": 1743015634
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #05",
@@ -4111,32 +4099,27 @@
   {
     "name": "HLL Official - Australia #13",
     "addr": "94.250.221.27",
-    "port": 28300,
-    "removed": 1743015634
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #10",
     "addr": "94.250.221.27",
-    "port": 28400,
-    "removed": 1743015634
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #09",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1743015634
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.27",
-    "port": 28600,
-    "removed": 1743015634
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #12",
     "addr": "94.250.221.27",
-    "port": 28700,
-    "removed": 1743015634
+    "port": 28700
   },
   {
     "name": "HLL Official - Australia #15",
