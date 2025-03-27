@@ -188,12 +188,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743055815
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743055815
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -203,7 +205,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1743055815
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -636,8 +639,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1742969409
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #26",
@@ -1857,7 +1859,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743055815
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2173,14 +2176,12 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1742991124
+    "port": 7817
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7827,
-    "removed": 1742991124
+    "port": 7827
   },
   {
     "name": "HLL Server",
@@ -2201,8 +2202,7 @@
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7867,
-    "removed": 1742991124
+    "port": 7867
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
@@ -2213,8 +2213,7 @@
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "31.56.0.81",
-    "port": 7887,
-    "removed": 1742991124
+    "port": 7887
   },
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
@@ -2231,8 +2230,7 @@
   {
     "name": "|Nexus|[水晶枢纽]日服冲突攻防轮换(665327895)|CNC|",
     "addr": "31.56.0.81",
-    "port": 7917,
-    "removed": 1742991124
+    "port": 7917
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -3127,6 +3125,11 @@
     "port": 9075
   },
   {
+    "name": "The Realms of Asgard - Ragnarok",
+    "addr": "64.20.50.186",
+    "port": 8530
+  },
+  {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
     "addr": "64.31.11.26",
     "port": 11255
@@ -3872,12 +3875,6 @@
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.246.108.194",
-    "port": 7777,
-    "removed": 1742434707
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
