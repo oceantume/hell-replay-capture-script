@@ -183,8 +183,7 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1743058935
+    "port": 8530
   },
   {
     "name": "HLL Official - Russia #01",
@@ -206,8 +205,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1743055815
+    "port": 9224
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -294,8 +292,7 @@
   {
     "name": "GER - |HTD| HaiiTeD Clan Server",
     "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1743058935
+    "port": 9620
   },
   {
     "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
@@ -499,8 +496,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1743058935
+    "port": 9075
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 3 | LEXI-FLEXIS TABLEDANCE OINK",
@@ -602,8 +598,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1743058935
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -960,7 +955,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743077524
   },
   {
     "name": "HLL Official - Europe #41",
@@ -1288,7 +1284,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1743077524
   },
   {
     "name": "MARRAM #1 - Concorra um Headset JBL - vip.marram.com.br",
@@ -1398,6 +1395,11 @@
     "port": 7807
   },
   {
+    "name": "RCON Testing",
+    "addr": "188.165.39.157",
+    "port": 7817
+  },
+  {
     "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
     "addr": "188.165.39.157",
     "port": 7877
@@ -1499,6 +1501,11 @@
     "port": 8772
   },
   {
+    "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
+    "addr": "192.169.89.18",
+    "port": 9014
+  },
+  {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
     "addr": "192.169.93.234",
     "port": 7777
@@ -1551,8 +1558,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1743058935
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1567,14 +1573,12 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1743058935
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1743058935
+    "port": 7777
   },
   {
     "name": "TD 〢 Tank Destroyers | EU/ENG | Discord.gg/TankDestroyers",
@@ -1632,6 +1636,11 @@
     "port": 7877
   },
   {
+    "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
+    "addr": "195.181.175.179",
+    "port": 7777
+  },
+  {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
     "port": 7787
@@ -1665,7 +1674,8 @@
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
     "addr": "198.244.164.168",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743077524
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1805,8 +1815,12 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "205.209.105.250",
-    "port": 8530,
-    "removed": 1743058935
+    "port": 8530
+  },
+  {
+    "name": "Blueberry Frontline | Warfare Only | US East",
+    "addr": "205.209.120.234",
+    "port": 8530
   },
   {
     "name": "多 | Hostile Unknown | Europe | .gg/hostile",
@@ -1867,8 +1881,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743055815
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL SKIRMISH | LOW PING | PBSGAMETEAM.COM",
@@ -2084,19 +2097,17 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1743058935
+    "port": 7797
   },
   {
-    "name": "HaLL TestTest",
+    "name": "HaLL TestTest1",
     "addr": "31.56.0.13",
     "port": 7777
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1743058935
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2121,8 +2132,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1743058935
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 - Dirty's Spankbank - discord.gg/13snc",
@@ -2218,8 +2228,7 @@
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
     "addr": "31.56.0.81",
-    "port": 7877,
-    "removed": 1742991124
+    "port": 7877
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
@@ -2229,14 +2238,12 @@
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
     "addr": "31.56.0.81",
-    "port": 7897,
-    "removed": 1742991124
+    "port": 7897
   },
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
-    "port": 7907,
-    "removed": 1742991124
+    "port": 7907
   },
   {
     "name": "|Nexus|[水晶枢纽]日服冲突攻防轮换(665327895)|CNC|",
@@ -2659,7 +2666,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1743077524
   },
   {
     "name": "HLL Official - US East #47",
@@ -2822,7 +2830,7 @@
     "port": 8530
   },
   {
-    "name": "Crimson Tide | New IP check server list to find new server",
+    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
     "port": 8530
   },
@@ -3293,7 +3301,8 @@
   {
     "name": "Hell-let-loose-norway",
     "addr": "65.21.22.47",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743077524
   },
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
