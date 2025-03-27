@@ -157,12 +157,14 @@
   {
     "name": "『MEXICO/LATAM』 ✹COSMICWATERMELON✹ ESPAÑOL",
     "addr": "104.238.220.189",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743080889
   },
   {
     "name": "USA WEST-BAKO BATTLEFIELD PC",
     "addr": "104.238.220.213",
-    "port": 9075
+    "port": 9075,
+    "removed": 1743080889
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -517,7 +519,8 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743080889
   },
   {
     "name": "First Line of Defence EU",
@@ -1935,7 +1938,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2304,8 +2307,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1742994494
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #37",
@@ -2461,7 +2463,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743080889
   },
   {
     "name": "HLL Official - US West #26",
@@ -3288,7 +3291,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743080889
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -4147,6 +4151,11 @@
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.36",
     "port": 28400
+  },
+  {
+    "name": "hll Server",
+    "addr": "95.173.197.210",
+    "port": 7777
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
