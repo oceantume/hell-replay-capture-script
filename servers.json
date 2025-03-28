@@ -1938,7 +1938,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2098,7 +2098,7 @@
     "port": 7797
   },
   {
-    "name": "HaLL - Eventserver 2",
+    "name": "HaLL Eventserver 2",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2222,7 +2222,8 @@
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7867
+    "port": 7867,
+    "removed": 1743166283
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
@@ -2262,12 +2263,14 @@
   {
     "name": "nitrado.net gameserver kUA3BDEp",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1743166283
   },
   {
     "name": "nitrado.net gameserver MiZa_b5i",
     "addr": "37.10.127.2",
-    "port": 11100
+    "port": 11100,
+    "removed": 1743166283
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
