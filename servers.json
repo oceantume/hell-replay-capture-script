@@ -1210,7 +1210,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] Mustangs Eventserver | powered by Hack Let Loose",
+    "name": "[GER] BJ Events | powered by Hack Let Loose",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -3278,7 +3278,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743187326
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
