@@ -221,7 +221,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -433,8 +433,7 @@
   {
     "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1743163923
+    "port": 7777
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -447,10 +446,9 @@
     "port": 7797
   },
   {
-    "name": "cn 流流流",
+    "name": "<CN>1号流走战争游乐园 Q群926657611",
     "addr": "156.146.44.225",
-    "port": 7807,
-    "removed": 1743079929
+    "port": 7807
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -567,12 +565,6 @@
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
     "addr": "172.93.105.158",
     "port": 8530
-  },
-  {
-    "name": "[PV] Project V Network | USA East | NEW PLAYERS WELCOME | disco",
-    "addr": "172.93.105.158",
-    "port": 9075,
-    "removed": 1742580538
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -692,8 +684,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1743142234
+    "port": 28000
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -768,8 +759,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1743142234
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (MIC Pflicht, German only, A",
@@ -1220,7 +1210,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] Hack let Loose | Testserver | by Brennholzverleih",
+    "name": "[GER] Genosse Holzschuh | powered by Hack Let Loose",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1346,7 +1336,7 @@
     "port": 7807
   },
   {
-    "name": "BDM™ Brasil - vip.marram.com.br #6  qonzer",
+    "name": "Marram #6 - vip.marram.com.br #6  qonzer",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -1405,12 +1395,6 @@
     "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord.gg/7ecie",
     "addr": "188.165.39.157",
     "port": 7877
-  },
-  {
-    "name": "[ITA/EU/ENG] PizzaLetLoose | VOTEMAP AVAILABLE! | https://disco",
-    "addr": "188.64.33.118",
-    "port": 8530,
-    "removed": 1742580538
   },
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
@@ -1647,7 +1631,8 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743185399
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1843,7 +1828,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -2004,12 +1989,6 @@
     "removed": 1742862714
   },
   {
-    "name": "mmmeo",
-    "addr": "213.136.80.177",
-    "port": 28200,
-    "removed": 1742580538
-  },
-  {
     "name": "<CN>BW黑色守望/绿区枫叶基地/Q群:1034621661",
     "addr": "213.136.80.177",
     "port": 28400,
@@ -2098,7 +2077,7 @@
     "port": 7797
   },
   {
-    "name": "爪 - Events",
+    "name": "[GER] Hackengas | powered by Hack Let Loose",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2341,14 +2320,12 @@
   {
     "name": "HLL Official - US West #47",
     "addr": "45.137.246.16",
-    "port": 28300,
-    "removed": 1743167179
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #23",
     "addr": "45.137.246.16",
-    "port": 28400,
-    "removed": 1743167179
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #15",
@@ -2368,8 +2345,7 @@
   {
     "name": "HLL Official - US West #33",
     "addr": "45.137.246.17",
-    "port": 28200,
-    "removed": 1743167179
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #41",
@@ -2379,8 +2355,7 @@
   {
     "name": "HLL Official - US West #50",
     "addr": "45.137.246.17",
-    "port": 28400,
-    "removed": 1743167179
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #39",
@@ -2390,8 +2365,7 @@
   {
     "name": "HLL Official - US West #24",
     "addr": "45.137.246.17",
-    "port": 28600,
-    "removed": 1743167179
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #13",
@@ -2411,20 +2385,17 @@
   {
     "name": "HLL Official - US West #29",
     "addr": "45.137.246.18",
-    "port": 28200,
-    "removed": 1743167179
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #44",
     "addr": "45.137.246.18",
-    "port": 28300,
-    "removed": 1743167179
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #45",
     "addr": "45.137.246.18",
-    "port": 28400,
-    "removed": 1743167179
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #31",
@@ -2455,8 +2426,7 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000,
-    "removed": 1743167179
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #17",
@@ -2471,8 +2441,7 @@
   {
     "name": "HLL Official - US West #43",
     "addr": "45.137.246.6",
-    "port": 28300,
-    "removed": 1743167179
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #03",
@@ -2502,14 +2471,12 @@
   {
     "name": "HLL Official - US West #32",
     "addr": "45.137.246.7",
-    "port": 28200,
-    "removed": 1743167179
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #46",
     "addr": "45.137.246.7",
-    "port": 28300,
-    "removed": 1743167179
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #38",
@@ -2534,32 +2501,27 @@
   {
     "name": "HLL Official - US West #36",
     "addr": "45.137.246.9",
-    "port": 28200,
-    "removed": 1743167179
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #49",
     "addr": "45.137.246.9",
-    "port": 28300,
-    "removed": 1743167179
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #48",
     "addr": "45.137.246.9",
-    "port": 28400,
-    "removed": 1743167179
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #34",
     "addr": "45.137.246.9",
-    "port": 28500,
-    "removed": 1743167179
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #21",
     "addr": "45.137.246.9",
-    "port": 28600,
-    "removed": 1743167179
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #09",
@@ -3507,14 +3469,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1743098953
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1743098953
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3524,7 +3484,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1743185399
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3574,8 +3535,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.168",
-    "port": 28900,
-    "removed": 1743098953
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #23",
@@ -3641,15 +3601,9 @@
     "port": 28100
   },
   {
-    "name": "CN# UE 玛丽亚之墙夺回战  节点HK  Q群：797064367",
+    "name": "CN# UE玛丽亚之墙夺回战  节点HK  Q群：797064367",
     "addr": "83.223.197.89",
     "port": 28000
-  },
-  {
-    "name": "<CN>1801#2 极北的蓝蔷薇少女 港服 Q群：677043328",
-    "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1742580538
   },
   {
     "name": "GIRTHY'S GRINDERS",
@@ -4104,7 +4058,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743185399
   },
   {
     "name": "HLL Official - Australia #03",
