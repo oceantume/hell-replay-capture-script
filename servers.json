@@ -2098,7 +2098,7 @@
     "port": 7797
   },
   {
-    "name": "HaLL Eventserver 2",
+    "name": "爪 - Events",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2310,7 +2310,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #37",
@@ -2340,12 +2341,14 @@
   {
     "name": "HLL Official - US West #47",
     "addr": "45.137.246.16",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #23",
     "addr": "45.137.246.16",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #15",
@@ -2365,7 +2368,8 @@
   {
     "name": "HLL Official - US West #33",
     "addr": "45.137.246.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #41",
@@ -2375,7 +2379,8 @@
   {
     "name": "HLL Official - US West #50",
     "addr": "45.137.246.17",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #39",
@@ -2385,7 +2390,8 @@
   {
     "name": "HLL Official - US West #24",
     "addr": "45.137.246.17",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #13",
@@ -2405,17 +2411,20 @@
   {
     "name": "HLL Official - US West #29",
     "addr": "45.137.246.18",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #44",
     "addr": "45.137.246.18",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #45",
     "addr": "45.137.246.18",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #31",
@@ -2446,7 +2455,8 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #17",
@@ -2461,13 +2471,13 @@
   {
     "name": "HLL Official - US West #43",
     "addr": "45.137.246.6",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1743080889
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #26",
@@ -2492,12 +2502,14 @@
   {
     "name": "HLL Official - US West #32",
     "addr": "45.137.246.7",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #46",
     "addr": "45.137.246.7",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #38",
@@ -2522,27 +2534,32 @@
   {
     "name": "HLL Official - US West #36",
     "addr": "45.137.246.9",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #49",
     "addr": "45.137.246.9",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #48",
     "addr": "45.137.246.9",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #34",
     "addr": "45.137.246.9",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #21",
     "addr": "45.137.246.9",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743167179
   },
   {
     "name": "HLL Official - US West #09",
