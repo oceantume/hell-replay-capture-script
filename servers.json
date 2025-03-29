@@ -831,12 +831,6 @@
     "port": 28000
   },
   {
-    "name": "KRTs Killing at Camelot ",
-    "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1742627280
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
     "port": 28300
@@ -1603,7 +1597,8 @@
   {
     "name": "[FR|TdA] La Tempête d'Acier|100% Micro Fr|Modération Active",
     "addr": "194.164.96.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743232117
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -2791,6 +2786,11 @@
     "name": "[FR Only] Seychelle Le Luchs - Débutant friendly - Modération",
     "addr": "45.143.199.235",
     "port": 10710
+  },
+  {
+    "name": "[FR|TdA] La Tempête d'Acier|100% Micro Fr|Modération Active",
+    "addr": "45.143.199.235",
+    "port": 11255
   },
   {
     "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
