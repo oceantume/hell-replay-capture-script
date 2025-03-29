@@ -221,7 +221,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -264,12 +264,6 @@
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
     "port": 9620
-  },
-  {
-    "name": "[GER] 300 Spartaner https://discord.gg/p6btCnZRep",
-    "addr": "141.95.3.135",
-    "port": 9075,
-    "removed": 1742603441
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1210,7 +1204,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] BJ Events | powered by Hack Let Loose",
+    "name": "[GER] HaLL Eventserver 1",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1619,8 +1613,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877,
-    "removed": 1743142234
+    "port": 7877
   },
   {
     "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
@@ -1631,8 +1624,7 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
-    "port": 7787,
-    "removed": 1743185399
+    "port": 7787
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1828,7 +1820,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1923,7 +1915,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2077,7 +2069,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] 100. Eventserver | powered by Hack Let Loose",
+    "name": "[GER] HaLL Eventserver 2",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -3773,8 +3765,7 @@
   {
     "name": "HLL Official - South America #08",
     "addr": "89.43.106.36",
-    "port": 28500,
-    "removed": 1743188524
+    "port": 28500
   },
   {
     "name": "HLL Official - South America #03",
@@ -3897,7 +3888,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4049,8 +4040,7 @@
   {
     "name": "HLL Official - Australia #04",
     "addr": "94.250.221.25",
-    "port": 28000,
-    "removed": 1743188524
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #02",
@@ -4066,74 +4056,62 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "94.250.221.25",
-    "port": 28300,
-    "removed": 1743188524
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #06",
     "addr": "94.250.221.25",
-    "port": 28600,
-    "removed": 1743188524
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #07",
     "addr": "94.250.221.25",
-    "port": 28700,
-    "removed": 1743188524
+    "port": 28700
   },
   {
     "name": "HLL Official - Australia #08",
     "addr": "94.250.221.27",
-    "port": 28000,
-    "removed": 1743188524
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #14",
     "addr": "94.250.221.27",
-    "port": 28100,
-    "removed": 1743188524
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #05",
     "addr": "94.250.221.27",
-    "port": 28200,
-    "removed": 1743188524
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #13",
     "addr": "94.250.221.27",
-    "port": 28300,
-    "removed": 1743188524
+    "port": 28300
   },
   {
     "name": "HLL Official - Australia #10",
     "addr": "94.250.221.27",
-    "port": 28400,
-    "removed": 1743188524
+    "port": 28400
   },
   {
     "name": "HLL Official - Australia #09",
     "addr": "94.250.221.27",
-    "port": 28500,
-    "removed": 1743188524
+    "port": 28500
   },
   {
     "name": "HLL Official - Australia #11",
     "addr": "94.250.221.27",
-    "port": 28600,
-    "removed": 1743188524
+    "port": 28600
   },
   {
     "name": "HLL Official - Australia #12",
     "addr": "94.250.221.27",
-    "port": 28700,
-    "removed": 1743188524
+    "port": 28700
   },
   {
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.36",
-    "port": 28400,
-    "removed": 1743188524
+    "port": 28400
   },
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
