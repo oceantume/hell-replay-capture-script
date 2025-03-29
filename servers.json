@@ -347,12 +347,6 @@
     "port": 28300
   },
   {
-    "name": "HLL Server",
-    "addr": "149.86.20.175",
-    "port": 7777,
-    "removed": 1742607461
-  },
-  {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
@@ -1126,7 +1120,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743228522
   },
   {
     "name": "HLL Official - Europe #46",
@@ -2217,7 +2212,7 @@
     "port": 7907
   },
   {
-    "name": "|Nexus|[水晶枢纽]日服冲突攻防轮换(665327895)有400�",
+    "name": "|Nexus|水晶枢纽|400规日服图轮换(665327895)CNC",
     "addr": "31.56.0.81",
     "port": 7917
   },
@@ -3270,7 +3265,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743228522
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
