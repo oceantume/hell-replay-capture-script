@@ -461,7 +461,8 @@
   {
     "name": "<CN>jp男同皇帝萌新挨打服纯攻防",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1743250231
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -1188,7 +1189,7 @@
     "port": 28000
   },
   {
-    "name": " [BWR] UKRAINIAN SERVER № 1 (UA/LV/LTU/EST/ENG)https://discor",
+    "name": " [BWR] UKRAINIAN & BALTIC SERVER № 1 (UA/LV/LTU/EST/ENG)https",
     "addr": "176.57.181.34",
     "port": 28100
   },
@@ -2513,8 +2514,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1743163923
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -2704,8 +2704,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1743163923
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -2959,7 +2958,7 @@
     "port": 9075
   },
   {
-    "name": " [BWR] UKRAINIAN SERVER № 2 (UA/LV/LTU/EST/ENG)https://discor",
+    "name": " [BWR] UKRAINIAN & BALTIC SERVER № 2 (UA/LV/LTU/EST/ENG)https",
     "addr": "51.83.150.42",
     "port": 7817
   },
@@ -4111,7 +4110,18 @@
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
     "addr": "95.173.197.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743250231
+  },
+  {
+    "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
+    "addr": "95.173.197.210",
+    "port": 7787
+  },
+  {
+    "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
+    "addr": "95.173.197.210",
+    "port": 7797
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
