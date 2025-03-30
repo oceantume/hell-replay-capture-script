@@ -189,7 +189,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743314948
   },
   {
     "name": "HLL Official - Russia #02",
@@ -608,7 +609,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743314948
   },
   {
     "name": "HLL Official - Europe #26",
@@ -628,7 +630,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743314948
   },
   {
     "name": "HLL Official - Europe #07",
@@ -1012,12 +1015,6 @@
     "port": 28300
   },
   {
-    "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
-    "addr": "176.57.173.119",
-    "port": 28000,
-    "removed": 1742710130
-  },
-  {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
     "port": 28100
@@ -1110,8 +1107,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1743228522
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #46",
@@ -1481,7 +1477,7 @@
     "port": 7777
   },
   {
-    "name": "Current Level: Deport Diseny Adults(D1CK)",
+    "name": "Current Level: Deport Disney Adults(D1CK)",
     "addr": "192.169.93.236",
     "port": 7777
   },
@@ -1858,6 +1854,11 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
+    "port": 7787
+  },
+  {
+    "name": "[FR Only] Seychelle Le Luchs - Débutant friendly",
+    "addr": "208.115.214.218",
     "port": 7787
   },
   {
@@ -3821,7 +3822,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/红区时代广场基地/Q:1034621661",
+    "name": "<CN>BW黑色守望/红区/纱雾baobao来啦/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7797
   },
@@ -4011,6 +4012,11 @@
     "name": "BAND OF BROTHERS  || BRASIL || bobclan.com.br",
     "addr": "92.38.151.76",
     "port": 28000
+  },
+  {
+    "name": "Brasil - AIRBORNE 101 (Cave sua Trincheira e não Recue)",
+    "addr": "92.38.151.76",
+    "port": 28700
   },
   {
     "name": "A. HHL(Brazil)SUL AMERICA https://discord.gg/H3nx7PzvUV",
