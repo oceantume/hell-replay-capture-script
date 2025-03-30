@@ -40,7 +40,7 @@
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区萌新基地/Q群:1034621661",
+    "name": "<CN>BW黑色守望/红区已升级服务器/本服暂停运营/",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -137,8 +137,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1743271697
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -992,7 +991,8 @@
   {
     "name": "(GER) Odins Wikinger  Wir Rekrutieren !| discord.gg/3s4G3vsQAt",
     "addr": "176.57.171.44",
-    "port": 28100
+    "port": 28100,
+    "removed": 1743336662
   },
   {
     "name": "Schweizer Söldnertum [GER]",
@@ -1197,7 +1197,8 @@
   {
     "name": "[LATAM/ESP] Uranium | Ⓤ-235 | discord.uraniumhll.cl",
     "addr": "177.54.147.141",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743336662
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -1854,8 +1855,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743315872
+    "port": 7787
   },
   {
     "name": "[FR Only] Seychelle Le Luchs - Débutant friendly",
@@ -1913,7 +1913,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2039,7 +2039,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1743336662
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -3014,12 +3015,6 @@
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 9620
-  },
-  {
-    "name": "          [ GER ] KAMPFSCHWEINE 3 | GANGBANG-CLUB |QS|OINK",
-    "addr": "51.89.64.100",
-    "port": 8530,
-    "removed": 1742731827
   },
   {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
