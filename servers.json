@@ -186,6 +186,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "135.125.188.111",
+    "port": 9075
+  },
+  {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
     "port": 28000
@@ -569,8 +574,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1743404640
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -580,8 +584,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] -  WARFARE ONLY - DUTCH/ENGLISH - [NED",
     "addr": "176.57.134.27",
-    "port": 28000,
-    "removed": 1743404640
+    "port": 28000
   },
   {
     "name": "          [ GER ] KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
@@ -1126,8 +1129,7 @@
   {
     "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1743404640
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1670,8 +1672,7 @@
   {
     "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1743404640
+    "port": 9620
   },
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
@@ -1801,8 +1802,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "205.209.105.250",
-    "port": 8530,
-    "removed": 1743404640
+    "port": 8530
   },
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
@@ -1868,8 +1868,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743401437
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - En cours de développement..",
@@ -1927,7 +1926,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1939,8 +1938,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1743404640
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -2007,8 +2005,7 @@
   {
     "name": "      [GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1743404640
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming  :-)",
@@ -2055,8 +2052,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1743336662
+    "port": 8772
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -2091,8 +2087,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1743404640
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2117,8 +2112,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1743404640
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 - Dirty's Spankbank - discord.gg/13snc",
@@ -2423,8 +2417,7 @@
   {
     "name": "MAKE DUROTAR GREAT AGAIN | NEW  PLAYERS WELCOME | US W",
     "addr": "45.137.246.2",
-    "port": 28200,
-    "removed": 1743404640
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #05",
@@ -2725,7 +2718,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743423148
   },
   {
     "name": "HLL Official - US East #06",
@@ -3889,7 +3883,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3964,7 +3958,7 @@
     "port": 7787
   },
   {
-    "name": "=]H[= Hardcore Gaming US Central",
+    "name": "=]H[= Hardcore Gaming US Central discord.gg/X2XvCkt",
     "addr": "92.118.19.142",
     "port": 7787
   },
@@ -4132,7 +4126,8 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "95.173.197.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743423148
   },
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
