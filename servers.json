@@ -40,7 +40,7 @@
     "port": 8888
   },
   {
-    "name": "<CN>BW黑色守望/红区已升级服务器/本服暂停运营/",
+    "name": "<CN>BW黑色守望/绿区/安西军何在/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8898
   },
@@ -222,7 +222,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1262,7 +1262,7 @@
     "port": 8772
   },
   {
-    "name": "MARRAM #1 Brasil- Concorra a Prêmios- vip.marram.com.br",
+    "name": "MARRAM #1 Brasil - Concorra a Prêmios- vip.marram.com.br",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -1385,7 +1385,8 @@
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743381258
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
@@ -1460,7 +1461,8 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743381258
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -1485,7 +1487,8 @@
   {
     "name": "Garries Gone Wild",
     "addr": "192.169.93.237",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743381258
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -1648,7 +1651,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1743381258
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1818,7 +1822,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1918,7 +1922,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -3469,8 +3473,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900,
-    "removed": 1743294912
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #02",
@@ -3882,7 +3885,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3954,6 +3957,11 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
+    "port": 7787
+  },
+  {
+    "name": "Hardcore Gaming",
+    "addr": "92.118.19.142",
     "port": 7787
   },
   {
