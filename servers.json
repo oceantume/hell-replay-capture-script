@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/黄区/纱雾最可爱/Q:1034621661",
+    "name": "<CN>BW黑色守望/红区/纱雾baobao跑啦/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -294,7 +294,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "141.95.72.27",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743403359
   },
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
@@ -2225,8 +2226,7 @@
   {
     "name": "|Nexus|水晶枢纽|400规日服图轮换(665327895)CNC",
     "addr": "31.56.0.81",
-    "port": 7917,
-    "removed": 1743402406
+    "port": 7917
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
