@@ -227,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -357,12 +357,6 @@
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
-  },
-  {
-    "name": "CN2#深夜食堂的萌新小窝/EROS 节点HK QQ:686886842",
-    "addr": "15.235.225.173",
-    "port": 10165,
-    "removed": 1742839777
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -1253,12 +1247,6 @@
     "port": 7797
   },
   {
-    "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
-    "addr": "178.249.213.87",
-    "port": 7777,
-    "removed": 1742839777
-  },
-  {
     "name": "Helios Create & Destroy",
     "addr": "181.214.149.21",
     "port": 8530
@@ -1392,8 +1380,7 @@
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530,
-    "removed": 1743381258
+    "port": 8530
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
@@ -1538,8 +1525,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1743425580
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1555,6 +1541,11 @@
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
+  },
+  {
+    "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
+    "addr": "193.160.22.140",
+    "port": 7787
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -1827,7 +1818,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1872,7 +1863,7 @@
     "port": 7787
   },
   {
-    "name": "[FR] Seychelle Le Luchs - En cours de développement..",
+    "name": "[FR] Seychelle Le Luchs - discord.gg/mXNsZmG9wb",
     "addr": "208.115.214.218",
     "port": 7787
   },
@@ -1991,12 +1982,6 @@
     "addr": "213.136.80.177",
     "port": 28000,
     "removed": 1742862714
-  },
-  {
-    "name": "<CN>BW黑色守望/绿区枫叶基地/Q群:1034621661",
-    "addr": "213.136.80.177",
-    "port": 28400,
-    "removed": 1742839777
   },
   {
     "name": "Warfrags Studios",
@@ -2147,7 +2132,8 @@
   {
     "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
     "addr": "31.56.0.7",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743444584
   },
   {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
@@ -2172,7 +2158,8 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817
+    "port": 7817,
+    "removed": 1743444584
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -2823,7 +2810,8 @@
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "45.59.162.3",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743444584
   },
   {
     "name": "GREYHOUND Green",
@@ -3471,8 +3459,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1743358099
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3517,13 +3504,13 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.168",
-    "port": 28800,
-    "removed": 1743358099
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.168",
-    "port": 28900
+    "port": 28900,
+    "removed": 1743444584
   },
   {
     "name": "HLL Official - Asia #23",
@@ -3826,10 +3813,9 @@
     "port": 7807
   },
   {
-    "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
+    "name": "〈CN〉#1 IMP风暴兵萌新攻防服",
     "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1743271697
+    "port": 7817
   },
   {
     "name": "CN美术生希儿萌新啤酒馆暖服送五天532933387",
@@ -3839,7 +3825,8 @@
   {
     "name": "Reclaimer training server",
     "addr": "89.46.1.190",
-    "port": 7847
+    "port": 7847,
+    "removed": 1743444584
   },
   {
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
@@ -4050,8 +4037,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1743358099
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -4138,6 +4124,11 @@
     "name": "<CN>【EGFJ】萌新训练集中营",
     "addr": "95.173.197.210",
     "port": 7817
+  },
+  {
+    "name": "Reclaimer training server",
+    "addr": "95.173.197.210",
+    "port": 7827
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
