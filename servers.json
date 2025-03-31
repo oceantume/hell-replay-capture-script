@@ -2281,8 +2281,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1743339748
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -2437,8 +2436,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1743339748
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #26",
@@ -3265,7 +3263,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743426620
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
