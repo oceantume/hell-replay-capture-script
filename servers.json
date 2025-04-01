@@ -175,12 +175,6 @@
     "port": 8530
   },
   {
-    "name": "=7Cav= Tactical Realism | US West | Discord.gg/7Cav",
-    "addr": "104.255.170.181",
-    "port": 9075,
-    "removed": 1742883028
-  },
-  {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
     "port": 8530
@@ -440,7 +434,8 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1743488800
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -2153,12 +2148,6 @@
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
     "port": 7827
-  },
-  {
-    "name": "HLL Server",
-    "addr": "31.56.0.81",
-    "port": 7837,
-    "removed": 1742883028
   },
   {
     "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
