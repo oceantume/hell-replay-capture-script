@@ -227,7 +227,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -301,12 +301,6 @@
     "addr": "141.95.72.27",
     "port": 8530,
     "removed": 1743403359
-  },
-  {
-    "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
-    "addr": "142.132.135.202",
-    "port": 8530,
-    "removed": 1742862714
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -1453,6 +1447,11 @@
     "port": 7787
   },
   {
+    "name": "Helios Create and Destroy : US EAST",
+    "addr": "192.169.86.52",
+    "port": 7777
+  },
+  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -1604,7 +1603,7 @@
     "removed": 1743232117
   },
   {
-    "name": "WCB",
+    "name": "Official WCB - Balkan/ENG Server",
     "addr": "195.181.175.172",
     "port": 7787
   },
@@ -1640,15 +1639,10 @@
     "port": 7777
   },
   {
-    "name": "HLL_nitratest",
-    "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1742862714
-  },
-  {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1743467821
   },
   {
     "name": "BWCC #1 | EU/ENG | discord.gg/BWCC",
@@ -1818,7 +1812,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1918,7 +1912,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1976,12 +1970,6 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
-  },
-  {
-    "name": "[ESP]MALDITOS BASTARDOS | COMUNIDAD ESPAÑOLA [PVP] [discord.gg",
-    "addr": "213.136.80.177",
-    "port": 28000,
-    "removed": 1742862714
   },
   {
     "name": "Warfrags Studios",
@@ -2158,8 +2146,7 @@
   {
     "name": "hll MT Server",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1743444584
+    "port": 7817
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -3250,8 +3237,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743447681
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3315,7 +3301,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US Central #3| All Welcome | Warfare | Discord.gg/m3rc",
+    "name": "[Merc] US Central #3| All Welcome | Discord.gg/m3rc",
     "addr": "69.162.89.147",
     "port": 7777
   },
@@ -3864,7 +3850,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
