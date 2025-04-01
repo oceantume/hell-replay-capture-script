@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/红区/纱雾baobao跑啦！/Q:1034621661",
+    "name": "<CN>BW黑色守望红区/我能与你讲来时路/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -745,12 +745,6 @@
     "port": 28100
   },
   {
-    "name": "For Tea & Country [EU|ENG] New player friendly",
-    "addr": "176.57.168.178",
-    "port": 28100,
-    "removed": 1742904730
-  },
-  {
     "name": "          [ GER ] KAMPFSCHWEINE 4 | BUMSHÜTTE |QS|OINK",
     "addr": "176.57.168.178",
     "port": 28300
@@ -1175,7 +1169,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] HaLL Eventserver 1",
+    "name": "[GER] Eventserver 1 | by Hack Let Loose (HaLL)",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1849,8 +1843,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743487822
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -1908,7 +1901,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -2016,7 +2009,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1743509567
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -2130,7 +2124,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#JP战斗当然来猫猫萌新限杀咖啡馆|Q120748151",
+    "name": "CN3#JP战斗当然来猫猫萌新限200级限杀咖啡馆|Q1207",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2614,7 +2608,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1743509567
   },
   {
     "name": "HLL Official - US East #47",
@@ -2764,7 +2759,7 @@
     "removed": 1743273405
   },
   {
-    "name": "[FR|TdA] La Tempête d'Acier | 100% Micro Fr | Wa**are",
+    "name": "[FR|TdA] La Tempête d'Acier | 100% Micro Fr | Warfare",
     "addr": "45.143.199.235",
     "port": 11255
   },
@@ -3783,7 +3778,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/黄区/牛逼闪闪的纱雾宝宝/Q:1034621",
+    "name": "<CN>BW黑色守望黄区/但愿殊途同归/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7797
   },
@@ -4087,8 +4082,7 @@
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "95.173.197.210",
-    "port": 7787,
-    "removed": 1743423148
+    "port": 7787
   },
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
