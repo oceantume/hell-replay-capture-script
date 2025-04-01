@@ -627,8 +627,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1743401437
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -673,8 +672,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1743401437
+    "port": 30700
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation  ",
@@ -997,7 +995,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743487822
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1082,7 +1081,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only | ",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743487822
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1211,7 +1211,7 @@
     "port": 7887
   },
   {
-    "name": "latam/esp COUGARS and CONDORS [cyc]",
+    "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
     "addr": "177.54.147.141",
     "port": 7907
   },
@@ -1610,7 +1610,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "195.181.175.172",
-    "port": 7877
+    "port": 7877,
+    "removed": 1743487822
   },
   {
     "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
@@ -1853,10 +1854,11 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743487822
   },
   {
-    "name": "[FR] Seychelle Le Luchs - discord.gg/mXNsZmG9wb",
+    "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
     "addr": "208.115.214.218",
     "port": 7787
   },
@@ -2202,6 +2204,11 @@
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
+  },
+  {
+    "name": "[GER] Omen Event & Match Server #1",
+    "addr": "31.56.0.97",
+    "port": 7877
   },
   {
     "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
@@ -2768,7 +2775,7 @@
     "removed": 1743273405
   },
   {
-    "name": "[FR|TdA] La Tempête d'Acier|100% Micro Fr|Modération Active",
+    "name": "[FR|TdA] La Tempête d'Acier | 100% Micro Fr | Wa**are",
     "addr": "45.143.199.235",
     "port": 11255
   },
@@ -3653,7 +3660,8 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743487822
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
@@ -3796,7 +3804,7 @@
     "port": 7807
   },
   {
-    "name": "〈CN〉#1 IMP风暴兵萌新攻防服",
+    "name": "〈CN〉#1 IMP风暴兵萌新攻防服QQ群1020812925节点JP",
     "addr": "89.46.1.190",
     "port": 7817
   },
