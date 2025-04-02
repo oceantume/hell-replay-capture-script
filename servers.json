@@ -187,7 +187,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743574216
   },
   {
     "name": "HLL Official - Russia #02",
@@ -621,7 +622,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743574216
   },
   {
     "name": "HLL Official - Europe #50",
@@ -806,8 +808,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare ",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1743401437
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -983,8 +984,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1743487822
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1089,7 +1089,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743574216
   },
   {
     "name": "HLL Official - Europe #46",
@@ -1167,7 +1168,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] Eventserver 1 | by Hack Let Loose (HaLL)",
+    "name": "[GER] HaLL Eventserver 1",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1841,7 +1842,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743574216
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2026,7 +2028,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743574216
   },
   {
     "name": "[GER] HaLL Eventserver 2",
@@ -3133,7 +3136,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "JAW Community | https://discord.gg/eeSCQmK6",
     "addr": "64.31.36.108",
     "port": 7777
   },
@@ -3648,7 +3651,8 @@
   {
     "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1743574216
   },
   {
     "name": "Dark Horizon EU 1 | New Players Welcome | Discord.gg/dhz",
