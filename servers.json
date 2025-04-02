@@ -207,7 +207,8 @@
   {
     "name": "What can I say",
     "addr": "136.243.70.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743599405
   },
   {
     "name": "ZOO - Match server",
@@ -1598,7 +1599,8 @@
   {
     "name": "Official WCB - Balkan/ENG Server",
     "addr": "195.181.175.172",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743599405
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -3018,8 +3020,7 @@
   {
     "name": "[0UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
     "addr": "57.128.188.198",
-    "port": 8530,
-    "removed": 1743598372
+    "port": 8530
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
@@ -3235,8 +3236,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743597015
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -4098,8 +4098,7 @@
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
     "addr": "95.173.197.210",
-    "port": 7797,
-    "removed": 1743598372
+    "port": 7797
   },
   {
     "name": "CN|HK|AFZ萌新服务器|QQ：809972300",
