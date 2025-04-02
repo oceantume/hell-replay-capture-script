@@ -220,7 +220,7 @@
     "port": 7777
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "⑦ | THE CIRCLE #7 | WARFARE",
     "addr": "139.28.17.146",
     "port": 7787
   },
@@ -1524,7 +1524,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1534,7 +1534,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1799,7 +1799,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1899,7 +1899,7 @@
     "port": 7777
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1974,12 +1974,6 @@
     "port": 28600
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "213.136.94.160",
-    "port": 28600,
-    "removed": 1742949087
-  },
-  {
     "name": "CZ/EN Krieg - Community server",
     "addr": "213.136.94.160",
     "port": 28700
@@ -2030,7 +2024,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -2040,7 +2034,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -2065,7 +2059,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2887,12 +2881,6 @@
     "port": 9620
   },
   {
-    "name": "BB | Blueberry Brigade",
-    "addr": "51.195.89.45",
-    "port": 9075,
-    "removed": 1742949087
-  },
-  {
     "name": "6th Recon Division [6RCN] NA-EAST",
     "addr": "51.222.244.23",
     "port": 9075
@@ -3007,12 +2995,6 @@
     "name": "[0UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
     "addr": "57.128.188.198",
     "port": 8530
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk !",
-    "addr": "57.128.189.58",
-    "port": 8530,
-    "removed": 1742949087
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding ",
@@ -3149,6 +3131,11 @@
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
     "port": 7807
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.36.108",
+    "port": 7777
   },
   {
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
@@ -3836,7 +3823,7 @@
     "port": 7807
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
