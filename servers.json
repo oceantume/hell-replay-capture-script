@@ -207,8 +207,7 @@
   {
     "name": "What can I say",
     "addr": "136.243.70.117",
-    "port": 7777,
-    "removed": 1743599405
+    "port": 7777
   },
   {
     "name": "ZOO - Match server",
@@ -318,7 +317,7 @@
     "port": 9014
   },
   {
-    "name": "[1stA] 1st Airborne (EU) | LVL 10+",
+    "name": "[1stA] 1st Airborne (EU) | 24h Tobruk run | LVL 10+",
     "addr": "145.239.5.101",
     "port": 9075
   },
@@ -340,7 +339,8 @@
   {
     "name": "MTG - UK- Die or Try! Warfare Only - New players Welcome",
     "addr": "149.102.135.184",
-    "port": 28100
+    "port": 28100,
+    "removed": 1743617359
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -390,7 +390,8 @@
   {
     "name": "[FR] L'IGLOO — discord.gg/ae25ujTZdz [IGL] FRENCH speaking on",
     "addr": "152.228.223.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1743617359
   },
   {
     "name": "[FR] Chiens De La Casse - Bonne ambiance de rigueur !",
@@ -627,8 +628,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1743574216
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -699,7 +699,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - Europe #02",
@@ -779,7 +780,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - Europe #38",
@@ -835,7 +837,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743617359
   },
   {
     "name": "Team17 CERT",
@@ -1109,7 +1112,7 @@
     "port": 28700
   },
   {
-    "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
+    "name": "Dutch Let Loose #333 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [",
     "addr": "176.57.178.127",
     "port": 28100
   },
@@ -1121,7 +1124,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - UK #02",
@@ -1131,7 +1135,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743617359
   },
   {
     "name": "[Europe Ablaze]",
@@ -1174,7 +1179,7 @@
     "port": 28100
   },
   {
-    "name": "Eventserver 1 | by Hack Let Loose (HaLL)",
+    "name": "asdf | by Hack Let Loose (HaLL)",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -1285,7 +1290,7 @@
     "port": 7787
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | Prácticas & Event",
+    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | Only Tobruk Map",
     "addr": "181.214.221.41",
     "port": 7797
   },
@@ -1320,7 +1325,7 @@
     "port": 8530
   },
   {
-    "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
+    "name": "REX7 HLL [EU] | ENG/ESP/ITA | tobruk map day! | discord.rexhll.",
     "addr": "185.38.150.51",
     "port": 8530
   },
@@ -1597,10 +1602,9 @@
     "removed": 1743232117
   },
   {
-    "name": "Official WCB - Balkan/ENG Server",
+    "name": "Tobruk only! Official WCB Server - New Players Welcome!",
     "addr": "195.181.175.172",
-    "port": 7787,
-    "removed": 1743599405
+    "port": 7787
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1796,7 +1800,7 @@
     "port": 8530
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Event Server",
+    "name": "[Ger] 1. Fallschirmjäger Division Tobruk Only",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -2039,7 +2043,7 @@
     "removed": 1743574216
   },
   {
-    "name": "[GER] Eventserver 2 | by Hack Let Loose (HaLL)",
+    "name": "[GER] HaLL Eventserver 2",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2099,7 +2103,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2255,7 +2259,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - US West #02",
@@ -2415,7 +2420,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - US West #26",
@@ -2625,8 +2631,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1743509567
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #47",
@@ -2836,10 +2841,9 @@
     "port": 7807
   },
   {
-    "name": "          [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "name": "[ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "49.12.83.52",
-    "port": 7827,
-    "removed": 1743598372
+    "port": 7827
   },
   {
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
@@ -3033,7 +3037,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR PTFO Polski Spocony Serwer #5 ♦ LVL 25+",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ ONLY TOBRUK",
     "addr": "57.128.229.70",
     "port": 7797
   },
@@ -3275,7 +3279,7 @@
     "port": 9075
   },
   {
-    "name": "The Lucky Strikes | New Players Welcome",
+    "name": "The Lucky Strikes | Tobruk Votemap",
     "addr": "69.162.102.50",
     "port": 7787
   },
@@ -3343,6 +3347,11 @@
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
+  },
+  {
+    "name": "[FR] Furious Frog - Event Server",
+    "addr": "78.46.101.16",
+    "port": 10710
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
@@ -3427,12 +3436,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743617359
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3803,6 +3814,11 @@
     "port": 7817
   },
   {
+    "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
+    "addr": "89.46.1.190",
+    "port": 7827
+  },
+  {
     "name": "CN美术生希儿萌新啤酒馆暖服送五天532933387",
     "addr": "89.46.1.190",
     "port": 7837
@@ -3850,7 +3866,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4022,8 +4038,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1743530938
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -4091,7 +4106,7 @@
     "port": 7777
   },
   {
-    "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
+    "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "95.173.197.210",
     "port": 7787
   },
@@ -4103,7 +4118,8 @@
   {
     "name": "CN|HK|AFZ萌新服务器|QQ：809972300",
     "addr": "95.173.197.210",
-    "port": 7807
+    "port": 7807,
+    "removed": 1743617359
   },
   {
     "name": "<CN>【EGFJ】萌新训练集中营",
