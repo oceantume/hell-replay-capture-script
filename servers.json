@@ -297,6 +297,11 @@
     "removed": 1743403359
   },
   {
+    "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
+    "addr": "145.239.144.76",
+    "port": 8530
+  },
+  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -1201,8 +1206,7 @@
   {
     "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
     "addr": "177.54.147.141",
-    "port": 7907,
-    "removed": 1743597015
+    "port": 7907
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -1672,8 +1676,7 @@
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
-    "port": 9075,
-    "removed": 1743597015
+    "port": 9075
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
@@ -1955,8 +1958,7 @@
   {
     "name": "HLL eTool | US-W | .gg/etool | Qonzer",
     "addr": "208.115.255.53",
-    "port": 7777,
-    "removed": 1743597015
+    "port": 7777
   },
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
@@ -2178,8 +2180,7 @@
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "31.56.0.81",
-    "port": 7887,
-    "removed": 1743597015
+    "port": 7887
   },
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
@@ -2835,7 +2836,8 @@
   {
     "name": "          [ GER ] KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "49.12.83.52",
-    "port": 7827
+    "port": 7827,
+    "removed": 1743598372
   },
   {
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
@@ -3016,7 +3018,8 @@
   {
     "name": "[0UTC]・'United Teamed Clans'・ | UK | IE | PT | EU |",
     "addr": "57.128.188.198",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743598372
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
@@ -3929,14 +3932,12 @@
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
     "addr": "92.118.19.60",
-    "port": 7787,
-    "removed": 1743597015
+    "port": 7787
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777,
-    "removed": 1743597015
+    "port": 7777
   },
   {
     "name": "MEXICO LATAM ESP OGT",
@@ -4097,7 +4098,8 @@
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
     "addr": "95.173.197.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743598372
   },
   {
     "name": "CN|HK|AFZ萌新服务器|QQ：809972300",
