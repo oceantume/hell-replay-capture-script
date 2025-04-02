@@ -354,8 +354,7 @@
   {
     "name": "Dark Kontol Malaysia || https://discord.gg/rb8jCAUJMp || VIP fo",
     "addr": "15.235.225.173",
-    "port": 9075,
-    "removed": 1743595935
+    "port": 9075
   },
   {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
@@ -496,7 +495,8 @@
   {
     "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
     "addr": "167.235.169.114",
-    "port": 9075
+    "port": 9075,
+    "removed": 1743597015
   },
   {
     "name": "Turks Let Loose #1 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
@@ -1201,7 +1201,8 @@
   {
     "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
     "addr": "177.54.147.141",
-    "port": 7907
+    "port": 7907,
+    "removed": 1743597015
   },
   {
     "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
@@ -1312,12 +1313,6 @@
     "name": "[BETU] UK Tea Time - New Player Friendly",
     "addr": "185.216.145.154",
     "port": 8530
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1742992178
   },
   {
     "name": "REX7 HLL [EU] | ENG/ESP/ITA | Map Vote | discord.rexhll.com",
@@ -1518,8 +1513,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1743595935
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1678,7 +1672,8 @@
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1743597015
   },
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
@@ -1960,7 +1955,8 @@
   {
     "name": "HLL eTool | US-W | .gg/etool | Qonzer",
     "addr": "208.115.255.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743597015
   },
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
@@ -2182,7 +2178,8 @@
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "31.56.0.81",
-    "port": 7887
+    "port": 7887,
+    "removed": 1743597015
   },
   {
     "name": "CN COH奥卡山狗叫大队,VW50天天星期四 Q:558699689",
@@ -2942,7 +2939,7 @@
     "port": 9075
   },
   {
-    "name": " [BWR] UKRAINIAN & BALTIC SERVER № 2 (UA/LV/LTU/EST/ENG)https",
+    "name": "[BWR] UKRAINIAN & BALTIC SERVER № 2 (UA/LV/LTU/EST/ENG)https:",
     "addr": "51.83.150.42",
     "port": 7817
   },
@@ -3080,8 +3077,7 @@
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
-    "port": 7777,
-    "removed": 1743595935
+    "port": 7777
   },
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
@@ -3236,7 +3232,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743597015
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3932,12 +3929,14 @@
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
     "addr": "92.118.19.60",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743597015
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743597015
   },
   {
     "name": "MEXICO LATAM ESP OGT",
@@ -4088,8 +4087,7 @@
   {
     "name": "CN淘宝人间地狱工作室代刷服务器出租",
     "addr": "95.173.197.210",
-    "port": 7777,
-    "removed": 1743595935
+    "port": 7777
   },
   {
     "name": "cn#HK费利奥萌新欢乐营(攻防)Q群892753546",
