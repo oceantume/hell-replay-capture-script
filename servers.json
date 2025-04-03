@@ -70,7 +70,7 @@
     "port": 8958
   },
   {
-    "name": "<CN>BW黑色守望/红区/长岛基地/Q:1034621661/我能与�",
+    "name": "<CN>BW黑色守望/红区/长岛基地/Q:1034621661",
     "addr": "103.62.49.49",
     "port": 8968
   },
@@ -202,7 +202,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1743660617
   },
   {
     "name": "What can I say",
@@ -411,7 +412,8 @@
   {
     "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743660617
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -441,7 +443,8 @@
   {
     "name": "cn#2HK费利奥萌新欢乐营(冲突)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1743660617
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -781,8 +784,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500,
-    "removed": 1743617359
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #38",
@@ -844,7 +846,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743660617
   },
   {
     "name": "HLL Official - Europe #23",
@@ -869,7 +872,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743660617
   },
   {
     "name": "HLL Dev Team",
@@ -919,7 +923,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743660617
   },
   {
     "name": "QA Testing - EU #04",
@@ -1081,7 +1086,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743660617
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1132,13 +1138,13 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743660617
   },
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1743617359
+    "port": 28200
   },
   {
     "name": "[Europe Ablaze]",
@@ -1322,6 +1328,11 @@
     "port": 9075
   },
   {
+    "name": "#1 RMK Europe - New Players Welcome - OFFENSIVE ONLY - discord.",
+    "addr": "185.216.144.75",
+    "port": 8530
+  },
+  {
     "name": "[BETU] UK Tea Time - New Player Friendly",
     "addr": "185.216.145.154",
     "port": 8530
@@ -1369,8 +1380,7 @@
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530,
-    "removed": 1743640306
+    "port": 8530
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
@@ -1856,7 +1866,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743660617
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2090,7 +2101,7 @@
     "port": 7857
   },
   {
-    "name": "CN#3 Mico咖啡屋萌新日服 限制175级以下 Q:1023817690",
+    "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
     "port": 7777
   },
@@ -2763,7 +2774,8 @@
   {
     "name": "#1 RMK Europe - New Players Welcome - OFFENSIVE ONLY - discord.",
     "addr": "45.143.198.25",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743660617
   },
   {
     "name": "Hell Broke Luce",
@@ -3575,6 +3587,11 @@
     "port": 28000
   },
   {
+    "name": "Major Winters Total Chao's",
+    "addr": "83.223.203.182",
+    "port": 28200
+  },
+  {
     "name": "2nd Infantry DIV | New Players Welcome | US East |",
     "addr": "83.223.203.51",
     "port": 28000
@@ -4105,7 +4122,8 @@
   {
     "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "95.173.197.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743660617
   },
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
@@ -4119,7 +4137,7 @@
     "removed": 1743617359
   },
   {
-    "name": "<CN>【EGFJ】萌新训练集中营",
+    "name": "<CN>【EGFJ】萌新大队训练集中营 Q：1023176683",
     "addr": "95.173.197.210",
     "port": 7817
   },
