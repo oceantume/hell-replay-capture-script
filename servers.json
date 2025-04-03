@@ -37,47 +37,56 @@
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "103.62.49.49",
-    "port": 8888
+    "port": 8888,
+    "removed": 1743703782
   },
   {
     "name": "<CN>BW黑色守望/绿区皇后基地/Q:1034621661",
     "addr": "103.62.49.49",
-    "port": 8898
+    "port": 8898,
+    "removed": 1743703782
   },
   {
     "name": "ARO(原TR)马局机枪天下第一 HK",
     "addr": "103.62.49.49",
-    "port": 8918
+    "port": 8918,
+    "removed": 1743703782
   },
   {
     "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
     "addr": "103.62.49.49",
-    "port": 8928
+    "port": 8928,
+    "removed": 1743703782
   },
   {
     "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
     "addr": "103.62.49.49",
-    "port": 8938
+    "port": 8938,
+    "removed": 1743703782
   },
   {
     "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
     "addr": "103.62.49.49",
-    "port": 8948
+    "port": 8948,
+    "removed": 1743703782
   },
   {
     "name": "CN#1 MICO咖啡屋の攻防日服 Q群:1023817690",
     "addr": "103.62.49.49",
-    "port": 8958
+    "port": 8958,
+    "removed": 1743703782
   },
   {
     "name": "<CN>BW黑色守望/红区/长岛基地/Q:1034621661",
     "addr": "103.62.49.49",
-    "port": 8968
+    "port": 8968,
+    "removed": 1743703782
   },
   {
     "name": "CN.jp#琳琅天上萌新小屋纯攻防#qq群484555616",
     "addr": "103.62.49.49",
-    "port": 8978
+    "port": 8978,
+    "removed": 1743703782
   },
   {
     "name": "HLL Official - Japan #02",
@@ -203,8 +212,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1743660617
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -326,7 +334,8 @@
   {
     "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
     "addr": "146.59.47.230",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743703782
   },
   {
     "name": "MK",
@@ -385,7 +394,7 @@
     "port": 10165
   },
   {
-    "name": "CDS",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "152.228.223.24",
     "port": 8530
   },
@@ -473,7 +482,7 @@
     "port": 9075
   },
   {
-    "name": "【GER】KAMPFSCHWEINE 3 | LEXI-FLEXIS TABLEDANCE OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 3 | LEXI-FLEXIS TABLEDANCE",
     "addr": "159.69.226.135",
     "port": 7777
   },
@@ -579,7 +588,7 @@
     "port": 28000
   },
   {
-    "name": "【GER】 KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -1016,7 +1025,7 @@
     "removed": 1743640306
   },
   {
-    "name": "【GER】KAMPFSCHWEINE 5 | BALLERBUDE|QS|OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 5 | BALLERBUDE|QS|OINK",
     "addr": "176.57.173.119",
     "port": 28200
   },
@@ -1270,6 +1279,11 @@
     "port": 7797
   },
   {
+    "name": "ADAFX™ Brasil | adafx.com.br",
+    "addr": "181.214.221.212",
+    "port": 7807
+  },
+  {
     "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
     "addr": "181.214.221.212",
     "port": 7817
@@ -1322,8 +1336,7 @@
   {
     "name": "!![SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "185.206.151.30",
-    "port": 9075,
-    "removed": 1743685753
+    "port": 9075
   },
   {
     "name": "#1 RMK Europe - New Players Welcome - OFFENSIVE ONLY - discord.",
@@ -2799,8 +2812,7 @@
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
-    "port": 8530,
-    "removed": 1743685753
+    "port": 8530
   },
   {
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
@@ -2809,7 +2821,7 @@
     "removed": 1743444584
   },
   {
-    "name": "GREYHOUND Green",
+    "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -2839,7 +2851,7 @@
     "port": 7807
   },
   {
-    "name": "【GER】 KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
     "addr": "49.12.83.52",
     "port": 7827
   },
@@ -2856,7 +2868,8 @@
   {
     "name": "[GER] Die Zockerbude - https://discord.gg/kk6mHQHZhF",
     "addr": "5.189.130.178",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743703782
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -2914,7 +2927,7 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | #2 | VLK | ONLY TOBRUK",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3233,8 +3246,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743684756
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3429,14 +3441,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1743617359
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1743617359
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3446,7 +3456,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1743703782
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3681,7 +3692,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Blue",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -3691,6 +3702,11 @@
     "port": 7787
   },
   {
+    "name": "hll Server",
+    "addr": "85.208.197.76",
+    "port": 7777
+  },
+  {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
     "addr": "88.198.47.123",
     "port": 8530
@@ -3698,8 +3714,7 @@
   {
     "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
     "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1743685753
+    "port": 8530
   },
   {
     "name": "{serverName}",
@@ -3864,7 +3879,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4036,7 +4051,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743703782
   },
   {
     "name": "HLL Official - Australia #03",
