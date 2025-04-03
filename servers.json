@@ -396,8 +396,7 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530,
-    "removed": 1743705633
+    "port": 8530
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/ae25ujTZdz [IGL] FRENCH speaking on",
@@ -1038,7 +1037,8 @@
   {
     "name": "!New Players Welcome!",
     "addr": "176.57.173.119",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743706257
   },
   {
     "name": "HLL Official - Europe #28",
@@ -1194,7 +1194,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] HaLL Eventserver 1",
+    "name": "DasistdocheingeilerScheiß | by Hack Let Loose (HaLL)",
     "addr": "176.9.113.23",
     "port": 8530
   },
@@ -2106,7 +2106,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2849,7 +2849,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1743706257
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
