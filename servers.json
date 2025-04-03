@@ -846,8 +846,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1743660617
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #23",
@@ -872,8 +871,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400,
-    "removed": 1743660617
+    "port": 28400
   },
   {
     "name": "HLL Dev Team",
@@ -1897,7 +1895,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743661592
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
