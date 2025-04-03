@@ -248,8 +248,7 @@
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1743704720
+    "port": 7777
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -397,7 +396,8 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743705633
   },
   {
     "name": "[FR] L'IGLOO — discord.gg/ae25ujTZdz [IGL] FRENCH speaking on",
@@ -3913,6 +3913,11 @@
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
     "port": 7777
+  },
+  {
+    "name": "CQB 24/7",
+    "addr": "92.118.18.116",
+    "port": 7787
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
