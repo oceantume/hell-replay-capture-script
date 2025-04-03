@@ -1624,12 +1624,6 @@
     "removed": 1743487822
   },
   {
-    "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
-    "addr": "195.181.175.179",
-    "port": 7777,
-    "removed": 1743078593
-  },
-  {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
     "port": 7787
@@ -1662,7 +1656,8 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743684756
   },
   {
     "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
@@ -1858,7 +1853,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743684756
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -3055,12 +3051,6 @@
     "port": 7817
   },
   {
-    "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
-    "addr": "63.143.56.3",
-    "port": 7777,
-    "removed": 1743079929
-  },
-  {
     "name": "Bob The Builder XP FARM ALL KITS/CLASSES FREE |COMBAT ENGINEERS",
     "addr": "63.143.60.20",
     "port": 7777
@@ -3244,12 +3234,18 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743684756
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
+  },
+  {
+    "name": "hll Server",
+    "addr": "64.31.61.90",
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
