@@ -1722,14 +1722,12 @@
   {
     "name": "#「JWH」what can i say",
     "addr": "203.10.98.103",
-    "port": 8888,
-    "removed": 1743768712
+    "port": 8888
   },
   {
-    "name": "「CZS」Super prime  training server",
+    "name": "「CZS」Super prime training server",
     "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1743768712
+    "port": 8888
   },
   {
     "name": "CN1.「FA」野战军白袜交流会",
@@ -1739,8 +1737,7 @@
   {
     "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
     "addr": "203.10.98.41",
-    "port": 8918,
-    "removed": 1743768712
+    "port": 8918
   },
   {
     "name": "cn「西游小队」重回西游社区",
@@ -3279,7 +3276,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743769775
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
