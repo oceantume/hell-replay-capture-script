@@ -585,7 +585,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.134.27",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743771100
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
@@ -1129,7 +1130,8 @@
   {
     "name": "Dutch Let Loose #333 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [",
     "addr": "176.57.178.127",
-    "port": 28100
+    "port": 28100,
+    "removed": 1743771100
   },
   {
     "name": "HLL Official - UK #01",
@@ -2234,18 +2236,6 @@
     "removed": 1743595935
   },
   {
-    "name": "nitrado.net gameserver kUA3BDEp",
-    "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1743166283
-  },
-  {
-    "name": "nitrado.net gameserver MiZa_b5i",
-    "addr": "37.10.127.2",
-    "port": 11100,
-    "removed": 1743166283
-  },
-  {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
@@ -3276,8 +3266,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743769775
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
