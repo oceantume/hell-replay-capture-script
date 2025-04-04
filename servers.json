@@ -326,7 +326,7 @@
     "port": 9014
   },
   {
-    "name": "[1stA] 1st Airborne (EU) | 24h Tobruk run | LVL 10+",
+    "name": "[1stA] 1st Airborne (EU) | LVL 10+",
     "addr": "145.239.5.101",
     "port": 9075
   },
@@ -767,7 +767,7 @@
     "port": 28100
   },
   {
-    "name": "! ! !GER! ! ! KAMPFSCHWEINE 4 | TOBRUK 24/7 |QS|OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 4 | BUMSHÜTTE |QS|OINK",
     "addr": "176.57.168.178",
     "port": 28300
   },
@@ -1128,10 +1128,9 @@
     "port": 28700
   },
   {
-    "name": "Dutch Let Loose #333 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [",
+    "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1743771100
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1353,7 +1352,7 @@
     "port": 8530
   },
   {
-    "name": "REX7 [EU] | ENG/ESP/ITA | tobruk only! | discord.rexhll.com",
+    "name": "REX7 - Europe #1 | discord.rexhll.com",
     "addr": "185.38.150.51",
     "port": 8530
   },
@@ -3266,8 +3265,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1743772033
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3906,7 +3904,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4043,7 +4041,8 @@
   {
     "name": "BAND OF BROTHERS || BRASIL || bobclan.com.br",
     "addr": "92.38.151.76",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743790159
   },
   {
     "name": "Brasil - AIRBORNE 101 (Cave sua Trincheira e não Recue)",
@@ -4078,13 +4077,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1743790159
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1743703782
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
