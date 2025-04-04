@@ -437,7 +437,8 @@
   {
     "name": "<CN>1号流走战争游乐园 Q群926657611",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1743726718
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -1161,7 +1162,8 @@
   {
     "name": "{SPECIALSERVER}",
     "addr": "176.57.178.44",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743726718
   },
   {
     "name": "CZ/SK",
@@ -1235,7 +1237,7 @@
     "port": 7927
   },
   {
-    "name": "3° DIVISÃO FIRESTORM [FSD] BRASIL",
+    "name": "Hell Let Loose Server",
     "addr": "177.54.147.141",
     "port": 7967
   },
@@ -1310,7 +1312,7 @@
     "port": 7787
   },
   {
-    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | Only Tobruk Map",
+    "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | Pracitcas & Evento",
     "addr": "181.214.221.41",
     "port": 7797
   },
@@ -1350,7 +1352,7 @@
     "port": 8530
   },
   {
-    "name": "REX7 HLL [EU] | ENG/ESP/ITA | tobruk map day! | discord.rexhll.",
+    "name": "REX7 [EU] | ENG/ESP/ITA | tobruk only! | discord.rexhll.com",
     "addr": "185.38.150.51",
     "port": 8530
   },
@@ -1365,7 +1367,7 @@
     "port": 7787
   },
   {
-    "name": "Tobruk 24/7 @ Blood Sweat & Beers BSB",
+    "name": "The Quids Inn @ Blood Sweat & Beers BSB",
     "addr": "188.165.39.157",
     "port": 7797
   },
@@ -2116,7 +2118,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2903,6 +2905,36 @@
     "port": 9014
   },
   {
+    "name": "CN淘宝人间地狱工作室代刷服务器出租",
+    "addr": "5.56.25.242",
+    "port": 7777
+  },
+  {
+    "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
+    "addr": "5.56.25.242",
+    "port": 7787
+  },
+  {
+    "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
+    "addr": "5.56.25.242",
+    "port": 7797
+  },
+  {
+    "name": "CN#港服#琳琅天上萌新小屋{纯攻防}Q群484555616",
+    "addr": "5.56.25.242",
+    "port": 7807
+  },
+  {
+    "name": "<CN>【EGFJ】萌新大队训练集中营 Q：1023176683",
+    "addr": "5.56.25.242",
+    "port": 7817
+  },
+  {
+    "name": "Reclaimer training server",
+    "addr": "5.56.25.242",
+    "port": 7827
+  },
+  {
     "name": "Task Force Koala #1 | NEW MAP HEAVY | discord.gg/tfk",
     "addr": "51.161.196.191",
     "port": 8530
@@ -3151,8 +3183,7 @@
   {
     "name": "BadgerGrounds - West Mongolia",
     "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1743640306
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -3247,7 +3278,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743726718
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3257,7 +3289,8 @@
   {
     "name": "hll Server",
     "addr": "64.31.61.90",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743726718
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
@@ -3693,7 +3726,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE",
+    "name": "GREYHOUND Skirmish Cup",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -3880,7 +3913,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3915,7 +3948,7 @@
     "port": 7777
   },
   {
-    "name": "CQB 24/7",
+    "name": "Hell Let Loose Server",
     "addr": "92.118.18.116",
     "port": 7787
   },
@@ -4123,32 +4156,38 @@
   {
     "name": "CN淘宝人间地狱工作室代刷服务器出租",
     "addr": "95.173.197.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743726718
   },
   {
     "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "95.173.197.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743726718
   },
   {
     "name": "[CN]HSP伊吕波的秘密休息据点港服Q群952600510",
     "addr": "95.173.197.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1743726718
   },
   {
     "name": "CN#港服#琳琅天上萌新小屋{纯攻防}Q群484555616",
     "addr": "95.173.197.210",
-    "port": 7807
+    "port": 7807,
+    "removed": 1743726718
   },
   {
     "name": "<CN>【EGFJ】萌新大队训练集中营 Q：1023176683",
     "addr": "95.173.197.210",
-    "port": 7817
+    "port": 7817,
+    "removed": 1743726718
   },
   {
     "name": "Reclaimer training server",
     "addr": "95.173.197.210",
-    "port": 7827
+    "port": 7827,
+    "removed": 1743726718
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
