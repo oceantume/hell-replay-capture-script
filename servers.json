@@ -146,8 +146,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1743682325
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -453,8 +452,7 @@
   {
     "name": "cn#2HK费利奥萌新欢乐营(冲突)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1743747011
+    "port": 7837
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -768,7 +766,7 @@
     "port": 28100
   },
   {
-    "name": "【GER】KAMPFSCHWEINE 4 | TOBRUK 24/7 |QS|OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 4 | TOBRUK 24/7 |QS|OINK",
     "addr": "176.57.168.178",
     "port": 28300
   },
@@ -1299,7 +1297,8 @@
   {
     "name": "MARRAM #4 Concorra um mouse logitech  discord.gg/marram",
     "addr": "181.214.221.212",
-    "port": 7847
+    "port": 7847,
+    "removed": 1743768712
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
@@ -1630,7 +1629,7 @@
     "removed": 1743232117
   },
   {
-    "name": "Tobruk only! Official WCB Server - New Players Welcome!",
+    "name": "Tobruk only! |Balkan / English| Official WCB Server - New Playe",
     "addr": "195.181.175.172",
     "port": 7787
   },
@@ -1723,25 +1722,28 @@
   {
     "name": "#「JWH」what can i say",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1743768712
   },
   {
     "name": "「CZS」Super prime  training server",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1743768712
   },
   {
-    "name": "<cn1/jp>风暴兵忠嗣学院纯攻防q1020812925",
+    "name": "CN1.「FA」野战军白袜交流会",
     "addr": "203.10.98.41",
     "port": 8908
   },
   {
     "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1743768712
   },
   {
-    "name": "<cn2/jp>风暴兵忠嗣学院纯冲突q1020812925",
+    "name": "cn「西游小队」重回西游社区",
     "addr": "203.10.98.41",
     "port": 8928
   },
@@ -1869,8 +1871,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743747011
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -1941,8 +1942,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1743750093
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -2060,7 +2060,7 @@
     "port": 7797
   },
   {
-    "name": "Twdt | by Hack Let Loose (HaLL)",
+    "name": "[GER] HaLL Eventserver 2",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2120,7 +2120,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2642,8 +2642,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1743682325
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #47",
@@ -2703,13 +2702,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1743768712
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1743682325
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -3601,6 +3600,11 @@
     "port": 28000
   },
   {
+    "name": "CN//东德消防萌新1服//HK无规则服//q群：726807477",
+    "addr": "83.223.197.89",
+    "port": 28100
+  },
+  {
     "name": "GIRTHY'S GRINDERS",
     "addr": "83.223.203.121",
     "port": 28200
@@ -3914,7 +3918,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
