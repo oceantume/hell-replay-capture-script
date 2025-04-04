@@ -2934,8 +2934,7 @@
   {
     "name": "Reclaimer training server",
     "addr": "5.56.25.242",
-    "port": 7827,
-    "removed": 1743748886
+    "port": 7827
   },
   {
     "name": "Task Force Koala #1 | NEW MAP HEAVY | discord.gg/tfk",
@@ -3281,7 +3280,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743749520
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3372,7 +3372,8 @@
   {
     "name": "! ! [TBG] NEW PLAYER FRIENDLY! | FREE VIP! | DISCORD.GG/TBGCLAN",
     "addr": "74.63.236.250",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743749520
   },
   {
     "name": "[US] ★ Western Front #1 ★ | US East",
