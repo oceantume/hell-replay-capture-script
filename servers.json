@@ -27,7 +27,8 @@
   {
     "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
     "addr": "103.193.80.26",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743813080
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -482,7 +483,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !GER! ! ! KAMPFSCHWEINE 3 | ANTI-UPDATE VANILLA ONLY|OINK",
+    "name": "! ! !GER! ! ! KAMPFSCHWEINE 3 | VANILLA ONLY |OINK",
     "addr": "159.69.226.135",
     "port": 7777
   },
@@ -952,7 +953,8 @@
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743813080
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1023,8 +1025,7 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100,
-    "removed": 1743640306
+    "port": 28100
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 5 | BALLERBUDE|QS|OINK",
@@ -2108,7 +2109,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2118,7 +2119,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -3185,7 +3186,8 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1743813080
   },
   {
     "name": "JAW Community | https://discord.gg/eeSCQmK6",
@@ -3471,7 +3473,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900
+    "port": 28900,
+    "removed": 1743813080
   },
   {
     "name": "HLL Official - Asia #02",
@@ -3658,7 +3661,8 @@
   {
     "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
     "addr": "83.223.207.46",
-    "port": 28100
+    "port": 28100,
+    "removed": 1743813080
   },
   {
     "name": "130th Panzer Lehr Division (US-Mid)",
@@ -3904,7 +3908,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
