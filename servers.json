@@ -642,8 +642,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1743747011
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -714,8 +713,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1743617359
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
@@ -932,8 +930,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1743660617
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -1136,7 +1133,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743833345
   },
   {
     "name": "QA Testing - UK #07",
@@ -1272,7 +1270,7 @@
     "port": 7777
   },
   {
-    "name": "MARRAM #2 - Offensive forever - vip.marram.com.br",
+    "name": "MARRAM #2 - Concorra a Prêmios - vip.marram.com.br",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1323,7 +1321,7 @@
     "port": 7807
   },
   {
-    "name": "Marram #6 - vip.marram.com.br #6  qonzer",
+    "name": "Marram #6 - vip.marram.com.br #6 qonzer",
     "addr": "181.214.221.41",
     "port": 7817
   },
@@ -1474,6 +1472,11 @@
     "port": 7777
   },
   {
+    "name": "Bakers Dozen [B13] | US East | discord.gg/fazXCdaA2J",
+    "addr": "192.169.86.54",
+    "port": 7777
+  },
+  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -1522,17 +1525,20 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1743833345
   },
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743833345
   },
   {
     "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
     "addr": "192.169.95.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743833345
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1809,7 +1815,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "205.209.105.250",
-    "port": 8530
+    "port": 8530,
+    "removed": 1743833345
   },
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
@@ -1870,7 +1877,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743833345
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2107,6 +2115,11 @@
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
     "port": 7777
+  },
+  {
+    "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
+    "addr": "31.56.0.18",
+    "port": 7787
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
@@ -3134,6 +3147,11 @@
     "port": 8530
   },
   {
+    "name": "=7Cav= HLL Training Server 1",
+    "addr": "64.20.50.246",
+    "port": 8530
+  },
+  {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
     "addr": "64.31.11.26",
     "port": 11255
@@ -3211,17 +3229,20 @@
   {
     "name": "Fire For Effect [FFE] - S2 - New Players Welcome! - FFECREW.COM",
     "addr": "64.31.53.182",
-    "port": 7577
+    "port": 7577,
+    "removed": 1743833345
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "64.31.58.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743833345
   },
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743833345
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
@@ -3588,7 +3609,7 @@
     "port": 28000
   },
   {
-    "name": "CN//东德消防萌新1服//HK无规则服//q群：726807477",
+    "name": "CN//GD东德消防萌新1服//HK无规则服//q群：726807477",
     "addr": "83.223.197.89",
     "port": 28100
   },
@@ -3989,7 +4010,8 @@
   {
     "name": "=]H[= Hardcore Gaming New Players Welcome! discord.gg/X2XvCkt",
     "addr": "92.118.19.142",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743833345
   },
   {
     "name": "69th Battle Hawks Official HLL Server | SEEDING - FREE VIP",
