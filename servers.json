@@ -1597,7 +1597,8 @@
   {
     "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
     "addr": "193.192.59.39",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743858089
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -2374,12 +2375,14 @@
   {
     "name": "HLL Official - US West #44",
     "addr": "45.137.246.18",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743858089
   },
   {
     "name": "HLL Official - US West #45",
     "addr": "45.137.246.18",
-    "port": 28400
+    "port": 28400,
+    "removed": 1743858089
   },
   {
     "name": "HLL Official - US West #31",
@@ -2499,7 +2502,8 @@
   {
     "name": "HLL Official - US West #21",
     "addr": "45.137.246.9",
-    "port": 28600
+    "port": 28600,
+    "removed": 1743858089
   },
   {
     "name": "HLL Official - US West #09",
@@ -3185,7 +3189,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743858089
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -3278,7 +3283,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743858089
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
