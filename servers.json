@@ -27,8 +27,7 @@
   {
     "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
     "addr": "103.193.80.26",
-    "port": 7787,
-    "removed": 1743813080
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -213,8 +212,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1743922806
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -229,8 +227,7 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1743920687
+    "port": 7777
   },
   {
     "name": "⑦ | THE CIRCLE #7 | WARFARE",
@@ -765,7 +762,8 @@
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 4 | BUMSHÜTTE |QS|OINK",
     "addr": "176.57.168.178",
-    "port": 28300
+    "port": 28300,
+    "removed": 1743941447
   },
   {
     "name": "HLL Official - Europe #12",
@@ -1004,8 +1002,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1743919763
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1025,7 +1022,8 @@
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 5 | BALLERBUDE|QS|OINK",
     "addr": "176.57.173.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1743941447
   },
   {
     "name": "[BWR] RUSSIAN SERVER | RU | https://discord.gg/PQ6wFSy5u8",
@@ -1220,7 +1218,8 @@
   {
     "name": "[LATAM/ARG] #1 Paradox Empire | discord.gg/paradoxempire",
     "addr": "177.54.147.141",
-    "port": 7887
+    "port": 7887,
+    "removed": 1743941447
   },
   {
     "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
@@ -1340,9 +1339,14 @@
     "port": 9075
   },
   {
-    "name": "#1 RMK [EU]-New Players Welcome-OFFENSIVE-discord.gg/RMKletloos",
+    "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
     "addr": "185.216.144.75",
     "port": 8530
+  },
+  {
+    "name": "Le Peloton Perdu",
+    "addr": "185.216.144.75",
+    "port": 9075
   },
   {
     "name": "[BETU] UK Tea Time - New Player Friendly",
@@ -1867,8 +1871,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1743922806
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2123,7 +2126,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2164,7 +2167,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#JP战斗当然来猫猫保护萌新限杀咖啡馆|Q1207481",
+    "name": "CN3#JP战斗当然来猫猫保护萌新限200级限杀咖啡馆",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2963,7 +2966,8 @@
   {
     "name": "[ENG/PL] Skibidi Wermacht Gaming/Patric Texas",
     "addr": "51.75.58.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743941447
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -3855,7 +3859,7 @@
     "port": 7777
   },
   {
-    "name": "CN.JP【PUMA】夜晚激战冲突对抗服q746699634",
+    "name": "CN.JP【PUMA】做最优质的战士！萌新对抗服q74669963",
     "addr": "89.46.1.190",
     "port": 7787
   },
@@ -3901,7 +3905,7 @@
     "port": 7877
   },
   {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 QQ群258455568 JP节点",
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
   },
@@ -3921,7 +3925,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
