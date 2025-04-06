@@ -229,7 +229,8 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743920687
   },
   {
     "name": "⑦ | THE CIRCLE #7 | WARFARE",
@@ -1659,8 +1660,7 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1743919763
+    "port": 20900
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -2124,8 +2124,7 @@
   {
     "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
-    "port": 7777,
-    "removed": 1743919763
+    "port": 7777
   },
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
