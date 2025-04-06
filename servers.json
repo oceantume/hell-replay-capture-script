@@ -197,7 +197,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743919763
   },
   {
     "name": "HLL Official - Russia #02",
@@ -212,7 +213,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1743919763
   },
   {
     "name": "What can I say",
@@ -227,8 +229,7 @@
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1743899684
+    "port": 7777
   },
   {
     "name": "⑦ | THE CIRCLE #7 | WARFARE",
@@ -1002,7 +1003,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1743919763
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1129,8 +1131,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1743833345
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1658,7 +1659,8 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1743919763
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -2106,7 +2108,8 @@
   {
     "name": "Steel Emu Brigade | JP | Ocelots vs 2ndAD/LuckyStrikes/Glow",
     "addr": "31.56.0.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1743919763
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
@@ -2121,7 +2124,8 @@
   {
     "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1743919763
   },
   {
     "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3627,6 +3631,11 @@
     "name": "2nd Infantry DIV | New Players Welcome | US East |",
     "addr": "83.223.203.51",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose (US East) Sссссссс",
+    "addr": "83.223.203.51",
+    "port": 28100
   },
   {
     "name": "Based Let Loose (US East)",
