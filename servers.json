@@ -2151,12 +2151,6 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #1 - Dirty's Heroes - discord.gg/13snc",
-    "addr": "31.56.0.7",
-    "port": 7787,
-    "removed": 1743444584
-  },
-  {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7777
@@ -2813,12 +2807,6 @@
     "port": 8530
   },
   {
-    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
-    "addr": "45.59.162.3",
-    "port": 8530,
-    "removed": 1743444584
-  },
-  {
     "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
     "port": 7777
@@ -3280,7 +3268,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744050321
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3893,12 +3882,6 @@
     "name": "CN美术生希儿萌新啤酒馆暖服送五天532933387",
     "addr": "89.46.1.190",
     "port": 7837
-  },
-  {
-    "name": "Reclaimer training server",
-    "addr": "89.46.1.190",
-    "port": 7847,
-    "removed": 1743444584
   },
   {
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
