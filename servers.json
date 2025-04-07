@@ -364,7 +364,7 @@
     "port": 8530
   },
   {
-    "name": "Dark Kontol Malaysia || https://discord.gg/rb8jCAUJMp || VIP fo",
+    "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
     "addr": "15.235.225.173",
     "port": 9075
   },
@@ -667,8 +667,7 @@
   {
     "name": "[BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1744006256
+    "port": 28000
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -698,8 +697,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.140.24",
-    "port": 28200,
-    "removed": 1743640306
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #04",
@@ -840,8 +838,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1743617359
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
@@ -1126,8 +1123,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1743617359
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1376,12 +1372,14 @@
   {
     "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
     "addr": "188.64.33.86",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744049376
   },
   {
     "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744049376
   },
   {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
@@ -1801,7 +1799,8 @@
   {
     "name": "Blueberry Frontline | Warfare Only | US East",
     "addr": "205.209.120.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744049376
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Tobruk Only",
@@ -2112,7 +2111,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2272,8 +2271,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1743617359
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -2519,6 +2517,11 @@
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - US East #09",
+    "addr": "45.137.247.19",
+    "port": 28200
   },
   {
     "name": "DevQA - US #03",
@@ -2843,7 +2846,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1744049376
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -3276,8 +3280,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744030411
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3392,7 +3395,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] 19. Panzer Division - 19PD",
+    "name": "[GER] 19. Panzer Division [19PD] - Event Server",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -3575,13 +3578,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1743876497
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000
+    "port": 29000,
+    "removed": 1744049376
   },
   {
     "name": "HLL Official - Asia #15",
@@ -3597,8 +3600,7 @@
   {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK Q群1017723887",
     "addr": "83.223.197.85",
-    "port": 28100,
-    "removed": 1744029038
+    "port": 28100
   },
   {
     "name": "CN# UE玛丽亚之墙夺回战 节点HK Q群：797064367",
@@ -3929,7 +3931,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4115,8 +4117,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1743962906
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
