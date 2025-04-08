@@ -201,8 +201,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1744006256
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -447,7 +446,8 @@
   {
     "name": "cn#2HK费利奥萌新欢乐营(冲突)Q群892753546",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1744092622
   },
   {
     "name": "CN#HK 东方幻想乡 KFC外卖热线：245578354",
@@ -706,7 +706,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744092622
   },
   {
     "name": "HLL Official - Europe #42",
@@ -817,7 +818,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744092622
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1618,12 +1620,6 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Event & Match Server #1",
-    "addr": "195.181.175.172",
-    "port": 7877,
-    "removed": 1743487822
-  },
-  {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "195.181.175.179",
     "port": 7787
@@ -1859,7 +1855,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744092622
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2268,7 +2265,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1744092622
   },
   {
     "name": "HLL Official - US West #01",
@@ -3265,7 +3263,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744092622
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3714,12 +3713,6 @@
     "port": 28700
   },
   {
-    "name": "hll Server",
-    "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1743487822
-  },
-  {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -3867,7 +3860,8 @@
   {
     "name": "<CN>#1 IMP风暴兵社区 萌新攻防服 QQ群1020812925 JP节",
     "addr": "89.46.1.190",
-    "port": 7817
+    "port": 7817,
+    "removed": 1744092622
   },
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
