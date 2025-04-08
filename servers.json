@@ -309,7 +309,8 @@
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744136681
   },
   {
     "name": "[FR] 2eBCP \\_/ 2e Bataillon de Commandos Parachutistes \\_/",
@@ -3473,12 +3474,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744136681
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1744136681
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3488,7 +3491,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1744136681
   },
   {
     "name": "HLL Official - Asia #13",
