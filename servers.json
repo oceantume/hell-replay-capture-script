@@ -874,7 +874,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.168.61",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744094535
   },
   {
     "name": "QA Testing - EU #01",
@@ -3304,8 +3305,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1744093603
+    "port": 7787
   },
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
