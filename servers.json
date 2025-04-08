@@ -3263,8 +3263,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744092622
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3305,7 +3304,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744093603
   },
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
@@ -3860,8 +3860,7 @@
   {
     "name": "<CN>#1 IMP风暴兵社区 萌新攻防服 QQ群1020812925 JP节",
     "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1744092622
+    "port": 7817
   },
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
