@@ -309,7 +309,8 @@
   {
     "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
     "addr": "145.239.144.76",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744115441
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -1002,8 +1003,7 @@
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200,
-    "removed": 1744114362
+    "port": 28200
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -3145,7 +3145,8 @@
   {
     "name": "cn/JP/Beta 2 Newcomer Community Server/Q955048191",
     "addr": "64.31.11.26",
-    "port": 11800
+    "port": 11800,
+    "removed": 1744115441
   },
   {
     "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
@@ -3270,8 +3271,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744114362
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3871,7 +3871,8 @@
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1744115441
   },
   {
     "name": "CN美术生希儿萌新啤酒馆暖服送五天532933387",
