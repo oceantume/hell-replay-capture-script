@@ -276,8 +276,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1744137619
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -359,7 +358,8 @@
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744158735
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -374,7 +374,8 @@
   {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744158735
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -918,7 +919,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Europe #06",
@@ -928,7 +930,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Europe #41",
@@ -1563,7 +1566,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1573,7 +1576,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -2053,7 +2056,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -2088,7 +2091,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2114,7 +2117,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2124,7 +2127,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2268,7 +2271,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - US West #02",
@@ -2516,12 +2520,12 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "DevQA - US #03",
     "addr": "45.137.247.19",
     "port": 28200
   },
   {
-    "name": "DevQA - US #03",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
     "port": 28200
   },
@@ -2946,7 +2950,7 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | #2 | VLK | ONLY TOBRUK",
+    "name": "CZ & SK | #2 | TOBRUK | CLASSIC MAPS | VLK @ valkyriahll.cz",
     "addr": "51.75.147.215",
     "port": 9014
   },
@@ -3247,7 +3251,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US West #1 | Warfare | discord.gg/m3rc",
+    "name": "[Merc] US West #4 | Warfare | discord.gg/m3rc",
     "addr": "64.31.6.93",
     "port": 7777
   },
@@ -3431,47 +3435,56 @@
   {
     "name": "HLL Official - Asia #11",
     "addr": "83.223.197.144",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.144",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #24",
     "addr": "83.223.197.144",
-    "port": 28700
+    "port": 28700,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #33",
     "addr": "83.223.197.144",
-    "port": 28900
+    "port": 28900,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #09",
     "addr": "83.223.197.160",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #14",
     "addr": "83.223.197.160",
-    "port": 28100
+    "port": 28100,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #19",
     "addr": "83.223.197.160",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #26",
     "addr": "83.223.197.160",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #31",
     "addr": "83.223.197.160",
-    "port": 28400
+    "port": 28400,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #05",
@@ -3486,7 +3499,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900
+    "port": 28900,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #02",
@@ -3496,22 +3510,26 @@
   {
     "name": "HLL Official - Asia #13",
     "addr": "83.223.197.168",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #17",
     "addr": "83.223.197.168",
-    "port": 28100
+    "port": 28100,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #21",
     "addr": "83.223.197.168",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #30",
     "addr": "83.223.197.168",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3522,17 +3540,20 @@
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.168",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.168",
-    "port": 28600
+    "port": 28600,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.168",
-    "port": 28700
+    "port": 28700,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #01",
@@ -3547,27 +3568,32 @@
   {
     "name": "HLL Official - Asia #23",
     "addr": "83.223.197.170",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #25",
     "addr": "83.223.197.170",
-    "port": 28100
+    "port": 28100,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #27",
     "addr": "83.223.197.170",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #29",
     "addr": "83.223.197.170",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #32",
     "addr": "83.223.197.170",
-    "port": 28400
+    "port": 28400,
+    "removed": 1744158735
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3582,7 +3608,8 @@
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.170",
-    "port": 29100
+    "port": 29100,
+    "removed": 1744158735
   },
   {
     "name": "<CN>HK#2北极星萌新服务器Q群：1018176083",
@@ -3613,7 +3640,8 @@
   {
     "name": "GIRTHY'S GRINDERS",
     "addr": "83.223.203.121",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744158735
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -3912,7 +3940,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4204,6 +4232,7 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744158735
   }
 ]
