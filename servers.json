@@ -212,8 +212,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1744179033
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -338,12 +337,6 @@
     "port": 28000
   },
   {
-    "name": "MTG - UK- Die or Try! Warfare Only - New players Welcome",
-    "addr": "149.102.135.184",
-    "port": 28100,
-    "removed": 1743617359
-  },
-  {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.135.184",
     "port": 28300
@@ -387,12 +380,6 @@
     "name": "CDS",
     "addr": "152.228.223.24",
     "port": 8530
-  },
-  {
-    "name": "[FR] L'IGLOO — discord.gg/ae25ujTZdz [IGL] FRENCH speaking on",
-    "addr": "152.228.223.24",
-    "port": 9075,
-    "removed": 1743617359
   },
   {
     "name": "[FR] Chiens De La Casse - Bonne ambiance de rigueur !",
@@ -930,8 +917,7 @@
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
-    "port": 28000,
-    "removed": 1743813080
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1278,10 +1264,9 @@
     "port": 7777
   },
   {
-    "name": "MARRAM #3 Concorra um Headset JBL - discord.gg/marram",
+    "name": "Radical Gaming :: Brazil :: Powered by Qonzer.com",
     "addr": "181.214.221.41",
-    "port": 7787,
-    "removed": 1744114362
+    "port": 7787
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #02 CHILE | LVL+50 Practicas &",
@@ -1359,7 +1344,7 @@
     "port": 7817
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #1 ★ 100% FR - discord/7eCie",
     "addr": "188.165.39.157",
     "port": 7877
   },
@@ -1955,7 +1940,8 @@
   {
     "name": "Storm in a tea cup",
     "addr": "213.136.80.177",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744222195
   },
   {
     "name": "Warfrags Studios",
@@ -2084,7 +2070,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2789,7 +2775,7 @@
     "port": 7807
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #3 ★ 100% FR - discord/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #3 ★ 100% FR - discord/7eCie",
     "addr": "46.105.223.204",
     "port": 7877
   },
@@ -3104,7 +3090,8 @@
   {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
     "addr": "64.31.11.26",
-    "port": 11255
+    "port": 11255,
+    "removed": 1744222195
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -3119,7 +3106,8 @@
   {
     "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
     "addr": "64.31.11.50",
-    "port": 11255
+    "port": 11255,
+    "removed": 1744222195
   },
   {
     "name": "CN#JP哈基米作战部队/瓜棚屌丝聚集地/1017723887",
@@ -3467,7 +3455,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1744222195
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3496,8 +3485,7 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.168",
-    "port": 28400,
-    "removed": 1744135743
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #10",
@@ -3899,7 +3887,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3909,7 +3897,7 @@
     "port": 7827
   },
   {
-    "name": "[FR] ★ 7ème Compagnie #2 ★ 100% FR - discord/7ecie",
+    "name": "[FR] ★ 7ème Compagnie #2 ★ 100% FR - discord/7eCie",
     "addr": "91.134.56.12",
     "port": 7837
   },
