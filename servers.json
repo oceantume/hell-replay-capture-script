@@ -17,7 +17,8 @@
   {
     "name": "Chimera | Australia | Oce 3 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.145",
-    "port": 7817
+    "port": 7817,
+    "removed": 1744200749
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -230,12 +231,6 @@
     "port": 7777
   },
   {
-    "name": "⑦ | THE CIRCLE #7 | WARFARE",
-    "addr": "139.28.17.146",
-    "port": 7787,
-    "removed": 1743595935
-  },
-  {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
@@ -356,8 +351,7 @@
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
-    "port": 9075,
-    "removed": 1744158735
+    "port": 9075
   },
   {
     "name": "TH Hell Let Loose Thailand Community",
@@ -569,8 +563,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1744182244
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -929,8 +922,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1744158735
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #41",
@@ -1120,8 +1112,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1744182244
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1332,8 +1323,7 @@
   {
     "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1744182244
+    "port": 8530
   },
   {
     "name": "Le Peloton Perdu",
@@ -1484,12 +1474,6 @@
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
     "port": 8772
-  },
-  {
-    "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
-    "addr": "192.169.89.18",
-    "port": 9014,
-    "removed": 1743595935
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -1671,8 +1655,7 @@
   {
     "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1744182244
+    "port": 9620
   },
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
@@ -1822,12 +1805,6 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
-    "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1743595935
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
     "addr": "208.115.206.50",
     "port": 7777
@@ -1870,8 +1847,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1744179033
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -1927,12 +1903,6 @@
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
     "port": 7777
-  },
-  {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
-    "addr": "208.115.248.106",
-    "port": 7777,
-    "removed": 1743595935
   },
   {
     "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
@@ -2070,10 +2040,9 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1744182244
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2098,8 +2067,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1744182244
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 - Dírty's Spankbank - discord.gg/13snc",
@@ -2133,7 +2101,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2160,8 +2128,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744182244
+    "port": 7777
   },
   {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
@@ -2174,7 +2141,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#JP战斗当然来猫猫保护萌新限杀咖啡馆|Q1207481",
+    "name": "CN3#JP战斗当然来猫猫保护萌新限200级限杀咖啡馆",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2242,12 +2209,6 @@
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
     "port": 7877
-  },
-  {
-    "name": " BWCC #1 | ENG/EU | discord.gg/BWCC",
-    "addr": "31.58.228.53",
-    "port": 7777,
-    "removed": 1743595935
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -2524,12 +2485,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
-  },
-  {
-    "name": "DevQA - US #03",
-    "addr": "45.137.247.19",
-    "port": 28200
+    "port": 28000,
+    "removed": 1744200749
   },
   {
     "name": "QA Testing - US East #09",
@@ -2537,10 +2494,14 @@
     "port": 28200
   },
   {
+    "name": "DevQA - US #03",
+    "addr": "45.137.247.19",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.19",
-    "port": 28500,
-    "removed": 1744027957
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #09",
@@ -3145,8 +3106,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1744182244
+    "port": 8530
   },
   {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
@@ -3621,12 +3581,6 @@
     "removed": 1744158735
   },
   {
-    "name": "<CN>HK#2北极星萌新服务器Q群：1018176083",
-    "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1743595935
-  },
-  {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK Q群1017723887",
     "addr": "83.223.197.85",
     "port": 28100
@@ -3644,7 +3598,8 @@
   {
     "name": "瘋哥開服啦! 地獄讓他鬆起來!",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744200749
   },
   {
     "name": "GIRTHY'S GRINDERS",
@@ -3927,7 +3882,8 @@
   {
     "name": "CN1#JP ODST/戈尔曼斯坦/萌新小窝/QQ群：478583207",
     "addr": "89.46.1.190",
-    "port": 7877
+    "port": 7877,
+    "removed": 1744200749
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
@@ -4242,7 +4198,6 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777,
-    "removed": 1744158735
+    "port": 7777
   }
 ]
