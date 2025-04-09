@@ -366,8 +366,7 @@
   {
     "name": "The Coalition | PH SEA Server #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1744158735
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -497,12 +496,6 @@
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
     "addr": "167.235.169.114",
     "port": 8530
-  },
-  {
-    "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
-    "addr": "167.235.169.114",
-    "port": 9075,
-    "removed": 1743597015
   },
   {
     "name": "Turks Let Loose #1 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
@@ -3246,7 +3239,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744201833
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
