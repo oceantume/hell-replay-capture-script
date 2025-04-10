@@ -891,8 +891,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1744158735
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1583,7 +1582,8 @@
   {
     "name": "Hotdog6",
     "addr": "194.140.197.77",
-    "port": 30000
+    "port": 30000,
+    "removed": 1744245119
   },
   {
     "name": "Shane Gillis' Server (Mo/Tu 10pm ET)",
@@ -1658,7 +1658,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1744245119
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -2070,7 +2071,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2080,7 +2081,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2107,7 +2108,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744245119
   },
   {
     "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
@@ -2218,8 +2220,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1744158735
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -2744,10 +2745,9 @@
     "port": 9075
   },
   {
-    "name": "[1stAL] 1st Armoured Legion",
+    "name": "Nightwarfare only || New & Skilled players welcome!",
     "addr": "45.143.199.235",
-    "port": 9620,
-    "removed": 1743962906
+    "port": 9620
   },
   {
     "name": "Crimson Vanguard US Central ",
@@ -3227,8 +3227,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744225241
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3386,56 +3385,47 @@
   {
     "name": "HLL Official - Asia #11",
     "addr": "83.223.197.144",
-    "port": 28000,
-    "removed": 1744158735
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #18",
     "addr": "83.223.197.144",
-    "port": 28300,
-    "removed": 1744158735
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #24",
     "addr": "83.223.197.144",
-    "port": 28700,
-    "removed": 1744158735
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #33",
     "addr": "83.223.197.144",
-    "port": 28900,
-    "removed": 1744158735
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #09",
     "addr": "83.223.197.160",
-    "port": 28000,
-    "removed": 1744158735
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #14",
     "addr": "83.223.197.160",
-    "port": 28100,
-    "removed": 1744158735
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #19",
     "addr": "83.223.197.160",
-    "port": 28200,
-    "removed": 1744158735
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #26",
     "addr": "83.223.197.160",
-    "port": 28300,
-    "removed": 1744158735
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #31",
     "addr": "83.223.197.160",
-    "port": 28400,
-    "removed": 1744158735
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #05",
@@ -3450,8 +3440,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900,
-    "removed": 1744158735
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #02",
@@ -3462,26 +3451,22 @@
   {
     "name": "HLL Official - Asia #13",
     "addr": "83.223.197.168",
-    "port": 28000,
-    "removed": 1744158735
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #17",
     "addr": "83.223.197.168",
-    "port": 28100,
-    "removed": 1744158735
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #21",
     "addr": "83.223.197.168",
-    "port": 28200,
-    "removed": 1744158735
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #30",
     "addr": "83.223.197.168",
-    "port": 28300,
-    "removed": 1744158735
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -3491,20 +3476,17 @@
   {
     "name": "HLL Official - Asia #10",
     "addr": "83.223.197.168",
-    "port": 28500,
-    "removed": 1744158735
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #35",
     "addr": "83.223.197.168",
-    "port": 28600,
-    "removed": 1744158735
+    "port": 28600
   },
   {
     "name": "HLL Official - Asia #22",
     "addr": "83.223.197.168",
-    "port": 28700,
-    "removed": 1744158735
+    "port": 28700
   },
   {
     "name": "HLL Official - Asia #01",
@@ -3519,32 +3501,27 @@
   {
     "name": "HLL Official - Asia #23",
     "addr": "83.223.197.170",
-    "port": 28000,
-    "removed": 1744158735
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #25",
     "addr": "83.223.197.170",
-    "port": 28100,
-    "removed": 1744158735
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #27",
     "addr": "83.223.197.170",
-    "port": 28200,
-    "removed": 1744158735
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #29",
     "addr": "83.223.197.170",
-    "port": 28300,
-    "removed": 1744158735
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #32",
     "addr": "83.223.197.170",
-    "port": 28400,
-    "removed": 1744158735
+    "port": 28400
   },
   {
     "name": "HLL Official - Asia #08",
@@ -3559,8 +3536,7 @@
   {
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.170",
-    "port": 29100,
-    "removed": 1744158735
+    "port": 29100
   },
   {
     "name": "CN1#深夜食堂的萌新小窝/SYST 节点HK Q群1017723887",
@@ -3607,7 +3583,8 @@
   {
     "name": "2nd Infantry DIV | New Players Welcome | US East |",
     "addr": "83.223.203.51",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744245119
   },
   {
     "name": "Hell let loose (US East) Sссссссс",
@@ -3888,7 +3865,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
