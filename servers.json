@@ -36,60 +36,6 @@
     "port": 7807
   },
   {
-    "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
-    "addr": "103.62.49.49",
-    "port": 8888,
-    "removed": 1743703782
-  },
-  {
-    "name": "<CN>BW黑色守望/绿区皇后基地/Q:1034621661",
-    "addr": "103.62.49.49",
-    "port": 8898,
-    "removed": 1743703782
-  },
-  {
-    "name": "ARO(原TR)马局机枪天下第一 HK",
-    "addr": "103.62.49.49",
-    "port": 8918,
-    "removed": 1743703782
-  },
-  {
-    "name": "CN(原TR/SESH)3服 阿康的ARO复兴大业 JP",
-    "addr": "103.62.49.49",
-    "port": 8928,
-    "removed": 1743703782
-  },
-  {
-    "name": "CN#2 Mico咖啡屋萌新进阶日服 Q:1023817690",
-    "addr": "103.62.49.49",
-    "port": 8938,
-    "removed": 1743703782
-  },
-  {
-    "name": "CN|[EVO]今天也要加入猫娘泳池派对!|QQ群:1137040339",
-    "addr": "103.62.49.49",
-    "port": 8948,
-    "removed": 1743703782
-  },
-  {
-    "name": "CN#1 MICO咖啡屋の攻防日服 Q群:1023817690",
-    "addr": "103.62.49.49",
-    "port": 8958,
-    "removed": 1743703782
-  },
-  {
-    "name": "<CN>BW黑色守望/红区/长岛基地/Q:1034621661",
-    "addr": "103.62.49.49",
-    "port": 8968,
-    "removed": 1743703782
-  },
-  {
-    "name": "CN.jp#琳琅天上萌新小屋纯攻防#qq群484555616",
-    "addr": "103.62.49.49",
-    "port": 8978,
-    "removed": 1743703782
-  },
-  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -322,12 +268,6 @@
     "port": 9075
   },
   {
-    "name": "PL - Polski Serwer - VIP za dychę lub seeding - discord.gg/hll",
-    "addr": "146.59.47.230",
-    "port": 8530,
-    "removed": 1743703782
-  },
-  {
     "name": "MK",
     "addr": "146.59.47.230",
     "port": 9075
@@ -472,7 +412,8 @@
   {
     "name": "First Line of Defence EU",
     "addr": "167.235.169.114",
-    "port": 12345
+    "port": 12345,
+    "removed": 1744308587
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
@@ -538,7 +479,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744308587
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1636,7 +1578,7 @@
     "port": 8530
   },
   {
-    "name": "[BR1] BR1 Gaming Event Server (Dallas) - discord.gg/br1",
+    "name": "[BR1] BR1 Gaming Central Event Server (Dallas) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
   },
@@ -1763,7 +1705,7 @@
     "removed": 1744049376
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Tobruk Only",
+    "name": "[Ger] 1. Fallschirmjäger Division Event Server",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -1991,7 +1933,8 @@
   {
     "name": "<Jeferson & Budweiser> discord.gg/cobrasfumantes training/event",
     "addr": "23.142.25.45",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744308587
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
@@ -2065,7 +2008,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2103,7 +2046,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744308587
   },
   {
     "name": "CN1#JP疯狂周四当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2796,12 +2740,6 @@
     "removed": 1744027957
   },
   {
-    "name": "[GER] Die Zockerbude - https://discord.gg/kk6mHQHZhF",
-    "addr": "5.189.130.178",
-    "port": 28400,
-    "removed": 1743703782
-  },
-  {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "5.189.132.77",
     "port": 28000
@@ -3315,7 +3253,8 @@
   {
     "name": "[US] ★ Western Front #1 ★ | US East",
     "addr": "78.142.218.161",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744308587
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -3435,8 +3374,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1744222195
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3684,7 +3622,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND Skirmish Cup",
+    "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -3860,7 +3798,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -4051,7 +3989,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744308587
   },
   {
     "name": "HLL Official - Australia #03",
