@@ -228,8 +228,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1744267324
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -1622,7 +1621,8 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1744267953
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -2118,8 +2118,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744267324
+    "port": 7777
   },
   {
     "name": "CN1#JP疯狂周四当然来猫猫萌新军官咖啡馆|Q1207481",
