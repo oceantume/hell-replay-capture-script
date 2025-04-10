@@ -197,7 +197,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744265410
   },
   {
     "name": "HLL Official - Russia #02",
@@ -227,7 +228,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744265410
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -680,7 +682,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744265410
   },
   {
     "name": "HLL Official - Europe #02",
@@ -967,7 +970,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744265410
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1825,7 +1829,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744265410
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -2092,7 +2097,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "31.56.0.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744265410
   },
   {
     "name": "[GER] Λ • TAURUS | Event Server #1 | discord.gg/taurus",
@@ -2107,21 +2113,20 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744245119
+    "port": 7777
   },
   {
-    "name": "CN1#JP战斗当然来猫猫萌新军官咖啡馆|Q120748151",
+    "name": "CN1#JP疯狂周四当然来猫猫萌新军官咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP战斗当然来猫猫甜甜攻防咖啡馆|Q120748151",
+    "name": "CN2#JP疯狂周四当然来猫猫疯狂攻防咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP战斗当然来猫猫保护萌新限200级限杀咖啡馆",
+    "name": "CN3#JP疯狂周四当然来猫猫保护萌新喵限杀咖啡馆",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2734,7 +2739,7 @@
     "port": 10165
   },
   {
-    "name": "[FR|TdA] La Tempête d'Acier | 100% Micro French only |",
+    "name": "[FR|TdA] La Tempête d'Acier.com | Micro Fr Certifié |",
     "addr": "45.143.199.235",
     "port": 11255
   },
@@ -3067,7 +3072,7 @@
     "port": 8530
   },
   {
-    "name": "Brothers in Arms -OPEN WARFARE- US East - All Welcome - VIP See",
+    "name": "Brothers in Arms -OPEN WARFARE-US East-All Welcome-VIP Seeding ",
     "addr": "64.20.48.138",
     "port": 9075
   },
@@ -3077,7 +3082,7 @@
     "port": 10165
   },
   {
-    "name": "Toburk Only 24/7 - TROA",
+    "name": "The Realms of Asgard - discord.gg/qMRTZA5zHm",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -3615,6 +3620,11 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.204.123",
     "port": 28000
+  },
+  {
+    "name": "Rocky Hill (US East)",
+    "addr": "83.223.204.123",
+    "port": 28200
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
