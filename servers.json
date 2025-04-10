@@ -934,12 +934,6 @@
     "removed": 1743901469
   },
   {
-    "name": "!New Players Welcome!",
-    "addr": "176.57.173.119",
-    "port": 28500,
-    "removed": 1743706257
-  },
-  {
     "name": "HLL Official - Europe #28",
     "addr": "176.57.173.91",
     "port": 28000
@@ -1554,7 +1548,8 @@
   {
     "name": "[GER] 19. Panzer Division",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1744311530
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
