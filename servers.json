@@ -209,8 +209,7 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1744351825
+    "port": 9075
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -400,7 +399,7 @@
     "port": 7777
   },
   {
-    "name": "2nd Armored | US EAST | discord.gg/2ad",
+    "name": "2nd Armored | US EAST- EVENT SERVER | discord.gg/2ad",
     "addr": "162.216.115.122",
     "port": 8530
   },
@@ -1245,7 +1244,7 @@
     "port": 7787
   },
   {
-    "name": "[BSB] Blood Sweat & Beers Community Server",
+    "name": "BSB HLL Official - Europe #1",
     "addr": "188.165.39.157",
     "port": 7797
   },
@@ -2003,7 +2002,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2786,7 +2785,8 @@
   {
     "name": "<CN>【EGFJ】萌新大队训练集中营 Q：1023176683",
     "addr": "5.56.25.242",
-    "port": 7817
+    "port": 7817,
+    "removed": 1744394996
   },
   {
     "name": "Reclaimer training server",
@@ -2852,7 +2852,8 @@
   {
     "name": "FOR KING & COUNTRY UK/EU",
     "addr": "51.89.152.230",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744394996
   },
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
@@ -2950,7 +2951,7 @@
     "port": 7817
   },
   {
-    "name": "! ! [TBG] NEW PLAYER FRIENDLY FREE VIP | DISCORD.GG/TBGCLAN | U",
+    "name": "! ! [TBG] NEW PLAYER FRIENDLY - FREE VIP | DISCORD.GG/TBGCLAN |",
     "addr": "63.143.56.5",
     "port": 7777
   },
@@ -3002,7 +3003,8 @@
   {
     "name": "! ! [TBG] NEW PLAYER FRIENDLY FREE VIP | DISCORD.GG/TBGCLAN | R",
     "addr": "64.20.50.186",
-    "port": 10165
+    "port": 10165,
+    "removed": 1744394996
   },
   {
     "name": "The Realms of Asgard - discord.gg/qMRTZA5zHm",
@@ -3156,8 +3158,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744354988
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3797,7 +3798,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3939,12 +3940,6 @@
     "port": 28500
   },
   {
-    "name": "BAND OF BROTHERS || BRASIL || bobclan.com.br",
-    "addr": "92.38.151.76",
-    "port": 28000,
-    "removed": 1743790159
-  },
-  {
     "name": "Brasil - AIRBORNE 101 (Cave sua Trincheira e não Recue)",
     "addr": "92.38.151.76",
     "port": 28700
@@ -3988,8 +3983,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1744308587
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
