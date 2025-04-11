@@ -748,7 +748,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1744352777
   },
   {
     "name": "Team17 CERT",
@@ -2045,8 +2046,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744351825
+    "port": 7777
   },
   {
     "name": "CN1#JP疯狂周五当然来猫猫萌新军官咖啡馆|Q1207481",
