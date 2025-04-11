@@ -173,8 +173,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1744351825
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -282,6 +281,11 @@
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.135.184",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "149.34.170.137",
+    "port": 7777
   },
   {
     "name": "The Coalition | PH SEA Server #2 | discord.gg/thecoalition",
@@ -474,8 +478,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1744354988
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -607,8 +610,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.140.24",
-    "port": 28200,
-    "removed": 1744354362
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #04",
@@ -653,8 +655,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1744351825
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -750,8 +751,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1744354362
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
@@ -786,14 +786,12 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.168.61",
-    "port": 28500,
-    "removed": 1744354988
+    "port": 28500
   },
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600,
-    "removed": 1744354988
+    "port": 28600
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -1022,8 +1020,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1744354988
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1043,8 +1040,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1744354362
+    "port": 28200
   },
   {
     "name": "[Europe Ablaze]",
@@ -1180,12 +1176,6 @@
     "port": 7827
   },
   {
-    "name": "MARRAM #4 Concorra um mouse logitech  discord.gg/marram",
-    "addr": "181.214.221.212",
-    "port": 7847,
-    "removed": 1743768712
-  },
-  {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "181.214.221.41",
     "port": 7777
@@ -1228,8 +1218,7 @@
   {
     "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1744354988
+    "port": 8530
   },
   {
     "name": "Le Peloton Perdu",
@@ -1439,8 +1428,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1744354988
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1559,8 +1547,7 @@
   {
     "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1744354988
+    "port": 9620
   },
   {
     "name": "DK/ENG Hell Let Loose - Danmark # 1 © www.hellletloose.dk",
@@ -1710,7 +1697,7 @@
     "port": 7777
   },
   {
-    "name": "331st WarJungle",
+    "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1757,8 +1744,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1744351825
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -1823,8 +1809,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1744354988
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1890,8 +1875,7 @@
   {
     "name": "[GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1744354988
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -1939,7 +1923,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "Jefresson's e Budweiser's - training/event",
     "addr": "23.142.25.45",
     "port": 7777
   },
@@ -1971,8 +1955,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1744354988
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1997,8 +1980,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1744354988
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 - Dírty's Spankbank - discord.gg/13snc",
@@ -2032,7 +2014,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2060,8 +2042,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744354988
+    "port": 7777
   },
   {
     "name": "CN1#JP疯狂周五当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2172,7 +2153,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744373555
   },
   {
     "name": "HLL Official - US West #02",
@@ -2543,8 +2525,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1744287149
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #47",
@@ -2604,8 +2585,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1744287149
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -3027,8 +3007,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1744354988
+    "port": 8530
   },
   {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
@@ -3714,8 +3693,7 @@
   {
     "name": "HLL Official - South America #11",
     "addr": "89.43.106.37",
-    "port": 28300,
-    "removed": 1744354988
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #12",
@@ -3760,7 +3738,8 @@
   {
     "name": "<CN>BW黑色守望/中央区/第四舰队/Q:1034621661",
     "addr": "89.46.1.190",
-    "port": 7797
+    "port": 7797,
+    "removed": 1744373555
   },
   {
     "name": "CN MAX老B灯&喷火龙@JP Q群：258455568丨341807965",
@@ -3814,7 +3793,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
