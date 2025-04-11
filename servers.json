@@ -606,7 +606,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.140.24",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744354362
   },
   {
     "name": "HLL Official - Europe #04",
@@ -688,8 +689,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.216",
-    "port": 28300,
-    "removed": 1744353716
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -749,7 +749,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1744354362
   },
   {
     "name": "Team17 CERT",
@@ -1038,7 +1039,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744354362
   },
   {
     "name": "[Europe Ablaze]",
