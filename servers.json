@@ -143,8 +143,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1744265410
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -174,7 +173,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744351825
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -210,7 +210,8 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744351825
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -610,8 +611,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1744265410
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
@@ -651,7 +651,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1744351825
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -1373,7 +1374,8 @@
   {
     "name": "Dark Horizon US 2 | New Players Welcome | Discord.gg/dhz",
     "addr": "192.169.93.235",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744351825
   },
   {
     "name": "Current Level: Deport Disney Adults(D1CK)",
@@ -1744,7 +1746,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744351825
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants acceptés - discord.gg/mXN",
@@ -1918,10 +1921,19 @@
     "port": 9075
   },
   {
-    "name": "<Jeferson & Budweiser> discord.gg/cobrasfumantes training/event",
+    "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
+    "addr": "23.142.25.11",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
     "addr": "23.142.25.45",
-    "port": 7777,
-    "removed": 1744308587
+    "port": 7777
+  },
+  {
+    "name": "[TOG] The Old Guard Official HLL Server [VA]",
+    "addr": "23.142.25.6",
+    "port": 7787
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
@@ -2033,7 +2045,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744351825
   },
   {
     "name": "CN1#JP疯狂周五当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -3127,7 +3140,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.60.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744351825
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
@@ -3198,7 +3212,8 @@
   {
     "name": "Dark Horizon |Deathwish Mode| Discord.gg/dhz",
     "addr": "69.162.89.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744351825
   },
   {
     "name": "[Merc] US Central #3| All Welcome | Discord.gg/m3rc",
@@ -3611,7 +3626,8 @@
   {
     "name": "Dark Horizon EU 1 | New Players Welcome | Discord.gg/dhz",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744351825
   },
   {
     "name": "hll Server",
