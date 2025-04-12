@@ -274,7 +274,8 @@
   {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
     "addr": "149.102.135.184",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744417894
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1820,7 +1821,7 @@
     "port": 7777
   },
   {
-    "name": "[ORDO] U.S. Central .gg/crusader",
+    "name": "[ORDO] U.S. Central .gg/crusader (VoteMap)",
     "addr": "208.115.250.3",
     "port": 7787
   },
@@ -2002,7 +2003,7 @@
     "removed": 1743919763
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2012,12 +2013,12 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
   {
-    "name": "EASY Company #5 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "31.56.0.33",
     "port": 7797
   },
@@ -2040,21 +2041,20 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744398055
+    "port": 7777
   },
   {
-    "name": "CN1#JP疯狂周五当然来猫猫萌新军官咖啡馆|Q1207481",
+    "name": "CN1#JP周末当然来猫猫萌新军官咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP疯狂周五当然来猫猫疯狂攻防咖啡馆|Q1207481",
+    "name": "CN2#JP周末当然来猫猫疯狂攻防咖啡馆|Q120748151",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP疯狂周五当然来猫猫保护萌新喵限杀咖啡馆",
+    "name": "CN3#JP温暖周五当然来猫猫保护萌新喵限杀咖啡馆",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2811,13 +2811,13 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1744398055
+    "port": 9620
   },
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
     "addr": "51.222.244.23",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744417894
   },
   {
     "name": "CZ & SK | #2 | TOBRUK | CLASSIC MAPS | VLK @ valkyriahll.cz",
@@ -2922,7 +2922,7 @@
     "port": 8772
   },
   {
-    "name": "UTC - United Teamed Clans | UK | IE | PT | EU |",
+    "name": "0UTC・United Teamed Clans・| UK | IE | PT | EU |",
     "addr": "57.128.188.198",
     "port": 8530
   },
@@ -3164,8 +3164,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744398055
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3572,12 +3571,6 @@
     "port": 28000
   },
   {
-    "name": "EASY Company Event | GPORTAL | DISCORD.GG/EASYCOMPANY",
-    "addr": "83.223.207.46",
-    "port": 28100,
-    "removed": 1743813080
-  },
-  {
     "name": "130th Panzer Lehr Division (US-Mid)",
     "addr": "83.223.207.50",
     "port": 28000
@@ -3805,7 +3798,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
