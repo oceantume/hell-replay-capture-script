@@ -2041,10 +2041,11 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744419579
   },
   {
-    "name": "CN1#JP周末当然来猫猫萌新军官咖啡馆|Q120748151",
+    "name": "CN1#JP休闲周末当然来猫猫萌新军官咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7777
   },
@@ -2816,8 +2817,7 @@
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
     "addr": "51.222.244.23",
-    "port": 9075,
-    "removed": 1744417894
+    "port": 9075
   },
   {
     "name": "CZ & SK | #2 | TOBRUK | CLASSIC MAPS | VLK @ valkyriahll.cz",
