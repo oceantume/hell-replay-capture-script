@@ -2003,8 +2003,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744568626
+    "port": 7777
   },
   {
     "name": "CN1#JP休闲周末当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2358,12 +2357,12 @@
     "port": 28000
   },
   {
-    "name": "DevQA - US #03",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
     "port": 28200
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "DevQA - US #03",
     "addr": "45.137.247.19",
     "port": 28200
   },
