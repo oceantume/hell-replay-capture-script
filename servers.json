@@ -852,12 +852,6 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1743943678
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.140",
     "port": 28400
   },
   {
@@ -3137,7 +3131,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744548512
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
