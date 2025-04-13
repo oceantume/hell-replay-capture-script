@@ -1526,8 +1526,7 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1744524548
+    "port": 20900
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1987,12 +1986,6 @@
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
     "port": 7777
-  },
-  {
-    "name": "Steel Emu Brigade | JP | Ocelots vs 2ndAD/LuckyStrikes/Glow",
-    "addr": "31.56.0.18",
-    "port": 7787,
-    "removed": 1743919763
   },
   {
     "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
@@ -2882,7 +2875,8 @@
   {
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
-    "port": 9620
+    "port": 9620,
+    "removed": 1744525475
   },
   {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
@@ -3798,8 +3792,7 @@
   {
     "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
-    "port": 7817,
-    "removed": 1744524548
+    "port": 7817
   },
   {
     "name": "⑥ | THE CIRCLE #6 | WARFARE | NEW PLAYERS WELCOME | DISCORD.G",
