@@ -1305,6 +1305,11 @@
     "port": 7777
   },
   {
+    "name": "[ORDO] U.S. Central .gg/crusader (VoteMap)",
+    "addr": "192.169.86.53",
+    "port": 7787
+  },
+  {
     "name": "Bakers Dozen [B13] | US East | discord.gg/fazXCdaA2J",
     "addr": "192.169.86.54",
     "port": 7777
@@ -1982,8 +1987,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744654196
+    "port": 7777
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2653,7 +2657,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1744656082
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
