@@ -1768,7 +1768,8 @@
   {
     "name": "[ORDO] U.S. Central .gg/crusader (VoteMap)",
     "addr": "208.115.250.3",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744655150
   },
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
@@ -3095,8 +3096,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744635217
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
