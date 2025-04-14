@@ -93,7 +93,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744632764
   },
   {
     "name": "HLL Official - Japan #05",
@@ -139,7 +140,8 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744632764
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1076,13 +1078,8 @@
   {
     "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
     "addr": "177.54.147.141",
-    "port": 7907
-  },
-  {
-    "name": "[LATAM/ARG] #2 Paradox Empire | discord.gg/paradoxempire",
-    "addr": "177.54.147.141",
-    "port": 7927,
-    "removed": 1744027957
+    "port": 7907,
+    "removed": 1744632764
   },
   {
     "name": "Hell Let Loose Server",
@@ -1710,8 +1707,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1744611057
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1877,7 +1873,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1744632764
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -2004,7 +2001,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744632764
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2017,7 +2015,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#JP温暖周末当然来猫猫保护萌新喵限杀咖啡馆",
+    "name": "CN3#JP新的一周当然来猫猫保护萌新限杀咖啡馆|Q1",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -2354,7 +2352,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744632764
   },
   {
     "name": "QA Testing - US East #09",
@@ -2544,7 +2543,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1744632764
   },
   {
     "name": "HLL Official - US East #06",
@@ -2681,12 +2681,6 @@
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
     "addr": "5.189.130.178",
     "port": 28000
-  },
-  {
-    "name": "#05 [ESP] Naranjas y Paellas - Clan SQT",
-    "addr": "5.189.130.178",
-    "port": 28100,
-    "removed": 1744027957
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -3120,7 +3114,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744632764
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
