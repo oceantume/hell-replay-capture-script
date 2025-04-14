@@ -120,8 +120,7 @@
   {
     "name": "USA WEST-BAKO BATTLEFIELD PC",
     "addr": "104.238.220.213",
-    "port": 9075,
-    "removed": 1744636327
+    "port": 9075
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -168,8 +167,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1744611057
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -1235,18 +1233,6 @@
     "port": 7877
   },
   {
-    "name": "GameDust Let Loose #1 - DUTCH/ENGLISH",
-    "addr": "188.64.33.86",
-    "port": 9075,
-    "removed": 1744049376
-  },
-  {
-    "name": "[ESP] LATAMSQUAD #1 - latamsquad.org | discord.gg/latamsquad",
-    "addr": "189.1.170.234",
-    "port": 8530,
-    "removed": 1744049376
-  },
-  {
     "name": "[ESP] LATAMSQUAD #2 - latamsquad.org | discord.gg/latamsquad",
     "addr": "189.1.170.234",
     "port": 9075
@@ -1645,12 +1631,6 @@
     "port": 8888
   },
   {
-    "name": "Blueberry Frontline | Warfare Only | US East",
-    "addr": "205.209.120.234",
-    "port": 8530,
-    "removed": 1744049376
-  },
-  {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
     "addr": "208.115.206.195",
     "port": 7777
@@ -1857,7 +1837,7 @@
     "port": 8530
   },
   {
-    "name": "[CN]#NekoHaven#猫娘庇护所日服Q:500001820",
+    "name": "[CN]#柔情猫娘庇护所#冲突#日服Q:500001820",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -1874,8 +1854,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1744632764
+    "port": 8772
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1964,7 +1943,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2002,7 +1981,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744654196
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2736,10 +2716,9 @@
     "port": 7807
   },
   {
-    "name": "<CN>【EGFJ】萌新大队训练集中营 Q：1023176683",
+    "name": "[CN]#类人群星闪耀时刻#攻防#港服Q:500001820",
     "addr": "5.56.25.242",
-    "port": 7817,
-    "removed": 1744394996
+    "port": 7817
   },
   {
     "name": "Reclaimer training server",
@@ -3326,7 +3305,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1744654196
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3371,8 +3351,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.168",
-    "port": 28800,
-    "removed": 1744481291
+    "port": 28800
   },
   {
     "name": "HLL Official - Asia #03",
@@ -3748,7 +3727,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3915,7 +3894,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744654196
   },
   {
     "name": "HLL Official - Australia #03",
