@@ -1048,7 +1048,8 @@
   {
     "name": "[GER] HaLL Eventserver 1",
     "addr": "176.9.113.23",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744740518
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
@@ -1185,13 +1186,13 @@
   {
     "name": "[BETU] UK Tea Time - New Player Friendly",
     "addr": "185.216.145.154",
-    "port": 8530,
-    "removed": 1744722677
+    "port": 8530
   },
   {
     "name": "REX7 - Europe #1 | discord.rexhll.com",
     "addr": "185.38.150.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744740518
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -1393,7 +1394,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1403,7 +1404,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1881,7 +1882,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #3",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1916,7 +1917,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #1",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1937,7 +1938,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1975,7 +1976,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744740518
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2901,7 +2903,13 @@
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
     "addr": "64.20.34.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744740518
+  },
+  {
+    "name": "Bad Intentions - Event [US EAST]",
+    "addr": "64.20.34.114",
+    "port": 8533
   },
   {
     "name": "=F|A=Fearless-Assassins=New Players Welcome=",
@@ -2959,7 +2967,8 @@
   {
     "name": "CN#JP哈基米作战部队/瓜棚屌丝聚集地/1017723887",
     "addr": "64.31.11.50",
-    "port": 12345
+    "port": 12345,
+    "removed": 1744740518
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3081,8 +3090,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744719158
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3291,8 +3299,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1744654196
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3337,7 +3344,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.168",
-    "port": 28800
+    "port": 28800,
+    "removed": 1744740518
   },
   {
     "name": "HLL Official - Asia #03",
@@ -3713,7 +3721,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3880,8 +3888,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1744654196
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
