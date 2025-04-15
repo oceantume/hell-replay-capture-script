@@ -1077,12 +1077,6 @@
     "removed": 1744632764
   },
   {
-    "name": "Hell Let Loose Server",
-    "addr": "177.54.147.141",
-    "port": 7967,
-    "removed": 1744114362
-  },
-  {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
     "port": 7807
@@ -1429,12 +1423,6 @@
     "port": 28000
   },
   {
-    "name": "(IC) Event Server | US West #3 | discord.gg/icoh",
-    "addr": "193.192.59.39",
-    "port": 28000,
-    "removed": 1744114362
-  },
-  {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
     "addr": "193.70.122.179",
     "port": 8530
@@ -1490,7 +1478,8 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1744720248
   },
   {
     "name": "[GER] 19. Panzer Division",
@@ -1986,7 +1975,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744720248
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
