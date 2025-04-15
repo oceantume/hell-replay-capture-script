@@ -1236,12 +1236,6 @@
     "port": 9075
   },
   {
-    "name": "ESP-MX LATAM Server Vip: https://goo.su/BEhqcdS",
-    "addr": "191.101.30.131",
-    "port": 8530,
-    "removed": 1744135743
-  },
-  {
     "name": "30th ID Battle of Mortain || Don't forget to join our discord @",
     "addr": "192.154.253.22",
     "port": 8530
@@ -1250,12 +1244,6 @@
     "name": "Cadmando - Commander Coffee Break, Flanked & Furious5",
     "addr": "192.154.253.22",
     "port": 9075
-  },
-  {
-    "name": "Goober Battlefield",
-    "addr": "192.154.253.22",
-    "port": 9620,
-    "removed": 1744135743
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1892,7 +1880,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
