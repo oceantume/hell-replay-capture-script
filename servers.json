@@ -15,12 +15,6 @@
     "port": 7787
   },
   {
-    "name": "Chimera | Australia | Oce 3 | Mixed | discord.gg/CHMA",
-    "addr": "103.193.80.145",
-    "port": 7817,
-    "removed": 1744200749
-  },
-  {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
     "port": 7807
@@ -93,8 +87,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1744632764
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -362,8 +355,7 @@
   {
     "name": "<CN>#6 TT天堂萌新俱乐部（纯冲突）Q群：797464980",
     "addr": "156.146.44.225",
-    "port": 7797,
-    "removed": 1744763596
+    "port": 7797
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -989,8 +981,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1744787044
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1376,8 +1367,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1744787044
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1486,8 +1476,7 @@
   {
     "name": "#1 ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player ",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1744787044
+    "port": 9620
   },
   {
     "name": "#1 - Hell Let Loose - Danmark # New Players Welcome | www.helll",
@@ -1672,8 +1661,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1744783825
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1738,8 +1726,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1744787044
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1806,8 +1793,7 @@
   {
     "name": "[GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1744787044
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -1888,8 +1874,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1744787044
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1914,8 +1899,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1744787044
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 - Dírty's Spankbank - discord.gg/13snc",
@@ -1944,7 +1928,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1972,8 +1956,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744787044
+    "port": 7777
   },
   {
     "name": "CN1#JP新的一周当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2936,8 +2919,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1744787044
+    "port": 8530
   },
   {
     "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
@@ -3111,7 +3093,7 @@
     "port": 8888
   },
   {
-    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
+    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/pll-fin",
     "addr": "65.21.46.146",
     "port": 8530
   },
@@ -3406,12 +3388,6 @@
     "port": 28100
   },
   {
-    "name": "瘋哥開服啦! 地獄讓他鬆起來!",
-    "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1744200749
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
@@ -3680,12 +3656,6 @@
     "name": "CN1#JP#【FJ】包子の干饭小屋Q群:716701264",
     "addr": "89.46.1.190",
     "port": 7857
-  },
-  {
-    "name": "CN1#JP ODST/戈尔曼斯坦/萌新小窝/QQ群：478583207",
-    "addr": "89.46.1.190",
-    "port": 7877,
-    "removed": 1744200749
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
