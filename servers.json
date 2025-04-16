@@ -1035,7 +1035,7 @@
     "port": 28000
   },
   {
-    "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 (UA/LV/LTU/EST/ENG)https:",
+    "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 - NEW PLAYERS WELCOME (UA",
     "addr": "176.57.181.34",
     "port": 28100
   },
@@ -1774,12 +1774,6 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
-  },
-  {
-    "name": "Storm in a tea cup",
-    "addr": "213.136.80.177",
-    "port": 28000,
-    "removed": 1744222195
   },
   {
     "name": "Warfrags Studios",
@@ -2927,12 +2921,6 @@
     "port": 8530
   },
   {
-    "name": "<Dsquad>SKNS&UMA School #1/SKNS875570890",
-    "addr": "64.31.11.26",
-    "port": 11255,
-    "removed": 1744222195
-  },
-  {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
     "addr": "64.31.11.26",
     "port": 11800
@@ -2941,12 +2929,6 @@
     "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
     "addr": "64.31.11.26",
     "port": 9075
-  },
-  {
-    "name": "CN EXP小南梁马克萌新服｜纯冲突｜Q556560029｜JP",
-    "addr": "64.31.11.50",
-    "port": 11255,
-    "removed": 1744222195
   },
   {
     "name": "CN#JP哈基米作战部队/瓜棚屌丝聚集地/1017723887",
@@ -3786,7 +3768,8 @@
   {
     "name": "BRASIL | Youtube @CANALDORAFHA | [RFH]",
     "addr": "92.38.150.204",
-    "port": 29300
+    "port": 29300,
+    "removed": 1744827946
   },
   {
     "name": "HLL Official - South America #06",
