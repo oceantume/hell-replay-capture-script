@@ -155,8 +155,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1744611057
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -531,7 +530,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744783825
   },
   {
     "name": "HLL Official - Europe #07",
@@ -817,8 +817,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1744697426
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -1381,8 +1380,7 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1744763596
+    "port": 9075
   },
   {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
@@ -1677,7 +1675,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744783825
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1878,10 +1877,9 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1744763596
+    "port": 7797
   },
   {
     "name": "[GER] HaLL Eventserver 2",
@@ -3441,7 +3439,8 @@
   {
     "name": "Based Let Loose (US East)",
     "addr": "83.223.203.51",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744783825
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
