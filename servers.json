@@ -1521,8 +1521,7 @@
   {
     "name": "「CZS」Super prime training server",
     "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1744891942
+    "port": 8888
   },
   {
     "name": "CN1.「FA」野战军白袜交流会",
@@ -1941,7 +1940,8 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744893014
   },
   {
     "name": "CN1#JP疯狂周四当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -3045,8 +3045,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1744891942
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
