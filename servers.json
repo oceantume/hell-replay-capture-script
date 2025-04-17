@@ -268,7 +268,8 @@
   {
     "name": "MK",
     "addr": "146.59.47.230",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744913374
   },
   {
     "name": "(UK/EU) INVC - Impossible to defeat | New Players Welcome",
@@ -592,7 +593,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.140.24",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744913374
   },
   {
     "name": "HLL Official - Europe #04",
@@ -865,7 +867,8 @@
   {
     "name": "Chiemson",
     "addr": "176.57.171.44",
-    "port": 28000
+    "port": 28000,
+    "removed": 1744913374
   },
   {
     "name": "Schweizer Söldnertum [GER]",
@@ -1908,7 +1911,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1940,8 +1943,7 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744895387
+    "port": 7777
   },
   {
     "name": "CN1#JP疯狂周四当然来猫猫萌新军官咖啡馆|Q1207481",
@@ -2297,7 +2299,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.19",
-    "port": 28200
+    "port": 28200,
+    "removed": 1744913374
   },
   {
     "name": "HLL Official - US East #02",
@@ -2605,7 +2608,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1744913374
   },
   {
     "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
@@ -2616,6 +2620,11 @@
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
     "addr": "5.189.130.178",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose Hermanos Grimm",
+    "addr": "5.189.130.178",
+    "port": 28300
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -2739,7 +2748,8 @@
   {
     "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
     "addr": "51.89.192.209",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744913374
   },
   {
     "name": "CZ & SK | #4 | VLK @ EVENT",
@@ -2785,7 +2795,8 @@
   {
     "name": "Server Moved - search for BSB and update favorites",
     "addr": "54.36.126.47",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744913374
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -2876,12 +2887,14 @@
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
     "addr": "64.20.34.114",
-    "port": 8533
+    "port": 8533,
+    "removed": 1744913374
   },
   {
     "name": "=F|A=Fearless-Assassins=New Players Welcome=",
     "addr": "64.20.48.138",
-    "port": 8530
+    "port": 8530,
+    "removed": 1744913374
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE-US East-All Welcome-VIP Seeding ",
@@ -2924,6 +2937,11 @@
     "addr": "64.31.11.50",
     "port": 12345,
     "removed": 1744740518
+  },
+  {
+    "name": "вит | Bad Intentions - Event [US EAST]",
+    "addr": "64.31.16.186",
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -3340,14 +3358,12 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1744826988
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000,
-    "removed": 1744826988
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #15",
@@ -3654,7 +3670,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3793,6 +3809,11 @@
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "Ronin EVENTS / BR Hosted Server",
+    "addr": "92.38.151.89",
+    "port": 29100
   },
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
