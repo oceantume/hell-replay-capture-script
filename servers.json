@@ -861,8 +861,7 @@
   {
     "name": "Chiemson",
     "addr": "176.57.171.44",
-    "port": 28000,
-    "removed": 1744913374
+    "port": 28000
   },
   {
     "name": "Schweizer Söldnertum [GER]",
@@ -3539,7 +3538,8 @@
   {
     "name": "HLL Official - South America #08",
     "addr": "89.43.106.36",
-    "port": 28500
+    "port": 28500,
+    "removed": 1744915250
   },
   {
     "name": "HLL Official - South America #03",
