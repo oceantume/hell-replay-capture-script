@@ -592,8 +592,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1744870223
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
@@ -704,8 +703,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1744870223
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -835,7 +833,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744956619
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1644,7 +1643,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1744956619
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1928,21 +1928,20 @@
   {
     "name": "#2 Tobruk ONLY! ☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK",
     "addr": "31.56.0.7",
-    "port": 7777,
-    "removed": 1744936326
+    "port": 7777
   },
   {
-    "name": "CN1#JP春日战斗当然来猫猫萌新军官咖啡馆|Q1207481",
+    "name": "CN1#JP春末战斗当然来猫猫萌新军官咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7777
   },
   {
-    "name": "CN2#JP疯狂周四当然来猫猫抗压攻防咖啡馆|Q1207481",
+    "name": "CN2#JP春末战斗当然来猫猫抗压攻防咖啡馆|Q1207481",
     "addr": "31.56.0.81",
     "port": 7787
   },
   {
-    "name": "CN3#JP疯狂周四当然来猫猫保护萌新限杀咖啡馆|Q1",
+    "name": "CN3#JP春末战斗当然来猫猫保护萌新限杀咖啡馆|Q1",
     "addr": "31.56.0.81",
     "port": 7797
   },
@@ -1967,7 +1966,7 @@
     "port": 7847
   },
   {
-    "name": "[CN]ITK 喵皇家今天的饭~二次元冲突日服Q群48381851",
+    "name": "[CN/JP]ITK白诘草萌新温馨挨D窝Q群48381851",
     "addr": "31.56.0.81",
     "port": 7857
   },
@@ -2697,7 +2696,8 @@
   {
     "name": "6th Recon Division [6RCN] NA-EAST",
     "addr": "51.222.244.23",
-    "port": 9075
+    "port": 9075,
+    "removed": 1744956619
   },
   {
     "name": "CZ & SK | #2 | TOBRUK | CLASSIC MAPS | VLK @ valkyriahll.cz",
@@ -3043,7 +3043,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744956619
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
