@@ -282,12 +282,6 @@
     "port": 28300
   },
   {
-    "name": "HLL Server",
-    "addr": "149.34.170.137",
-    "port": 7777,
-    "removed": 1744374637
-  },
-  {
     "name": "The Coalition | Asian League PH #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
@@ -346,7 +340,8 @@
   {
     "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1744980683
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -2602,7 +2597,8 @@
   {
     "name": "Hell let loose Hermanos Grimm",
     "addr": "5.189.130.178",
-    "port": 28300
+    "port": 28300,
+    "removed": 1744980683
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -3554,7 +3550,7 @@
     "removed": 1744978318
   },
   {
-    "name": "<CN>#5 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
+    "name": "<CN>#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
     "addr": "89.46.1.190",
     "port": 7287
   },
