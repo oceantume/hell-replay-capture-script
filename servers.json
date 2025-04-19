@@ -87,7 +87,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1745064653
   },
   {
     "name": "HLL Official - Japan #05",
@@ -374,7 +375,8 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | EASTEREGG | QS | DE",
     "addr": "159.69.226.135",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745064653
   },
   {
     "name": "[TR] TSK ETKİNLİK SUNUCUSU | Discord.gg/TSKHLL",
@@ -1187,12 +1189,6 @@
     "port": 7797
   },
   {
-    "name": "[FR] ★ 7ème Compagnie ★ ÉVENTS - discord/7ecie",
-    "addr": "188.165.39.157",
-    "port": 7807,
-    "removed": 1744459843
-  },
-  {
     "name": "RCON Testing",
     "addr": "188.165.39.157",
     "port": 7817
@@ -1582,8 +1578,7 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1745045968
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
@@ -1628,8 +1623,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1745044806
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1891,7 +1885,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2387,7 +2381,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1745064653
   },
   {
     "name": "HLL Official - US East #47",
@@ -2582,7 +2577,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | DE",
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "49.12.83.52",
     "port": 7827
   },
@@ -3016,8 +3011,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1745045433
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3144,12 +3138,6 @@
     "name": "[FR] L'École des Bleus | Serveur Débutants - discord.gg/bYhut",
     "addr": "79.137.89.136",
     "port": 9075
-  },
-  {
-    "name": "CN/EU EXP小南梁马克萌新服｜纯冲突｜Q556560029",
-    "addr": "79.137.89.136",
-    "port": 9620,
-    "removed": 1744459843
   },
   {
     "name": "En Svensk Tiger #２OFFENSIVE | ENG & SWE/NO",
@@ -3600,7 +3588,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
