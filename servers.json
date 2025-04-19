@@ -372,7 +372,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !GER! ! ! KAMPFSCHWEINE 3 | EASTEREGG | OINK",
+    "name": "! ! !OINK 3 KAMPFSCHWEINE | EASTEREGG | QS | DE",
     "addr": "159.69.226.135",
     "port": 7777
   },
@@ -457,7 +457,7 @@
     "port": 8530
   },
   {
-    "name": "! ! !GER! ! ! KAMPFSCHWEINE 2 | NEW PLAYER FRIENDLY|QS|OINK",
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | DE",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -856,7 +856,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745042951
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -967,7 +968,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745042951
   },
   {
     "name": "QA Testing - UK #07",
@@ -2578,7 +2580,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !GER! ! ! KAMPFSCHWEINE 1 | LOW PING |QS|OINK OINK",
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | DE",
     "addr": "49.12.83.52",
     "port": 7827
   },
