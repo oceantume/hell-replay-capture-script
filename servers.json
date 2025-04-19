@@ -354,8 +354,7 @@
   {
     "name": "<CN> AIT日常赛/训练服（专用场地）",
     "addr": "156.146.44.225",
-    "port": 7827,
-    "removed": 1745045433
+    "port": 7827
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -1583,7 +1582,8 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745045968
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
