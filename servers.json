@@ -2617,12 +2617,6 @@
     "port": 9014
   },
   {
-    "name": "CN淘宝人间地狱工作室代刷服务器出租",
-    "addr": "5.56.25.242",
-    "port": 7777,
-    "removed": 1744462077
-  },
-  {
     "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "5.56.25.242",
     "port": 7787,
@@ -3005,8 +2999,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1745065667
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3525,7 +3518,8 @@
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
     "addr": "89.46.1.190",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745066894
   },
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
