@@ -1859,12 +1859,6 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #5 - Dírty's Spankbank - discord.gg/13snc",
-    "addr": "31.56.0.17",
-    "port": 7797,
-    "removed": 1744460865
-  },
-  {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
     "addr": "31.56.0.17",
     "port": 7857
@@ -3011,7 +3005,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745065667
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
