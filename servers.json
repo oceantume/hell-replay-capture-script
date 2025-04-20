@@ -2734,12 +2734,6 @@
     "port": 9075
   },
   {
-    "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
-    "addr": "51.89.42.34",
-    "port": 9620,
-    "removed": 1744525475
-  },
-  {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "51.91.214.94",
     "port": 9620
@@ -3007,7 +3001,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745130291
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
