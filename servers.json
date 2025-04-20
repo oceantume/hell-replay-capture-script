@@ -375,10 +375,9 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 3 KAMPFSCHWEINE | EASTEREGG | QS | DE",
+    "name": "! ! !OINK 8 KAMPFSCHWEINE | BALLERBUDE | QS | GER",
     "addr": "159.69.226.135",
-    "port": 7777,
-    "removed": 1745064653
+    "port": 7777
   },
   {
     "name": "[TR] TSK ETKİNLİK SUNUCUSU | Discord.gg/TSKHLL",
@@ -1632,7 +1631,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1745131189
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -3001,8 +3001,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1745130291
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
