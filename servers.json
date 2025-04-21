@@ -444,13 +444,13 @@
   {
     "name": "Draft Haus has moved! Search: The DRAFT [HAUS] |US EAST",
     "addr": "172.96.172.104",
-    "port": 7807
+    "port": 7807,
+    "removed": 1745237531
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1745219129
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -965,8 +965,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1745219129
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -1156,8 +1155,7 @@
   {
     "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1745219129
+    "port": 8530
   },
   {
     "name": "Le Peloton Perdu",
@@ -1435,8 +1433,7 @@
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1745219129
+    "port": 9620
   },
   {
     "name": "#1 - Hell Let Loose - Danmark # New Players Welcome | www.helll",
@@ -1687,8 +1684,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1745219129
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1785,8 +1781,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1745151053
+    "port": 8772
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1832,8 +1827,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1745219129
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1863,8 +1857,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1745219129
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -1887,7 +1880,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2261,8 +2254,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1745151053
+    "port": 28000
   },
   {
     "name": "QA Testing - US East #09",
@@ -2862,8 +2854,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1745219129
+    "port": 8530
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -3345,20 +3336,17 @@
   {
     "name": "130th Panzer Lehr Division (US-Mid)",
     "addr": "83.223.207.50",
-    "port": 28000,
-    "removed": 1745218432
+    "port": 28000
   },
   {
     "name": "Test",
     "addr": "83.223.207.50",
-    "port": 28100,
-    "removed": 1745218432
+    "port": 28100
   },
   {
     "name": "╔ ╗ THE BUNKER ╔ ╗ TOBRUK 24/7 ALL GAME MODES",
     "addr": "83.223.207.50",
-    "port": 28800,
-    "removed": 1745218432
+    "port": 28800
   },
   {
     "name": "420th Prayer Division",
@@ -3369,20 +3357,17 @@
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
     "addr": "83.223.207.55",
-    "port": 28200,
-    "removed": 1745218432
+    "port": 28200
   },
   {
     "name": "The Practice Range",
     "addr": "83.223.207.55",
-    "port": 28600,
-    "removed": 1745218432
+    "port": 28600
   },
   {
     "name": "Durty Dozen",
     "addr": "83.223.207.55",
-    "port": 28700,
-    "removed": 1745218432
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
@@ -3566,7 +3551,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
