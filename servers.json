@@ -359,8 +359,7 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7907,
-    "removed": 1745197472
+    "port": 7907
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -485,8 +484,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1745129357
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #26",
@@ -587,7 +585,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1745215847
   },
   {
     "name": "HLL Official - Europe #42",
@@ -858,7 +857,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745215847
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -3315,7 +3315,7 @@
     "port": 28000
   },
   {
-    "name": "Rocky Hill (US East)",
+    "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
     "addr": "83.223.204.123",
     "port": 28200
   },
