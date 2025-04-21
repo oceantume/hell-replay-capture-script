@@ -1051,12 +1051,6 @@
     "removed": 1744978318
   },
   {
-    "name": "[LATAM/ESP] COUGARS AND CONDORS [cyc]",
-    "addr": "177.54.147.141",
-    "port": 7907,
-    "removed": 1744632764
-  },
-  {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
     "port": 7807
@@ -1731,6 +1725,11 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
+  },
+  {
+    "name": "#1 Braethrone | New Players Welcome | EU",
+    "addr": "213.136.80.177",
+    "port": 28100
   },
   {
     "name": "Warfrags Studios",
@@ -2985,7 +2984,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745238597
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
