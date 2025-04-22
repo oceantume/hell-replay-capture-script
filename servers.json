@@ -916,12 +916,6 @@
     "port": 28700
   },
   {
-    "name": "The Boys! - UK/EU - English Only - Mates Rates",
-    "addr": "176.57.174.145",
-    "port": 28000,
-    "removed": 1744698394
-  },
-  {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
     "port": 28100
@@ -2965,7 +2959,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745303196
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
