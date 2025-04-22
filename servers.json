@@ -556,7 +556,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1745302229
   },
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation",
@@ -587,8 +588,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1745215847
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #42",
@@ -678,8 +678,7 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "176.57.168.252",
-    "port": 28300,
-    "removed": 1744697426
+    "port": 28300
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -859,8 +858,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1745215847
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -971,7 +969,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745302229
   },
   {
     "name": "QA Testing - UK #07",
@@ -1612,7 +1611,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1745302229
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1774,12 +1774,6 @@
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
-  },
-  {
-    "name": "[GER] Gottimperator Ecko | Mic Pflicht",
-    "addr": "23.111.240.210",
-    "port": 9075,
-    "removed": 1744697426
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -2131,12 +2125,6 @@
     "name": "HLL Official - US West #07",
     "addr": "45.137.246.18",
     "port": 28700
-  },
-  {
-    "name": "MAKE DUROTAR GREAT AGAIN | NEW PLAYERS WELCOME | US W",
-    "addr": "45.137.246.2",
-    "port": 28200,
-    "removed": 1744697426
   },
   {
     "name": "HLL Official - US West #05",
@@ -2602,6 +2590,11 @@
     "port": 9014
   },
   {
+    "name": "CN淘宝人间地狱工作室代刷服务器出租",
+    "addr": "5.56.25.242",
+    "port": 7777
+  },
+  {
     "name": "cn#1HK费利奥萌新欢乐营(攻防)Q群892753546",
     "addr": "5.56.25.242",
     "port": 7787,
@@ -2667,12 +2660,6 @@
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
-  },
-  {
-    "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
-    "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1744697426
   },
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER № 2 (UA/LV/LTU/EST/ENG)https:",
