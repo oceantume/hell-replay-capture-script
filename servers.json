@@ -182,7 +182,8 @@
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745519100
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -460,7 +461,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1745519100
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -581,12 +583,6 @@
     "name": "HLL Official - Europe #39",
     "addr": "176.57.140.24",
     "port": 28100
-  },
-  {
-    "name": "QA Testing - EU #10",
-    "addr": "176.57.140.24",
-    "port": 28200,
-    "removed": 1744913374
   },
   {
     "name": "HLL Official - Europe #04",
@@ -2231,12 +2227,6 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - US East #09",
-    "addr": "45.137.247.19",
-    "port": 28200,
-    "removed": 1744913374
-  },
-  {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.19",
     "port": 28500,
@@ -2660,12 +2650,6 @@
     "port": 7817
   },
   {
-    "name": "ESP - 250H - ESCUELA DE NOVATOS (Spanish only)",
-    "addr": "51.89.192.209",
-    "port": 9075,
-    "removed": 1744913374
-  },
-  {
     "name": "CZ & SK | #3 | VLK @ EVENT",
     "addr": "51.89.42.34",
     "port": 10165
@@ -2699,12 +2683,6 @@
     "name": "[FR] Frères de Tranchées [FTC]-discord.gg/jSCASAtWva",
     "addr": "51.91.215.64",
     "port": 8530
-  },
-  {
-    "name": "Server Moved - search for BSB and update favorites",
-    "addr": "54.36.126.47",
-    "port": 8530,
-    "removed": 1744913374
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -2785,18 +2763,6 @@
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
-  },
-  {
-    "name": "вит | Bad Intentions - Event [US EAST]",
-    "addr": "64.20.34.114",
-    "port": 8533,
-    "removed": 1744913374
-  },
-  {
-    "name": "=F|A=Fearless-Assassins=New Players Welcome=",
-    "addr": "64.20.48.138",
-    "port": 8530,
-    "removed": 1744913374
   },
   {
     "name": "Brothers in Arms -OPEN WARFARE-US East-All Welcome-VIP Seeding ",
@@ -2946,7 +2912,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745519100
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
