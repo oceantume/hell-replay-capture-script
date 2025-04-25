@@ -169,7 +169,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745586632
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -966,8 +967,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1745585597
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -2902,7 +2902,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745586632
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
