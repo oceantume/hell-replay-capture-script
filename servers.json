@@ -966,7 +966,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100
+    "port": 28100,
+    "removed": 1745585597
   },
   {
     "name": "HLL Official - UK #01",
@@ -2540,12 +2541,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose Hermanos Grimm",
-    "addr": "5.189.130.178",
-    "port": 28300,
-    "removed": 1744980683
-  },
-  {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "5.189.132.77",
     "port": 28000
@@ -2907,8 +2902,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1745584224
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3539,7 +3533,7 @@
     "port": 7797
   },
   {
-    "name": "=ROTN= | discord.gg/rangersofthenorth | LVL 25+ AT PEAK HOURS",
+    "name": "=ROTN= | discord.gg/rangersofthenorth",
     "addr": "92.118.18.90",
     "port": 7777
   },
