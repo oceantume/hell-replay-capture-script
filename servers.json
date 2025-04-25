@@ -460,8 +460,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1745519100
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1135,6 +1134,11 @@
     "port": 9075
   },
   {
+    "name": "B.A.D HLL UK #1 ~New Players Welcome~",
+    "addr": "185.216.144.75",
+    "port": 10710
+  },
+  {
     "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
     "addr": "185.216.144.75",
     "port": 8530
@@ -1435,8 +1439,7 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1745496773
+    "port": 9620
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1707,7 +1710,8 @@
   {
     "name": "#1 BJD.gg » New Players Welcome | Discord.bjd.gg",
     "addr": "213.136.80.177",
-    "port": 28100
+    "port": 28100,
+    "removed": 1745541195
   },
   {
     "name": "Warfrags Studios",
@@ -1845,7 +1849,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1855,7 +1859,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -3486,7 +3490,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
