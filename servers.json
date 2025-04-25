@@ -748,7 +748,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400
+    "port": 28400,
+    "removed": 1745606447
   },
   {
     "name": "HLL Dev Team",
@@ -758,7 +759,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600
+    "port": 28600,
+    "removed": 1745606447
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -793,7 +795,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1745606447
   },
   {
     "name": "HLL Official - Europe #06",
@@ -803,7 +806,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1745606447
   },
   {
     "name": "HLL Official - Europe #41",
@@ -945,7 +949,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300
+    "port": 28300,
+    "removed": 1745606447
   },
   {
     "name": "HLL Official - Europe #08",
@@ -985,7 +990,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1745606447
   },
   {
     "name": "[Europe Ablaze]",
