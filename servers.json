@@ -168,8 +168,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1745650697
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -1561,8 +1560,7 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1745650697
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
@@ -2907,7 +2905,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745651405
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
