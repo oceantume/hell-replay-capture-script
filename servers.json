@@ -88,7 +88,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1745755861
   },
   {
     "name": "HLL Official - Japan #05",
@@ -431,7 +432,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1745755861
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1263,6 +1265,11 @@
     "port": 8772
   },
   {
+    "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
+    "addr": "192.169.89.18",
+    "port": 9014
+  },
+  {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
     "addr": "192.169.93.234",
     "port": 7777
@@ -1321,7 +1328,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1745755861
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1546,8 +1554,7 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1745737154
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
@@ -1570,12 +1577,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
-    "addr": "208.115.206.77",
-    "port": 7777,
-    "removed": 1745151053
-  },
-  {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
@@ -1593,8 +1594,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1745735098
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1853,7 +1853,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2216,7 +2216,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745755861
   },
   {
     "name": "HLL Official - US East #02",
@@ -2923,19 +2924,18 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075
+    "port": 9075,
+    "removed": 1745755861
   },
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1745737154
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827,
-    "removed": 1745737154
+    "port": 7827
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
@@ -3254,20 +3254,17 @@
   {
     "name": "130th Panzer Lehr Division (US-Mid)",
     "addr": "83.223.207.50",
-    "port": 28000,
-    "removed": 1745735979
+    "port": 28000
   },
   {
     "name": "Test",
     "addr": "83.223.207.50",
-    "port": 28100,
-    "removed": 1745735979
+    "port": 28100
   },
   {
     "name": "╔ ╗ THE BUNKER ╔ ╗ TOBRUK 24/7 ALL GAME MODES",
     "addr": "83.223.207.50",
-    "port": 28800,
-    "removed": 1745735979
+    "port": 28800
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
@@ -3427,7 +3424,8 @@
   {
     "name": "CN|JP|AFZ萌新服务器|QQ：809972300",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1745755861
   },
   {
     "name": "CN美术生希儿萌新啤酒馆暖服送五天532933387",
@@ -3466,7 +3464,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3499,12 +3497,6 @@
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
     "port": 7777
-  },
-  {
-    "name": "Hell Let Loose Server",
-    "addr": "92.118.18.116",
-    "port": 7787,
-    "removed": 1745151053
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
@@ -3613,7 +3605,7 @@
     "port": 29100
   },
   {
-    "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
+    "name": "90265785586227210",
     "addr": "92.38.151.91",
     "port": 28600
   },
