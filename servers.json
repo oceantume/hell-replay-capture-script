@@ -262,12 +262,6 @@
     "port": 9014
   },
   {
-    "name": "[1stA] 1st Airborne (EU) | LVL 10+",
-    "addr": "145.239.5.101",
-    "port": 9075,
-    "removed": 1745258975
-  },
-  {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.135.184",
     "port": 28300
@@ -441,8 +435,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1745842353
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1373,7 +1366,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745863822
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1478,22 +1472,26 @@
   {
     "name": "「CZS」Super prime training server",
     "addr": "203.10.98.41",
-    "port": 8888
+    "port": 8888,
+    "removed": 1745863822
   },
   {
     "name": "CN1.「FA」野战军白袜交流会",
     "addr": "203.10.98.41",
-    "port": 8908
+    "port": 8908,
+    "removed": 1745863822
   },
   {
     "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
     "addr": "203.10.98.41",
-    "port": 8918
+    "port": 8918,
+    "removed": 1745863822
   },
   {
     "name": "cn「西游小队」重回西游社区",
     "addr": "203.10.98.41",
-    "port": 8928
+    "port": 8928,
+    "removed": 1745863822
   },
   {
     "name": "✠︎1CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
@@ -1666,7 +1664,7 @@
     "port": 7777
   },
   {
-    "name": "[82AD] Band of Brothers | #3 | discord.gg/82nd",
+    "name": "[82AD] Band of Brothers | Event #2 | discord.gg/82nd",
     "addr": "208.115.248.108",
     "port": 7777
   },
@@ -1769,8 +1767,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1745842353
+    "port": 8772
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1858,7 +1855,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2537,7 +2534,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1745863822
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -3099,7 +3097,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1745863822
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3159,8 +3158,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.168",
-    "port": 28900,
-    "removed": 1745777315
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #23",
@@ -3190,8 +3188,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1745777315
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3230,9 +3227,24 @@
     "removed": 1745431798
   },
   {
+    "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
+    "addr": "83.223.203.121",
+    "port": 28300
+  },
+  {
+    "name": "24/7 Elsenborn Ridge Update!",
+    "addr": "83.223.203.127",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
+  },
+  {
+    "name": "CrossFire Gaming",
+    "addr": "83.223.203.155",
+    "port": 28000
   },
   {
     "name": "Major Winters Total Chao's",
@@ -3248,17 +3260,20 @@
   {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
-    "port": 28100
+    "port": 28100,
+    "removed": 1745863822
   },
   {
     "name": "CrossFire Gaming",
     "addr": "83.223.204.123",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745863822
   },
   {
     "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
     "addr": "83.223.204.123",
-    "port": 28200
+    "port": 28200,
+    "removed": 1745863822
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -3487,7 +3502,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3542,7 +3557,7 @@
     "port": 7797
   },
   {
-    "name": "=ROTN= | discord.gg/rangersofthenorth",
+    "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
     "addr": "92.118.18.90",
     "port": 7777
   },
