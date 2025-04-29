@@ -2918,8 +2918,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1745951162
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3217,6 +3216,11 @@
     "port": 31100
   },
   {
+    "name": "CN# UE玛丽亚之墙夺回战 节点HK Q群：797064367",
+    "addr": "83.223.197.41",
+    "port": 34100
+  },
+  {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
     "addr": "83.223.197.85",
     "port": 28000
@@ -3235,7 +3239,8 @@
   {
     "name": "CN# UE玛丽亚之墙夺回战 节点HK Q群：797064367",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1745952061
   },
   {
     "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
