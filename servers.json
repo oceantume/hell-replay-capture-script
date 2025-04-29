@@ -307,6 +307,11 @@
     "port": 8530
   },
   {
+    "name": "BAND OF ROLEPLAYERS",
+    "addr": "154.16.170.14",
+    "port": 8530
+  },
+  {
     "name": "Games Done Mediocre | New Player Friendly | Central US",
     "addr": "154.16.200.252",
     "port": 8530
@@ -515,8 +520,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1745820993
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -858,7 +862,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745907057
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -923,8 +928,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1745820993
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -974,7 +978,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745907057
   },
   {
     "name": "QA Testing - EU #05",
@@ -1606,7 +1611,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1745907057
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2719,7 +2725,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Classic maps",
     "addr": "57.128.229.70",
-    "port": 7797
+    "port": 7797,
+    "removed": 1745907057
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
