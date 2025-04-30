@@ -756,7 +756,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.168.61",
-    "port": 28500
+    "port": 28500,
+    "removed": 1745995396
   },
   {
     "name": "QA Testing - EU #01",
@@ -1569,8 +1570,7 @@
   {
     "name": "[GER] Hack Let Loose Eventserver 3",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1745994415
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
