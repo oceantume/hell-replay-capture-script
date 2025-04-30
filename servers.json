@@ -1233,8 +1233,7 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787,
-    "removed": 1745993435
+    "port": 7787
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1570,7 +1569,8 @@
   {
     "name": "[GER] Hack Let Loose Eventserver 3",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1745994415
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server",
