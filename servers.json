@@ -1161,12 +1161,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1745412828
-  },
-  {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
     "port": 7777
@@ -2011,8 +2005,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1745932649
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #37",
