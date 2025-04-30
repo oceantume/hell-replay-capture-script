@@ -143,7 +143,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1745993435
   },
   {
     "name": "HLL Official - Russia #02",
@@ -592,7 +593,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1745993435
   },
   {
     "name": "HLL Official - Europe #42",
@@ -662,7 +664,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.168.216",
-    "port": 28500
+    "port": 28500,
+    "removed": 1745993435
   },
   {
     "name": "HLL Official - Europe #38",
@@ -975,8 +978,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1745907057
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1231,7 +1233,8 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787
+    "port": 7787,
+    "removed": 1745993435
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1421,7 +1424,7 @@
     "port": 9620
   },
   {
-    "name": "#1 - Hell Let Loose - Danmark # New Players Welcome | www.helll",
+    "name": "#1 | Danmark | Europe | All maps | www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1565,7 +1568,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] HaLL Eventserver 3",
+    "name": "[GER] Hack Let Loose Eventserver 3",
     "addr": "208.115.206.36",
     "port": 7777
   },
@@ -1575,7 +1578,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] HaLL Eventserver 1",
+    "name": "[GER] Hack Let Loose Eventserver 1",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1607,7 +1610,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1745993435
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1806,7 +1810,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] HaLL Eventserver 2",
+    "name": "[GER] Hack Let Loose Eventserver 2",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -2721,7 +2725,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Classic maps",
     "addr": "57.128.229.70",
-    "port": 7797
+    "port": 7797,
+    "removed": 1745993435
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
