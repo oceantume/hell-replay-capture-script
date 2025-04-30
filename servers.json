@@ -205,7 +205,8 @@
   {
     "name": "Cult | Moscow | discord.cultcity.ru | Russian Public Server",
     "addr": "141.105.66.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1746036589
   },
   {
     "name": "EG event server",
@@ -298,6 +299,11 @@
     "port": 8772
   },
   {
+    "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
+    "addr": "151.80.27.200",
+    "port": 9075
+  },
+  {
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
     "addr": "152.228.223.2",
     "port": 10165
@@ -305,7 +311,8 @@
   {
     "name": "CDS",
     "addr": "152.228.223.24",
-    "port": 8530
+    "port": 8530,
+    "removed": 1746036589
   },
   {
     "name": "BAND OF ROLEPLAYERS",
@@ -381,7 +388,7 @@
     "port": 9075
   },
   {
-    "name": "Test Server by LOW.MS",
+    "name": "Prove to be good by OINK",
     "addr": "159.69.226.135",
     "port": 7777
   },
@@ -470,6 +477,11 @@
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
+  },
+  {
+    "name": "CDS",
+    "addr": "176.31.232.159",
+    "port": 9075
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
@@ -1146,7 +1158,7 @@
     "removed": 1745843448
   },
   {
-    "name": "#1 European Misfits Regiment New Players Welcome",
+    "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
     "port": 8530
   },
@@ -1975,7 +1987,8 @@
   {
     "name": "ZOO - Match server",
     "addr": "37.187.25.13",
-    "port": 8530
+    "port": 8530,
+    "removed": 1746036589
   },
   {
     "name": "HLL Official - US West #14",
@@ -2700,7 +2713,8 @@
   {
     "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "54.36.60.213",
-    "port": 8772
+    "port": 8772,
+    "removed": 1746036589
   },
   {
     "name": "0UTC・United Teamed Clans・| UK | IE | PT | EU |",
@@ -2947,7 +2961,8 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075
+    "port": 9075,
+    "removed": 1746036589
   },
   {
     "name": "The Lucky Strikes | Votemap",
@@ -3098,7 +3113,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746036589
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3108,8 +3124,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1745950207
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #13",
@@ -3516,7 +3531,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
