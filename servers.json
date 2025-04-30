@@ -415,7 +415,7 @@
     "port": 7877
   },
   {
-    "name": "[TR/ENG] ヤ | The Turkish Talon discord.gg/MrhDdD8US5",
+    "name": "[TR] ヤ | The Turkish Talon discord.gg/MrhDdD8US5",
     "addr": "169.150.215.67",
     "port": 7777
   },
@@ -1340,7 +1340,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1350,7 +1350,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1565,7 +1565,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hack Let Loose Eventserver 3",
+    "name": "[GER] HaLL Eventserver 3",
     "addr": "208.115.206.36",
     "port": 7777
   },
@@ -1801,7 +1801,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1811,7 +1811,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1841,7 +1841,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1856,7 +1856,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1866,7 +1866,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2811,8 +2811,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1745928800
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -3523,7 +3522,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
