@@ -381,14 +381,15 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 8 KAMPFSCHWEINE | NEW PLAYERS WELCOME | QS | GER",
+    "name": "Test Server by LOW.MS",
     "addr": "159.69.226.135",
     "port": 7777
   },
   {
     "name": "[TR] TSK ETKİNLİK SUNUCUSU | Discord.gg/TSKHLL",
     "addr": "159.69.226.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746015146
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -1039,6 +1040,11 @@
     "port": 7867
   },
   {
+    "name": "[LATAM/ARG] Paradox Empire | discord.gg/paradoxempire",
+    "addr": "177.54.147.141",
+    "port": 7887
+  },
+  {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
     "port": 7807
@@ -1140,7 +1146,7 @@
     "removed": 1745843448
   },
   {
-    "name": "#1 RMK EU-New Players Welcome-OFFENSIVE-discord.gg/RMKletloose",
+    "name": "#1 European Misfits Regiment New Players Welcome",
     "addr": "185.216.144.75",
     "port": 8530
   },
@@ -1577,7 +1583,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hack Let Loose Eventserver 1",
+    "name": "[GER] Developer | by Hack Let Loose (HaLL)",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1609,8 +1615,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1745993435
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1628,7 +1633,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM .COM",
+    "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
     "port": 7777
   },
@@ -1869,7 +1874,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2237,8 +2242,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1745928800
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #02",
@@ -2418,8 +2422,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1745842353
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
