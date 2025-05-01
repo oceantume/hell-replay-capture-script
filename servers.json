@@ -675,7 +675,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.216",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746101533
   },
   {
     "name": "HLL Official - Europe #05",
@@ -766,7 +767,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746101533
   },
   {
     "name": "HLL Dev Team",
@@ -776,7 +778,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746101533
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -811,7 +814,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746101533
   },
   {
     "name": "HLL Official - Europe #06",
@@ -958,7 +962,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746101533
   },
   {
     "name": "HLL Official - Europe #08",
@@ -978,8 +983,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.127",
-    "port": 28100,
-    "removed": 1746083124
+    "port": 28100
   },
   {
     "name": "HLL Official - UK #01",
@@ -999,7 +1003,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746101533
   },
   {
     "name": "[Europe Ablaze]",
@@ -1161,8 +1166,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1746083124
+    "port": 8530
   },
   {
     "name": "Le Peloton Perdu",
@@ -1439,8 +1443,7 @@
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1746083124
+    "port": 9620
   },
   {
     "name": "#1 | Danmark | Europe | All maps | www.hellletloose.dk",
@@ -1638,8 +1641,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1746079855
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1704,8 +1706,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1746083124
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1767,8 +1768,7 @@
   {
     "name": "[GER] Zum Goldenen Reiter [ZGR] [German Mic]",
     "addr": "213.136.88.87",
-    "port": 28400,
-    "removed": 1746083124
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -1848,8 +1848,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1746083124
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1879,8 +1878,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1746083124
+    "port": 7787
   },
   {
     "name": "#2 [ESP] server - DIV33 Oficial - Español / Spanish",
@@ -1903,7 +1901,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2031,7 +2029,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746101533
   },
   {
     "name": "HLL Official - US West #02",
@@ -2271,7 +2270,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000
+    "port": 28000,
+    "removed": 1746101533
   },
   {
     "name": "HLL Official - US East #02",
@@ -2828,8 +2828,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1746083124
+    "port": 8530
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -2849,7 +2848,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746101533
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
