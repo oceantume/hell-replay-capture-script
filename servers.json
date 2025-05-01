@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Vote Map All Modes | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1746039720
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -483,6 +482,11 @@
     "name": "CDS",
     "addr": "176.31.232.159",
     "port": 9075
+  },
+  {
+    "name": "ZOO - Match server",
+    "addr": "176.31.232.159",
+    "port": 9620
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
@@ -1044,8 +1048,7 @@
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
     "addr": "177.54.147.141",
-    "port": 7847,
-    "removed": 1745475026
+    "port": 7847
   },
   {
     "name": "彡 MIB 彡 Made in Brasil // Junte-se à Insanidade!!",
@@ -1707,7 +1710,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "208.115.250.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746059854
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1871,7 +1875,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1881,7 +1885,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -3532,7 +3536,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
