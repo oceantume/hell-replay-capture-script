@@ -1807,7 +1807,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "23.142.25.6",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746061710
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
@@ -2966,8 +2967,7 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075,
-    "removed": 1746036589
+    "port": 9075
   },
   {
     "name": "The Lucky Strikes | Votemap",
