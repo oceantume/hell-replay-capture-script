@@ -534,8 +534,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1746079855
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -675,7 +674,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.216",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746166251
   },
   {
     "name": "HLL Official - Europe #05",
@@ -766,7 +766,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746166251
   },
   {
     "name": "HLL Dev Team",
@@ -776,7 +777,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746166251
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -811,7 +813,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746166251
   },
   {
     "name": "HLL Official - Europe #06",
@@ -878,7 +881,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1746166251
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -958,7 +962,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746166251
   },
   {
     "name": "HLL Official - Europe #08",
@@ -993,12 +998,14 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1746166251
   },
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746166251
   },
   {
     "name": "[Europe Ablaze]",
@@ -1039,7 +1046,8 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
     "addr": "177.54.147.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746166251
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -1639,7 +1647,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746166251
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
