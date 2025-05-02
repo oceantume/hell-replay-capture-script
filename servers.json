@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Vote Map All Modes | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Scrim Night | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -1223,6 +1223,11 @@
     "port": 7787
   },
   {
+    "name": "Rocky Hill",
+    "addr": "192.169.80.28",
+    "port": 7787
+  },
+  {
     "name": "Another Qonzer.com server is born!",
     "addr": "192.169.80.29",
     "port": 7777
@@ -1741,12 +1746,6 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
-  },
-  {
-    "name": "#1 BJD.gg » New Players Welcome | Discord.bjd.gg",
-    "addr": "213.136.80.177",
-    "port": 28100,
-    "removed": 1745541195
   },
   {
     "name": "Warfrags Studios",
