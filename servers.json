@@ -30,12 +30,6 @@
     "port": 7787
   },
   {
-    "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
-    "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1745669459
-  },
-  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -93,7 +87,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746274273
   },
   {
     "name": "HLL Official - Japan #05",
@@ -434,7 +429,8 @@
   {
     "name": "South Africa Let Loose | discord.gg/QfN6SDfGVy",
     "addr": "169.150.238.99",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746274273
   },
   {
     "name": "Ziglandia » US WEST #1(NorCal) » Mixed Modes",
@@ -927,8 +923,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1746252555
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -1096,7 +1091,8 @@
   {
     "name": "ADAFX™ Brasil | adafx.com.br",
     "addr": "181.214.221.212",
-    "port": 7807
+    "port": 7807,
+    "removed": 1746274273
   },
   {
     "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
@@ -1267,8 +1263,7 @@
   {
     "name": "Helios Create and Destroy : US EAST",
     "addr": "192.169.86.52",
-    "port": 7777,
-    "removed": 1746187968
+    "port": 7777
   },
   {
     "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
@@ -1593,8 +1588,7 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1746255561
+    "port": 7777
   },
   {
     "name": "[GER] Hack Let Loose Eventserver 3",
@@ -1644,8 +1638,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1746252555
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1824,6 +1817,11 @@
     "port": 7787
   },
   {
+    "name": "Horang event server-US WEST",
+    "addr": "23.142.25.8",
+    "port": 7777
+  },
+  {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "31.56.0.10",
     "port": 7777
@@ -1899,7 +1897,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1954,7 +1952,7 @@
     "port": 7847
   },
   {
-    "name": "[CN/JP]ITK白诘草萌新温馨挨D窝Q群48381851",
+    "name": "[CN/JP]ITK白诘草萌新温馨挨D小窝Q群48381851",
     "addr": "31.56.0.81",
     "port": 7857
   },
@@ -2382,8 +2380,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1746187968
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #47",
@@ -2820,7 +2817,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746274273
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
