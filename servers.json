@@ -324,12 +324,6 @@
     "port": 8530
   },
   {
-    "name": "US(EAST) vanilla",
-    "addr": "154.53.48.184",
-    "port": 35100,
-    "removed": 1745627531
-  },
-  {
     "name": "CN2#HK#【FJ】训练服#战队招新加Q群716701264",
     "addr": "156.146.44.225",
     "port": 7777
@@ -675,7 +669,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.168.216",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746234030
   },
   {
     "name": "HLL Official - Europe #05",
@@ -730,7 +725,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746234030
   },
   {
     "name": "Team17 CERT",
@@ -760,7 +756,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746234030
   },
   {
     "name": "HLL Dev Team",
@@ -815,7 +812,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1746234030
   },
   {
     "name": "HLL Official - Europe #41",
@@ -951,7 +949,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746234030
   },
   {
     "name": "HLL Official - Europe #08",
@@ -981,7 +980,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746234030
   },
   {
     "name": "PsychWard-UK",
@@ -997,7 +997,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746234030
   },
   {
     "name": "[Europe Ablaze]",
@@ -1068,7 +1069,8 @@
   {
     "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
-    "port": 7797
+    "port": 7797,
+    "removed": 1746234030
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -1730,7 +1732,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "208.115.250.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746234030
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -2924,7 +2927,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746234030
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
