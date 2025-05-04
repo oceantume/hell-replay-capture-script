@@ -2919,7 +2919,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746383037
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3634,12 +3635,6 @@
     "name": "Brasil - AIRBORNE 101 (Cave sua Trincheira e não Recue)",
     "addr": "92.38.151.76",
     "port": 28700
-  },
-  {
-    "name": "Teste DIE",
-    "addr": "92.38.151.76",
-    "port": 28800,
-    "removed": 1745778220
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
