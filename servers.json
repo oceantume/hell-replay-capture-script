@@ -87,8 +87,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1746274273
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -251,12 +250,14 @@
   {
     "name": "[FR] 2eBCP \\_/ 2e Bataillon de Commandos Parachutistes \\_/",
     "addr": "145.239.253.127",
-    "port": 8772
+    "port": 8772,
+    "removed": 1746360681
   },
   {
     "name": "[CFr] Corps Franc FR ONLY - discord.gg/JSt77BbRS8",
     "addr": "145.239.253.127",
-    "port": 9014
+    "port": 9014,
+    "removed": 1746360681
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -264,7 +265,7 @@
     "port": 28300
   },
   {
-    "name": "The Coalition | Asian League PH #2 | discord.gg/thecoalition",
+    "name": "The Coalition PH | Asian League #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
   },
@@ -835,8 +836,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1746338975
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -979,7 +979,7 @@
     "port": 28200
   },
   {
-    "name": "[UK]-PSYCHWARD",
+    "name": "[UK]-PSYCHWARD | Discord.gg/nXxWURmX8g | NEW PLAYERS WELCOME",
     "addr": "176.57.178.15",
     "port": 28000
   },
@@ -1459,7 +1459,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1746360681
   },
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
@@ -1589,8 +1590,7 @@
   {
     "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1746342037
+    "port": 7777
   },
   {
     "name": "[GER] Hack Let Loose Eventserver 3",
@@ -1640,8 +1640,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1746340844
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1900,7 +1899,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1985,7 +1984,7 @@
     "port": 7907
   },
   {
-    "name": "|Nexus|水晶枢纽|400规日服✿低压(665327895)CNC",
+    "name": "丨Nexus丨『水晶枢纽』日服(q群665327895)CNC",
     "addr": "31.56.0.81",
     "port": 7917
   },
@@ -2775,7 +2774,8 @@
   {
     "name": "Brothers in Arms -OPEN WARFARE-US East-All Welcome-VIP Seeding ",
     "addr": "64.20.48.138",
-    "port": 9075
+    "port": 9075,
+    "removed": 1746360681
   },
   {
     "name": "MG Prep",
@@ -3213,7 +3213,8 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "83.223.197.41",
-    "port": 31100
+    "port": 31100,
+    "removed": 1746360681
   },
   {
     "name": "CN# UE玛丽亚之墙夺回战 节点HK Q群：797064367",
@@ -3517,7 +3518,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
