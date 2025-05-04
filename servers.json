@@ -532,7 +532,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746338975
   },
   {
     "name": "HLL Official - Europe #50",
@@ -834,7 +835,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746338975
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -864,8 +866,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1746166251
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -930,8 +931,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1746252555
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -946,8 +946,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300,
-    "removed": 1746234030
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -993,12 +992,6 @@
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
     "port": 28200
-  },
-  {
-    "name": "[Europe Ablaze]",
-    "addr": "176.57.178.44",
-    "port": 28000,
-    "removed": 1745734165
   },
   {
     "name": "CZ/SK",
@@ -1258,7 +1251,7 @@
     "port": 7777
   },
   {
-    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
+    "name": "[No Rubber Banding][ITM] In The Mood #1 | Tankers Paradise | Of",
     "addr": "192.169.86.51",
     "port": 7787
   },
@@ -1825,7 +1818,7 @@
     "port": 7787
   },
   {
-    "name": "Horang event server-US WEST",
+    "name": "HORANG Event Server | US WEST | (TVB ROKA)",
     "addr": "23.142.25.8",
     "port": 7777
   },
@@ -2765,8 +2758,7 @@
   {
     "name": "[Merc]iless Event Server",
     "addr": "63.143.62.93",
-    "port": 7797,
-    "removed": 1746319048
+    "port": 7797
   },
   {
     "name": "Radical Gaming :: Los Angeles :: Powered by Qonzer.com",
@@ -3249,7 +3241,7 @@
     "removed": 1745952061
   },
   {
-    "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
+    "name": "Rocky Hill (US East) discord.gg/rockyhill",
     "addr": "83.223.203.121",
     "port": 28300
   },
