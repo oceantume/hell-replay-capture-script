@@ -2501,7 +2501,8 @@
   {
     "name": "GREYHOUND NIGHT - GREEN",
     "addr": "46.105.223.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746470965
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -2526,8 +2527,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1746470306
+    "port": 7807
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -3485,7 +3485,8 @@
   {
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746470965
   },
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
