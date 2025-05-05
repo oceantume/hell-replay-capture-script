@@ -1367,12 +1367,6 @@
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
-    "addr": "193.192.58.145",
-    "port": 28000,
-    "removed": 1745863822
-  },
-  {
-    "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
     "port": 28000
   },
@@ -1471,30 +1465,6 @@
     "name": "「CZS」Node: JP 跑圖訓練服",
     "addr": "203.10.98.103",
     "port": 8888
-  },
-  {
-    "name": "「CZS」Super prime training server",
-    "addr": "203.10.98.41",
-    "port": 8888,
-    "removed": 1745863822
-  },
-  {
-    "name": "CN1.「FA」野战军白袜交流会",
-    "addr": "203.10.98.41",
-    "port": 8908,
-    "removed": 1745863822
-  },
-  {
-    "name": "#cn「JWH」啤酒小屋冲突服.JP.Q719036493",
-    "addr": "203.10.98.41",
-    "port": 8918,
-    "removed": 1745863822
-  },
-  {
-    "name": "cn「西游小队」重回西游社区",
-    "addr": "203.10.98.41",
-    "port": 8928,
-    "removed": 1745863822
   },
   {
     "name": "✠︎1CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
@@ -1775,7 +1745,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1746469422
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -3255,24 +3226,6 @@
     "name": "Major Winters Total Chao's",
     "addr": "83.223.203.182",
     "port": 28200
-  },
-  {
-    "name": "24/7 Elsenborn Ridge Update!",
-    "addr": "83.223.204.122",
-    "port": 28100,
-    "removed": 1745863822
-  },
-  {
-    "name": "CrossFire Gaming",
-    "addr": "83.223.204.123",
-    "port": 28000,
-    "removed": 1745863822
-  },
-  {
-    "name": "Rocky Hill (US East) discord.gg/SezMfq8Fea",
-    "addr": "83.223.204.123",
-    "port": 28200,
-    "removed": 1745863822
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
