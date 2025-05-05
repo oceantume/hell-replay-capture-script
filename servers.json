@@ -1159,6 +1159,11 @@
     "port": 8530
   },
   {
+    "name": "[FR Coalition] Frères de Tranchées [FTC]",
+    "addr": "185.216.145.154",
+    "port": 9075
+  },
+  {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
     "addr": "188.165.39.157",
     "port": 7777
@@ -1249,7 +1254,7 @@
     "port": 7777
   },
   {
-    "name": "[No Rubber Banding][ITM] In The Mood #1 | Tankers Paradise | Of",
+    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
     "port": 7787
   },
@@ -1887,7 +1892,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1897,7 +1902,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2524,7 +2529,7 @@
     "port": 11255
   },
   {
-    "name": "[TGL] The Gulag Lounge TOBRUK ONLY UNTIL 06.04 discord.gg/thegu",
+    "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
     "addr": "45.143.199.235",
     "port": 9075
   },
@@ -2686,7 +2691,8 @@
   {
     "name": "[FR] Frères de Tranchées [FTC]-discord.gg/jSCASAtWva",
     "addr": "51.91.215.64",
-    "port": 8530
+    "port": 8530,
+    "removed": 1746405364
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -2813,8 +2819,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1746274273
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -3265,12 +3270,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.204.11",
-    "port": 28300,
-    "removed": 1745800490
-  },
-  {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.204.122",
     "port": 28100,
@@ -3514,7 +3513,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
