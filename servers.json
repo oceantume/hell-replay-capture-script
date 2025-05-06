@@ -1996,7 +1996,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1746537387
   },
   {
     "name": "HLL Official - US West #37",
@@ -3316,7 +3317,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746537387
   },
   {
     "name": "HLL Official - South America #01",
