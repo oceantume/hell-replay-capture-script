@@ -849,6 +849,11 @@
     "port": 28300
   },
   {
+    "name": "[GER] RACCOONS HEADQUARTER | Mic Only | https://discord.gg/QgUM",
+    "addr": "176.57.171.44",
+    "port": 28100
+  },
+  {
     "name": "Schweizer Söldnertum [GER]",
     "addr": "176.57.171.44",
     "port": 28200
@@ -1012,7 +1017,8 @@
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 - NEW PLAYERS WELCOME (UA",
     "addr": "176.57.181.34",
-    "port": 28100
+    "port": 28100,
+    "removed": 1746491614
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
@@ -1027,7 +1033,8 @@
   {
     "name": "彡 MIB 彡 Made in Brasil // Junte-se à Insanidade!!",
     "addr": "177.54.147.141",
-    "port": 7867
+    "port": 7867,
+    "removed": 1746491614
   },
   {
     "name": "[LATAM/ARG] Paradox Empire | discord.gg/paradoxempire",
@@ -1408,7 +1415,8 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1746491614
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1848,7 +1856,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1858,7 +1866,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -3452,7 +3460,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
