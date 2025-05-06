@@ -694,7 +694,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1746511830
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -714,14 +715,12 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1746234030
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1746493363
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #23",
@@ -746,8 +745,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.168.61",
-    "port": 28400,
-    "removed": 1746234030
+    "port": 28400
   },
   {
     "name": "HLL Dev Team",
@@ -927,7 +925,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746511830
   },
   {
     "name": "HLL Official - Europe #20",
@@ -982,8 +981,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1746425482
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1204,7 +1202,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "ROAD TO D-DAY 2025 | Powered By Qonzer",
     "addr": "192.169.80.26",
     "port": 7787
   },
@@ -1608,7 +1606,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746511830
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2557,7 +2556,7 @@
     "port": 28000
   },
   {
-    "name": "[GER+Mic] Bündnisserver der KL/TP/100.",
+    "name": "TP | Team Paranoid | EU/ENG | Join us!",
     "addr": "5.189.132.77",
     "port": 28200
   },
