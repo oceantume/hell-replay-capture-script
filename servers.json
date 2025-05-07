@@ -1772,7 +1772,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "23.142.25.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746623816
   },
   {
     "name": "Jefersson's & Budweiser's - training/event - discord.gg/cobrasf",
@@ -2003,8 +2004,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1746537387
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #37",
@@ -2149,7 +2149,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1746623816
   },
   {
     "name": "HLL Official - US West #26",
