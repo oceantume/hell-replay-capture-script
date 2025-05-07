@@ -162,7 +162,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746598252
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -492,7 +493,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746598252
   },
   {
     "name": "HLL Official - Europe #26",
@@ -587,7 +589,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1746598252
   },
   {
     "name": "HLL Official - Europe #42",
@@ -687,8 +690,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1746511830
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -919,8 +921,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1746511830
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -3413,7 +3414,8 @@
   {
     "name": "CN MAX老B灯&喷火龙@JP Q群：258455568丨341807965",
     "addr": "89.46.1.190",
-    "port": 7807
+    "port": 7807,
+    "removed": 1746598252
   },
   {
     "name": "<CN>#1 IMP风暴兵社区 萌新攻防服 QQ群1020812925 JP节",
@@ -3436,7 +3438,7 @@
     "port": 7847
   },
   {
-    "name": "CN1#JP#【FJ】绿魔鬼战队服务器 Q群:716701264",
+    "name": "CN // # JP # [萌新服] 雨泽的洞天福地 Q群:262578966",
     "addr": "89.46.1.190",
     "port": 7857
   },
