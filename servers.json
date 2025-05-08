@@ -745,7 +745,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746706359
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -1241,7 +1242,8 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746706359
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1574,8 +1576,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1746684643
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1843,7 +1844,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2391,8 +2392,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1746619992
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #15",
