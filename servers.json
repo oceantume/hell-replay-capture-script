@@ -1408,8 +1408,7 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1746729728
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -2508,8 +2507,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1746727797
+    "port": 7807
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -3184,6 +3182,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
     "port": 28200
+  },
+  {
+    "name": "Operation Blitzkrieg",
+    "addr": "83.223.203.138",
+    "port": 28300
   },
   {
     "name": "CrossFire Gaming",
