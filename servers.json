@@ -705,7 +705,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746771063
   },
   {
     "name": "Team17 CERT",
@@ -745,8 +746,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.61",
-    "port": 28600,
-    "removed": 1746706359
+    "port": 28600
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -961,8 +961,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1746750841
+    "port": 28200
   },
   {
     "name": "[UK]-PSYCHWARD | ITS REVENGE OF THE FITH DAY! | DONT FORGET TO ",
@@ -977,8 +976,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1746750841
+    "port": 28200
   },
   {
     "name": "CZ/SK",
@@ -1578,7 +1576,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746771063
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1928,8 +1927,7 @@
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
-    "port": 7907,
-    "removed": 1746727797
+    "port": 7907
   },
   {
     "name": "丨Nexus丨『水晶枢纽』日服(q群665327895)CNC",
