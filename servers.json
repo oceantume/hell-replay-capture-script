@@ -117,8 +117,7 @@
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1746882258
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
@@ -296,7 +295,8 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es -Spa Only",
     "addr": "151.80.27.200",
-    "port": 8772
+    "port": 8772,
+    "removed": 1746900502
   },
   {
     "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
@@ -1170,6 +1170,11 @@
     "port": 10710
   },
   {
+    "name": "[GER] Oktogon | OKT | Wir Rekrutieren!",
+    "addr": "185.216.144.75",
+    "port": 11255
+  },
+  {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
     "port": 8530
@@ -1729,7 +1734,8 @@
   {
     "name": "Monte Castello [US/BR] -- DISCORD.ME/HLLMC",
     "addr": "209.192.185.50",
-    "port": 7807
+    "port": 7807,
+    "removed": 1746900502
   },
   {
     "name": "Warfrags Studios",
@@ -1739,7 +1745,8 @@
   {
     "name": "[GER] [DSDV] Die Schmiede der Verdammten | DC: Qd9xVEjbpm",
     "addr": "213.136.88.87",
-    "port": 28100
+    "port": 28100,
+    "removed": 1746900502
   },
   {
     "name": "[GER] Zum Goldhelm & Speer [ZGR] x [300 Spartaner] | German Mic",
@@ -1878,7 +1885,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1995,8 +2002,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #27",
@@ -2018,8 +2024,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1746882258
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -2036,8 +2041,7 @@
   {
     "name": "HLL Official - US West #11",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1746882258
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #19",
@@ -2071,20 +2075,17 @@
   {
     "name": "HLL Official - US West #15",
     "addr": "45.137.246.16",
-    "port": 28500,
-    "removed": 1746882258
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #04",
     "addr": "45.137.246.17",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #16",
     "addr": "45.137.246.17",
-    "port": 28100,
-    "removed": 1746882258
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #33",
@@ -2119,20 +2120,17 @@
   {
     "name": "HLL Official - US West #13",
     "addr": "45.137.246.17",
-    "port": 28700,
-    "removed": 1746882258
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #08",
     "addr": "45.137.246.18",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #18",
     "addr": "45.137.246.18",
-    "port": 28100,
-    "removed": 1746882258
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #29",
@@ -2161,26 +2159,22 @@
   {
     "name": "HLL Official - US West #20",
     "addr": "45.137.246.18",
-    "port": 28600,
-    "removed": 1746882258
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #07",
     "addr": "45.137.246.18",
-    "port": 28700,
-    "removed": 1746882258
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #17",
     "addr": "45.137.246.6",
-    "port": 28100,
-    "removed": 1746882258
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #35",
@@ -2209,14 +2203,12 @@
   {
     "name": "HLL Official - US West #12",
     "addr": "45.137.246.6",
-    "port": 28700,
-    "removed": 1746882258
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #06",
     "addr": "45.137.246.7",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #28",
@@ -2251,8 +2243,7 @@
   {
     "name": "HLL Official - US West #10",
     "addr": "45.137.246.9",
-    "port": 28000,
-    "removed": 1746882258
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #22",
@@ -2293,8 +2284,7 @@
   {
     "name": "HLL Official - US West #09",
     "addr": "45.137.246.9",
-    "port": 28700,
-    "removed": 1746882258
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -2947,7 +2937,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746900502
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
@@ -2987,8 +2978,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1746880088
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3172,13 +3162,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1746727797
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746900502
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3520,7 +3510,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3668,13 +3658,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1746814175
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1746900502
   },
   {
     "name": "HLL Official - Australia #03",
