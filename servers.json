@@ -294,7 +294,8 @@
   {
     "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
     "addr": "151.80.27.200",
-    "port": 9075
+    "port": 9075,
+    "removed": 1746857346
   },
   {
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
@@ -340,6 +341,11 @@
     "name": "cn淘宝人间地狱工作室安全高效",
     "addr": "156.146.44.225",
     "port": 7827
+  },
+  {
+    "name": "hll Server",
+    "addr": "156.146.44.225",
+    "port": 7837
   },
   {
     "name": "[CN]Nya~类人群星闪耀时#萌新进阶#港服Q:500001820",
@@ -491,7 +497,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1746857346
   },
   {
     "name": "HLL Official - Europe #26",
@@ -587,7 +594,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746857346
   },
   {
     "name": "HLL Official - Europe #02",
@@ -719,8 +727,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1746771063
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
@@ -1150,7 +1157,8 @@
   {
     "name": "!![SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
     "addr": "185.206.151.30",
-    "port": 9075
+    "port": 9075,
+    "removed": 1746857346
   },
   {
     "name": "Delta Bravo - UK #1 ~New Players Welcome~",
@@ -1606,7 +1614,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746857346
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2954,8 +2963,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1746838838
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
