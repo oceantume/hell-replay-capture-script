@@ -231,12 +231,6 @@
     "port": 8530
   },
   {
-    "name": "[GER] Burning Jokers | [BJ] | Mic only | Wir Rekrutieren!",
-    "addr": "141.95.35.33",
-    "port": 8530,
-    "removed": 1746295721
-  },
-  {
     "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
     "addr": "145.239.144.76",
     "port": 8530
@@ -270,12 +264,6 @@
     "name": "The Coalition PH | Asian League #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
     "port": 9075
-  },
-  {
-    "name": "TH Hell Let Loose Thailand Community",
-    "addr": "15.235.225.173",
-    "port": 8530,
-    "removed": 1746295721
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -1520,42 +1508,6 @@
     "port": 8888
   },
   {
-    "name": "✠︎1CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8888,
-    "removed": 1746295721
-  },
-  {
-    "name": "✠︎2CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8898,
-    "removed": 1746295721
-  },
-  {
-    "name": "✠︎3CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8908,
-    "removed": 1746295721
-  },
-  {
-    "name": "✠︎4CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8918,
-    "removed": 1746295721
-  },
-  {
-    "name": "✠︎5CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8928,
-    "removed": 1746295721
-  },
-  {
-    "name": "✠︎6CN/JP#[Violet]紫罗兰| Warfare | 少女与战车GuP",
-    "addr": "203.10.99.7",
-    "port": 8938,
-    "removed": 1746295721
-  },
-  {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
     "port": 8888
@@ -1734,8 +1686,7 @@
   {
     "name": "Monte Castello [US/BR] -- DISCORD.ME/HLLMC",
     "addr": "209.192.185.50",
-    "port": 7807,
-    "removed": 1746900502
+    "port": 7807
   },
   {
     "name": "Warfrags Studios",
