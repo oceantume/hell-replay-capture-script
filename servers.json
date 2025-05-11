@@ -493,8 +493,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1746857346
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #26",
@@ -522,7 +521,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746943765
   },
   {
     "name": "HLL Official - Europe #50",
@@ -590,8 +590,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1746857346
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
@@ -809,7 +808,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1746943765
   },
   {
     "name": "QA Testing - EU #04",
@@ -946,7 +946,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1746943765
   },
   {
     "name": "HLL Official - Europe #20",
@@ -998,7 +999,8 @@
   {
     "name": "[UK]-PSYCHWARD | ITS REVENGE OF THE FITH DAY! | DONT FORGET TO ",
     "addr": "176.57.178.15",
-    "port": 28000
+    "port": 28000,
+    "removed": 1746943765
   },
   {
     "name": "HLL Official - UK #02",
@@ -1045,7 +1047,8 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
     "addr": "177.54.147.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1746943765
   },
   {
     "name": "HLL Sur America - CLAN [·CTM·] #01 CHILE | discord.clanctm.cl",
@@ -1078,8 +1081,7 @@
   {
     "name": "69 SPACE FORCE | Japan",
     "addr": "178.249.213.79",
-    "port": 7797,
-    "removed": 1746879060
+    "port": 7797
   },
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
@@ -1575,7 +1577,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746943765
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1863,7 +1866,8 @@
   {
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1746943765
   },
   {
     "name": "CN1#你的初夏有来猫猫萌新军官咖啡馆吗|Q120748151",
@@ -1901,7 +1905,7 @@
     "port": 7847
   },
   {
-    "name": "[CN/JP]ITK砂狼白字的作战训练Q群48381851",
+    "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
     "addr": "31.56.0.81",
     "port": 7857
   },
