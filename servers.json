@@ -142,12 +142,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747051992
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1747051992
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -1050,7 +1052,7 @@
     "removed": 1746491614
   },
   {
-    "name": "[FR] ★ Crazy French Team ★ 100% FR",
+    "name": "[FR] ★ Crazy French Team ★ 100% FR https://discord.gg/Zc7MV",
     "addr": "176.57.181.34",
     "port": 28200
   },
@@ -1096,7 +1098,8 @@
   {
     "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
     "addr": "178.249.213.87",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747051992
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1340,7 +1343,8 @@
   {
     "name": "Current Level: Civilian Casualties Only(D1CK)",
     "addr": "192.169.93.236",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747051992
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -1592,8 +1596,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747030276
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1774,6 +1777,11 @@
     "port": 7777
   },
   {
+    "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "23.142.25.13",
+    "port": 7777
+  },
+  {
     "name": "Jefersson's & Budweiser's - training/event - discord.gg/cobrasf",
     "addr": "23.142.25.45",
     "port": 7777
@@ -1866,6 +1874,11 @@
   {
     "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
+    "port": 7777
+  },
+  {
+    "name": "Current Level: Civilian Casualties Only(D1CK)",
+    "addr": "31.56.0.29",
     "port": 7777
   },
   {
@@ -2895,7 +2908,8 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "64.31.58.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747051992
   },
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
