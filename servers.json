@@ -205,7 +205,7 @@
     "port": 9620
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Finest Hour 2 - Discord.gg/FinestHour",
     "addr": "141.11.34.104",
     "port": 7777
   },
@@ -521,8 +521,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1746943765
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #50",
@@ -590,12 +589,14 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1747030276
   },
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1747030276
   },
   {
     "name": "HLL Official - Europe #42",
@@ -808,8 +809,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1746943765
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -946,8 +946,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1746943765
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1005,7 +1004,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747030276
   },
   {
     "name": "QA Testing - EU #05",
@@ -1592,7 +1592,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747030276
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2806,6 +2807,11 @@
     "port": 8530
   },
   {
+    "name": "Finest Hour - Discord.gg/FinestHour | US EAST",
+    "addr": "64.20.50.186",
+    "port": 9620
+  },
+  {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
     "port": 8530
@@ -3230,7 +3236,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.204.129",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747030276
   },
   {
     "name": "Boneyard",
