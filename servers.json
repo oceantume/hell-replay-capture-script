@@ -142,14 +142,12 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1747051992
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1747051992
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -209,7 +207,8 @@
   {
     "name": "Finest Hour 2 - Discord.gg/FinestHour",
     "addr": "141.11.34.104",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747073399
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1048,8 +1047,7 @@
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 - NEW PLAYERS WELCOME (UA",
     "addr": "176.57.181.34",
-    "port": 28100,
-    "removed": 1746491614
+    "port": 28100
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% FR https://discord.gg/Zc7MV",
@@ -1488,12 +1486,6 @@
     "port": 8530
   },
   {
-    "name": "Squeedy's Sauna - Warfare & Offensive",
-    "addr": "198.244.254.14",
-    "port": 8530,
-    "removed": 1746468498
-  },
-  {
     "name": "[BR1] BR1 Gaming Central Event Server (Dallas) - discord.gg/br1",
     "addr": "198.37.123.75",
     "port": 8530
@@ -1862,7 +1854,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1872,7 +1864,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1889,8 +1881,7 @@
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7777,
-    "removed": 1747055791
+    "port": 7777
   },
   {
     "name": "[GER] Λ • TAURUS #3 | Wir rekrutieren! | discord.gg/taurus",
@@ -3056,7 +3047,8 @@
   {
     "name": "[GER] 300 Spartaner https://discord.gg/xzakqjCF",
     "addr": "78.46.101.16",
-    "port": 9075
+    "port": 9075,
+    "removed": 1747073399
   },
   {
     "name": "GERMANIA | Warfare & Offensive",
@@ -3067,12 +3059,6 @@
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
     "port": 8530
-  },
-  {
-    "name": "[FR] L'École des Bleus | Serveur Débutants - discord.gg/bYhut",
-    "addr": "79.137.89.136",
-    "port": 9075,
-    "removed": 1746468498
   },
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
@@ -3156,8 +3142,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1746986913
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #23",
@@ -3454,7 +3439,7 @@
     "port": 7837
   },
   {
-    "name": "CN#日服#琳琅天上萌新小屋{纯攻防}Q群484555616",
+    "name": "CN#日服#琳琅天上萌新小屋Q群484555616",
     "addr": "89.46.1.190",
     "port": 7847
   },
@@ -3484,7 +3469,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3637,8 +3622,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1746900502
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
