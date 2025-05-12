@@ -205,10 +205,9 @@
     "port": 9620
   },
   {
-    "name": "Finest Hour - discord.gg/finesthour | USA EAST",
+    "name": "Another Qonzer.com server is born!",
     "addr": "141.11.34.104",
-    "port": 7777,
-    "removed": 1746879060
+    "port": 7777
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1012,6 +1011,11 @@
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
     "port": 28200
+  },
+  {
+    "name": "[VS-UK] HLL server https://discord.gg/JRZQbUX5",
+    "addr": "176.57.178.44",
+    "port": 28000
   },
   {
     "name": "CZ/SK",
@@ -1849,7 +1853,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1859,7 +1863,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2710,12 +2714,6 @@
     "port": 9620
   },
   {
-    "name": "[FR] Frères de Tranchées [FTC]-discord.gg/jSCASAtWva",
-    "addr": "51.91.215.64",
-    "port": 8530,
-    "removed": 1746405364
-  },
-  {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
     "port": 9620
@@ -2936,7 +2934,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747010171
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -3036,8 +3035,7 @@
   {
     "name": "[GER] 300 Spartaner https://discord.gg/xzakqjCF",
     "addr": "78.46.101.16",
-    "port": 9075,
-    "removed": 1746837131
+    "port": 9075
   },
   {
     "name": "GERMANIA | Warfare & Offensive",
@@ -3464,7 +3462,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
