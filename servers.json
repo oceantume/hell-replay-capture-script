@@ -941,8 +941,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1747116634
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -1175,12 +1174,6 @@
     "port": 8530
   },
   {
-    "name": "Le Peloton Perdu",
-    "addr": "185.216.144.75",
-    "port": 9075,
-    "removed": 1746554998
-  },
-  {
     "name": "[BETU] UK Tea Time - New Player Friendly",
     "addr": "185.216.145.154",
     "port": 8530
@@ -1389,7 +1382,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1399,7 +1392,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1745,8 +1738,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1747138384
+    "port": 8772
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1789,7 +1781,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #3",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1799,7 +1791,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1829,7 +1821,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #1",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -3112,8 +3104,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1746900502
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3306,7 +3297,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747159805
   },
   {
     "name": "HLL Official - South America #01",
@@ -3450,7 +3442,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3527,8 +3519,7 @@
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.84",
-    "port": 7777,
-    "removed": 1747138384
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #06",
@@ -3584,12 +3575,6 @@
     "name": "US WEST | Blood Buckets",
     "addr": "94.250.218.33",
     "port": 28000
-  },
-  {
-    "name": "Drunk Sassy Unicorn USA WEST",
-    "addr": "94.250.218.33",
-    "port": 28100,
-    "removed": 1746554998
   },
   {
     "name": "HLL Official - Australia #04",
