@@ -168,8 +168,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1747206440
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -1368,7 +1367,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1747224780
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1462,7 +1462,7 @@
     "port": 9620
   },
   {
-    "name": "#1 | Danmark | Europe | All maps | www.hellletloose.dk",
+    "name": "#1 | Danmark | Europe | US Army vs German | www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1569,8 +1569,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747203045
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1786,7 +1785,7 @@
     "port": 7797
   },
   {
-    "name": "[GER] Hack Let Loose Eventserver 2",
+    "name": "[GER] Oktogon Event | by Hack Let Loose (HaLL)",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -1846,7 +1845,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1873,86 +1872,72 @@
   {
     "name": "CN1#你的初夏有来猫猫萌新军官咖啡馆吗|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7777,
-    "removed": 1747203045
+    "port": 7777
   },
   {
     "name": "CN2#你的初夏有来猫猫抗压攻防咖啡馆吗|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7787,
-    "removed": 1747203045
+    "port": 7787
   },
   {
     "name": "CN3#战斗当然来猫猫保护萌新限杀咖啡馆|Q120748151",
     "addr": "31.56.0.81",
-    "port": 7797,
-    "removed": 1747203045
+    "port": 7797
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "31.56.0.81",
-    "port": 7807,
-    "removed": 1747203045
+    "port": 7807
   },
   {
     "name": "GTZ战术大队跑图服",
     "addr": "31.56.0.81",
-    "port": 7817,
-    "removed": 1747203045
+    "port": 7817
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "31.56.0.81",
-    "port": 7827,
-    "removed": 1747203045
+    "port": 7827
   },
   {
     "name": "CN4#JP周末当然要来猫猫萌新限杀の冲突馆|Q1207481",
     "addr": "31.56.0.81",
-    "port": 7847,
-    "removed": 1747203045
+    "port": 7847
   },
   {
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
     "addr": "31.56.0.81",
-    "port": 7857,
-    "removed": 1747203045
+    "port": 7857
   },
   {
     "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
     "addr": "31.56.0.81",
-    "port": 7867,
-    "removed": 1747203045
+    "port": 7867
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
     "addr": "31.56.0.81",
-    "port": 7877,
-    "removed": 1747203045
+    "port": 7877
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "31.56.0.81",
-    "port": 7887,
-    "removed": 1747203045
+    "port": 7887
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "31.56.0.81",
-    "port": 7897,
-    "removed": 1747203045
+    "port": 7897
   },
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "31.56.0.81",
-    "port": 7907,
-    "removed": 1747203045
+    "port": 7907
   },
   {
     "name": "丨Nexus丨『水晶枢纽』日服(q群665327895)CNC",
     "addr": "31.56.0.81",
-    "port": 7917,
-    "removed": 1747203045
+    "port": 7917
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -2257,8 +2242,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1747138384
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #02",
@@ -2387,8 +2371,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1747138384
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #47",
@@ -2462,7 +2445,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1747224780
   },
   {
     "name": "HLL Official - US East #06",
@@ -2613,7 +2597,7 @@
     "port": 28000
   },
   {
-    "name": "TP | Team Paranoid | EU/ENG | Join us!",
+    "name": "TP | Team Paranoid | EU/ENG | Join us! | discord.gg/teamparanoi",
     "addr": "5.189.132.77",
     "port": 28200
   },
@@ -3312,8 +3296,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1747159805
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -3514,7 +3497,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1747224780
   },
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
