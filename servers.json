@@ -254,6 +254,11 @@
     "port": 9014
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "146.59.149.83",
+    "port": 8530
+  },
+  {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.135.184",
     "port": 28300
@@ -498,8 +503,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1747203045
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #26",
@@ -813,7 +817,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1747289457
   },
   {
     "name": "QA Testing - EU #04",
@@ -1519,7 +1524,7 @@
     "port": 7777
   },
   {
-    "name": "331st | Free VIP | Lvl 50+ | discord.gg/331st",
+    "name": "331st Jungel House | discord.gg/331st",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1571,7 +1576,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747289457
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2711,7 +2717,8 @@
   {
     "name": "0UTC・United Teamed Clans・| UK | IE | PT | EU |",
     "addr": "57.128.188.198",
-    "port": 8530
+    "port": 8530,
+    "removed": 1747289457
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
