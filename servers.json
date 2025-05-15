@@ -170,8 +170,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1747311174
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -256,7 +255,7 @@
     "port": 9014
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "0UTC - EU Official Server - EN/IE/PT",
     "addr": "146.59.149.83",
     "port": 8530
   },
@@ -653,7 +652,8 @@
   {
     "name": "Koalaz Gaming | GER/EN Mic | Active Admins",
     "addr": "176.57.168.174",
-    "port": 28100
+    "port": 28100,
+    "removed": 1747332601
   },
   {
     "name": "HLL Official - Europe #12",
@@ -1023,7 +1023,7 @@
     "port": 28200
   },
   {
-    "name": "[VS-UK] HLL server https://discord.gg/JRZQbUX5",
+    "name": "[VS-UK] HLL UK server - All welcome",
     "addr": "176.57.178.44",
     "port": 28000
   },
@@ -1839,7 +1839,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1909,7 +1909,7 @@
     "port": 7847
   },
   {
-    "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
+    "name": "[CN/JP]砂狼シロコ的作战训练Q群48381851",
     "addr": "31.56.0.81",
     "port": 7857
   },
@@ -2801,12 +2801,6 @@
     "port": 11800
   },
   {
-    "name": "CN1#冬夜里的深夜保护萌新的小喵咖啡馆|120748151",
-    "addr": "64.31.11.26",
-    "port": 9075,
-    "removed": 1746727797
-  },
-  {
     "name": "вит | Bad Intentions - Event [US EAST]",
     "addr": "64.31.16.186",
     "port": 7777
@@ -2920,8 +2914,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1747313684
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event West :: discord.gg/glows",
@@ -2952,6 +2945,11 @@
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
     "port": 9075
+  },
+  {
+    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
+    "addr": "67.217.48.14",
+    "port": 9620
   },
   {
     "name": "The Lucky Strikes | Votemap",
@@ -3099,14 +3097,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1747246178
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1747246178
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -3151,8 +3147,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1747246178
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
@@ -3440,7 +3435,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
