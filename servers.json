@@ -92,7 +92,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1747311174
   },
   {
     "name": "HLL Official - Japan #05",
@@ -169,7 +170,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747311174
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -436,7 +438,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1747311174
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1281,12 +1284,6 @@
     "port": 7777
   },
   {
-    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
-    "addr": "192.169.86.51",
-    "port": 7787,
-    "removed": 1746706359
-  },
-  {
     "name": "Helios Create and Destroy : US EAST",
     "addr": "192.169.86.52",
     "port": 7777
@@ -1319,7 +1316,8 @@
   {
     "name": "XIII Legion (discord.gg/xiii) - New Players Welcome",
     "addr": "192.169.89.18",
-    "port": 9014
+    "port": 9014,
+    "removed": 1747311174
   },
   {
     "name": "Radical Gaming :: Dallas :: Powered by Qonzer.com",
@@ -1577,8 +1575,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747289457
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1854,7 +1851,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2383,7 +2380,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1747311174
   },
   {
     "name": "HLL Official - US East #47",
@@ -2452,13 +2450,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1747311174
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1747224780
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -2609,7 +2607,7 @@
     "port": 28000
   },
   {
-    "name": "TP | Team Paranoid | EU/ENG | Join us! | discord.gg/teamparanoi",
+    "name": "TP | Team Paranoid | EU/ENG | discord.gg/teamparanoid",
     "addr": "5.189.132.77",
     "port": 28200
   },
