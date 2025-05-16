@@ -346,7 +346,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 90 MINUTES - KAMPFSCHWEINE | FULL ROUND DEFENDER | GE",
+    "name": "! ! !OINK SPECIALS FÜR SPECIALS | GER",
     "addr": "159.69.226.135",
     "port": 7777
   },
@@ -381,7 +381,7 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose #2 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #2 - EĞİTİM - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
@@ -1308,7 +1308,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hack Let Loose Eventserver 3 | by Hack Let Loose (HaLL) |",
+    "name": "[GER] Hack Let Loose Eventserver 3",
     "addr": "208.115.206.36",
     "port": 7777
   },
@@ -1621,7 +1621,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2591,7 +2591,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000
+    "port": 29000,
+    "removed": 1747418999
   },
   {
     "name": "HLL Official - Asia #15",
@@ -2874,7 +2875,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3017,8 +3018,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1747246178
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
