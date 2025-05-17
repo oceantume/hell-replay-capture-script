@@ -264,12 +264,6 @@
     "removed": 1746900502
   },
   {
-    "name": "#06 [ESP] Eventos. Comunidad Hispana - discord.comunidadhll.es ",
-    "addr": "151.80.27.200",
-    "port": 9075,
-    "removed": 1746857346
-  },
-  {
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
     "addr": "152.228.223.2",
     "port": 10165
@@ -295,7 +289,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#5 TT天堂萌新俱乐部（纯冲突）Q群：797464980",
+    "name": "<CN>#5 TT天堂萌新俱乐部(攻防/冲突)Q群:797464980",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -666,7 +660,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1747462168
   },
   {
     "name": "QA Testing - EU #04",
@@ -686,7 +681,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1747462168
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -807,8 +803,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1747375850
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -946,12 +941,6 @@
     "name": "Amidships' Private Server",
     "addr": "185.125.205.116",
     "port": 8530
-  },
-  {
-    "name": "!![SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
-    "addr": "185.206.151.30",
-    "port": 9075,
-    "removed": 1746857346
   },
   {
     "name": "Delta Bravo - UK #1 ~New Players Welcome~",
@@ -1532,7 +1521,7 @@
     "port": 7787
   },
   {
-    "name": "HORANG Event Server | US WEST | (TVB ROKA)",
+    "name": "HORANG Event Server | US WEST | (OPS ROKA)",
     "addr": "23.142.25.8",
     "port": 7777
   },
@@ -2356,6 +2345,11 @@
     "addr": "64.31.58.60",
     "port": 7777,
     "removed": 1747051992
+  },
+  {
+    "name": "NEW PLAYER PARADISE | Enhance your HLL experience",
+    "addr": "64.31.58.62",
+    "port": 7777
   },
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
