@@ -393,7 +393,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1747486218
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -669,8 +670,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1747462168
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
