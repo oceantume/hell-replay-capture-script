@@ -103,7 +103,8 @@
   {
     "name": "[GER] DOG Hundehütte",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1747591733
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -336,8 +337,7 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | SPECIALS4SPECIALS | GER",
     "addr": "159.69.226.135",
-    "port": 7777,
-    "removed": 1747505322
+    "port": 7777
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -541,7 +541,7 @@
     "port": 28200
   },
   {
-    "name": "DGM Projekt",
+    "name": "PL/ENG DGM Projekt",
     "addr": "176.57.168.174",
     "port": 28100
   },
@@ -1077,7 +1077,8 @@
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
-    "port": 8530
+    "port": 8530,
+    "removed": 1747591733
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1560,7 +1561,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1696,8 +1697,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1747573550
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1737,8 +1737,7 @@
   {
     "name": "HLL Official - US West #16",
     "addr": "45.137.246.17",
-    "port": 28100,
-    "removed": 1747573550
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #13",
@@ -1753,14 +1752,12 @@
   {
     "name": "HLL Official - US West #18",
     "addr": "45.137.246.18",
-    "port": 28100,
-    "removed": 1747573550
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #20",
     "addr": "45.137.246.18",
-    "port": 28600,
-    "removed": 1747573550
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #07",
@@ -1770,14 +1767,12 @@
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000,
-    "removed": 1747573550
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #17",
     "addr": "45.137.246.6",
-    "port": 28100,
-    "removed": 1747573550
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #03",
@@ -1792,14 +1787,12 @@
   {
     "name": "HLL Official - US West #06",
     "addr": "45.137.246.7",
-    "port": 28000,
-    "removed": 1747573550
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #10",
     "addr": "45.137.246.9",
-    "port": 28000,
-    "removed": 1747573550
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #09",
@@ -1947,6 +1940,11 @@
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "46.105.223.204",
     "port": 7807
+  },
+  {
+    "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
+    "addr": "46.105.223.204",
+    "port": 7817
   },
   {
     "name": "[FR] ★ 7ème Compagnie #3 ★ 100% FR - discord/7eCie",
@@ -2478,8 +2476,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1747573550
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2601,8 +2598,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1747505322
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #08",
@@ -2895,7 +2891,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
