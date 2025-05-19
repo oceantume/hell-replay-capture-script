@@ -27,7 +27,8 @@
   {
     "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
     "addr": "103.193.80.26",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747635085
   },
   {
     "name": "HLL Official - Japan #02",
@@ -356,7 +357,7 @@
     "port": 8530
   },
   {
-    "name": "Turks Let Loose #1 - TÜRKİYE [TR] - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #1 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
     "port": 7777
   },
@@ -371,7 +372,7 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose #2 - TÜRKİYE - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #2 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
@@ -589,7 +590,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1747635085
   },
   {
     "name": "Team17 CERT",
@@ -769,8 +771,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1747548578
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1007,17 +1008,20 @@
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747635085
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747635085
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747635085
   },
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
@@ -1313,7 +1317,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747635085
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2401,7 +2406,8 @@
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
     "addr": "64.31.59.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747635085
   },
   {
     "name": "69 SPACE FORCE | US West",
@@ -2661,12 +2667,6 @@
     "name": "Major Winters Total Chao's",
     "addr": "83.223.203.182",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.204.129",
-    "port": 28000,
-    "removed": 1747030276
   },
   {
     "name": "Boneyard",
