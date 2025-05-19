@@ -839,12 +839,6 @@
     "port": 7797
   },
   {
-    "name": "[CN]JP:革命军87TH萌新服|Q群:807630815|开黑啦:GZ41J3",
-    "addr": "178.249.213.87",
-    "port": 7777,
-    "removed": 1747051992
-  },
-  {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
     "port": 8772
@@ -956,7 +950,7 @@
     "port": 7787
   },
   {
-    "name": "For Blood, Sweat, Beer & Country - BSB",
+    "name": "The Old Speckled Hen - Blood Sweat & Beers BSB",
     "addr": "188.165.39.157",
     "port": 7797
   },
@@ -1008,17 +1002,20 @@
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747656820
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747656820
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747656820
   },
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
@@ -1071,12 +1068,6 @@
     "port": 7777
   },
   {
-    "name": "Current Level: Civilian Casualties Only(D1CK)",
-    "addr": "192.169.93.236",
-    "port": 7777,
-    "removed": 1747051992
-  },
-  {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
     "port": 8530
@@ -1119,7 +1110,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1747656820
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1314,8 +1306,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747635085
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1440,7 +1431,8 @@
   {
     "name": "Chiemson",
     "addr": "213.136.94.160",
-    "port": 28100
+    "port": 28100,
+    "removed": 1747656820
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -1463,7 +1455,7 @@
     "port": 7797
   },
   {
-    "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
+    "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
   },
@@ -1573,7 +1565,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1804,8 +1796,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1747570294
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #02",
@@ -1850,7 +1841,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1747656820
   },
   {
     "name": "HLL Official - US East #16",
@@ -2385,12 +2377,6 @@
     "port": 7577
   },
   {
-    "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
-    "addr": "64.31.58.60",
-    "port": 7777,
-    "removed": 1747051992
-  },
-  {
     "name": "NEW PLAYER PARADISE | Enhance your HLL experience",
     "addr": "64.31.58.62",
     "port": 7777
@@ -2403,7 +2389,8 @@
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
     "addr": "64.31.59.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747656820
   },
   {
     "name": "69 SPACE FORCE | US West",
