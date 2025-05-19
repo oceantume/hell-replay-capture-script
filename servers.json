@@ -1110,8 +1110,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1747656820
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1356,7 +1355,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "208.115.226.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747657917
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -2874,7 +2874,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
