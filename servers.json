@@ -225,7 +225,7 @@
     "port": 9014
   },
   {
-    "name": "0UTC - EU Official Server",
+    "name": "[.PT] - EU Official UTC Server",
     "addr": "146.59.149.83",
     "port": 8530
   },
@@ -2729,7 +2729,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747660627
   },
   {
     "name": "HLL Official - South America #01",
