@@ -146,7 +146,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747703092
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -739,6 +740,11 @@
     "name": "Schweizer Söldnertum [GER]",
     "addr": "176.57.171.44",
     "port": 28200
+  },
+  {
+    "name": "ENG|EU | NEW PLAYERS WELCOME |Churchill's Warfare [Night/Urban]",
+    "addr": "176.57.171.44",
+    "port": 28400
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
