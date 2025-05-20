@@ -382,12 +382,6 @@
     "port": 7807
   },
   {
-    "name": "South Africa Let Loose | discord.gg/QfN6SDfGVy",
-    "addr": "169.150.238.99",
-    "port": 7777,
-    "removed": 1747138384
-  },
-  {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
     "port": 9014
@@ -460,8 +454,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1747721462
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -775,7 +768,7 @@
     "port": 28100
   },
   {
-    "name": "DEUTSCH + MIC Pflicht | GER/AT/CH | Level 10+ | MP VOTE",
+    "name": "[GER] Deutsch Only | MIC Pflicht | Mapvote | Stahlsturm",
     "addr": "176.57.173.119",
     "port": 28200
   },
@@ -851,8 +844,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1747721462
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -891,7 +883,7 @@
     "port": 28100
   },
   {
-    "name": "[FR] ✪ Crazy French Team ✪ 100% FR",
+    "name": "[FR] ★ Crazy French Team ★ 100% FR",
     "addr": "176.57.181.34",
     "port": 28200
   },
@@ -1376,8 +1368,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747721462
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1502,7 +1493,8 @@
   {
     "name": "Warfrags Studios",
     "addr": "213.136.80.177",
-    "port": 29000
+    "port": 29000,
+    "removed": 1747743204
   },
   {
     "name": "[GER] Zum Goldhelm & Speer [ZGR] x [300 Spartaner] | German Mic",
@@ -1984,8 +1976,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1747656820
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #16",
@@ -2006,8 +1997,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1747570294
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -2122,7 +2112,8 @@
   {
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
     "addr": "5.189.130.178",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747743204
   },
   {
     "name": "Balkan Eagles - European Front [https://discord.gg/XRBnqjHp]",
@@ -2133,22 +2124,26 @@
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "5.189.132.77",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747743204
   },
   {
     "name": "Bündnisserver TP/KL/100",
     "addr": "5.189.132.77",
-    "port": 28200
+    "port": 28200,
+    "removed": 1747743204
   },
   {
     "name": "PARABELLUM EVENT SERVER",
     "addr": "5.189.132.77",
-    "port": 28400
+    "port": 28400,
+    "removed": 1747743204
   },
   {
     "name": "Pirate Gaming - Hell Let Loose",
     "addr": "5.189.132.77",
-    "port": 28600
+    "port": 28600,
+    "removed": 1747743204
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -2466,7 +2461,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』日服(q群665327895)CNC",
+    "name": "丨Nexus丨『水晶枢纽』丨Nexus丨(q665327895)RA★CNC",
     "addr": "64.31.11.59",
     "port": 7917
   },
@@ -2743,9 +2738,39 @@
     "port": 29000
   },
   {
+    "name": "HLL Official - Asia #13",
+    "addr": "83.223.197.168",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #06",
+    "addr": "83.223.197.168",
+    "port": 28400
+  },
+  {
+    "name": "HLL Official - Asia #10",
+    "addr": "83.223.197.168",
+    "port": 28500
+  },
+  {
+    "name": "HLL Official - Asia #01",
+    "addr": "83.223.197.168",
+    "port": 28800
+  },
+  {
+    "name": "HLL Official - Asia #03",
+    "addr": "83.223.197.168",
+    "port": 28900
+  },
+  {
     "name": "HLL Official - Asia #11",
     "addr": "83.223.197.170",
     "port": 28000
+  },
+  {
+    "name": "HLL Official - Asia #12",
+    "addr": "83.223.197.170",
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #08",
@@ -2761,12 +2786,6 @@
     "name": "HLL Official - Asia #15",
     "addr": "83.223.197.170",
     "port": 29100
-  },
-  {
-    "name": "CN# UE玛丽亚之墙夺回战 节点HK Q群：797064367",
-    "addr": "83.223.197.41",
-    "port": 34100,
-    "removed": 1747138384
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
