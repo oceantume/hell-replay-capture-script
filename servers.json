@@ -146,8 +146,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1747703092
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -454,9 +453,15 @@
     "port": 28000
   },
   {
+    "name": "QA Testing - EU #03",
+    "addr": "176.57.134.62",
+    "port": 28100
+  },
+  {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1747721462
   },
   {
     "name": "HLL Official - Europe #07",
@@ -516,8 +521,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100,
-    "removed": 1747701306
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #04",
@@ -613,10 +617,14 @@
     "port": 28300
   },
   {
+    "name": "QA Testing - EU #01",
+    "addr": "176.57.168.38",
+    "port": 28100
+  },
+  {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1747635085
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
@@ -797,7 +805,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1747721462
   },
   {
     "name": "HLL Official - Europe #20",
@@ -807,8 +816,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300,
-    "removed": 1747701306
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -843,13 +851,13 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1747721462
   },
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1747701306
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -1106,7 +1114,8 @@
   {
     "name": "вит | Bad Intentions - Event #2 [US EAST]",
     "addr": "192.169.86.54",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747721462
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1281,7 +1290,8 @@
   {
     "name": "CN1「CZS」冬夜啤酒小屋萌新图书馆|HK|Q719036493",
     "addr": "202.165.70.91",
-    "port": 8888
+    "port": 8888,
+    "removed": 1747721462
   },
   {
     "name": "CN3「FJ」细雨清风萌新乐园｜HK｜Q716701264",
@@ -1366,7 +1376,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1747721462
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1421,8 +1432,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "208.115.226.3",
-    "port": 7777,
-    "removed": 1747657917
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1480,7 +1490,7 @@
     "port": 7807
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | MELHOR SERVIDOR DO BRASIL",
+    "name": "HLL Official - US East #99",
     "addr": "209.192.185.50",
     "port": 7827
   },
@@ -2391,17 +2401,17 @@
     "port": 11800
   },
   {
-    "name": "CN1#散人猫猫社区军官|延迟正常啦快来！Q120748151",
+    "name": "CN1#散人猫猫社区军官|延迟正常啦回家啦Q120748151",
     "addr": "64.31.11.59",
     "port": 7777
   },
   {
-    "name": "CN2#散人猫猫社区攻防|延迟正常啦快来！Q120748151",
+    "name": "CN2#散人猫猫社区攻防|延迟正常啦回家啦Q120748151",
     "addr": "64.31.11.59",
     "port": 7787
   },
   {
-    "name": "CN3#散人猫猫限杀攻防|延迟正常啦快来！Q120748151",
+    "name": "CN3#散人猫猫限杀攻防|延迟正常啦回家啦Q120748151",
     "addr": "64.31.11.59",
     "port": 7797
   },
@@ -2431,7 +2441,7 @@
     "port": 7857
   },
   {
-    "name": "CN1 萌新老窝/限杀禁炮/JP/Q882377564",
+    "name": "ACL轮战训练赛服务器",
     "addr": "64.31.11.59",
     "port": 7867
   },
