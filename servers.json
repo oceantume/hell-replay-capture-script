@@ -87,12 +87,6 @@
     "removed": 1747678220
   },
   {
-    "name": "USA WEST-BAKO BATTLEFIELD PC",
-    "addr": "104.238.220.213",
-    "port": 9075,
-    "removed": 1747228484
-  },
-  {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
     "addr": "104.238.222.122",
     "port": 7797
@@ -1919,7 +1913,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1747833366
   },
   {
     "name": "HLL Official - US West #12",
@@ -2892,7 +2887,8 @@
   {
     "name": "HLL Server",
     "addr": "84.70.8.207",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747833366
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
