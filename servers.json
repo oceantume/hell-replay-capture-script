@@ -530,8 +530,7 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1747787676
+    "port": 28200
   },
   {
     "name": "[GER]Kampfgruppe Lazarus [ab Lvl 30] [Mikro Pflicht]",
@@ -554,7 +553,7 @@
     "port": 28200
   },
   {
-    "name": "PL/ENG Projekt Server",
+    "name": "※ DGM | PL/ENG | Polski/Polish Server",
     "addr": "176.57.168.174",
     "port": 28100
   },
@@ -717,8 +716,7 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1747787676
+    "port": 28000
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -1083,6 +1081,11 @@
     "port": 7777
   },
   {
+    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
+    "addr": "192.169.86.51",
+    "port": 7787
+  },
+  {
     "name": "Helios Create and Destroy : US EAST",
     "addr": "192.169.86.52",
     "port": 7777,
@@ -1429,7 +1432,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "208.115.226.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1747874041
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1640,7 +1644,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1650,7 +1654,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2664,6 +2668,16 @@
     "port": 7777
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "74.63.236.194",
+    "port": 10710
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "74.63.236.194",
+    "port": 11255
+  },
+  {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
     "addr": "78.142.218.164",
     "port": 9075
@@ -3058,7 +3072,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
