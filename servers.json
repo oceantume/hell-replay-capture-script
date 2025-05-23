@@ -1279,22 +1279,26 @@
   {
     "name": "Official WCB Server [Balkan/English] - discord.gg/wcb",
     "addr": "195.181.175.172",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748004841
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "195.181.175.180",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748004841
   },
   {
     "name": "Qinaii's | Event Server #4 | Frankfurt",
     "addr": "195.181.175.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748004841
   },
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "195.181.175.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748004841
   },
   {
     "name": "HLL_nitratest",
@@ -3260,6 +3264,7 @@
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
     "addr": "95.173.218.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748004841
   }
 ]
