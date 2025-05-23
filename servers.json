@@ -22,8 +22,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.171",
-    "port": 8530,
-    "removed": 1748005969
+    "port": 8530
   },
   {
     "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
@@ -256,7 +255,8 @@
   {
     "name": "BAND OF ROLEPLAYERS",
     "addr": "154.16.170.14",
-    "port": 8530
+    "port": 8530,
+    "removed": 1748023732
   },
   {
     "name": "Games Done Mediocre | New Player Friendly | Central US",
@@ -687,6 +687,11 @@
     "port": 28100
   },
   {
+    "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
+    "addr": "176.57.168.91",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Europe #09",
     "addr": "176.57.169.108",
     "port": 28000
@@ -739,8 +744,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1747980653
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -773,7 +777,7 @@
     "port": 28200
   },
   {
-    "name": "ENG|EU | NEW PLAYERS WELCOME |Churchill's Warfare [Night/Urban]",
+    "name": "Churchill Knife & Shovel rumble",
     "addr": "176.57.171.44",
     "port": 28400
   },
@@ -790,8 +794,7 @@
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200,
-    "removed": 1747960465
+    "port": 28200
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -921,7 +924,8 @@
   {
     "name": "[FR] ★ Crazy French Team ★ 100% FR",
     "addr": "176.57.181.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748023732
   },
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
@@ -1701,7 +1705,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2096,7 +2100,8 @@
   {
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
     "addr": "5.189.130.178",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748023732
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -2203,7 +2208,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』丨Nexus丨絶対の低压服CNC*R",
+    "name": "丨Nexus丨『水晶枢纽』絶対の低压服(q665327895)CNC",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2718,12 +2723,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748023732
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748023732
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2784,8 +2791,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000,
-    "removed": 1747937406
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #15",
@@ -2838,7 +2844,7 @@
     "port": 28000
   },
   {
-    "name": "130th Panzer Lehr Division (US-Mid)",
+    "name": "German High Command 130th PLD (US-Mid)",
     "addr": "83.223.207.50",
     "port": 28000
   },
@@ -3051,7 +3057,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3199,8 +3205,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1747937406
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
