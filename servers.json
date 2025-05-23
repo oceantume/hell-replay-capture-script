@@ -293,6 +293,11 @@
     "port": 7827
   },
   {
+    "name": "CN/HK 蟹堡王的萌新欢乐营Q群：747976659",
+    "addr": "156.146.44.225",
+    "port": 7837
+  },
+  {
     "name": "[CN]Nya~柔情猫娘闪耀时#萌新进阶#港服Q:500001820",
     "addr": "156.146.44.225",
     "port": 7847
@@ -372,7 +377,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1748002356
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -494,6 +500,11 @@
     "port": 30700
   },
   {
+    "name": "Warfrags Studios",
+    "addr": "176.57.140.196",
+    "port": 28000
+  },
+  {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation",
     "addr": "176.57.140.196",
     "port": 28200
@@ -544,6 +555,11 @@
     "port": 28200
   },
   {
+    "name": "[GER] Zum Goldhelm & Speer [ZGR] x [300 Spartaner] | German Mic",
+    "addr": "176.57.153.114",
+    "port": 28000
+  },
+  {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
     "port": 28100
@@ -556,6 +572,11 @@
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
     "addr": "176.57.168.174",
+    "port": 28100
+  },
+  {
+    "name": "Pirate Gaming - Hell Let Loose",
+    "addr": "176.57.168.178",
     "port": 28100
   },
   {
@@ -597,6 +618,11 @@
     "port": 28000
   },
   {
+    "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
+    "addr": "176.57.168.254",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
     "port": 28300
@@ -633,6 +659,11 @@
     "addr": "176.57.168.61",
     "port": 28600,
     "removed": 1747678220
+  },
+  {
+    "name": "PARABELLUM EVENT SERVER",
+    "addr": "176.57.168.69",
+    "port": 28000
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -700,6 +731,11 @@
     "port": 28400
   },
   {
+    "name": "[HistoDidou] Serveur Fr, débutants acceptés",
+    "addr": "176.57.171.158",
+    "port": 28000
+  },
+  {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
     "port": 28300,
@@ -739,6 +775,11 @@
     "name": "ENG|EU | NEW PLAYERS WELCOME |Churchill's Warfare [Night/Urban]",
     "addr": "176.57.171.44",
     "port": 28400
+  },
+  {
+    "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
+    "addr": "176.57.171.44",
+    "port": 28500
   },
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
@@ -1183,8 +1224,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1747983988
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1380,8 +1420,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1747980653
+    "port": 7787
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1513,17 +1552,20 @@
   {
     "name": "Warfrags Studios",
     "addr": "213.136.80.177",
-    "port": 29000
+    "port": 29000,
+    "removed": 1748002356
   },
   {
     "name": "[GER] Zum Goldhelm & Speer [ZGR] x [300 Spartaner] | German Mic",
     "addr": "213.136.88.87",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748002356
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "213.136.88.87",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748002356
   },
   {
     "name": "Chiemson",
@@ -1664,7 +1706,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1912,7 +1954,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748002356
   },
   {
     "name": "HLL Official - US East #16",
@@ -1953,8 +1996,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1747916009
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #02",
@@ -2049,13 +2091,13 @@
   {
     "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
     "addr": "5.189.130.178",
-    "port": 28000,
-    "removed": 1747743204
+    "port": 28000
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "5.189.132.77",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748002356
   },
   {
     "name": "Bündnisserver TP/KL/100",
@@ -2066,12 +2108,14 @@
   {
     "name": "PARABELLUM EVENT SERVER",
     "addr": "5.189.132.77",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748002356
   },
   {
     "name": "Pirate Gaming - Hell Let Loose",
     "addr": "5.189.132.77",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748002356
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -2154,7 +2198,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』丨Nexus丨絶対の低压服CNC",
+    "name": "丨Nexus丨『水晶枢纽』丨Nexus丨絶対の低压服CNC*R",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2822,7 +2866,8 @@
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1748002356
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
