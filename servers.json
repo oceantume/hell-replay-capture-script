@@ -1379,7 +1379,8 @@
   {
     "name": "331st Jungel House | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748069982
   },
   {
     "name": "[GER] Hack Let Loose Eventserver 3",
@@ -1603,6 +1604,11 @@
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "216.219.93.37",
     "port": 7797
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "217.182.196.157",
+    "port": 8530
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
