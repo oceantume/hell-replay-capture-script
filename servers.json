@@ -450,19 +450,18 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1747980653
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1747980653
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748066960
   },
   {
     "name": "HLL Official - Europe #19",
@@ -487,7 +486,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748066960
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -616,7 +616,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748066960
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -837,8 +838,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1747807863
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1397,7 +1397,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hack Let Loose Eventserver 1",
+    "name": "Oktogon Event | by Hack Let Loose (HaLL)",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1429,7 +1429,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748066960
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -2213,7 +2214,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』絶対の低压服(q665327895)CNC",
+    "name": "丨Nexus丨『水晶枢纽』絶対の低压服(q665327895)CNC)",
     "addr": "5.56.25.100",
     "port": 7917
   },
