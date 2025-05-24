@@ -1795,7 +1795,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748091978
   },
   {
     "name": "HLL Official - US West #11",
@@ -1850,7 +1851,8 @@
   {
     "name": "HLL Official - US West #13",
     "addr": "45.137.246.18",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748091978
   },
   {
     "name": "HLL Official - US West #06",
@@ -1860,7 +1862,8 @@
   {
     "name": "HLL Official - US West #20",
     "addr": "45.137.246.18",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748091978
   },
   {
     "name": "HLL Official - US West #07",
@@ -2224,6 +2227,11 @@
     "name": "丨Nexus丨『水晶枢纽』CNC丨★丨RA丨(q665327895)",
     "addr": "5.56.25.100",
     "port": 7917
+  },
+  {
+    "name": "<CN>#2 IMP风暴兵社区 刀战比赛服 QQ群1020812925 HK",
+    "addr": "5.56.25.243",
+    "port": 7777
   },
   {
     "name": "Task Force Koala #1 | NEW MAP HEAVY | discord.gg/tfk",
