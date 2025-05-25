@@ -102,10 +102,9 @@
     "port": 7787
   },
   {
-    "name": "[GER] DOG Hundehütte",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1747591733
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -215,7 +214,8 @@
   {
     "name": "[.PT] - EU Official UTC Server",
     "addr": "146.59.149.83",
-    "port": 8530
+    "port": 8530,
+    "removed": 1748135372
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -2233,7 +2233,8 @@
   {
     "name": "<CN>#2 IMP风暴兵社区 刀战比赛服 QQ群1020812925 HK",
     "addr": "5.56.25.243",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748135372
   },
   {
     "name": "Task Force Koala #1 | NEW MAP HEAVY | discord.gg/tfk",
