@@ -89,7 +89,8 @@
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797
+    "port": 7797,
+    "removed": 1748178354
   },
   {
     "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
@@ -1014,12 +1015,6 @@
     "port": 8530
   },
   {
-    "name": "!![SCSD] All Levels welcome | discord.gg/scsd | Active Admin",
-    "addr": "185.216.144.75",
-    "port": 10165,
-    "removed": 1747573550
-  },
-  {
     "name": "Delta Bravo - UK #1 ~New Players Welcome~",
     "addr": "185.216.144.75",
     "port": 10710
@@ -1230,8 +1225,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1748175087
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1778,17 +1772,20 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #10",
     "addr": "45.137.246.13",
-    "port": 28100
+    "port": 28100,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #09",
     "addr": "45.137.246.13",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748178354
   },
   {
     "name": "QA Testing - US West #06",
@@ -1803,13 +1800,13 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1748091978
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #11",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #19",
@@ -1844,7 +1841,8 @@
   {
     "name": "HLL Official - US West #08",
     "addr": "45.137.246.18",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #18",
@@ -1854,7 +1852,8 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "45.137.246.18",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #13",
@@ -1869,27 +1868,32 @@
   {
     "name": "HLL Official - US West #20",
     "addr": "45.137.246.18",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #07",
     "addr": "45.137.246.18",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #16",
     "addr": "45.137.246.18",
-    "port": 28800
+    "port": 28800,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #17",
     "addr": "45.137.246.6",
-    "port": 28100
+    "port": 28100,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #19",
@@ -1899,17 +1903,20 @@
   {
     "name": "HLL Official - US West #15",
     "addr": "45.137.246.6",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #12",
     "addr": "45.137.246.6",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748178354
   },
   {
     "name": "HLL Official - US West #06",
@@ -2651,7 +2658,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748178354
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
