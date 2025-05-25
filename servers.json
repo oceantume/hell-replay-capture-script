@@ -751,6 +751,11 @@
     "port": 28000
   },
   {
+    "name": "TP | Team Paranoid | discord.gg/teamparanoid",
+    "addr": "176.57.171.161",
+    "port": 28100
+  },
+  {
     "name": "[GER] Die Alteingesessenen - Mikrofonpflicht - Warfare only",
     "addr": "176.57.171.161",
     "port": 28200
@@ -1226,7 +1231,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1748175087
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1373,8 +1379,7 @@
   {
     "name": "331st Jungel House | discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1748156475
+    "port": 7777
   },
   {
     "name": "[GER] Hack Let Loose Developer 3 | by Hack Let Loose (HaLL)",
@@ -1424,8 +1429,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1748154318
+    "port": 7787
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1723,7 +1727,7 @@
     "port": 7787
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1998,7 +2002,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748175087
   },
   {
     "name": "HLL Official - US East #03",
@@ -2028,8 +2033,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700,
-    "removed": 1748088667
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #09",
@@ -2234,8 +2238,7 @@
   {
     "name": "<CN>#2 IMP风暴兵社区 刀战比赛服 QQ群1020812925 HK",
     "addr": "5.56.25.243",
-    "port": 7777,
-    "removed": 1748135372
+    "port": 7777
   },
   {
     "name": "Task Force Koala #1 | NEW MAP HEAVY | discord.gg/tfk",
@@ -2331,7 +2334,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Skirmish only",
     "addr": "57.128.229.70",
-    "port": 7797
+    "port": 7797,
+    "removed": 1748175087
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
@@ -2658,8 +2662,7 @@
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.53",
-    "port": 7817,
-    "removed": 1748153379
+    "port": 7817
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
@@ -3090,7 +3093,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
