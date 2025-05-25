@@ -89,8 +89,7 @@
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
     "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1748178354
+    "port": 7797
   },
   {
     "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
@@ -140,7 +139,8 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748196524
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -148,7 +148,7 @@
     "port": 7797
   },
   {
-    "name": "Blood Sweat & Beers | HBL EVENT | bsbhll.com",
+    "name": "Ballroom Blitz - Arena #3",
     "addr": "139.28.17.147",
     "port": 7777
   },
@@ -178,7 +178,7 @@
     "port": 8530
   },
   {
-    "name": "DKB Event Server",
+    "name": "Ballroom Blitz - Arena #1",
     "addr": "141.95.33.70",
     "port": 9075
   },
@@ -217,6 +217,11 @@
     "addr": "146.59.149.83",
     "port": 8530,
     "removed": 1748135372
+  },
+  {
+    "name": "[GER] Oktogon | OKT | Event",
+    "addr": "148.251.182.199",
+    "port": 11255
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -904,7 +909,7 @@
     "port": 28000
   },
   {
-    "name": "Training Ground",
+    "name": "Ballroom Blitz - Arena #2",
     "addr": "176.57.181.144",
     "port": 28100
   },
@@ -1022,7 +1027,8 @@
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1748196524
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -1597,7 +1603,7 @@
     "port": 7797
   },
   {
-    "name": "Meatgrinders GGB (GER/ENG) mic required",
+    "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
     "addr": "217.182.196.157",
     "port": 8530
   },
@@ -1710,7 +1716,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1772,20 +1778,17 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1748178354
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #10",
     "addr": "45.137.246.13",
-    "port": 28100,
-    "removed": 1748178354
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #09",
     "addr": "45.137.246.13",
-    "port": 28200,
-    "removed": 1748178354
+    "port": 28200
   },
   {
     "name": "QA Testing - US West #06",
@@ -1805,8 +1808,7 @@
   {
     "name": "HLL Official - US West #11",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1748178354
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #19",
@@ -1841,8 +1843,7 @@
   {
     "name": "HLL Official - US West #08",
     "addr": "45.137.246.18",
-    "port": 28000,
-    "removed": 1748178354
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #18",
@@ -1852,8 +1853,7 @@
   {
     "name": "HLL Official - US West #04",
     "addr": "45.137.246.18",
-    "port": 28200,
-    "removed": 1748178354
+    "port": 28200
   },
   {
     "name": "HLL Official - US West #13",
@@ -1868,32 +1868,27 @@
   {
     "name": "HLL Official - US West #20",
     "addr": "45.137.246.18",
-    "port": 28600,
-    "removed": 1748178354
+    "port": 28600
   },
   {
     "name": "HLL Official - US West #07",
     "addr": "45.137.246.18",
-    "port": 28700,
-    "removed": 1748178354
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #16",
     "addr": "45.137.246.18",
-    "port": 28800,
-    "removed": 1748178354
+    "port": 28800
   },
   {
     "name": "HLL Official - US West #05",
     "addr": "45.137.246.6",
-    "port": 28000,
-    "removed": 1748178354
+    "port": 28000
   },
   {
     "name": "HLL Official - US West #17",
     "addr": "45.137.246.6",
-    "port": 28100,
-    "removed": 1748178354
+    "port": 28100
   },
   {
     "name": "HLL Official - US West #19",
@@ -1903,8 +1898,7 @@
   {
     "name": "HLL Official - US West #15",
     "addr": "45.137.246.6",
-    "port": 28300,
-    "removed": 1748178354
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #03",
@@ -1915,8 +1909,7 @@
   {
     "name": "HLL Official - US West #12",
     "addr": "45.137.246.6",
-    "port": 28700,
-    "removed": 1748178354
+    "port": 28700
   },
   {
     "name": "HLL Official - US West #06",
@@ -2074,7 +2067,8 @@
   {
     "name": "[TGL] The Gulag Lounge discord.gg/thegulaglounge recruiting now",
     "addr": "45.143.199.235",
-    "port": 9075
+    "port": 9075,
+    "removed": 1748196524
   },
   {
     "name": "Nightwarfare only || New & Skilled players welcome!",
@@ -2283,7 +2277,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
     "addr": "51.77.66.51",
     "port": 9620
   },
@@ -2658,8 +2652,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1748178354
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2771,7 +2764,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748196524
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2826,14 +2820,12 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.170",
-    "port": 28900,
-    "removed": 1748110118
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000,
-    "removed": 1748110118
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #15",
@@ -3100,7 +3092,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3258,8 +3250,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1748110118
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
