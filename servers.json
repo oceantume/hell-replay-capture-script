@@ -280,7 +280,8 @@
   {
     "name": "<CN>1号流走战争游乐园 Q群926657611",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1748282978
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -1596,7 +1597,7 @@
     "port": 8772
   },
   {
-    "name": "L.A.W 100 SLOT New players welcome!",
+    "name": "[LAW] Legends At War | New Players Welcome | discord.gg/Hp7DEFK",
     "addr": "217.182.196.157",
     "port": 9075
   },
@@ -1699,7 +1700,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2374,7 +2375,8 @@
   {
     "name": "Finest Hour - Discord.gg/FinestHour | US EAST",
     "addr": "64.20.50.186",
-    "port": 9620
+    "port": 9620,
+    "removed": 1748282978
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -2618,10 +2620,9 @@
     "port": 8888
   },
   {
-    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/PRKL",
+    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
-    "port": 8530,
-    "removed": 1748265149
+    "port": 8530
   },
   {
     "name": "Machine Soldiers Event Server | US EAST",
@@ -2748,8 +2749,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1748196524
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2932,12 +2932,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1747660627
   },
   {
     "name": "HLL Official - South America #01",
@@ -3238,7 +3232,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748282978
   },
   {
     "name": "HLL Official - Australia #03",
