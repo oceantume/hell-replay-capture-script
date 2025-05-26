@@ -75,12 +75,6 @@
     "port": 28700
   },
   {
-    "name": "HLL Official - Japan #09",
-    "addr": "103.97.52.160",
-    "port": 28200,
-    "removed": 1747678220
-  },
-  {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
     "addr": "104.238.222.122",
     "port": 7797
@@ -571,24 +565,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe #12",
-    "addr": "176.57.168.216",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "QA Testing - EU #03",
-    "addr": "176.57.168.216",
-    "port": 28300,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - Europe #05",
-    "addr": "176.57.168.216",
-    "port": 28500,
-    "removed": 1747678220
-  },
-  {
     "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
     "port": 28100
@@ -632,24 +608,6 @@
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
     "port": 28500
-  },
-  {
-    "name": "DevQA - EU #01",
-    "addr": "176.57.168.61",
-    "port": 28400,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Dev Team",
-    "addr": "176.57.168.61",
-    "port": 28500,
-    "removed": 1747678220
-  },
-  {
-    "name": "QA Testing - EU #01",
-    "addr": "176.57.168.61",
-    "port": 28600,
-    "removed": 1747678220
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -807,24 +765,6 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #13",
-    "addr": "176.57.173.91",
-    "port": 28400,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - Europe #17",
-    "addr": "176.57.173.91",
-    "port": 28600,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - Europe #16",
-    "addr": "176.57.173.91",
-    "port": 28700,
-    "removed": 1747678220
-  },
-  {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
     "port": 28100
@@ -900,12 +840,6 @@
     "name": "Ballroom Blitz - Arena #2",
     "addr": "176.57.181.144",
     "port": 28100
-  },
-  {
-    "name": "HLL Official - Europe #18",
-    "addr": "176.57.181.193",
-    "port": 28000,
-    "removed": 1747678220
   },
   {
     "name": "LwJg46 Trainingsserver",
@@ -1795,36 +1729,6 @@
     "port": 28700
   },
   {
-    "name": "HLL Official - US West #19",
-    "addr": "45.137.246.16",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #15",
-    "addr": "45.137.246.16",
-    "port": 28500,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #04",
-    "addr": "45.137.246.17",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #16",
-    "addr": "45.137.246.17",
-    "port": 28100,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #13",
-    "addr": "45.137.246.17",
-    "port": 28700,
-    "removed": 1747678220
-  },
-  {
     "name": "HLL Official - US West #08",
     "addr": "45.137.246.18",
     "port": 28000
@@ -1896,42 +1800,6 @@
     "port": 28700
   },
   {
-    "name": "HLL Official - US West #06",
-    "addr": "45.137.246.7",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #10",
-    "addr": "45.137.246.9",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US West #09",
-    "addr": "45.137.246.9",
-    "port": 28700,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US East #04",
-    "addr": "45.137.247.19",
-    "port": 28000,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US East #02",
-    "addr": "45.137.247.19",
-    "port": 28500,
-    "removed": 1747678220
-  },
-  {
-    "name": "HLL Official - US East #09",
-    "addr": "45.137.247.19",
-    "port": 28600,
-    "removed": 1747678220
-  },
-  {
     "name": "HLL Official - US East #11",
     "addr": "45.137.247.20",
     "port": 28000
@@ -1970,12 +1838,6 @@
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
     "port": 28700
-  },
-  {
-    "name": "HLL Official - US East #16",
-    "addr": "45.137.247.37",
-    "port": 28700,
-    "removed": 1747678220
   },
   {
     "name": "HLL Official - US East #13",
@@ -2097,7 +1959,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1748283928
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -2724,12 +2587,6 @@
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "79.141.174.122",
     "port": 8530
-  },
-  {
-    "name": "HLL Official - Asia #11",
-    "addr": "83.223.197.144",
-    "port": 28000,
-    "removed": 1747678220
   },
   {
     "name": "HLL Official - Asia #09",
