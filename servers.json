@@ -25,12 +25,6 @@
     "port": 8530
   },
   {
-    "name": "Steel Emu Brigade | OCE | discord.gg/YQnVfWyzk2",
-    "addr": "103.193.80.26",
-    "port": 7787,
-    "removed": 1747635085
-  },
-  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -482,8 +476,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1748153379
+    "port": 28000
   },
   {
     "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
@@ -524,8 +517,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1748153379
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -839,7 +831,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748239889
   },
   {
     "name": "HLL Official - Europe #20",
@@ -884,7 +877,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748239889
   },
   {
     "name": "QA Testing - EU #05",
@@ -1389,7 +1383,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon Event | by Hack Let Loose (HaLL)",
+    "name": "[GER] Hack Let Loose Eventserver 1",
     "addr": "208.115.206.51",
     "port": 7777
   },
