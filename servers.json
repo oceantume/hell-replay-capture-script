@@ -441,7 +441,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748326234
   },
   {
     "name": "HLL Official - Europe #05",
@@ -582,7 +583,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748326234
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -692,7 +694,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748326234
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -772,8 +775,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1748239889
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -818,8 +820,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1748239889
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1352,7 +1353,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748326234
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -2001,12 +2003,12 @@
     "port": 9014
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官咖啡馆Q120748151",
+    "name": "CN1#散人猫猫社区|萌新军官战争咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7777
   },
   {
-    "name": "CN2#散人猫猫社区|攻防极限咖啡馆Q120748151",
+    "name": "CN2#散人猫猫社区|攻防极限战争咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7787
   },
