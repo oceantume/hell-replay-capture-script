@@ -325,7 +325,8 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530
+    "port": 8530,
+    "removed": 1748351809
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
@@ -1156,8 +1157,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1748347986
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1707,7 +1707,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748351809
   },
   {
     "name": "HLL Official - US West #01",
@@ -1782,8 +1783,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1748178354
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #12",
@@ -2787,7 +2787,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748351809
   },
   {
     "name": "HLL Official - South America #01",
