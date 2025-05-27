@@ -325,8 +325,7 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530,
-    "removed": 1748351809
+    "port": 8530
   },
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
@@ -695,6 +694,11 @@
     "port": 28000
   },
   {
+    "name": "[101AB] 101st Airborne Division - Europe #01",
+    "addr": "176.57.171.158",
+    "port": 28100
+  },
+  {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
     "port": 28300,
@@ -884,8 +888,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1748347986
+    "port": 8772
   },
   {
     "name": "シ MARRAM #1 - discord.gg/marram - vip.marram.com.br",
@@ -1170,7 +1173,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1180,7 +1183,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1574,7 +1577,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #3",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1584,7 +1587,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1615,7 +1618,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #1",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1625,7 +1628,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2926,7 +2929,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3089,8 +3092,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1748282978
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
@@ -3155,7 +3157,8 @@
   {
     "name": "nitrado.net gameserver QaBP9ABQ",
     "addr": "95.156.198.83",
-    "port": 10800
+    "port": 10800,
+    "removed": 1748369346
   },
   {
     "name": "JOSGC | SEA Region | Discord.josgc.com",
