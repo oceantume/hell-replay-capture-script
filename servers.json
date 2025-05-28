@@ -82,7 +82,8 @@
   {
     "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
     "addr": "104.255.170.181",
-    "port": 8530
+    "port": 8530,
+    "removed": 1748438206
   },
   {
     "name": "[FR] ★ 7ème Compagnie ★ ÉVENT - discord/7eCie",
@@ -1694,8 +1695,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1748351809
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -2726,12 +2726,6 @@
     "port": 28700
   },
   {
-    "name": "HLL Server",
-    "addr": "84.70.8.207",
-    "port": 7777,
-    "removed": 1747833366
-  },
-  {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -2774,8 +2768,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1748351809
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
