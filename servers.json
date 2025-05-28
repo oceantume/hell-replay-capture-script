@@ -476,12 +476,6 @@
     "port": 28000
   },
   {
-    "name": "[GER] 1. Kavallerie Division | Mic Only | Low Ping",
-    "addr": "176.57.140.16",
-    "port": 28200,
-    "removed": 1747787676
-  },
-  {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
     "port": 30700
@@ -1073,12 +1067,6 @@
     "port": 7787
   },
   {
-    "name": "Helios Create and Destroy : US EAST",
-    "addr": "192.169.86.52",
-    "port": 7777,
-    "removed": 1747787676
-  },
-  {
     "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
     "addr": "192.169.86.53",
     "port": 7787
@@ -1420,7 +1408,8 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748394225
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1629,10 +1618,9 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
-    "port": 7777,
-    "removed": 1748392457
+    "port": 7777
   },
   {
     "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
@@ -2217,12 +2205,6 @@
     "name": "MG Prep",
     "addr": "64.20.50.186",
     "port": 10710
-  },
-  {
-    "name": "6th Recon Division [6RCN] NA-EAST",
-    "addr": "64.20.50.186",
-    "port": 11800,
-    "removed": 1747787676
   },
   {
     "name": "TROA Midgard Offensive - discord.gg/qMRTZA5zHm",
