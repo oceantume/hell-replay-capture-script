@@ -330,8 +330,7 @@
   {
     "name": "[PL/ENG] SSO - Polish Group Server | Seeder VIP Reward, Voting",
     "addr": "167.235.169.114",
-    "port": 8530,
-    "removed": 1748392457
+    "port": 8530
   },
   {
     "name": "Turks Let Loose #1 - Türkiye [TR] - discord.gg/TurksLetLoose",
@@ -442,8 +441,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1748326234
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -579,8 +577,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1748326234
+    "port": 28000
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -696,8 +693,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1748326234
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -772,7 +768,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1748412645
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -818,7 +815,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748412645
   },
   {
     "name": "QA Testing - UK #07",
@@ -1064,7 +1062,8 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748412645
   },
   {
     "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
@@ -1341,7 +1340,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748412645
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1408,8 +1408,7 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1748394225
+    "port": 7777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1574,12 +1573,14 @@
   {
     "name": "[GER] Hack Let Loose Eventserver 2",
     "addr": "31.56.0.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748412645
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877
+    "port": 7877,
+    "removed": 1748412645
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1635,7 +1636,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "31.56.0.24",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748412645
   },
   {
     "name": "Current Level: Civilian Casualties Only(D1CK)",
@@ -2678,7 +2680,8 @@
   {
     "name": "24/7 Elsenborn Ridge Update!",
     "addr": "83.223.203.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748412645
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
