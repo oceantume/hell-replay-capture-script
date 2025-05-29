@@ -571,8 +571,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1748499061
+    "port": 28000
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -972,8 +971,7 @@
   {
     "name": "[FR Coalition] Frères de Tranchées [FTC]",
     "addr": "185.216.145.154",
-    "port": 9075,
-    "removed": 1748520770
+    "port": 9075
   },
   {
     "name": "1 ESP Server - H9H Hispaniarum Hell - Spanish/Español",
@@ -1623,7 +1621,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2070,7 +2068,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』CNC丨★丨RA丨(q665327895)",
+    "name": "丨Nexus丨『水晶枢纽』絶対の低压服(q665327895)",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2618,8 +2616,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000,
-    "removed": 1748455766
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #11",
@@ -2761,7 +2758,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748542199
   },
   {
     "name": "HLL Official - South America #01",
@@ -2890,7 +2888,8 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748542199
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2908,7 +2907,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -3067,7 +3066,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748542199
   },
   {
     "name": "HLL Official - Australia #03",
