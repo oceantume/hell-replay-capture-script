@@ -224,7 +224,8 @@
   {
     "name": "The Coalition PH | Asian League #2 | discord.gg/thecoalition",
     "addr": "15.235.219.197",
-    "port": 9075
+    "port": 9075,
+    "removed": 1748628593
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -245,12 +246,6 @@
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
     "addr": "152.228.223.2",
     "port": 10165
-  },
-  {
-    "name": "BAND OF ROLEPLAYERS",
-    "addr": "154.16.170.14",
-    "port": 8530,
-    "removed": 1748023732
   },
   {
     "name": "Games Done Mediocre | New Player Friendly | Central US",
@@ -671,6 +666,11 @@
     "port": 28000
   },
   {
+    "name": "4story",
+    "addr": "176.57.171.140",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
     "port": 28400
@@ -683,7 +683,8 @@
   {
     "name": "[101AB] 101st Airborne Division - Public Server #01 - New Playe",
     "addr": "176.57.171.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1748628593
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
@@ -1367,7 +1368,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748628593
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -1477,8 +1479,7 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530,
-    "removed": 1748607160
+    "port": 8530
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -1496,7 +1497,7 @@
     "port": 8772
   },
   {
-    "name": "[LAW] Legends At War | UK | discord.gg/legendsatwar",
+    "name": "[LAW] Legends At War | UK | https://discord.gg/legendsatwar",
     "addr": "217.182.196.157",
     "port": 9075
   },
@@ -1598,7 +1599,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1933,12 +1934,6 @@
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "49.12.83.52",
     "port": 7827
-  },
-  {
-    "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
-    "addr": "5.189.130.178",
-    "port": 28000,
-    "removed": 1748023732
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -2434,7 +2429,8 @@
   {
     "name": "GERMANIA | Warfare & Offensive",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1748628593
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
@@ -2464,7 +2460,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1748628593
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2761,7 +2758,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2896,7 +2893,7 @@
     "port": 29100
   },
   {
-    "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
+    "name": "BUNKER BRASIL || LVL 30+ || SOMENTE PT-BR || discord.gg/tXexuHa",
     "addr": "92.38.151.91",
     "port": 28600
   },
