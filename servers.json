@@ -471,7 +471,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1748585450
   },
   {
     "name": "Warfrags Studios",
@@ -823,8 +824,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1748520770
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -937,7 +937,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] │ CLAN ÆSIR │ n9.cl/clanaesir",
+    "name": "[LATAM/ESP] │ SERVIDOR EN PRUEBA, INAUGURACION VIERNES 30",
     "addr": "181.214.221.41",
     "port": 7837
   },
@@ -981,7 +981,8 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "188.165.39.157",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748585450
   },
   {
     "name": "The Old Speckled Hen - Blood Sweat & Beers BSB",
@@ -1016,7 +1017,8 @@
   {
     "name": "ROAD TO D-DAY 2025 | Presented by BR1GAMING",
     "addr": "192.169.80.26",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748585450
   },
   {
     "name": "Rocky Hill",
@@ -1341,7 +1343,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748585450
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1536,6 +1539,11 @@
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "23.142.25.13",
     "port": 7777
+  },
+  {
+    "name": "ROAD TO D-DAY 2025 | Presented by BR1GAMING",
+    "addr": "23.142.25.14",
+    "port": 7787
   },
   {
     "name": "Jefersson's & Budweiser's - training/event - discord.gg/cobrasf",
@@ -2018,7 +2026,8 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "5.56.25.100",
-    "port": 7837
+    "port": 7837,
+    "removed": 1748585450
   },
   {
     "name": "CN4#散人猫猫冷门图哦|延迟正常啦回家啦Q120748151",
