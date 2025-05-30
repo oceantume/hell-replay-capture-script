@@ -1368,8 +1368,7 @@
   {
     "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777,
-    "removed": 1748628593
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -2427,10 +2426,9 @@
     "port": 8530
   },
   {
-    "name": "GERMANIA | Warfare & Offensive",
+    "name": "GERMANIA | Historical Warfare Campaign",
     "addr": "78.46.101.16",
-    "port": 9620,
-    "removed": 1748628593
+    "port": 9620
   },
   {
     "name": "[SWE/ENG] Unrelenting War",
