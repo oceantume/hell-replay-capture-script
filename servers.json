@@ -118,7 +118,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1748671767
   },
   {
     "name": "What can I say",
@@ -466,8 +467,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1748585450
+    "port": 30700
   },
   {
     "name": "Warfrags Studios",
@@ -784,7 +784,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748671767
   },
   {
     "name": "HLL Official - Europe #18",
@@ -1640,7 +1641,8 @@
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748671767
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1945,7 +1947,7 @@
     "port": 9014
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官战争咖啡馆Q120748151",
+    "name": "CN1#散人猫猫社区|萌新军官端午安康呀Q120748151",
     "addr": "5.56.25.100",
     "port": 7777
   },
@@ -1977,8 +1979,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "5.56.25.100",
-    "port": 7837,
-    "removed": 1748585450
+    "port": 7837
   },
   {
     "name": "CN4#散人猫猫冷门图哦|你的端午要快乐哦Q120748151",
