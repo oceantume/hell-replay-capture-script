@@ -62,7 +62,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748779912
   },
   {
     "name": "HLL Official - Japan #05",
@@ -93,8 +94,7 @@
   {
     "name": "[.PT] - EU Official UTC Server",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1748761446
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -230,8 +230,7 @@
   {
     "name": "The Coalition PH | Asian League #1 | discord.gg/thecoalition",
     "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1748761446
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -372,8 +371,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1748761446
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -525,8 +523,7 @@
   {
     "name": "ZPR vs. 106 - Friendly Match",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1748761446
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -805,8 +802,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1748761446
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -1154,8 +1150,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1748761446
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1238,8 +1233,7 @@
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1748761446
+    "port": 9620
   },
   {
     "name": "#1 | Danmark | Europe | US Army vs German | www.hellletloose.dk",
@@ -1345,8 +1339,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1748758211
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1416,8 +1409,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1748761446
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1559,8 +1551,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1748761446
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1591,8 +1582,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1748761446
+    "port": 7787
   },
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
@@ -1615,7 +1605,7 @@
     "port": 7797
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1807,7 +1797,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748779912
   },
   {
     "name": "HLL Official - US East #13",
@@ -1817,7 +1808,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748779912
   },
   {
     "name": "HLL Official - US East #03",
@@ -1827,7 +1819,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1748779912
   },
   {
     "name": "HLL Official - US East #15",
@@ -2111,12 +2104,6 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Skirmish only",
-    "addr": "57.128.229.70",
-    "port": 7797,
-    "removed": 1748175087
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
     "port": 7807
@@ -2175,8 +2162,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1748761446
+    "port": 8530
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -2743,7 +2729,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
