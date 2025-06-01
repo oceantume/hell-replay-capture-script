@@ -455,7 +455,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748758211
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -490,7 +491,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1748758211
   },
   {
     "name": "HLL Dev Team",
@@ -560,7 +562,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748758211
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -777,8 +780,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1748671767
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #18",
@@ -1336,7 +1338,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748758211
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2235,12 +2238,6 @@
     "port": 7777
   },
   {
-    "name": "Fire For Effect [FFE] - S2 - New Players Welcome! - FFECREW.COM",
-    "addr": "64.31.53.182",
-    "port": 7577,
-    "removed": 1748153379
-  },
-  {
     "name": "NEW PLAYER PARADISE | Enhance your HLL experience",
     "addr": "64.31.58.62",
     "port": 7777
@@ -2510,7 +2507,8 @@
   {
     "name": "Major Winters Total Chao's",
     "addr": "83.223.203.182",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748758211
   },
   {
     "name": "Boneyard",
