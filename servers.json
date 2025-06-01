@@ -201,12 +201,6 @@
     "port": 9014
   },
   {
-    "name": "[.PT] - EU Official UTC Server",
-    "addr": "146.59.149.83",
-    "port": 8530,
-    "removed": 1748135372
-  },
-  {
     "name": "[GER] Oktogon | OKT | Event",
     "addr": "148.251.182.199",
     "port": 11255
@@ -1422,7 +1416,8 @@
   {
     "name": "Horizon's Dark Hole | Powered by Qonzer",
     "addr": "208.115.250.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748740635
   },
   {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
@@ -2379,6 +2374,11 @@
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "74.63.231.3",
     "port": 7777
+  },
+  {
+    "name": "5th Ranger Battalion | US East | 5thrb.com",
+    "addr": "74.63.236.194",
+    "port": 10710
   },
   {
     "name": "5th Ranger Battalion | Event Server | 5thrb.com",
