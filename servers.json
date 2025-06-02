@@ -352,8 +352,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1748866397
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1367,7 +1366,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
-    "port": 7777
+    "port": 7777,
+    "removed": 1748867503
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -2717,8 +2717,7 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1748824596
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
