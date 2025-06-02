@@ -456,7 +456,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748844692
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -491,8 +492,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1748758211
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -562,8 +562,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1748758211
+    "port": 28000
   },
   {
     "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
@@ -638,7 +637,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748844692
   },
   {
     "name": "QA Testing - EU #04",
@@ -816,7 +816,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748844692
   },
   {
     "name": "QA Testing - EU #05",
@@ -1337,7 +1338,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748844692
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1402,6 +1404,11 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
+    "port": 7777
+  },
+  {
+    "name": "331 | Ape’s Assault",
+    "addr": "208.115.248.106",
     "port": 7777
   },
   {
@@ -1512,7 +1519,7 @@
     "port": 7777
   },
   {
-    "name": "ROAD TO D-DAY PC 1 | Presented by BR1GAMING",
+    "name": "ROAD TO D-DAY PC 1 | BR1GAMING / Qonzer",
     "addr": "23.142.25.14",
     "port": 7787
   },
@@ -1648,7 +1655,7 @@
     "port": 8530
   },
   {
-    "name": "WORLD BEYOND | DALLAS US | discord.gg/da9s33q5Xm",
+    "name": "HOGS OF WAR | DALLAS US | discord.gg/da9s33q5Xm",
     "addr": "45.137.244.9",
     "port": 28400
   },
