@@ -130,8 +130,7 @@
   {
     "name": "⑤ | THE CIRCLE #5 | OFFENSIVE | NEW PLAYERS WELCOME | DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1748910931
+    "port": 7777
   },
   {
     "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
@@ -419,7 +418,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748931069
   },
   {
     "name": "HLL Official - Europe #07",
@@ -454,13 +454,13 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1748844692
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1748931069
   },
   {
     "name": "Warfrags Studios",
@@ -635,8 +635,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1748844692
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -683,7 +682,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748931069
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -814,8 +814,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1748844692
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1218,7 +1217,8 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1748931069
   },
   {
     "name": "HLL_nitratest",
@@ -1344,7 +1344,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1748931069
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -2819,7 +2820,8 @@
   {
     "name": "[US-C] Offensive 24/7",
     "addr": "92.118.19.76",
-    "port": 7797
+    "port": 7797,
+    "removed": 1748931069
   },
   {
     "name": "MEXICO LATAM ESP OGT",
