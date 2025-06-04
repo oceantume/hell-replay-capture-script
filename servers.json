@@ -1764,8 +1764,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1748956669
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #12",
@@ -2717,7 +2716,8 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749043083
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
