@@ -562,7 +562,7 @@
     "port": 28000
   },
   {
-    "name": "CZ/SK/EN Krieg | Join us krieghll.cz",
+    "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
     "addr": "176.57.168.254",
     "port": 28100
   },
@@ -811,7 +811,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1748997315
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -1154,7 +1155,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1164,7 +1165,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1547,7 +1548,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1557,7 +1558,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1588,7 +1589,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1598,7 +1599,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1613,7 +1614,7 @@
     "port": 7797
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2037,8 +2038,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1748977561
+    "port": 9620
   },
   {
     "name": "Moon",
@@ -2444,7 +2444,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.160",
-    "port": 28900
+    "port": 28900,
+    "removed": 1748997315
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2731,7 +2732,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2884,7 +2885,8 @@
   {
     "name": "HLL Official - Australia #04",
     "addr": "94.250.221.25",
-    "port": 28000
+    "port": 28000,
+    "removed": 1748997315
   },
   {
     "name": "HLL Official - Australia #02",
@@ -2899,7 +2901,8 @@
   {
     "name": "HLL Official - Australia #03",
     "addr": "94.250.221.25",
-    "port": 28300
+    "port": 28300,
+    "removed": 1748997315
   },
   {
     "name": "HLL Official - Australia #06",
@@ -2954,6 +2957,7 @@
   {
     "name": "HLL Official - Australia #15",
     "addr": "94.250.221.36",
-    "port": 28400
+    "port": 28400,
+    "removed": 1748997315
   }
 ]
