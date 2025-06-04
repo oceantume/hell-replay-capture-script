@@ -347,7 +347,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1749040307
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -2717,8 +2718,7 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1748868958
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
