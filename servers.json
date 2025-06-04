@@ -585,7 +585,8 @@
   {
     "name": "DasAltberg Playtest Server",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749060607
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -1502,8 +1503,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1749039196
+    "port": 8772
   },
   {
     "name": "[LAW] Legends At War | UK | https://discord.gg/legendsatwar",
@@ -1602,7 +1602,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2437,12 +2437,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749060607
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749060607
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2473,7 +2475,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000
+    "port": 29000,
+    "removed": 1749060607
   },
   {
     "name": "HLL Official - Asia #15",
@@ -2735,7 +2738,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
