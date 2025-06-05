@@ -177,6 +177,21 @@
     "port": 8530
   },
   {
+    "name": "Rocky Hill (US East) discord.gg/rockyhill",
+    "addr": "144.126.153.213",
+    "port": 28200
+  },
+  {
+    "name": "Hell let loose (US East) Server by g-portal.com",
+    "addr": "144.126.153.213",
+    "port": 28400
+  },
+  {
+    "name": "Antietam Let Loose |US East| Hosted by HL",
+    "addr": "144.126.153.213",
+    "port": 29000
+  },
+  {
     "name": "[FR] LvL - Les Vieux Loups - discord.gg/teamlvl",
     "addr": "145.239.144.76",
     "port": 8530,
@@ -205,7 +220,8 @@
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.135.184",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749149582
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -670,8 +686,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1749103874
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -781,6 +796,11 @@
     "port": 28700
   },
   {
+    "name": "FR/EN - Server Free Player Spirit (FPS)",
+    "addr": "176.57.178.127",
+    "port": 28000
+  },
+  {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
     "port": 28000
@@ -835,7 +855,8 @@
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 - NEW PLAYERS WELCOME (UA",
     "addr": "176.57.181.34",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749149582
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
@@ -1513,7 +1534,7 @@
     "port": 7787
   },
   {
-    "name": "HORANG Event Server | US WEST | (OPS ROKA)",
+    "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
     "addr": "23.142.25.8",
     "port": 7777
   },
@@ -1568,7 +1589,7 @@
     "port": 7777
   },
   {
-    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 25+ | DISCORD.GG/THE",
+    "name": "② | THE CIRCLE #2 | SWEATY WARFARE | LVL 75+ | DISCORD.GG/THE",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2396,14 +2417,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.160",
-    "port": 28500,
-    "removed": 1749060607
+    "port": 28500
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1749060607
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2413,7 +2432,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.160",
-    "port": 29000
+    "port": 29000,
+    "removed": 1749149582
   },
   {
     "name": "HLL Official - Asia #11",
@@ -2433,8 +2453,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.170",
-    "port": 29000,
-    "removed": 1749060607
+    "port": 29000
   },
   {
     "name": "HLL Official - Asia #15",
@@ -2449,12 +2468,14 @@
   {
     "name": "Rocky Hill (US East) discord.gg/rockyhill",
     "addr": "83.223.203.121",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749149582
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.127",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749149582
   },
   {
     "name": "Boneyard",
@@ -2464,13 +2485,19 @@
   {
     "name": "CrossFire Gaming",
     "addr": "83.223.203.155",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749149582
   },
   {
     "name": "Major Winters Total Chao's",
     "addr": "83.223.203.182",
     "port": 28200,
     "removed": 1748758211
+  },
+  {
+    "name": "CrossFire Gaming",
+    "addr": "83.223.203.51",
+    "port": 28200
   },
   {
     "name": "Boneyard",
@@ -2481,7 +2508,8 @@
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "83.223.204.52",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749149582
   },
   {
     "name": "German High Command 130th PLD (US-Mid)",
@@ -2547,12 +2575,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1748542199
   },
   {
     "name": "HLL Official - South America #01",
@@ -2677,7 +2699,8 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749149582
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2695,7 +2718,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 50+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2864,7 +2887,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749149582
   },
   {
     "name": "HLL Official - Australia #03",
