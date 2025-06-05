@@ -462,7 +462,8 @@
   {
     "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation",
     "addr": "176.57.140.196",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749125618
   },
   {
     "name": "HLL Official - Europe #10",
@@ -943,12 +944,6 @@
     "port": 8530
   },
   {
-    "name": "[BETU] UK Tea Time - New Player Friendly",
-    "addr": "185.216.145.154",
-    "port": 8530,
-    "removed": 1748520770
-  },
-  {
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
     "addr": "185.216.145.154",
     "port": 9075
@@ -1053,7 +1048,8 @@
   {
     "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
     "addr": "192.169.86.51",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749125618
   },
   {
     "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
@@ -1315,8 +1311,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1749103874
+    "port": 7787
   },
   {
     "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1548,12 +1543,6 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #2 - Dírty's Dírtbags - discord.gg/13snc",
-    "addr": "31.56.0.14",
-    "port": 7787,
-    "removed": 1748520770
-  },
-  {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "31.56.0.14",
     "port": 7797
@@ -1594,7 +1583,7 @@
     "port": 7797
   },
   {
-    "name": "③ | THE CIRCLE #3 | OFFENSIVE | DISCORD.GG/THE-CIRCLE",
+    "name": "③ | THE CIRCLE #3 | OFFENSIVE | LVL 25+ | DISCORD.GG/THE-CIRC",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1821,8 +1810,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1749039196
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #02",
@@ -2857,6 +2845,11 @@
     "name": "US WEST | Blood Buckets",
     "addr": "94.250.218.33",
     "port": 28000
+  },
+  {
+    "name": "Band of Roleplayers",
+    "addr": "94.250.218.33",
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #04",
