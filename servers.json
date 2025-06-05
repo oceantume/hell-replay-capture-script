@@ -342,8 +342,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1749126730
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1192,7 +1191,8 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1749128173
   },
   {
     "name": "HLL_nitratest",
@@ -2678,8 +2678,7 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1749043083
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2697,7 +2696,7 @@
     "port": 7807
   },
   {
-    "name": "① | THE CIRCLE #1 | WARFARE | DISCORD.GG/THE-CIRCLE",
+    "name": "① | THE CIRCLE #1 | WARFARE | LVL 25+ | DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
