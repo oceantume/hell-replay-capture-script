@@ -63,7 +63,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - Japan #05",
@@ -126,7 +127,7 @@
     "port": 7777
   },
   {
-    "name": "④ | THE CIRCLE #4 | EVENTS | DISCORD.GG/THE-CIRCLE",
+    "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
   },
@@ -534,8 +535,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1749190245
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -1332,8 +1332,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1749190245
+    "port": 7787
   },
   {
     "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1500,10 +1499,9 @@
     "port": 8772
   },
   {
-    "name": "[LAW] Legends At War | UK | https://discord.gg/legendsatwar",
+    "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
     "addr": "217.182.196.157",
-    "port": 9075,
-    "removed": 1749150327
+    "port": 9075
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1606,7 +1604,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2099,7 +2097,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ discord.gg/pzjr",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ D-Day",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -2231,7 +2229,8 @@
   {
     "name": "Mikey's Marauders / US East 2 / discord.gg/mikeys-mm",
     "addr": "64.31.58.62",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749211976
   },
   {
     "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
@@ -2570,7 +2569,8 @@
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
     "addr": "88.198.47.123",
-    "port": 8530
+    "port": 8530,
+    "removed": 1749211976
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
@@ -2615,42 +2615,50 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.37",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #05",
     "addr": "89.43.106.37",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #10",
     "addr": "89.43.106.37",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #11",
     "addr": "89.43.106.37",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #12",
     "addr": "89.43.106.37",
-    "port": 28400
+    "port": 28400,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #13",
     "addr": "89.43.106.37",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #16",
     "addr": "89.43.106.37",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749211976
   },
   {
     "name": "HLL Official - South America #18",
     "addr": "89.43.106.37",
-    "port": 28700
+    "port": 28700,
+    "removed": 1749211976
   },
   {
     "name": "<CN>JP北极星萌新服务器Q群：1018176083",
@@ -2663,7 +2671,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/假期快乐/端午安康/Q:1034621661",
+    "name": "<CN>BW黑色守望/假期快乐Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7797
   },
@@ -2724,7 +2732,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
