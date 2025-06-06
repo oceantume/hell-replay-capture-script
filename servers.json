@@ -98,8 +98,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1749103874
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -494,7 +493,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749190245
   },
   {
     "name": "HLL Official - Europe #02",
@@ -534,7 +534,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749190245
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -569,7 +570,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749190245
   },
   {
     "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
@@ -808,8 +810,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1749103874
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1337,7 +1338,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749190245
   },
   {
     "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1363,7 +1365,8 @@
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "208.115.214.220",
-    "port": 7857
+    "port": 7857,
+    "removed": 1749190245
   },
   {
     "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
@@ -1987,17 +1990,20 @@
   {
     "name": "ACL轮战训练赛服务器",
     "addr": "5.56.25.100",
-    "port": 7867
+    "port": 7867,
+    "removed": 1749190245
   },
   {
     "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
     "addr": "5.56.25.100",
-    "port": 7877
+    "port": 7877,
+    "removed": 1749190245
   },
   {
     "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
     "addr": "5.56.25.100",
-    "port": 7887
+    "port": 7887,
+    "removed": 1749190245
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2792,8 +2798,7 @@
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1749170076
+    "port": 7777
   },
   {
     "name": "[PoZr] Casual Realism (US East)",
