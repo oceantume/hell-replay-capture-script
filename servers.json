@@ -104,7 +104,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749276569
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -114,7 +115,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1749276569
   },
   {
     "name": "What can I say",
@@ -179,7 +181,8 @@
   {
     "name": "Rocky Hill (US East) discord.gg/rockyhill",
     "addr": "144.126.153.213",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749276569
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -488,8 +491,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1749190245
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #02",
@@ -564,8 +566,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1749190245
+    "port": 28000
   },
   {
     "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
@@ -773,8 +774,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1749256471
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #18",
@@ -1997,7 +1997,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』CNC丨★丨RA丨(q665327895)",
+    "name": "丨Nexus丨『水晶枢纽』绝对の低压服cncra(q665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2316,7 +2316,8 @@
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
     "addr": "69.162.102.53",
-    "port": 7817
+    "port": 7817,
+    "removed": 1749276569
   },
   {
     "name": "Dark Horizon |Deathwish Mode| Discord.gg/dhz",
@@ -2793,8 +2794,7 @@
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
     "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1749256471
+    "port": 7777
   },
   {
     "name": "[PoZr] Casual Realism (US East)",
