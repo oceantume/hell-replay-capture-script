@@ -1290,7 +1290,8 @@
   {
     "name": "Absolutely no secrets here",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749300670
   },
   {
     "name": "[GER] Hack Let Loose Eventserver 1",
@@ -1630,7 +1631,8 @@
   {
     "name": "[13SNC] #2 - Dírty's Offensives - discord.gg/13snc",
     "addr": "31.56.0.7",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749300670
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
