@@ -1288,10 +1288,9 @@
     "port": 7777
   },
   {
-    "name": "Absolutely no secrets here",
+    "name": "[13SNC] #1 - Dírty's Heroes - discord.gg/13snc",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1749300670
+    "port": 7777
   },
   {
     "name": "[GER] Hack Let Loose Eventserver 1",
@@ -1677,7 +1676,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1749301594
   },
   {
     "name": "HLL Official - US West #01",
