@@ -667,7 +667,8 @@
   {
     "name": "[FR] [AAA] | French speaking only | discord.gg/teamaaa",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749406144
   },
   {
     "name": "4story",
@@ -862,6 +863,11 @@
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.181.34",
     "port": 28200
+  },
+  {
+    "name": "[LUX] Härebierg_Lux/Deu_mic only",
+    "addr": "176.57.181.34",
+    "port": 28300
   },
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
@@ -1280,7 +1286,7 @@
     "port": 7777
   },
   {
-    "name": "331 Jungel House | discord.gg/331st",
+    "name": "Ballroom Blitz - Arena #1",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1407,7 +1413,7 @@
     "port": 7777
   },
   {
-    "name": "331 | Ape’s Assault | discord.gg/331st",
+    "name": "Ballroom Blitz - Arena #3",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1579,7 +1585,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2434,7 +2440,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749406144
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2732,7 +2739,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2900,8 +2907,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1749319757
+    "port": 28200
   },
   {
     "name": "HLL Official - Australia #03",
