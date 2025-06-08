@@ -53,7 +53,8 @@
   {
     "name": "HLL Official - Japan #03",
     "addr": "103.97.52.159",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749343127
   },
   {
     "name": "HLL Official - Japan #10",
@@ -155,6 +156,11 @@
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
     "port": 9620
+  },
+  {
+    "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
+    "addr": "141.11.34.104",
+    "port": 7787
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1158,26 +1164,22 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1749298282
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes - discord.gg/13snc",
     "addr": "193.160.22.140",
-    "port": 7787,
-    "removed": 1749298282
+    "port": 7787
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1749298282
+    "port": 7777
   },
   {
     "name": "TD〢Tank Destroyers [EU/ENG] Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777,
-    "removed": 1749298282
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1324,7 +1326,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749343127
   },
   {
     "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1583,7 +1586,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1598,7 +1601,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1628,10 +1631,9 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 - Dírty's Offensives - discord.gg/13snc",
+    "name": "[13SNC] #1 - Dírty's Heroes - discord.gg/13snc",
     "addr": "31.56.0.7",
-    "port": 7787,
-    "removed": 1749300670
+    "port": 7787
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -2743,7 +2745,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
