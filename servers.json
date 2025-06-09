@@ -493,8 +493,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100,
-    "removed": 1749429447
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #04",
@@ -831,8 +830,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1749429447
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
