@@ -58,8 +58,7 @@
   {
     "name": "HLL Official - Japan #03",
     "addr": "103.97.52.159",
-    "port": 28000,
-    "removed": 1749343127
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #10",
@@ -494,7 +493,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749429447
   },
   {
     "name": "HLL Official - Europe #04",
@@ -831,7 +831,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749429447
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -865,7 +866,7 @@
     "port": 28200
   },
   {
-    "name": "[LUX] Härebierg_Lux/Deu_mic only",
+    "name": "[LU] Härebierg_Lux/Deu_mic only",
     "addr": "176.57.181.34",
     "port": 28300
   },
@@ -1286,7 +1287,7 @@
     "port": 7777
   },
   {
-    "name": "Ballroom Blitz - Arena #1",
+    "name": "331 | Jungle House | discord.gg/331st",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1515,6 +1516,11 @@
     "port": 7777
   },
   {
+    "name": "The DRAFT | Test Server",
+    "addr": "23.142.25.13",
+    "port": 7787
+  },
+  {
     "name": "ROAD TO D-DAY PC 1 | BR1GAMING / Qonzer",
     "addr": "23.142.25.14",
     "port": 7787
@@ -1585,7 +1591,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1600,7 +1606,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2739,7 +2745,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
