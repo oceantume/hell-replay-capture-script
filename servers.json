@@ -467,7 +467,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749449496
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -573,8 +574,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1749362988
+    "port": 28000
   },
   {
     "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
@@ -739,7 +739,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749449496
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -1305,7 +1306,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hack Let Loose Developer 1 | by Hack Let Loose (HaLL)",
+    "name": "[GER] Hack Let Loose Eventserver 1",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1626,7 +1627,8 @@
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749449496
   },
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
