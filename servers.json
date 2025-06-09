@@ -1792,7 +1792,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1749453009
   },
   {
     "name": "HLL Official - US East #13",
@@ -1802,12 +1803,14 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749453009
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749453009
   },
   {
     "name": "HLL Official - US East #06",
@@ -1827,12 +1830,14 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749453009
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700
+    "port": 28700,
+    "removed": 1749453009
   },
   {
     "name": "HLL Official - US East #09",
