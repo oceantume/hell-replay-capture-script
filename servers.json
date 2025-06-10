@@ -759,8 +759,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1749535866
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -1330,7 +1329,7 @@
     "port": 7777
   },
   {
-    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
     "addr": "208.115.214.220",
     "port": 7777
   },
@@ -1558,7 +1557,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1907,7 +1906,7 @@
     "port": 7827
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
   },
@@ -1987,7 +1986,8 @@
   {
     "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
     "addr": "5.56.25.100",
-    "port": 7907
+    "port": 7907,
+    "removed": 1749579009
   },
   {
     "name": "丨Nexus丨『水晶枢纽』丨绝对の低压服丨q665327895",
@@ -2142,7 +2142,8 @@
   {
     "name": "вит | Bad Intentions - Event [US EAST]",
     "addr": "64.31.16.186",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749579009
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2180,7 +2181,7 @@
     "port": 7777
   },
   {
-    "name": "[EU]GHOST REGIMENT | New Player Training 50v50|offensive",
+    "name": "hll Server",
     "addr": "64.31.29.67",
     "port": 7777
   },
@@ -2228,6 +2229,11 @@
   {
     "name": "6TH RECON DIVISION [6RCN] NY SERVER",
     "addr": "64.31.59.77",
+    "port": 7777
+  },
+  {
+    "name": "Bad Intentions - Event [US EAST]",
+    "addr": "64.31.59.78",
     "port": 7777
   },
   {
@@ -2390,7 +2396,8 @@
   {
     "name": "[SWE/ENG] Unrelenting War",
     "addr": "79.137.89.136",
-    "port": 8530
+    "port": 8530,
+    "removed": 1749579009
   },
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
@@ -2415,8 +2422,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.160",
-    "port": 28600,
-    "removed": 1749406144
+    "port": 28600
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -2723,7 +2729,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2891,7 +2897,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749579009
   },
   {
     "name": "HLL Official - Australia #03",
