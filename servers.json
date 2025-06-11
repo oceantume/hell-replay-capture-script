@@ -163,8 +163,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787,
-    "removed": 1749622270
+    "port": 7787
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -804,12 +803,6 @@
     "port": 28200
   },
   {
-    "name": "{serverName}",
-    "addr": "176.57.178.15",
-    "port": 28000,
-    "removed": 1749039196
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -1189,6 +1182,11 @@
     "removed": 1749233402
   },
   {
+    "name": "Sterziks Bahnhofsviertel",
+    "addr": "195.82.158.186",
+    "port": 21100
+  },
+  {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
     "port": 8530
@@ -1560,7 +1558,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1778,8 +1776,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1749557644
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #15",
@@ -1804,8 +1801,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700,
-    "removed": 1749557644
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #09",
@@ -2477,12 +2473,6 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
-  },
-  {
-    "name": "Boneyard",
-    "addr": "83.223.204.229",
-    "port": 28100,
-    "removed": 1749039196
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
