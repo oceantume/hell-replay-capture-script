@@ -97,13 +97,13 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1749535866
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749622270
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -163,7 +163,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749622270
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -421,8 +422,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1749535866
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -462,7 +462,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1749622270
   },
   {
     "name": "Warfrags Studios",
@@ -638,8 +639,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1749362988
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -921,7 +921,7 @@
     "port": 7797
   },
   {
-    "name": "[Latam/ESP] Uranium-235-Reclutando: https://clan-hub.club/U235",
+    "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
     "port": 7807
   },
@@ -1580,8 +1580,7 @@
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7777,
-    "removed": 1749449496
+    "port": 7777
   },
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
