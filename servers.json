@@ -499,7 +499,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749623272
   },
   {
     "name": "HLL Official - Europe #15",
@@ -589,7 +590,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749623272
   },
   {
     "name": "PARABELLUM EVENT SERVER",
