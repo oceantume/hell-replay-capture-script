@@ -683,8 +683,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1749708686
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -801,7 +800,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1749751800
   },
   {
     "name": "HLL Official - UK #02",
@@ -1493,7 +1493,7 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #6 Dírty's Newbie Hell - Discord.gg/13snc",
+    "name": "⑦︱THE CIRCLE #7︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "31.56.0.10",
     "port": 7777
   },
@@ -1549,7 +1549,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1594,7 +1594,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #5 Dírty's Newbie Haven - Discord.gg/13SNC",
+    "name": "[13SNC] - #5 Dírty's Newbie Haven - Discord.gg/13SNC",
     "addr": "31.56.0.7",
     "port": 7787
   },
@@ -1886,7 +1886,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1749751800
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -2411,7 +2412,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749751800
   },
   {
     "name": "HLL Official - Asia #14",
@@ -2426,7 +2428,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749751800
   },
   {
     "name": "HLL Official - Asia #13",
@@ -2654,7 +2657,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749751800
   },
   {
     "name": "HLL Official - South America #01",
@@ -2808,7 +2812,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
