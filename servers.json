@@ -413,8 +413,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1749688483
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -481,8 +480,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100,
-    "removed": 1749688483
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #04",
@@ -582,14 +580,12 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1749688483
+    "port": 28100
   },
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1749688483
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
@@ -649,8 +645,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1749688483
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #16",
@@ -714,12 +709,6 @@
     "port": 28300
   },
   {
-    "name": "Schweizer Söldnertum [GER]",
-    "addr": "176.57.171.44",
-    "port": 28200,
-    "removed": 1749083689
-  },
-  {
     "name": "Churchill Knife & Shovel rumble",
     "addr": "176.57.171.44",
     "port": 28400
@@ -772,8 +761,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300,
-    "removed": 1749688483
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #08",
@@ -818,8 +806,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1749688483
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -1187,8 +1174,7 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800,
-    "removed": 1749688483
+    "port": 20800
   },
   {
     "name": "HLL_nitratest",
@@ -1199,7 +1185,8 @@
   {
     "name": "Sterziks Bahnhofsviertel",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1749690266
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -2590,7 +2577,8 @@
   {
     "name": "German High Command 130th PLD (US-Mid)",
     "addr": "83.223.207.50",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749690266
   },
   {
     "name": "Test",
