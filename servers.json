@@ -217,12 +217,6 @@
     "port": 11255
   },
   {
-    "name": "FR/EN - Server Free Player Spirit (FPS)",
-    "addr": "149.102.135.184",
-    "port": 28300,
-    "removed": 1749149582
-  },
-  {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
     "port": 7797
@@ -837,12 +831,6 @@
     "name": "LwJg46 Trainingsserver",
     "addr": "176.57.181.34",
     "port": 28000
-  },
-  {
-    "name": "[BWR] UKRAINIAN & BALTIC SERVER № 1 - NEW PLAYERS WELCOME (UA",
-    "addr": "176.57.181.34",
-    "port": 28100,
-    "removed": 1749149582
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
@@ -1886,8 +1874,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807,
-    "removed": 1749751800
+    "port": 7807
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -2548,38 +2535,14 @@
     "port": 28200
   },
   {
-    "name": "Rocky Hill (US East) discord.gg/rockyhill",
-    "addr": "83.223.203.121",
-    "port": 28300,
-    "removed": 1749149582
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "83.223.203.127",
-    "port": 28200,
-    "removed": 1749149582
-  },
-  {
     "name": "Boneyard",
     "addr": "83.223.203.138",
     "port": 28200
   },
   {
     "name": "CrossFire Gaming",
-    "addr": "83.223.203.155",
-    "port": 28000,
-    "removed": 1749149582
-  },
-  {
-    "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
-  },
-  {
-    "name": "Antietam Let Loose |US East| Hosted by HL",
-    "addr": "83.223.204.52",
-    "port": 28000,
-    "removed": 1749149582
   },
   {
     "name": "German High Command 130th PLD (US-Mid)",
@@ -2789,12 +2752,6 @@
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1749149582
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
