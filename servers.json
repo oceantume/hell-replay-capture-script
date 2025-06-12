@@ -1422,7 +1422,7 @@
     "removed": 1749319757
   },
   {
-    "name": "[CN]Nya~柔情猫娘庇护所#萌新限杀#日服Q:500001820",
+    "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶无规则#日服Q:500",
     "addr": "216.144.245.82",
     "port": 7797
   },
@@ -1716,8 +1716,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1749647874
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #12",
@@ -2651,6 +2650,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "Hookway's Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
