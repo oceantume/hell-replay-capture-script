@@ -123,7 +123,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749730394
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -158,8 +159,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787,
-    "removed": 1749708686
+    "port": 7787
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -399,6 +399,11 @@
     "name": "HLL Official - Europe #14",
     "addr": "176.57.134.30",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose Official Server by g-portal.com",
+    "addr": "176.57.134.30",
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #01",
@@ -1031,7 +1036,8 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749730394
   },
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
@@ -1186,7 +1192,7 @@
     "removed": 1749233402
   },
   {
-    "name": "Sterziks Bahnhofsviertel",
+    "name": "[GER] Sterziks Bahnhofsviertel",
     "addr": "195.82.158.186",
     "port": 21100
   },
@@ -1496,6 +1502,11 @@
     "port": 7777
   },
   {
+    "name": "[13SNC] #6 Dírty's Newbie Hell - Discord.gg/13snc",
+    "addr": "31.56.0.10",
+    "port": 7777
+  },
+  {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
     "addr": "31.56.0.11",
     "port": 7777
@@ -1562,7 +1573,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1592,10 +1603,9 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #1 - Dírty's Heroes - discord.gg/13snc",
+    "name": "[13SNC] #5 Dírty's Newbie Haven - Discord.gg/13SNC",
     "addr": "31.56.0.7",
-    "port": 7787,
-    "removed": 1749366214
+    "port": 7787
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -2067,7 +2077,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ D-Day",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ LVL 25+",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -2339,7 +2349,8 @@
   {
     "name": "5th Ranger Battalion | US East | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 10710
+    "port": 10710,
+    "removed": 1749730394
   },
   {
     "name": "5th Ranger Battalion | Event Server | 5thrb.com",
@@ -2802,7 +2813,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
