@@ -123,8 +123,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1749730394
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -469,12 +468,6 @@
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
-  },
-  {
-    "name": "ITA/ENG =BIA= Clan D-Day Maps Rotation",
-    "addr": "176.57.140.196",
-    "port": 28200,
-    "removed": 1749125618
   },
   {
     "name": "HLL Official - Europe #10",
@@ -1048,12 +1041,6 @@
     "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
     "addr": "192.169.86.51",
     "port": 7777
-  },
-  {
-    "name": "[ITM] In The Mood #1 | Tankers Paradise | Offensive Only",
-    "addr": "192.169.86.51",
-    "port": 7787,
-    "removed": 1749125618
   },
   {
     "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
@@ -2308,7 +2295,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827
+    "port": 7827,
+    "removed": 1749731500
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
