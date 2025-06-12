@@ -321,22 +321,26 @@
   {
     "name": "Turks Let Loose #1 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749732951
   },
   {
     "name": "[TR] TSK Türkiye #2 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
     "addr": "169.150.215.66",
-    "port": 7877
+    "port": 7877,
+    "removed": 1749732951
   },
   {
     "name": "Turks Let Loose #2 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749732951
   },
   {
     "name": "[TR] TSK Türkiye #1 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
     "addr": "169.150.215.70",
-    "port": 7807
+    "port": 7807,
+    "removed": 1749732951
   },
   {
     "name": "Island Hotpot – Warfare 24/7 – US West",
@@ -2295,8 +2299,7 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827,
-    "removed": 1749731500
+    "port": 7827
   },
   {
     "name": "Fire For Effect [FFE] - S1 - New Players Welcome! - FFECREW.COM",
