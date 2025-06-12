@@ -128,7 +128,8 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1749709699
   },
   {
     "name": "BSC v RPK - HBL Event",
@@ -494,7 +495,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600
+    "port": 28600,
+    "removed": 1749709699
   },
   {
     "name": "HLL Official - Europe #15",
@@ -589,7 +591,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1749709699
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -965,8 +968,7 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "188.165.39.157",
-    "port": 7787,
-    "removed": 1749708686
+    "port": 7787
   },
   {
     "name": "The Old Speckled Hen - Blood Sweat & Beers BSB",
