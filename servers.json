@@ -112,8 +112,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1749535866
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -640,8 +639,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1749708686
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -722,8 +720,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1749708686
+    "port": 28000
   },
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
@@ -753,8 +750,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1749708686
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -1019,9 +1015,19 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "192.169.86.211",
+    "port": 7787
+  },
+  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
     "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "192.169.86.213",
+    "port": 7797
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1167,7 +1173,8 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1749795075
   },
   {
     "name": "HLL_nitratest",
@@ -1629,8 +1636,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1749774911
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1908,7 +1914,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#散人猫猫限杀攻防|你的端午要开心哦Q120748151",
+    "name": "CN3#散人猫猫限杀攻防|萌新宝宝巴士乐园Q120748151",
     "addr": "5.56.25.100",
     "port": 7797
   },
@@ -1941,24 +1947,6 @@
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
     "addr": "5.56.25.100",
     "port": 7857
-  },
-  {
-    "name": "ACL轮战训练赛服务器",
-    "addr": "5.56.25.100",
-    "port": 7867,
-    "removed": 1749190245
-  },
-  {
-    "name": "CN放逐/JP/萌新纯冲突服/限杀/Q414805368",
-    "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1749190245
-  },
-  {
-    "name": "CN//<CCG> 柴郡猫猫党卫军 | 曲社 | JP | Q群885187716",
-    "addr": "5.56.25.100",
-    "port": 7887,
-    "removed": 1749190245
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2071,7 +2059,7 @@
     "port": 7817
   },
   {
-    "name": "Bob The Builder OFFICIAL FARM discord.gg/btb patreon.com/hllbtb",
+    "name": "Bob The Builder OFFICIAL XP BOOSTING FARM FASTXP discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
   },
