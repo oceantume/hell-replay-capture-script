@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Vote Map Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1749755063
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -196,6 +195,11 @@
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
     "port": 29000
+  },
+  {
+    "name": "Axethebot",
+    "addr": "144.126.153.213",
+    "port": 29100
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -476,7 +480,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749774911
   },
   {
     "name": "HLL Official - Europe #04",
@@ -959,7 +964,7 @@
     "port": 7787
   },
   {
-    "name": "The Old Speckled Hen - Blood Sweat & Beers BSB",
+    "name": "EU | Official #1 | Blood Sweat & Beers BSB",
     "addr": "188.165.39.157",
     "port": 7797
   },
@@ -1482,7 +1487,7 @@
     "port": 7777
   },
   {
-    "name": "⑦︱THE CIRCLE #7︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
+    "name": "⑦︱THE CIRCLE #7︱OFFENSIVE︱FREE WEEKEND︱DISCORD.GG/THE",
     "addr": "31.56.0.10",
     "port": 7777
   },
@@ -1538,7 +1543,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1553,7 +1558,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1625,7 +1630,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749774911
   },
   {
     "name": "HLL Official - US West #02",
@@ -1983,8 +1989,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1749755063
+    "port": 9620
   },
   {
     "name": "Moon",
@@ -2514,7 +2519,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749774911
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2771,7 +2777,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
