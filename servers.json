@@ -122,7 +122,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749862978
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -2851,12 +2852,6 @@
     "name": "US WEST | Blood Buckets",
     "addr": "94.250.218.33",
     "port": 28000
-  },
-  {
-    "name": "Band of Roleplayers",
-    "addr": "94.250.218.33",
-    "port": 28100,
-    "removed": 1749256471
   },
   {
     "name": "HLL Official - Australia #04",
