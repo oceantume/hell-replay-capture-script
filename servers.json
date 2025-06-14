@@ -472,7 +472,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749904129
   },
   {
     "name": "HLL Official - Europe #04",
