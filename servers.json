@@ -472,8 +472,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100,
-    "removed": 1749904129
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #04",
@@ -779,7 +778,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749905476
   },
   {
     "name": "HLL Official - UK #01",
