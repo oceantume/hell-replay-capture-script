@@ -122,8 +122,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1749862978
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -421,7 +420,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1749881365
   },
   {
     "name": "HLL Official - Europe #07",
@@ -456,7 +456,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749881365
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -798,7 +799,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749881365
   },
   {
     "name": "QA Testing - EU #05",
@@ -2057,7 +2059,7 @@
     "port": 7777
   },
   {
-    "name": "Bob The Builder OFFICIAL XP BOOSTING FARM FASTXP discord.gg/btb",
+    "name": "Bob The Builder OFFICIAL FARM patreon.com/hllbtb discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
   },
