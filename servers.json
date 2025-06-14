@@ -451,8 +451,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1749881365
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -681,7 +680,7 @@
     "port": 28000
   },
   {
-    "name": "Lazarus-TP Event Server !!!",
+    "name": "Team Paranoid | EU/ENG",
     "addr": "176.57.171.161",
     "port": 28100
   },
@@ -963,7 +962,7 @@
     "port": 7817
   },
   {
-    "name": "[FR/BE] 7ème Compagnie #1 - discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "188.165.39.157",
     "port": 7877
   },
@@ -1157,6 +1156,11 @@
     "port": 7777
   },
   {
+    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
+    "addr": "193.160.23.18",
+    "port": 7777
+  },
+  {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
     "port": 28000
@@ -1174,7 +1178,8 @@
   {
     "name": "[FR/BE] 7ème Compagnie #2 - discord.gg/7eCie",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1749924512
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
@@ -1546,7 +1551,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1561,7 +1566,7 @@
     "port": 7797
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1871,7 +1876,7 @@
     "port": 7817
   },
   {
-    "name": "[FR/BE] 7ème Compagnie #3 - discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "46.105.223.204",
     "port": 7877
   },
@@ -2071,7 +2076,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc]iless Event Server",
+    "name": "TTG2.0 Hosted by Merc | CL vs ROTN",
     "addr": "63.143.62.93",
     "port": 7797
   },
@@ -2479,7 +2484,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749924512
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2499,8 +2505,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1749838199
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2698,7 +2703,7 @@
     "port": 7807
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2860,7 +2865,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1749924512
   },
   {
     "name": "HLL Official - Australia #01",
