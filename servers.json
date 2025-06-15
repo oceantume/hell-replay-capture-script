@@ -97,7 +97,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1749967801
   },
   {
     "name": "HLL Official - Russia #02",
@@ -157,7 +158,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787
+    "port": 7787,
+    "removed": 1749967801
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -415,8 +417,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1749881365
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -577,7 +578,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1749967801
   },
   {
     "name": "Team17 CERT",
@@ -794,8 +796,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1749881365
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1168,6 +1169,11 @@
     "port": 7777
   },
   {
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
+    "addr": "193.160.23.20",
+    "port": 7777
+  },
+  {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
     "port": 28000
@@ -1422,7 +1428,8 @@
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
     "addr": "216.144.245.82",
-    "port": 7797
+    "port": 7797,
+    "removed": 1749967801
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1544,6 +1551,11 @@
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
     "port": 7777
+  },
+  {
+    "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
+    "addr": "31.56.0.18",
+    "port": 7797
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
@@ -1872,7 +1884,7 @@
     "port": 7817
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
+    "name": "7e Compagnie #3 - CHANGEMENT DE SERV, REMETTEZ EN FAVORI",
     "addr": "46.105.223.204",
     "port": 7877
   },
@@ -2201,7 +2213,8 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1749967801
   },
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
