@@ -87,8 +87,7 @@
   {
     "name": "[.PT] - EU Official UTC Server",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1749971015
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -159,8 +158,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787,
-    "removed": 1749967801
+    "port": 7787
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -228,10 +226,9 @@
     "port": 9075
   },
   {
-    "name": "The Coalition PH | Asian League #1 | discord.gg/thecoalition",
+    "name": "The Coalition PH | Map Voting [ENG] | discord.gg/thecoalition",
     "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1749971015
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -343,7 +340,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1749989519
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -514,8 +512,7 @@
   {
     "name": "ZPR vs. 106 - Friendly Match",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1749971015
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -686,7 +683,7 @@
     "port": 28000
   },
   {
-    "name": "Team Paranoid | EU/ENG",
+    "name": "KL-TP Event Server",
     "addr": "176.57.171.161",
     "port": 28100
   },
@@ -783,8 +780,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1749971015
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -941,8 +937,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1749971015
+    "port": 8530
   },
   {
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
@@ -1131,8 +1126,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1749971015
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1180,6 +1174,16 @@
     "port": 7777
   },
   {
+    "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
+    "addr": "193.160.23.21",
+    "port": 7777
+  },
+  {
+    "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT PELLES ET SATCHELS",
+    "addr": "193.160.23.22",
+    "port": 7777
+  },
+  {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
     "port": 28000
@@ -1218,11 +1222,10 @@
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1749971015
+    "port": 9620
   },
   {
-    "name": "#1 | Danmark | Europe | all US and German maps | www.hellletloo",
+    "name": "#1 | Danmark | Europe | www.hll-clan.dk | all US and German map",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1394,8 +1397,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1749971015
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1528,8 +1530,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1749971015
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1554,8 +1555,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1749971015
+    "port": 7787
   },
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
@@ -1584,7 +1584,7 @@
     "removed": 1749947959
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1801,7 +1801,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1749989519
   },
   {
     "name": "HLL Official - US East #15",
@@ -1941,8 +1942,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7807,
-    "removed": 1749971015
+    "port": 7807
   },
   {
     "name": "GTZ战术大队跑图服",
@@ -1970,6 +1970,11 @@
     "port": 7857
   },
   {
+    "name": "<CN2>牢逼登吃D窝二服/JP节点/萌新进阶/Q:882377564",
+    "addr": "5.56.25.100",
+    "port": 7867
+  },
+  {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
     "port": 7897
@@ -1980,7 +1985,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』丨绝对の低压服丨q665327895",
+    "name": "丨Nexus丨『水晶枢纽』低压CNC☆RAq665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2127,8 +2132,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1749971015
+    "port": 8530
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -2263,12 +2267,6 @@
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
-  },
-  {
-    "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
-    "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1749384703
   },
   {
     "name": "Dark Horizon US 1 | We Support Small Communities",
@@ -2657,10 +2655,9 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP北极星萌新服务器Q群：1018176083",
+    "name": "1CN#瓦学弟萌新进阶(纯攻防)Q群：979552783",
     "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1749557644
+    "port": 7777
   },
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
