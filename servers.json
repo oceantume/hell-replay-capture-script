@@ -340,8 +340,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1749989519
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -2052,7 +2051,8 @@
   {
     "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "51.91.214.94",
-    "port": 9620
+    "port": 9620,
+    "removed": 1749991929
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
