@@ -799,7 +799,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750076024
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -1209,7 +1210,7 @@
     "port": 20800
   },
   {
-    "name": "[GER] Sterziks Bahnhofsviertel",
+    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
     "port": 21100
   },
@@ -1588,7 +1589,7 @@
     "removed": 1749947959
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1660,7 +1661,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750076024
   },
   {
     "name": "HLL Official - US West #02",
@@ -1800,13 +1802,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1750076024
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1749989519
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #15",
@@ -1826,7 +1828,8 @@
   {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.85",
-    "port": 28400
+    "port": 28400,
+    "removed": 1750076024
   },
   {
     "name": "HLL Official - US East #02",
@@ -2739,7 +2742,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
