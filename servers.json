@@ -97,8 +97,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1749967801
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -113,7 +112,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1750054317
   },
   {
     "name": "What can I say",
@@ -207,7 +207,7 @@
     "port": 8772
   },
   {
-    "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/3UZFnNCYE",
+    "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/smqTgeWR2",
     "addr": "145.239.253.127",
     "port": 9014
   },
@@ -477,7 +477,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750054317
   },
   {
     "name": "HLL Official - Europe #02",
@@ -669,7 +670,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750054317
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -734,7 +736,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1750054317
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -790,7 +793,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750054317
   },
   {
     "name": "QA Testing - EU #05",
@@ -1173,7 +1177,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT PELLES ET SATCHELS",
+    "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -2502,6 +2506,11 @@
     "removed": 1749665414
   },
   {
+    "name": "<cn>EROS狗叫天堂HK QQ686886842",
+    "addr": "83.223.197.41",
+    "port": 33000
+  },
+  {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
     "port": 28000,
@@ -2564,6 +2573,11 @@
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
+  },
+  {
+    "name": "KBBC",
+    "addr": "83.223.207.55",
+    "port": 28000
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
@@ -2658,7 +2672,7 @@
     "port": 28600
   },
   {
-    "name": "1CN#瓦学弟萌新进阶(纯攻防)Q群：979552783",
+    "name": "<CN>#1 瓦学弟萌新进阶(纯攻防)Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
