@@ -536,6 +536,11 @@
     "port": 28100
   },
   {
+    "name": "Wolfis Zockerstube",
+    "addr": "176.57.168.252",
+    "port": 28000
+  },
+  {
     "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
     "port": 28100
@@ -670,8 +675,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1750054317
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -679,7 +683,7 @@
     "port": 28000
   },
   {
-    "name": "KL-TP Event Server",
+    "name": "TP | Team Paranoid | EU/ENG",
     "addr": "176.57.171.161",
     "port": 28100
   },
@@ -736,8 +740,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1750054317
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -1012,8 +1015,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1749903082
+    "port": 7787
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1023,8 +1025,7 @@
   {
     "name": "hll Server",
     "addr": "192.169.86.213",
-    "port": 7797,
-    "removed": 1749903082
+    "port": 7797
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1275,6 +1276,11 @@
     "port": 8888
   },
   {
+    "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
+    "addr": "206.53.0.10",
+    "port": 7797
+  },
+  {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
     "addr": "208.115.206.195",
     "port": 7777
@@ -1300,7 +1306,7 @@
     "port": 7777
   },
   {
-    "name": "Server 2",
+    "name": "! ! !OINK 5 KAMPFSCHWEINE | ENDGAME | QS | GER",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1528,7 +1534,7 @@
     "port": 7797
   },
   {
-    "name": "Server 1",
+    "name": "! ! !OINK 4 KAMPFSCHWEINE | BALLERBUDE | QS | GER",
     "addr": "31.56.0.13",
     "port": 7777
   },
@@ -1573,7 +1579,7 @@
     "port": 7797
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1606,7 +1612,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "31.56.0.33",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750097418
   },
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
@@ -2048,7 +2055,7 @@
     "port": 11255
   },
   {
-    "name": "[LL] Lost Legion | [1stA] 1st Airborne | lostlegion.eu",
+    "name": "EU/ENG | [LL] Lost Legion | [1stA] 1st Airborne | lostlegion.eu",
     "addr": "51.89.42.34",
     "port": 8530
   },
@@ -2106,17 +2113,20 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "63.143.62.101",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750097418
   },
   {
     "name": "TTG2.0 Hosted by Merc | VNGD vs MERC",
     "addr": "63.143.62.93",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750097418
   },
   {
     "name": "Radical Gaming :: Los Angeles :: Powered by Qonzer.com",
     "addr": "63.143.62.99",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750097418
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
@@ -2238,8 +2248,7 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
-    "port": 7777,
-    "removed": 1749967801
+    "port": 7777
   },
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
@@ -2276,6 +2285,11 @@
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
+  },
+  {
+    "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
+    "addr": "64.31.61.92",
+    "port": 7777
   },
   {
     "name": "Dark Horizon US 1 | We Support Small Communities",
@@ -2539,8 +2553,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1750010943
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2743,7 +2756,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
