@@ -448,8 +448,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1750140665
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -608,7 +607,8 @@
   {
     "name": "[3IRD] Ukrainian Training Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750183815
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -947,8 +947,7 @@
   {
     "name": "#02 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
-    "port": 7777,
-    "removed": 1750143392
+    "port": 7777
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1572,7 +1571,7 @@
     "port": 7797
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1896,8 +1895,7 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "46.105.223.204",
-    "port": 7807,
-    "removed": 1750162434
+    "port": 7807
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -2154,12 +2152,6 @@
     "port": 11800
   },
   {
-    "name": "вит | Bad Intentions - Event [US EAST]",
-    "addr": "64.31.16.186",
-    "port": 7777,
-    "removed": 1749579009
-  },
-  {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
     "port": 7777
@@ -2402,12 +2394,6 @@
     "port": 9620
   },
   {
-    "name": "[SWE/ENG] Unrelenting War",
-    "addr": "79.137.89.136",
-    "port": 8530,
-    "removed": 1749579009
-  },
-  {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "79.141.174.122",
     "port": 8530
@@ -2455,7 +2441,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750183815
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2531,8 +2518,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
-    "port": 28000,
-    "removed": 1749924512
+    "port": 28000
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2553,7 +2539,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750183815
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2744,7 +2731,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2907,8 +2894,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1749924512
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
