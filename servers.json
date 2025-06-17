@@ -1667,7 +1667,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1750166287
   },
   {
     "name": "HLL Official - US West #01",
@@ -1742,8 +1743,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1750079911
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #12",
