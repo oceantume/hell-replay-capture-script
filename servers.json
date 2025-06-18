@@ -97,8 +97,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1750140665
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -281,7 +280,8 @@
   {
     "name": "[CN]Nya~柔情猫娘闪耀时#萌新进阶#港服Q:500001820",
     "addr": "156.146.44.225",
-    "port": 7847
+    "port": 7847,
+    "removed": 1750227067
   },
   {
     "name": "Reclaimer training server",
@@ -417,8 +417,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1750140665
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -453,8 +452,7 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1750140665
+    "port": 30700
   },
   {
     "name": "Warfrags Studios",
@@ -638,8 +636,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1750140665
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -674,7 +671,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750227067
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -847,7 +845,8 @@
   {
     "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
     "addr": "178.249.213.214",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750227067
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -857,7 +856,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1750227067
   },
   {
     "name": "シ MARRAM #1 - discord.gg/marram - vip.marram.com.br",
@@ -1114,7 +1114,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1750227067
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1234,7 +1235,7 @@
     "port": 9620
   },
   {
-    "name": "#1 | Danmark | Europe | www.hll-clan.dk | all US and German map",
+    "name": "#1 | Danmark | Europe | www.hll-clan.dk | all maps",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1341,7 +1342,8 @@
   {
     "name": "[GER] {WoA} Asgard Events",
     "addr": "208.115.206.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750227067
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -2597,7 +2599,8 @@
   {
     "name": "KBBC",
     "addr": "83.223.207.55",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750227067
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
