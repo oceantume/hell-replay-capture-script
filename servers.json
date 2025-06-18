@@ -676,8 +676,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1750227067
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1114,14 +1113,12 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1750227067
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620,
-    "removed": 1750249943
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1132,8 +1129,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1750230541
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1586,7 +1582,7 @@
     "port": 7797
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2027,6 +2023,11 @@
     "port": 9620
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "51.195.170.105",
+    "port": 8530
+  },
+  {
     "name": "Moon",
     "addr": "51.75.58.123",
     "port": 7777
@@ -2212,7 +2213,7 @@
     "port": 7777
   },
   {
-    "name": "[EUIGHOST REGIMENT|New Player Training 50v50| offensive",
+    "name": "HLL Official - Europe #25",
     "addr": "64.31.29.67",
     "port": 7777
   },
@@ -2464,8 +2465,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1750183815
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2562,8 +2562,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1750183815
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2589,6 +2588,11 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
+  },
+  {
+    "name": "11th Mountain: Special Needs Detachment- Duuuur",
+    "addr": "83.223.203.51",
+    "port": 28400
   },
   {
     "name": "German High Command 130th PLD (US-Mid)",
@@ -2621,6 +2625,11 @@
     "name": "Durty Dozen",
     "addr": "83.223.207.55",
     "port": 28700
+  },
+  {
+    "name": "hll Server",
+    "addr": "85.208.197.66",
+    "port": 7797
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
@@ -2696,7 +2705,8 @@
   {
     "name": "<CN>HK#1 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "89.46.1.190",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750270208
   },
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
@@ -2741,7 +2751,8 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750270208
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2760,7 +2771,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2797,7 +2808,8 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750270208
   },
   {
     "name": "Excel Spreadsheets",
@@ -2928,7 +2940,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750270208
   },
   {
     "name": "HLL Official - Australia #03",
