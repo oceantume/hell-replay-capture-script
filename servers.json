@@ -702,6 +702,11 @@
     "port": 28300
   },
   {
+    "name": "[GER] | StammKneipe | Anfänger Freundlich",
+    "addr": "176.57.171.44",
+    "port": 28200
+  },
+  {
     "name": "Churchill Knife & Shovel rumble",
     "addr": "176.57.171.44",
     "port": 28400
@@ -1137,7 +1142,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1147,7 +1152,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1206,14 +1211,12 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800,
-    "removed": 1750187164
+    "port": 20800
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
-    "port": 21100,
-    "removed": 1750187164
+    "port": 21100
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1279,6 +1282,16 @@
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "206.53.0.10",
     "port": 7797
+  },
+  {
+    "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
+    "addr": "206.53.0.13",
+    "port": 7777
+  },
+  {
+    "name": "The DRAFT | Test Server",
+    "addr": "206.53.0.13",
+    "port": 7787
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
@@ -1484,12 +1497,14 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "23.142.25.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750206894
   },
   {
     "name": "The DRAFT | Test Server",
     "addr": "23.142.25.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750206894
   },
   {
     "name": "ROAD TO D-DAY PC 1 | BR1GAMING / Qonzer",
@@ -1523,7 +1538,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1533,7 +1548,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1558,7 +1573,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1573,7 +1588,7 @@
     "port": 7797
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1589,7 +1604,7 @@
     "removed": 1749947959
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2252,8 +2267,7 @@
   {
     "name": "[Merc] US West #4 | Warfare | discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7777,
-    "removed": 1749708686
+    "port": 7777
   },
   {
     "name": "[Merc] Event Server | US West",
@@ -2733,7 +2747,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
