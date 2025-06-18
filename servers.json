@@ -1681,8 +1681,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1750166287
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -2738,6 +2737,11 @@
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.213.42.119",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
