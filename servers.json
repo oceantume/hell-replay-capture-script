@@ -476,7 +476,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750313466
   },
   {
     "name": "HLL Dev Team",
@@ -557,8 +558,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1750140665
+    "port": 28000
   },
   {
     "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
@@ -760,7 +760,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750313466
   },
   {
     "name": "HLL Official - Europe #18",
@@ -1585,8 +1586,7 @@
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
-    "port": 7777,
-    "removed": 1750295116
+    "port": 7777
   },
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
@@ -1969,7 +1969,8 @@
   {
     "name": "CN3#散人猫猫限杀攻防|萌新宝宝巴士乐园Q120748151",
     "addr": "5.56.25.100",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750313466
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
@@ -1994,7 +1995,8 @@
   {
     "name": "CN4#散人猫猫冷门图哦|你的端午要快乐哦Q120748151",
     "addr": "5.56.25.100",
-    "port": 7847
+    "port": 7847,
+    "removed": 1750313466
   },
   {
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
@@ -2004,7 +2006,8 @@
   {
     "name": "<CN2>牢逼登吃D窝二服/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7867
+    "port": 7867,
+    "removed": 1750313466
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2227,10 +2230,9 @@
     "port": 7777
   },
   {
-    "name": "HLL Official - Europe #25",
+    "name": "【EU】| GHOST REGIMENT New Player Training 50v50 | offensive",
     "addr": "64.31.29.67",
-    "port": 7777,
-    "removed": 1750295116
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
