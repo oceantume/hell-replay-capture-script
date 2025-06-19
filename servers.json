@@ -919,8 +919,7 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
-    "port": 7827,
-    "removed": 1750293320
+    "port": 7827
   },
   {
     "name": "[LATAM/ESP] │ CLAN ÆSIR │ n9.cl/clanaesir",
@@ -1118,8 +1117,7 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1750248823
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1299,6 +1297,11 @@
     "port": 7777
   },
   {
+    "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
+    "addr": "206.53.0.19",
+    "port": 7777
+  },
+  {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
     "addr": "208.115.206.195",
     "port": 7777
@@ -1467,7 +1470,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1750295116
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -1581,12 +1585,14 @@
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750295116
   },
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
     "addr": "31.56.0.18",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750295116
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
@@ -2223,7 +2229,8 @@
   {
     "name": "HLL Official - Europe #25",
     "addr": "64.31.29.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750295116
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2541,12 +2548,6 @@
     "name": "11th Mountain: Special Needs Detachment- Duuuur",
     "addr": "83.223.203.51",
     "port": 28400
-  },
-  {
-    "name": "German High Command 130th PLD (US-Mid)",
-    "addr": "83.223.207.50",
-    "port": 28000,
-    "removed": 1749690266
   },
   {
     "name": "Test",
