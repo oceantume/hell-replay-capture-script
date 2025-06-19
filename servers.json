@@ -25,6 +25,11 @@
     "port": 8530
   },
   {
+    "name": "Map tech",
+    "addr": "103.193.80.57",
+    "port": 8530
+  },
+  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -1705,7 +1710,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1750339013
   },
   {
     "name": "HLL Official - US West #01",
@@ -2717,8 +2723,7 @@
   {
     "name": "HLL Server",
     "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1750270208
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
