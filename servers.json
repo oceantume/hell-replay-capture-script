@@ -493,8 +493,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600,
-    "removed": 1750400873
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #15",
@@ -1991,7 +1990,8 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750401886
   },
   {
     "name": "GTZ战术大队跑图服",
