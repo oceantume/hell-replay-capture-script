@@ -15,7 +15,7 @@
     "port": 8530
   },
   {
-    "name": "Old School Australia",
+    "name": "AAA #1 Old School Gaming",
     "addr": "103.193.80.146",
     "port": 9075
   },
@@ -27,7 +27,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.171",
-    "port": 8530
+    "port": 8530,
+    "removed": 1750399868
   },
   {
     "name": "Map tech",
@@ -108,7 +109,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750399868
   },
   {
     "name": "HLL Official - Russia #02",
@@ -118,7 +120,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1750399868
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -255,14 +258,12 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
     "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1750381495
+    "port": 7777
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7787,
-    "removed": 1750381495
+    "port": 7787
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部(攻防/冲突)Q群:797464980",
@@ -489,8 +490,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1750313466
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -773,8 +773,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1750313466
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #18",
@@ -857,7 +856,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "178.249.213.79",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750399868
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1296,6 +1296,11 @@
     "port": 7797
   },
   {
+    "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
+    "addr": "206.53.0.11",
+    "port": 7777
+  },
+  {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
     "port": 7777
@@ -1544,7 +1549,8 @@
   {
     "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
     "addr": "23.142.25.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750399868
   },
   {
     "name": "⑦︱THE CIRCLE #7︱OFFENSIVE︱FREE WEEKEND︱DISCORD.GG/THE",
@@ -1919,7 +1925,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN",
+    "name": "Greyhounds Grill & Kill",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -2221,6 +2227,11 @@
     "removed": 1749903082
   },
   {
+    "name": "[TOG] The Old Guard Official HLL Server [VA]",
+    "addr": "64.31.2.221",
+    "port": 7787
+  },
+  {
     "name": "BadgerGrounds - West Mongolia",
     "addr": "64.31.28.82",
     "port": 7777
@@ -2256,6 +2267,11 @@
     "port": 7777
   },
   {
+    "name": "Chimera | Japan | discord.gg/CHMA",
+    "addr": "64.31.32.211",
+    "port": 7777
+  },
+  {
     "name": "Radical Gaming :: Miami2 :: Powered by Qonzer.com",
     "addr": "64.31.40.202",
     "port": 7777
@@ -2276,7 +2292,7 @@
     "port": 7777
   },
   {
-    "name": "NEW PLAYER PARADISE | Enhance your HLL experience",
+    "name": "NEW PLAYER PARADISE | Enhance your HLL experience | Bad Intenti",
     "addr": "64.31.58.62",
     "port": 7777
   },
@@ -2621,7 +2637,8 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750399868
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
@@ -2681,7 +2698,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/假期快乐/中考加油/Q:1034621661",
+    "name": "<CN>BW黑色守望/假期快乐/金榜题名Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7797
   },
