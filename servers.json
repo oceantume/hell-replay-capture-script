@@ -27,8 +27,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.171",
-    "port": 8530,
-    "removed": 1750399868
+    "port": 8530
   },
   {
     "name": "Map tech",
@@ -120,8 +119,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1750399868
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -495,7 +493,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600
+    "port": 28600,
+    "removed": 1750400873
   },
   {
     "name": "HLL Official - Europe #15",
