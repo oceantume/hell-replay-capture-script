@@ -1713,8 +1713,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1750339013
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1998,7 +1997,8 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750425371
   },
   {
     "name": "GTZ战术大队跑图服",
@@ -2275,8 +2275,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.211",
-    "port": 7777,
-    "removed": 1750424154
+    "port": 7777
   },
   {
     "name": "Radical Gaming :: Miami2 :: Powered by Qonzer.com",
@@ -2381,7 +2380,8 @@
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1750425371
   },
   {
     "name": "Machine Soldiers Event Server | US EAST",
