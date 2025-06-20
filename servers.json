@@ -255,12 +255,14 @@
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
     "addr": "156.146.44.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750381495
   },
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750381495
   },
   {
     "name": "<CN>#5 TT天堂萌新俱乐部(攻防/冲突)Q群:797464980",
@@ -1536,7 +1538,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "23.142.25.6",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750381495
   },
   {
     "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
