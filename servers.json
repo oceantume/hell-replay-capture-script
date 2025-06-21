@@ -1196,10 +1196,9 @@
     "removed": 1750034213
   },
   {
-    "name": "[FR/BE] 7ème Compagnie #2 - discord.gg/7eCie",
-    "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1749924512
+    "name": "RODENTS FIRST",
+    "addr": "194.140.198.168",
+    "port": 37300
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
@@ -1374,7 +1373,8 @@
   {
     "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "208.115.214.218",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750529330
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1620,7 +1620,7 @@
     "removed": 1750295116
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1945,7 +1945,8 @@
   {
     "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "46.105.223.204",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750529330
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -2033,8 +2034,7 @@
   {
     "name": "<CN>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7867,
-    "removed": 1750511247
+    "port": 7867
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2047,7 +2047,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』☆恒温☆665327895",
+    "name": "丨Nexus丨『水晶枢纽』☆薯条班☆665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2140,26 +2140,22 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "57.128.229.70",
-    "port": 7777,
-    "removed": 1750508939
+    "port": 7777
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787,
-    "removed": 1750508939
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ LVL 25+",
     "addr": "57.128.229.70",
-    "port": 7807,
-    "removed": 1750508939
+    "port": 7807
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
-    "port": 7817,
-    "removed": 1750508939
+    "port": 7817
   },
   {
     "name": "BR1 Gaming (Chicago) -- discord.gg/br1",
@@ -2280,9 +2276,20 @@
     "port": 7777
   },
   {
+    "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "64.31.4.170",
+    "port": 7777
+  },
+  {
+    "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "64.31.4.170",
+    "port": 7807
+  },
+  {
     "name": "Radical Gaming :: Miami2 :: Powered by Qonzer.com",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750529330
   },
   {
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
@@ -2295,7 +2302,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US East #2 | All Welcome | Offensive | discord.gg/m3rc",
+    "name": "TTG 2.0 hosted by Merciless | 7th vs ROTN",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -2720,7 +2727,7 @@
     "port": 7817
   },
   {
-    "name": "CN|JP|GR萌新服务器|QQ：936845068",
+    "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "89.46.1.190",
     "port": 7827
   },
@@ -2762,7 +2769,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
