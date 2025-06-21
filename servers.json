@@ -1198,7 +1198,8 @@
   {
     "name": "RODENTS FIRST",
     "addr": "194.140.198.168",
-    "port": 37300
+    "port": 37300,
+    "removed": 1750530253
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
@@ -2288,8 +2289,7 @@
   {
     "name": "Radical Gaming :: Miami2 :: Powered by Qonzer.com",
     "addr": "64.31.40.202",
-    "port": 7777,
-    "removed": 1750529330
+    "port": 7777
   },
   {
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
