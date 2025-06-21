@@ -98,8 +98,7 @@
   {
     "name": "[.PT] - EU Official UTC Server",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1750489409
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -241,8 +240,7 @@
   {
     "name": "The Coalition PH | Map Voting [ENG] | discord.gg/thecoalition",
     "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1750489409
+    "port": 8530
   },
   {
     "name": "[FR] Mercenaires [MCNR]",
@@ -272,7 +270,8 @@
   {
     "name": "<CN>HK#1 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "156.146.44.225",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750507890
   },
   {
     "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
@@ -341,15 +340,10 @@
     "port": 7787
   },
   {
-    "name": "[TR] TSK Türkiye #1 | ELO SİSTEMİ - TSKHLL.COM | Turkish",
-    "addr": "169.150.215.70",
-    "port": 7807,
-    "removed": 1749903082
-  },
-  {
     "name": "Island Hotpot – Warfare 24/7 – US West",
     "addr": "172.240.21.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750507890
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -520,8 +514,7 @@
   {
     "name": "ZPR vs. 106 - Friendly Match",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1750489409
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -544,7 +537,7 @@
     "port": 28100
   },
   {
-    "name": "Wolfis Zockerstube",
+    "name": "[GER] Werwolf383 - Streamerfreundlich - keine Regeln, einfach S",
     "addr": "176.57.168.252",
     "port": 28000
   },
@@ -712,7 +705,7 @@
     "port": 28300
   },
   {
-    "name": "[GER] | StammKneipe | Anfänger Freundlich",
+    "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
     "addr": "176.57.171.44",
     "port": 28200
   },
@@ -794,8 +787,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1750489409
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -950,8 +942,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1750489409
+    "port": 8530
   },
   {
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
@@ -1051,12 +1042,6 @@
     "addr": "192.169.86.51",
     "port": 7777,
     "removed": 1750335212
-  },
-  {
-    "name": "[ORDO] U.S. EAST .gg/crusader (VoteMap)",
-    "addr": "192.169.86.53",
-    "port": 7787,
-    "removed": 1749903082
   },
   {
     "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
@@ -1243,8 +1228,7 @@
   {
     "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1750489409
+    "port": 9620
   },
   {
     "name": "#1 | Danmark | Europe | www.hll-clan.dk | all maps",
@@ -1464,8 +1448,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1750489409
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1597,8 +1580,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1750489409
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1623,8 +1605,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1750489409
+    "port": 7787
   },
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
@@ -1654,7 +1635,7 @@
     "removed": 1749947959
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1856,8 +1837,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1750421598
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #13",
@@ -1872,7 +1852,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1750507890
   },
   {
     "name": "HLL Official - US East #06",
@@ -1892,8 +1873,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1750421598
+    "port": 28200
   },
   {
     "name": "QA Testing - US West #09",
@@ -1904,8 +1884,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700,
-    "removed": 1750421598
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #09",
@@ -2237,8 +2216,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1750489409
+    "port": 8530
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -2249,12 +2227,6 @@
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
     "port": 7777
-  },
-  {
-    "name": "△ The Motor Pool | New Player Friendly",
-    "addr": "64.31.2.218",
-    "port": 7777,
-    "removed": 1749903082
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -2717,7 +2689,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>HK#2 瓦学弟萌新进阶（纯冲突）Q群：979552783",
+    "name": "<CN>JP#2 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2784,7 +2756,7 @@
     "removed": 1750010943
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2878,7 +2850,8 @@
   {
     "name": "Department of Offense",
     "addr": "92.118.19.76",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750507890
   },
   {
     "name": "MEXICO LATAM ESP OGT",
