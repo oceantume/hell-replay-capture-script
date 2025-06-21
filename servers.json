@@ -108,8 +108,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1750399868
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -483,7 +482,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750486193
   },
   {
     "name": "HLL Official - Europe #02",
@@ -645,7 +645,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1750486193
   },
   {
     "name": "QA Testing - EU #04",
@@ -800,7 +801,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750486193
   },
   {
     "name": "QA Testing - EU #05",
@@ -1489,6 +1491,11 @@
     "port": 7777
   },
   {
+    "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
+    "addr": "209.192.185.50",
+    "port": 7787
+  },
+  {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
     "addr": "216.144.245.82",
     "port": 7797,
@@ -1667,7 +1674,8 @@
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750486193
   },
   {
     "name": "[13SNC] #5 Dírty's Newbie Haven - Discord.gg/13SNC",
@@ -2049,7 +2057,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』低压CNC☆RAq665327895",
+    "name": "丨Nexus丨『水晶枢纽』☆恒温☆665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2699,10 +2707,9 @@
     "port": 28600
   },
   {
-    "name": "<CN>HK#1 瓦学弟萌新进阶（纯攻防）Q群：979552783",
+    "name": "<CN>HK#2 瓦学弟萌新进阶（纯冲突）Q群：979552783",
     "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1750270208
+    "port": 7777
   },
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
