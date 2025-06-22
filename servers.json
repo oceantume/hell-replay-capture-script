@@ -1142,12 +1142,12 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ SEED 2.0.15644 Bêta 1.0",
     "addr": "193.160.23.19",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie-",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
   },
@@ -2106,7 +2106,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620
+    "port": 9620,
+    "removed": 1750596703
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
