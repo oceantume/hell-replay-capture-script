@@ -714,7 +714,8 @@
   {
     "name": "[PKKA]-Event Server - discord.gg/PKKA",
     "addr": "176.57.171.7",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750615758
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -988,7 +989,7 @@
     "port": 7777
   },
   {
-    "name": "※ GLORY ETERNAL ※",
+    "name": "※ GLORY ETERNAL ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1103,8 +1104,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1750575856
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1142,19 +1142,20 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ SEED 2.0.15644 Bêta 1.0",
+    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750615758
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
@@ -1425,7 +1426,7 @@
     "port": 7777
   },
   {
-    "name": "331 | Jungle Fight Club - Discord.gg/331st",
+    "name": "Ballroom Blitz - Arena #3",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1603,7 +1604,7 @@
     "removed": 1750295116
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1978,8 +1979,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7807,
-    "removed": 1750425371
+    "port": 7807
   },
   {
     "name": "GTZ战术大队跑图服",
@@ -2010,7 +2010,8 @@
   {
     "name": "<CN>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7867
+    "port": 7867,
+    "removed": 1750615758
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2023,7 +2024,7 @@
     "port": 7907
   },
   {
-    "name": "丨Nexus丨『水晶枢纽』☆薯条班☆665327895",
+    "name": "CN丨Nexus『水晶枢纽』☆薯薯班☆665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2100,8 +2101,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "54.36.126.47",
-    "port": 9620,
-    "removed": 1750596703
+    "port": 9620
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
@@ -2479,8 +2479,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1750442991
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #14",
@@ -2510,7 +2509,13 @@
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
     "addr": "83.223.197.41",
-    "port": 33000
+    "port": 33000,
+    "removed": 1750615758
+  },
+  {
+    "name": "<cn>EROS狗叫天堂HK QQ686886842",
+    "addr": "83.223.197.42",
+    "port": 28900
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2672,7 +2677,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
+    "name": "<CN>JP#1 瓦学弟萌新进阶（纯冲突）Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2733,13 +2738,7 @@
     "port": 7797
   },
   {
-    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
-    "addr": "91.134.56.12",
-    "port": 7807,
-    "removed": 1750010943
-  },
-  {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
