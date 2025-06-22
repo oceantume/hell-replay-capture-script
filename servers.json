@@ -552,12 +552,6 @@
     "port": 28000
   },
   {
-    "name": "Dutch Let Loose #3 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
-    "addr": "176.57.168.253",
-    "port": 28100,
-    "removed": 1749947959
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding",
     "addr": "176.57.168.253",
     "port": 28200
@@ -810,12 +804,6 @@
     "name": "[VS-UK] HLL UK server - All welcome",
     "addr": "176.57.178.44",
     "port": 28000
-  },
-  {
-    "name": "Dutch Let Loose #4 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
-    "addr": "176.57.178.44",
-    "port": 28100,
-    "removed": 1749947959
   },
   {
     "name": "CZ/SK",
@@ -1631,12 +1619,6 @@
     "port": 7787
   },
   {
-    "name": "[FR] ★ 7ème Compagnie ★ ÉVENT - discord/7eCie",
-    "addr": "31.56.0.20",
-    "port": 7797,
-    "removed": 1749947959
-  },
-  {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
@@ -2342,10 +2324,9 @@
     "port": 7777
   },
   {
-    "name": "TTG 2.0 hosted by Merciless || MIB vs Merc",
+    "name": "[Merc] West Event Server | discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7797,
-    "removed": 1750552743
+    "port": 7797
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
@@ -2839,7 +2820,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750554658
   },
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
