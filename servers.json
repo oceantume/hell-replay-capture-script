@@ -114,7 +114,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750659122
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -448,7 +449,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750659122
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -478,7 +480,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750659122
   },
   {
     "name": "HLL Dev Team",
@@ -734,8 +737,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1750572603
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #20",
@@ -775,13 +777,13 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750659122
   },
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1750486193
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1630,8 +1632,7 @@
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787,
-    "removed": 1750486193
+    "port": 7787
   },
   {
     "name": "[13SNC] #5 Dírty's Newbie Haven - Discord.gg/13SNC",
