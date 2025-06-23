@@ -574,6 +574,11 @@
     "port": 28100
   },
   {
+    "name": "QA Testing - EU #08",
+    "addr": "176.57.168.38",
+    "port": 28400
+  },
+  {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
     "port": 28500
@@ -781,6 +786,11 @@
     "removed": 1750659122
   },
   {
+    "name": "QA Testing - UK #07",
+    "addr": "176.57.178.141",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -788,7 +798,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750661920
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -1295,7 +1306,8 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750661920
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
