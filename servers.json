@@ -460,8 +460,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1750659122
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -614,7 +613,8 @@
   {
     "name": "[3IRD] Ukrainian Training Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750702229
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1211,13 +1211,19 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1750702229
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
     "port": 21100,
     "removed": 1750681934
+  },
+  {
+    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
+    "addr": "195.82.158.186",
+    "port": 21300
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1398,7 +1404,8 @@
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750702229
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1629,7 +1636,7 @@
     "removed": 1750295116
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1653,12 +1660,6 @@
     "addr": "31.56.0.29",
     "port": 7777,
     "removed": 1750293320
-  },
-  {
-    "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "31.56.0.33",
-    "port": 7797,
-    "removed": 1750097418
   },
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
@@ -1722,14 +1723,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1750684725
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1750684725
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #11",
@@ -1994,7 +1993,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750702229
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -2205,24 +2205,6 @@
     "port": 7777
   },
   {
-    "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
-    "addr": "63.143.62.101",
-    "port": 7777,
-    "removed": 1750097418
-  },
-  {
-    "name": "TTG2.0 Hosted by Merc | VNGD vs MERC",
-    "addr": "63.143.62.93",
-    "port": 7797,
-    "removed": 1750097418
-  },
-  {
-    "name": "Radical Gaming :: Los Angeles :: Powered by Qonzer.com",
-    "addr": "63.143.62.99",
-    "port": 7777,
-    "removed": 1750097418
-  },
-  {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
@@ -2308,7 +2290,7 @@
     "port": 7777
   },
   {
-    "name": "#05 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
     "port": 7777
   },
@@ -2586,7 +2568,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750702229
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2803,7 +2786,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2975,12 +2958,14 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1750702229
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750702229
   },
   {
     "name": "HLL Official - Australia #03",
