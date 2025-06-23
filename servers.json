@@ -352,7 +352,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1750681934
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1206,12 +1207,14 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1750681934
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1750681934
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1896,12 +1899,6 @@
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - US West #09",
-    "addr": "45.137.247.85",
-    "port": 28400,
-    "removed": 1750076024
   },
   {
     "name": "HLL Official - US East #02",
