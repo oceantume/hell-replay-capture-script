@@ -79,8 +79,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1750594303
+    "port": 28300
   },
   {
     "name": "HLL Official - Japan #05",
@@ -143,8 +142,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1750748998
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -952,7 +950,12 @@
     "port": 9075
   },
   {
-    "name": "#02 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
+  },
+  {
+    "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
     "port": 7777
   },
@@ -1136,7 +1139,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1146,7 +1149,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1257,7 +1260,8 @@
   {
     "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
     "addr": "198.37.123.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1750767209
   },
   {
     "name": "cn.［AZEO］点酱杯比赛HK服q:1023021833",
@@ -1579,7 +1583,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #3",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1589,7 +1593,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1614,7 +1618,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #1",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1640,7 +1644,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1869,7 +1873,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750767209
   },
   {
     "name": "HLL Official - US East #03",
@@ -2283,12 +2288,12 @@
     "port": 7777
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
     "port": 7777
   },
   {
-    "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
+    "name": "#03 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
     "addr": "64.31.4.170",
     "port": 7807
   },
@@ -2483,7 +2488,7 @@
     "port": 8530
   },
   {
-    "name": "[ESP] 250 Hispana",
+    "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
   },
@@ -2779,7 +2784,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2812,7 +2817,8 @@
   {
     "name": "Holeee",
     "addr": "91.134.56.12",
-    "port": 7877
+    "port": 7877,
+    "removed": 1750767209
   },
   {
     "name": "Team17",
@@ -2858,7 +2864,8 @@
   {
     "name": "[PoZr] Casual Realism (US East)",
     "addr": "92.118.18.92",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750767209
   },
   {
     "name": "Hell Let Loose Server",
@@ -2940,8 +2947,7 @@
   {
     "name": "US WEST | Blood Buckets",
     "addr": "94.250.218.33",
-    "port": 28000,
-    "removed": 1750748998
+    "port": 28000
   },
   {
     "name": "HLL Official - Australia #04",
