@@ -345,7 +345,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1750768326
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -2758,7 +2759,7 @@
     "port": 7847
   },
   {
-    "name": "CN // # JP # 【FJ】绿魔鬼萌新乐园社区 QQ群:71670126",
+    "name": "CN/JP【FJ】绿魔鬼萌新乐园社区(攻防) QQ群:71670126",
     "addr": "89.46.1.190",
     "port": 7857
   },
@@ -2839,12 +2840,6 @@
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
-  },
-  {
-    "name": "-TL- The Line | EVENT SERVER | TheLine.GG",
-    "addr": "92.118.18.72",
-    "port": 7817,
-    "removed": 1750162434
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
