@@ -122,8 +122,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1750659122
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -133,7 +132,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1750745501
   },
   {
     "name": "What can I say",
@@ -486,8 +486,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1750659122
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -797,8 +796,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1750659122
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -2289,7 +2287,7 @@
     "port": 7777
   },
   {
-    "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
     "addr": "64.31.4.170",
     "port": 7807
   },
