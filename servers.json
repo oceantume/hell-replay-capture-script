@@ -344,7 +344,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1750854721
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1021,21 +1022,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1750248823
-  },
-  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
     "port": 7777
-  },
-  {
-    "name": "hll Server",
-    "addr": "192.169.86.213",
-    "port": 7797,
-    "removed": 1750248823
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2173,25 +2162,23 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "57.128.229.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750854721
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787,
-    "removed": 1750831895
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Skirmish Only",
     "addr": "57.128.229.70",
-    "port": 7807,
-    "removed": 1750853607
+    "port": 7807
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
-    "port": 7817,
-    "removed": 1750853607
+    "port": 7817
   },
   {
     "name": "BR1 Gaming (Chicago) -- discord.gg/br1",
@@ -2276,8 +2263,7 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807,
-    "removed": 1750853607
+    "port": 7807
   },
   {
     "name": "Qinaii's | Event Server #5 | Frankfurt",
@@ -2367,8 +2353,7 @@
   {
     "name": "[Merc] West Event Server | discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7797,
-    "removed": 1750853607
+    "port": 7797
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
