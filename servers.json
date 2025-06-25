@@ -36,6 +36,11 @@
     "removed": 1750356583
   },
   {
+    "name": "W-88 Public Warfare",
+    "addr": "103.62.51.219",
+    "port": 8888
+  },
+  {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
     "port": 28000
@@ -79,7 +84,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750853607
   },
   {
     "name": "HLL Official - Japan #05",
@@ -259,7 +265,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#5 TT天堂萌新俱乐部(攻防/冲突)Q群:797464980",
+    "name": "<CN>#5 TT天堂社交俱乐部ㅣ微信公众号:TT天堂ㅣ进",
     "addr": "156.146.44.225",
     "port": 7797
   },
@@ -447,7 +453,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750853607
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -590,17 +597,20 @@
   {
     "name": "PARABELLUM EVENT SERVER",
     "addr": "176.57.168.69",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750853607
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
     "addr": "176.57.168.69",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750853607
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.168.69",
-    "port": 28400
+    "port": 28400,
+    "removed": 1750853607
   },
   {
     "name": "[3IRD] Ukrainian Training Server | UA/EN discord.gg/3irdua",
@@ -751,7 +761,8 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750853607
   },
   {
     "name": "HLL Official - Europe #20",
@@ -767,8 +778,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1750831895
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #18",
@@ -805,8 +815,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1750831895
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1234,7 +1243,7 @@
     "port": 9075
   },
   {
-    "name": "☆ [UKLL] UK Let Loose ☆ | UKLETLOOSE.CO.UK | New Player Fri",
+    "name": "☆ UKLL | UK Let Loose ☆ UKLETLOOSE.CO.UK - New Player Frien",
     "addr": "198.244.177.7",
     "port": 9620
   },
@@ -1327,7 +1336,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "206.53.0.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750853607
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Event Server",
@@ -1484,7 +1494,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #2 | discord.gg/icoh",
     "addr": "208.115.255.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750853607
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1614,7 +1625,8 @@
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
     "addr": "31.56.0.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750853607
   },
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#日服Q:500001820",
@@ -1633,7 +1645,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1715,8 +1727,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1750771088
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #11",
@@ -1799,7 +1810,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750853607
   },
   {
     "name": "HLL Official - US West #12",
@@ -1863,8 +1875,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1750767209
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1891,7 +1902,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750853607
   },
   {
     "name": "QA Testing - US West #09",
@@ -2172,12 +2184,14 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Skirmish Only",
     "addr": "57.128.229.70",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750853607
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1750853607
   },
   {
     "name": "BR1 Gaming (Chicago) -- discord.gg/br1",
@@ -2262,7 +2276,8 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1750853607
   },
   {
     "name": "Qinaii's | Event Server #5 | Frankfurt",
@@ -2352,7 +2367,8 @@
   {
     "name": "[Merc] West Event Server | discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750853607
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
@@ -2377,7 +2393,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750853607
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -2520,7 +2537,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1750853607
   },
   {
     "name": "HLL Official - Asia #14",
@@ -2564,8 +2582,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
-    "port": 28000,
-    "removed": 1750702229
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2733,7 +2750,8 @@
   {
     "name": "<CN>BW黑色守望/假期快乐/金榜题名Q:1034621661",
     "addr": "89.46.1.190",
-    "port": 7797
+    "port": 7797,
+    "removed": 1750853607
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
@@ -2782,7 +2800,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
