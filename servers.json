@@ -333,7 +333,8 @@
   {
     "name": "Turks Let Loose #2 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750856232
   },
   {
     "name": "Island Hotpot – Warfare 24/7 – US West",
@@ -344,8 +345,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1750854721
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -957,8 +957,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1750771088
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -2162,8 +2161,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "57.128.229.70",
-    "port": 7777,
-    "removed": 1750854721
+    "port": 7777
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
