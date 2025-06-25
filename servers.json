@@ -333,8 +333,7 @@
   {
     "name": "Turks Let Loose #2 - Türkiye [TR] - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
-    "port": 7787,
-    "removed": 1750856232
+    "port": 7787
   },
   {
     "name": "Island Hotpot – Warfare 24/7 – US West",
@@ -957,7 +956,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750857525
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1044,7 +1044,8 @@
   {
     "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
     "addr": "192.169.86.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750857525
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1798,8 +1799,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1750853607
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #12",
@@ -2060,7 +2060,8 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877
+    "port": 7877,
+    "removed": 1750857525
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2520,8 +2521,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1750853607
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #14",
@@ -2580,8 +2580,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1750788602
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2719,6 +2718,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "HLL Official - South America #04",
+    "addr": "89.43.106.37",
+    "port": 28000
   },
   {
     "name": "<CN>JP#1 瓦学弟萌新进阶（纯冲突）Q群：979552783",
