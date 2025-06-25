@@ -131,8 +131,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1750745501
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -284,12 +283,6 @@
     "name": "CN/HK 蟹堡王的萌新欢乐营Q群：747976659",
     "addr": "156.146.44.225",
     "port": 7837
-  },
-  {
-    "name": "[CN]Nya~柔情猫娘闪耀时#萌新进阶#港服Q:500001820",
-    "addr": "156.146.44.225",
-    "port": 7847,
-    "removed": 1750227067
   },
   {
     "name": "Reclaimer training server",
@@ -459,7 +452,8 @@
   {
     "name": "HTD - HaiiTeD Event Server",
     "addr": "176.57.140.181",
-    "port": 30700
+    "port": 30700,
+    "removed": 1750831895
   },
   {
     "name": "Warfrags Studios",
@@ -773,7 +767,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1750831895
   },
   {
     "name": "HLL Official - Europe #18",
@@ -810,7 +805,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1750831895
   },
   {
     "name": "QA Testing - EU #05",
@@ -846,12 +842,6 @@
     "name": "[LU] Härebierg_Lux/Deu_mic only",
     "addr": "176.57.181.34",
     "port": 28300
-  },
-  {
-    "name": "Radical Gaming :: Tokyo :: Powered by Qonzer.com",
-    "addr": "178.249.213.214",
-    "port": 7807,
-    "removed": 1750227067
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1332,6 +1322,11 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "206.53.0.19",
+    "port": 7777
+  },
+  {
+    "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
+    "addr": "206.53.0.22",
     "port": 7777
   },
   {
@@ -2171,7 +2166,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787
+    "port": 7787,
+    "removed": 1750831895
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Skirmish Only",
@@ -2431,7 +2427,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
     "addr": "69.162.89.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750831895
   },
   {
     "name": "シ MARRAM #3 - discord.gg/marram by qonzer.com",
@@ -2627,12 +2624,6 @@
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
-  },
-  {
-    "name": "KBBC",
-    "addr": "83.223.207.55",
-    "port": 28000,
-    "removed": 1750227067
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
