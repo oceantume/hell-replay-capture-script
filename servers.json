@@ -453,8 +453,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1750853607
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -603,14 +602,12 @@
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
     "addr": "176.57.168.69",
-    "port": 28200,
-    "removed": 1750853607
+    "port": 28200
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.168.69",
-    "port": 28400,
-    "removed": 1750853607
+    "port": 28400
   },
   {
     "name": "[3IRD] Ukrainian Training Server | UA/EN discord.gg/3irdua",
@@ -1044,8 +1041,7 @@
   {
     "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
     "addr": "192.169.86.54",
-    "port": 7777,
-    "removed": 1750857525
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1624,7 +1620,7 @@
     "removed": 1750295116
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2060,8 +2056,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1750857525
+    "port": 7877
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2357,7 +2352,8 @@
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
     "addr": "64.31.60.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750875025
   },
   {
     "name": "シ MARRAM #7 - discord.gg/marram - marram.com.br by qonzer",
@@ -2737,8 +2733,7 @@
   {
     "name": "<CN>BW黑色守望/假期快乐/金榜题名Q:1034621661",
     "addr": "89.46.1.190",
-    "port": 7797,
-    "removed": 1750853607
+    "port": 7797
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
@@ -2787,7 +2782,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
