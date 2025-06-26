@@ -30,12 +30,6 @@
     "port": 8530
   },
   {
-    "name": "Map tech",
-    "addr": "103.193.80.57",
-    "port": 8530,
-    "removed": 1750356583
-  },
-  {
     "name": "W-88 Public Warfare",
     "addr": "103.62.51.219",
     "port": 8888
@@ -596,8 +590,7 @@
   {
     "name": "PARABELLUM EVENT SERVER",
     "addr": "176.57.168.69",
-    "port": 28000,
-    "removed": 1750853607
+    "port": 28000
   },
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
@@ -753,8 +746,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1750918276
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -959,7 +951,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1750961426
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1016,6 +1009,11 @@
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "192.169.86.210",
+    "port": 7787
   },
   {
     "name": "※ GLORY ETERNAL ※ [US EAST]",
@@ -1413,8 +1411,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777,
-    "removed": 1750943871
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1602,7 +1599,7 @@
     "removed": 1750853607
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2549,7 +2546,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1750961426
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2648,12 +2646,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "Hookway's Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1750356583
   },
   {
     "name": "HLL Official - South America #01",
@@ -2755,7 +2747,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2933,7 +2925,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1750961426
   },
   {
     "name": "HLL Official - Australia #01",
