@@ -344,7 +344,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1750941122
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -1036,12 +1037,6 @@
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
     "addr": "192.169.86.50",
     "port": 7797
-  },
-  {
-    "name": "☆ Crimson Tide ☆ Noob Friendly! ☆ Disc.gg/CrimsonTide",
-    "addr": "192.169.86.51",
-    "port": 7777,
-    "removed": 1750335212
   },
   {
     "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
