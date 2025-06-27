@@ -132,7 +132,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1751004690
   },
   {
     "name": "What can I say",
@@ -423,7 +424,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751004690
   },
   {
     "name": "HLL Official - Europe #19",
@@ -811,8 +813,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1750918276
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -843,12 +844,6 @@
     "name": "[LU] Härebierg_Lux/Deu_mic only",
     "addr": "176.57.181.34",
     "port": 28300
-  },
-  {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "178.249.213.79",
-    "port": 7777,
-    "removed": 1750399868
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1530,12 +1525,6 @@
     "addr": "23.111.240.210",
     "port": 9075,
     "removed": 1750898096
-  },
-  {
-    "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
-    "addr": "23.142.25.8",
-    "port": 7777,
-    "removed": 1750399868
   },
   {
     "name": "⑦︱THE CIRCLE #7︱OFFENSIVE︱FREE WEEKEND︱DISCORD.GG/THE",
@@ -2414,7 +2403,7 @@
     "port": 7777
   },
   {
-    "name": "5th Ranger Battalion | US East | 5thrb.com",
+    "name": "5th Ranger Battalion | US Central | 5thrb.com",
     "addr": "74.63.236.194",
     "port": 10710
   },
@@ -2626,12 +2615,6 @@
     "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
     "port": 7817
-  },
-  {
-    "name": "hll Server",
-    "addr": "85.208.197.76",
-    "port": 7777,
-    "removed": 1750399868
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
