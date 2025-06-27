@@ -1111,8 +1111,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1751026391
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1127,8 +1126,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1751026391
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes - discord.gg/13snc",
@@ -1138,8 +1136,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1751026391
+    "port": 7777
   },
   {
     "name": "TD〢Tank Destroyers [EU/ENG] Discord.gg/TankDestroyers",
@@ -1543,8 +1540,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1751026391
+    "port": 7797
   },
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | BALLERBUDE | QS | GER",
@@ -1579,8 +1575,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1751026391
+    "port": 7787
   },
   {
     "name": "CN Mico咖啡屋萌新日服Q:1023817690",
@@ -1665,7 +1660,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751027492
   },
   {
     "name": "HLL Official - US West #02",
@@ -1996,7 +1992,8 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "5.56.25.100",
-    "port": 7837
+    "port": 7837,
+    "removed": 1751027492
   },
   {
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
@@ -2218,8 +2215,7 @@
   {
     "name": "Qinaii's | Event Server #5 | Frankfurt",
     "addr": "64.31.29.66",
-    "port": 7777,
-    "removed": 1751026391
+    "port": 7777
   },
   {
     "name": "【EU】| GHOST REGIMENT New Player Training 50v50 | offensive",
@@ -2699,8 +2695,7 @@
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "89.46.1.190",
-    "port": 7827,
-    "removed": 1751026391
+    "port": 7827
   },
   {
     "name": "CN#日服#琳琅天上萌新小屋{纯攻防}Q群484555616",
