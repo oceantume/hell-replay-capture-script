@@ -1532,12 +1532,6 @@
     "removed": 1750898096
   },
   {
-    "name": "[TOG] The Old Guard Official HLL Server [VA]",
-    "addr": "23.142.25.6",
-    "port": 7787,
-    "removed": 1750381495
-  },
-  {
     "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
     "addr": "23.142.25.8",
     "port": 7777,
@@ -2290,8 +2284,7 @@
   {
     "name": "6TH RECON DIVISION [6RCN] NY SERVER",
     "addr": "64.31.59.77",
-    "port": 7777,
-    "removed": 1750984556
+    "port": 7777
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
