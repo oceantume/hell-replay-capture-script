@@ -1021,12 +1021,14 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751028939
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751028939
   },
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
@@ -1086,7 +1088,8 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751028939
   },
   {
     "name": "Radical Gaming :: New York :: Powered by Qonzer.com",
@@ -1660,8 +1663,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1751027492
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1902,6 +1904,11 @@
     "port": 9620
   },
   {
+    "name": "hll Server",
+    "addr": "45.151.81.210",
+    "port": 7777
+  },
+  {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
     "port": 8530
@@ -1992,8 +1999,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "5.56.25.100",
-    "port": 7837,
-    "removed": 1751027492
+    "port": 7837
   },
   {
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
@@ -2210,7 +2216,8 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1751028939
   },
   {
     "name": "Qinaii's | Event Server #5 | Frankfurt",
@@ -2711,12 +2718,6 @@
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.213.42.119",
-    "port": 7777,
-    "removed": 1750422708
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
