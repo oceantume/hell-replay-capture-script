@@ -680,7 +680,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751070839
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -929,7 +930,8 @@
   {
     "name": "Amidships' Private Server",
     "addr": "185.125.205.116",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751070839
   },
   {
     "name": "Delta Bravo - UK #1 ~New Players Welcome~",
@@ -986,7 +988,8 @@
   {
     "name": "Cadmando - Commander Coffee Break, Flanked & Furious5",
     "addr": "192.154.253.22",
-    "port": 9075
+    "port": 9075,
+    "removed": 1751070839
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1584,7 +1587,7 @@
     "removed": 1750853607
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1594,7 +1597,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1939,7 +1942,8 @@
   {
     "name": "HLL Server",
     "addr": "46.128.9.159",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751070839
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -2036,8 +2040,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1751051152
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -2735,7 +2738,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
