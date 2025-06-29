@@ -179,7 +179,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787
+    "port": 7787,
+    "removed": 1751220562
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -364,7 +365,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
+    "name": "! ! !OINK 5 KAMPFSCHWEINE | BUMSHÜTTE | QS | GER",
     "addr": "176.57.134.27",
     "port": 28400
   },
@@ -440,8 +441,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1751177410
+    "port": 28000
   },
   {
     "name": "HTD - HaiiTeD Event Server",
@@ -653,7 +653,8 @@
   {
     "name": "4story",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751220562
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -719,12 +720,6 @@
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
     "port": 28000
-  },
-  {
-    "name": "[PKKA]-Event Server - discord.gg/PKKA",
-    "addr": "176.57.171.7",
-    "port": 28200,
-    "removed": 1750615758
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -1016,6 +1011,11 @@
     "name": "※ GLORY ETERNAL ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
+  },
+  {
+    "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
+    "addr": "192.169.86.211",
+    "port": 7787
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1337,7 +1337,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !OINK 5 KAMPFSCHWEINE | BUMSHÜTTE | QS | GER",
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1566,7 +1566,7 @@
     "removed": 1750853607
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1976,12 +1976,6 @@
     "port": 7857
   },
   {
-    "name": "<CN>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
-    "addr": "5.56.25.100",
-    "port": 7867,
-    "removed": 1750615758
-  },
-  {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
     "port": 7877
@@ -2193,7 +2187,7 @@
     "port": 7807
   },
   {
-    "name": "Qinaii's | Event Server #5 | Frankfurt",
+    "name": "Greyhound | Event Server #1 | Frankfurt | Qonzer.com",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -2491,12 +2485,6 @@
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
-    "addr": "83.223.197.41",
-    "port": 33000,
-    "removed": 1750615758
-  },
-  {
-    "name": "<cn>EROS狗叫天堂HK QQ686886842",
     "addr": "83.223.197.42",
     "port": 28900
   },
@@ -2524,8 +2512,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1751134147
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #09",
@@ -2713,7 +2700,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2880,8 +2867,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1751134147
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
