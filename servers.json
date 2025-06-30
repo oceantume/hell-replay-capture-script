@@ -31,6 +31,11 @@
     "port": 8530
   },
   {
+    "name": "OnlyClans Training Server",
+    "addr": "103.62.51.134",
+    "port": 8888
+  },
+  {
     "name": "W-88 Public Warfare",
     "addr": "103.62.51.219",
     "port": 8888,
@@ -130,7 +135,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787
+    "port": 7787,
+    "removed": 1751289462
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1503,8 +1509,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1751202562
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
