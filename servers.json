@@ -250,7 +250,8 @@
   {
     "name": "[FR ONLY] Apex Let Loose >> https://discord.gg/m4d8dBpc",
     "addr": "152.228.223.2",
-    "port": 10165
+    "port": 10165,
+    "removed": 1751243898
   },
   {
     "name": "<CN>#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
@@ -933,7 +934,8 @@
   {
     "name": "Delta Bravo - UK #1 ~New Players Welcome~",
     "addr": "185.216.144.75",
-    "port": 10710
+    "port": 10710,
+    "removed": 1751243898
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -1566,7 +1568,7 @@
     "removed": 1750853607
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1576,7 +1578,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1609,12 +1611,6 @@
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
-  },
-  {
-    "name": "HOGS OF WAR | DALLAS US | discord.gg/da9s33q5Xm",
-    "addr": "45.137.244.9",
-    "port": 28400,
-    "removed": 1750639066
   },
   {
     "name": "HLL Official - US West #14",
@@ -2272,7 +2268,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] West Event Server | discord.gg/m3rc",
+    "name": "TTG 2.0 | hosted by Merciless | 7th vs MIB",
     "addr": "64.31.6.93",
     "port": 7797
   },
@@ -2700,7 +2696,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
