@@ -671,7 +671,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751351327
   },
   {
     "name": "HLL Official - UK #02",
@@ -1056,8 +1057,7 @@
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
-    "port": 21300,
-    "removed": 1751332403
+    "port": 21300
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1640,8 +1640,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1751350302
+    "port": 7877
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
