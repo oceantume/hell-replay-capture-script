@@ -1470,7 +1470,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751352384
   },
   {
     "name": "HLL Official - US West #02",
@@ -2416,7 +2417,7 @@
     "port": 28900
   },
   {
-    "name": "BAND OF BROTHERS BRASIL | bobclan.com.br #1",
+    "name": "BAND OF BROTHERS BRASIL | 3 Horas de Batalhas | bobclan.com.br ",
     "addr": "92.38.151.89",
     "port": 28600
   },
