@@ -287,7 +287,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1751373149
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -670,8 +671,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1751351327
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1647,7 +1647,8 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877
+    "port": 7877,
+    "removed": 1751373149
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
