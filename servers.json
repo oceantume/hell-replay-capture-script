@@ -31,7 +31,7 @@
     "port": 8530
   },
   {
-    "name": "OnlyClans Training Server",
+    "name": "OnlyClans Training/Scrim Server",
     "addr": "103.62.51.134",
     "port": 8888
   },
@@ -79,8 +79,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1751263909
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -100,7 +99,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751350302
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -494,7 +494,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751350302
   },
   {
     "name": "Team17 CERT",
@@ -650,8 +651,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1751330442
+    "port": 28500
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1602,7 +1602,7 @@
     "port": 9014
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆（投票选图Q",
+    "name": "CN1#散人猫猫社区|萌新军官咖啡馆（投票选图Q120",
     "addr": "5.56.25.100",
     "port": 7777
   },
@@ -1634,12 +1634,14 @@
   {
     "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
     "addr": "5.56.25.100",
-    "port": 7857
+    "port": 7857,
+    "removed": 1751350302
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877
+    "port": 7877,
+    "removed": 1751350302
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2394,7 +2396,7 @@
     "port": 7777
   },
   {
-    "name": "Hell Let Loose Server",
+    "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.84",
     "port": 7777
   },
