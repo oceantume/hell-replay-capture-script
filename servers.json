@@ -135,7 +135,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "141.11.34.104",
-    "port": 7787
+    "port": 7787,
+    "removed": 1751375889
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -529,7 +530,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751375889
   },
   {
     "name": "HLL Official - Europe #06",
@@ -540,6 +542,11 @@
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
     "port": 28500
+  },
+  {
+    "name": "Lacio28 Trening",
+    "addr": "176.57.171.140",
+    "port": 28000
   },
   {
     "name": "4story",
@@ -1481,7 +1488,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751375889
   },
   {
     "name": "HLL Official - US West #01",
