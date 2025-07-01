@@ -288,8 +288,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1751285614
+    "port": 9014
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -366,12 +365,6 @@
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
     "port": 28400
-  },
-  {
-    "name": "[GER] STAHLGEWITTER | SL LVL 50+ | discord.gg/g6fTR8Xf",
-    "addr": "176.57.140.146",
-    "port": 28000,
-    "removed": 1750725308
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -657,7 +650,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751330442
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1423,7 +1417,7 @@
     "removed": 1750853607
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1433,7 +1427,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1607,12 +1601,12 @@
     "port": 9014
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆（投票选图",
+    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆（投票选图Q",
     "addr": "5.56.25.100",
     "port": 7777
   },
   {
-    "name": "CN2#散人猫猫社区|极限攻防的咖啡馆（投票选图",
+    "name": "CN2#散人猫猫社区|极限攻防咖啡馆（投票选图Q120",
     "addr": "5.56.25.100",
     "port": 7787
   },
@@ -1669,8 +1663,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1751310360
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1680,8 +1673,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1751310360
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2314,7 +2306,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2420,6 +2412,11 @@
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
     "port": 28900
+  },
+  {
+    "name": "BAND OF BROTHERS BRASIL | bobclan.com.br #1",
+    "addr": "92.38.151.89",
+    "port": 28600
   },
   {
     "name": "Ronin EVENTS / BR Hosted Server",
