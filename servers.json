@@ -405,7 +405,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751436703
   },
   {
     "name": "HLL Dev Team",
@@ -1868,7 +1869,7 @@
     "port": 7777
   },
   {
-    "name": "no rules - Warfare - Votemap",
+    "name": "[Warfare] No Rules | Votemap",
     "addr": "64.31.29.68",
     "port": 7777
   },
@@ -2033,12 +2034,6 @@
     "addr": "69.162.89.146",
     "port": 7777,
     "removed": 1751372029
-  },
-  {
-    "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
-    "addr": "69.162.89.148",
-    "port": 7777,
-    "removed": 1750831895
   },
   {
     "name": "シ MARRAM #3 - discord.gg/marram by qonzer.com",
