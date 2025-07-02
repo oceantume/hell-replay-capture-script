@@ -31,7 +31,7 @@
     "port": 8530
   },
   {
-    "name": "OnlyClans Training/Scrim Server",
+    "name": "OnlyClans (OC) Training/Scrim Server",
     "addr": "103.62.51.134",
     "port": 8888
   },
@@ -1431,7 +1431,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1469,6 +1469,11 @@
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
     "port": 7877
+  },
+  {
+    "name": "20th Airborne Div | New Players Welcome | [US-LA] | discord.gg/",
+    "addr": "37.10.127.2",
+    "port": 10600
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1953,12 +1958,6 @@
     "port": 7797
   },
   {
-    "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
-    "addr": "64.31.60.37",
-    "port": 7777,
-    "removed": 1750875025
-  },
-  {
     "name": "シ MARRAM #7 - discord.gg/marram - marram.com.br by qonzer",
     "addr": "64.31.60.38",
     "port": 7777
@@ -2157,8 +2156,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1751307022
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2328,7 +2326,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2446,8 +2444,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1751393413
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
