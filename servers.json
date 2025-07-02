@@ -49,8 +49,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1751372029
+    "port": 28300
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -288,7 +287,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1751458385
   },
   {
     "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
@@ -698,7 +698,8 @@
   {
     "name": "Baum Server",
     "addr": "176.57.181.105",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751458385
   },
   {
     "name": "CZ/SK",
@@ -1033,27 +1034,32 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751458385
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751458385
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751458385
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751458385
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751458385
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1441,7 +1447,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1505,7 +1511,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1751458385
   },
   {
     "name": "HLL Official - US East #05",
@@ -1520,13 +1527,13 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1751458385
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1751372029
+    "port": 28200
   },
   {
     "name": "QA Testing - US West #09",
@@ -1536,8 +1543,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700,
-    "removed": 1751285614
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -1869,7 +1875,7 @@
     "port": 7777
   },
   {
-    "name": "[Warfare] No Rules | Votemap",
+    "name": "[WORLD UNITE] Warfare | No Rules | Votemap",
     "addr": "64.31.29.68",
     "port": 7777
   },
