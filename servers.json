@@ -49,7 +49,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751544822
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -233,12 +234,6 @@
     "name": "cn淘宝人间地狱工作室安全高效",
     "addr": "156.146.44.225",
     "port": 7827
-  },
-  {
-    "name": "CN/HK 蟹堡王的萌新欢乐营Q群：747976659",
-    "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1750940005
   },
   {
     "name": "Reclaimer training server",
@@ -474,7 +469,8 @@
   {
     "name": "Sexy and Superior - Krieg & WCB - Europe / Balkan - Beginner fr",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751544822
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -550,7 +546,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751544822
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -585,7 +582,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751544822
   },
   {
     "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
@@ -635,8 +633,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1751523086
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -814,7 +811,13 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751544822
+  },
+  {
+    "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
+    "addr": "185.216.144.75",
+    "port": 9075
   },
   {
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
@@ -871,7 +874,8 @@
   {
     "name": "Helios | US EAST | Discord.gg/newhelios",
     "addr": "192.169.86.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1751544822
   },
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
@@ -896,12 +900,14 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751544822
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751544822
   },
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
@@ -987,7 +993,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751544822
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1067,7 +1074,8 @@
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
     "addr": "198.244.177.7",
-    "port": 10165
+    "port": 10165,
+    "removed": 1751544822
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1429,7 +1437,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1477,8 +1485,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1751352384
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1493,7 +1500,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751544822
   },
   {
     "name": "HLL Official - US East #01",
@@ -1509,18 +1517,19 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751544822
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1751458385
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751544822
   },
   {
     "name": "QA Testing - US West #09",
@@ -1576,7 +1585,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "46.105.223.204",
-    "port": 7817
+    "port": 7817,
+    "removed": 1751544822
   },
   {
     "name": "Radical Gaming :: Paris :: Powered by Qonzer.com",
@@ -1592,7 +1602,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1751544822
   },
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | BALLERBUDE | QS | GER",
@@ -1707,7 +1718,7 @@
     "port": 9620
   },
   {
-    "name": "CZ & SK | #3 | VLK @ EVENT",
+    "name": "TRYHARD | LVL 50+ | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 10165
   },
@@ -1804,7 +1815,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751544822
   },
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
@@ -1814,7 +1826,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751544822
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1924,6 +1937,11 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
+    "port": 7777
+  },
+  {
+    "name": "69 SPACE FORCE | US West",
+    "addr": "64.31.6.90",
     "port": 7777
   },
   {
@@ -2145,7 +2163,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751544822
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2320,7 +2339,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
