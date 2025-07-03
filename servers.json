@@ -287,14 +287,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1751458385
-  },
-  {
-    "name": "[16th IR] Realism unit |US East 1|discord.gg/16th",
-    "addr": "172.93.105.158",
-    "port": 8530,
-    "removed": 1750898096
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1034,32 +1027,27 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1751458385
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1751458385
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1751458385
+    "port": 7777
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777,
-    "removed": 1751458385
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1751458385
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1431,7 +1419,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1441,7 +1429,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1473,7 +1461,8 @@
   {
     "name": "20th Airborne Div | New Players Welcome | [US-LA] | discord.gg/",
     "addr": "37.10.127.2",
-    "port": 10600
+    "port": 10600,
+    "removed": 1751502939
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -2326,7 +2315,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
