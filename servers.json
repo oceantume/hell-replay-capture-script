@@ -400,7 +400,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751548565
   },
   {
     "name": "frogus",
@@ -827,7 +828,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751548565
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1495,8 +1497,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1751544822
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1865,7 +1866,8 @@
   {
     "name": "【EU】| GHOST REGIMENT New Player Training 50v50 | offensive",
     "addr": "64.31.29.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751548565
   },
   {
     "name": "[WORLD UNITE] Warfare | No Rules | Votemap",
@@ -2374,8 +2376,7 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1751547364
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
