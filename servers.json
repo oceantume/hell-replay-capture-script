@@ -89,7 +89,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1751523086
   },
   {
     "name": "What can I say",
@@ -398,8 +399,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1751436703
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -636,7 +636,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751523086
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -2043,10 +2044,9 @@
     "port": 7777
   },
   {
-    "name": "Life Is Short - Have Fun - Play Here & Kick Ass !!!",
+    "name": "[FPS] FairPlaySoldiers.com || CHICAGO || Recruiting",
     "addr": "74.63.231.5",
-    "port": 7777,
-    "removed": 1751504741
+    "port": 7777
   },
   {
     "name": "5th Ranger Battalion | US Central | 5thrb.com",
@@ -2057,6 +2057,11 @@
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
     "port": 11255
+  },
+  {
+    "name": "Tango company AFIP [EVENTOS]",
+    "addr": "78.111.102.114",
+    "port": 28700
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
