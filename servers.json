@@ -276,8 +276,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1751631186
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -824,8 +823,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1751548565
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1494,7 +1492,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751634963
   },
   {
     "name": "HLL Official - US West #01",
@@ -1534,8 +1533,7 @@
   {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.85",
-    "port": 28400,
-    "removed": 1751633732
+    "port": 28400
   },
   {
     "name": "HLL Official - US East #02",
