@@ -525,7 +525,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751613025
   },
   {
     "name": "HLL Official - Europe #06",
@@ -1198,8 +1199,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1751612274
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
