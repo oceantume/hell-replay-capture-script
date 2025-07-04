@@ -64,7 +64,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751609479
   },
   {
     "name": "HLL Official - Russia #02",
@@ -79,8 +80,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1751523086
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -225,6 +225,11 @@
     "port": 7827
   },
   {
+    "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
+    "addr": "156.146.44.225",
+    "port": 7837
+  },
+  {
     "name": "Reclaimer training server",
     "addr": "156.146.44.225",
     "port": 7857
@@ -308,37 +313,44 @@
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.134.27",
-    "port": 28800
+    "port": 28800,
+    "removed": 1751609479
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.134.30",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751609479
   },
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751609479
   },
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751609479
   },
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751609479
   },
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751609479
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751609479
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -384,8 +396,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1751589301
+    "port": 28500
   },
   {
     "name": "HLL Dev Team",
@@ -471,17 +482,20 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751609479
   },
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751609479
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751609479
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -608,27 +622,32 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751609479
   },
   {
     "name": "[GER] Deutsch Only | MIC Pflicht | Mapvote | Stahlsturm",
     "addr": "176.57.173.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751609479
   },
   {
     "name": "HLD2",
     "addr": "176.57.173.119",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751609479
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751609479
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751609479
   },
   {
     "name": "QA Testing - EU #02",
@@ -663,7 +682,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751609479
   },
   {
     "name": "QA Testing - EU #05",
@@ -1947,7 +1967,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US West | Event Server",
+    "name": "TTG 2.0 | Hosted by Merciless | Merc vs ROTN",
     "addr": "64.31.6.93",
     "port": 7797
   },
@@ -2007,7 +2027,7 @@
     "port": 9620
   },
   {
-    "name": "多 | Hostile Unknown | US-C | .gg/hostile",
+    "name": "多 | FREEDOM RAAAH | NO HOLDS BARRED | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7777
   },
