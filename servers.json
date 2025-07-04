@@ -304,6 +304,11 @@
     "port": 9075
   },
   {
+    "name": "Testing",
+    "addr": "176.57.134.27",
+    "port": 28200
+  },
+  {
     "name": "! ! !OINK 5 KAMPFSCHWEINE | BUMSHÜTTE | QS | GER",
     "addr": "176.57.134.27",
     "port": 28400,
@@ -568,7 +573,8 @@
   {
     "name": "[GER] Die Alteingesessenen - Mikrofonpflicht - Warfare only",
     "addr": "176.57.171.161",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751652604
   },
   {
     "name": "Borry‘s Playground",
@@ -800,10 +806,9 @@
     "removed": 1751070839
   },
   {
-    "name": "Delta Bravo - UK #1 ~New Players Welcome~",
+    "name": "我是一个快乐的大几把 JP/HK/01/02/03",
     "addr": "185.216.144.75",
-    "port": 10710,
-    "removed": 1751243898
+    "port": 10710
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -823,7 +828,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751652604
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1041,12 +1047,14 @@
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751652604
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751652604
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1429,7 +1437,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1761,7 +1769,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Skirmish Only",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Infantry Only",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -1883,6 +1891,11 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.211",
+    "port": 7777
+  },
+  {
+    "name": "我是一个快乐的小几把 安/瓦/灰/T/散/猫",
+    "addr": "64.31.32.212",
     "port": 7777
   },
   {
@@ -2134,13 +2147,13 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1751566215
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751652604
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2170,7 +2183,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751652604
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2341,7 +2355,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2464,11 +2478,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751652604
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751652604
   }
 ]
