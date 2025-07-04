@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Scrim Night | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1751544822
+    "port": 28300
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -277,7 +276,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1751631186
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -313,26 +313,22 @@
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.134.27",
-    "port": 28800,
-    "removed": 1751609479
+    "port": 28800
   },
   {
     "name": "Hell let loose Official Server by g-portal.com",
     "addr": "176.57.134.30",
-    "port": 28100,
-    "removed": 1751609479
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1751609479
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1751609479
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -343,8 +339,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1751609479
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -482,20 +477,17 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1751609479
+    "port": 28100
   },
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1751609479
+    "port": 28400
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1751609479
+    "port": 28500
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -525,8 +517,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1751613025
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -623,26 +614,22 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100,
-    "removed": 1751609479
+    "port": 28100
   },
   {
     "name": "[GER] Deutsch Only | MIC Pflicht | Mapvote | Stahlsturm",
     "addr": "176.57.173.119",
-    "port": 28200,
-    "removed": 1751609479
+    "port": 28200
   },
   {
     "name": "HLD2",
     "addr": "176.57.173.119",
-    "port": 28500,
-    "removed": 1751609479
+    "port": 28500
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1751609479
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -748,7 +735,7 @@
     "port": 7797
   },
   {
-    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE | Clanctm.cl",
+    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE | clanctm.cl/torneo",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -1359,6 +1346,11 @@
     "port": 7787
   },
   {
+    "name": "CN|JP|GR萌新服|QQ：936845068",
+    "addr": "216.144.245.82",
+    "port": 7797
+  },
+  {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
     "port": 8530
@@ -1449,7 +1441,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1517,8 +1509,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1751458385
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #05",
@@ -1528,8 +1519,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1751544822
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1539,8 +1529,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1751544822
+    "port": 28200
   },
   {
     "name": "QA Testing - US West #09",
@@ -1683,7 +1672,7 @@
     "removed": 1751372029
   },
   {
-    "name": "CN丨Nexus『水晶枢纽』☆薯薯连☆665327895",
+    "name": "CN丨Nexus『水晶枢纽』☆艾欧尼亚☆665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2283,7 +2272,8 @@
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751631186
   },
   {
     "name": "HLL Official - South America #04",
@@ -2318,7 +2308,8 @@
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "89.46.1.190",
-    "port": 7827
+    "port": 7827,
+    "removed": 1751631186
   },
   {
     "name": "CN#日服#琳琅天上萌新小屋{纯攻防}Q群484555616",
