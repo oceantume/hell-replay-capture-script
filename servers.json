@@ -63,13 +63,13 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1751609479
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751695796
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -338,8 +338,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1751609479
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -349,8 +348,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1751609479
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -391,7 +389,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751695796
   },
   {
     "name": "HLL Official - Europe #02",
@@ -615,7 +614,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751695796
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -645,8 +645,7 @@
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1751609479
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #02",
@@ -656,7 +655,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751695796
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -681,8 +681,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1751609479
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1676,7 +1675,7 @@
     "removed": 1751372029
   },
   {
-    "name": "CN丨Nexus『水晶枢纽』☆艾欧尼亚☆665327895",
+    "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
     "addr": "5.56.25.100",
     "port": 7917
   },
@@ -2436,19 +2435,12 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.84",
-    "port": 7777,
-    "removed": 1751677373
+    "port": 7777
   },
   {
     "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
     "addr": "92.118.19.84",
     "port": 7797
-  },
-  {
-    "name": "Brasil - AIRBORNE 101 (Cave sua Trincheira e não Recue)",
-    "addr": "92.38.151.76",
-    "port": 28700,
-    "removed": 1751090993
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
