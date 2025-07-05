@@ -811,12 +811,6 @@
     "port": 7847
   },
   {
-    "name": "Amidships' Private Server",
-    "addr": "185.125.205.116",
-    "port": 8530,
-    "removed": 1751070839
-  },
-  {
     "name": "我是一个快乐的大几把 JP/HK/01/02/03",
     "addr": "185.216.144.75",
     "port": 10710
@@ -866,12 +860,6 @@
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
     "port": 9075
-  },
-  {
-    "name": "Cadmando - Commander Coffee Break, Flanked & Furious5",
-    "addr": "192.154.253.22",
-    "port": 9075,
-    "removed": 1751070839
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1835,7 +1823,8 @@
   {
     "name": "CN/Beta萌新社区服/节点日本/Q955048191",
     "addr": "64.31.11.26",
-    "port": 11800
+    "port": 11800,
+    "removed": 1751677373
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1890,7 +1879,8 @@
   {
     "name": "[WORLD UNITE] Warfare | No Rules | Votemap",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751677373
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2446,7 +2436,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751677373
   },
   {
     "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
