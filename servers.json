@@ -25,6 +25,11 @@
     "port": 8530
   },
   {
+    "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
+    "addr": "103.193.80.97",
+    "port": 7807
+  },
+  {
     "name": "OnlyClans (OC) Training/Scrim Server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -314,7 +319,8 @@
   {
     "name": "bryan vreeswijk hell let loose eu holland",
     "addr": "176.57.134.27",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751762370
   },
   {
     "name": "! ! !OINK 5 KAMPFSCHWEINE | BUMSHÜTTE | QS | GER",
@@ -1362,7 +1368,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751762370
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -1440,7 +1447,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1450,7 +1457,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1769,6 +1776,11 @@
     "port": 9620
   },
   {
+    "name": "#01 [ESP] Zona Cero",
+    "addr": "54.36.165.164",
+    "port": 8530
+  },
+  {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
@@ -2037,7 +2049,8 @@
   {
     "name": "Machine Soldiers Event Server | US EAST",
     "addr": "66.45.244.162",
-    "port": 9075
+    "port": 9075,
+    "removed": 1751762370
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
@@ -2370,7 +2383,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
