@@ -298,7 +298,8 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751785555
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -1009,7 +1010,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1751785555
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1672,10 +1674,9 @@
     "port": 7847
   },
   {
-    "name": "[CN/JP]ITK砂狼シロコ的作战训练Q群48381851",
+    "name": "[CN]MOTO战队社区服-QQ1031219165",
     "addr": "5.56.25.100",
-    "port": 7857,
-    "removed": 1751350302
+    "port": 7857
   },
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
