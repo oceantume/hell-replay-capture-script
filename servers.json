@@ -927,6 +927,11 @@
     "removed": 1751803915
   },
   {
+    "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
+    "addr": "192.169.86.50",
+    "port": 7807
+  },
+  {
     "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
     "addr": "192.169.86.54",
     "port": 7777,
@@ -1253,7 +1258,8 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751825354
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1312,7 +1318,7 @@
     "port": 7777
   },
   {
-    "name": "331 | Jungle Fight Club - Discord.gg/331st",
+    "name": "331 | Jungle Fight Club - discord.gg/331st",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1447,7 +1453,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1606,8 +1612,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "46.105.223.204",
-    "port": 7817,
-    "removed": 1751544822
+    "port": 7817
   },
   {
     "name": "Radical Gaming :: Paris :: Powered by Qonzer.com",
@@ -1615,7 +1620,7 @@
     "port": 7977
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "Ballroom Blitz - Arena #1",
     "addr": "49.12.83.52",
     "port": 7807
   },
@@ -1968,7 +1973,8 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751825354
   },
   {
     "name": "69 SPACE FORCE | US West",
@@ -2377,7 +2383,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2504,6 +2510,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751825354
   }
 ]
