@@ -95,7 +95,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751894282
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -1511,7 +1512,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751894282
   },
   {
     "name": "HLL Official - US West #03",
@@ -1583,8 +1585,7 @@
   {
     "name": "Team17 Test",
     "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1751893017
+    "port": 7777
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
