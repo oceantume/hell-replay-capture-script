@@ -450,10 +450,9 @@
     "port": 28100
   },
   {
-    "name": "[GER] Werwolf383 - Streamerfreundlich - keine Regeln, einfach S",
+    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
-    "port": 28000,
-    "removed": 1751827249
+    "port": 28000
   },
   {
     "name": "Death Korps of Krieg",
@@ -687,7 +686,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751890403
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -833,8 +833,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1751652604
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1065,9 +1064,15 @@
     "port": 8530
   },
   {
+    "name": "Bugtestserver",
+    "addr": "195.82.158.186",
+    "port": 21200
+  },
+  {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
-    "port": 21300
+    "port": 21300,
+    "removed": 1751890403
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1247,6 +1252,11 @@
     "addr": "208.115.212.75",
     "port": 7777,
     "removed": 1751825354
+  },
+  {
+    "name": "The General's Jaw Breakers | NA East | RP Only",
+    "addr": "208.115.212.75",
+    "port": 7787
   },
   {
     "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
@@ -1450,7 +1460,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1543,7 +1553,8 @@
   {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.85",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751890403
   },
   {
     "name": "HLL Official - US East #02",
@@ -1663,7 +1674,7 @@
     "port": 7847
   },
   {
-    "name": "[CN]MOTO战队社区服日本节点-QQ1031219165",
+    "name": "[CN/JP]MOTO战队社区纯冲突服-QQ1031219165",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -2284,8 +2295,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1751307022
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2318,7 +2328,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/假期快乐/Q:1034621661",
+    "name": "<CN>BW黑色守望/假期快乐/投票选图/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7797
   },
