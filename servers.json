@@ -542,8 +542,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1751891512
+    "port": 28500
   },
   {
     "name": "Lacio28 Trening",
@@ -1584,7 +1583,8 @@
   {
     "name": "Team17 Test",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751893017
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -2289,7 +2289,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751893017
   },
   {
     "name": "HLL Official - South America #01",
