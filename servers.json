@@ -95,8 +95,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1751872285
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -543,7 +542,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751891512
   },
   {
     "name": "Lacio28 Trening",
@@ -1257,12 +1257,6 @@
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
-  },
-  {
-    "name": "[FR] Seychelle Le Luchs - Débutants & Vétérans - discord.gg/",
-    "addr": "208.115.214.218",
-    "port": 7787,
-    "removed": 1751285614
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
