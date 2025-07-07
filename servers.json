@@ -335,8 +335,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1751868718
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -477,7 +476,8 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751911825
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -553,8 +553,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1751544822
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -598,7 +597,7 @@
     "port": 28200
   },
   {
-    "name": "HLD1",
+    "name": "Warrior's Battleground #1 ★ New Player Friendly | .gg/cmwrs",
     "addr": "176.57.171.44",
     "port": 28300
   },
@@ -615,8 +614,7 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000,
-    "removed": 1751695796
+    "port": 28000
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -634,7 +632,7 @@
     "port": 28200
   },
   {
-    "name": "HLD2",
+    "name": "Warrior's Battleground #2 ★ New Player Friendly | .gg/cmwrs",
     "addr": "176.57.173.119",
     "port": 28500
   },
@@ -833,7 +831,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751911825
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1444,7 +1443,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1512,8 +1511,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1751894282
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1575,12 +1573,6 @@
     "name": "Nightwarfare only || New & Skilled players welcome!",
     "addr": "45.143.199.235",
     "port": 9620
-  },
-  {
-    "name": "hll Server",
-    "addr": "45.151.81.210",
-    "port": 7777,
-    "removed": 1751307022
   },
   {
     "name": "Team17 Test",
@@ -1650,8 +1642,7 @@
   {
     "name": "GTZ战术大队跑图服",
     "addr": "5.56.25.100",
-    "port": 7817,
-    "removed": 1751868718
+    "port": 7817
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -1717,7 +1708,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 8530
+    "port": 8530,
+    "removed": 1751911825
   },
   {
     "name": "Moon",
@@ -2169,7 +2161,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751911825
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2184,7 +2177,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.56",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751911825
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2204,8 +2198,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1751652604
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2503,7 +2496,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1751825354
+    "port": 28200
   }
 ]
