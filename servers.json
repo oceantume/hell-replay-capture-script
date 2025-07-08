@@ -38,6 +38,12 @@
   {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.158",
+    "port": 28000,
+    "removed": 1751976837
+  },
+  {
+    "name": "HLL Official - Japan #02",
+    "addr": "103.97.52.159",
     "port": 28000
   },
   {
@@ -327,9 +333,19 @@
     "port": 28800
   },
   {
-    "name": "Hell let loose Official Server by g-portal.com",
+    "name": "QA Testing - EU #02",
+    "addr": "176.57.134.30",
+    "port": 28000
+  },
+  {
+    "name": "HLL Official - Europe #08",
     "addr": "176.57.134.30",
     "port": 28100
+  },
+  {
+    "name": "HLL Dev Team",
+    "addr": "176.57.134.30",
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -385,27 +401,32 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.140.24",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751976837
   },
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.140.24",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751976837
   },
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.140.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751976837
   },
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.140.24",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751976837
   },
   {
     "name": "HLL Dev Team",
     "addr": "176.57.140.24",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751976837
   },
   {
     "name": "frogus",
@@ -530,6 +551,16 @@
     "removed": 1751675625
   },
   {
+    "name": "HLL Official - Europe #04",
+    "addr": "176.57.169.108",
+    "port": 28000
+  },
+  {
+    "name": "QA Testing - EU #10",
+    "addr": "176.57.169.108",
+    "port": 28100
+  },
+  {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
@@ -545,6 +576,11 @@
     "port": 28500
   },
   {
+    "name": "HLL Official - Europe #02",
+    "addr": "176.57.169.108",
+    "port": 28700
+  },
+  {
     "name": "Lacio28 Trening",
     "addr": "176.57.171.140",
     "port": 28000
@@ -552,7 +588,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1751976837
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -649,12 +686,14 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.174.240",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751976837
   },
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.174.240",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751976837
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1008,7 +1047,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1018,7 +1057,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1065,8 +1104,7 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1751958588
+    "port": 21200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1109,12 +1147,6 @@
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
     "addr": "198.37.123.75",
     "port": 9075
-  },
-  {
-    "name": "[BR1] BR1 Gaming - US CENTRAL (DALLAS) - discord.gg/br1",
-    "addr": "198.37.123.75",
-    "port": 9620,
-    "removed": 1751372029
   },
   {
     "name": "cn.［AZEO］点酱杯比赛HK服q:1023021833",
@@ -1404,7 +1436,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1414,7 +1446,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1439,7 +1471,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1454,7 +1486,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1516,13 +1548,29 @@
   },
   {
     "name": "HLL Official - US West #03",
+    "addr": "45.137.246.13",
+    "port": 28700
+  },
+  {
+    "name": "HLL Official - US West #03",
     "addr": "45.137.246.6",
-    "port": 28500
+    "port": 28500,
+    "removed": 1751976837
+  },
+  {
+    "name": "HLL Official - US East #04",
+    "addr": "45.137.247.33",
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
     "port": 28700
+  },
+  {
+    "name": "HLL Official - US East #02",
+    "addr": "45.137.247.5",
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1532,7 +1580,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1751976837
   },
   {
     "name": "HLL Official - US East #06",
@@ -1542,7 +1591,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.85",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751976837
   },
   {
     "name": "QA Testing - US West #09",
@@ -1553,7 +1603,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.85",
-    "port": 28700
+    "port": 28700,
+    "removed": 1751976837
   },
   {
     "name": "Hell Broke Luce",
@@ -1674,12 +1725,6 @@
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
     "port": 7897
-  },
-  {
-    "name": "CN1/JP KL成分复杂且邦邦邦/QQ群:1020644075/暖服加群",
-    "addr": "5.56.25.100",
-    "port": 7907,
-    "removed": 1751372029
   },
   {
     "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
@@ -1893,7 +1938,7 @@
     "port": 7777
   },
   {
-    "name": "[WORLD UNITE] Warfare | No Rules",
+    "name": "[WORLD UNITE] Warfare",
     "addr": "64.31.29.68",
     "port": 7777
   },
@@ -2064,12 +2109,6 @@
     "port": 7787
   },
   {
-    "name": "Dark Horizon |Deathwish Mode| Discord.gg/dhz",
-    "addr": "69.162.89.146",
-    "port": 7777,
-    "removed": 1751372029
-  },
-  {
     "name": "シ MARRAM #3 - discord.gg/marram by qonzer.com",
     "addr": "69.162.89.149",
     "port": 7777
@@ -2150,6 +2189,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "81.159.102.190",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -2169,6 +2213,11 @@
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
     "port": 28200
+  },
+  {
+    "name": "HLL Official - Asia #02",
+    "addr": "83.223.197.15",
+    "port": 28300
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2203,8 +2252,14 @@
   },
   {
     "name": "HLL Official - Asia #03",
+    "addr": "83.223.197.90",
+    "port": 28100
+  },
+  {
+    "name": "HLL Official - Asia #03",
     "addr": "83.223.197.98",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751976837
   },
   {
     "name": "Boneyard",
@@ -2298,6 +2353,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Official - South America #04",
+    "addr": "89.43.106.36",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
@@ -2305,7 +2365,8 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.37",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751976837
   },
   {
     "name": "<CN>JP#1 瓦学弟萌新进阶(冲突/攻防)Q群：979552783",
@@ -2370,7 +2431,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
