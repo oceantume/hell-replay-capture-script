@@ -96,7 +96,8 @@
   {
     "name": "What can I say",
     "addr": "136.243.70.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751998216
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -182,12 +183,14 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
-    "port": 7797
+    "port": 7797,
+    "removed": 1751998216
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
     "addr": "15.235.225.173",
-    "port": 9075
+    "port": 9075,
+    "removed": 1751998216
   },
   {
     "name": "[PH/SEA] The Coalition | Map Voting | discord.gg/thecoalition",
@@ -222,17 +225,20 @@
   {
     "name": "cn淘宝人间地狱工作室安全高效",
     "addr": "156.146.44.225",
-    "port": 7827
+    "port": 7827,
+    "removed": 1751998216
   },
   {
     "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
     "addr": "156.146.44.225",
-    "port": 7837
+    "port": 7837,
+    "removed": 1751998216
   },
   {
     "name": "Reclaimer training server",
     "addr": "156.146.44.225",
-    "port": 7857
+    "port": 7857,
+    "removed": 1751998216
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
@@ -242,7 +248,8 @@
   {
     "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7907
+    "port": 7907,
+    "removed": 1751998216
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -339,7 +346,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751998216
   },
   {
     "name": "HLL Official - Europe #01",
@@ -445,7 +453,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751998216
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -570,6 +579,11 @@
     "port": 28500
   },
   {
+    "name": "DevQA - EU #01",
+    "addr": "176.57.169.108",
+    "port": 28600
+  },
+  {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
     "port": 28700
@@ -593,8 +607,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1751955073
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1382,7 +1395,8 @@
   {
     "name": "<CN>JP#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "216.144.245.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1751998216
   },
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
@@ -1470,7 +1484,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1693,7 +1707,8 @@
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "5.56.25.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1751998216
   },
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
@@ -2062,7 +2077,7 @@
     "port": 7777
   },
   {
-    "name": "3LA - New Players Welcome - US East - Join3LA.com/Discord",
+    "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
   },
@@ -2185,7 +2200,8 @@
   {
     "name": "HLL Server",
     "addr": "81.159.102.190",
-    "port": 7777
+    "port": 7777,
+    "removed": 1751998216
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2200,8 +2216,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1751911825
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2211,7 +2226,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1751998216
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2227,7 +2243,8 @@
   {
     "name": "hk-遇见萌新训练场",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1751998216
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2247,7 +2264,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100
+    "port": 28100,
+    "removed": 1751998216
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2419,7 +2437,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2546,6 +2564,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1751998216
   }
 ]
