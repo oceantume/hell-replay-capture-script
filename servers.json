@@ -862,7 +862,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752084627
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1461,7 +1462,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2192,12 +2193,14 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752084627
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752084627
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2543,7 +2546,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1751998216
+    "port": 28200
   }
 ]
