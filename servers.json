@@ -370,8 +370,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1752001652
+    "port": 28400
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -382,12 +381,6 @@
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
     "port": 28000
-  },
-  {
-    "name": "HTD - HaiiTeD Event Server",
-    "addr": "176.57.140.181",
-    "port": 30700,
-    "removed": 1751416528
   },
   {
     "name": "Warfrags Studios",
@@ -447,8 +440,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1751998216
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -1048,7 +1040,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1137,12 +1129,6 @@
     "name": "#1 | Danmark | Europe | www.hll-clan.dk | all maps",
     "addr": "198.244.177.84",
     "port": 8530
-  },
-  {
-    "name": "[BR1] BR1 Gaming Central Event Server (Dallas) - discord.gg/br1",
-    "addr": "198.37.123.75",
-    "port": 8530,
-    "removed": 1751416528
   },
   {
     "name": "♤Ctrl Alt Defeat [WARFARE] ctrlalt-defeat.com",
@@ -1437,7 +1423,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1447,7 +1433,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1472,12 +1458,12 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1487,7 +1473,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1939,7 +1925,7 @@
     "port": 7777
   },
   {
-    "name": "[WORLD UNITE] Warfare",
+    "name": "[WORLD UNITE] Warfare | No Rules | Votemap later",
     "addr": "64.31.29.68",
     "port": 7777
   },
@@ -2130,7 +2116,7 @@
     "port": 7777
   },
   {
-    "name": "[FPS] HELP SEED | CHICAGO | Recruiting | QONZER",
+    "name": "[FPS] New Players Welcome | CHICAGO | Recruiting | QONZER",
     "addr": "74.63.231.5",
     "port": 7777
   },
@@ -2427,7 +2413,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
