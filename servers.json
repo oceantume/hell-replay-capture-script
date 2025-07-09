@@ -49,7 +49,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752063219
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -102,8 +103,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1752045039
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -279,7 +279,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1752063219
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -442,8 +443,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100,
-    "removed": 1752045039
+    "port": 28100
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -730,12 +730,6 @@
     "port": 28000
   },
   {
-    "name": "Baum Server",
-    "addr": "176.57.181.105",
-    "port": 28200,
-    "removed": 1751458385
-  },
-  {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
@@ -868,8 +862,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1751911825
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -992,8 +985,7 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1752045039
+    "port": 7877
   },
   {
     "name": "AS YT",
@@ -1103,7 +1095,8 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1752063219
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1114,8 +1107,7 @@
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
     "addr": "198.244.177.7",
-    "port": 10165,
-    "removed": 1752045039
+    "port": 10165
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1480,7 +1472,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1580,7 +1572,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1752063219
   },
   {
     "name": "HLL Official - US East #04",
