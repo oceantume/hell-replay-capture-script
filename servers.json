@@ -345,7 +345,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1752041498
   },
   {
     "name": "QA Testing - EU #03",
@@ -557,7 +558,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752041498
   },
   {
     "name": "QA Testing - EU #04",
@@ -1401,8 +1403,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1752023213
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1743,8 +1744,12 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 8530,
-    "removed": 1751911825
+    "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "51.195.170.105",
+    "port": 9075
   },
   {
     "name": "Moon",
@@ -2118,7 +2123,7 @@
     "port": 7777
   },
   {
-    "name": "[FPS] New Players Welcome | CHICAGO | Recruiting | QONZER",
+    "name": "[FPS] New Players Welcome | CHICAGO | VIP For Seeding | QONZER",
     "addr": "74.63.231.5",
     "port": 7777
   },
