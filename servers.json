@@ -320,12 +320,6 @@
     "removed": 1751762370
   },
   {
-    "name": "! ! !OINK 5 KAMPFSCHWEINE | BUMSHÜTTE | QS | GER",
-    "addr": "176.57.134.27",
-    "port": 28400,
-    "removed": 1751547364
-  },
-  {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
     "addr": "176.57.134.27",
     "port": 28800
@@ -1394,7 +1388,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "216.219.93.37",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752152247
   },
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
