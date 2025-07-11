@@ -602,12 +602,6 @@
     "port": 28100
   },
   {
-    "name": "[GER] Die Alteingesessenen - Mikrofonpflicht - Warfare only",
-    "addr": "176.57.171.161",
-    "port": 28200,
-    "removed": 1751652604
-  },
-  {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
@@ -1089,6 +1083,11 @@
     "port": 8530
   },
   {
+    "name": "nitrado.net gameserver -wXpW5-1",
+    "addr": "195.82.158.186",
+    "port": 20300
+  },
+  {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
     "port": 21200
@@ -1472,7 +1471,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2217,7 +2216,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752257430
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2232,7 +2232,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752257430
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2258,7 +2259,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752257430
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2354,7 +2356,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752257430
   },
   {
     "name": "HLL Official - South America #01",
@@ -2573,6 +2576,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752257430
   }
 ]
