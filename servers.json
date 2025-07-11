@@ -27,8 +27,7 @@
   {
     "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1751782213
+    "port": 7807
   },
   {
     "name": "OnlyClans (OC) Training/Scrim Server",
@@ -49,8 +48,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1752063219
+    "port": 28300
   },
   {
     "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
@@ -643,10 +641,9 @@
     "port": 28000
   },
   {
-    "name": "[GER | DACH] Bunkerblüte & Panzerschokolade | Mic-Pflicht",
+    "name": "[GER | DACH] Bunkerblüte & Panzerschokolade | Mic-Pflicht | Lo",
     "addr": "176.57.171.7",
-    "port": 28100,
-    "removed": 1752217848
+    "port": 28100
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -1256,6 +1253,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.212.74",
+    "port": 7777
+  },
+  {
     "name": "[WARFARE] NO RULES | ALL MAPS",
     "addr": "208.115.212.74",
     "port": 7787
@@ -1310,6 +1312,11 @@
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren!",
     "addr": "208.115.226.2",
     "port": 7817
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.226.4",
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1473,7 +1480,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1539,6 +1546,11 @@
     "removed": 1751976837
   },
   {
+    "name": "QA Testing - US West #09",
+    "addr": "45.137.247.33",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
     "port": 28300
@@ -1551,8 +1563,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1752149612
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1562,7 +1573,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1752235987
   },
   {
     "name": "HLL Official - US East #06",
@@ -1926,10 +1938,14 @@
     "port": 7777
   },
   {
-    "name": "[WORLD UNITE] Warfare | No Rules | Votemap later",
+    "name": "Another Qonzer.com server is born!",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1752085622
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.29.69",
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2021,6 +2037,11 @@
     "name": "TTG 2.0 | Hosted by Merciless | Merc vs ROTN",
     "addr": "64.31.6.93",
     "port": 7797
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.6.94",
+    "port": 7777
   },
   {
     "name": "Radical Gaming :: Miami :: Powered by Qonzer.com",
@@ -2331,8 +2352,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1752171031
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2463,6 +2483,11 @@
     "port": 7777
   },
   {
+    "name": "The DRAFT [HAUS] Event Server",
+    "addr": "92.118.18.72",
+    "port": 7807
+  },
+  {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
     "port": 7797
@@ -2500,7 +2525,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752235987
   },
   {
     "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
