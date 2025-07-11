@@ -65,12 +65,6 @@
     "removed": 1752107750
   },
   {
-    "name": "[.PT] - EU Official UTC Server",
-    "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1751589301
-  },
-  {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "135.125.188.111",
     "port": 9075
@@ -280,8 +274,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1752149612
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -965,7 +958,8 @@
   {
     "name": "Dark Horizon US 2 | New Players Welcome | Discord.gg/dhz",
     "addr": "192.169.93.235",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752194179
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -1461,7 +1455,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1471,7 +1465,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -2050,7 +2044,8 @@
   {
     "name": "Dark Horizon US 1 | We Support Small Communities",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752194179
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -2411,7 +2406,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
