@@ -262,8 +262,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1752238574
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -996,8 +995,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1752304098
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1065,7 +1063,7 @@
     "port": 8530
   },
   {
-    "name": "[FR] VS WORLD",
+    "name": "[FR]",
     "addr": "195.82.158.186",
     "port": 20300
   },
@@ -1347,7 +1345,7 @@
     "port": 7777
   },
   {
-    "name": "HLL eTool | US-W | .gg/etool | Qonzer",
+    "name": "Thor's Hammer - XP SERVER | Qonzer | discord.gg/etool",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -1453,7 +1451,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1731,12 +1729,14 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752343779
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752343779
   },
   {
     "name": "Moon",
@@ -1862,7 +1862,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752343779
   },
   {
     "name": "<CN>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
@@ -2214,8 +2215,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1752257430
+    "port": 28300
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2246,7 +2246,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752343779
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2552,12 +2553,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752343779
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1752257430
+    "port": 28200
   }
 ]
