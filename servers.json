@@ -139,12 +139,6 @@
     "port": 9075
   },
   {
-    "name": "[GER] LWWC.de - Warfare - Comms! - Seeding Rules < 30 - Have fu",
-    "addr": "141.95.35.153",
-    "port": 8530,
-    "removed": 1751675625
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -528,12 +522,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
     "port": 28100
-  },
-  {
-    "name": "CZ/SK GOLDEN IMPERIUM // www.goldenimperium.com",
-    "addr": "176.57.168.91",
-    "port": 28200,
-    "removed": 1751675625
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1471,7 +1459,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1481,7 +1469,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1990,7 +1978,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US East #2",
+    "name": "TTG 2.0 | Hosted by Merciless | MIB vs ROTN",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -2133,7 +2121,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) New Player Heaven | US Central #2 | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
   },
@@ -2259,8 +2247,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1752257430
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
