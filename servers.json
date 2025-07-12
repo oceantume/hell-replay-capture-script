@@ -52,12 +52,6 @@
     "port": 28300
   },
   {
-    "name": "-TL- The Line | US WEST | Discord.gg/TheLine",
-    "addr": "104.238.222.122",
-    "port": 7797,
-    "removed": 1751717518
-  },
-  {
     "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
     "addr": "104.255.170.181",
     "port": 8530,
@@ -172,7 +166,8 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752322323
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -260,7 +255,7 @@
     "port": 7877
   },
   {
-    "name": "Turks Let Loose #2 - Türkiye [TR] - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose #2 - Etkinlik - discord.gg/TurksLetLoose",
     "addr": "169.150.215.68",
     "port": 7787
   },
@@ -926,12 +921,6 @@
     "removed": 1752214290
   },
   {
-    "name": "Bakers Dozen [B13] | US East | discord.gg/bakersdozen",
-    "addr": "192.169.86.54",
-    "port": 7777,
-    "removed": 1751717518
-  },
-  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -1192,7 +1181,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US Central #1 | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
   },
@@ -1474,7 +1463,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1567,8 +1556,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1752235987
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1616,7 +1604,8 @@
   {
     "name": "Team17 Test",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752322323
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -1675,7 +1664,7 @@
     "port": 7787
   },
   {
-    "name": "CN3#散人猫猫社区|极限攻防避难馆（投票选图Q120",
+    "name": "CN3#散人猫猫社区|保护萌新限杀馆（投票选图Q120",
     "addr": "5.56.25.100",
     "port": 7797
   },
@@ -1707,8 +1696,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1752304098
+    "port": 7877
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -2405,7 +2393,7 @@
     "port": 7817
   },
   {
-    "name": "<CN>BW黑色守望/假期快乐/投票选图/Q:1034621661",
+    "name": "<CN>BW黑色守望/投票换图/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7827
   },
