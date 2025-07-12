@@ -76,7 +76,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752300611
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -318,8 +319,7 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.134.30",
-    "port": 28100,
-    "removed": 1752214290
+    "port": 28100
   },
   {
     "name": "HLL Dev Team",
@@ -329,7 +329,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1752300611
   },
   {
     "name": "QA Testing - EU #03",
@@ -344,7 +345,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752300611
   },
   {
     "name": "HLL Official - Europe #05",
@@ -541,7 +543,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752300611
   },
   {
     "name": "QA Testing - EU #04",
@@ -790,7 +793,8 @@
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Practicas & Eventos",
     "addr": "181.214.221.41",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752300611
   },
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
@@ -1073,7 +1077,8 @@
   {
     "name": "[FR] VS WORLD",
     "addr": "195.82.158.186",
-    "port": 20300
+    "port": 20300,
+    "removed": 1752300611
   },
   {
     "name": "Bugtestserver",
@@ -1370,7 +1375,8 @@
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "216.144.245.82",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752300611
   },
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -1645,7 +1651,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !OINK 4 KAMPFSCHWEINE | BALLERBUDE | QS | GER",
+    "name": "! ! !OINK 69 KAMPFSCHWEINE | ROOKIE-HOUSE | HOT | GER",
     "addr": "49.12.83.52",
     "port": 7827
   },
@@ -1978,7 +1984,7 @@
     "port": 7777
   },
   {
-    "name": "TTG 2.0 | Hosted by Merciless | MIB vs ROTN",
+    "name": "[Merc] US East #2 | Offensive | Discord.gg/m3rc",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -2023,7 +2029,7 @@
     "port": 7777
   },
   {
-    "name": "TTG 2.0 | Hosted by Merciless | Merc vs ROTN",
+    "name": "[Merc] West Event Server",
     "addr": "64.31.6.93",
     "port": 7797
   },
