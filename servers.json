@@ -527,7 +527,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752431108
   },
   {
     "name": "QA Testing - EU #10",
@@ -542,7 +543,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752431108
   },
   {
     "name": "QA Testing - EU #04",
@@ -557,7 +559,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1752431108
   },
   {
     "name": "Lacio28 Trening",
