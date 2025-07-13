@@ -60,6 +60,11 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "135.125.188.111",
+    "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "135.125.188.111",
     "port": 9075
   },
   {
@@ -102,7 +107,8 @@
   {
     "name": "BSC v 106",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752408744
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -263,7 +269,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1752408744
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -904,12 +911,6 @@
   {
     "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
     "addr": "192.169.86.50",
-    "port": 7797,
-    "removed": 1751803915
-  },
-  {
-    "name": "Radical Gaming :: New York 2 :: Powered by Qonzer.com",
-    "addr": "192.169.86.50",
     "port": 7807,
     "removed": 1752214290
   },
@@ -1472,7 +1473,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1562,7 +1563,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1752408744
   },
   {
     "name": "HLL Official - US East #03",
@@ -2233,7 +2235,8 @@
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
     "addr": "83.223.197.42",
-    "port": 28900
+    "port": 28900,
+    "removed": 1752408744
   },
   {
     "name": "HLL Official - Asia #02",
