@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1752433326
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -598,10 +599,9 @@
     "port": 28000
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server Event2",
+    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1752432746
+    "port": 28300
   },
   {
     "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
@@ -1730,7 +1730,8 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752433326
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
