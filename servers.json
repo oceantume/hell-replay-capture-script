@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1752347006
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -294,12 +293,6 @@
     "name": "Testing",
     "addr": "176.57.134.27",
     "port": 28200
-  },
-  {
-    "name": "bryan vreeswijk hell let loose eu holland",
-    "addr": "176.57.134.27",
-    "port": 28300,
-    "removed": 1751762370
   },
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
@@ -788,8 +781,7 @@
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Practicas & Eventos",
     "addr": "181.214.221.41",
-    "port": 7797,
-    "removed": 1752300611
+    "port": 7797
   },
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
@@ -889,7 +881,7 @@
     "port": 7787
   },
   {
-    "name": "※ GLORY ETERNAL ※ [US EAST] ※ 7 DAYS VIP FOR SEEDING",
+    "name": "※ GLORY ETERNAL ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -945,7 +937,8 @@
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
     "addr": "192.169.95.10",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752367232
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1006,7 +999,8 @@
   {
     "name": "10th Mountain Division (US East) : discord.gg/10thMD",
     "addr": "192.169.95.98",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752367232
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
@@ -1145,6 +1139,11 @@
     "port": 8908
   },
   {
+    "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
+    "addr": "206.53.0.10",
+    "port": 7787
+  },
+  {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "206.53.0.10",
     "port": 7797
@@ -1253,6 +1252,16 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
+    "port": 7787
+  },
+  {
+    "name": "10th Mountain Division - Event - https://discord.gg/10thMD",
+    "addr": "208.115.212.77",
+    "port": 7787
+  },
+  {
+    "name": "10th Mountain Division - US East - https://discord.gg/10thMD",
+    "addr": "208.115.212.78",
     "port": 7787
   },
   {
@@ -1452,7 +1461,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1462,7 +1471,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1715,8 +1724,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1752347006
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1802,6 +1810,11 @@
     "port": 9720
   },
   {
+    "name": "# [12OCT] ARRIBA ESPAÑA | Welcome new players | Low Ping",
+    "addr": "54.37.129.102",
+    "port": 7807
+  },
+  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "57.128.229.70",
     "port": 7777
@@ -1864,8 +1877,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1752343779
+    "port": 8530
   },
   {
     "name": "<CN>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
@@ -1975,7 +1987,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US East #2 | Offensive | Discord.gg/m3rc",
+    "name": "[Merc] US East #2 | Warfare| Discord.gg/m3rc",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -2053,7 +2065,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752367232
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -2075,12 +2088,6 @@
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
     "port": 8530
-  },
-  {
-    "name": "Machine Soldiers Event Server | US EAST",
-    "addr": "66.45.244.162",
-    "port": 9075,
-    "removed": 1751762370
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
@@ -2185,7 +2192,8 @@
   {
     "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
     "addr": "79.141.174.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752367232
   },
   {
     "name": "HLL Server",
@@ -2427,7 +2435,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "91.134.56.12",
     "port": 7817
   },
