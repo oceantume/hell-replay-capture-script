@@ -348,7 +348,8 @@
   {
     "name": "chimera",
     "addr": "176.57.135.32",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752389034
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -1372,8 +1373,7 @@
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "216.144.245.82",
-    "port": 7797,
-    "removed": 1752388016
+    "port": 7797
   },
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -2326,8 +2326,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1752388016
+    "port": 7777
   },
   {
     "name": "Qinaii's | Event Server #2 | London",
