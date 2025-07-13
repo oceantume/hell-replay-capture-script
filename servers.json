@@ -1483,12 +1483,14 @@
   {
     "name": "Qinaii's | Event Server #1 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752369188
   },
   {
     "name": "Qinaii's | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752369188
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1992,7 +1994,7 @@
     "port": 7777
   },
   {
-    "name": "NEW PLAYER PARADISE | Enhance your HLL experience | Bad Intenti",
+    "name": "Circle vs Ronin - Host: Bad Intentions",
     "addr": "64.31.58.62",
     "port": 7777
   },
