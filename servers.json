@@ -268,8 +268,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1752408744
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -295,6 +294,11 @@
     "name": "CDS",
     "addr": "176.31.232.159",
     "port": 9075
+  },
+  {
+    "name": "Ottox Cinematics",
+    "addr": "176.57.134.27",
+    "port": 28100
   },
   {
     "name": "Testing",
@@ -419,7 +423,7 @@
     "port": 28200
   },
   {
-    "name": "ZPR vs. 106 - Friendly Match",
+    "name": "ZPR vs. 404 Friendly Midcap only",
     "addr": "176.57.153.114",
     "port": 28000
   },
@@ -574,8 +578,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1752387024
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -593,7 +596,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
+    "name": "[GER] 1. Fallschirmjäger-Division Server Event2",
     "addr": "176.57.171.176",
     "port": 28300
   },
@@ -1085,7 +1088,7 @@
     "port": 8530
   },
   {
-    "name": "[FR only] Les Résistants | discord.gg/hxSd3rqFRk",
+    "name": "[FR/BE] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "198.244.177.7",
     "port": 9075
   },
@@ -1247,12 +1250,6 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7777,
-    "removed": 1751825354
-  },
-  {
-    "name": "The General's Jaw Breakers | NA East | RP Only",
-    "addr": "208.115.212.75",
     "port": 7787
   },
   {
@@ -1409,7 +1406,8 @@
   {
     "name": "[PATRIA] Eastern Front Mayhem <UK/RO/DE>",
     "addr": "23.109.63.156",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752430158
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1462,7 +1460,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -2125,7 +2123,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US Central #3 | discord.gg/icoh",
+    "name": "(IC) New Player Heaven | US Central #3 Dallas | discord.gg/icoh",
     "addr": "69.162.89.150",
     "port": 7777
   },
@@ -2214,13 +2212,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1752257430
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752430158
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2230,7 +2228,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752430158
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2332,7 +2331,7 @@
     "port": 7777
   },
   {
-    "name": "Qinaii's | Event Server #2 | London",
+    "name": "Qinaii's | Event Server #2 | London | Qonzer.com",
     "addr": "85.208.197.70",
     "port": 7777
   },
@@ -2441,7 +2440,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
