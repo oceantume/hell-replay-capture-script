@@ -196,7 +196,8 @@
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752495239
   },
   {
     "name": "<CN>#5 TT天堂社交俱乐部(随机图)Q群：578097070",
@@ -241,7 +242,8 @@
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752495239
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -1025,7 +1027,8 @@
   {
     "name": "TD〢Tank Destroyers [EU/ENG] Discord.gg/TankDestroyers",
     "addr": "193.160.22.142",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752495239
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1065,20 +1068,12 @@
   {
     "name": "[FR]",
     "addr": "195.82.158.186",
-    "port": 20300,
-    "removed": 1752476458
+    "port": 20300
   },
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1752476458
-  },
-  {
-    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
-    "addr": "195.82.158.186",
-    "port": 21300,
-    "removed": 1751890403
+    "port": 21200
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1198,8 +1193,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1752476458
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1546,7 +1540,8 @@
   {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752495239
   },
   {
     "name": "HLL Official - US East #04",
@@ -1566,8 +1561,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1752408744
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1584,12 +1578,6 @@
     "addr": "45.137.247.85",
     "port": 28200,
     "removed": 1751976837
-  },
-  {
-    "name": "QA Testing - US West #09",
-    "addr": "45.137.247.85",
-    "port": 28400,
-    "removed": 1751890403
   },
   {
     "name": "HLL Official - US East #02",
@@ -2171,7 +2159,8 @@
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
     "addr": "78.142.218.164",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752495239
   },
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
@@ -2184,7 +2173,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] 19. Panzer Divison [19PD] - Eventserver",
+    "name": "Clan Ohne Namen - Eventserver",
     "addr": "78.46.101.16",
     "port": 11255
   },
