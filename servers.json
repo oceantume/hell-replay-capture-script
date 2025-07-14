@@ -196,8 +196,7 @@
   {
     "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "156.146.44.225",
-    "port": 7787,
-    "removed": 1752495239
+    "port": 7787
   },
   {
     "name": "<CN>#5 TT天堂社交俱乐部(随机图)Q群：578097070",
@@ -268,7 +267,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1752496373
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1540,8 +1540,7 @@
   {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1752495239
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
