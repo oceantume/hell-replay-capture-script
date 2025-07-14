@@ -473,12 +473,6 @@
     "port": 28000
   },
   {
-    "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
-    "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1751911825
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
     "port": 28300
@@ -654,8 +648,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1752473548
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -1458,7 +1451,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1468,7 +1461,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1637,7 +1630,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "49.12.83.52",
-    "port": 7807
+    "port": 7807,
+    "removed": 1752516666
   },
   {
     "name": "! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GER",
@@ -2214,8 +2208,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1752430158
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2233,12 +2226,6 @@
     "addr": "83.223.197.42",
     "port": 28900,
     "removed": 1752408744
-  },
-  {
-    "name": "HLL Official - Asia #02",
-    "addr": "83.223.197.56",
-    "port": 28000,
-    "removed": 1751911825
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2299,6 +2286,11 @@
     "port": 28700
   },
   {
+    "name": "[USC] [ENG]Hell Let Sigma Farming XP and Roles",
+    "addr": "83.223.207.55",
+    "port": 28000
+  },
+  {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
     "addr": "83.223.207.55",
     "port": 28200
@@ -2351,7 +2343,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752516666
   },
   {
     "name": "HLL Official - South America #01",
@@ -2565,8 +2558,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1752343779
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
