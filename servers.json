@@ -955,7 +955,7 @@
     "removed": 1752367232
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1132,7 +1132,7 @@
     "port": 7777
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Event Server",
+    "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -1364,7 +1364,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1374,7 +1374,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1399,7 +1399,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1684,7 +1684,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] Oktogon | OKT | Mic Only | Aim, Sweat, Repeat",
     "addr": "51.77.66.51",
     "port": 9075
   },
@@ -2127,12 +2127,6 @@
     "removed": 1752367232
   },
   {
-    "name": "HLL Server",
-    "addr": "81.159.102.190",
-    "port": 7777,
-    "removed": 1751998216
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -2145,18 +2139,19 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752603070
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752603070
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1752430158
+    "port": 28300
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2182,8 +2177,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1752343779
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2273,7 +2267,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752603070
   },
   {
     "name": "HLL Official - South America #01",
