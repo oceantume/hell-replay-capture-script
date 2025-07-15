@@ -85,7 +85,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1752559904
   },
   {
     "name": "What can I say",
@@ -541,8 +542,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1752473548
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -696,7 +696,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752559904
   },
   {
     "name": "QA Testing - EU #05",
@@ -822,8 +823,7 @@
   {
     "name": "我是一个快乐的大几把 JP/HK/01/02/03",
     "addr": "185.216.144.75",
-    "port": 10710,
-    "removed": 1752214290
+    "port": 10710
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -989,8 +989,7 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1752541717
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
@@ -1270,7 +1269,7 @@
     "port": 7857
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT |L25+|LOW PING| PBSGAMETEAM .COM",
+    "name": "POWERBITS GAMETEAM EVENT |LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
     "port": 7777
   },
@@ -1367,7 +1366,8 @@
   {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "216.144.245.82",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752559904
   },
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -1393,7 +1393,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1752559904
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
