@@ -37,12 +37,6 @@
   },
   {
     "name": "HLL Official - Japan #02",
-    "addr": "103.97.52.158",
-    "port": 28000,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Official - Japan #02",
     "addr": "103.97.52.159",
     "port": 28000
   },
@@ -384,36 +378,6 @@
     "port": 28000
   },
   {
-    "name": "DevQA - EU #01",
-    "addr": "176.57.140.24",
-    "port": 28100,
-    "removed": 1751976837
-  },
-  {
-    "name": "QA Testing - EU #10",
-    "addr": "176.57.140.24",
-    "port": 28200,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Official - Europe #04",
-    "addr": "176.57.140.24",
-    "port": 28300,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Official - Europe #02",
-    "addr": "176.57.140.24",
-    "port": 28500,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Dev Team",
-    "addr": "176.57.140.24",
-    "port": 28600,
-    "removed": 1751976837
-  },
-  {
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
@@ -565,12 +529,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1751976837
-  },
-  {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "176.57.171.158",
     "port": 28000
@@ -660,18 +618,6 @@
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
     "port": 28300
-  },
-  {
-    "name": "QA Testing - EU #02",
-    "addr": "176.57.174.240",
-    "port": 28300,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Official - Europe #08",
-    "addr": "176.57.174.240",
-    "port": 28500,
-    "removed": 1751976837
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -798,7 +744,8 @@
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1752581665
   },
   {
     "name": "シ MARRAM #6 - THE BUILDER - marram.com.br - qonzer.com",
@@ -992,7 +939,7 @@
     "port": 8530
   },
   {
-    "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
+    "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
     "port": 8772
   },
@@ -1192,8 +1139,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1752562778
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1394,8 +1340,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1752559904
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1531,12 +1476,6 @@
     "port": 28700
   },
   {
-    "name": "HLL Official - US West #03",
-    "addr": "45.137.246.6",
-    "port": 28500,
-    "removed": 1751976837
-  },
-  {
     "name": "QA Testing - US West #09",
     "addr": "45.137.247.33",
     "port": 28200
@@ -1549,7 +1488,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1752581665
   },
   {
     "name": "HLL Official - US East #02",
@@ -1559,7 +1499,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1752581665
   },
   {
     "name": "HLL Official - US East #03",
@@ -1570,18 +1511,6 @@
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
     "port": 28700
-  },
-  {
-    "name": "HLL Official - US East #04",
-    "addr": "45.137.247.85",
-    "port": 28200,
-    "removed": 1751976837
-  },
-  {
-    "name": "HLL Official - US East #02",
-    "addr": "45.137.247.85",
-    "port": 28700,
-    "removed": 1751976837
   },
   {
     "name": "Hell Broke Luce",
@@ -1755,10 +1684,9 @@
     "port": 8530
   },
   {
-    "name": "[GER] 19. Panzer Divison [19PD] - Wir rekrutieren!",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1752453537
+    "port": 9075
   },
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
@@ -1943,7 +1871,7 @@
     "port": 7777
   },
   {
-    "name": "[World Unite] All Warfare Maps - norules",
+    "name": "[World Unite] All Maps & Modes | like official but with banlist",
     "addr": "64.31.29.70",
     "port": 7777
   },
@@ -2262,12 +2190,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Asia #03",
-    "addr": "83.223.197.98",
-    "port": 28000,
-    "removed": 1751976837
-  },
-  {
     "name": "Boneyard",
     "addr": "83.223.203.138",
     "port": 28200
@@ -2350,8 +2272,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1752516666
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2372,12 +2293,6 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
-  },
-  {
-    "name": "HLL Official - South America #04",
-    "addr": "89.43.106.37",
-    "port": 28000,
-    "removed": 1751976837
   },
   {
     "name": "<CN>JP#1 瓦学弟萌新进阶(冲突/攻防)Q群：979552783",
@@ -2437,7 +2352,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
