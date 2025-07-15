@@ -1099,7 +1099,8 @@
   {
     "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
     "addr": "206.53.0.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752605192
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -1985,12 +1986,14 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752605192
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752605192
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
@@ -2001,7 +2004,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752605192
   },
   {
     "name": "Dark Horizon US 1 | We Support Small Communities",
@@ -2212,7 +2216,8 @@
   {
     "name": "[ENG]Sigma Let Loose Farming XP and Roles",
     "addr": "83.223.207.55",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752605192
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
