@@ -785,12 +785,6 @@
     "port": 9075
   },
   {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1752084627
-  },
-  {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
     "port": 7777
@@ -809,6 +803,11 @@
     "name": "RCON Testing",
     "addr": "188.165.39.157",
     "port": 7817
+  },
+  {
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "addr": "188.42.131.180",
+    "port": 7807
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1039,7 +1038,7 @@
     "port": 9620
   },
   {
-    "name": "#1 | Danmark | Europe | www.hll-clan.dk | all maps",
+    "name": "#1 | 8 vs 8 tournament | Danmark | Europe | www.hll-clan.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1282,8 +1281,7 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "208.115.250.5",
-    "port": 7787,
-    "removed": 1752668055
+    "port": 7787
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1403,7 +1401,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75+︱DISCORD.GG/THE",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1528,6 +1526,11 @@
     "name": "Nightwarfare only || New & Skilled players welcome!",
     "addr": "45.143.199.235",
     "port": 9620
+  },
+  {
+    "name": "hll Server",
+    "addr": "45.151.81.210",
+    "port": 7777
   },
   {
     "name": "Team17 Test",
@@ -2268,7 +2271,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752689439
   },
   {
     "name": "HLL Official - South America #01",
@@ -2354,7 +2358,7 @@
     "port": 7797
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
     "port": 7817
   },
@@ -2482,7 +2486,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752689439
   },
   {
     "name": "HLL Official - Australia #01",
