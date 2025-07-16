@@ -79,8 +79,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1752559904
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -344,8 +343,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1752473548
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -643,8 +641,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1752559904
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1801,6 +1798,11 @@
     "port": 9075
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.20.50.186",
+    "port": 9620
+  },
+  {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
     "port": 8530
@@ -2211,7 +2213,7 @@
     "port": 28700
   },
   {
-    "name": "[ENG]Sigma Let Loose Farming XP and Roles",
+    "name": "Sigma Let Loose | New Players Welcome! | Free Speech Server | U",
     "addr": "83.223.207.55",
     "port": 28000
   },
