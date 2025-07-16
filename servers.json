@@ -1016,8 +1016,7 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1752649174
+    "port": 21200
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1283,7 +1282,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "208.115.250.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752668055
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1413,7 +1413,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1487,8 +1487,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1752581665
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1498,8 +1497,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1752581665
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1748,10 +1746,9 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Infantry Only",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "57.128.229.70",
-    "port": 7807,
-    "removed": 1752541717
+    "port": 7807
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -1817,7 +1814,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752668055
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -2340,6 +2338,11 @@
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.207.161.117",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
