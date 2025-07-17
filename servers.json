@@ -314,7 +314,8 @@
   {
     "name": "HLL Official - Europe #08",
     "addr": "176.57.134.30",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752757114
   },
   {
     "name": "HLL Dev Team",
@@ -537,8 +538,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1752755571
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -558,8 +558,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1752754449
+    "port": 28300
   },
   {
     "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
@@ -640,8 +639,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1752754449
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1327,12 +1325,6 @@
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
     "port": 8530
-  },
-  {
-    "name": "The DRAFT [HAUS] Event Server",
-    "addr": "216.219.93.37",
-    "port": 7797,
-    "removed": 1752152247
   },
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
@@ -2283,8 +2275,7 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1752689439
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
