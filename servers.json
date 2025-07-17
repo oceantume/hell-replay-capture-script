@@ -63,7 +63,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752732716
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -610,7 +611,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752732716
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -2029,7 +2031,7 @@
     "port": 9620
   },
   {
-    "name": "多 | FREEDOM RAAAH | NO HOLDS BARRED | .gg/hostile",
+    "name": "多 | Low Level Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
     "port": 7777
   },
@@ -2310,12 +2312,6 @@
     "port": 7787
   },
   {
-    "name": "<CN>BW黑色守望/假期快乐/投票选图/Q:1034621661",
-    "addr": "89.46.1.190",
-    "port": 7797,
-    "removed": 1752127894
-  },
-  {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
     "addr": "89.46.1.190",
     "port": 7807
@@ -2329,12 +2325,6 @@
     "name": "<CN>BW黑色守望/投票换图/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7827
-  },
-  {
-    "name": "CN#日服#琳琅天上萌新小屋{纯攻防}Q群484555616",
-    "addr": "89.46.1.190",
-    "port": 7847,
-    "removed": 1752127894
   },
   {
     "name": "<CN>#2 EMP帝国社区 绿魔鬼冲突服 |Q258455568 JP节点",
@@ -2442,20 +2432,17 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
-    "port": 7787,
-    "removed": 1752712636
+    "port": 7787
   },
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.66",
-    "port": 7787,
-    "removed": 1752712636
+    "port": 7787
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777,
-    "removed": 1752712636
+    "port": 7777
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
@@ -2466,8 +2453,7 @@
   {
     "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
     "addr": "92.118.19.84",
-    "port": 7797,
-    "removed": 1752712636
+    "port": 7797
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
