@@ -46,12 +46,6 @@
     "port": 28300
   },
   {
-    "name": "σ CHAD STUART'S EVENT SERVER — US WEST — discord.gg/chadfg",
-    "addr": "104.255.170.181",
-    "port": 8530,
-    "removed": 1752107750
-  },
-  {
     "name": "For Tea & Country #2 Storm in a Teacup",
     "addr": "135.125.188.111",
     "port": 8530
@@ -441,6 +435,11 @@
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
     "port": 28000
+  },
+  {
+    "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
+    "addr": "176.57.168.254",
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1035,7 +1034,8 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ UKLETLOOSE.CO.UK - New Player Frien",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1752712636
   },
   {
     "name": "#1 | Danmark | Europe | www.hll-clan.dk",
@@ -1401,7 +1401,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1411,7 +1411,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1726,7 +1726,8 @@
   {
     "name": "#01 [ESP] Zona Cero",
     "addr": "54.36.165.164",
-    "port": 8530
+    "port": 8530,
+    "removed": 1752712636
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
@@ -1875,7 +1876,7 @@
     "port": 7777
   },
   {
-    "name": "[World Unite] All Maps & Modes | like official but with banlist",
+    "name": "-= Freedom =- All Maps & Modes | like official w banlist #NoRul",
     "addr": "64.31.29.70",
     "port": 7777
   },
@@ -2042,6 +2043,11 @@
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
     "port": 7827
+  },
+  {
+    "name": "Garries Gone Wild",
+    "addr": "69.162.102.51",
+    "port": 7777
   },
   {
     "name": "Fire For Effect [FFE] S1",
@@ -2437,17 +2443,20 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752712636
   },
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.66",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752712636
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752712636
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
@@ -2458,7 +2467,8 @@
   {
     "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
     "addr": "92.118.19.84",
-    "port": 7797
+    "port": 7797,
+    "removed": 1752712636
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
