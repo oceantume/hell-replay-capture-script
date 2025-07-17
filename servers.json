@@ -379,12 +379,6 @@
     "port": 28200
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus [ab Lvl 30] [Mikro Pflicht]",
-    "addr": "176.57.140.83",
-    "port": 28000,
-    "removed": 1752171031
-  },
-  {
     "name": "[GER] Zum goldenen Brennholzspartaner | Mic Pflicht",
     "addr": "176.57.140.83",
     "port": 28200
@@ -809,7 +803,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1752775851
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1397,7 +1392,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1628,6 +1623,11 @@
     "port": 7877
   },
   {
+    "name": "eros",
+    "addr": "5.56.25.100",
+    "port": 7887
+  },
+  {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
     "port": 7897
@@ -1668,12 +1668,6 @@
     "addr": "51.195.170.105",
     "port": 9075,
     "removed": 1752343779
-  },
-  {
-    "name": "Moon",
-    "addr": "51.75.58.123",
-    "port": 7777,
-    "removed": 1752171031
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -2141,13 +2135,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752775851
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1752603070
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2274,7 +2268,8 @@
   {
     "name": "Hookway's Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1752775851
   },
   {
     "name": "HLL Official - South America #01",
@@ -2483,12 +2478,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1752689439
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752775851
   }
 ]
