@@ -25,12 +25,6 @@
     "port": 8530
   },
   {
-    "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
-    "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1752238574
-  },
-  {
     "name": "OnlyClans (OC) Training/Scrim Server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -795,6 +789,11 @@
     "port": 9075
   },
   {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
+  },
+  {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
     "port": 7777
@@ -1324,6 +1323,11 @@
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "216.144.245.82",
     "port": 7797
+  },
+  {
+    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
+    "addr": "216.144.245.85",
+    "port": 7777
   },
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -2316,6 +2320,11 @@
     "port": 7827
   },
   {
+    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
+    "addr": "89.46.1.190",
+    "port": 7837
+  },
+  {
     "name": "<CN>#2 EMP帝国社区 绿魔鬼冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7857
@@ -2455,8 +2464,7 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600,
-    "removed": 1752841995
+    "port": 28600
   },
   {
     "name": "US WEST | Blood Buckets",
