@@ -63,8 +63,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1752732716
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -341,7 +340,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752819089
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1007,7 +1007,8 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1752819089
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1268,6 +1269,11 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.90",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.248.91",
     "port": 7777
   },
   {
@@ -1568,7 +1574,7 @@
     "removed": 1752516666
   },
   {
-    "name": "! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GER",
+    "name": "! ! ! ! ! ! ! ! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GE",
     "addr": "49.12.83.52",
     "port": 7827
   },
@@ -1798,7 +1804,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Radical Gaming Network",
     "addr": "64.20.50.186",
     "port": 9620
   },
@@ -2342,44 +2348,37 @@
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
-    "port": 7787,
-    "removed": 1752691552
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | EU | discord.gg/icoh",
     "addr": "91.134.56.12",
-    "port": 7797,
-    "removed": 1752691552
+    "port": 7797
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 50★︱DISCORD.GG/THE-CIRC",
     "addr": "91.134.56.12",
-    "port": 7817,
-    "removed": 1752691552
+    "port": 7817
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
     "addr": "91.134.56.12",
-    "port": 7827,
-    "removed": 1752691552
+    "port": 7827
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "91.134.56.12",
-    "port": 7847,
-    "removed": 1752691552
+    "port": 7847
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "91.134.56.12",
-    "port": 7857,
-    "removed": 1752691552
+    "port": 7857
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "91.134.56.12",
-    "port": 7867,
-    "removed": 1752691552
+    "port": 7867
   },
   {
     "name": "Team17",
