@@ -160,7 +160,8 @@
   {
     "name": "[GER] Oktogon | OKT | Event",
     "addr": "148.251.182.199",
-    "port": 11255
+    "port": 11255,
+    "removed": 1752798994
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -556,7 +557,8 @@
   {
     "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
     "addr": "176.57.171.44",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752798994
   },
   {
     "name": "Warrior's Battleground #1 ★ New Player Friendly | .gg/cmwrs",
@@ -700,7 +702,7 @@
     "port": 7797
   },
   {
-    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE | clanctm.cl/torneo",
+    "name": "! ! ! ! ! [LATAM/ESP] CLAN | CTM | #01 CHILE | clanctm.cl/torne",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -871,12 +873,6 @@
     "addr": "192.169.93.234",
     "port": 7777,
     "removed": 1752214290
-  },
-  {
-    "name": "Dark Horizon US 2 | New Players Welcome | Discord.gg/dhz",
-    "addr": "192.169.93.235",
-    "port": 7787,
-    "removed": 1752194179
   },
   {
     "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
@@ -1270,6 +1266,16 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.248.90",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.248.92",
+    "port": 7777
+  },
+  {
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "208.115.250.5",
     "port": 7777
@@ -1290,7 +1296,7 @@
     "port": 7777
   },
   {
-    "name": "Thor's Hammer - XP SERVER | Qonzer | discord.gg/etool",
+    "name": "Hotdog 24/7",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -1391,7 +1397,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 75★︱DISCORD.GG/T",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25★︱DISCORD.GG/T",
     "addr": "31.56.0.20",
     "port": 7777
   },
@@ -1401,7 +1407,7 @@
     "port": 7787
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25★︱DISCORD.GG/THE-CI",
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱DISCORD.GG/THE-CIRCLE",
     "addr": "31.56.0.21",
     "port": 7777
   },
@@ -1676,12 +1682,14 @@
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Aim, Sweat, Repeat",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1752798994
   },
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
     "addr": "51.77.66.51",
-    "port": 9620
+    "port": 9620,
+    "removed": 1752798994
   },
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
@@ -1823,7 +1831,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
-    "port": 7787
+    "port": 7787,
+    "removed": 1752798994
   },
   {
     "name": "BadgerGrounds - West Mongolia",
@@ -1997,12 +2006,6 @@
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
-  },
-  {
-    "name": "Dark Horizon US 1 | We Support Small Communities",
-    "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1752194179
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -2185,6 +2188,11 @@
     "port": 28100
   },
   {
+    "name": "La guerre des boutons",
+    "addr": "83.223.203.138",
+    "port": 28000
+  },
+  {
     "name": "Boneyard",
     "addr": "83.223.203.138",
     "port": 28200
@@ -2227,7 +2235,8 @@
   {
     "name": "Durty Dozen",
     "addr": "83.223.207.55",
-    "port": 28700
+    "port": 28700,
+    "removed": 1752798994
   },
   {
     "name": "hll Server",
