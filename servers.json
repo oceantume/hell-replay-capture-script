@@ -344,8 +344,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1752927131
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1526,6 +1525,11 @@
     "port": 11255
   },
   {
+    "name": "[AnE] Old Timers Let Loose",
+    "addr": "45.143.199.235",
+    "port": 8530
+  },
+  {
     "name": "MUHtion Media",
     "addr": "45.143.199.235",
     "port": 9075
@@ -2123,7 +2127,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752948572
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2133,12 +2138,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1752948572
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752948572
   },
   {
     "name": "<cn>EROS狗叫天堂HK QQ686886842",
@@ -2164,8 +2171,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1752862231
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2286,7 +2292,7 @@
     "port": 28600
   },
   {
-    "name": "CN/JP#7.19【SA】瓦学弟邀请赛Q群：979552783",
+    "name": "<CN>JP#1 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
