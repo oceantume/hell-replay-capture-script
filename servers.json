@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1752840859
+    "port": 28300
   },
   {
     "name": "For Tea & Country #2 Storm in a Teacup",
@@ -345,7 +344,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752927131
   },
   {
     "name": "HLL Official - Europe #05",
@@ -536,7 +536,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1752927131
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -582,7 +583,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752927131
   },
   {
     "name": "[GER | DACH] Bunkerblüte & Panzerschokolade | Mic-Pflicht | Lo",
@@ -1493,14 +1495,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1752840859
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1752840859
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1541,12 +1541,6 @@
     "name": "hll Server",
     "addr": "45.151.81.210",
     "port": 7777
-  },
-  {
-    "name": "Team17 Test",
-    "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1752322323
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -2294,7 +2288,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶(冲突/攻防)Q群：979552783",
+    "name": "CN/JP#7.19【SA】瓦学弟邀请赛Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2314,7 +2308,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#3 IMP帝国社区 风暴兵攻防服 |Q1020812925 JP节点",
+    "name": "<CN>#3 IMP帝国社区 HRC越野赛 |Q1020812925 JP节点",
     "addr": "89.46.1.190",
     "port": 7817
   },
