@@ -314,8 +314,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1752885373
+    "port": 28000
   },
   {
     "name": "HLL Official - Europe #08",
@@ -336,8 +335,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1752885373
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -444,7 +442,8 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1752887198
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
