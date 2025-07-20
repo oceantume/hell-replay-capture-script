@@ -274,8 +274,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1753013555
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1212,7 +1211,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753034974
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
@@ -1345,12 +1345,6 @@
     "port": 9075
   },
   {
-    "name": "[PATRIA] Eastern Front Mayhem <UK/RO/DE>",
-    "addr": "23.109.63.156",
-    "port": 9075,
-    "removed": 1752430158
-  },
-  {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
     "addr": "23.111.240.210",
     "port": 9075
@@ -1418,7 +1412,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "31.56.0.24",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753034974
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1428,7 +1423,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
-    "port": 7877
+    "port": 7877,
+    "removed": 1753034974
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1615,8 +1611,7 @@
   {
     "name": "<CN1>牢逼登吃D窝/JP节点/萌新进阶/Q:882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1753017287
+    "port": 7877
   },
   {
     "name": "eros",
@@ -2102,8 +2097,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1752948572
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2250,7 +2244,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#中韩36V36对抗赛（瓦学弟）Q群：979552783",
+    "name": "<CN>JP#1 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2290,7 +2284,7 @@
     "port": 7857
   },
   {
-    "name": "EMP帝国社区7.20邀请赛",
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "89.46.1.190",
     "port": 7887
   },
