@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1752951881
+    "port": 8888
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -24,6 +23,11 @@
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.171",
     "port": 8530
+  },
+  {
+    "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
+    "addr": "103.193.80.97",
+    "port": 7807
   },
   {
     "name": "OnlyClans (OC) Training/Scrim Server",
@@ -872,12 +876,6 @@
     "port": 8772
   },
   {
-    "name": "10th Mountain Division Event/Training : discord.gg/10thMD",
-    "addr": "192.169.95.10",
-    "port": 8530,
-    "removed": 1752367232
-  },
-  {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
     "addr": "192.169.95.10",
     "port": 9075
@@ -926,12 +924,6 @@
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
     "port": 9075
-  },
-  {
-    "name": "10th Mountain Division (US East) : discord.gg/10thMD",
-    "addr": "192.169.95.98",
-    "port": 9075,
-    "removed": 1752367232
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
@@ -1102,7 +1094,7 @@
     "port": 7787
   },
   {
-    "name": "Current Level: Banned From Glows(D1CK)",
+    "name": "Current Level: Wheres The List?(D1CK)",
     "addr": "206.53.0.15",
     "port": 7777
   },
@@ -1521,7 +1513,7 @@
     "port": 10165
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1659,8 +1651,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1752951881
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1952,7 +1943,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] West Event Server",
+    "name": "TTG 2.0 Final | 7AD vs ROTN",
     "addr": "64.31.6.93",
     "port": 7797
   },
@@ -1975,12 +1966,6 @@
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
-  },
-  {
-    "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
-    "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1752367232
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -2109,12 +2094,6 @@
     "port": 9620
   },
   {
-    "name": "En Svensk Tiger #１ | SWE/ENG | svensktiger.com",
-    "addr": "79.141.174.122",
-    "port": 8530,
-    "removed": 1752367232
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -2205,7 +2184,7 @@
     "port": 28700
   },
   {
-    "name": "Sigma Let Loose | New Players Welcome! | Free Speech Server | U",
+    "name": "Sigma Let Loose | Farming XP and Roles | Free Speech Server | U",
     "addr": "83.223.207.55",
     "port": 28000
   },
