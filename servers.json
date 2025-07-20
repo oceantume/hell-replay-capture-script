@@ -990,12 +990,14 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1752974068
   },
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1752974068
   },
   {
     "name": "Bugtestserver",
@@ -1421,18 +1423,6 @@
     "port": 7777
   },
   {
-    "name": "Qinaii's | Event Server #1 | Frankfurt",
-    "addr": "31.56.0.37",
-    "port": 7777,
-    "removed": 1752369188
-  },
-  {
-    "name": "Qinaii's | Event Server #3 | Frankfurt",
-    "addr": "31.56.0.37",
-    "port": 7787,
-    "removed": 1752369188
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
@@ -1515,7 +1505,8 @@
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s",
     "addr": "45.143.199.235",
-    "port": 10710
+    "port": 10710,
+    "removed": 1752974068
   },
   {
     "name": "[FR|TdA] La Tempête d'Acier.com|Micro Fr Certifié|Seed 2.0",
