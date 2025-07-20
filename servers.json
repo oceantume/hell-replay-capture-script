@@ -165,7 +165,8 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
-    "port": 7797
+    "port": 7797,
+    "removed": 1753013555
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -274,7 +275,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753013555
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1477,7 +1479,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753013555
   },
   {
     "name": "HLL Official - US East #05",
@@ -1500,10 +1503,9 @@
     "port": 10165
   },
   {
-    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s",
+    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | French Only | Micro Obliga",
     "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1752974068
+    "port": 10710
   },
   {
     "name": "[FR|TdA] La Tempête d'Acier.com|Micro Fr Certifié|Seed 2.0",
@@ -2110,12 +2112,6 @@
     "removed": 1752948572
   },
   {
-    "name": "<cn>EROS狗叫天堂HK QQ686886842",
-    "addr": "83.223.197.42",
-    "port": 28900,
-    "removed": 1752408744
-  },
-  {
     "name": "hk-遇见萌新训练场",
     "addr": "83.223.197.85",
     "port": 28000
@@ -2254,7 +2250,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
+    "name": "<CN>JP#中韩36V36对抗赛（瓦学弟）Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2294,7 +2290,7 @@
     "port": 7857
   },
   {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "name": "EMP帝国社区7.20邀请赛",
     "addr": "89.46.1.190",
     "port": 7887
   },
