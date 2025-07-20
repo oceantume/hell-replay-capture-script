@@ -27,7 +27,8 @@
   {
     "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1752991846
   },
   {
     "name": "OnlyClans (OC) Training/Scrim Server",
@@ -510,7 +511,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1752991846
   },
   {
     "name": "QA Testing - EU #04",
@@ -586,7 +588,8 @@
   {
     "name": "[GER] Λ • TAURUS #1 | Wir rekrutieren! | discord.gg/taurus",
     "addr": "176.57.171.7",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752991846
   },
   {
     "name": "[GER | DACH] Bunkerblüte & Panzerschokolade | Mic-Pflicht | Lo",
@@ -642,7 +645,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752991846
   },
   {
     "name": "QA Testing - UK #07",
@@ -652,7 +656,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1752991846
   },
   {
     "name": "QA Testing - EU #05",
@@ -990,14 +995,12 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800,
-    "removed": 1752974068
+    "port": 20800
   },
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1752974068
+    "port": 20900
   },
   {
     "name": "Bugtestserver",
@@ -1934,7 +1937,7 @@
     "port": 7777
   },
   {
-    "name": "TTG 2.0 Final | 7AD vs ROTN",
+    "name": "[Merc] US West | Event Server | ACE v Circle",
     "addr": "64.31.6.93",
     "port": 7797
   },
@@ -2277,7 +2280,7 @@
     "port": 7807
   },
   {
-    "name": "<CN>#3 IMP帝国社区 HRC越野赛 |Q1020812925 JP节点",
+    "name": "<CN>#3 IMP帝国社区 风暴兵德攻服 |Q1020812925 JP节点",
     "addr": "89.46.1.190",
     "port": 7817
   },
