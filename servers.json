@@ -73,8 +73,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1753078347
+    "port": 9224
   },
   {
     "name": "What can I say",
@@ -366,7 +365,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753121453
   },
   {
     "name": "Warfrags Studios",
@@ -726,7 +726,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "シ MARRAM #3 - discord.gg/marram - vip.marram.com.br",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -808,7 +808,7 @@
     "port": 7817
   },
   {
-    "name": "Hell Let Loose Server",
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
   },
@@ -825,6 +825,11 @@
   {
     "name": "Rocky Hill",
     "addr": "192.169.80.28",
+    "port": 7787
+  },
+  {
+    "name": "Pathfinders | Event Server",
+    "addr": "192.169.86.106",
     "port": 7787
   },
   {
@@ -1269,7 +1274,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "208.115.250.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1753121453
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1590,7 +1596,8 @@
   {
     "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
     "addr": "5.56.25.100",
-    "port": 7847
+    "port": 7847,
+    "removed": 1753121453
   },
   {
     "name": "[CN/JP]MOTO战队社区纯冲突服-QQ1031219165",
@@ -1603,7 +1610,7 @@
     "port": 7877
   },
   {
-    "name": "eros",
+    "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
     "addr": "5.56.25.100",
     "port": 7887
   },
@@ -1621,6 +1628,51 @@
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#新服Q:500001820",
     "addr": "5.56.25.11",
     "port": 7797
+  },
+  {
+    "name": "#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
+    "addr": "5.56.25.243",
+    "port": 7777
+  },
+  {
+    "name": "#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
+    "addr": "5.56.25.243",
+    "port": 7787
+  },
+  {
+    "name": "#5 TT天堂社交俱乐部(随机图)Q群：578097070",
+    "addr": "5.56.25.243",
+    "port": 7797
+  },
+  {
+    "name": "#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
+    "addr": "5.56.25.243",
+    "port": 7817
+  },
+  {
+    "name": "cn淘宝人间地狱工作室安全高效",
+    "addr": "5.56.25.243",
+    "port": 7827
+  },
+  {
+    "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
+    "addr": "5.56.25.243",
+    "port": 7837
+  },
+  {
+    "name": "Reclaimer training server",
+    "addr": "5.56.25.243",
+    "port": 7857
+  },
+  {
+    "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
+    "addr": "5.56.25.243",
+    "port": 7887
+  },
+  {
+    "name": "#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "addr": "5.56.25.243",
+    "port": 7907
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1643,7 +1695,7 @@
     "port": 8530
   },
   {
-    "name": "Turks Let Loose [TR] - Türkiye - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose [TR] - Yeni IP - discord.gg/TurksLetLoose",
     "addr": "51.77.66.51",
     "port": 9075
   },
@@ -1773,7 +1825,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "64.31.16.186",
-    "port": 7787
+    "port": 7787,
+    "removed": 1753121453
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1816,7 +1869,7 @@
     "port": 7807
   },
   {
-    "name": "Greyhound | Event Server #1 | Frankfurt | Qonzer.com",
+    "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -2115,7 +2168,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753121453
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2190,7 +2244,7 @@
     "port": 7777
   },
   {
-    "name": "Qinaii's | Event Server #2 | London | Qonzer.com",
+    "name": "Q's - Qonzer.com | Event Server #2 | London",
     "addr": "85.208.197.70",
     "port": 7777
   },
