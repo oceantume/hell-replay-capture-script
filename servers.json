@@ -73,7 +73,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1753078347
   },
   {
     "name": "What can I say",
@@ -350,7 +351,8 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753078347
   },
   {
     "name": "HLL Official - Europe #05",
@@ -505,8 +507,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1752991846
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -536,7 +537,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753078347
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -639,8 +641,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1752991846
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -650,8 +651,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1752991846
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -994,8 +994,7 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1753060334
+    "port": 20900
   },
   {
     "name": "Bugtestserver",
@@ -1024,7 +1023,7 @@
     "port": 9620
   },
   {
-    "name": "#1 | Danmark | ENG/DA | www.8vs8.hellletloose.dk",
+    "name": "ENG/DA | Danmark | www.hellletloose.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1212,7 +1211,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753078347
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
@@ -1305,7 +1305,7 @@
     "port": 7787
   },
   {
-    "name": "BLOOP! Battles | LVL 25+ only | USE MICS!",
+    "name": "BLOOP! Battles | Watch post-game in spectator view!",
     "addr": "209.192.185.50",
     "port": 7817
   },
@@ -2247,7 +2247,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶(攻防/冲突)Q群：979552783",
+    "name": "<CN>JP#1 瓦学弟萌新进阶(同盟进攻服)Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
