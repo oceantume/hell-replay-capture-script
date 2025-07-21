@@ -269,8 +269,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1753101233
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -809,7 +808,7 @@
     "port": 7817
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "name": "Hell Let Loose Server",
     "addr": "188.42.131.180",
     "port": 7807
   },
@@ -1199,7 +1198,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753102809
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
@@ -1643,7 +1643,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Turks Let Loose [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "51.77.66.51",
     "port": 9075
   },
