@@ -269,7 +269,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753101233
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -724,6 +725,11 @@
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "181.214.221.41",
     "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "181.214.221.41",
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Practicas & Eventos",
@@ -1637,10 +1643,9 @@
     "port": 8530
   },
   {
-    "name": "[GER] Oktogon | OKT | Mic Only | Aim, Sweat, Repeat",
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1752798994
+    "port": 9075
   },
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
@@ -1764,6 +1769,11 @@
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
     "port": 8530
+  },
+  {
+    "name": "Pathfinders | Event Server",
+    "addr": "64.31.16.186",
+    "port": 7787
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1981,10 +1991,9 @@
     "port": 7787
   },
   {
-    "name": "シ MARRAM #3 - discord.gg/marram by qonzer.com",
+    "name": "hll Server",
     "addr": "69.162.89.149",
-    "port": 7777,
-    "removed": 1752582808
+    "port": 7777
   },
   {
     "name": "(IC) New Player Heaven | US Central #3 Dallas | discord.gg/icoh",
