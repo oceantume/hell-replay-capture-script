@@ -994,10 +994,11 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1753060334
   },
   {
-    "name": " \u0001",
+    "name": "Bugtestserver",
     "addr": "195.82.158.186",
     "port": 21200
   },
@@ -1211,8 +1212,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1753037647
+    "port": 7777
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
