@@ -537,8 +537,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1753078347
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -586,12 +585,6 @@
     "addr": "176.57.171.7",
     "port": 28000,
     "removed": 1752991846
-  },
-  {
-    "name": "[GER | DACH] Bunkerblüte & Panzerschokolade | Mic-Pflicht | Lo",
-    "addr": "176.57.171.7",
-    "port": 28100,
-    "removed": 1752473548
   },
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)",
@@ -994,12 +987,14 @@
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1753079386
   },
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1753079386
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
