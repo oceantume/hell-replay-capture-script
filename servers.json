@@ -76,12 +76,6 @@
     "port": 9224
   },
   {
-    "name": "What can I say",
-    "addr": "136.243.70.117",
-    "port": 7777,
-    "removed": 1752539851
-  },
-  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -848,7 +842,7 @@
     "port": 7787
   },
   {
-    "name": "※ GLORY ETERNAL ※ [US EAST]",
+    "name": "※ GLOIRE ÉTERNELLE ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1208,7 +1202,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753146493
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
