@@ -101,6 +101,11 @@
     "port": 10165
   },
   {
+    "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
+    "addr": "141.105.66.70",
+    "port": 8530
+  },
+  {
     "name": "EG event server",
     "addr": "141.105.66.70",
     "port": 9075
@@ -262,7 +267,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753187589
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -778,8 +784,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1752862231
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
