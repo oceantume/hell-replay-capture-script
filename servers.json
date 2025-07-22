@@ -974,17 +974,20 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1753167616
   },
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1753167616
   },
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1753167616
   },
   {
     "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
@@ -1105,7 +1108,8 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753167616
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -2326,8 +2330,7 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1753125050
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
