@@ -338,8 +338,7 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1753078347
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
@@ -359,8 +358,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1753121453
+    "port": 28000
   },
   {
     "name": "Warfrags Studios",
@@ -425,7 +423,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753164726
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
@@ -622,7 +621,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753164726
   },
   {
     "name": "QA Testing - UK #07",
@@ -842,7 +842,7 @@
     "port": 7787
   },
   {
-    "name": "※ GLOIRE ÉTERNELLE ※ [US EAST]",
+    "name": "GLOIRE ÉTERNELLE ※ [US EAST] ※ VIP FOR SEEDING",
     "addr": "192.169.86.211",
     "port": 7777
   },
