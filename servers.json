@@ -172,12 +172,6 @@
     "port": 9075
   },
   {
-    "name": "[PH/SEA] The Coalition | Map Voting | discord.gg/thecoalition",
-    "addr": "15.235.226.40",
-    "port": 8530,
-    "removed": 1752626204
-  },
-  {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
     "port": 8530
@@ -549,7 +543,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753231046
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -611,14 +606,12 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1753208862
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
     "addr": "176.57.174.145",
-    "port": 28300,
-    "removed": 1753208862
+    "port": 28300
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -732,7 +725,7 @@
     "port": 7777
   },
   {
-    "name": "シ MARRAM #3 - discord.gg/marram - vip.marram.com.br",
+    "name": "[ARG / CHILE] HELL LET LOOSE - LATENCIA GOD [LATAM/ESP]",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -935,7 +928,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -945,7 +938,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1166,12 +1159,6 @@
     "port": 7777
   },
   {
-    "name": "79th ID | Event Server | discord.gg/79th",
-    "addr": "208.115.212.74",
-    "port": 7787,
-    "removed": 1752626204
-  },
-  {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
@@ -1358,7 +1345,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1368,7 +1355,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1393,7 +1380,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2048,7 +2035,8 @@
   {
     "name": "hll Server",
     "addr": "69.162.89.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753231046
   },
   {
     "name": "(IC) New Player Heaven | US Central #3 Dallas | discord.gg/icoh",
@@ -2411,7 +2399,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1753231046
   },
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
