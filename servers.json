@@ -31,7 +31,7 @@
     "removed": 1752991846
   },
   {
-    "name": "OnlyClans (OC) Training/Scrim Server",
+    "name": "HLL Server",
     "addr": "103.62.51.134",
     "port": 8888
   },
@@ -261,7 +261,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753272846
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -906,8 +907,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1753253330
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1480,8 +1480,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1753186446
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -2224,27 +2223,32 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1753272846
   },
   {
     "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1753272846
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753272846
   },
   {
     "name": "Q's - Qonzer.com | Event Server #2 | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753272846
   },
   {
     "name": "GREYHOUND NIGHT - BLUE",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1753272846
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
