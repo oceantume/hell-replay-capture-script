@@ -322,7 +322,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1753251143
   },
   {
     "name": "QA Testing - EU #03",
@@ -422,8 +423,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1753164726
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
@@ -478,7 +478,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753251143
   },
   {
     "name": "QA Testing - EU #10",
@@ -493,7 +494,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753251143
   },
   {
     "name": "QA Testing - EU #04",
@@ -626,8 +628,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1753164726
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -725,7 +726,7 @@
     "port": 7777
   },
   {
-    "name": "[ARG / CHILE] HELL LET LOOSE - LATENCIA GOD [LATAM/ESP]",
+    "name": "[ ARG / CHILE ] HELL LET LOOSE - PRO SERVER - FREE VIPS SEED [L",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -980,12 +981,14 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1753251143
   },
   {
     "name": "HLL_nitratest",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1753251143
   },
   {
     "name": "Bugtestserver",
@@ -1290,7 +1293,7 @@
     "port": 7787
   },
   {
-    "name": "BLOOP! Battles | US EAST | Seeders = VIP!",
+    "name": "BLOOP! Battles - Admin View Live stream @ bit.ly/bloopbattles",
     "addr": "209.192.185.50",
     "port": 7817
   },
@@ -1585,8 +1588,7 @@
   {
     "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
     "addr": "5.56.25.100",
-    "port": 7847,
-    "removed": 1753121453
+    "port": 7847
   },
   {
     "name": "[CN/JP]MOTO战队社区纯冲突服-QQ1031219165",
