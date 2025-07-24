@@ -323,8 +323,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1753251143
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -359,7 +358,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753337520
   },
   {
     "name": "Warfrags Studios",
@@ -449,7 +449,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753337520
   },
   {
     "name": "Team17 CERT",
@@ -479,8 +480,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1753251143
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #10",
@@ -495,8 +495,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1753251143
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -531,7 +530,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753337520
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -551,7 +551,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753337520
   },
   {
     "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
@@ -608,7 +609,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753337520
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
