@@ -307,7 +307,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753380638
   },
   {
     "name": "HLL Dev Team",
@@ -322,7 +323,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - Europe #03",
@@ -434,7 +436,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753380638
   },
   {
     "name": "HLL Dev Team 2",
@@ -481,12 +484,14 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.169.108",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753380638
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - Europe #06",
@@ -496,7 +501,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1753380638
   },
   {
     "name": "DevQA - EU #01",
@@ -526,8 +532,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1753337520
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -605,8 +610,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1753337520
+    "port": 28100
   },
   {
     "name": "[38.] Gaming Division | 38id.de | GER + MIC Only |",
@@ -631,7 +635,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - UK #02",
@@ -641,7 +646,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753380638
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -694,7 +700,7 @@
     "port": 7787
   },
   {
-    "name": "BRASIL HELL | »BAIN« | bainclan.com.br",
+    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "181.214.221.212",
     "port": 7797
   },
@@ -808,7 +814,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1753380638
   },
   {
     "name": "! ! ! ! ! ! ! ! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GE",
@@ -1289,7 +1296,7 @@
     "port": 7787
   },
   {
-    "name": "BLOOP! Battles - Admin View Live stream @ bit.ly/bloopbattles",
+    "name": "BLOOP! Battles - New Players Welcome - SEEDERS GET VIP",
     "addr": "209.192.185.50",
     "port": 7817
   },
@@ -1426,17 +1433,20 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1753380638
   },
   {
     "name": "HLL Official - US West #03",
@@ -2136,7 +2146,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753380638
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2156,8 +2167,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1753294236
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
