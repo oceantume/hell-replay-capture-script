@@ -318,8 +318,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1753340429
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -354,7 +353,8 @@
   {
     "name": "For Tea & Country (Moved to new IP)",
     "addr": "176.57.140.146",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753359248
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -445,7 +445,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753359248
   },
   {
     "name": "QA Testing - EU #08",
@@ -1115,8 +1116,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1753340429
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1462,7 +1462,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1753359248
   },
   {
     "name": "HLL Official - US East #02",
@@ -1491,7 +1492,7 @@
     "port": 10165
   },
   {
-    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | FROnly | Micro Obligatoire",
+    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -2283,7 +2284,7 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶(同盟进攻服)Q群：979552783",
+    "name": "<CN>JP#1 瓦学弟萌新进阶（纯冲突）Q群：979552783",
     "addr": "89.46.1.190",
     "port": 7777
   },
@@ -2401,7 +2402,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1753359248
   },
   {
     "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
