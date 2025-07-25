@@ -88,7 +88,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753446761
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -181,60 +182,6 @@
     "port": 8530
   },
   {
-    "name": "<CN>#4 TT天堂萌新俱乐部（纯攻防）Q群：797464980",
-    "addr": "156.146.44.225",
-    "port": 7777,
-    "removed": 1752840859
-  },
-  {
-    "name": "<CN>#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
-    "addr": "156.146.44.225",
-    "port": 7787,
-    "removed": 1752840859
-  },
-  {
-    "name": "<CN>#5 TT天堂社交俱乐部(随机图)Q群：578097070",
-    "addr": "156.146.44.225",
-    "port": 7797,
-    "removed": 1752840859
-  },
-  {
-    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
-    "addr": "156.146.44.225",
-    "port": 7817,
-    "removed": 1752840859
-  },
-  {
-    "name": "cn淘宝人间地狱工作室安全高效",
-    "addr": "156.146.44.225",
-    "port": 7827,
-    "removed": 1752840859
-  },
-  {
-    "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
-    "addr": "156.146.44.225",
-    "port": 7837,
-    "removed": 1752840859
-  },
-  {
-    "name": "Reclaimer training server",
-    "addr": "156.146.44.225",
-    "port": 7857,
-    "removed": 1752840859
-  },
-  {
-    "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
-    "addr": "156.146.44.225",
-    "port": 7887,
-    "removed": 1752840859
-  },
-  {
-    "name": "<CN>#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
-    "addr": "156.146.44.225",
-    "port": 7907,
-    "removed": 1752840859
-  },
-  {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
     "port": 9075
@@ -243,24 +190,6 @@
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530
-  },
-  {
-    "name": "Turks Let Loose #1 - Türkiye [TR] - discord.gg/TurksLetLoose",
-    "addr": "169.150.215.66",
-    "port": 7777,
-    "removed": 1752840859
-  },
-  {
-    "name": "[TR] Anadolu Frontline - Türkiye - Turks Only",
-    "addr": "169.150.215.66",
-    "port": 7877,
-    "removed": 1752840859
-  },
-  {
-    "name": "Turks Let Loose #2 - Etkinlik - discord.gg/TurksLetLoose",
-    "addr": "169.150.215.68",
-    "port": 7787,
-    "removed": 1752840859
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -2387,12 +2316,6 @@
     "removed": 1753359248
   },
   {
-    "name": "=ROTN= |US EAST|EU FRIENDLY| discord.gg/rangersofthenorth",
-    "addr": "92.118.18.90",
-    "port": 7777,
-    "removed": 1752840859
-  },
-  {
     "name": "[16th IR] 16th Infantry Regiment Realism Server 16thir.org",
     "addr": "92.118.18.96",
     "port": 7777
@@ -2440,7 +2363,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1753446761
   },
   {
     "name": "US WEST | Blood Buckets",
