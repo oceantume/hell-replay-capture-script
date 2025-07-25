@@ -1,6 +1,6 @@
 [
   {
-    "name": "w3 Server - HLL - Warfare",
+    "name": "RHC #1 | Vote Map Enabled",
     "addr": "103.1.213.78",
     "port": 8888
   },
@@ -648,7 +648,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] LATENCIA GOD | LVL +40 HARDCORE | VIPS",
+    "name": "[LATAM/ESP] CLAN 7DL | LVL +40 | VIPS",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -1120,8 +1120,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1753449633
+    "port": 7777
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
@@ -1179,7 +1178,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Oktogon | Event",
+    "name": "Bleu public #1 Free VIP for SEED",
     "addr": "208.115.248.92",
     "port": 7777
   },
@@ -1235,7 +1234,7 @@
     "port": 7777
   },
   {
-    "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
+    "name": "<CN>#5 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
     "addr": "216.144.245.86",
     "port": 7777
   },
@@ -1394,7 +1393,8 @@
   {
     "name": "HLL WC Playtest Server",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753467036
   },
   {
     "name": "HLL Official - US East #05",
@@ -1488,17 +1488,17 @@
     "port": 7777
   },
   {
-    "name": "CN2#散人猫猫社区|极限攻防咖啡馆（投票选图Q120",
+    "name": "CN2#散人猫猫社区|洛希没有极限攻防馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7787
   },
   {
-    "name": "CN3#散人猫猫社区|保护萌新限杀馆（投票选图Q120",
+    "name": "CN3#散人猫猫社区|宝宝巴士萌新限杀馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7797
   },
   {
-    "name": "syst",
+    "name": "O.o深夜食堂萌新进阶欢乐服SYST JP Q群1017723887",
     "addr": "5.56.25.100",
     "port": 7807
   },
@@ -1553,7 +1553,7 @@
     "port": 7797
   },
   {
-    "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 HK节点",
+    "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
     "addr": "5.56.25.243",
     "port": 7777
   },
@@ -2068,8 +2068,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1753380638
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2110,12 +2109,6 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
-  },
-  {
-    "name": "11th Mountain: Special Needs Detachment- Duuuur",
-    "addr": "83.223.203.51",
-    "port": 28400,
-    "removed": 1752862231
   },
   {
     "name": "Test",
@@ -2377,11 +2370,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753467036
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753467036
   }
 ]
