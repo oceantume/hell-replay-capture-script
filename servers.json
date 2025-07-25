@@ -46,6 +46,11 @@
     "port": 28300
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "104.249.63.252",
+    "port": 8530
+  },
+  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -78,7 +83,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753403835
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -154,12 +160,6 @@
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/smqTgeWR2",
     "addr": "145.239.253.127",
     "port": 9014
-  },
-  {
-    "name": "[GER] Oktogon | OKT | Event",
-    "addr": "148.251.182.199",
-    "port": 11255,
-    "removed": 1752798994
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -307,8 +307,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1753380638
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
@@ -436,8 +435,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1753380638
+    "port": 28100
   },
   {
     "name": "HLL Dev Team 2",
@@ -484,14 +482,12 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.169.108",
-    "port": 28100,
-    "removed": 1753380638
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1753380638
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -501,8 +497,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1753380638
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -553,12 +548,6 @@
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
     "port": 28300
-  },
-  {
-    "name": "[GER] | The Iron Brothers | Anfänger Freundlich",
-    "addr": "176.57.171.44",
-    "port": 28200,
-    "removed": 1752798994
   },
   {
     "name": "Warrior's Battleground #1 ★ New Player Friendly | .gg/cmwrs",
@@ -634,8 +623,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1753380638
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -645,8 +633,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1753380638
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -704,7 +691,7 @@
     "port": 7797
   },
   {
-    "name": "! ! ! ! ! [LATAM/ESP] CLAN | CTM | #01 CHILE | clanctm.cl/torne",
+    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "181.214.221.212",
     "port": 7807
   },
@@ -729,7 +716,7 @@
     "port": 7777
   },
   {
-    "name": "[ ARG / CHILE ] HELL LET LOOSE - LOW PING - FREE VIPS SEED [LAT",
+    "name": "[LATAM/ESP] LATENCIA GOD",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -852,7 +839,7 @@
     "port": 7787
   },
   {
-    "name": "GLORY ETERNAL ※ [US EAST]",
+    "name": "GLOIRE ÉTERNELLE ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1431,8 +1418,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1753380638
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1693,12 +1679,6 @@
     "name": "Turks Let Loose [TR] - Yeni IP - discord.gg/TurksLetLoose",
     "addr": "51.77.66.51",
     "port": 9075
-  },
-  {
-    "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
-    "addr": "51.77.66.51",
-    "port": 9620,
-    "removed": 1752798994
   },
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
@@ -2068,7 +2048,8 @@
   {
     "name": "5th Ranger Battalion | US Central | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 10710
+    "port": 10710,
+    "removed": 1753403835
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -2219,12 +2200,6 @@
     "port": 28600
   },
   {
-    "name": "Durty Dozen",
-    "addr": "83.223.207.55",
-    "port": 28700,
-    "removed": 1752798994
-  },
-  {
     "name": "hll Server",
     "addr": "85.208.197.66",
     "port": 7797
@@ -2272,8 +2247,7 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1753384247
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
