@@ -194,8 +194,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1753272846
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -230,7 +229,8 @@
   {
     "name": "Testing",
     "addr": "176.57.134.27",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753553375
   },
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
@@ -1085,7 +1085,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] {WoA} Asgard Events",
+    "name": "[GER] Midgards Panzer Event Server",
     "addr": "208.115.206.86",
     "port": 7777
   },
@@ -1135,7 +1135,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] {WoA} World of Asgard | Mic Only",
+    "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
     "addr": "208.115.226.2",
     "port": 7797
   },
@@ -2087,12 +2087,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753553375
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753553375
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2402,7 +2404,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1753467036
+    "port": 28200
   }
 ]
