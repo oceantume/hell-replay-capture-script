@@ -33,7 +33,8 @@
   {
     "name": "Chimera | Event Sever | Oce | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1753491977
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -359,7 +360,8 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - Europe / Balkan - Beginner f",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753491977
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -924,13 +926,8 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
-  },
-  {
-    "name": "#2 European Misfits Regiment -EMR- |New Players| Warfare-Only",
-    "addr": "198.244.177.7",
-    "port": 10165,
-    "removed": 1752885373
+    "port": 21200,
+    "removed": 1753491977
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1178,14 +1175,15 @@
     "port": 7777
   },
   {
-    "name": "[GER] Oktogon | OKT | Mic Only | Wir Rekrutieren!",
+    "name": "[GER] • OKT #1 • Tactical Warfare • VIP Slots",
     "addr": "208.115.248.90",
     "port": 7777
   },
   {
     "name": "[GER] Oktogon | OKT | Mic Only | Aim, Sweat, Repeat",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753491977
   },
   {
     "name": "Bleu public #1 Free VIP for SEED",
@@ -1723,12 +1721,6 @@
     "name": "MG Prep",
     "addr": "64.20.50.186",
     "port": 10710
-  },
-  {
-    "name": "TROA Midgard Offensive - discord.gg/TROA",
-    "addr": "64.20.50.186",
-    "port": 8530,
-    "removed": 1752885373
   },
   {
     "name": "[D.C.] Devils Company - ENTRENAMIENTOS - Discord: devilscompany",
