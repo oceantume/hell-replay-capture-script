@@ -289,7 +289,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753533022
   },
   {
     "name": "Warfrags Studios",
@@ -533,6 +534,11 @@
     "name": "Warrior's Battleground #2 ★ New Player Friendly | .gg/cmwrs",
     "addr": "176.57.173.119",
     "port": 28500
+  },
+  {
+    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
+    "addr": "176.57.173.119",
+    "port": 28600
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1126,8 +1132,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1753531942
+    "port": 7777
   },
   {
     "name": "[GER] {WoA} World of Asgard | Mic Only",
