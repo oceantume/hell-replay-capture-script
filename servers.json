@@ -17,7 +17,8 @@
   {
     "name": "AAA #1 Old School Gaming",
     "addr": "103.193.80.146",
-    "port": 9075
+    "port": 9075,
+    "removed": 1753490155
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -50,7 +51,7 @@
     "port": 28300
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "The Gape Hause",
     "addr": "104.249.63.252",
     "port": 8530
   },
@@ -239,7 +240,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753490155
   },
   {
     "name": "HLL Dev Team",
@@ -255,7 +257,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753490155
   },
   {
     "name": "HLL Official - Europe #03",
@@ -366,7 +369,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753490155
   },
   {
     "name": "HLL Dev Team 2",
@@ -377,7 +381,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753490155
   },
   {
     "name": "Team17 CERT",
@@ -413,12 +418,14 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.169.108",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753490155
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753490155
   },
   {
     "name": "HLL Official - Europe #06",
@@ -428,7 +435,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1753490155
   },
   {
     "name": "DevQA - EU #01",
@@ -555,7 +563,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753490155
   },
   {
     "name": "HLL Official - UK #02",
@@ -565,7 +574,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753490155
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -648,7 +658,7 @@
     "port": 7777
   },
   {
-    "name": "[ARG/CHILE] Asado, Vino y Latencia God",
+    "name": "[LATAM] Asado, Vino y Latencia God",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -771,7 +781,7 @@
     "port": 7787
   },
   {
-    "name": "GLOIRE ÉTERNELLE ※ [US EAST]",
+    "name": "※ GLOIRE ÉTERNELLE ※ [US EAST]",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1351,7 +1361,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753490155
   },
   {
     "name": "HLL Official - US West #02",
@@ -2083,7 +2094,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1753490155
   },
   {
     "name": "HLL Official - Asia #04",
