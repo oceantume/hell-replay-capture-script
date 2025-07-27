@@ -1188,7 +1188,7 @@
     "port": 7777
   },
   {
-    "name": "Bleu public #1 Free VIP for SEED",
+    "name": "Oktogon Event",
     "addr": "208.115.248.92",
     "port": 7777
   },
@@ -1339,6 +1339,11 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "31.56.0.24",
+    "port": 7777
+  },
+  {
+    "name": "CBMS",
+    "addr": "31.56.0.25",
     "port": 7777
   },
   {
@@ -1957,6 +1962,11 @@
     "port": 7777
   },
   {
+    "name": "I love APEX",
+    "addr": "64.31.61.93",
+    "port": 7777
+  },
+  {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
@@ -2098,14 +2108,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1753553375
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1753553375
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2416,12 +2424,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1753467036
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1753639781
   }
 ]
