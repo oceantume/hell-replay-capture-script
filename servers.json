@@ -311,7 +311,8 @@
   {
     "name": "ZPR vs. 404 Friendly Midcap only",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753643217
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -915,6 +916,11 @@
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
     "addr": "193.70.122.179",
     "port": 8530
+  },
+  {
+    "name": "rohanbobo",
+    "addr": "194.140.197.76",
+    "port": 28400
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
