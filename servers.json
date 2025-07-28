@@ -153,6 +153,11 @@
     "port": 29000
   },
   {
+    "name": "SARA Hell Let Loose",
+    "addr": "144.126.153.213",
+    "port": 29100
+  },
+  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -287,7 +292,7 @@
     "removed": 1753359248
   },
   {
-    "name": "DARK ANAPA",
+    "name": "[RUS] Русский сервер-Russian",
     "addr": "176.57.140.16",
     "port": 28000
   },
@@ -778,7 +783,7 @@
     "port": 7787
   },
   {
-    "name": "TRENCH RATS & FRENCH MAPS ※ GLOIRE ÉTERNELLE ※ VIP FOR SEE",
+    "name": "TRENCH RATS ※ GLOIRE ÉTERNELLE ※ VIP FOR SEEDING",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1008,8 +1013,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1753704868
+    "port": 7777
   },
   {
     "name": "The DRAFT | Test Server",
@@ -1182,12 +1186,12 @@
     "port": 7777
   },
   {
-    "name": "[GER] • OKT #1 • Tactical Warfare • VIP Slots",
+    "name": "[GER] • OKT #1 • Mic Only • Wir rekrutieren!",
     "addr": "208.115.248.90",
     "port": 7777
   },
   {
-    "name": "[GER] • OKT #2 • Seeding Phase • Earn VIP Access",
+    "name": "[GER] • OKT #2 • Mic Only • Wir rekrutieren!",
     "addr": "208.115.248.91",
     "port": 7777
   },
@@ -1200,12 +1204,6 @@
     "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
     "addr": "208.115.250.5",
     "port": 7777
-  },
-  {
-    "name": "Pathfinders | Event Server",
-    "addr": "208.115.250.5",
-    "port": 7787,
-    "removed": 1753121453
   },
   {
     "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
@@ -1228,7 +1226,7 @@
     "port": 7787
   },
   {
-    "name": "BLOOP! Battles | NEW SERVER | SEEDERS GET 1 YEAR VIP!",
+    "name": "BLOOP! Battles | NEW SERVER | SEEDERS GET 6 MONTHS VIP!",
     "addr": "209.192.185.50",
     "port": 7817
   },
@@ -1268,8 +1266,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1753704868
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1777,12 +1774,6 @@
     "port": 8530
   },
   {
-    "name": "Pathfinders | Event Server",
-    "addr": "64.31.16.186",
-    "port": 7787,
-    "removed": 1753121453
-  },
-  {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
     "port": 7777
@@ -2102,7 +2093,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753726269
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2117,7 +2109,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753726269
   },
   {
     "name": "hk-遇见萌新训练场",
