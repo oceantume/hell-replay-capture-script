@@ -852,14 +852,12 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1753618383
+    "port": 8530
   },
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1753618383
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -918,7 +916,7 @@
     "port": 8530
   },
   {
-    "name": "rohanbobo",
+    "name": "JUST HAVIN FUN",
     "addr": "194.140.197.76",
     "port": 28400
   },
@@ -1097,6 +1095,11 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.212.74",
     "port": 7777
+  },
+  {
+    "name": "4",
+    "addr": "208.115.212.74",
+    "port": 7797
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1375,8 +1378,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1753490155
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -2172,7 +2174,7 @@
     "port": 28700
   },
   {
-    "name": "[US] Bobcats Bandits | New Player Friendly",
+    "name": "Glow's Battlegrounds :: US East #2 :: discord.gg/glows",
     "addr": "83.223.207.55",
     "port": 28000
   },
@@ -2192,7 +2194,7 @@
     "port": 7797
   },
   {
-    "name": "[TAW] EU SERVER | CAMPAIGN SERVER | DISCORD.GG/TAWHLL",
+    "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
   },
@@ -2368,8 +2370,7 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1753359248
+    "port": 7797
   },
   {
     "name": "[16th IR] 16th Infantry Regiment Realism Server 16thir.org",
@@ -2441,6 +2442,7 @@
   {
     "name": "nitrado.net gameserver w6d6ceoO",
     "addr": "95.156.198.83",
-    "port": 10500
+    "port": 10500,
+    "removed": 1753663224
   }
 ]
