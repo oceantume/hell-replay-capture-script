@@ -89,7 +89,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753794050
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -200,8 +201,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1753792448
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -709,12 +709,6 @@
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
     "addr": "185.216.145.154",
     "port": 9075
-  },
-  {
-    "name": "HLL Server",
-    "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1753189154
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
