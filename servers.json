@@ -89,8 +89,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1753791282
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -201,7 +200,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753792448
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -806,13 +806,13 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772,
-    "removed": 1753749659
+    "port": 8772
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "192.169.89.18",
-    "port": 9075
+    "port": 9075,
+    "removed": 1753792448
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -867,7 +867,7 @@
     "removed": 1753618383
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1292,7 +1292,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1302,7 +1302,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1327,7 +1327,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
