@@ -89,7 +89,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753791282
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -697,8 +698,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1753772494
+    "port": 8530
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -740,12 +740,6 @@
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
-  },
-  {
-    "name": "! ! ! ! ! ! ! ! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GE",
-    "addr": "188.42.131.180",
-    "port": 7827,
-    "removed": 1753186446
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -801,7 +795,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "192.169.89.106",
-    "port": 8530
+    "port": 8530,
+    "removed": 1753791282
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -813,6 +808,11 @@
     "addr": "192.169.89.18",
     "port": 8772,
     "removed": 1753749659
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "192.169.89.18",
+    "port": 9075
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -857,7 +857,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1753791282
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1055,8 +1056,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1753772494
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1304,8 +1304,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1753772494
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1411,13 +1410,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1753791282
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1753704868
+    "port": 28000
   },
   {
     "name": "HLL WC Playtest Server",
@@ -1433,8 +1432,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1753704868
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1645,6 +1643,11 @@
     "name": "CN#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "5.56.25.243",
     "port": 7907
+  },
+  {
+    "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
+    "addr": "5.56.25.243",
+    "port": 7917
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1960,7 +1963,7 @@
     "port": 7777
   },
   {
-    "name": "I love APEX",
+    "name": "I love playing APEX",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -2024,12 +2027,6 @@
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "74.63.231.3",
     "port": 7777
-  },
-  {
-    "name": "[FPS] New Players Welcome | CHICAGO | VIP For Seeding | QONZER",
-    "addr": "74.63.231.5",
-    "port": 7777,
-    "removed": 1753186446
   },
   {
     "name": "5th Ranger Battalion | US Central | 5thrb.com",
@@ -2285,12 +2282,6 @@
     "addr": "89.46.1.190",
     "port": 7887,
     "removed": 1753618383
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1753186446
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
