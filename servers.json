@@ -697,7 +697,8 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1753772494
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -1054,7 +1055,8 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753772494
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1302,7 +1304,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877
+    "port": 7877,
+    "removed": 1753772494
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1551,8 +1554,7 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1753771756
+    "port": 7877
   },
   {
     "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
