@@ -422,8 +422,7 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.169.108",
-    "port": 28100,
-    "removed": 1753490155
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
@@ -439,8 +438,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1753490155
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -569,8 +567,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1753490155
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -580,8 +577,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1753490155
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -809,7 +805,8 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772
+    "port": 8772,
+    "removed": 1753749659
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -916,6 +913,11 @@
     "name": "JUST HAVIN FUN",
     "addr": "194.140.197.76",
     "port": 28400
+  },
+  {
+    "name": "SOUP Clan!! | US-East | Player Level 20+",
+    "addr": "194.140.197.76",
+    "port": 30600
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
@@ -1485,12 +1487,6 @@
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "46.105.223.204",
     "port": 7817
-  },
-  {
-    "name": "! ! ! ! ! ! ! ! ! !OINK VIP KAMPFSCHWEINE | RUNDFUNK | HOT | GE",
-    "addr": "49.12.83.52",
-    "port": 7827,
-    "removed": 1753144636
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
