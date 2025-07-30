@@ -176,7 +176,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "146.0.47.173",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753899054
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -936,7 +937,8 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1753899054
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1016,8 +1018,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1753877666
+    "port": 7777
   },
   {
     "name": "The DRAFT | Test Server",
@@ -1380,8 +1381,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1753812679
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1513,7 +1513,8 @@
   {
     "name": "CN3#散人猫猫社区|宝宝巴士萌新限杀馆Q120748151",
     "addr": "5.56.25.100",
-    "port": 7797
+    "port": 7797,
+    "removed": 1753899054
   },
   {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群1017723887",
@@ -1548,8 +1549,7 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1753880409
+    "port": 7877
   },
   {
     "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
@@ -1559,7 +1559,8 @@
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
-    "port": 7897
+    "port": 7897,
+    "removed": 1753899054
   },
   {
     "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
@@ -1727,7 +1728,7 @@
     "port": 7807
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "Midweek Frontline server 1",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -1868,7 +1869,7 @@
     "port": 7777
   },
   {
-    "name": "#03 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
     "addr": "64.31.4.170",
     "port": 7807
   },
@@ -1937,12 +1938,6 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.6.94",
     "port": 7777
-  },
-  {
-    "name": "シ MARRAM #7 - discord.gg/marram - marram.com.br by qonzer",
-    "addr": "64.31.60.38",
-    "port": 7777,
-    "removed": 1753294236
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -2051,7 +2046,7 @@
     "port": 10710
   },
   {
-    "name": "Ξ|WAR|Ξ Event******",
+    "name": "Ξ|WAR|Ξ Events",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -2083,8 +2078,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1753812679
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2398,14 +2392,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1753812679
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1753639781
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver w6d6ceoO",
