@@ -442,7 +442,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1753837741
   },
   {
     "name": "HLL Official - Europe #02",
@@ -2028,12 +2029,6 @@
     "name": "Tango company AFIP [EVENTOS]",
     "addr": "78.111.102.114",
     "port": 28700
-  },
-  {
-    "name": "#1 Hell let loose Arg - NO Vip",
-    "addr": "78.111.102.114",
-    "port": 29200,
-    "removed": 1753232914
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
