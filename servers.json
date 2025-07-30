@@ -772,7 +772,7 @@
     "port": 7787
   },
   {
-    "name": "TRENCH RATS ※ GLOIRE ÉTERNELLE ※ VIP FOR SEEDING",
+    "name": "[RAT] TRENCH RATS ※ VIP FOR SEEDING",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1255,7 +1255,8 @@
   {
     "name": "<CN>#5 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
     "addr": "216.144.245.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753901202
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
