@@ -69,7 +69,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753855964
   },
   {
     "name": "HLL Official - Russia #02",
@@ -89,7 +90,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753855964
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -442,13 +444,13 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600,
-    "removed": 1753837741
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1753855964
   },
   {
     "name": "Lacio28 Trening",
@@ -571,8 +573,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1753769540
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -951,8 +952,7 @@
   {
     "name": "ENG/DA | Danmark | www.hellletloose.dk",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1753704868
+    "port": 8530
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -1572,7 +1572,7 @@
     "port": 7777
   },
   {
-    "name": "<CN>#3 IMP帝国社区 风暴兵德攻服 |Q1020812925 HK节点",
+    "name": "<CN>#3 IMP帝国社区 风暴兵德攻服 |Q1020812925 JP节点",
     "addr": "5.56.25.243",
     "port": 7787
   },
@@ -1819,7 +1819,8 @@
   {
     "name": "【EU】| GHOST REGIMENT New Player Training 50v50 | offensive",
     "addr": "64.31.29.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753855964
   },
   {
     "name": "Another Qonzer.com server is born!",
