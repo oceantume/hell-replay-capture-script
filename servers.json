@@ -849,8 +849,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1753791282
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -858,7 +857,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1283,7 +1282,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1293,7 +1292,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1318,7 +1317,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1654,8 +1653,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1753815663
+    "port": 9620
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1999,12 +1997,6 @@
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
     "port": 7787
-  },
-  {
-    "name": "hll Server",
-    "addr": "69.162.89.149",
-    "port": 7777,
-    "removed": 1753231046
   },
   {
     "name": "hll Server",
