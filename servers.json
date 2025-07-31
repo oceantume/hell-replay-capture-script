@@ -826,8 +826,7 @@
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777,
-    "removed": 1753965058
+    "port": 7777
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1023,8 +1022,7 @@
   {
     "name": "The DRAFT | Test Server",
     "addr": "206.53.0.13",
-    "port": 7787,
-    "removed": 1753965058
+    "port": 7787
   },
   {
     "name": "Current Level: Freedom Of Speech Server(D1CK)",
@@ -2007,8 +2005,7 @@
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
-    "port": 7777,
-    "removed": 1753965058
+    "port": 7777
   },
   {
     "name": "The Lucky Strikes | Votemap",
@@ -2297,7 +2294,8 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753966582
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
