@@ -245,10 +245,9 @@
     "port": 28100
   },
   {
-    "name": "Testing",
+    "name": "Training Zone 0280",
     "addr": "176.57.134.27",
-    "port": 28200,
-    "removed": 1753553375
+    "port": 28200
   },
   {
     "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
@@ -1414,7 +1413,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1753968000
   },
   {
     "name": "QA Testing - US West #09",
@@ -2217,6 +2217,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
