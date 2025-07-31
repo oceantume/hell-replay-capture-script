@@ -211,7 +211,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1753963975
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -438,8 +439,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1753490155
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -568,8 +568,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1753945305
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -710,8 +709,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1753945305
+    "port": 8530
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -1061,8 +1059,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1753945305
+    "port": 7777
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1196,10 +1193,14 @@
     "port": 7777
   },
   {
+    "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
+    "addr": "208.115.248.106",
+    "port": 7787
+  },
+  {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1753945305
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1288,7 +1289,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1753963975
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1319,8 +1321,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1753945305
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1345,8 +1346,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1753945305
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1758,7 +1758,7 @@
     "port": 7807
   },
   {
-    "name": "Midweek Frontline server 1",
+    "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -1805,8 +1805,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1753945305
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -1859,7 +1858,7 @@
     "port": 7777
   },
   {
-    "name": "【EU】| GHOST REGIMENT New Player Training 50v50 | offensive",
+    "name": "hll Server",
     "addr": "64.31.29.67",
     "port": 7777
   },
