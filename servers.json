@@ -57,6 +57,11 @@
     "port": 8530
   },
   {
+    "name": "[LATAM] Asado, Vino y Latencia God",
+    "addr": "108.165.230.224",
+    "port": 7787
+  },
+  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -69,8 +74,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1753855964
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -275,7 +279,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1753942331
   },
   {
     "name": "HLL Official - Europe #07",
@@ -439,7 +444,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1753942331
   },
   {
     "name": "QA Testing - EU #04",
@@ -454,8 +460,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1753855964
+    "port": 28700
   },
   {
     "name": "Lacio28 Trening",
@@ -578,7 +583,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1753942331
   },
   {
     "name": "QA Testing - EU #05",
@@ -723,7 +729,8 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "188.165.39.157",
-    "port": 7787
+    "port": 7787,
+    "removed": 1753942331
   },
   {
     "name": "EU#1 | Blood Sweat & Beers BSB | In Memory of Doc62",
@@ -772,7 +779,7 @@
     "port": 7787
   },
   {
-    "name": "[RAT] TRENCH RATS ※ VIP FOR SEEDING",
+    "name": "※ TRENCH RATS ※ US EAST ※ VIP FOR SEEDING",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1132,7 +1139,8 @@
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "208.115.214.220",
-    "port": 7857
+    "port": 7857,
+    "removed": 1753942331
   },
   {
     "name": "POWERBITS GAMETEAM EVENT |LOW PING| PBSGAMETEAM .COM",
@@ -1333,6 +1341,16 @@
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
+  },
+  {
+    "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "31.56.0.19",
+    "port": 7787
+  },
+  {
+    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "31.56.0.19",
+    "port": 7857
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1782,6 +1800,11 @@
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
     "port": 8530
+  },
+  {
+    "name": "瓜棚vsCU",
+    "addr": "64.31.11.74",
+    "port": 11800
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
