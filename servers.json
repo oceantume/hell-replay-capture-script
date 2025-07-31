@@ -299,12 +299,6 @@
     "port": 28400
   },
   {
-    "name": "For Tea & Country (Moved to new IP)",
-    "addr": "176.57.140.146",
-    "port": 28200,
-    "removed": 1753359248
-  },
-  {
     "name": "[RUS] Русский сервер-Russian",
     "addr": "176.57.140.16",
     "port": 28000
@@ -389,12 +383,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "HLL Dev Team 2",
-    "addr": "176.57.168.38",
-    "port": 28300,
-    "removed": 1753359248
   },
   {
     "name": "QA Testing - EU #08",
@@ -722,6 +710,11 @@
     "port": 9075
   },
   {
+    "name": "HLL Server",
+    "addr": "185.34.11.165",
+    "port": 7777
+  },
+  {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
     "port": 7777
@@ -833,7 +826,8 @@
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753965058
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -1029,7 +1023,8 @@
   {
     "name": "The DRAFT | Test Server",
     "addr": "206.53.0.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1753965058
   },
   {
     "name": "Current Level: Freedom Of Speech Server(D1CK)",
@@ -2012,7 +2007,8 @@
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
     "addr": "69.162.102.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1753965058
   },
   {
     "name": "The Lucky Strikes | Votemap",
@@ -2297,6 +2293,11 @@
     "addr": "89.46.1.190",
     "port": 7887,
     "removed": 1753618383
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.207.161.117",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
