@@ -57,7 +57,12 @@
     "port": 8530
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God",
+    "name": "Another Qonzer.com server is born!",
+    "addr": "108.165.230.224",
+    "port": 7777
+  },
+  {
+    "name": "[LATAM] Asado, Vino y Latencia God #1",
     "addr": "108.165.230.224",
     "port": 7787
   },
@@ -205,6 +210,11 @@
     "port": 9075
   },
   {
+    "name": "[The Den] - EU/ENG - New Players Welcome",
+    "addr": "159.69.226.134",
+    "port": 7797
+  },
+  {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530
@@ -212,8 +222,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1753963975
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -661,7 +670,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God",
+    "name": "[LATAM] Asado, Vino y Latencia God #2",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -774,7 +783,7 @@
     "port": 7787
   },
   {
-    "name": "※ TRENCH RATS ※ US EAST ※ VIP FOR SEEDING",
+    "name": "TRENCH RATS ※ VIP FOR SEEDING ※ discord.gg/TrenchRats",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -1055,6 +1064,11 @@
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
     "port": 7777
+  },
+  {
+    "name": "GER - Mordslust",
+    "addr": "208.115.206.35",
+    "port": 7787
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1526,69 +1540,75 @@
     "port": 9014
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
+    "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
     "addr": "5.56.25.100",
     "port": 7777
   },
   {
-    "name": "CN2#散人猫猫社区|洛希没有极限攻防馆Q120748151",
+    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "5.56.25.100",
     "port": 7787
   },
   {
-    "name": "CN3#散人猫猫社区|宝宝巴士萌新限杀馆Q120748151",
+    "name": "GTZ战术大队跑图服",
     "addr": "5.56.25.100",
     "port": 7797
   },
   {
-    "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群1017723887",
+    "name": "CN3#散人猫猫社区|宝宝巴士萌新限杀馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7807
   },
   {
-    "name": "GTZ战术大队跑图服",
+    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "5.56.25.100",
     "port": 7817
   },
   {
-    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
+    "name": "[CN/JP]MOTO战队社区纯冲突服-QQ1031219165",
     "addr": "5.56.25.100",
     "port": 7827
   },
   {
-    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
+    "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
     "port": 7837
   },
   {
-    "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
+    "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
     "addr": "5.56.25.100",
     "port": 7847
   },
   {
-    "name": "[CN/JP]MOTO战队社区纯冲突服-QQ1031219165",
+    "name": "CN2#散人猫猫社区|洛希没有极限攻防馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "5.56.25.100",
+    "port": 7867
+  },
+  {
+    "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
+    "addr": "5.56.25.100",
     "port": 7877
   },
   {
-    "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
+    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
   },
   {
-    "name": "CN ACE 养老院晋升之路Q:558699689",
+    "name": "GTZ战术大队跑图服",
     "addr": "5.56.25.100",
     "port": 7897
   },
   {
     "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
     "addr": "5.56.25.100",
-    "port": 7917
+    "port": 7917,
+    "removed": 1754008979
   },
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#新服Q:500001820",
@@ -2043,12 +2063,6 @@
     "port": 7777
   },
   {
-    "name": "5th Ranger Battalion | US Central | 5thrb.com",
-    "addr": "74.63.236.194",
-    "port": 10710,
-    "removed": 1753403835
-  },
-  {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
     "port": 11255
@@ -2210,7 +2224,7 @@
     "port": 7817
   },
   {
-    "name": "63rd Infantry Division | Blood & Fire | Now Recruiting | discor",
+    "name": "63rd Infantry Division | Blood & Fire | Level 75+",
     "addr": "88.209.197.59",
     "port": 8530
   },
@@ -2342,7 +2356,8 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754008979
   },
   {
     "name": "Excel Spreadsheets",
