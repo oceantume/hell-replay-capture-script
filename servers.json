@@ -269,6 +269,11 @@
     "port": 28000
   },
   {
+    "name": "HLL Dev Team",
+    "addr": "176.57.134.30",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
     "port": 28600
@@ -560,8 +565,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1754031815
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -703,8 +707,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1754031815
+    "port": 8530
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -719,8 +722,7 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777,
-    "removed": 1753985475
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -938,12 +940,6 @@
     "port": 20800
   },
   {
-    "name": "HLL_nitratest",
-    "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1753445628
-  },
-  {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
     "port": 21200
@@ -961,8 +957,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1754031815
+    "port": 9620
   },
   {
     "name": "ENG/DA | Danmark | www.hellletloose.dk",
@@ -1065,7 +1060,7 @@
     "port": 7777
   },
   {
-    "name": "GER - Mordslust",
+    "name": "! ! !NEIN ZU OINK KAMPFSCHWEINE | QS | OINK-ADMINS-FREE | GER",
     "addr": "208.115.206.35",
     "port": 7787
   },
@@ -1078,6 +1073,11 @@
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.37",
+    "port": 7787
   },
   {
     "name": "13SNC Presents - ImbaDave 4K - One life event",
@@ -1208,8 +1208,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1754031815
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1329,8 +1328,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1754031815
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1355,8 +1353,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1754031815
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1453,7 +1450,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754050449
   },
   {
     "name": "HLL WC Playtest Server",
@@ -1594,7 +1592,8 @@
   {
     "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
     "addr": "5.56.25.100",
-    "port": 7877
+    "port": 7877,
+    "removed": 1754050449
   },
   {
     "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
@@ -1604,13 +1603,13 @@
   {
     "name": "GTZ战术大队跑图服",
     "addr": "5.56.25.100",
-    "port": 7897
+    "port": 7897,
+    "removed": 1754050449
   },
   {
-    "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
+    "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
     "addr": "5.56.25.100",
-    "port": 7917,
-    "removed": 1754008979
+    "port": 7917
   },
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#新服Q:500001820",
@@ -1633,7 +1632,7 @@
     "port": 7797
   },
   {
-    "name": "hll Server",
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
     "addr": "5.56.25.243",
     "port": 7807
   },
@@ -1820,8 +1819,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1754031815
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -1856,7 +1854,8 @@
   {
     "name": "BadgerGrounds - West Mongolia",
     "addr": "64.31.28.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754050449
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1879,7 +1878,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "【EU】GHOST REGIMENT New Player Training 50v5 Hell Let Loose",
     "addr": "64.31.29.67",
     "port": 7777
   },
