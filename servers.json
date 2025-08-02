@@ -15,12 +15,6 @@
     "port": 7777
   },
   {
-    "name": "AAA #1 Old School Gaming",
-    "addr": "103.193.80.146",
-    "port": 9075,
-    "removed": 1753490155
-  },
-  {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
     "port": 7807
@@ -99,7 +93,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -276,12 +271,6 @@
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
     "port": 28600
-  },
-  {
-    "name": "QA Testing - EU #03",
-    "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1753490155
   },
   {
     "name": "HLL Official - Europe #03",
@@ -782,7 +771,7 @@
     "port": 7787
   },
   {
-    "name": "[RAT] TRENCH RATS ※ VIP FOR SEEDING",
+    "name": "[RAT] ※ Trench Rats ※ VIP for Seeding",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -936,7 +925,8 @@
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
-    "port": 20800
+    "port": 20800,
+    "removed": 1754094961
   },
   {
     "name": "Bugtestserver",
@@ -1116,7 +1106,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.212.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "4",
@@ -1182,7 +1173,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1877,12 +1869,14 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.29.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "-= Freedom =- All Maps & Modes | like official w banlist #NoRul",
@@ -1984,7 +1978,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.6.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754094961
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
