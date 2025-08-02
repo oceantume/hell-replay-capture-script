@@ -94,8 +94,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1754094961
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -216,7 +215,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1754136743
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -749,12 +749,6 @@
     "port": 7777
   },
   {
-    "name": "Rocky Hill",
-    "addr": "192.169.80.28",
-    "port": 7787,
-    "removed": 1753531942
-  },
-  {
     "name": "Pathfinders | Event Server",
     "addr": "192.169.86.106",
     "port": 7787
@@ -879,22 +873,26 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754136743
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754136743
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754136743
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754136743
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
@@ -1112,7 +1110,8 @@
   {
     "name": "4",
     "addr": "208.115.212.74",
-    "port": 7797
+    "port": 7797,
+    "removed": 1754136743
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1422,12 +1421,6 @@
     "port": 28700
   },
   {
-    "name": "QA Testing - US West #09",
-    "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1753531942
-  },
-  {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
     "port": 28300
@@ -1440,13 +1433,13 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1754050449
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1754136743
   },
   {
     "name": "HLL Official - US East #03",
@@ -1890,12 +1883,6 @@
     "port": 7777
   },
   {
-    "name": "69 SPACE FORCE | Japan",
-    "addr": "64.31.32.210",
-    "port": 7797,
-    "removed": 1753531942
-  },
-  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.211",
     "port": 7777
@@ -1949,12 +1936,6 @@
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
-  },
-  {
-    "name": "69 SPACE FORCE | US West",
-    "addr": "64.31.6.90",
-    "port": 7777,
-    "removed": 1753531942
   },
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
@@ -2405,12 +2386,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "SOUTHERNAIRTRADE(New Player Friendly)100 Player US Central",
-    "addr": "92.118.19.84",
-    "port": 7797,
-    "removed": 1753531942
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://discord.gg/J7a9BNwcab",
