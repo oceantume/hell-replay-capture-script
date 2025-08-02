@@ -2,12 +2,18 @@
   {
     "name": "RHC #1 | Vote Map Enabled",
     "addr": "103.1.213.78",
-    "port": 8888
+    "port": 8888,
+    "removed": 1754115020
   },
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
+  },
+  {
+    "name": "RHC #1 | Vote Map Enabled",
+    "addr": "103.1.215.69",
+    "port": 8898
   },
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
@@ -82,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1754115020
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -274,14 +281,12 @@
   {
     "name": "HLL Official - Europe #07",
     "addr": "176.57.134.62",
-    "port": 28400,
-    "removed": 1754028805
+    "port": 28400
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1754028805
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -358,7 +363,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754115020
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -408,8 +414,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1754028805
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #10",
@@ -526,7 +531,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600
+    "port": 28600,
+    "removed": 1754115020
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -552,8 +558,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1754028805
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -894,7 +899,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754115020
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1043,7 +1049,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !NEIN ZU OINK KAMPFSCHWEINE | OINK ENDE | GER",
+    "name": "! ! !NEIN ZU OINK KAMPFSCHWEINE | OINK ENDE | QS | GER",
     "addr": "208.115.206.35",
     "port": 7787
   },
@@ -1742,7 +1748,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787
+    "port": 7787,
+    "removed": 1754115020
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -2406,7 +2413,7 @@
     "removed": 1753531942
   },
   {
-    "name": "☩ Caveiras ☩ Brasil - (CAV)",
+    "name": "[CAV] CAVEIRAS BRASIL | https://discord.gg/J7a9BNwcab",
     "addr": "92.38.150.147",
     "port": 28000
   },
