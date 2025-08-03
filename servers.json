@@ -943,7 +943,7 @@
     "port": 9620
   },
   {
-    "name": "ENG/DA | Danmark | www.hellletloose.dk",
+    "name": "ENG/DA | only Carentan | Danmark ...",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1364,7 +1364,12 @@
     "port": 7777
   },
   {
-    "name": "[GER] Hell Let Loose - Deutschland #2",
+    "name": "SANDBOX #1 | NEW PLAYERS WELCOME | GER|ENG",
+    "addr": "31.56.0.37",
+    "port": 7777
+  },
+  {
+    "name": "SANDBOX #2 | NEW PLAYERS WELCOME | GER|ENG",
     "addr": "31.56.0.37",
     "port": 7787
   },
@@ -1729,8 +1734,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
     "addr": "57.128.229.70",
-    "port": 7787,
-    "removed": 1754115020
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -2095,7 +2099,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754244587
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2115,7 +2120,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754244587
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2376,7 +2382,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754244587
   },
   {
     "name": "nitrado.net gameserver w6d6ceoO",
