@@ -33,7 +33,8 @@
   {
     "name": "Chimera | Event Sever | Oce | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1754223176
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -107,7 +108,7 @@
     "port": 7797
   },
   {
-    "name": "BSC Event Server",
+    "name": "BSC v PBS",
     "addr": "139.28.17.147",
     "port": 7777
   },
@@ -220,7 +221,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1754223176
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1184,8 +1186,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "208.115.226.90",
-    "port": 7787,
-    "removed": 1754204227
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1223,7 +1224,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon Event",
+    "name": "Oktogon | Event Server | EU | discord.gg/Oktogon",
     "addr": "208.115.248.92",
     "port": 7777
   },
@@ -1433,8 +1434,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1754136743
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1444,7 +1444,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1754223176
   },
   {
     "name": "Hell Broke Luce",
@@ -1971,13 +1972,13 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777,
-    "removed": 1754181735
+    "port": 7777
   },
   {
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754223176
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
