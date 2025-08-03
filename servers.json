@@ -83,7 +83,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754201451
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -93,13 +94,13 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1754115020
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754201451
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -281,7 +282,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754201451
   },
   {
     "name": "HLL Official - Europe #07",
@@ -368,8 +370,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1754115020
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -562,7 +563,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754201451
   },
   {
     "name": "QA Testing - UK #07",
@@ -877,32 +879,27 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1754136743
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1754136743
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1754136743
+    "port": 7777
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777,
-    "removed": 1754136743
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1754115020
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1207,7 +1204,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754201451
   },
   {
     "name": "[GER] • OKT #1 • Mic Only • Wir rekrutieren!",
@@ -1255,22 +1253,10 @@
     "port": 7817
   },
   {
-    "name": "<CN>JP#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
-    "addr": "216.144.245.82",
-    "port": 7787,
-    "removed": 1753596647
-  },
-  {
     "name": "CN|JP|GR萌新服|QQ：936845068",
     "addr": "216.144.245.82",
     "port": 7797,
     "removed": 1753618383
-  },
-  {
-    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
-    "addr": "216.144.245.85",
-    "port": 7777,
-    "removed": 1753596647
   },
   {
     "name": "<CN>#5 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -2241,12 +2227,6 @@
     "port": 28600
   },
   {
-    "name": "<CN>JP#1 瓦学弟萌新进阶（纯冲突）Q群：979552783",
-    "addr": "89.46.1.190",
-    "port": 7777,
-    "removed": 1753596647
-  },
-  {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
     "addr": "89.46.1.190",
     "port": 7787,
@@ -2264,22 +2244,10 @@
     "removed": 1753618383
   },
   {
-    "name": "<CN>#3 IMP帝国社区 风暴兵德攻服 |Q1020812925 JP节点",
-    "addr": "89.46.1.190",
-    "port": 7817,
-    "removed": 1753596647
-  },
-  {
     "name": "<CN>BW黑色守望/投票选图/Q:1034621661",
     "addr": "89.46.1.190",
     "port": 7827,
     "removed": 1753618383
-  },
-  {
-    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
-    "addr": "89.46.1.190",
-    "port": 7837,
-    "removed": 1753596647
   },
   {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
