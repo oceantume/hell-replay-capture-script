@@ -215,8 +215,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1754309692
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -520,8 +519,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1754288147
+    "port": 28100
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -895,6 +893,11 @@
     "removed": 1754268084
   },
   {
+    "name": "nitrado.net gameserver oQzzjFms",
+    "addr": "195.82.158.186",
+    "port": 20200
+  },
+  {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
     "addr": "195.82.158.186",
     "port": 20800,
@@ -1022,7 +1025,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "! ! !NEIN ZU OINK | LOW PIG | QS | GER",
     "addr": "208.115.206.35",
     "port": 7787
   },
@@ -2083,8 +2086,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1754244587
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2104,8 +2106,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1754244587
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2361,12 +2362,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1754331086
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1754244587
+    "port": 28200
   }
 ]
