@@ -907,7 +907,8 @@
   {
     "name": "SOUP Clan!! | US-East",
     "addr": "194.140.197.76",
-    "port": 30600
+    "port": 30600,
+    "removed": 1754268084
   },
   {
     "name": "[GER] PongsWorld | NewPlayerFriendly | discord.gg/pongultras",
@@ -1036,7 +1037,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !NEIN ZU OINK KAMPFSCHWEINE | OINK ENDE | QS | GER",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.35",
     "port": 7787
   },
@@ -1770,6 +1771,11 @@
     "port": 10710
   },
   {
+    "name": "[LATAM] NODO Y VICTORIA",
+    "addr": "64.20.50.186",
+    "port": 8530
+  },
+  {
     "name": "[D.C.] Devils Company - ENTRENAMIENTOS - Discord: devilscompany",
     "addr": "64.20.50.186",
     "port": 9075
@@ -2377,11 +2383,5 @@
     "addr": "94.250.221.25",
     "port": 28200,
     "removed": 1754244587
-  },
-  {
-    "name": "nitrado.net gameserver w6d6ceoO",
-    "addr": "95.156.198.83",
-    "port": 10500,
-    "removed": 1753663224
   }
 ]
