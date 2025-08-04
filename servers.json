@@ -148,12 +148,6 @@
     "port": 9075
   },
   {
-    "name": "What can I say",
-    "addr": "142.91.157.252",
-    "port": 7777,
-    "removed": 1753704868
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -221,7 +215,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1754309692
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -487,12 +482,6 @@
     "port": 28300
   },
   {
-    "name": "Warrior's Battleground #1 ★ New Player Friendly | .gg/cmwrs",
-    "addr": "176.57.171.44",
-    "port": 28300,
-    "removed": 1753704868
-  },
-  {
     "name": "Churchill Knife & Shovel rumble",
     "addr": "176.57.171.44",
     "port": 28400
@@ -521,12 +510,6 @@
     "name": "[GER] Deutsch Only | MIC Pflicht | Mapvote | Stahlsturm",
     "addr": "176.57.173.119",
     "port": 28200
-  },
-  {
-    "name": "Warrior's Battleground #2 ★ New Player Friendly | .gg/cmwrs",
-    "addr": "176.57.173.119",
-    "port": 28500,
-    "removed": 1753704868
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -671,7 +654,7 @@
     "port": 7827
   },
   {
-    "name": "#1 LATINOAMERICA ESPAÑOL│ ÆSIR │ n9.cl/clanaesir",
+    "name": "!CHILE & ARGENTINA │ NO LAG │ QONZER",
     "addr": "181.214.221.41",
     "port": 7837
   },
@@ -989,7 +972,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "206.53.0.10",
-    "port": 7797
+    "port": 7797,
+    "removed": 1754309692
   },
   {
     "name": "HORANG Event Server | US WEST | (OPS ROKA) 호랑",
@@ -1425,7 +1409,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1754309692
   },
   {
     "name": "HLL Official - US East #03",
@@ -1435,8 +1420,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1754223176
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -2337,7 +2321,7 @@
     "port": 7777
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL | https://discord.gg/J7a9BNwcab",
+    "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
     "addr": "92.38.150.147",
     "port": 28000
   },
