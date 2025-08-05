@@ -215,8 +215,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1754397277
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1370,7 +1369,8 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754398897
   },
   {
     "name": "QA Testing - US West #06",
@@ -2224,8 +2224,7 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1754397277
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
