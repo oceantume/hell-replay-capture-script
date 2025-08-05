@@ -18,7 +18,8 @@
   {
     "name": "GARRYBUSTERS | discord.gg/garrybusters",
     "addr": "103.193.80.145",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754396107
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -229,8 +230,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1754377409
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -762,12 +762,6 @@
     "port": 7777
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "192.169.89.106",
-    "port": 8530,
-    "removed": 1753791282
-  },
-  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -826,8 +820,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1754377409
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -896,7 +889,7 @@
     "removed": 1754268084
   },
   {
-    "name": "nitrado.net gameserver iLpYWxAf",
+    "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
     "port": 20200
   },
@@ -924,8 +917,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1754377409
+    "port": 9620
   },
   {
     "name": "ENG/DA | only Carentan | Danmark ...",
@@ -1031,7 +1023,8 @@
   {
     "name": "! ! !NEIN ZU OINK | LOW PIG | QS | GER",
     "addr": "208.115.206.35",
-    "port": 7787
+    "port": 7787,
+    "removed": 1754396107
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
@@ -1158,7 +1151,7 @@
     "port": 7817
   },
   {
-    "name": "! ! !NEIN ZU OKT | SML DCK | QS | GER",
+    "name": "! ! !OINK 4 KAMPFSCHWEINE | MIDCAP ONLY | QS | GER",
     "addr": "208.115.226.4",
     "port": 7777
   },
@@ -1422,8 +1415,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1754309692
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1785,8 +1777,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1754377409
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -2238,8 +2229,7 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1753966582
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
