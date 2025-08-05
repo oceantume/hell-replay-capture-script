@@ -94,8 +94,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1754288147
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -276,7 +275,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754374400
   },
   {
     "name": "HLL Official - Europe #07",
@@ -287,7 +287,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1754374400
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -438,8 +439,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1754288147
+    "port": 28700
   },
   {
     "name": "Lacio28 Trening",
@@ -833,7 +833,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -843,7 +843,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -907,8 +907,7 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1754356221
+    "port": 21200
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1101,7 +1100,8 @@
   {
     "name": "Qonzer Testing Grounds",
     "addr": "208.115.212.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754374400
   },
   {
     "name": "10th Mountain Division - Event - https://discord.gg/10thMD",
@@ -1155,10 +1155,9 @@
     "port": 7817
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "! ! !NEIN ZU OKT | SML DCK | QS | GER",
     "addr": "208.115.226.4",
-    "port": 7777,
-    "removed": 1754094961
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1277,7 +1276,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
@@ -1288,7 +1287,7 @@
     "removed": 1753922268
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1313,7 +1312,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1766,7 +1765,7 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] NODO Y VICTORIA",
+    "name": "[LATAM] Nodos del Valhalla | [VKR] Valkiria",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -1861,8 +1860,7 @@
   {
     "name": "-= Freedom =- All Maps & Modes | like official w banlist #NoRul",
     "addr": "64.31.29.70",
-    "port": 7777,
-    "removed": 1754356221
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
