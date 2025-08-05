@@ -215,7 +215,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1754397277
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -770,12 +771,6 @@
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
     "port": 8772
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "192.169.89.18",
-    "port": 9075,
-    "removed": 1753792448
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -2229,7 +2224,8 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754397277
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
