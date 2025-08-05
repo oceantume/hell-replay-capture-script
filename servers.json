@@ -141,8 +141,7 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1754334064
+    "port": 8530
   },
   {
     "name": "DKB Event Server",
@@ -667,7 +666,8 @@
   {
     "name": "我是一个快乐的大几把 JP/HK/01/02/03",
     "addr": "185.216.144.75",
-    "port": 10710
+    "port": 10710,
+    "removed": 1754354316
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -742,7 +742,7 @@
     "port": 7787
   },
   {
-    "name": "Trench Rats ※ VIP for Seeding ※ [RAT]",
+    "name": "[RAT] Trench Rats ※ Divorced Dad Gaming™ ※ USA",
     "addr": "192.169.86.211",
     "port": 7777
   },
@@ -895,7 +895,7 @@
     "removed": 1754268084
   },
   {
-    "name": "nitrado.net gameserver oQzzjFms",
+    "name": "nitrado.net gameserver iLpYWxAf",
     "addr": "195.82.158.186",
     "port": 20200
   },
@@ -997,7 +997,7 @@
     "port": 7787
   },
   {
-    "name": "Current Level: Freedom Of Speech Server(D1CK)",
+    "name": "Current Level: Mtn Dew Militia(D1CK)",
     "addr": "206.53.0.15",
     "port": 7777
   },
@@ -1444,7 +1444,7 @@
     "port": 11255
   },
   {
-    "name": "Everyone welcome to [AnE] Old Timers Let Loose",
+    "name": "[AnE] Let Loose UK - All levels and experience welcome.",
     "addr": "45.143.199.235",
     "port": 8530
   },
