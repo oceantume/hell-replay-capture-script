@@ -1145,7 +1145,7 @@
     "port": 7817
   },
   {
-    "name": "! ! !OINK 4 KAMPFSCHWEINE | MIDCAP ONLY | QS | GER",
+    "name": "! ! !OINK 4 KAMPFSCHWEINE | NEWBIES & ROOKIES | QS | GER",
     "addr": "208.115.226.4",
     "port": 7777
   },
@@ -1369,8 +1369,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1754398897
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1380,7 +1379,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1754417504
   },
   {
     "name": "HLL Official - US West #01",
@@ -1615,7 +1615,7 @@
     "port": 7867
   },
   {
-    "name": "<CN>HK#1 瓦学弟萌新进阶（纯冲突）Q群：979552783",
+    "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.243",
     "port": 7877
   },
@@ -1755,7 +1755,7 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] Nodos del Valhalla | [VKR] Valkiria",
+    "name": "[LATAM] |SPN| Nodos del Valhalla | [VKR] Valkiria",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -2082,7 +2082,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754417504
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2357,12 +2358,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1754331086
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754417504
   }
 ]
