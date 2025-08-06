@@ -221,8 +221,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1754482508
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -695,7 +694,8 @@
   {
     "name": "HLL Server",
     "addr": "185.34.11.165",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754503891
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -716,6 +716,11 @@
     "name": "RCON Testing",
     "addr": "188.165.39.157",
     "port": 7817
+  },
+  {
+    "name": "#6 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "188.165.39.157",
+    "port": 7827
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -820,8 +825,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1754463841
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -933,7 +937,8 @@
   {
     "name": "cn.［AZEO］点酱杯比赛HK服q:1023021833",
     "addr": "202.165.70.91",
-    "port": 8908
+    "port": 8908,
+    "removed": 1754503891
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1391,7 +1396,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1754503891
   },
   {
     "name": "HLL Official - US West #03",
@@ -1477,6 +1483,11 @@
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
     "port": 7787
+  },
+  {
+    "name": "#5 [ESP] DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "46.105.223.204",
+    "port": 7807
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -1730,7 +1741,7 @@
     "port": 7807
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MF FRONTLINE #1",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -2076,13 +2087,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754503891
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1754158181
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2092,8 +2103,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1754417504
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2236,7 +2246,8 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1754503891
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2374,7 +2385,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1754417504
+    "port": 28200
   }
 ]
