@@ -68,6 +68,11 @@
     "port": 7787
   },
   {
+    "name": "Hell Let Loose Testing Server olo",
+    "addr": "134.255.222.217",
+    "port": 24100
+  },
+  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -2234,8 +2239,7 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1754440695
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
