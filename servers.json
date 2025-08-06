@@ -58,7 +58,7 @@
     "port": 8530
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "108.165.230.224",
     "port": 7777
   },
@@ -95,7 +95,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1754460802
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -276,8 +277,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1754374400
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #07",
@@ -288,8 +288,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1754374400
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -545,7 +544,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754460802
   },
   {
     "name": "QA Testing - EU #05",
@@ -610,7 +610,8 @@
   {
     "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "181.214.221.212",
-    "port": 7807
+    "port": 7807,
+    "removed": 1754460802
   },
   {
     "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
@@ -696,10 +697,9 @@
     "port": 7777
   },
   {
-    "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "188.165.39.157",
-    "port": 7787,
-    "removed": 1753942331
+    "port": 7787
   },
   {
     "name": "EU#1 | Blood Sweat & Beers BSB | In Memory of Doc62",
