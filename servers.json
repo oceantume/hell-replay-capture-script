@@ -1388,8 +1388,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1754503891
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1478,7 +1477,7 @@
     "port": 7787
   },
   {
-    "name": "#5 [ESP] DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#5 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "46.105.223.204",
     "port": 7807
   },
