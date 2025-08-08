@@ -422,8 +422,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1754568902
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #06",
@@ -906,8 +905,7 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1754613473
+    "port": 21200
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -2263,12 +2261,6 @@
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "91.134.56.12",
     "port": 7867
-  },
-  {
-    "name": "Team17",
-    "addr": "92.118.16.126",
-    "port": 7777,
-    "removed": 1754008979
   },
   {
     "name": "Excel Spreadsheets",
