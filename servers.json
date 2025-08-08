@@ -207,16 +207,14 @@
     "port": 7787
   },
   {
-    "name": "#5 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1754655270
+    "port": 7807
   },
   {
-    "name": "#6 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1754655270
+    "port": 7827
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1979,8 +1977,7 @@
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
-    "port": 8530,
-    "removed": 1754655270
+    "port": 8530
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
@@ -2263,7 +2260,7 @@
     "port": 7847
   },
   {
-    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#6 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "91.134.56.12",
     "port": 7857
   },
@@ -2346,7 +2343,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1754656422
   },
   {
     "name": "US WEST | Blood Buckets",
