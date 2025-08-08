@@ -222,12 +222,12 @@
     "port": 7857
   },
   {
-    "name": "#3 [ESP] - Bee Division - Oficial - Español / Spanish - www.di",
+    "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7787
   },
   {
-    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#5 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7857
   },
@@ -2078,13 +2078,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754676568
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1754590278
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2115,7 +2115,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754676568
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2353,13 +2354,11 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1754590278
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1754590278
+    "port": 28200
   }
 ]
