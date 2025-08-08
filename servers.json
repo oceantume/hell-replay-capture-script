@@ -34,8 +34,7 @@
   {
     "name": "Chimera | Event Sever | Oce | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1754223176
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -210,12 +209,14 @@
   {
     "name": "#5 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1754655270
   },
   {
     "name": "#6 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1754655270
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -223,9 +224,14 @@
     "port": 7857
   },
   {
-    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#3 [ESP] - Bee Division - Oficial - Español / Spanish - www.di",
     "addr": "152.114.195.151",
     "port": 7787
+  },
+  {
+    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "152.114.195.151",
+    "port": 7857
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -261,8 +267,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1754636607
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -557,8 +562,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1754636607
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -695,8 +699,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1754636607
+    "port": 8530
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -941,8 +944,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1754636607
+    "port": 9620
   },
   {
     "name": "ENG/DA | only Carentan | Danmark ...",
@@ -1197,8 +1199,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1754636607
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1293,8 +1294,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1754636607
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1319,8 +1319,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1754636607
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1331,7 +1330,8 @@
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "31.56.0.19",
-    "port": 7857
+    "port": 7857,
+    "removed": 1754655270
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1560,21 +1560,9 @@
     "port": 7867
   },
   {
-    "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
-    "addr": "5.56.25.100",
-    "port": 7877,
-    "removed": 1754050449
-  },
-  {
     "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
-  },
-  {
-    "name": "GTZ战术大队跑图服",
-    "addr": "5.56.25.100",
-    "port": 7897,
-    "removed": 1754050449
   },
   {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
@@ -1803,8 +1791,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1754636607
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -1835,12 +1822,6 @@
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
-  },
-  {
-    "name": "BadgerGrounds - West Mongolia",
-    "addr": "64.31.28.82",
-    "port": 7777,
-    "removed": 1754050449
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1998,7 +1979,8 @@
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1754655270
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
@@ -2281,10 +2263,9 @@
     "port": 7847
   },
   {
-    "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "91.134.56.12",
-    "port": 7857,
-    "removed": 1754636607
+    "port": 7857
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
