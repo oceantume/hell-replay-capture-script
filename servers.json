@@ -94,8 +94,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1754719825
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -130,8 +129,7 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1754719825
+    "port": 9075
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -282,12 +280,6 @@
     "name": "#01 | WCB | BALKAN Training & Practice | discord.gg/wcb",
     "addr": "176.57.134.27",
     "port": 28200
-  },
-  {
-    "name": "[3IRD] Ukrainian Server | UA/EN discord.gg/3irdua",
-    "addr": "176.57.134.27",
-    "port": 28800,
-    "removed": 1754158181
   },
   {
     "name": "QA Testing - EU #02",
@@ -2043,13 +2035,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1754676568
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754762987
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2059,8 +2051,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1754590278
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2080,8 +2071,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1754676568
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2324,6 +2314,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754762987
   }
 ]
