@@ -1,11 +1,5 @@
 [
   {
-    "name": "RHC #1 | Vote Map Enabled",
-    "addr": "103.1.213.78",
-    "port": 8888,
-    "removed": 1754115020
-  },
-  {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
@@ -89,7 +83,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1754719825
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -99,7 +94,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1754719825
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -134,7 +130,8 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1754719825
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
@@ -391,8 +388,7 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1754701462
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -575,7 +571,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1754719825
   },
   {
     "name": "QA Testing - EU #05",
