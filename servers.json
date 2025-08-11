@@ -28,7 +28,8 @@
   {
     "name": "Chimera | Event Sever | Oce | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1754914470
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -43,7 +44,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1754914470
   },
   {
     "name": "The Gape House",
@@ -93,8 +95,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1754892779
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -262,8 +263,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1754895755
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
@@ -553,8 +553,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1754895755
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -695,8 +694,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1754895755
+    "port": 8530
   },
   {
     "name": "[GER]Piraten an die Front Anfänger Freundlich / MIC ist Pflich",
@@ -845,8 +843,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1754895755
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -911,8 +908,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1754827966
+    "port": 20200
   },
   {
     "name": "Bugtestserver",
@@ -932,11 +928,10 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1754895755
+    "port": 9620
   },
   {
-    "name": "ENG/DA | only Carentan | Danmark ...",
+    "name": "☆ DKLL ☆ helletloose.dk - Danmark ☆ NEW PLAYERS WELCOM # ",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1176,8 +1171,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1754895755
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1237,7 +1231,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1754914470
   },
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
@@ -1272,8 +1267,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1754895755
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1298,8 +1292,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1754895755
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1397,8 +1390,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1754741532
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1413,7 +1405,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1754914470
   },
   {
     "name": "HLL Official - US East #06",
@@ -1773,8 +1766,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1754895755
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -2186,8 +2178,7 @@
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28600,
-    "removed": 1754827966
+    "port": 28600
   },
   {
     "name": "CN淘宝人间地狱工作室",
