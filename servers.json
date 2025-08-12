@@ -44,8 +44,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1754914470
+    "port": 28300
   },
   {
     "name": "The Gape House",
@@ -185,7 +184,8 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
-    "port": 7797
+    "port": 7797,
+    "removed": 1755000820
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -1367,7 +1367,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755000820
   },
   {
     "name": "HLL Official - US East #01",
@@ -1387,13 +1388,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1754914470
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1755000820
   },
   {
     "name": "Hell Broke Luce",
@@ -1520,6 +1521,11 @@
     "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
+  },
+  {
+    "name": "jump",
+    "addr": "5.56.25.100",
+    "port": 7897
   },
   {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
