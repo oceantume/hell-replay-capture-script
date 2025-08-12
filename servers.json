@@ -273,7 +273,8 @@
   {
     "name": "Ottox Cinematics",
     "addr": "176.57.134.27",
-    "port": 28100
+    "port": 28100,
+    "removed": 1755022265
   },
   {
     "name": "#01 | WCB | BALKAN Training & Practice | discord.gg/wcb",
@@ -2011,8 +2012,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1754849367
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2027,8 +2027,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1754935857
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2281,13 +2280,11 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1754935857
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1754935857
+    "port": 28200
   }
 ]
