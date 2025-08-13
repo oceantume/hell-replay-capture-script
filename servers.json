@@ -175,7 +175,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "146.0.47.173",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755068298
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -385,12 +386,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "QA Testing - EU #08",
-    "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1754463071
   },
   {
     "name": "Team17 CERT",
