@@ -759,8 +759,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1755069056
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -855,8 +854,7 @@
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777,
-    "removed": 1755065508
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
@@ -904,7 +902,7 @@
     "port": 9620
   },
   {
-    "name": "☆ DKLL ☆ helletloose.dk - Danmark ☆ NEW PLAYERS WELCOM # ",
+    "name": "☆ DKLL ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS WELCOM #",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1355,7 +1353,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755087219
   },
   {
     "name": "HLL Official - US East #05",
@@ -1370,8 +1369,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1755000820
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -1674,12 +1672,12 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "MW Frontline #2",
     "addr": "57.128.229.70",
     "port": 7807
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MW Frontline #1",
     "addr": "57.128.229.70",
     "port": 7817
   },
