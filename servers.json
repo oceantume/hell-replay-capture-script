@@ -243,7 +243,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1755088349
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1533,12 +1534,6 @@
     "port": 7807
   },
   {
-    "name": "<CN>#1 TT天堂萌新俱乐部（随机图）Q群:578097070",
-    "addr": "5.56.25.243",
-    "port": 7817,
-    "removed": 1754482508
-  },
-  {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
     "addr": "5.56.25.243",
     "port": 7827
@@ -1554,18 +1549,6 @@
     "port": 7847
   },
   {
-    "name": "Reclaimer training server",
-    "addr": "5.56.25.243",
-    "port": 7857,
-    "removed": 1754482508
-  },
-  {
-    "name": "<CN>BW黑色守望/投票选图[HK]/Q:1034621661",
-    "addr": "5.56.25.243",
-    "port": 7867,
-    "removed": 1754482508
-  },
-  {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.243",
     "port": 7877
@@ -1574,12 +1557,6 @@
     "name": "CN-JUMP特战大队|无HQ规则冲突服HK|Q:982533719",
     "addr": "5.56.25.243",
     "port": 7887
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
-    "addr": "5.56.25.243",
-    "port": 7897,
-    "removed": 1754482508
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -2142,12 +2119,6 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
-  },
-  {
-    "name": "CN淘宝人间地狱工作室",
-    "addr": "89.46.1.190",
-    "port": 7797,
-    "removed": 1754482508
   },
   {
     "name": "HLL Server",
