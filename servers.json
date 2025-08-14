@@ -73,8 +73,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1755065508
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -89,8 +88,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1755065508
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -309,7 +307,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1755151901
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -374,13 +373,13 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755151901
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1755133536
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -453,8 +452,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1755065508
+    "port": 28700
   },
   {
     "name": "Lacio28 Trening",
@@ -868,7 +866,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -1312,7 +1310,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
-    "port": 7877
+    "port": 7877,
+    "removed": 1755151901
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
