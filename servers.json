@@ -243,14 +243,12 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530,
-    "removed": 1755108670
+    "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1755088349
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -660,7 +658,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] CLAN AESIR ENTRENAMIENTOS",
+    "name": "[LATAM/ESP] │ CLAN ÆSIR │ n9.cl/clanaesir",
     "addr": "181.214.221.41",
     "port": 7837
   },
@@ -671,7 +669,7 @@
     "removed": 1754699677
   },
   {
-    "name": "[HLL] Bootcamp Germany – No Mic • VIP • Easy Play",
+    "name": "[GER] Bootcamp Germany – No Mic • VIP • Easy Play",
     "addr": "185.206.151.114",
     "port": 8530
   },
@@ -842,6 +840,11 @@
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
+  },
+  {
+    "name": "[GER] Omen Event & Match Server #1",
+    "addr": "193.160.22.58",
+    "port": 7877
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
