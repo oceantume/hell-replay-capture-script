@@ -470,8 +470,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1755238291
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -1004,10 +1003,9 @@
     "port": 7777
   },
   {
-    "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
+    "name": "【GER】German Community Server #2 | Stronger Together | Mic O",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1755263758
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1015,7 +1013,7 @@
     "port": 7777
   },
   {
-    "name": "【GER】German Community Server | Stronger Together | Mic Only",
+    "name": "【GER】German Community Server #1 | Stronger Together | Mic O",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1025,16 +1023,14 @@
     "port": 7777
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
+    "name": "【GER】German Community Server #4 | Stronger Together | Mic O",
     "addr": "208.115.206.51",
-    "port": 7777,
-    "removed": 1755263758
+    "port": 7777
   },
   {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
+    "name": "【GER】German Community Server #3 | Stronger Together | Mic O",
     "addr": "208.115.206.51",
-    "port": 7797,
-    "removed": 1755263758
+    "port": 7797
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1107,10 +1103,9 @@
     "port": 7817
   },
   {
-    "name": "! ! !OINK 4 KAMPFSCHWEINE | NEWBIES & ROOKIES | QS | GER",
+    "name": "【GER】German Community Server #5 | Stronger Together | Mic O",
     "addr": "208.115.226.4",
-    "port": 7777,
-    "removed": 1755263758
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1457,7 +1452,7 @@
     "port": 7817
   },
   {
-    "name": "[CN/JP]MOTO战队社区全模式服-QQ1031219165",
+    "name": "叶问携MOTO服全体庆祝小日本投降80周年",
     "addr": "5.56.25.100",
     "port": 7827
   },
@@ -1966,8 +1961,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1755195059
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1977,8 +1971,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1755195059
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -1998,7 +1991,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755281442
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2225,6 +2219,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755281442
   }
 ]
