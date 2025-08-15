@@ -38,7 +38,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755260006
   },
   {
     "name": "The Gape House",
@@ -248,7 +249,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1755260006
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -289,7 +291,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755260006
   },
   {
     "name": "HLL Dev Team",
@@ -394,7 +397,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1755260006
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -425,7 +429,8 @@
   {
     "name": "QA Testing - EU #10",
     "addr": "176.57.169.108",
-    "port": 28100
+    "port": 28100,
+    "removed": 1755260006
   },
   {
     "name": "DevQA - EU #02",
@@ -551,7 +556,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755260006
   },
   {
     "name": "HLL Official - UK #02",
@@ -561,7 +567,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755260006
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -648,7 +655,8 @@
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1755260006
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -998,8 +1006,7 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1755218184
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1019,14 +1026,12 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7777,
-    "removed": 1755218184
+    "port": 7777
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7797,
-    "removed": 1755218184
+    "port": 7797
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1101,8 +1106,7 @@
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | NEWBIES & ROOKIES | QS | GER",
     "addr": "208.115.226.4",
-    "port": 7777,
-    "removed": 1755218184
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1314,7 +1318,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755260006
   },
   {
     "name": "HLL Official - US West #02",
@@ -1359,7 +1364,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1755260006
   },
   {
     "name": "Hell Broke Luce",
