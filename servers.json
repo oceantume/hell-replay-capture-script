@@ -1006,7 +1006,8 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755263758
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1026,12 +1027,14 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755263758
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7797
+    "port": 7797,
+    "removed": 1755263758
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1106,7 +1109,8 @@
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | NEWBIES & ROOKIES | QS | GER",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755263758
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1191,8 +1195,7 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530,
-    "removed": 1755262543
+    "port": 8530
   },
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
