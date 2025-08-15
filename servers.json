@@ -336,6 +336,11 @@
     "port": 28200
   },
   {
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
+    "addr": "176.57.153.41",
+    "port": 28000
+  },
+  {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
     "port": 28100
@@ -516,6 +521,11 @@
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
     "port": 28600
+  },
+  {
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
+    "addr": "176.57.174.145",
+    "port": 28000
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -891,7 +901,8 @@
   {
     "name": "[FR/BE] Les Résistants | discord.gg/hxSd3rqFRk",
     "addr": "198.244.177.7",
-    "port": 9075
+    "port": 9075,
+    "removed": 1755218184
   },
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
@@ -996,7 +1007,8 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755218184
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1016,12 +1028,14 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755218184
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "208.115.206.51",
-    "port": 7797
+    "port": 7797,
+    "removed": 1755218184
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1096,7 +1110,8 @@
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | NEWBIES & ROOKIES | QS | GER",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755218184
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1389,7 +1404,8 @@
   {
     "name": "Nightwarfare only || New & Skilled players welcome!",
     "addr": "45.143.199.235",
-    "port": 9620
+    "port": 9620,
+    "removed": 1755218184
   },
   {
     "name": "hll Server",
@@ -1473,7 +1489,7 @@
     "port": 7847
   },
   {
-    "name": "CN2#散人猫猫社区|洛希没有极限攻防馆Q120748151",
+    "name": "CN2#散人攻防社区|纪念抗战胜利八十周年Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -1483,7 +1499,7 @@
     "port": 7867
   },
   {
-    "name": "CN1#散人猫猫社区|萌新军官的咖啡馆Q120748151",
+    "name": "CN1#散人猫猫社区|纪念抗战胜利八十周年Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
   },
@@ -1651,14 +1667,12 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787,
-    "removed": 1755173660
+    "port": 7787
   },
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797,
-    "removed": 1755173660
+    "port": 7797
   },
   {
     "name": "[13SNC] #2 - Dírty's Bootleggers [US] - discord.gg/13snc",
@@ -1681,7 +1695,7 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] |SPN| Nodos del Valhalla | [VKR] VALKIRIA",
+    "name": "[LATAM] |ESP| Nodos del Valhalla | [VKR] VALKIRIA",
     "addr": "64.20.50.186",
     "port": 8530
   },
