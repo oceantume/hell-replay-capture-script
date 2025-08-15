@@ -1254,12 +1254,6 @@
     "port": 7787
   },
   {
-    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
-    "addr": "31.56.0.19",
-    "port": 7857,
-    "removed": 1754655270
-  },
-  {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
     "addr": "31.56.0.20",
     "port": 7777
@@ -2212,7 +2206,8 @@
   {
     "name": "BUNKER BRASIL || SOMENTE PT-BR || discord.gg/tXexuHaUkK || VIP",
     "addr": "92.38.151.91",
-    "port": 28600
+    "port": 28600,
+    "removed": 1755261102
   },
   {
     "name": "US WEST | Blood Buckets",
