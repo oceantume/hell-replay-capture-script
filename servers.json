@@ -73,12 +73,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755238291
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755238291
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -307,8 +309,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1755151901
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -378,8 +379,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1755151901
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -465,7 +465,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755238291
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -655,7 +656,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] │ CLAN ÆSIR │ n9.cl/clanaesir",
+    "name": "[LATAM/ESP] │ CLAN AESIR │NO LAG│ n9.cl/clanaesir",
     "addr": "181.214.221.41",
     "port": 7837
   },
@@ -806,7 +807,8 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1755238291
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -952,7 +954,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 | discord.gg/icoh",
     "addr": "206.53.0.10",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755238291
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1164,7 +1167,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) New Player Heaven | US West #2 | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US West | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
   },
@@ -1298,7 +1301,8 @@
   {
     "name": "SANDBOX #1 | NEW PLAYERS WELCOME | GER|ENG",
     "addr": "31.56.0.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755238291
   },
   {
     "name": "SANDBOX #2 | NEW PLAYERS WELCOME | GER|ENG",
@@ -1311,10 +1315,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] Omen Event & Match Server #1",
+    "name": "HLL Server",
     "addr": "31.56.0.97",
-    "port": 7877,
-    "removed": 1755151901
+    "port": 7877
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
