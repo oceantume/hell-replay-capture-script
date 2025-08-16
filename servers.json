@@ -74,14 +74,12 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1755238291
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1755238291
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -291,8 +289,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1755260006
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
@@ -397,8 +394,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1755260006
+    "port": 28100
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -470,8 +466,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1755304421
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -556,8 +551,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1755260006
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -567,8 +561,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1755260006
+    "port": 28200
   },
   {
     "name": "[VS-UK] HLL UK server - All welcome",
@@ -856,7 +849,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.59.170",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755324603
   },
   {
     "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
@@ -1299,8 +1293,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1755260006
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
