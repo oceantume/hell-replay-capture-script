@@ -101,7 +101,7 @@
     "port": 7797
   },
   {
-    "name": "BSC v PBS",
+    "name": "Hell Breaks Loose | Promo Match | Event",
     "addr": "139.28.17.147",
     "port": 7777
   },
@@ -986,7 +986,8 @@
   {
     "name": "【GER】German Community Server #2 | Stronger Together | Mic O",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755367748
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -996,7 +997,8 @@
   {
     "name": "【GER】German Community Server #1 | Stronger Together | Mic O",
     "addr": "208.115.206.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755367748
   },
   {
     "name": "13SNC Presents - ImbaDave 4K - One life event",
@@ -1006,12 +1008,14 @@
   {
     "name": "【GER】German Community Server #4 | Stronger Together | Mic O",
     "addr": "208.115.206.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755367748
   },
   {
     "name": "【GER】German Community Server #3 | Stronger Together | Mic O",
     "addr": "208.115.206.51",
-    "port": 7797
+    "port": 7797,
+    "removed": 1755367748
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1086,7 +1090,8 @@
   {
     "name": "【GER】German Community Server #5 | Stronger Together | Mic O",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755367748
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1936,7 +1941,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755367748
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1972,8 +1978,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1755281442
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2084,7 +2089,8 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755367748
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -2205,7 +2211,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1755281442
+    "port": 28200
   }
 ]
