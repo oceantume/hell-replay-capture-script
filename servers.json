@@ -38,8 +38,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1755260006
+    "port": 28300
   },
   {
     "name": "The Gape House",
@@ -486,7 +485,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755346332
   },
   {
     "name": "Churchill Knife & Shovel rumble",
@@ -1182,7 +1182,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1755346332
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1338,8 +1339,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1755260006
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -1614,7 +1614,7 @@
     "port": 7787
   },
   {
-    "name": "MW Frontline #2",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -2081,6 +2081,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.207.161.117",
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
