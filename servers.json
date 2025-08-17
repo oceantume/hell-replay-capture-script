@@ -657,7 +657,8 @@
   {
     "name": "[GER] Bootcamp Germany • VIP • Easy Play",
     "addr": "185.206.151.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1755391133
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -1104,7 +1105,7 @@
     "removed": 1755367748
   },
   {
-    "name": "THE SANDBOX #5 | EPIC WARFARE | ENG/GER",
+    "name": "[GER] - OKT #1 - Mic Only - Wir rekrutieren!",
     "addr": "208.115.226.6",
     "port": 7777
   },
@@ -1141,7 +1142,8 @@
   {
     "name": "[GER] • OKT #1 • Mic Only • Wir rekrutieren!",
     "addr": "208.115.248.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755391133
   },
   {
     "name": "THE SANDBOX #3 | NEW PLAYER FRIENDLY | ENG/GER",
@@ -1151,15 +1153,17 @@
   {
     "name": "[GER] • OKT #2 • Mic Only • Wir rekrutieren!",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755391133
   },
   {
     "name": "Oktogon | Event Server | EU | discord.gg/Oktogon",
     "addr": "208.115.248.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755391133
   },
   {
-    "name": "THE SANDBOX #4 | WARFARE | FUNSERVER | ENG/GER",
+    "name": "Oktogon | Event Server | EU | discord.gg/Oktogon",
     "addr": "208.115.248.94",
     "port": 7777
   },
@@ -1996,8 +2000,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1755304421
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
