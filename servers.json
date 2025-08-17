@@ -1954,8 +1954,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1755367748
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1990,7 +1989,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755454167
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2101,7 +2101,8 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755454167
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
