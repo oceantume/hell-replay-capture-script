@@ -500,7 +500,8 @@
   {
     "name": "[GER] Deutsch Only | MIC Pflicht | Mapvote | Stahlsturm",
     "addr": "176.57.173.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755477521
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -620,8 +621,7 @@
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
-    "port": 7807,
-    "removed": 1755260006
+    "port": 7807
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -673,6 +673,11 @@
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
     "port": 9075
+  },
+  {
+    "name": "Pickle Pirates - US Central",
+    "addr": "191.101.30.57",
+    "port": 8530
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1078,10 +1083,9 @@
     "port": 7817
   },
   {
-    "name": "【GER】German Community Server #5 | Stronger Together | Mic O",
+    "name": "CBMS",
     "addr": "208.115.226.4",
-    "port": 7777,
-    "removed": 1755367748
+    "port": 7777
   },
   {
     "name": "[GER] - OKT #1 - Mic Only - Wir rekrutieren! #QONZER",
@@ -1096,6 +1100,11 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.247.18",
     "port": 7777
   },
   {
@@ -1269,7 +1278,8 @@
   {
     "name": "CBMS",
     "addr": "31.56.0.25",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755477521
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1289,7 +1299,8 @@
   {
     "name": "HLL Server",
     "addr": "31.56.0.97",
-    "port": 7877
+    "port": 7877,
+    "removed": 1755477521
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1459,7 +1470,7 @@
     "port": 7847
   },
   {
-    "name": "CN2#散人攻防社区|纪念抗战胜利八十周年Q120748151",
+    "name": "CN2#散人喵喵社区|旺仔小乔的面具下攻防Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -1469,7 +1480,7 @@
     "port": 7867
   },
   {
-    "name": "CN1#散人猫猫社区|纪念抗战胜利八十周年Q120748151",
+    "name": "CN1#散人猫猫社区|萌新的激战军官咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
   },
@@ -1570,7 +1581,7 @@
     "port": 8530
   },
   {
-    "name": "Turks Let Loose [TR] - Yeni IP - discord.gg/TurksLetLoose",
+    "name": "Turks Let Loose [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "51.77.66.51",
     "port": 9075
   },
@@ -1648,7 +1659,8 @@
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1755477521
   },
   {
     "name": "[13SNC] #2 - Dírty's Bootleggers [US] - discord.gg/13snc",
@@ -2197,7 +2209,8 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1755477521
   },
   {
     "name": "Ronin EVENTS / BR Hosted Server",
