@@ -157,6 +157,11 @@
     "port": 29100
   },
   {
+    "name": "Your HLL Server Name",
+    "addr": "144.136.37.124",
+    "port": 7777
+  },
+  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -280,8 +285,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1755411022
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #03",
@@ -291,8 +295,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1755411022
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -378,6 +381,11 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
+  },
+  {
+    "name": "QA Testing - EU #08",
+    "addr": "176.57.168.38",
+    "port": 28400
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -1103,7 +1111,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "(IC) Offensive Heaven | US West SLC | discord.gg/icoh",
     "addr": "208.115.247.18",
     "port": 7777
   },
