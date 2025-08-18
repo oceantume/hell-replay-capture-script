@@ -38,8 +38,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1755432744
+    "port": 28300
   },
   {
     "name": "The Gape House",
@@ -1111,7 +1110,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US West SLC | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
     "addr": "208.115.247.18",
     "port": 7777
   },
@@ -1169,7 +1168,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US West | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
   },
@@ -1341,6 +1340,11 @@
     "port": 28700
   },
   {
+    "name": "QA Testing - US East #09",
+    "addr": "45.137.247.33",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
     "port": 28300
@@ -1358,8 +1362,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1755432744
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -2152,6 +2155,11 @@
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "91.134.56.12",
     "port": 7867
+  },
+  {
+    "name": "temp",
+    "addr": "92.118.16.90",
+    "port": 7787
   },
   {
     "name": "Excel Spreadsheets",
