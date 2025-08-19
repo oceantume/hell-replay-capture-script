@@ -73,7 +73,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755583891
   },
   {
     "name": "HLL Official - Russia #02",
@@ -158,8 +159,7 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1755540655
+    "port": 7777
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -427,7 +427,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1755583891
   },
   {
     "name": "QA Testing - EU #04",
@@ -789,7 +790,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -799,7 +800,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1142,7 +1143,7 @@
     "removed": 1755391133
   },
   {
-    "name": "【HLL】German Community Server | GER | AI-POWERED",
+    "name": "HLL Server",
     "addr": "208.115.248.90",
     "port": 7797
   },
@@ -1229,12 +1230,12 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1259,7 +1260,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1307,8 +1308,7 @@
   {
     "name": "HLL Server",
     "addr": "31.56.0.97",
-    "port": 7877,
-    "removed": 1755477521
+    "port": 7877
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
