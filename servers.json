@@ -159,7 +159,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755627019
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -456,7 +457,7 @@
     "port": 28000
   },
   {
-    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich | Viel Spaß!",
+    "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
     "port": 28300
   },
@@ -1067,7 +1068,7 @@
     "port": 7777
   },
   {
-    "name": "THE SANDBOX #1 | LOW PING | WARFARE | ENG/GER",
+    "name": "THE MIDLINE – World’s First Midline only Server | EU | ENG",
     "addr": "208.115.224.71",
     "port": 7787
   },
@@ -1202,8 +1203,7 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530,
-    "removed": 1755609266
+    "port": 8530
   },
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
@@ -1213,8 +1213,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1755605599
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1979,25 +1978,23 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1755540655
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755627019
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1755540655
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1755540655
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2144,8 +2141,7 @@
   {
     "name": "(IC) Offensive Heaven | EU | discord.gg/icoh",
     "addr": "91.134.56.12",
-    "port": 7797,
-    "removed": 1755540655
+    "port": 7797
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25+ 13:00–17:59/50+ 18:00",
@@ -2261,8 +2257,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1755540655
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
