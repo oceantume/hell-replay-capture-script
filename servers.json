@@ -65,7 +65,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] Waffenschmiede [Kein Rolle Level!]!",
+    "name": "[GER] Waffenschmiede | No Roles LvL!",
     "addr": "135.125.188.111",
     "port": 9620
   },
@@ -384,12 +384,6 @@
     "port": 28400
   },
   {
-    "name": "PARABELLUM EVENT SERVER",
-    "addr": "176.57.168.69",
-    "port": 28000,
-    "removed": 1755108670
-  },
-  {
     "name": "[BxB] - Black Bees Server - [ESP]",
     "addr": "176.57.168.69",
     "port": 28200
@@ -651,10 +645,9 @@
     "port": 8530
   },
   {
-    "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
+    "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
     "addr": "185.216.145.154",
-    "port": 9075,
-    "removed": 1755713418
+    "port": 9075
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -2049,12 +2042,6 @@
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
-  },
-  {
-    "name": "Sigma Let Loose | New Player Friendly [USC]",
-    "addr": "83.223.207.55",
-    "port": 28000,
-    "removed": 1755108670
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
