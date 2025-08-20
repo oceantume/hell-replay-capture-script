@@ -65,10 +65,9 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] Waffenschmiede [Kein Rolle Level!]!",
     "addr": "135.125.188.111",
-    "port": 9620,
-    "removed": 1755695765
+    "port": 9620
   },
   {
     "name": "HLL Official - Russia #01",
@@ -159,7 +158,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755713418
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -653,7 +653,8 @@
   {
     "name": "[FR Coalition][FTC] Les Frères de TranChées discord.gg/jSCASA",
     "addr": "185.216.145.154",
-    "port": 9075
+    "port": 9075,
+    "removed": 1755713418
   },
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
@@ -1652,12 +1653,12 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "MW Frontline #2",
     "addr": "57.128.229.70",
     "port": 7807
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MW Frontline #1",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -1975,13 +1976,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755713418
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1755627019
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2094,6 +2095,11 @@
     "name": "GREYHOUND Event #1",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "Thugs Let Loose",
+    "addr": "85.208.197.76",
+    "port": 7777
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
@@ -2256,7 +2262,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1755713418
   },
   {
     "name": "HLL Official - Australia #01",
