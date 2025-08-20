@@ -73,8 +73,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1755583891
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -124,13 +123,13 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1755670292
   },
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1755651720
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -160,8 +159,7 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1755627019
+    "port": 7777
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -291,7 +289,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1755670292
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -407,7 +406,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755670292
   },
   {
     "name": "QA Testing - EU #10",
@@ -423,8 +423,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1755583891
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -546,7 +545,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755670292
   },
   {
     "name": "QA Testing - EU #05",
@@ -1478,7 +1478,7 @@
     "port": 7847
   },
   {
-    "name": "CN2#散人喵喵社区|旺仔小乔的面具下攻防Q120748151",
+    "name": "CN2#散人喵喵社区|旺仔小乔的假面攻防Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
