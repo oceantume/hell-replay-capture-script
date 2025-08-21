@@ -715,6 +715,11 @@
     "port": 7777
   },
   {
+    "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
+    "addr": "192.169.86.213",
+    "port": 7787
+  },
+  {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
     "port": 7777
@@ -799,6 +804,11 @@
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
     "port": 7877
+  },
+  {
+    "name": "Dark Horizon UK | New Players Welcome | Powered by Qonzer",
+    "addr": "193.160.22.60",
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1646,12 +1656,12 @@
     "port": 7787
   },
   {
-    "name": "MW Frontline #2",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "57.128.229.70",
     "port": 7807
   },
   {
-    "name": "MW Frontline #1",
+    "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -1861,6 +1871,11 @@
     "port": 7797
   },
   {
+    "name": "Dark Horizon 1 | New Players Welcome | Powered by Qonzer",
+    "addr": "64.31.61.91",
+    "port": 7777
+  },
+  {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
@@ -2000,8 +2015,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1755649982
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2156,6 +2170,11 @@
     "port": 7867
   },
   {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
+  },
+  {
     "name": "temp",
     "addr": "92.118.16.90",
     "port": 7787,
@@ -2199,26 +2218,22 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
-    "port": 7787,
-    "removed": 1755716079
+    "port": 7787
   },
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.66",
-    "port": 7787,
-    "removed": 1755716079
+    "port": 7787
   },
   {
     "name": "U Test Server",
     "addr": "92.118.19.67",
-    "port": 7777,
-    "removed": 1755716079
+    "port": 7777
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.78",
-    "port": 7787,
-    "removed": 1755716079
+    "port": 7787
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
