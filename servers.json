@@ -87,7 +87,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1755843075
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -127,8 +128,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1755824556
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -325,7 +325,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1755843075
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
@@ -360,7 +361,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755843075
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -528,7 +530,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755843075
   },
   {
     "name": "QA Testing - UK #07",
@@ -538,7 +541,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1755843075
   },
   {
     "name": "QA Testing - EU #05",
@@ -1314,7 +1318,7 @@
     "port": 7777
   },
   {
-    "name": "HLL Server",
+    "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
     "port": 7877
   },
@@ -1892,6 +1896,11 @@
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
     "port": 8530
+  },
+  {
+    "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
+    "addr": "67.217.48.14",
+    "port": 9075
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
