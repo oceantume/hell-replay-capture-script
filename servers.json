@@ -127,7 +127,8 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1755824556
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -873,12 +874,6 @@
     "port": 8530
   },
   {
-    "name": "[FR/BE] Les Résistants | discord.gg/hxSd3rqFRk",
-    "addr": "198.244.177.7",
-    "port": 9075,
-    "removed": 1755218184
-  },
-  {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
     "port": 9620
@@ -1414,12 +1409,6 @@
     "name": "MUHtion Media",
     "addr": "45.143.199.235",
     "port": 9075
-  },
-  {
-    "name": "Nightwarfare only || New & Skilled players welcome!",
-    "addr": "45.143.199.235",
-    "port": 9620,
-    "removed": 1755218184
   },
   {
     "name": "hll Server",
