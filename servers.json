@@ -403,12 +403,6 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - EU #10",
-    "addr": "176.57.169.108",
-    "port": 28100,
-    "removed": 1755260006
-  },
-  {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
@@ -1242,7 +1236,8 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "31.56.0.14",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755865869
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
