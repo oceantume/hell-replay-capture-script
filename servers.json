@@ -359,8 +359,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1755843075
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -441,7 +440,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755929365
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -523,8 +523,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1755843075
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -534,8 +533,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1755843075
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1318,12 +1316,14 @@
   {
     "name": "Q's - Qonzer.com | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755929365
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755929365
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
