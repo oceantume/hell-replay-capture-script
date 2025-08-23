@@ -157,8 +157,7 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1755886188
+    "port": 7777
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -971,13 +970,13 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1755932437
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.34",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755951088
   },
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
@@ -992,7 +991,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755951088
   },
   {
     "name": "[13SNC] #2 - Dírty's R&R",
@@ -1002,7 +1002,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.38",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755951088
   },
   {
     "name": "【GER】German Community Server #4 | Stronger Together | Mic O",
@@ -1097,7 +1098,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] - OKT #1 - Mic Only - Wir rekrutieren! #QONZER",
+    "name": "hll Server",
     "addr": "208.115.226.6",
     "port": 7777
   },
@@ -1158,7 +1159,7 @@
     "removed": 1755391133
   },
   {
-    "name": "Oktogon | Event Server | EU | discord.gg/Oktogon #QONZER",
+    "name": "hll Server",
     "addr": "208.115.248.94",
     "port": 7777
   },
@@ -1268,8 +1269,7 @@
   {
     "name": "WTH Training Server",
     "addr": "31.56.0.15",
-    "port": 7787,
-    "removed": 1755886188
+    "port": 7787
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -1589,7 +1589,7 @@
     "port": 9075
   },
   {
-    "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
+    "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
     "addr": "51.161.197.24",
     "port": 9075
   },
@@ -1781,7 +1781,7 @@
     "port": 7777
   },
   {
-    "name": "-= Freedom =- All Maps & Modes | NoRules",
+    "name": "-=Aschebecher=- All Warfare Maps | No Rules",
     "addr": "64.31.29.70",
     "port": 7777
   },
