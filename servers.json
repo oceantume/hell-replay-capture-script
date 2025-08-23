@@ -157,7 +157,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755972505
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -1138,7 +1139,7 @@
     "port": 7777
   },
   {
-    "name": "57th | Beta Operation",
+    "name": "Türkiye 57th | Public New Player Friendly Beta Operation",
     "addr": "208.115.248.90",
     "port": 7777
   },
@@ -1317,8 +1318,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
-    "port": 7777,
-    "removed": 1755929365
+    "port": 7777
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1334,8 +1334,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1755954326
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1345,8 +1344,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1755954326
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1356,8 +1354,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1755954326
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1926,8 +1923,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1755954326
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2013,12 +2009,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1755972505
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1755972505
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2038,8 +2036,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1755799810
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
