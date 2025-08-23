@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1755889394
+    "port": 8888
   },
   {
     "name": "RHC #1 | Vote Map Enabled",
@@ -544,7 +543,7 @@
     "port": 28200
   },
   {
-    "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
+    "name": "Omen Test Server",
     "addr": "176.57.178.44",
     "port": 28100
   },
@@ -768,7 +767,8 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1755909142
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -799,6 +799,11 @@
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
+  },
+  {
+    "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
+    "addr": "193.160.22.58",
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -939,7 +944,8 @@
   {
     "name": "The DRAFT | Test Server",
     "addr": "206.53.0.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1755909142
   },
   {
     "name": "Current Level: Mtn Dew Militia(D1CK)",
@@ -977,10 +983,14 @@
     "port": 7777
   },
   {
-    "name": "【GER】German Community Server #2 | Stronger Together | Mic O",
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.34",
+    "port": 7787
+  },
+  {
+    "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1755367748
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -988,15 +998,19 @@
     "port": 7777
   },
   {
-    "name": "【GER】German Community Server #1 | Stronger Together | Mic O",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.37",
-    "port": 7787,
-    "removed": 1755367748
+    "port": 7787
   },
   {
     "name": "[13SNC] #2 - Dírty's R&R",
     "addr": "208.115.206.38",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.38",
+    "port": 7787
   },
   {
     "name": "【GER】German Community Server #4 | Stronger Together | Mic O",
@@ -1141,10 +1155,9 @@
     "port": 7797
   },
   {
-    "name": "[GER] • OKT #2 • Mic Only • Wir rekrutieren!",
+    "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1755391133
+    "port": 7777
   },
   {
     "name": "Oktogon | Event Server | EU | discord.gg/Oktogon",
@@ -1242,8 +1255,7 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "31.56.0.14",
-    "port": 7787,
-    "removed": 1755886188
+    "port": 7787
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1259,8 +1271,7 @@
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
     "addr": "31.56.0.15",
-    "port": 7777,
-    "removed": 1755886188
+    "port": 7777
   },
   {
     "name": "WTH Training Server",
@@ -1276,8 +1287,7 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
     "addr": "31.56.0.20",
-    "port": 7777,
-    "removed": 1755886188
+    "port": 7777
   },
   {
     "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
@@ -1292,7 +1302,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "31.56.0.24",
-    "port": 7777
+    "port": 7777,
+    "removed": 1755909142
   },
   {
     "name": "CBMS",
@@ -1318,7 +1329,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "31.56.0.97",
-    "port": 7877
+    "port": 7877,
+    "removed": 1755909142
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1580,8 +1592,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1755889394
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1771,7 +1782,12 @@
     "port": 7777
   },
   {
-    "name": "-= Freedom =- All Maps & Modes | like official w banlist #NoRul",
+    "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
+    "addr": "64.31.29.68",
+    "port": 7777
+  },
+  {
+    "name": "-= Freedom =- All Maps & Modes | NoRules",
     "addr": "64.31.29.70",
     "port": 7777
   },
@@ -1968,7 +1984,7 @@
     "port": 10710
   },
   {
-    "name": "Ξ|WAR|Ξ Events",
+    "name": "WAR Event******",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -2104,9 +2120,24 @@
     "port": 7817
   },
   {
+    "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
+    "addr": "85.208.197.74",
+    "port": 7787
+  },
+  {
+    "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
+    "addr": "85.208.197.75",
+    "port": 7787
+  },
+  {
     "name": "Thugs Let Loose",
     "addr": "85.208.197.76",
     "port": 7777
+  },
+  {
+    "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
+    "addr": "85.208.197.76",
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
