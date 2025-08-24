@@ -631,12 +631,6 @@
     "port": 7837
   },
   {
-    "name": "[GER] Bootcamp Germany • VIP • Easy Play",
-    "addr": "185.206.151.114",
-    "port": 8530,
-    "removed": 1755391133
-  },
-  {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
     "port": 8530
@@ -1138,12 +1132,6 @@
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
     "port": 7777
-  },
-  {
-    "name": "Oktogon | Event Server | EU | discord.gg/Oktogon",
-    "addr": "208.115.248.92",
-    "port": 7777,
-    "removed": 1755391133
   },
   {
     "name": "hll Server",
@@ -1954,8 +1942,7 @@
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1755995856
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
