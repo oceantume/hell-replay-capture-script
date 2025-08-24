@@ -158,7 +158,8 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756058935
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -252,7 +253,7 @@
     "port": 8530
   },
   {
-    "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
+    "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
   },
@@ -1970,14 +1971,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1755972505
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1755972505
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
