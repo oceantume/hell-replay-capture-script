@@ -32,7 +32,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756037494
   },
   {
     "name": "The Gape House",
@@ -157,8 +158,7 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1755972505
+    "port": 7777
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -234,7 +234,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756037494
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -518,8 +519,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1756018993
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -635,8 +635,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1756018993
+    "port": 8530
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -772,8 +771,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1756018993
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -873,8 +871,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1756018993
+    "port": 9620
   },
   {
     "name": "☆ DKLL ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS WELCOM #",
@@ -1116,8 +1113,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1756018993
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1217,8 +1213,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1756018993
+    "port": 7877
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1255,8 +1250,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1756018993
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1691,8 +1685,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1756018993
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -2026,7 +2019,8 @@
   {
     "name": "Boneyard",
     "addr": "83.223.203.138",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756037494
   },
   {
     "name": "Study Hall",
