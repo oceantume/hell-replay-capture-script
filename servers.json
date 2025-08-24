@@ -464,7 +464,7 @@
     "port": 28300
   },
   {
-    "name": "Churchill Knife & Shovel rumble",
+    "name": "Churchill's Dagger Division",
     "addr": "176.57.171.44",
     "port": 28400
   },
@@ -773,7 +773,7 @@
     "port": 8530
   },
   {
-    "name": "SYNDICATE | US EAST | LVL 25+ | DISCORD.GG/SYN-HLL",
+    "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
     "port": 8772
   },
@@ -974,10 +974,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.206.34",
-    "port": 7787,
-    "removed": 1755951088
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
@@ -990,10 +989,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] • Oktogon • Mic Only • Wir Rekrutieren! • #Qonzer",
     "addr": "208.115.206.37",
-    "port": 7787,
-    "removed": 1755951088
+    "port": 7787
   },
   {
     "name": "[13SNC] #2 - Dírty's R&R",
@@ -1127,10 +1125,9 @@
     "port": 7777
   },
   {
-    "name": "Türkiye 57th | Public New Player Friendly Beta Operation",
+    "name": "57TH Turkish Regiment [Türkçe & English] [New Player Friendly",
     "addr": "208.115.248.90",
-    "port": 7777,
-    "removed": 1755976143
+    "port": 7777
   },
   {
     "name": "[GER] 100.Jäger-Division 2 | Mikrofon erforderlich!",
@@ -1176,8 +1173,7 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787,
-    "removed": 1755864774
+    "port": 7787
   },
   {
     "name": "BLOOP! Battles | NEW SERVER | SEEDERS GET 6 MONTHS VIP!",
@@ -1958,7 +1954,8 @@
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165
+    "port": 10165,
+    "removed": 1755995856
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
