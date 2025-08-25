@@ -38,7 +38,8 @@
   {
     "name": "The Gape House",
     "addr": "104.249.63.252",
-    "port": 8530
+    "port": 8530,
+    "removed": 1756082126
   },
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
@@ -158,8 +159,7 @@
   {
     "name": "Your HLL Server Name",
     "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1756058935
+    "port": 7777
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -266,6 +266,11 @@
     "name": "#01 | WCB | BALKAN Training & Practice | discord.gg/wcb",
     "addr": "176.57.134.27",
     "port": 28200
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.134.27",
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #02",
@@ -1300,6 +1305,11 @@
     "port": 8530
   },
   {
+    "name": "Hell let loose (US Mid) Server by g-portal.com",
+    "addr": "45.137.244.9",
+    "port": 28700
+  },
+  {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
     "port": 28000
@@ -2023,6 +2033,11 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
+  },
+  {
+    "name": "Hell let loose (US Mid) Server by g-portal.com",
+    "addr": "83.223.207.50",
+    "port": 28000
   },
   {
     "name": "Test",
