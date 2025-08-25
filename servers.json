@@ -129,8 +129,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1756083925
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -372,8 +371,7 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1756083925
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -519,8 +517,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1756015805
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -530,7 +527,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756102326
   },
   {
     "name": "QA Testing - EU #05",
@@ -1787,7 +1785,7 @@
     "port": 7777
   },
   {
-    "name": "вит | Bad Intentions - SNS EVENT [US EAST]",
+    "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
     "addr": "64.31.58.62",
     "port": 7777
   },
@@ -2047,7 +2045,8 @@
   {
     "name": "The Practice Range",
     "addr": "83.223.207.55",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756102326
   },
   {
     "name": "Testing 123",
