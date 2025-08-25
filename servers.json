@@ -324,6 +324,11 @@
     "port": 28200
   },
   {
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
+    "addr": "176.57.153.114",
+    "port": 28000
+  },
+  {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "176.57.153.41",
     "port": 28000
@@ -434,10 +439,9 @@
     "port": 28000
   },
   {
-    "name": "HLL Server Piu",
+    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1755864774
+    "port": 28200
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -497,12 +501,14 @@
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
     "addr": "176.57.174.145",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756125114
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.174.145",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756125114
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
