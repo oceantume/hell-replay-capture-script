@@ -394,7 +394,8 @@
   {
     "name": "[BxB] - Black Bees Server - [ESP]",
     "addr": "176.57.168.69",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756210426
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -1158,7 +1159,7 @@
     "port": 7777
   },
   {
-    "name": "Rookie Rumble // Levels 0-50 // HLL Guides = discord/etool",
+    "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -1339,7 +1340,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756210426
   },
   {
     "name": "HLL Official - US East #01",
@@ -1354,8 +1356,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1756123997
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
