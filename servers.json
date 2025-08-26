@@ -313,9 +313,19 @@
     "port": 28000
   },
   {
+    "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
+    "addr": "176.57.140.196",
+    "port": 28200
+  },
+  {
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
+  },
+  {
+    "name": "Testing Stuff",
+    "addr": "176.57.140.83",
+    "port": 28000
   },
   {
     "name": "[GER] Zum goldenen Brennholzspartaner | Mic Pflicht",
@@ -404,6 +414,11 @@
     "port": 28400
   },
   {
+    "name": "CZ/SK",
+    "addr": "176.57.168.91",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
     "port": 28100
@@ -441,8 +456,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1756188698
+    "port": 28200
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -488,7 +502,8 @@
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
     "addr": "176.57.171.7",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756231790
   },
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
@@ -558,12 +573,14 @@
   {
     "name": "CZ/SK",
     "addr": "176.57.181.144",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756231790
   },
   {
     "name": "Testing Stuff",
     "addr": "176.57.181.144",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756231790
   },
   {
     "name": "LwJg46 Trainingsserver",
@@ -1975,13 +1992,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756231790
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1756145436
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2012,7 +2029,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756231790
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2257,8 +2275,7 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900,
-    "removed": 1756015805
+    "port": 28900
   },
   {
     "name": "Ronin EVENTS / BR Hosted Server",
@@ -2283,7 +2300,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756231790
   },
   {
     "name": "HLL Official - Australia #01",
