@@ -249,8 +249,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1756188698
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
@@ -1689,7 +1688,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1756192149
   },
   {
     "name": "瓜棚vsCU",
