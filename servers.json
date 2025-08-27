@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1756234954
+    "port": 8888
   },
   {
     "name": "RHC #1 | Vote Map Enabled",
@@ -412,7 +411,8 @@
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.168.69",
-    "port": 28400
+    "port": 28400,
+    "removed": 1756254785
   },
   {
     "name": "CZ/SK",
@@ -483,7 +483,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756254785
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -565,6 +566,11 @@
     "addr": "176.57.178.44",
     "port": 28100,
     "removed": 1756145436
+  },
+  {
+    "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
+    "addr": "176.57.181.105",
+    "port": 28200
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -801,7 +807,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -811,7 +817,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -985,7 +991,8 @@
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756254785
   },
   {
     "name": "331 | Jungle House | Discord.gg/331st",
@@ -1229,12 +1236,12 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1271,7 +1278,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1578,8 +1585,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1756234954
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
@@ -1589,8 +1595,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1756234954
+    "port": 9620
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1654,12 +1659,12 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "MWF #1",
     "addr": "57.128.229.70",
     "port": 7807
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MWF #2",
     "addr": "57.128.229.70",
     "port": 7817
   },
@@ -1933,12 +1938,6 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | US Central Dallas #3 | discord.gg/icoh",
-    "addr": "69.162.89.150",
-    "port": 7777,
-    "removed": 1755649982
-  },
-  {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
@@ -2186,12 +2185,6 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | EU | discord.gg/icoh",
-    "addr": "91.134.56.12",
-    "port": 7797,
-    "removed": 1755649982
-  },
-  {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25+ 13:00–17:59/50+ 18:00",
     "addr": "91.134.56.12",
     "port": 7817
@@ -2247,7 +2240,7 @@
     "port": 7797
   },
   {
-    "name": "[16th IR] 16th Infantry Regiment Realism Server 16thir.org",
+    "name": "[16th IR] 16th Infantry Regiment Realism Unit 16thir.org ~~VIP ",
     "addr": "92.118.18.96",
     "port": 7777
   },
