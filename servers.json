@@ -1182,7 +1182,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756300382
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1351,8 +1352,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1756214270
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
