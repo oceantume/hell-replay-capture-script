@@ -285,7 +285,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756275045
   },
   {
     "name": "HLL Official - Europe #03",
@@ -437,7 +438,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1756275045
   },
   {
     "name": "QA Testing - EU #04",
@@ -467,8 +469,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1756188698
+    "port": 28300
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
@@ -515,8 +516,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600,
-    "removed": 1756188698
+    "port": 28600
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -553,8 +553,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1756102326
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -991,8 +990,7 @@
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
-    "port": 7777,
-    "removed": 1756254785
+    "port": 7777
   },
   {
     "name": "331 | Jungle House | Discord.gg/331st",
