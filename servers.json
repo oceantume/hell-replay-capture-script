@@ -153,7 +153,8 @@
   {
     "name": "SARA Hell Let Loose",
     "addr": "144.126.153.213",
-    "port": 29100
+    "port": 29100,
+    "removed": 1756318204
   },
   {
     "name": "Your HLL Server Name",
@@ -322,7 +323,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756318204
   },
   {
     "name": "Testing Stuff",
@@ -342,17 +344,20 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756318204
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756318204
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
     "addr": "176.57.168.174",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756318204
   },
   {
     "name": "Pirate Gaming - Hell Let Loose",
@@ -455,32 +460,38 @@
   {
     "name": "Lacio28 Trening",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756318204
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756318204
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756318204
   },
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756318204
   },
   {
     "name": "[CLL] Crazy's Let Loose [NL/EN] (Dutch/English)",
     "addr": "176.57.171.161",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756318204
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
     "addr": "176.57.171.161",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756318204
   },
   {
     "name": "Borry‘s Playground",
@@ -491,7 +502,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756318204
   },
   {
     "name": "Churchill's Dagger Division",
@@ -592,17 +604,20 @@
   {
     "name": "LwJg46 Trainingsserver",
     "addr": "176.57.181.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756318204
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.181.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756318204
   },
   {
     "name": "[LU] Härebierg_Lux/Deu_mic only",
     "addr": "176.57.181.34",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756318204
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -647,7 +662,8 @@
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1756318204
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -670,12 +686,17 @@
     "port": 9075
   },
   {
+    "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | powered by GTX | G",
+    "addr": "185.83.152.101",
+    "port": 8530
+  },
+  {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "188.165.39.157",
     "port": 7777
   },
   {
-    "name": "EU#1 | Blood Sweat & Beers BSB | In Memory of Doc62",
+    "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "188.165.39.157",
     "port": 7797
   },
@@ -1182,8 +1203,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1756300382
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1302,6 +1322,11 @@
     "addr": "31.56.0.24",
     "port": 7777,
     "removed": 1755909142
+  },
+  {
+    "name": "331 | Banana Brawl - Discord.gg/331st",
+    "addr": "31.56.0.25",
+    "port": 7787
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1993,8 +2018,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1756231790
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
