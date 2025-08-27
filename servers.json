@@ -228,6 +228,11 @@
     "port": 8888
   },
   {
+    "name": "2nd Armored | US EAST | discord.gg/2ad",
+    "addr": "162.216.115.122",
+    "port": 8530
+  },
+  {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
     "port": 8530
@@ -235,7 +240,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756296776
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -280,7 +286,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756296776
   },
   {
     "name": "HLL Official - Europe #01",
@@ -306,7 +313,8 @@
   {
     "name": "[RUS] Русский сервер-Russian",
     "addr": "176.57.140.16",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756296776
   },
   {
     "name": "Warfrags Studios",
@@ -866,7 +874,7 @@
     "port": 28000
   },
   {
-    "name": "[FR] Fossils & Company | F&Co - French only - discord.gg/gnmRAM",
+    "name": "[Coalition FR/BE] Fossils & Company | F&Co - French only - disc",
     "addr": "193.70.122.179",
     "port": 8530
   },
@@ -1366,8 +1374,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1756210426
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1387,7 +1394,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756296776
   },
   {
     "name": "HLL Official - US East #06",
@@ -2237,7 +2245,7 @@
     "port": 7797
   },
   {
-    "name": "[16th IR] 16th Infantry Regiment Realism Unit 16thir.org ~~VIP ",
+    "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
     "addr": "92.118.18.96",
     "port": 7777
   },
