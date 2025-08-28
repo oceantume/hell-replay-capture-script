@@ -190,7 +190,8 @@
   {
     "name": "【CN】GHOST 广东节点测试 QQ:728739169",
     "addr": "148.66.62.46",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756363460
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -1324,6 +1325,11 @@
     "name": "Q's - Qonzer.com | Event Server #3 | Frankfurt",
     "addr": "31.56.0.37",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "31.56.0.37",
+    "port": 8777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
