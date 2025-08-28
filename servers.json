@@ -178,8 +178,18 @@
     "port": 9014
   },
   {
-    "name": "Qonzer.com | 现已登陆中国大陆",
+    "name": "<CN>货拉拉老逼登窝/广东服无需加速器/Q882377564",
     "addr": "148.66.62.42",
+    "port": 7777
+  },
+  {
+    "name": "[CN]Nya~柔情猫娘#萌新进阶#广东服直连Q:500001820",
+    "addr": "148.66.62.45",
+    "port": 7797
+  },
+  {
+    "name": "【CN】GHOST 广东节点测试 QQ:728739169",
+    "addr": "148.66.62.46",
     "port": 7777
   },
   {
@@ -291,8 +301,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1756275045
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #03",
@@ -435,7 +444,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756361476
   },
   {
     "name": "DevQA - EU #02",
@@ -445,8 +455,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1756275045
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -559,7 +568,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756361476
   },
   {
     "name": "QA Testing - EU #05",
@@ -1518,7 +1528,8 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "5.56.25.100",
-    "port": 7867
+    "port": 7867,
+    "removed": 1756361476
   },
   {
     "name": "CN1#散人猫猫社区|萌新的激战军官咖啡馆Q120748151",
@@ -1538,7 +1549,8 @@
   {
     "name": "[CN]Nya~柔情猫娘庇护所#萌新进阶#新服Q:500001820",
     "addr": "5.56.25.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756361476
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
@@ -1785,7 +1797,8 @@
   {
     "name": "【EU】GHOST REGIMENT New Player Training 50v5 Hell Let Loose",
     "addr": "64.31.29.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756361476
   },
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
@@ -1977,27 +1990,32 @@
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165
+    "port": 10165,
+    "removed": 1756361476
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1756361476
   },
   {
     "name": "WAR Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1756361476
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530
+    "port": 8530,
+    "removed": 1756361476
   },
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
-    "port": 9075
+    "port": 9075,
+    "removed": 1756361476
   },
   {
     "name": "HLL Official - Asia #01",
