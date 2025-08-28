@@ -253,8 +253,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1756296776
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -715,7 +714,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1756405573
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -784,12 +784,6 @@
     "port": 8772
   },
   {
-    "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
-    "addr": "192.169.95.10",
-    "port": 9075,
-    "removed": 1755799810
-  },
-  {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
     "port": 7877
@@ -827,8 +821,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1756383176
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
