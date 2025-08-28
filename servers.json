@@ -1665,12 +1665,6 @@
     "port": 9075
   },
   {
-    "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
-    "addr": "54.36.126.47",
-    "port": 9620,
-    "removed": 1755778398
-  },
-  {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
@@ -1876,12 +1870,6 @@
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "64.31.6.90",
     "port": 7787
-  },
-  {
-    "name": "Man!",
-    "addr": "64.31.6.92",
-    "port": 7777,
-    "removed": 1755778398
   },
   {
     "name": "[Merc] US West #4 | Warfare | discord.gg/m3rc",
@@ -2206,8 +2194,7 @@
   {
     "name": "HLL Server",
     "addr": "90.207.161.117",
-    "port": 7777,
-    "removed": 1756040784
+    "port": 7777
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
