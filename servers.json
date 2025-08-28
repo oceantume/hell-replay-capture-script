@@ -580,6 +580,11 @@
     "port": 28200
   },
   {
+    "name": "Madhouse Entertainment",
+    "addr": "176.57.178.44",
+    "port": 28000
+  },
+  {
     "name": "Omen Test Server",
     "addr": "176.57.178.44",
     "port": 28100,
@@ -1981,32 +1986,27 @@
   {
     "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1756361476
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1756361476
+    "port": 10710
   },
   {
     "name": "WAR Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1756361476
+    "port": 11255
   },
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530,
-    "removed": 1756361476
+    "port": 8530
   },
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
-    "port": 9075,
-    "removed": 1756361476
+    "port": 9075
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2021,18 +2021,19 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756404602
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756404602
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1756145436
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2052,8 +2053,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1756231790
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
