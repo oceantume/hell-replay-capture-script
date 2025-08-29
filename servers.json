@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1756407786
+    "port": 8888
   },
   {
     "name": "RHC #1 | Vote Map Enabled | Warfare/Offensive",
@@ -856,7 +855,8 @@
   {
     "name": "Dark Horizon UK | New Players Welcome | Powered by Qonzer",
     "addr": "193.160.22.60",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756427581
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1445,7 +1445,8 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756427581
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -1508,7 +1509,7 @@
     "port": 7817
   },
   {
-    "name": "叶问携MOTO服全体庆祝小日本投降80周年",
+    "name": "HLL Server",
     "addr": "5.56.25.100",
     "port": 7827
   },
@@ -1576,7 +1577,8 @@
   {
     "name": "CN#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
     "addr": "5.56.25.243",
-    "port": 7817
+    "port": 7817,
+    "removed": 1756427581
   },
   {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
@@ -1611,8 +1613,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1756407786
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
@@ -1951,6 +1952,11 @@
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
     "port": 7787
+  },
+  {
+    "name": "(IC) Blackwater | US Central Dallas #3 | discord.gg/icoh",
+    "addr": "69.162.89.150",
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
