@@ -88,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1756447865
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -128,8 +129,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1756429313
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -447,8 +447,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1756361476
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -571,8 +570,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1756361476
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -811,8 +809,7 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620,
-    "removed": 1756429313
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1030,8 +1027,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1756429313
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1186,8 +1182,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1756429313
+    "port": 7777
   },
   {
     "name": "hll Server",
@@ -1386,8 +1381,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1756429313
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1804,8 +1798,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1756429313
+    "port": 7777
   },
   {
     "name": "-=Aschebecher=- All Warfare Maps | No Rules",
@@ -1898,7 +1891,7 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | US West #3 Los Angeles | discord.gg/ico",
+    "name": "(IC) Democracy | US West #3 Los Angeles | discord.gg/icoh",
     "addr": "64.31.61.90",
     "port": 7797
   },
@@ -2145,14 +2138,12 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1756429313
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1756429313
+    "port": 7787
   },
   {
     "name": "Thugs Let Loose",
@@ -2162,8 +2153,7 @@
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1756429313
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
