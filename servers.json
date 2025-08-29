@@ -142,6 +142,11 @@
     "port": 9075
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "141.95.72.211",
+    "port": 8530
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -1386,8 +1391,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1756383176
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1407,13 +1411,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756469576
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1756383176
+    "port": 28700
   },
   {
     "name": "Hell Broke Luce",
@@ -1478,7 +1482,7 @@
     "port": 9014
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[CN]Nya~柔情猫娘#萌新进阶#日服Q:500001820",
     "addr": "5.56.25.10",
     "port": 7777
   },
@@ -1697,12 +1701,6 @@
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7797
-  },
-  {
-    "name": "[13SNC] #2 - Dírty's Bootleggers [US] - discord.gg/13snc",
-    "addr": "63.143.56.4",
-    "port": 7777,
-    "removed": 1755864774
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| discord.gg/btb",
@@ -2005,6 +2003,11 @@
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "78.46.101.16",
+    "port": 9620
   },
   {
     "name": "HLL Official - Asia #01",
