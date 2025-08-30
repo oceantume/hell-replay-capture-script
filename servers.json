@@ -258,7 +258,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756555891
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -538,8 +539,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600,
-    "removed": 1756534149
+    "port": 28600
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -684,7 +684,8 @@
   {
     "name": "[LATAM/ESP] │ CLAN AESIR │NO LAG│ n9.cl/clanaesir",
     "addr": "181.214.221.41",
-    "port": 7837
+    "port": 7837,
+    "removed": 1756555891
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -1012,7 +1013,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "206.53.0.26",
-    "port": 7827
+    "port": 7827,
+    "removed": 1756555891
   },
   {
     "name": "THE SANDBOX #2 | NEW PLAYERS WELCOME | ENG/GER",
@@ -1162,7 +1164,8 @@
   {
     "name": "331 | Jungle Fight Club",
     "addr": "208.115.248.106",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756555891
   },
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
@@ -1394,7 +1397,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756555891
   },
   {
     "name": "HLL Official - US East #05",
@@ -1404,8 +1408,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1756469576
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1999,7 +2002,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] No Man’s Land // discord.gg/nml-server",
     "addr": "78.46.101.16",
     "port": 9620
   },
