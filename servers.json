@@ -921,8 +921,7 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1756513878
+    "port": 21200
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -988,12 +987,6 @@
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
     "port": 7777
-  },
-  {
-    "name": "The DRAFT | Test Server",
-    "addr": "206.53.0.13",
-    "port": 7787,
-    "removed": 1755909142
   },
   {
     "name": "Current Level: Mtn Dew Militia(D1CK)",
@@ -1317,12 +1310,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
-    "addr": "31.56.0.24",
-    "port": 7777,
-    "removed": 1755909142
-  },
-  {
     "name": "331 | Banana Brawl - Discord.gg/331st",
     "addr": "31.56.0.25",
     "port": 7787
@@ -1346,12 +1333,6 @@
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
-  },
-  {
-    "name": "[GER] Omen Event & Match Server #1",
-    "addr": "31.56.0.97",
-    "port": 7877,
-    "removed": 1755909142
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1741,8 +1722,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1756513878
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
