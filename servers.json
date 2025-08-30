@@ -88,8 +88,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1756447865
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -405,7 +404,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756534149
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -538,7 +538,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756534149
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -1007,6 +1008,11 @@
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
+    "addr": "206.53.0.26",
+    "port": 7827
   },
   {
     "name": "THE SANDBOX #2 | NEW PLAYERS WELCOME | ENG/GER",
@@ -1929,7 +1935,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "69.162.102.50",
-    "port": 7827
+    "port": 7827,
+    "removed": 1756534149
   },
   {
     "name": "Fire For Effect [FFE] S1",
@@ -2068,6 +2075,11 @@
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
     "port": 28200
+  },
+  {
+    "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
+    "addr": "83.223.203.51",
+    "port": 28300
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
