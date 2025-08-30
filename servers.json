@@ -12,7 +12,8 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
-    "port": 7807
+    "port": 7807,
+    "removed": 1756577308
   },
   {
     "name": "Chimera | Mixed | Oce 2 | discord.gg/CHMA",
@@ -258,8 +259,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1756555891
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -478,7 +478,8 @@
   {
     "name": "Lacio28 Trening",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756577308
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -1356,8 +1357,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1756559013
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1372,14 +1372,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1756559013
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1756559013
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1716,7 +1714,7 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] |ESP| Nodos del Valhalla | [VKR] VALKIRIA",
+    "name": "[LATAM] |ESP|QUE ES UN GARRY? Nodos del Valhalla | [VKR] VALKIR",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -2027,13 +2025,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1756577308
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1756490980
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
