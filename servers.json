@@ -265,8 +265,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1756642299
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -548,8 +547,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600,
-    "removed": 1756620601
+    "port": 28600
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
@@ -562,6 +560,11 @@
     "addr": "176.57.174.145",
     "port": 28100,
     "removed": 1756125114
+  },
+  {
+    "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly |",
+    "addr": "176.57.174.211",
+    "port": 28000
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -841,8 +844,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1756645462
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1227,8 +1229,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1756645462
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1368,8 +1369,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1756645462
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1379,20 +1379,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1756645462
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1756645462
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1756645462
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -2042,8 +2039,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1756577308
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
