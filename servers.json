@@ -101,7 +101,7 @@
     "port": 7797
   },
   {
-    "name": "Hell Breaks Loose | Promo Match | Event",
+    "name": "Hell Breaks Loose | Overlord VS BNKR Sweat & Commandos",
     "addr": "139.28.17.147",
     "port": 7777
   },
@@ -244,7 +244,8 @@
   {
     "name": "[The Den] - EU/ENG - New Players Welcome",
     "addr": "159.69.226.134",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756642299
   },
   {
     "name": "Iron Frontline #1 |Realistic | RP",
@@ -264,7 +265,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756642299
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1037,8 +1039,7 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1756623589
+    "port": 7777
   },
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
@@ -1400,7 +1401,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1756642299
   },
   {
     "name": "HLL Official - US East #02",
@@ -1996,7 +1998,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] WE ARE READY - #WAR | Wir Rekrutieren!",
+    "name": "WAR - EVENTS",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -2071,12 +2073,6 @@
     "name": "La guerre des boutons",
     "addr": "83.223.203.138",
     "port": 28000
-  },
-  {
-    "name": "Boneyard",
-    "addr": "83.223.203.138",
-    "port": 28200,
-    "removed": 1756037494
   },
   {
     "name": "Study Hall",
