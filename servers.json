@@ -259,7 +259,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756729924
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -360,7 +361,8 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEW PLAYER FUN | QS | GER",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756729924
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | QS | GER",
@@ -540,18 +542,6 @@
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
     "port": 28600
-  },
-  {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | QS | GER",
-    "addr": "176.57.174.145",
-    "port": 28000,
-    "removed": 1756125114
-  },
-  {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
-    "addr": "176.57.174.145",
-    "port": 28100,
-    "removed": 1756125114
   },
   {
     "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly |",
