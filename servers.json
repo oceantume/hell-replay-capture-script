@@ -941,7 +941,7 @@
     "port": 9620
   },
   {
-    "name": "☆ JYLLAND vs DANMARK ☆ WWW.HLL-CLAN.DK ☆",
+    "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1208,12 +1208,6 @@
     "port": 7777
   },
   {
-    "name": "σ CHAD STUART'S FLARE GUN FRIENDS — discord.gg/chadfgf",
-    "addr": "208.115.250.5",
-    "port": 7777,
-    "removed": 1756123997
-  },
-  {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -1396,19 +1390,18 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1756642299
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1756555891
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1756728808
   },
   {
     "name": "HLL Official - US East #03",
@@ -1804,7 +1797,8 @@
   {
     "name": "-=Aschebecher=- All Warfare Maps | No Rules",
     "addr": "64.31.29.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756728808
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2167,6 +2161,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.240.205.107",
+    "port": 7777
   },
   {
     "name": "Hookway's Server",
