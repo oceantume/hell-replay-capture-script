@@ -583,12 +583,6 @@
     "port": 28000
   },
   {
-    "name": "Omen Test Server",
-    "addr": "176.57.178.44",
-    "port": 28100,
-    "removed": 1756145436
-  },
-  {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.181.105",
     "port": 28200
@@ -902,8 +896,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
-    "port": 9620,
-    "removed": 1756750175
+    "port": 9620
   },
   {
     "name": "JUST HAVIN FUN",
