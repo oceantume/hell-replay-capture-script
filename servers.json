@@ -135,7 +135,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] Bunker Brüder | discord.gg/bunkerbrueder",
     "addr": "141.95.72.211",
     "port": 8530
   },
@@ -259,7 +259,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1756815227
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -427,12 +428,6 @@
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
-  },
-  {
-    "name": "[BxB] - Black Bees Server - [ESP]",
-    "addr": "176.57.168.69",
-    "port": 28200,
-    "removed": 1756210426
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -678,6 +673,11 @@
     "removed": 1756555891
   },
   {
+    "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
+    "addr": "181.214.48.19",
+    "port": 7777
+  },
+  {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +20",
     "addr": "181.214.48.19",
     "port": 7787
@@ -828,7 +828,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -838,7 +838,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1234,7 +1234,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1756815227
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1252,12 +1253,12 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1282,7 +1283,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1374,7 +1375,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1756815227
   },
   {
     "name": "HLL Official - US East #02",
@@ -1384,13 +1386,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1756728808
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1756815227
   },
   {
     "name": "HLL Official - US East #06",
@@ -1543,8 +1545,7 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.243",
-    "port": 7797,
-    "removed": 1756750175
+    "port": 7797
   },
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
@@ -1750,12 +1751,14 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756815227
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1756815227
   },
   {
     "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
@@ -1857,12 +1860,14 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756815227
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756815227
   },
   {
     "name": "(IC) Academi | US West #3 Los Angeles | discord.gg/icoh",
