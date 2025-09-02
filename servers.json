@@ -37,12 +37,14 @@
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "108.165.230.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756836554
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +20",
     "addr": "108.165.230.224",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756836554
   },
   {
     "name": "Hell Let Loose Testing Server olo",
@@ -154,12 +156,6 @@
     "addr": "144.126.153.213",
     "port": 29100,
     "removed": 1756318204
-  },
-  {
-    "name": "Your HLL Server Name",
-    "addr": "144.136.37.124",
-    "port": 7777,
-    "removed": 1756214270
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -1234,8 +1230,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1756815227
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1858,8 +1853,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1756815227
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1984,7 +1978,8 @@
   {
     "name": "HLL Server",
     "addr": "81.77.51.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756836554
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1999,7 +1994,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756836554
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2009,7 +2005,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756836554
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2303,7 +2300,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756836554
   },
   {
     "name": "HLL Official - Australia #01",
