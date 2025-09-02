@@ -543,7 +543,7 @@
     "port": 28600
   },
   {
-    "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly |",
+    "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly",
     "addr": "176.57.174.211",
     "port": 28000
   },
@@ -849,8 +849,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1756753190
+    "port": 7877
   },
   {
     "name": "Dark Horizon UK | New Players Welcome | Powered by Qonzer",
@@ -1519,8 +1518,7 @@
   {
     "name": "CN1#散人猫猫社区|萌新的激战军官咖啡馆Q120748151",
     "addr": "5.56.25.100",
-    "port": 7887,
-    "removed": 1756750175
+    "port": 7887
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
@@ -1964,7 +1962,7 @@
     "port": 9075
   },
   {
-    "name": "[PL/ENG] CGT >> Cossacks HLL << SEED=VIP | discord.gg/cossacks",
+    "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
   },
@@ -2024,6 +2022,11 @@
     "port": 28000
   },
   {
+    "name": "<CN>台服64人小规模服务器",
+    "addr": "83.223.197.85",
+    "port": 28100
+  },
+  {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.89",
     "port": 28000
@@ -2031,7 +2034,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756773196
   },
   {
     "name": "HLL Official - Asia #04",
