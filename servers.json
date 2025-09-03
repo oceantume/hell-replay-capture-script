@@ -87,26 +87,22 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1756901580
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797,
-    "removed": 1756901580
+    "port": 7797
   },
   {
     "name": "Hell Breaks Loose | Overlord VS BNKR Sweat & Commandos",
     "addr": "139.28.17.147",
-    "port": 7777,
-    "removed": 1756901580
+    "port": 7777
   },
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1756901580
+    "port": 7777
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -329,10 +325,9 @@
     "port": 9075
   },
   {
-    "name": "#01 | WCB | BALKAN Training & Practice | discord.gg/wcb",
+    "name": "Training & Practice |",
     "addr": "176.57.134.27",
-    "port": 28200,
-    "removed": 1756905081
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -599,7 +594,8 @@
   {
     "name": "Madhouse Entertainment",
     "addr": "176.57.178.44",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756922986
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -1498,17 +1494,20 @@
   {
     "name": "GREYHOUNDS - Grill & Kill; Streaming allowed!",
     "addr": "46.105.223.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756922986
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756922986
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "46.105.223.204",
-    "port": 7817
+    "port": 7817,
+    "removed": 1756922986
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1729,12 +1728,12 @@
     "port": 7777
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
+    "name": "MWF #2",
     "addr": "57.128.229.70",
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "MWF #1",
     "addr": "57.128.229.70",
     "port": 7807
   },
@@ -2079,8 +2078,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1756836554
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2090,8 +2088,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1756836554
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2395,8 +2392,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1756836554
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
