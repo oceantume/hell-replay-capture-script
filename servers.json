@@ -87,22 +87,26 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756901580
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756901580
   },
   {
     "name": "Hell Breaks Loose | Overlord VS BNKR Sweat & Commandos",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756901580
   },
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756901580
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -135,7 +139,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] Bunker Brüder | discord.gg/bunkerbrueder",
+    "name": "[GER] Bunker Brüder | Low Ping | discord.gg/bunkerbrueder",
     "addr": "141.95.72.211",
     "port": 8530
   },
@@ -365,12 +369,6 @@
     "port": 28400
   },
   {
-    "name": "[RUS] Русский сервер-Russian",
-    "addr": "176.57.140.16",
-    "port": 28000,
-    "removed": 1756296776
-  },
-  {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
@@ -554,7 +552,8 @@
   {
     "name": "[PL/ENG] CGT & WaTaHa Polish Clans Server",
     "addr": "176.57.173.119",
-    "port": 28100
+    "port": 28100,
+    "removed": 1756901580
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -723,7 +722,8 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "188.165.39.157",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756901580
   },
   {
     "name": "RCON Testing",
@@ -865,8 +865,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1756882923
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -874,7 +873,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -884,7 +883,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -952,7 +951,8 @@
   {
     "name": "Bugtestserver",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1756901580
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1287,6 +1287,11 @@
     "port": 9075
   },
   {
+    "name": "EPIC GAMER TIME [NL/ENG] - STARTER FRIENDLY",
+    "addr": "23.109.63.156",
+    "port": 8530
+  },
+  {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
     "addr": "23.111.240.210",
     "port": 9075
@@ -1297,15 +1302,14 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1756882923
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1328,10 +1332,9 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1756882923
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1442,7 +1445,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756901580
   },
   {
     "name": "HLL Official - US East #05",
@@ -1452,8 +1456,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1756815227
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1517,7 +1520,7 @@
     "port": 9014
   },
   {
-    "name": "[CN]Nya~柔情猫娘#萌新进阶#日服Q:500001820",
+    "name": "[CN]Nya~猫娘哈气#百人淫乱大战#日服Q:500001820",
     "addr": "5.56.25.10",
     "port": 7777
   },
@@ -1651,7 +1654,8 @@
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
     "addr": "5.56.25.25",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756901580
   },
   {
     "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
@@ -1781,8 +1785,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1756882923
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -2222,7 +2225,8 @@
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
     "addr": "88.209.197.59",
-    "port": 8530
+    "port": 8530,
+    "removed": 1756901580
   },
   {
     "name": "{serverName}",
