@@ -443,12 +443,6 @@
     "port": 28400
   },
   {
-    "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
-    "addr": "176.57.168.69",
-    "port": 28400,
-    "removed": 1756254785
-  },
-  {
     "name": "CZ/SK",
     "addr": "176.57.168.91",
     "port": 28000
@@ -2111,6 +2105,11 @@
     "port": 28200
   },
   {
+    "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
+    "addr": "83.223.207.55",
+    "port": 28500
+  },
+  {
     "name": "Testing 123",
     "addr": "85.14.210.14",
     "port": 23700
@@ -2185,8 +2184,7 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000,
-    "removed": 1756859455
+    "port": 28000
   },
   {
     "name": "HLL Official - South America #02",
