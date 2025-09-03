@@ -37,14 +37,12 @@
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "108.165.230.224",
-    "port": 7777,
-    "removed": 1756836554
+    "port": 7777
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +20",
     "addr": "108.165.230.224",
-    "port": 7787,
-    "removed": 1756836554
+    "port": 7787
   },
   {
     "name": "Hell Let Loose Testing Server olo",
@@ -197,6 +195,26 @@
     "removed": 1756580905
   },
   {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
+    "addr": "149.86.227.48",
+    "port": 7777
+  },
+  {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
+    "addr": "149.86.227.48",
+    "port": 7787
+  },
+  {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "addr": "149.86.227.48",
+    "port": 7807
+  },
+  {
+    "name": "Polish Veterans / PZJR Event Server",
+    "addr": "149.86.227.48",
+    "port": 7817
+  },
+  {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
     "port": 7797
@@ -255,8 +273,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1756815227
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -653,12 +670,14 @@
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "181.214.48.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756859455
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +20",
     "addr": "181.214.48.19",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756859455
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
@@ -693,7 +712,8 @@
   {
     "name": "RCON Testing",
     "addr": "188.165.39.157",
-    "port": 7817
+    "port": 7817,
+    "removed": 1756859455
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -758,7 +778,33 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "192.169.89.18",
-    "port": 8772
+    "port": 8772,
+    "removed": 1756859455
+  },
+  {
+    "name": "GREYHOUNDS - Grill & Kill; Streaming allowed!",
+    "addr": "192.169.90.203",
+    "port": 7777
+  },
+  {
+    "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
+    "addr": "192.169.90.203",
+    "port": 7817
+  },
+  {
+    "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
+    "addr": "192.169.90.204",
+    "port": 7777
+  },
+  {
+    "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
+    "addr": "192.169.90.204",
+    "port": 7787
+  },
+  {
+    "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
+    "addr": "192.169.90.204",
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1473,7 +1519,7 @@
     "removed": 1756620601
   },
   {
-    "name": "CN2#散人喵喵社区|旺仔小乔的假面攻防Q120748151",
+    "name": "CN2#散人喵喵攻防|我们的八十年我们的胜利Q120748",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -1483,7 +1529,7 @@
     "port": 7867
   },
   {
-    "name": "CN1#散人猫猫社区|萌新的激战军官咖啡馆Q120748151",
+    "name": "CN1#散人猫猫社区|胜利八十周年阅兵记得看！Q120",
     "addr": "5.56.25.100",
     "port": 7887
   },
@@ -1862,6 +1908,11 @@
     "port": 8530
   },
   {
+    "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
+    "addr": "67.217.48.14",
+    "port": 10710
+  },
+  {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
     "addr": "67.217.48.14",
     "port": 9075
@@ -2002,8 +2053,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1756773196
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2135,7 +2185,8 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756859455
   },
   {
     "name": "HLL Official - South America #02",
