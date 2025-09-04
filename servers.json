@@ -67,7 +67,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756966248
   },
   {
     "name": "HLL Official - Russia #02",
@@ -346,7 +347,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756966248
   },
   {
     "name": "HLL Official - Europe #05",
@@ -568,7 +570,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1756966248
   },
   {
     "name": "QA Testing - UK #07",
@@ -907,7 +910,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756966248
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
@@ -1488,20 +1492,17 @@
   {
     "name": "GREYHOUNDS - Grill & Kill; Streaming allowed!",
     "addr": "46.105.223.204",
-    "port": 7777,
-    "removed": 1756922986
+    "port": 7777
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "46.105.223.204",
-    "port": 7787,
-    "removed": 1756922986
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "46.105.223.204",
-    "port": 7817,
-    "removed": 1756922986
+    "port": 7817
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
