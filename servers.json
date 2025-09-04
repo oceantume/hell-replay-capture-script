@@ -32,7 +32,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1756987969
   },
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
@@ -559,8 +560,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1756969397
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -907,8 +907,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1756966248
+    "port": 7777
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
@@ -954,8 +953,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1756969397
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1129,6 +1127,11 @@
     "port": 7777
   },
   {
+    "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
+    "addr": "208.115.214.220",
+    "port": 7777
+  },
+  {
     "name": "POWERBITS GAMETEAM EVENT |LOW PING| PBSGAMETEAM .COM",
     "addr": "208.115.214.221",
     "port": 7777
@@ -1202,8 +1205,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1756969397
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1303,8 +1305,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1756969397
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1329,8 +1330,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1756969397
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1435,14 +1435,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1756815227
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1756901580
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1457,7 +1455,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1756987969
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1775,8 +1774,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1756969397
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -1877,7 +1875,8 @@
   {
     "name": "[Merc] US East #2 | Warfare | Discord.gg/m3rc",
     "addr": "64.31.40.205",
-    "port": 7777
+    "port": 7777,
+    "removed": 1756987969
   },
   {
     "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
@@ -1902,7 +1901,8 @@
   {
     "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "64.31.6.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1756987969
   },
   {
     "name": "[Merc] US West #4 | Warfare | discord.gg/m3rc",
@@ -1912,7 +1912,8 @@
   {
     "name": "[Merc] US West | Event Server |",
     "addr": "64.31.6.93",
-    "port": 7797
+    "port": 7797,
+    "removed": 1756987969
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -2208,8 +2209,7 @@
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
     "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1756904025
+    "port": 8530
   },
   {
     "name": "{serverName}",
