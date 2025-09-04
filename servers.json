@@ -178,12 +178,6 @@
     "removed": 1756383176
   },
   {
-    "name": "【CN】GHOST 广东节点测试 QQ:728739169",
-    "addr": "148.66.62.46",
-    "port": 7777,
-    "removed": 1756363460
-  },
-  {
     "name": "HLL Server",
     "addr": "149.34.170.137",
     "port": 7777,
@@ -483,8 +477,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1756968174
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #02",
