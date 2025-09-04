@@ -483,7 +483,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1756968174
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1983,7 +1984,7 @@
     "port": 7787
   },
   {
-    "name": "(IC) Blackwater | US Central Dallas #3 | discord.gg/icoh",
+    "name": "(IC) Blackwater | US Central #3 Dallas | discord.gg/icoh",
     "addr": "69.162.89.150",
     "port": 7777
   },
