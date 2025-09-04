@@ -188,7 +188,7 @@
     "port": 7807
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ discord.gg/pzjr",
+    "name": "PL/ENG ♦ PZJR ♦ Garrison & Vodka",
     "addr": "149.86.227.231",
     "port": 7787
   },
@@ -673,8 +673,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1756969397
+    "port": 8530
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -921,6 +920,11 @@
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
     "port": 9620
+  },
+  {
+    "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
+    "addr": "195.82.158.186",
+    "port": 20100
   },
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
@@ -1893,7 +1897,7 @@
     "removed": 1756987969
   },
   {
-    "name": "[Merc] US West #4 | Warfare | discord.gg/m3rc",
+    "name": "[Merc] US West #1 | Offensive | discord.gg/m3rc",
     "addr": "64.31.6.93",
     "port": 7777
   },
@@ -2087,7 +2091,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757009382
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2209,12 +2214,6 @@
     "addr": "89.240.205.107",
     "port": 7777,
     "removed": 1756750175
-  },
-  {
-    "name": "Hookway's Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1756386830
   },
   {
     "name": "HLL Official - South America #01",
