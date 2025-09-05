@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Votemap Enabled | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Scrim Night | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -68,8 +68,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1756966248
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -180,7 +179,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "149.86.227.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757052654
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -325,13 +325,13 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1757052654
   },
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1756966248
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -553,8 +553,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1756966248
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -759,6 +758,11 @@
     "port": 7777
   },
   {
+    "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
+    "addr": "192.169.86.213",
+    "port": 7787
+  },
+  {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
     "port": 7777
@@ -802,7 +806,8 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797
+    "port": 7797,
+    "removed": 1757052654
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1541,7 +1546,7 @@
     "removed": 1756620601
   },
   {
-    "name": "CN2#散人喵喵攻防|我们的八十年我们的胜利Q120748",
+    "name": "CN2#散人喵喵攻防|坦克有后视镜吗？Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -1621,13 +1626,17 @@
     "port": 7917
   },
   {
-    "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
+    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
     "addr": "5.56.25.25",
-    "port": 7777,
-    "removed": 1756901580
+    "port": 7777
   },
   {
-    "name": "<CN>#4 IMP帝国社区 风暴兵美攻服 |Q1020812925 JP节点",
+    "name": "hll Server",
+    "addr": "5.56.25.25",
+    "port": 7787
+  },
+  {
+    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
     "addr": "5.56.25.25",
     "port": 7797
   },
@@ -1913,6 +1922,11 @@
     "name": "(IC) Academi | US West #3 Los Angeles | discord.gg/icoh",
     "addr": "64.31.61.90",
     "port": 7797
+  },
+  {
+    "name": "Dark Horizon 1 | New Players Welcome | Powered by Qonzer",
+    "addr": "64.31.61.91",
+    "port": 7777
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
