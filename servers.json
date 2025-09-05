@@ -137,7 +137,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] Bunker Brüder | Low Ping | discord.gg/bunkerbrueder",
+    "name": "[GER] 45. Grenadier-Division | discord.gg/45-GD | Low Ping",
     "addr": "141.95.72.211",
     "port": 8530
   },
@@ -188,7 +188,7 @@
     "port": 7807
   },
   {
-    "name": "PL/ENG ♦ PZJR ♦ Garrison & Vodka",
+    "name": "PL/ENG ♦ PZJR ♦ Garrisons & Vodka",
     "addr": "149.86.227.231",
     "port": 7787
   },
@@ -842,8 +842,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1756969397
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1564,7 +1563,7 @@
     "port": 7867
   },
   {
-    "name": "CN1#散人猫猫社区|我们的八十年我们的胜利Q120748",
+    "name": "CN1#散人猫猫社区|萌新军官的激战咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
   },
@@ -1707,22 +1706,26 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "57.128.229.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757032343
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ VIP for seeding",
     "addr": "57.128.229.70",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757032343
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "57.128.229.70",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757032343
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "57.128.229.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1757032343
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
