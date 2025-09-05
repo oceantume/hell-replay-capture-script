@@ -1,6 +1,6 @@
 [
   {
-    "name": "BigD.com.au AU#2 | Scrim Night | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
   },
@@ -17,8 +17,7 @@
   {
     "name": "Chimera | Mixed | Oce 2 | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1757054582
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -291,8 +290,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "173.225.109.146",
-    "port": 8530,
-    "removed": 1757055862
+    "port": 8530
   },
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
@@ -550,8 +548,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1757055862
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -675,8 +672,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1757055862
+    "port": 8530
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -851,8 +847,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1757055862
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -949,8 +944,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1757055862
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1202,8 +1196,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1757055862
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1303,8 +1296,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1757055862
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1329,8 +1321,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1757055862
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1450,13 +1441,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1757074346
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1756987969
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1612,7 +1603,8 @@
   {
     "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
     "addr": "5.56.25.243",
-    "port": 7837
+    "port": 7837,
+    "removed": 1757074346
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
@@ -1645,7 +1637,7 @@
     "port": 7787
   },
   {
-    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
+    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
     "addr": "5.56.25.25",
     "port": 7797
   },
@@ -1776,8 +1768,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1757055862
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
