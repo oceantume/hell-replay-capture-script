@@ -487,8 +487,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1757138942
+    "port": 28200
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -610,7 +609,8 @@
   {
     "name": "[LU] Härebierg_Lux/Deu_mic only",
     "addr": "176.57.181.34",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757182099
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -721,6 +721,11 @@
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
+  },
+  {
+    "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
+    "addr": "191.101.166.120",
+    "port": 8530
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1399,7 +1404,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1757182099
   },
   {
     "name": "HLL Official - US West #01",
@@ -1631,7 +1637,8 @@
   {
     "name": "CN/JP开往安河桥的摆 热气球基地",
     "addr": "5.56.25.25",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757182099
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
@@ -1639,9 +1646,24 @@
     "port": 7797
   },
   {
-    "name": "hll Server",
+    "name": "帝国社区训练专用服",
     "addr": "5.56.25.25",
     "port": 7807
+  },
+  {
+    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "addr": "5.56.25.25",
+    "port": 7817
+  },
+  {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "addr": "5.56.25.25",
+    "port": 7827
+  },
+  {
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
+    "addr": "5.56.25.25",
+    "port": 7837
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -2066,13 +2088,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757182099
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1757095801
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2107,8 +2129,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1757009382
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
