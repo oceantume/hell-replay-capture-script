@@ -226,17 +226,20 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757226284
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1757226284
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757226284
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -1530,12 +1533,6 @@
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
     "port": 7837
-  },
-  {
-    "name": "<cn> EROS 汪！汪！汪！西瓜狗叫天堂 QQ群：68688684",
-    "addr": "5.56.25.100",
-    "port": 7847,
-    "removed": 1756620601
   },
   {
     "name": "CN2#散人喵喵攻防|开学的周末也要极限攻防Q120748",
