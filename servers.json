@@ -17,7 +17,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757247097
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -92,7 +93,8 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1757247097
   },
   {
     "name": "Hell Breaks Loose | Overlord VS BNKR Sweat & Commandos",
@@ -226,20 +228,17 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1757226284
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1757226284
+    "port": 7827
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1757226284
+    "port": 7787
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -1568,12 +1567,14 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "5.56.25.243",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757247097
   },
   {
     "name": "<CN>#3 IMP帝国社区 风暴兵德攻服 |Q1020812925 JP节点",
     "addr": "5.56.25.243",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757247097
   },
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
@@ -1583,7 +1584,8 @@
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
     "addr": "5.56.25.243",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757247097
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（随机图）Q群：578097070",
@@ -2047,7 +2049,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] WE ARE READY - #WAR | Wir Rekrutieren!",
+    "name": "WAR - Events",
     "addr": "78.46.101.16",
     "port": 11255
   },
