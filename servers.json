@@ -535,6 +535,11 @@
     "port": 28000
   },
   {
+    "name": "ABOBA offensive server [RUS]",
+    "addr": "176.57.174.211",
+    "port": 28100
+  },
+  {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "176.57.178.127",
     "port": 28000
@@ -978,12 +983,14 @@
   {
     "name": "HCIA EU 3 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8898
+    "port": 8898,
+    "removed": 1757268521
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8908
+    "port": 8908,
+    "removed": 1757268521
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1056,7 +1063,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 - Dírty's R&R",
+    "name": "[13SNC] R and D",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1378,8 +1385,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1757250132
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1395,14 +1401,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1757250132
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1757250132
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1620,7 +1624,7 @@
     "port": 7917
   },
   {
-    "name": "CN/JP 紫罗兰的永恒花园Q群：747976659",
+    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "5.56.25.25",
     "port": 7777
   },
@@ -1991,8 +1995,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1757250132
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2079,8 +2082,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1757182099
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2095,7 +2097,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757268521
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2120,7 +2123,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757268521
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2266,8 +2270,7 @@
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "91.134.56.12",
-    "port": 7787,
-    "removed": 1756879859
+    "port": 7787
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25+ 13:00–17:59/50+ 18:00",
@@ -2396,6 +2399,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757268521
   }
 ]
