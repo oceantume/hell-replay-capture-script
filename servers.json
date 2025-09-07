@@ -165,12 +165,6 @@
     "port": 9014
   },
   {
-    "name": "HLL Server",
-    "addr": "149.34.170.137",
-    "port": 7777,
-    "removed": 1756580905
-  },
-  {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "149.86.227.170",
     "port": 7817
@@ -344,7 +338,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1757205351
   },
   {
     "name": "Warfrags Studios",
@@ -1553,6 +1548,11 @@
     "port": 7867
   },
   {
+    "name": "CN丨Nexus『水晶枢纽』去码头整点薯条665327895",
+    "addr": "5.56.25.100",
+    "port": 7877
+  },
+  {
     "name": "CN1#散人猫猫社区|萌新军官的激战咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7887
@@ -1662,20 +1662,17 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1757185562
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1757185562
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1757185562
+    "port": 9620
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
