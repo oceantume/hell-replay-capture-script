@@ -297,7 +297,7 @@
     "port": 9075
   },
   {
-    "name": "Training & Practice |",
+    "name": "[Training & Practice Room]",
     "addr": "176.57.134.27",
     "port": 28200
   },
@@ -837,8 +837,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1757311916
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1043,7 +1042,8 @@
   {
     "name": "331 | Jungle House | Discord.gg/331st",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757333638
   },
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
@@ -1845,12 +1845,6 @@
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
     "port": 7777
-  },
-  {
-    "name": "-=Aschebecher=- All Warfare Maps | No Rules",
-    "addr": "64.31.29.70",
-    "port": 7777,
-    "removed": 1756728808
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
