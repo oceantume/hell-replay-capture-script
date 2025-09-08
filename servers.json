@@ -82,8 +82,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1757311916
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -163,8 +162,7 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
     "addr": "145.239.253.127",
-    "port": 9014,
-    "removed": 1757291683
+    "port": 9014
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -505,7 +503,7 @@
     "port": 28100
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
+    "name": "[GER] 1. Fallschirmjäger-Division Event",
     "addr": "176.57.171.176",
     "port": 28300
   },
@@ -991,8 +989,7 @@
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8908,
-    "removed": 1757268521
+    "port": 8908
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1249,6 +1246,11 @@
     "name": "[Latam - BR] Monte castelo Brasil",
     "addr": "209.192.185.90",
     "port": 7797
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "216.144.245.84",
+    "port": 7777
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1772,7 +1774,7 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] |ESP|QUE ES UN GARRY? Nodos del Valhalla | [VKR] VALKIR",
+    "name": "[LATAM] |ESP| ¿QUE ES UN GARRY? | [VKR]",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -2084,7 +2086,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757355002
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2125,8 +2128,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1757268521
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2242,12 +2244,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.240.205.107",
-    "port": 7777,
-    "removed": 1756750175
   },
   {
     "name": "HLL Official - South America #01",
@@ -2401,7 +2397,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1757268521
+    "port": 28200
   }
 ]
