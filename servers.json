@@ -82,7 +82,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1757311916
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -122,8 +123,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1757293462
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -410,14 +410,12 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1757138942
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1757293462
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -457,7 +455,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1757311916
   },
   {
     "name": "QA Testing - EU #04",
@@ -620,7 +619,7 @@
     "port": 7797
   },
   {
-    "name": "[LATAM] - [D.C.] Devils Company - Discord: devilscompany.net - ",
+    "name": "[LATAM] - [D.C.] Devils Company - https://discord.gg/aatd9vjCVk",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -838,7 +837,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1757311916
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1053,8 +1053,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1757293462
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1214,8 +1213,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1757293462
+    "port": 7777
   },
   {
     "name": "hll Server",
@@ -1539,7 +1537,7 @@
     "port": 7837
   },
   {
-    "name": "CN2#散人喵喵攻防|开学的周末也要极限攻防Q120748",
+    "name": "CN2#散人喵喵攻防|开学季也要极限攻防Q120748151",
     "addr": "5.56.25.100",
     "port": 7857
   },
@@ -1846,8 +1844,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1757293462
+    "port": 7777
   },
   {
     "name": "-=Aschebecher=- All Warfare Maps | No Rules",
@@ -1861,7 +1858,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
     "port": 7777
   },
@@ -2225,14 +2222,12 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1757293462
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1757293462
+    "port": 7787
   },
   {
     "name": "Thugs Let Loose",
@@ -2242,8 +2237,7 @@
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1757293462
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
