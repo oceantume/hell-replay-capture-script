@@ -163,7 +163,8 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
     "addr": "145.239.253.127",
-    "port": 9014
+    "port": 9014,
+    "removed": 1757291683
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -537,7 +538,8 @@
   {
     "name": "ABOBA offensive server [RUS]",
     "addr": "176.57.174.211",
-    "port": 28100
+    "port": 28100,
+    "removed": 1757291683
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1852,6 +1854,11 @@
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.31.123",
     "port": 7777
   },
   {
