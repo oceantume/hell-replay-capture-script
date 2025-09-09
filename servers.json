@@ -302,7 +302,7 @@
     "port": 9075
   },
   {
-    "name": "[Training & Practice Room]",
+    "name": "ØVER│Balkan/EU│OVER the Hell Let Loose",
     "addr": "176.57.134.27",
     "port": 28200
   },
@@ -687,6 +687,11 @@
     "port": 9075
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.83.152.101",
+    "port": 10165
+  },
+  {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | GTX | GER",
     "addr": "185.83.152.101",
     "port": 8530
@@ -872,7 +877,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -882,7 +887,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1301,12 +1306,12 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1331,7 +1336,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2085,12 +2090,6 @@
     "port": 9620
   },
   {
-    "name": "HLL Server",
-    "addr": "81.77.51.86",
-    "port": 7777,
-    "removed": 1756836554
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -2098,8 +2097,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1757355002
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2114,8 +2112,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1757268521
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2409,6 +2406,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757441379
   }
 ]
