@@ -171,7 +171,7 @@
     "port": 9014
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MWF #1",
     "addr": "149.86.227.170",
     "port": 7817
   },
@@ -181,7 +181,7 @@
     "port": 7777
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "MWF #2",
     "addr": "149.86.227.181",
     "port": 7807
   },
@@ -248,8 +248,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1757509796
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -550,12 +549,6 @@
     "port": 28200
   },
   {
-    "name": "Madhouse Entertainment",
-    "addr": "176.57.178.44",
-    "port": 28000,
-    "removed": 1756922986
-  },
-  {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.181.105",
     "port": 28200
@@ -649,7 +642,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] Wurstbude | discord.gg/xzgnTNVPq8 | MIC ONLY | & More",
+    "name": "[GER] Mettmanufaktur | discord.gg/xzgnTNVPq8 | MIC ONLY | & Mor",
     "addr": "185.83.152.101",
     "port": 10165
   },
@@ -739,7 +732,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUNDS - Grill & Kill; Streaming allowed!",
+    "name": "GREYHOUND NIGHT - Server Green",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -992,7 +985,7 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
+    "name": "MWF #1",
     "addr": "208.115.206.34",
     "port": 7787
   },
@@ -1422,7 +1415,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUNDS - Grill & Kill; Streaming allowed!",
+    "name": "GREYHOUND NIGHT - Server Green",
     "addr": "46.105.223.204",
     "port": 7777
   },
@@ -2128,7 +2121,8 @@
   {
     "name": "Testing 123",
     "addr": "85.14.210.14",
-    "port": 23700
+    "port": 23700,
+    "removed": 1757527798
   },
   {
     "name": "hll Server",
