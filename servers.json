@@ -170,7 +170,7 @@
     "port": 9014
   },
   {
-    "name": "MWF #1",
+    "name": "Polish Veterans / PZJR Event Server",
     "addr": "149.86.227.170",
     "port": 7817
   },
@@ -180,14 +180,15 @@
     "port": 7777
   },
   {
-    "name": "MWF #2",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "149.86.227.181",
     "port": 7807
   },
   {
     "name": "PL/ENG ♦ PZJR ♦ Garrisons & Vodka",
     "addr": "149.86.227.231",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757614145
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -632,6 +633,11 @@
     "port": 8530
   },
   {
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
+    "addr": "185.216.144.75",
+    "port": 9075
+  },
+  {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
     "addr": "185.216.145.154",
     "port": 9075
@@ -654,12 +660,14 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
     "addr": "185.83.152.101",
-    "port": 9620
+    "port": 9620,
+    "removed": 1757614145
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757614145
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -705,8 +713,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1757596157
+    "port": 7787
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1081,6 +1088,11 @@
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
     "port": 7777
+  },
+  {
+    "name": "PL/ENG ♦ PZJR ♦ Garrisons & Vodka",
+    "addr": "208.115.226.2",
+    "port": 7787
   },
   {
     "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
@@ -2261,6 +2273,11 @@
     "port": 28900
   },
   {
+    "name": "[CAV] CAVEIRAS BRASIL #2| https://cavhll.com.br",
+    "addr": "92.38.151.86",
+    "port": 29200
+  },
+  {
     "name": "Ronin EVENTS / BR Hosted Server",
     "addr": "92.38.151.89",
     "port": 29100
@@ -2288,7 +2305,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1757441379
+    "port": 28200
   }
 ]
