@@ -383,7 +383,8 @@
   {
     "name": "Blood and Mud EU [ENG]",
     "addr": "176.57.168.252",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757681532
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -482,6 +483,11 @@
     "port": 28100
   },
   {
+    "name": "[FR] Hell Let loose : Offensive et Skirmish",
+    "addr": "176.57.171.161",
+    "port": 28200
+  },
+  {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
@@ -519,7 +525,8 @@
   {
     "name": "[FR] Hell Let loose : Offensive et Skirmish",
     "addr": "176.57.174.211",
-    "port": 28100
+    "port": 28100,
+    "removed": 1757681532
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -1716,7 +1723,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1757681532
   },
   {
     "name": "瓜棚vsCU",
