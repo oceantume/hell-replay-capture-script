@@ -304,7 +304,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757657444
   },
   {
     "name": "HLL Official - Europe #05",
@@ -509,7 +510,7 @@
     "port": 28000
   },
   {
-    "name": "[FR] Hell Let loose : Offensive et Skirmish uniquement",
+    "name": "[FR] Hell Let loose : Offensive et Skirmish",
     "addr": "176.57.174.211",
     "port": 28100
   },
@@ -536,7 +537,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757657444
   },
   {
     "name": "QA Testing - EU #05",
@@ -826,7 +828,8 @@
   {
     "name": "[GER] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
     "addr": "193.160.22.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1757657444
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
