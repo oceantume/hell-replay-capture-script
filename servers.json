@@ -383,8 +383,7 @@
   {
     "name": "Blood and Mud EU [ENG]",
     "addr": "176.57.168.252",
-    "port": 28200,
-    "removed": 1757681532
+    "port": 28200
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -483,7 +482,7 @@
     "port": 28100
   },
   {
-    "name": "[FR] Hell Let loose : Offensive et Skirmish",
+    "name": "[FR] Hell Let Loose : Offensive et Skirmish",
     "addr": "176.57.171.161",
     "port": 28200
   },
@@ -1361,7 +1360,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1757682443
   },
   {
     "name": "HLL Official - US West #01",
@@ -1371,8 +1371,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1757596157
+    "port": 28700
   },
   {
     "name": "WC Playtest Server",
@@ -1723,8 +1722,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1757681532
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
