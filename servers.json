@@ -194,7 +194,8 @@
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
     "addr": "15.235.214.54",
-    "port": 7797
+    "port": 7797,
+    "removed": 1757679156
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -380,6 +381,11 @@
     "port": 28100
   },
   {
+    "name": "Blood and Mud EU [ENG]",
+    "addr": "176.57.168.252",
+    "port": 28200
+  },
+  {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
@@ -523,8 +529,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1757660568
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -633,8 +638,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1757660568
+    "port": 8530
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
@@ -806,8 +810,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1757660568
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -893,8 +896,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1757660568
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1142,8 +1144,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1757660568
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1248,8 +1249,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1757660568
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1274,8 +1274,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1757660568
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1369,7 +1368,7 @@
     "removed": 1757596157
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "WC Playtest Server",
     "addr": "45.137.247.33",
     "port": 28200
   },
@@ -1401,7 +1400,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1757679156
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1556,12 +1556,6 @@
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
     "addr": "5.56.25.243",
     "port": 7827
-  },
-  {
-    "name": "CN/HK 紫罗兰的永恒花园Q群：747976659",
-    "addr": "5.56.25.243",
-    "port": 7837,
-    "removed": 1757074346
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
@@ -1722,8 +1716,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1757660568
+    "port": 8530
   },
   {
     "name": "瓜棚vsCU",
@@ -1893,8 +1886,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
-    "port": 11255,
-    "removed": 1757660568
+    "port": 11255
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -2254,7 +2246,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2| https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos | https://cavhll.c",
     "addr": "92.38.151.86",
     "port": 29200
   },
