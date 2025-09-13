@@ -250,8 +250,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1757765476
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -638,7 +637,7 @@
     "removed": 1757484661
   },
   {
-    "name": "Pixels 'N' Pints | EU | New Players Welcome",
+    "name": "Pixels 'N' Pints | EU/ENG | New Players Welcome",
     "addr": "185.216.144.75",
     "port": 10710
   },
@@ -1365,8 +1364,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1757768495
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1994,8 +1992,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1757700584
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2282,7 +2279,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1757786895
   },
   {
     "name": "HLL Official - Australia #01",
