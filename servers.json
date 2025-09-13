@@ -177,8 +177,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "149.86.227.181",
-    "port": 7777,
-    "removed": 1757658429
+    "port": 7777
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -300,8 +299,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1757657444
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -341,12 +339,14 @@
   {
     "name": "! ! !OINK 4 KAMPFSCHWEINE | NEW PLAYER FUN | GP | GER",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757743774
   },
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757743774
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -596,8 +596,7 @@
   {
     "name": "[LATAM] - [D.C.] Devils Company - https://discord.gg/aatd9vjCVk",
     "addr": "181.214.221.212",
-    "port": 7817,
-    "removed": 1757727330
+    "port": 7817
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
