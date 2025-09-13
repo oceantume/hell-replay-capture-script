@@ -522,10 +522,9 @@
     "port": 28000
   },
   {
-    "name": "[FR] Hell Let loose : Offensive et Skirmish",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Event",
     "addr": "176.57.174.211",
-    "port": 28100,
-    "removed": 1757681532
+    "port": 28100
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -642,7 +641,7 @@
     "removed": 1757484661
   },
   {
-    "name": "[EN/EU] Pixels 'N' Pints | New Players Welcome",
+    "name": "Pixels 'N' Pints | EU | New Players Welcome",
     "addr": "185.216.144.75",
     "port": 10710
   },
@@ -1298,7 +1297,8 @@
   {
     "name": "331 | Banana Brawl - Discord.gg/331st",
     "addr": "31.56.0.25",
-    "port": 7787
+    "port": 7787,
+    "removed": 1757723372
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1344,6 +1344,11 @@
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28700
+  },
+  {
+    "name": "3HS | New Players Welcome | NO Level Cap for Roles | Triple Hea",
+    "addr": "45.137.244.9",
+    "port": 28800
   },
   {
     "name": "HLL Official - US West #14",
@@ -1831,7 +1836,7 @@
     "port": 7777
   },
   {
-    "name": "6TH RECON DIVISION [6RCN] NY SERVER",
+    "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
     "addr": "64.31.59.77",
     "port": 7777
   },
@@ -1929,6 +1934,11 @@
     "name": "(IC) Blackwater | US Central #3 Dallas | discord.gg/icoh",
     "addr": "69.162.89.150",
     "port": 7777
+  },
+  {
+    "name": "331 | Banana Brawl - Discord.gg/331st",
+    "addr": "74.63.225.18",
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
