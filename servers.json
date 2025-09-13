@@ -177,7 +177,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "149.86.227.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757765476
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -249,7 +250,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1757765476
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -596,7 +598,8 @@
   {
     "name": "[LATAM] - [D.C.] Devils Company - https://discord.gg/aatd9vjCVk",
     "addr": "181.214.221.212",
-    "port": 7817
+    "port": 7817,
+    "removed": 1757765476
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
@@ -1089,7 +1092,7 @@
     "port": 7777
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
+    "name": "PL/ENG ♦ PZJR ♦ Polish Garrisons & Vodka",
     "addr": "208.115.226.2",
     "port": 7787
   },
@@ -1114,7 +1117,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "[GER] Brennholzverleih #2 | Mic | Active Admins",
     "addr": "208.115.226.6",
     "port": 7777
   },
@@ -1164,7 +1167,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "[GER] Brennholzverleih #3 | Mic | Active Admins",
     "addr": "208.115.248.94",
     "port": 7777
   },
@@ -1403,8 +1406,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1757679156
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
