@@ -22,7 +22,8 @@
   {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
-    "port": 8888
+    "port": 8888,
+    "removed": 1757831131
   },
   {
     "name": "HLL Official - Japan #02",
@@ -345,8 +346,7 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
     "addr": "176.57.153.41",
-    "port": 28000,
-    "removed": 1757743774
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -432,7 +432,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757831131
   },
   {
     "name": "HLL Official - Europe #06",
