@@ -22,8 +22,7 @@
   {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
-    "port": 8888,
-    "removed": 1757833853
+    "port": 8888
   },
   {
     "name": "HLL Official - Japan #02",
@@ -171,6 +170,11 @@
     "port": 9014
   },
   {
+    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
+    "addr": "146.59.52.47",
+    "port": 8530
+  },
+  {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "149.86.227.170",
     "port": 7817
@@ -240,7 +244,8 @@
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
     "addr": "162.216.115.122",
-    "port": 8530
+    "port": 8530,
+    "removed": 1757851881
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -452,8 +457,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1757830183
+    "port": 28200
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -624,7 +628,7 @@
     "removed": 1757484661
   },
   {
-    "name": "Pixels 'N' Pints | New Players Welcome | discord.pixels-pints.c",
+    "name": "[PNP] Pixels 'N' Pints | New Players Welcome",
     "addr": "185.216.144.75",
     "port": 10710
   },
@@ -1381,7 +1385,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1757851881
   },
   {
     "name": "HLL Official - US East #03",
