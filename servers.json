@@ -95,7 +95,7 @@
     "port": 7797
   },
   {
-    "name": "Hell Breaks Loose | Overlord VS BNKR Sweat & Commandos",
+    "name": "Hell Breaks Loose | BNKR Sweat & Commandos vs Ratz & SSO",
     "addr": "139.28.17.147",
     "port": 7777
   },
@@ -628,7 +628,7 @@
     "removed": 1757484661
   },
   {
-    "name": "[PNP] Pixels 'N' Pints | New Players Welcome",
+    "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
     "addr": "185.216.144.75",
     "port": 10710
   },
@@ -740,7 +740,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - Server Green",
+    "name": "GREYHOUND Night Green",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -1959,7 +1959,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757873313
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1969,7 +1970,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757873313
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2083,7 +2085,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Server Blue",
+    "name": "Coolerer Greyhound Event",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2219,7 +2221,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos | https://cavhll.c",
     "addr": "92.38.151.86",
     "port": 29200
   },
@@ -2246,13 +2248,11 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1757786895
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1757700584
+    "port": 28200
   }
 ]
