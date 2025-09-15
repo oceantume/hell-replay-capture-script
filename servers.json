@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1757962920
   },
   {
     "name": "RHC #1 | Vote Map Enabled | Warfare/Offensive",
@@ -518,6 +519,11 @@
     "port": 28300
   },
   {
+    "name": "HaiiTeD Publicserver | HTD Germany | Diamantpresse",
+    "addr": "176.57.171.176",
+    "port": 28400
+  },
+  {
     "name": "Churchill's Dagger Division",
     "addr": "176.57.171.44",
     "port": 28400
@@ -999,7 +1005,8 @@
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757962920
   },
   {
     "name": "331 | Jungle House | Discord.gg/331st",
@@ -1612,7 +1619,8 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1757962920
   },
   {
     "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
