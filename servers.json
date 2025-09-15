@@ -583,7 +583,8 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1757896501
   },
   {
     "name": "[LATAM] - [D.C.] Devils Company - https://discord.gg/aatd9vjCVk",
@@ -2218,6 +2219,11 @@
     "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos | https://cavhll.c",
     "addr": "92.38.151.86",
     "port": 29200
+  },
+  {
+    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
+    "addr": "92.38.151.86",
+    "port": 29400
   },
   {
     "name": "Ronin EVENTS / BR Hosted Server",
