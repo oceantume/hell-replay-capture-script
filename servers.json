@@ -183,7 +183,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
     "addr": "149.86.227.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757938425
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -383,7 +384,8 @@
   {
     "name": "★★★【BLOOD & MUD】★★★",
     "addr": "176.57.168.252",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757938425
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -414,14 +416,12 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1757917753
+    "port": 28100
   },
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1757917753
+    "port": 28400
   },
   {
     "name": "CZ/SK",
@@ -451,8 +451,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1757918751
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #02",
@@ -544,8 +543,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1757918751
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -556,8 +554,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1757918751
+    "port": 28200
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -625,7 +622,8 @@
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757938425
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1087,7 +1085,7 @@
     "port": 7777
   },
   {
-    "name": "PL/ENG ♦ PZJR ♦ Polish Garrisons & Vodka",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "208.115.226.2",
     "port": 7787
   },
@@ -1350,7 +1348,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757938425
   },
   {
     "name": "HLL Official - US West #02",
@@ -1370,12 +1369,14 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757938425
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757938425
   },
   {
     "name": "HLL Official - US East #01",
@@ -1390,8 +1391,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1757851881
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1854,7 +1854,8 @@
   {
     "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
     "addr": "65.21.46.146",
-    "port": 8530
+    "port": 8530,
+    "removed": 1757938425
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
