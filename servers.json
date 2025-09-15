@@ -67,7 +67,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757916723
   },
   {
     "name": "HLL Official - Russia #02",
@@ -122,8 +123,7 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1757898300
+    "port": 9620
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -398,13 +398,13 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757916723
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1757898300
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -459,7 +459,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757916723
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -469,7 +470,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757916723
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -544,7 +546,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757916723
   },
   {
     "name": "QA Testing - EU #05",
@@ -986,8 +989,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1757898300
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1035,12 +1037,12 @@
     "port": 7787
   },
   {
-    "name": "10th Mountain Division - Event - https://discord.gg/10thMD",
+    "name": "Born To Kill - Event",
     "addr": "208.115.212.77",
     "port": 7787
   },
   {
-    "name": "10th Mountain Division - US East - https://discord.gg/10thMD",
+    "name": "Born To Kill - US East - discord.gg/btkgaming",
     "addr": "208.115.212.78",
     "port": 7787
   },
@@ -1152,8 +1154,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1757898300
+    "port": 7777
   },
   {
     "name": "[GER] Brennholzverleih #3 | Mic | Active Admins",
@@ -1738,8 +1739,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1757898300
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2092,14 +2092,12 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1757898300
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1757898300
+    "port": 7787
   },
   {
     "name": "Thugs Let Loose",
@@ -2109,8 +2107,7 @@
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1757898300
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
