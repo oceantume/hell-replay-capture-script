@@ -353,12 +353,14 @@
   {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
     "addr": "176.57.153.41",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757959849
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.153.41",
-    "port": 28100
+    "port": 28100,
+    "removed": 1757959849
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
@@ -454,15 +456,30 @@
     "port": 28500
   },
   {
+    "name": "DevQA - EU #01",
+    "addr": "176.57.169.108",
+    "port": 28600
+  },
+  {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
     "port": 28700
+  },
+  {
+    "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
+    "addr": "176.57.171.140",
+    "port": 28000
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "176.57.171.140",
     "port": 28200,
     "removed": 1757916723
+  },
+  {
+    "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
+    "addr": "176.57.171.140",
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -524,6 +541,11 @@
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Event",
     "addr": "176.57.174.211",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28200
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -681,7 +703,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1757959849
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -1151,7 +1174,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] 100.Jäger-Division 2 | Mikrofon erforderlich!",
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.248.90",
     "port": 7797
   },
@@ -1161,7 +1184,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Brennholzverleih #3 | Mic | Active Admins",
+    "name": "[GER] Meat Grinder Normandie - Sturmtrupp Easy",
     "addr": "208.115.248.94",
     "port": 7777
   },
@@ -1972,19 +1995,18 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1757942052
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1757873313
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757959849
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2004,13 +2026,13 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1757942052
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757959849
   },
   {
     "name": "HLL Official - Asia #03",
