@@ -1982,6 +1982,11 @@
     "port": 9620
   },
   {
+    "name": "HLL Server",
+    "addr": "83.11.195.76",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
