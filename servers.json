@@ -452,7 +452,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1757918751
   },
   {
     "name": "HLL Official - Europe #02",
@@ -544,7 +545,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757918751
   },
   {
     "name": "HLL Official - UK #02",
@@ -555,7 +557,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757918751
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
