@@ -257,8 +257,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1757939534
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -452,8 +451,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1757939534
+    "port": 28500
   },
   {
     "name": "HLL Official - Europe #02",
@@ -545,7 +543,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757940936
   },
   {
     "name": "HLL Official - UK #02",
@@ -556,8 +555,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1757939534
+    "port": 28200
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
