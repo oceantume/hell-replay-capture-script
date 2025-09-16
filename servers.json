@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1757962920
+    "port": 8888
   },
   {
     "name": "RHC #1 | Vote Map Enabled | Warfare/Offensive",
@@ -150,6 +149,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
+  },
+  {
+    "name": "CrossFire Gaming",
+    "addr": "144.126.153.213",
+    "port": 28800
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
@@ -519,7 +523,7 @@
     "port": 28300
   },
   {
-    "name": "HaiiTeD Publicserver | HTD Germany | Diamantpresse",
+    "name": "[HTD] HaiiTeD not Lovely | Mikroplastik | GER-ENG",
     "addr": "176.57.171.176",
     "port": 28400
   },
@@ -980,7 +984,8 @@
   {
     "name": "Current Level: Catholic School Defenders(D1CK)",
     "addr": "206.53.0.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757982710
   },
   {
     "name": "Jefersson's & Budweiser's - training/event - discord.gg/cobrasf",
@@ -1005,8 +1010,7 @@
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
-    "port": 7777,
-    "removed": 1757962920
+    "port": 7777
   },
   {
     "name": "331 | Jungle House | Discord.gg/331st",
@@ -1378,8 +1382,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1757938425
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1619,8 +1622,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1757962920
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
@@ -1991,7 +1993,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.195.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1757982710
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2057,19 +2060,32 @@
     "port": 28000
   },
   {
+    "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
+    "addr": "83.223.203.138",
+    "port": 28200
+  },
+  {
+    "name": "Study Hall",
+    "addr": "83.223.203.138",
+    "port": 28300
+  },
+  {
     "name": "Study Hall",
     "addr": "83.223.203.51",
-    "port": 28000
+    "port": 28000,
+    "removed": 1757982710
   },
   {
     "name": "CrossFire Gaming",
     "addr": "83.223.203.51",
-    "port": 28200
+    "port": 28200,
+    "removed": 1757982710
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.51",
-    "port": 28300
+    "port": 28300,
+    "removed": 1757982710
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
