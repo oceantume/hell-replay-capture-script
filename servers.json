@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1758049301
   },
   {
     "name": "RHC #1 | Vote Map Enabled | Warfare/Offensive",
@@ -1186,10 +1187,9 @@
     "port": 7777
   },
   {
-    "name": "[GER] Brennholzverleih #2 | Mic | Active Admins",
+    "name": "hll server",
     "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1758048714
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
