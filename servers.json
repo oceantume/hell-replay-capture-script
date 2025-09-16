@@ -32,7 +32,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758024783
   },
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
@@ -178,7 +179,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "146.59.52.47",
-    "port": 8530
+    "port": 8530,
+    "removed": 1758024783
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -263,7 +265,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1758024783
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -288,12 +291,14 @@
   {
     "name": "ØVER - Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.134.27",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758024783
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.134.27",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758024783
   },
   {
     "name": "QA Testing - EU #02",
@@ -383,7 +388,8 @@
   {
     "name": "Pirate Gaming - Hell Let Loose",
     "addr": "176.57.168.178",
-    "port": 28100
+    "port": 28100,
+    "removed": 1758024783
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -400,6 +406,11 @@
     "addr": "176.57.168.252",
     "port": 28200,
     "removed": 1757938425
+  },
+  {
+    "name": "Pirate Gaming - Hell Let Loose",
+    "addr": "176.57.168.252",
+    "port": 28400
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -478,6 +489,11 @@
     "port": 28700
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.169.115",
+    "port": 28400
+  },
+  {
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
     "addr": "176.57.171.140",
     "port": 28000
@@ -498,6 +514,11 @@
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
     "addr": "176.57.171.158",
     "port": 28000
+  },
+  {
+    "name": "ØVER - Balkan/EU Hell Let Loose//discord.gg/over-balkan",
+    "addr": "176.57.171.158",
+    "port": 28100
   },
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
@@ -535,19 +556,27 @@
     "port": 28400
   },
   {
+    "name": "LwJg46 Trainingsserver",
+    "addr": "176.57.171.38",
+    "port": 28100
+  },
+  {
     "name": "Churchill's Dagger Division",
     "addr": "176.57.171.44",
-    "port": 28400
+    "port": 28400,
+    "removed": 1758024783
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "176.57.171.44",
-    "port": 28500
+    "port": 28500,
+    "removed": 1758024783
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.173.119",
-    "port": 28600
+    "port": 28600,
+    "removed": 1758024783
   },
   {
     "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly",
@@ -563,6 +592,21 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200
+  },
+  {
+    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
+    "addr": "176.57.174.211",
+    "port": 28300
+  },
+  {
+    "name": "Churchill's Dagger Division",
+    "addr": "176.57.174.211",
+    "port": 28600
+  },
+  {
+    "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
+    "addr": "176.57.174.211",
+    "port": 28700
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -582,8 +626,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1757940936
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -608,12 +651,14 @@
   {
     "name": "LwJg46 Trainingsserver",
     "addr": "176.57.181.34",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758024783
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.181.34",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758024783
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -863,7 +908,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -873,7 +918,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1201,7 +1246,8 @@
   {
     "name": "[GER] Meat Grinder Normandie - Sturmtrupp Easy",
     "addr": "208.115.248.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758024783
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1274,12 +1320,12 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1304,7 +1350,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1413,8 +1459,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1757938425
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
