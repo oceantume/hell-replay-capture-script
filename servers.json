@@ -32,8 +32,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1758024783
+    "port": 28300
   },
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
@@ -1446,7 +1445,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1758111172
   },
   {
     "name": "HLL Official - US East #02",
@@ -1609,7 +1609,8 @@
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.243",
-    "port": 7877
+    "port": 7877,
+    "removed": 1758111172
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1665,6 +1666,11 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
+  },
+  {
+    "name": "HLL Server",
+    "addr": "51.198.31.150",
+    "port": 7777
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1757,7 +1763,7 @@
     "port": 8530
   },
   {
-    "name": "瓜棚vsCU",
+    "name": "BETA社区服务器",
     "addr": "64.31.11.74",
     "port": 11800
   },
@@ -2299,7 +2305,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1758111172
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
