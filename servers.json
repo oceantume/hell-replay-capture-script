@@ -103,7 +103,8 @@
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758219067
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -195,12 +196,6 @@
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "149.86.227.181",
     "port": 7807
-  },
-  {
-    "name": "PL/ENG ♦ PZJR ♦ Garrisons & Vodka",
-    "addr": "149.86.227.231",
-    "port": 7787,
-    "removed": 1757614145
   },
   {
     "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
@@ -734,15 +729,10 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
-    "addr": "185.83.152.101",
-    "port": 9620,
-    "removed": 1757614145
-  },
-  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1758219067
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -805,7 +795,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND Night Green",
+    "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -1269,8 +1259,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1758197553
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -2044,8 +2033,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1758132623
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2080,7 +2068,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758219067
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2171,7 +2160,7 @@
     "port": 7777
   },
   {
-    "name": "Coolerer Greyhound Event",
+    "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
