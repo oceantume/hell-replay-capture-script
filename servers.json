@@ -40,7 +40,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God | LVL +20",
+    "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
     "addr": "108.165.230.224",
     "port": 7787
   },
@@ -606,8 +606,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1758179026
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -707,8 +706,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1758179026
+    "port": 8530
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
@@ -959,8 +957,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1758179026
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1196,8 +1193,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1758179026
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1279,7 +1275,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1758197553
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1309,8 +1306,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1758179026
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1335,8 +1331,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1758179026
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1448,8 +1443,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1758111172
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1672,8 +1666,7 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1758112276
+    "port": 7777
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -1683,7 +1676,8 @@
   {
     "name": "Turks Let Loose [TR] - Türkiye - discord.gg/TurksLetLoose",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1758197553
   },
   {
     "name": "[KSK] The Cattlesheds | A Tankers Heaven!",
@@ -1763,8 +1757,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1758179026
+    "port": 8530
   },
   {
     "name": "BETA社区服务器",
