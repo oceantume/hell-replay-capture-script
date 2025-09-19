@@ -198,12 +198,6 @@
     "port": 7807
   },
   {
-    "name": "CN//GD东德消防萌新1服//HK无规则服//q群726807477",
-    "addr": "15.235.214.54",
-    "port": 7797,
-    "removed": 1757679156
-  },
-  {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
     "addr": "15.235.225.173",
     "port": 9075,
@@ -602,8 +596,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1758265505
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -713,10 +706,9 @@
     "port": 10710
   },
   {
-    "name": "#1 European Misfits Regiment -EMR- |New Players| Offensive-Only",
+    "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1758265505
+    "port": 8530
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
@@ -876,8 +868,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1758265505
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -962,8 +953,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1758265505
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1193,8 +1183,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1758265505
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1276,7 +1265,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1758283968
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1306,8 +1296,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1758265505
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1332,8 +1321,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1758265505
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1450,7 +1438,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758283968
   },
   {
     "name": "HLL Official - US East #05",
@@ -1460,7 +1449,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1758283968
   },
   {
     "name": "HLL Official - US East #06",
@@ -1760,8 +1750,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1758265505
+    "port": 8530
   },
   {
     "name": "BETA社区服务器",
