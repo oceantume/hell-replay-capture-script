@@ -184,7 +184,8 @@
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "149.86.227.170",
-    "port": 7817
+    "port": 7817,
+    "removed": 1758305402
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
@@ -195,7 +196,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "149.86.227.181",
-    "port": 7807
+    "port": 7807,
+    "removed": 1758305402
   },
   {
     "name": "[ENG] | Dark Panthera Tigris - DPT | SEA Server | All are Welco",
@@ -485,8 +487,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1758262250
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -1151,6 +1152,16 @@
     "port": 7817
   },
   {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap ♦ VIP for seedin",
+    "addr": "208.115.226.3",
+    "port": 7787
+  },
+  {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "addr": "208.115.226.3",
+    "port": 7807
+  },
+  {
     "name": "CBMS",
     "addr": "208.115.226.4",
     "port": 7777
@@ -1179,6 +1190,11 @@
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
     "addr": "208.115.248.106",
     "port": 7787
+  },
+  {
+    "name": "Polish Veterans / PZJR Event Server",
+    "addr": "208.115.248.106",
+    "port": 7817
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1265,8 +1281,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1758283968
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1481,24 +1496,6 @@
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
     "port": 8530
-  },
-  {
-    "name": "GREYHOUND NIGHT - Server Green",
-    "addr": "46.105.223.204",
-    "port": 7777,
-    "removed": 1757700584
-  },
-  {
-    "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
-    "addr": "46.105.223.204",
-    "port": 7787,
-    "removed": 1757700584
-  },
-  {
-    "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
-    "addr": "46.105.223.204",
-    "port": 7817,
-    "removed": 1757700584
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -2042,7 +2039,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758305402
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2077,8 +2075,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1758219067
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2224,12 +2221,6 @@
     "port": 28600
   },
   {
-    "name": "[LCM] La Compañia Maldita Events [ESP]",
-    "addr": "91.134.56.12",
-    "port": 7787,
-    "removed": 1757700584
-  },
-  {
     "name": "Team17",
     "addr": "92.118.16.126",
     "port": 7777
@@ -2310,7 +2301,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos| https://cavhll.co",
     "addr": "92.38.151.86",
     "port": 29200
   },
@@ -2348,5 +2339,10 @@
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
     "port": 28200
+  },
+  {
+    "name": "[TR] TSK Türkiye #1 | Turkish Only",
+    "addr": "95.134.5.2",
+    "port": 7777
   }
 ]
