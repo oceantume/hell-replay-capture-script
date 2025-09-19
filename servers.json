@@ -37,7 +37,8 @@
   {
     "name": "! [LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "108.165.230.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758262250
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -67,13 +68,13 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1758175864
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758262250
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -490,7 +491,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1758262250
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -615,7 +617,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758262250
   },
   {
     "name": "QA Testing - EU #05",
@@ -679,7 +682,8 @@
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Practicas & Eventos",
     "addr": "181.214.221.41",
-    "port": 7797
+    "port": 7797,
+    "removed": 1758262250
   },
   {
     "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
@@ -691,6 +695,16 @@
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
     "port": 7827
+  },
+  {
+    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Prácticas & Eventos",
+    "addr": "181.214.48.19",
+    "port": 7787
+  },
+  {
+    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE",
+    "addr": "181.214.48.19",
+    "port": 7797
   },
   {
     "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
