@@ -7,7 +7,8 @@
   {
     "name": "RHC #1 | Vote Map Enabled | Warfare/Offensive",
     "addr": "103.1.215.69",
-    "port": 8898
+    "port": 8898,
+    "removed": 1758348612
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -73,8 +74,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1758262250
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -344,12 +344,6 @@
     "port": 28200
   },
   {
-    "name": "! ! !OINK 4 KAMPFSCHWEINE | NEW PLAYER FUN | GP | GER",
-    "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1757743774
-  },
-  {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.153.114",
     "port": 28300
@@ -507,7 +501,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte 100. JD Server 2",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758348612
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -617,8 +612,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1758262250
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -2162,7 +2156,8 @@
   {
     "name": "Q's - Qonzer.com | Event Server #2 | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758348612
   },
   {
     "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
@@ -2306,7 +2301,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos| https://cavhll.co",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "92.38.151.86",
     "port": 29200
   },
