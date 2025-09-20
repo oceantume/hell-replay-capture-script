@@ -239,7 +239,8 @@
   {
     "name": "Iron Frontline #1 |Realistic | RP",
     "addr": "160.202.167.11",
-    "port": 8888
+    "port": 8888,
+    "removed": 1758391710
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -255,8 +256,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1758370312
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1097,6 +1097,11 @@
     "port": 7787
   },
   {
+    "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
+    "addr": "208.115.214.218",
+    "port": 7867
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
     "port": 7777
@@ -1354,7 +1359,7 @@
     "port": 7777
   },
   {
-    "name": "Q's - Qonzer.com | Event Server #3 | Frankfurt",
+    "name": "Q's - Qonzer.com | Event Server #2 | Frankfurt",
     "addr": "31.56.0.37",
     "port": 7787
   },
@@ -1366,7 +1371,8 @@
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "31.56.0.40",
-    "port": 7867
+    "port": 7867,
+    "removed": 1758391710
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25+ 13:00–17:59/50+ 18:00",
@@ -1401,8 +1407,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1758373437
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1412,20 +1417,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1758373437
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1758373437
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1758373437
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -2035,8 +2037,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1758305402
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2046,7 +2047,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758391710
   },
   {
     "name": "hk-遇见萌新训练场",
@@ -2157,7 +2159,7 @@
     "port": 7777
   },
   {
-    "name": "Q's - Qonzer.com | Event Server #2 | London",
+    "name": "Q's - Qonzer.com | Event Server #3 | London",
     "addr": "85.208.197.70",
     "port": 7777
   },
