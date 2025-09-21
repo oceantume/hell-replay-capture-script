@@ -495,7 +495,7 @@
     "port": 28100
   },
   {
-    "name": "ALTER SERVER!!! Nutze bitte",
+    "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
     "port": 28300
   },
@@ -777,7 +777,8 @@
   {
     "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
     "addr": "192.169.86.213",
-    "port": 7787
+    "port": 7787,
+    "removed": 1758478131
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1040,7 +1041,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] R and D",
+    "name": "[13SNC] #2 R and D",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1401,8 +1402,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1758459801
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1412,8 +1412,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1758459801
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1424,8 +1423,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1758459801
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1939,8 +1937,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1758459801
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2046,8 +2043,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1758391710
+    "port": 28300
   },
   {
     "name": "hk-遇见萌新训练场",
