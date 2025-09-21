@@ -208,7 +208,8 @@
   {
     "name": "[FR] Mercenaires [MCNR]",
     "addr": "151.80.27.200",
-    "port": 8530
+    "port": 8530,
+    "removed": 1758456702
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -240,12 +241,6 @@
     "addr": "160.202.167.11",
     "port": 8888,
     "removed": 1758391710
-  },
-  {
-    "name": "2nd Armored | US EAST | discord.gg/2ad",
-    "addr": "162.216.115.122",
-    "port": 8530,
-    "removed": 1757851881
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
