@@ -36,7 +36,7 @@
     "port": 28300
   },
   {
-    "name": "! [LATAM] La Perrera +LVL30",
+    "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
     "addr": "108.165.230.224",
     "port": 7777
   },
@@ -406,8 +406,7 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1758503174
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -473,12 +472,6 @@
     "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
     "addr": "176.57.171.140",
     "port": 28000
-  },
-  {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
-    "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1757916723
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -598,7 +591,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758521524
   },
   {
     "name": "QA Testing - UK #07",
@@ -2295,7 +2289,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos |https://cavhll.co",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
     "addr": "92.38.151.86",
     "port": 29200
   },
