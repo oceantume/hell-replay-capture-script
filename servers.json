@@ -189,12 +189,6 @@
     "removed": 1758305402
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ VIP for seeding",
-    "addr": "149.86.227.181",
-    "port": 7777,
-    "removed": 1757938425
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "149.86.227.181",
     "port": 7807,
@@ -251,7 +245,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1758544329
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -377,12 +372,6 @@
     "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
     "port": 28100
-  },
-  {
-    "name": "★★★【BLOOD & MUD】★★★",
-    "addr": "176.57.168.252",
-    "port": 28200,
-    "removed": 1757938425
   },
   {
     "name": "Pirate Gaming - Hell Let Loose",
@@ -657,12 +646,6 @@
     "addr": "181.214.221.41",
     "port": 7797,
     "removed": 1758262250
-  },
-  {
-    "name": "[Latam/ESP] Uranium-235-Reclutando: https://u-235.clan-hub.club",
-    "addr": "181.214.221.41",
-    "port": 7807,
-    "removed": 1757938425
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1267,8 +1250,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1758435004
+    "port": 8772
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1416,12 +1398,6 @@
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
     "port": 28700
-  },
-  {
-    "name": "QA Testing - US East #09",
-    "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1757938425
   },
   {
     "name": "HLL Official - US East #04",
@@ -1897,12 +1873,6 @@
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
-  },
-  {
-    "name": "Perkeleet Let Loose Finland | FIN/ENG | discord.gg/4uW3jsUU4r",
-    "addr": "65.21.46.146",
-    "port": 8530,
-    "removed": 1757938425
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
