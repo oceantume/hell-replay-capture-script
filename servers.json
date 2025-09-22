@@ -287,7 +287,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758501349
   },
   {
     "name": "HLL Dev Team",
@@ -612,7 +613,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758501349
   },
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
@@ -640,12 +642,6 @@
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
     "port": 8772
-  },
-  {
-    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
-    "addr": "181.214.221.212",
-    "port": 7797,
-    "removed": 1757896501
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
@@ -2063,8 +2059,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1758414949
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2301,7 +2296,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos e Eventos |https://cavhll.co",
     "addr": "92.38.151.86",
     "port": 29200
   },
