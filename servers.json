@@ -33,8 +33,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1758543214
+    "port": 28300
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -263,18 +262,6 @@
     "port": 9075
   },
   {
-    "name": "ØVER - Balkan/EU Hell Let Loose//discord.gg/over-balkan",
-    "addr": "176.57.134.27",
-    "port": 28200,
-    "removed": 1758024783
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.134.27",
-    "port": 28300,
-    "removed": 1758024783
-  },
-  {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
@@ -333,12 +320,6 @@
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.153.114",
     "port": 28300
-  },
-  {
-    "name": "Pirate Gaming - Hell Let Loose",
-    "addr": "176.57.168.178",
-    "port": 28100,
-    "removed": 1758024783
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -502,24 +483,6 @@
     "port": 28100
   },
   {
-    "name": "Churchill's Dagger Division",
-    "addr": "176.57.171.44",
-    "port": 28400,
-    "removed": 1758024783
-  },
-  {
-    "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
-    "addr": "176.57.171.44",
-    "port": 28500,
-    "removed": 1758024783
-  },
-  {
-    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
-    "addr": "176.57.173.119",
-    "port": 28600,
-    "removed": 1758024783
-  },
-  {
     "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly",
     "addr": "176.57.174.211",
     "port": 28000,
@@ -590,18 +553,6 @@
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
-  },
-  {
-    "name": "LwJg46 Trainingsserver",
-    "addr": "176.57.181.34",
-    "port": 28000,
-    "removed": 1758024783
-  },
-  {
-    "name": "[FR] ★ Crazy French Team ★ 100% RP",
-    "addr": "176.57.181.34",
-    "port": 28200,
-    "removed": 1758024783
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
@@ -1177,12 +1128,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] Meat Grinder Normandie - Sturmtrupp Easy",
-    "addr": "208.115.248.94",
-    "port": 7777,
-    "removed": 1758024783
-  },
-  {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -1392,8 +1337,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1758543214
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1403,8 +1347,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1758543214
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1731,7 +1674,8 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1758629588
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
@@ -1822,7 +1766,8 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758629588
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -2068,7 +2013,8 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1758629588
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -2140,6 +2086,11 @@
     "addr": "90.248.218.145",
     "port": 7777,
     "removed": 1758307872
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.249.174.171",
+    "port": 7777
   },
   {
     "name": "Team17",
