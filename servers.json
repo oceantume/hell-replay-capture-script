@@ -774,7 +774,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758630692
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -784,7 +785,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758630692
   },
   {
     "name": "[GER/ENG] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
@@ -1201,12 +1203,14 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1758630692
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877
+    "port": 7877,
+    "removed": 1758630692
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1231,7 +1235,8 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787
+    "port": 7787,
+    "removed": 1758630692
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1674,8 +1679,7 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797,
-    "removed": 1758629588
+    "port": 7797
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
@@ -1766,8 +1770,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1758629588
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -2090,7 +2093,8 @@
   {
     "name": "HLL Server",
     "addr": "90.249.174.171",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758630692
   },
   {
     "name": "Team17",
