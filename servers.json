@@ -70,7 +70,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758607890
   },
   {
     "name": "HLL Official - Russia #02",
@@ -423,7 +424,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1758607890
   },
   {
     "name": "QA Testing - EU #04",
@@ -568,8 +570,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1758521524
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
