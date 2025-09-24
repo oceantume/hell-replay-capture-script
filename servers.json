@@ -182,6 +182,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "149.34.170.137",
+    "port": 7777
+  },
+  {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "149.86.227.170",
     "port": 7817,
@@ -485,12 +490,6 @@
     "name": "LwJg46 Trainingsserver",
     "addr": "176.57.171.38",
     "port": 28100
-  },
-  {
-    "name": "[GER] 181. Panzergrenadier-Division | Stats | Newbie Friendly",
-    "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1758135113
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #5 ♦ Event",
@@ -1542,7 +1541,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1758740459
   },
   {
     "name": "HLL Server",
