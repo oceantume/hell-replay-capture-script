@@ -768,8 +768,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1758697585
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -1097,7 +1096,7 @@
     "port": 7787
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
+    "name": "MWF #1",
     "addr": "208.115.248.106",
     "port": 7817
   },
@@ -1115,12 +1114,6 @@
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
     "addr": "208.115.248.90",
     "port": 7777
-  },
-  {
-    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
-    "addr": "208.115.248.90",
-    "port": 7797,
-    "removed": 1758132623
   },
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
@@ -1962,8 +1955,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1758651051
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
