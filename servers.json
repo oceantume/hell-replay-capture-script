@@ -1352,7 +1352,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1758716005
   },
   {
     "name": "HLL Official - US East #03",
@@ -2225,6 +2226,7 @@
   {
     "name": "[TR] TSK Türkiye #1 | Turkish Only",
     "addr": "95.134.5.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758716005
   }
 ]
