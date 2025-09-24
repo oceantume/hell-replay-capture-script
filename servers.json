@@ -69,8 +69,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1758607890
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -85,7 +84,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1758694304
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -405,8 +405,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1758607890
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -1296,6 +1295,11 @@
     "port": 8530
   },
   {
+    "name": "Penta Let Loose",
+    "addr": "45.137.244.9",
+    "port": 28600
+  },
+  {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28700
@@ -1396,7 +1400,7 @@
     "port": 9014
   },
   {
-    "name": "[CN]Nya~猫娘哈气#顶级高压服高手来#日服Q:500001820",
+    "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "5.56.25.10",
     "port": 7777
   },
