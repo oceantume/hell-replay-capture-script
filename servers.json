@@ -1341,7 +1341,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758802408
   },
   {
     "name": "HLL Official - US East #05",
@@ -1352,7 +1353,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1758802408
   },
   {
     "name": "HLL Official - US East #06",
@@ -1547,19 +1549,12 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1758200029
+    "port": 7777
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
-  },
-  {
-    "name": "Turks Let Loose [TR] - Türkiye - discord.gg/TurksLetLoose",
-    "addr": "51.77.66.51",
-    "port": 9075,
-    "removed": 1758197553
   },
   {
     "name": "[KSK] The Cattlesheds | A Tankers Heaven!",
@@ -2061,6 +2056,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
