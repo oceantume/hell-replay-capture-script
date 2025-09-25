@@ -1930,7 +1930,8 @@
   {
     "name": "hk-遇见萌新训练场",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758823887
   },
   {
     "name": "<CN>台服64人小规模服务器",
@@ -2023,7 +2024,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2214,7 +2215,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758823887
   },
   {
     "name": "[TR] TSK Türkiye #1 | Turkish Only",
