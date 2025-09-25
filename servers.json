@@ -184,8 +184,7 @@
   {
     "name": "HLL Server",
     "addr": "149.34.170.137",
-    "port": 7777,
-    "removed": 1758760366
+    "port": 7777
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -637,7 +636,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1758825789
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
