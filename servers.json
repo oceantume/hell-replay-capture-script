@@ -184,7 +184,8 @@
   {
     "name": "HLL Server",
     "addr": "149.34.170.137",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758760366
   },
   {
     "name": "Polish Veterans / PZJR Event Server",
@@ -1095,7 +1096,7 @@
     "port": 7787
   },
   {
-    "name": "MWF #1",
+    "name": "Polish Veterans / PZJR Event Server",
     "addr": "208.115.248.106",
     "port": 7817
   },
@@ -1426,7 +1427,8 @@
   {
     "name": "HLL Server",
     "addr": "5.56.25.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1758760366
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
@@ -1541,8 +1543,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1758740459
+    "port": 9620
   },
   {
     "name": "HLL Server",
