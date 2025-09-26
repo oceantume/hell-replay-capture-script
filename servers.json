@@ -69,7 +69,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758867085
   },
   {
     "name": "HLL Official - Russia #02",
@@ -279,7 +280,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1758867085
   },
   {
     "name": "HLL Official - Europe #03",
@@ -432,7 +434,7 @@
     "port": 28400
   },
   {
-    "name": "! ! !OINK 3 KAMPFSCHWEINE | NEWBIES & ROOKIES | GP | GER",
+    "name": "! ! !OINK 8 KAMPFSCHWEINE | OFFENSIVE | GER ENG",
     "addr": "176.57.171.140",
     "port": 28000
   },
@@ -534,7 +536,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1758867085
   },
   {
     "name": "QA Testing - EU #05",
@@ -570,12 +573,6 @@
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "181.214.221.41",
     "port": 7777
-  },
-  {
-    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Practicas & Eventos",
-    "addr": "181.214.221.41",
-    "port": 7797,
-    "removed": 1758262250
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
