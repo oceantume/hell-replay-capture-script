@@ -331,8 +331,7 @@
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1758870312
+    "port": 28000
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -522,8 +521,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1758870312
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -599,8 +597,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1758870312
+    "port": 8530
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
@@ -761,8 +758,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1758870312
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -827,7 +823,8 @@
   {
     "name": "The Fox Hole (Veteran Owned - New Players Welcome)",
     "addr": "193.192.58.206",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758888782
   },
   {
     "name": "[Coalition FR/BE] Fossils & Company | F&Co - French only - disc",
@@ -852,8 +849,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1758870312
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ hellletloose.dk - Danmark ☆ NEW PLAYERS W",
@@ -1103,8 +1099,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1758870312
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1205,8 +1200,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1758870312
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1231,8 +1225,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1758870312
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1343,14 +1336,12 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1758802408
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1758716005
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1637,8 +1628,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1758870312
+    "port": 8530
   },
   {
     "name": "BETA社区服务器",
@@ -1809,8 +1799,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
-    "port": 11255,
-    "removed": 1758870312
+    "port": 11255
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
