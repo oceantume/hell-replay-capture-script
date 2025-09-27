@@ -75,7 +75,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1758953373
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -85,7 +86,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1758953373
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -268,8 +270,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1758867085
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #03",
@@ -524,8 +525,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1758867085
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1420,8 +1420,7 @@
   {
     "name": "CN2#散人喵喵攻防|开学季也要极限攻防Q120748151",
     "addr": "5.56.25.100",
-    "port": 7857,
-    "removed": 1758934764
+    "port": 7857
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
