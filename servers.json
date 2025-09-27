@@ -90,7 +90,8 @@
   {
     "name": "Hell Breaks Loose | BNKR Sweat & Commandos vs Ratz & SSO",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1758996529
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -210,22 +211,14 @@
     "port": 9075
   },
   {
-    "name": "Iron Frontline #1 |Realistic | RP",
-    "addr": "160.202.167.11",
-    "port": 8888,
-    "removed": 1758391710
-  },
-  {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530,
-    "removed": 1758978169
+    "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1758975103
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -443,7 +436,7 @@
     "port": 28100
   },
   {
-    "name": "[FR] Hell Let Loose : Offensive et Skirmish",
+    "name": "[EU] Hell Let Loose : Offensive et Skirmish",
     "addr": "176.57.171.161",
     "port": 28200
   },
@@ -558,12 +551,12 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | Prácticas & Eventos",
+    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | PUBLICO",
     "addr": "181.214.48.19",
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE",
+    "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE +50LvL",
     "addr": "181.214.48.19",
     "port": 7797
   },
@@ -1107,8 +1100,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1758978169
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1132,14 +1124,29 @@
     "port": 7797
   },
   {
+    "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
+    "addr": "216.144.245.83",
+    "port": 7787
+  },
+  {
     "name": "Oceanic Ocelots Server | Japan",
     "addr": "216.144.245.84",
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "216.144.245.84",
+    "port": 7787
+  },
+  {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "216.144.245.85",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "216.144.245.85",
+    "port": 7787
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1242,12 +1249,6 @@
     "port": 8777
   },
   {
-    "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
-    "addr": "31.56.0.40",
-    "port": 7867,
-    "removed": 1758391710
-  },
-  {
     "name": "①︱THE CIRCLE #1︱WARFARE︱LVL 25+ 13:00–17:59/50+ 18:00",
     "addr": "31.56.0.41",
     "port": 7817
@@ -1285,8 +1286,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1758978169
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1296,20 +1296,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1758978169
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1758978169
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1758978169
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -1870,7 +1867,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] WE ARE READY - #WAR | Wir Rekrutieren!",
+    "name": "WAR - Events",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -1902,7 +1899,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1758996529
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2197,8 +2195,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1758823887
+    "port": 28200
   },
   {
     "name": "[TR] TSK Türkiye #1 | Turkish Only",
