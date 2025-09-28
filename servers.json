@@ -743,7 +743,7 @@
     "port": 7777
   },
   {
-    "name": "[GER/ENG] 4 Fäuste gegen Blaubeeren [℧ | Omen]",
+    "name": "④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
     "port": 7797
   },
@@ -1287,8 +1287,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1759064617
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1298,20 +1297,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1759064617
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1759064617
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1759064617
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -1906,8 +1902,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1758996529
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1945,7 +1940,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759082923
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2200,7 +2196,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1759082923
   },
   {
     "name": "HLL Official - Australia #01",
