@@ -63,8 +63,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1758953373
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -74,8 +73,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1758953373
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -342,8 +340,7 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1759021610
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -2085,7 +2082,8 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1759039812
   },
   {
     "name": "LOW.MS Testing",
