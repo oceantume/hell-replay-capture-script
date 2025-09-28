@@ -177,12 +177,6 @@
     "removed": 1758846745
   },
   {
-    "name": "[FR] Mercenaires [MCNR]",
-    "addr": "151.80.27.200",
-    "port": 8530,
-    "removed": 1758456702
-  },
-  {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
     "port": 7807
@@ -1121,6 +1115,11 @@
     "port": 7797
   },
   {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
+    "addr": "216.144.245.82",
+    "port": 7797
+  },
+  {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
     "addr": "216.144.245.83",
     "port": 7787
@@ -1131,7 +1130,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "216.144.245.84",
     "port": 7787
   },
@@ -1141,8 +1140,13 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "216.144.245.85",
+    "port": 7787
+  },
+  {
+    "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
+    "addr": "216.144.245.86",
     "port": 7787
   },
   {
@@ -1318,7 +1322,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759061509
   },
   {
     "name": "HLL Official - US East #05",
@@ -1559,7 +1564,8 @@
   {
     "name": "team.phoenix Trainingsserver | phx",
     "addr": "51.89.42.34",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759061509
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
@@ -2025,7 +2031,8 @@
   {
     "name": "Thugs Let Loose",
     "addr": "85.208.197.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759061509
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
