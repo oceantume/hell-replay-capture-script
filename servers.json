@@ -184,14 +184,12 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1759129772
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1759129772
+    "port": 7827
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
@@ -673,7 +671,8 @@
   {
     "name": "#04 [ESP] Comunidad Hispana- discord.comunidadhll.es -Spa Only",
     "addr": "192.169.90.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759148033
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -708,8 +707,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1759127376
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1108,12 +1106,6 @@
     "port": 7787
   },
   {
-    "name": "BLOOP! Battles | NEW SERVER | SEEDERS GET 6 MONTHS VIP!",
-    "addr": "209.192.185.50",
-    "port": 7817,
-    "removed": 1758543214
-  },
-  {
     "name": "[Latam - BR] Monte castelo Brasil",
     "addr": "209.192.185.90",
     "port": 7797
@@ -1326,8 +1318,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1759061509
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1723,12 +1714,6 @@
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
     "port": 7787
-  },
-  {
-    "name": "Lucky Strike Event Server",
-    "addr": "64.31.40.204",
-    "port": 7777,
-    "removed": 1758543214
   },
   {
     "name": "BREACH | LVL 25+ | US EAST | DISCORD.GG/BREACH-GG",
@@ -2173,7 +2158,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras | Treino",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
     "addr": "92.38.151.86",
     "port": 29200
   },
@@ -2196,12 +2181,6 @@
     "name": "360 Conducción | ③⑥⓪ Boot Camp Server",
     "addr": "92.38.151.92",
     "port": 28600
-  },
-  {
-    "name": "US WEST | Blood Buckets",
-    "addr": "94.250.218.33",
-    "port": 28000,
-    "removed": 1758543214
   },
   {
     "name": "HLL Official - Australia #02",
