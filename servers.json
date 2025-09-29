@@ -55,6 +55,11 @@
     "port": 9075
   },
   {
+    "name": "team.phoenix Trainingsserver | phx",
+    "addr": "135.125.188.111",
+    "port": 9620
+  },
+  {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
     "port": 28000,
@@ -542,7 +547,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | PUBLICO",
+    "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "181.214.48.19",
     "port": 7787
   },
@@ -1928,8 +1933,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1759019778
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
