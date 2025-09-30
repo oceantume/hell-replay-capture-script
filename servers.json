@@ -666,8 +666,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "192.169.90.203",
-    "port": 7817,
-    "removed": 1759213750
+    "port": 7817
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -1294,7 +1293,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759214709
   },
   {
     "name": "HLL Official - US West #02",
