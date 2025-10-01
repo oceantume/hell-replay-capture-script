@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1759258908
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -741,7 +740,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -751,7 +750,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1192,12 +1191,12 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1222,7 +1221,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -1937,7 +1936,8 @@
   {
     "name": "<CN>台服64人小规模服务器",
     "addr": "83.223.197.85",
-    "port": 28100
+    "port": 28100,
+    "removed": 1759279050
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2094,8 +2094,7 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
-    "port": 7827,
-    "removed": 1759039812
+    "port": 7827
   },
   {
     "name": "LOW.MS Testing",
