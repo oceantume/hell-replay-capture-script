@@ -214,7 +214,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1759320826
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1022,7 +1023,7 @@
     "port": 7807
   },
   {
-    "name": "[GER] 106. Panzerbrigade | Wir rekrutieren!",
+    "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
     "port": 7817
   },
@@ -1369,7 +1370,8 @@
   {
     "name": "MUHtion Media",
     "addr": "45.143.199.235",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759320826
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -1900,7 +1902,8 @@
   {
     "name": "[GER] No Man’s Land // discord.gg/nml-server",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1759320826
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2094,6 +2097,11 @@
     "port": 7777
   },
   {
+    "name": "Mapping HLL",
+    "addr": "92.118.16.90",
+    "port": 7787
+  },
+  {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
     "port": 7827
@@ -2202,11 +2210,5 @@
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
     "port": 28200
-  },
-  {
-    "name": "[TR] TSK Türkiye #1 | Turkish Only",
-    "addr": "95.134.5.2",
-    "port": 7777,
-    "removed": 1758716005
   }
 ]
