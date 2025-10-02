@@ -816,7 +816,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1759428628
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1551,8 +1552,7 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1759255837
+    "port": 7777
   },
   {
     "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
@@ -2012,6 +2012,11 @@
     "port": 28200
   },
   {
+    "name": "Midwest Fleebus",
+    "addr": "83.223.207.55",
+    "port": 28400
+  },
+  {
     "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
     "addr": "83.223.207.55",
     "port": 28500
@@ -2019,7 +2024,8 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1759428628
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2071,12 +2077,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1758806114
   },
   {
     "name": "HLL Official - South America #01",
