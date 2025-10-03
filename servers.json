@@ -95,6 +95,11 @@
     "port": 7777
   },
   {
+    "name": "Omen Evemt Server 1 powered by Qonzer",
+    "addr": "139.28.17.147",
+    "port": 7797
+  },
+  {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
     "port": 7777
@@ -758,6 +763,11 @@
     "port": 7777
   },
   {
+    "name": "Omen Evemt Server 2 powered by Qonzer",
+    "addr": "193.160.22.58",
+    "port": 7787
+  },
+  {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
     "port": 7797
@@ -815,8 +825,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1759496936
+    "port": 20200
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -901,7 +910,8 @@
   {
     "name": "CRCON Developer Test Server",
     "addr": "208.115.201.134",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759515003
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
@@ -911,8 +921,7 @@
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.206.34",
-    "port": 7787,
-    "removed": 1759495983
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
@@ -1007,7 +1016,8 @@
   {
     "name": "THE MIDLINE – World’s First Midline only Server | EU | ENG",
     "addr": "208.115.224.71",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759515003
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1047,7 +1057,8 @@
   {
     "name": "CBMS",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759515003
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1770,6 +1781,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.59.77",
+    "port": 7787
+  },
+  {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
@@ -1807,7 +1823,8 @@
   {
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759515003
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1939,7 +1956,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759515003
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2222,11 +2240,17 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1759515003
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
     "port": 28200
+  },
+  {
+    "name": "nitrado.net gameserver 22GhuiHg",
+    "addr": "95.156.198.83",
+    "port": 10700
   }
 ]
