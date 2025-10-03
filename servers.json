@@ -77,8 +77,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1759471852
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -133,7 +132,8 @@
   {
     "name": "[GER] 45. Grenadier-Division | discord.gg/45-GD | Low Ping",
     "addr": "141.95.72.211",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759493545
   },
   {
     "name": "SAPPER | US EAST | NEW PLAYERS WELCOME",
@@ -233,8 +233,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1759473761
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
@@ -294,8 +293,7 @@
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1759474996
+    "port": 28000
   },
   {
     "name": "Hellfire Company [ENG/DK] Offensive | new player friendly | See",
@@ -400,7 +398,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1759493545
   },
   {
     "name": "DevQA - EU #01",
@@ -505,8 +504,7 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1759474996
+    "port": 28000
   },
   {
     "name": "HLL Official - UK #01",
@@ -581,8 +579,7 @@
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1759474996
+    "port": 8530
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
@@ -738,8 +735,7 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1759474996
+    "port": 8772
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -830,8 +826,7 @@
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1759474996
+    "port": 9620
   },
   {
     "name": "☆ HLL-CLAN.DK ☆ server 1 - Danmark ☆ NEW PLAYERS WELCOM",
@@ -866,7 +861,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "206.53.0.10",
-    "port": 7797
+    "port": 7797,
+    "removed": 1759493545
   },
   {
     "name": "HORANG Event Server | US WEST |",
@@ -1051,8 +1047,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1759474996
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1082,8 +1077,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1759474996
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1188,7 +1182,8 @@
   {
     "name": "[NL/ENG] EPIC GAMER TIME - STARTER FRIENDLY - NEW COMMUNITY",
     "addr": "23.109.63.156",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759493545
   },
   {
     "name": "[GER] Gottimperator Ecko | Mic Pflicht",
@@ -1208,8 +1203,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1759474996
+    "port": 7877
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1234,8 +1228,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1759474996
+    "port": 7787
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1343,13 +1336,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1759407137
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759493545
   },
   {
     "name": "HLL Official - US East #05",
@@ -1379,8 +1372,7 @@
   {
     "name": "[AnE] Let Loose UK - All levels and experience welcome.",
     "addr": "45.143.199.235",
-    "port": 8530,
-    "removed": 1759474996
+    "port": 8530
   },
   {
     "name": "MUHtion Media",
@@ -1650,8 +1642,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1759474996
+    "port": 8530
   },
   {
     "name": "BETA社区服务器",
@@ -1872,8 +1863,7 @@
   {
     "name": "RCON Testing",
     "addr": "74.63.225.18",
-    "port": 7797,
-    "removed": 1759407137
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
@@ -2032,8 +2022,7 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1759428628
+    "port": 7797
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
