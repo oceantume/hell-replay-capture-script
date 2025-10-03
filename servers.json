@@ -175,12 +175,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Server",
-    "addr": "149.34.170.137",
-    "port": 7777,
-    "removed": 1758846745
-  },
-  {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
     "port": 7807
@@ -1282,7 +1276,8 @@
   {
     "name": "Penta Let Loose",
     "addr": "45.137.244.9",
-    "port": 28600
+    "port": 28600,
+    "removed": 1759453167
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1502,8 +1497,7 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "5.56.25.25",
-    "port": 7777,
-    "removed": 1759451487
+    "port": 7777
   },
   {
     "name": "hll Server",
