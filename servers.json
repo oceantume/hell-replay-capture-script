@@ -77,7 +77,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1759471852
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -342,8 +343,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1759299096
+    "port": 28000
   },
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
@@ -359,6 +359,11 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
+  },
+  {
+    "name": "HLL Dev Team 2",
+    "addr": "176.57.168.38",
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #08",
@@ -739,7 +744,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759471852
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -794,8 +800,7 @@
   {
     "name": "The Fox Hole (Veteran Owned - New Players Welcome)",
     "addr": "193.192.58.206",
-    "port": 28300,
-    "removed": 1758888782
+    "port": 28300
   },
   {
     "name": "[Coalition FR/BE] Fossils & Company | F&Co - French only - disc",
@@ -875,8 +880,7 @@
   {
     "name": "Jefersson's & Budweiser's - training/event - discord.gg/cobrasf",
     "addr": "206.53.0.18",
-    "port": 7777,
-    "removed": 1759451487
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -1287,7 +1291,8 @@
   {
     "name": "3HS | New Players Welcome | NO Level Cap for Roles | Triple Hea",
     "addr": "45.137.244.9",
-    "port": 28800
+    "port": 28800,
+    "removed": 1759471852
   },
   {
     "name": "HLL Official - US West #14",
