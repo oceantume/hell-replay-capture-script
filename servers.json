@@ -226,7 +226,7 @@
     "port": 9075
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR",
+    "name": "『V』WWW.VANGUARDA.PRO.BR | Training Server 2",
     "addr": "172.96.172.104",
     "port": 7807
   },
@@ -393,7 +393,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759558177
   },
   {
     "name": "DevQA - EU #02",
@@ -448,7 +449,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759558177
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -785,7 +787,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759558177
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -795,17 +798,20 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759558177
   },
   {
     "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759558177
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759558177
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
