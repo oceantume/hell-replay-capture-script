@@ -12,7 +12,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1759579888
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -213,7 +214,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1759579888
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -635,7 +637,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759579888
   },
   {
     "name": "Pathfinders | Event Server",
@@ -762,12 +765,14 @@
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
     "addr": "193.160.22.140",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759579888
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759579888
   },
   {
     "name": "[GER] Omen Event & Match Server #3",
@@ -1095,7 +1100,8 @@
   {
     "name": "Polish Veterans / PZJR Event Server",
     "addr": "208.115.248.106",
-    "port": 7817
+    "port": 7817,
+    "removed": 1759579888
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1363,8 +1369,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1759493545
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1586,7 +1591,7 @@
     "removed": 1759451487
   },
   {
-    "name": "ENG/DK HLL Danmark DKB Community Server - www.hlldanmark.dk",
+    "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
   },
@@ -1729,7 +1734,8 @@
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759579888
   },
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
