@@ -497,8 +497,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1759582155
+    "port": 28300
   },
   {
     "name": "Churchill's Dagger Division",
@@ -952,10 +951,9 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 R and D",
+    "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - Discord.gg/13snc",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1759582155
+    "port": 7777
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
@@ -1330,7 +1328,8 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759582940
   },
   {
     "name": "QA Testing - US West #06",
@@ -1340,17 +1339,20 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1759582940
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1759582940
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1759582940
   },
   {
     "name": "QA Testing - US East #09",
@@ -1871,7 +1873,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759582940
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
