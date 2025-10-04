@@ -12,8 +12,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1759579888
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -214,8 +213,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1759579888
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -758,20 +756,17 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1759471852
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
     "addr": "193.160.22.140",
-    "port": 7787,
-    "removed": 1759579888
+    "port": 7787
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1759579888
+    "port": 7777
   },
   {
     "name": "[GER] Omen Event & Match Server #3",
@@ -825,7 +820,7 @@
     "port": 28300
   },
   {
-    "name": "[Coalition FR/BE] Fossils & Company | F&Co - French only - disc",
+    "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
     "port": 8530
   },
@@ -951,7 +946,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - Discord.gg/13snc",
+    "name": "[13SNC] #2 Dirty's R&D",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1328,8 +1323,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1759582940
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1339,20 +1333,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1759582940
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1759582940
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1759582940
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1737,8 +1728,7 @@
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777,
-    "removed": 1759579888
+    "port": 7777
   },
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
@@ -1873,8 +1863,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1759582940
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1998,7 +1987,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759601319
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2251,8 +2241,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1759515003
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
