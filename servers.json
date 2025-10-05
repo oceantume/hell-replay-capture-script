@@ -213,7 +213,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1759666289
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -433,6 +434,11 @@
     "port": 28000
   },
   {
+    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
+    "addr": "176.57.171.140",
+    "port": 28200
+  },
+  {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
     "port": 28400
@@ -495,7 +501,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.174.211",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759666289
   },
   {
     "name": "Churchill's Dagger Division",
@@ -885,7 +892,7 @@
     "port": 7797
   },
   {
-    "name": "HORANG Event Server | US WEST |",
+    "name": "HORANG / Ocelots Event Server | US WEST |",
     "addr": "206.53.0.11",
     "port": 7777
   },
@@ -2181,7 +2188,8 @@
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.66",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759666289
   },
   {
     "name": "U Test Server",
