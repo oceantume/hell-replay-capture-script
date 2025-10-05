@@ -213,8 +213,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1759666289
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -933,6 +932,11 @@
     "port": 7777
   },
   {
+    "name": "[GER/ENG] Trinity´s Ballerbude",
+    "addr": "208.115.206.34",
+    "port": 7777
+  },
+  {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.206.34",
     "port": 7787
@@ -1137,8 +1141,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1759669378
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1332,8 +1335,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1759669378
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1343,20 +1345,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1759669378
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1759669378
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1759669378
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1875,8 +1874,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1759669378
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1968,8 +1966,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1759515003
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1979,7 +1976,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759687727
   },
   {
     "name": "<CN>台服64人小规模服务器",
@@ -2000,8 +1998,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1759601319
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2182,8 +2179,7 @@
   {
     "name": "MEXICO LATAM ESP OGT",
     "addr": "92.118.19.66",
-    "port": 7787,
-    "removed": 1759666289
+    "port": 7787
   },
   {
     "name": "U Test Server",
