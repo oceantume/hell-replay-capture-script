@@ -253,12 +253,14 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1759644585
   },
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759644585
   },
   {
     "name": "HLL Official - Europe #05",
@@ -358,8 +360,7 @@
   {
     "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1759626349
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -394,8 +395,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1759558177
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -450,8 +450,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1759558177
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -1196,7 +1195,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1759644585
   },
   {
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
@@ -1645,6 +1645,11 @@
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
+  },
+  {
+    "name": "Radical Gaming Network -Miami- #2",
+    "addr": "64.20.50.186",
+    "port": 10165
   },
   {
     "name": "MG Prep",
