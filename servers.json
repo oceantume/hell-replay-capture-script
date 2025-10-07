@@ -915,7 +915,8 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759842914
   },
   {
     "name": "Current Level: Catholic School Defenders(D1CK)",
@@ -1209,8 +1210,7 @@
   {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
     "addr": "216.144.245.86",
-    "port": 7787,
-    "removed": 1759841768
+    "port": 7787
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1373,7 +1373,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1759842914
   },
   {
     "name": "QA Testing - US East #09",
@@ -1911,6 +1912,11 @@
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
     "port": 11255
+  },
+  {
+    "name": "[LATAM/ESP] URANIUM | STALINGRADO 24/7 | +35LVL | GPORTAL | dis",
+    "addr": "78.111.102.114",
+    "port": 28200
   },
   {
     "name": "Tango company AFIP [EVENTOS]",
