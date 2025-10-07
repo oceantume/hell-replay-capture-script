@@ -948,7 +948,8 @@
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759861645
   },
   {
     "name": "[GER/ENG] Trinity´s Ballerbude",
@@ -1133,8 +1134,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1759860648
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -2093,8 +2093,7 @@
   {
     "name": "Q's - Qonzer.com | Event Server #3 | London",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1759860648
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
