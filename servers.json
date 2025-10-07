@@ -12,13 +12,13 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759839236
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1759818498
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -68,7 +68,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759839236
   },
   {
     "name": "HLL Official - Russia #02",
@@ -133,8 +134,7 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1759818498
+    "port": 8530
   },
   {
     "name": "DKB Event Server",
@@ -190,20 +190,17 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1759818498
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1759818498
+    "port": 7827
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1759818498
+    "port": 7787
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -367,7 +364,7 @@
     "port": 28000
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ VIP for seeding",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
     "port": 28200
   },
@@ -454,8 +451,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1759818498
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -475,7 +471,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759839236
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -731,8 +728,7 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1759818498
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -772,7 +768,8 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772
+    "port": 8772,
+    "removed": 1759839236
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -977,7 +974,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 Dirty's R&D",
+    "name": "[13SNC] #2 Dírty's R&D",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1065,8 +1062,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "208.115.226.2",
-    "port": 7787,
-    "removed": 1759818498
+    "port": 7787
   },
   {
     "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
@@ -1084,7 +1080,7 @@
     "port": 7817
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap ♦ VIP for seedin",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Stalingrad 24/7",
     "addr": "208.115.226.3",
     "port": 7787
   },
@@ -1162,8 +1158,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1759818498
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1379,7 +1374,7 @@
     "port": 28700
   },
   {
-    "name": "WC Playtest Server",
+    "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
     "port": 28200
   },
@@ -1396,7 +1391,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759839236
   },
   {
     "name": "HLL Official - US East #05",
@@ -1406,13 +1402,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1759839236
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1759752825
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1434,6 +1430,11 @@
     "addr": "45.143.199.235",
     "port": 9075,
     "removed": 1759320826
+  },
+  {
+    "name": "hll Server",
+    "addr": "45.151.81.210",
+    "port": 7777
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -1508,8 +1509,7 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
     "addr": "5.56.25.100",
-    "port": 7897,
-    "removed": 1759818498
+    "port": 7897
   },
   {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
@@ -1522,7 +1522,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "LST车组训练专用服",
     "addr": "5.56.25.25",
     "port": 7787
   },
@@ -1539,14 +1539,12 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "5.56.25.25",
-    "port": 7817,
-    "removed": 1759818498
+    "port": 7817
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "5.56.25.25",
-    "port": 7827,
-    "removed": 1759818498
+    "port": 7827
   },
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
@@ -1647,7 +1645,8 @@
   {
     "name": "[LATAM] |ESP| ¿QUE ES UN GARRY? | [VKR]",
     "addr": "64.20.50.186",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759839236
   },
   {
     "name": "[D.C.] Devils Company - ENTRENAMIENTOS - Discord: devilscompany",
@@ -1788,7 +1787,8 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759839236
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1798,8 +1798,7 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1759818498
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1820,7 +1819,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759839236
   },
   {
     "name": "I love playing APEX",
@@ -1840,8 +1840,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1759818498
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -1958,7 +1957,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759839236
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1973,7 +1973,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759839236
   },
   {
     "name": "<CN>台服64人小规模服务器",
@@ -1994,7 +1995,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759839236
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2009,8 +2011,7 @@
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.138",
-    "port": 28200,
-    "removed": 1759818498
+    "port": 28200
   },
   {
     "name": "Study Hall",
@@ -2035,8 +2036,7 @@
   {
     "name": "Steel and Sacrifice! New Players Welcome! Open Server---Few Rul",
     "addr": "83.223.207.50",
-    "port": 28500,
-    "removed": 1759818498
+    "port": 28500
   },
   {
     "name": "The Gang Is All Here",
@@ -2051,8 +2051,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1759820797
+    "port": 28400
   },
   {
     "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
@@ -2119,8 +2118,7 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000,
-    "removed": 1759818498
+    "port": 28000
   },
   {
     "name": "HLL Official - South America #02",
@@ -2263,7 +2261,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759839236
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
