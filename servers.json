@@ -205,8 +205,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1759818498
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -306,7 +305,8 @@
   {
     "name": "[GER] Zum goldenen Brennholzreiter | Mic Pflicht",
     "addr": "176.57.140.83",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759860648
   },
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
@@ -533,7 +533,8 @@
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "176.57.178.127",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759860648
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -581,7 +582,7 @@
     "port": 7827
   },
   {
-    "name": "彡 MIB 彡 MADE IN BRASIL - Junte-se à insanidade",
+    "name": "彡 MIB 彡 MADE IN BRASIL - Ajoelha e Reza",
     "addr": "181.214.221.212",
     "port": 7847
   },
@@ -723,7 +724,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759860648
   },
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
@@ -748,7 +750,8 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -768,11 +771,10 @@
   {
     "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
     "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1759839236
+    "port": 8772
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
     "port": 9075
   },
@@ -915,8 +917,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1759842914
+    "port": 7777
   },
   {
     "name": "Current Level: Catholic School Defenders(D1CK)",
@@ -934,7 +935,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Stalingrad Heaven | US Central #1 Dallas | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
   },
@@ -977,10 +978,11 @@
   {
     "name": "[13SNC] #2 Dírty's R&D",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
-    "name": "PL ※ ENG | DGM | Polski/Polish Server",
+    "name": "PL ※ ENG | DGM | Polski/Polish Server Only Stalingrad",
     "addr": "208.115.206.38",
     "port": 7787
   },
@@ -1003,7 +1005,8 @@
   {
     "name": "[GER] Midgards Panzer Event Server",
     "addr": "208.115.206.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1130,7 +1133,8 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759860648
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
@@ -1170,7 +1174,8 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759860648
   },
   {
     "name": "[Latam - BR] Monte castelo Brasil",
@@ -1251,8 +1256,7 @@
   {
     "name": "SLB #1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1759818498
+    "port": 7797
   },
   {
     "name": "SLB #2",
@@ -1262,12 +1266,14 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "31.56.0.14",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759860648
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "31.56.0.14",
-    "port": 7807
+    "port": 7807,
+    "removed": 1759860648
   },
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
@@ -1457,7 +1463,8 @@
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "5.56.25.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
@@ -1577,8 +1584,7 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1759451487
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1613,7 +1619,8 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720
+    "port": 9720,
+    "removed": 1759860648
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
@@ -1679,7 +1686,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1699,7 +1707,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759860648
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1729,8 +1738,7 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7777,
-    "removed": 1759818498
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1831,7 +1839,8 @@
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
-    "port": 8888
+    "port": 8888,
+    "removed": 1759860648
   },
   {
     "name": "Radical Gaming Network -Los Angeles-",
@@ -2057,7 +2066,8 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400
+    "port": 28400,
+    "removed": 1759860648
   },
   {
     "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
@@ -2083,12 +2093,14 @@
   {
     "name": "Q's - Qonzer.com | Event Server #3 | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1759860648
   },
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
@@ -2124,7 +2136,8 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759860648
   },
   {
     "name": "HLL Official - South America #02",
@@ -2144,7 +2157,8 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759860648
   },
   {
     "name": "Mapping HLL",
