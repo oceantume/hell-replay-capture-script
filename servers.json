@@ -17,7 +17,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1759818498
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -132,7 +133,8 @@
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759818498
   },
   {
     "name": "DKB Event Server",
@@ -188,22 +190,26 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1759818498
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1759818498
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759818498
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759818498
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -258,8 +264,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1759644585
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -419,8 +424,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1759731112
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -450,7 +454,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759818498
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -726,7 +731,8 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797
+    "port": 7797,
+    "removed": 1759818498
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -930,7 +936,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
+    "name": "(IC) Stalingrad Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
   },
@@ -1059,7 +1065,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "208.115.226.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759818498
   },
   {
     "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
@@ -1130,7 +1137,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759818498
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
@@ -1155,7 +1163,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759818498
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1246,7 +1255,8 @@
   {
     "name": "SLB #1",
     "addr": "31.56.0.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1759818498
   },
   {
     "name": "SLB #2",
@@ -1499,7 +1509,8 @@
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
     "addr": "5.56.25.100",
-    "port": 7897
+    "port": 7897,
+    "removed": 1759818498
   },
   {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
@@ -1529,17 +1540,20 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "5.56.25.25",
-    "port": 7817
+    "port": 7817,
+    "removed": 1759818498
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "5.56.25.25",
-    "port": 7827
+    "port": 7827,
+    "removed": 1759818498
   },
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
     "addr": "5.56.25.25",
-    "port": 7837
+    "port": 7837,
+    "removed": 1759818498
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1715,7 +1729,8 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759818498
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1778,9 +1793,15 @@
     "port": 7777
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.31.60.82",
+    "port": 8530
+  },
+  {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759818498
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1821,7 +1842,8 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710
+    "port": 10710,
+    "removed": 1759818498
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -1837,6 +1859,11 @@
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
     "addr": "67.217.48.14",
     "port": 9620
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "67.217.58.130",
+    "port": 8530
   },
   {
     "name": "多 | Low Level Unknown | US-C | .gg/hostile",
@@ -1984,7 +2011,8 @@
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.138",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759818498
   },
   {
     "name": "Study Hall",
@@ -1992,7 +2020,7 @@
     "port": 28300
   },
   {
-    "name": "STALINGRAD INFERNO | (US East)",
+    "name": "STALINGRAD 24/7 | (US East)",
     "addr": "83.223.203.147",
     "port": 28000
   },
@@ -2009,7 +2037,8 @@
   {
     "name": "Steel and Sacrifice! New Players Welcome! Open Server---Few Rul",
     "addr": "83.223.207.50",
-    "port": 28500
+    "port": 28500,
+    "removed": 1759818498
   },
   {
     "name": "The Gang Is All Here",
@@ -2045,7 +2074,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759818498
   },
   {
     "name": "Q's - Qonzer.com | Event Server #3 | London",
@@ -2091,7 +2121,8 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759818498
   },
   {
     "name": "HLL Official - South America #02",
