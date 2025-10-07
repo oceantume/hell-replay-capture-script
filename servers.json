@@ -1249,8 +1249,7 @@
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
     "addr": "31.56.0.11",
-    "port": 7777,
-    "removed": 1759820056
+    "port": 7777
   },
   {
     "name": "SLB #1",
@@ -1520,20 +1519,17 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "5.56.25.25",
-    "port": 7777,
-    "removed": 1759820056
+    "port": 7777
   },
   {
     "name": "hll Server",
     "addr": "5.56.25.25",
-    "port": 7787,
-    "removed": 1759820056
+    "port": 7787
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
     "addr": "5.56.25.25",
-    "port": 7797,
-    "removed": 1759820056
+    "port": 7797
   },
   {
     "name": "帝国社区训练专用服",
@@ -2055,7 +2051,8 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400
+    "port": 28400,
+    "removed": 1759820797
   },
   {
     "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
