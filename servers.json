@@ -259,8 +259,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1759905859
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -1512,7 +1511,8 @@
   {
     "name": "CN1#散人猫猫社区|萌新军官当然来的咖啡馆Q120748",
     "addr": "5.56.25.100",
-    "port": 7887
+    "port": 7887,
+    "removed": 1759906464
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
@@ -1701,8 +1701,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1759905859
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
