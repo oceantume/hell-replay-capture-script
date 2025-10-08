@@ -134,7 +134,8 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1759885226
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -754,8 +755,7 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1759860648
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -872,7 +872,8 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759885226
   },
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
@@ -968,7 +969,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759885226
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1341,7 +1343,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759885226
   },
   {
     "name": "Penta Let Loose",
@@ -1402,8 +1405,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1759839236
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1998,12 +2000,6 @@
     "removed": 1759839236
   },
   {
-    "name": "<CN>台服64人小规模服务器",
-    "addr": "83.223.197.85",
-    "port": 28100,
-    "removed": 1759279050
-  },
-  {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.89",
     "port": 28000
@@ -2027,7 +2023,8 @@
   {
     "name": "[FR] La Guerre Des Boutons",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759885226
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -2114,7 +2111,8 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759885226
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
@@ -2124,7 +2122,8 @@
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759885226
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
