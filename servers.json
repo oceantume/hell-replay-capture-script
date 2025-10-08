@@ -317,12 +317,14 @@
   {
     "name": "[FR] ★ Crazy French Team ★ 100% RP",
     "addr": "176.57.153.114",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759947064
   },
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759947064
   },
   {
     "name": "Hellfire Company [ENG/DK] Offensive | new player friendly | See",
@@ -443,7 +445,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1759947064
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -780,8 +783,12 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075,
-    "removed": 1759883520
+    "port": 9075
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.139",
+    "port": 7777
   },
   {
     "name": "SLB #4",
@@ -797,6 +804,11 @@
     "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.141",
+    "port": 7787
   },
   {
     "name": "[GER] Omen Event & Match Server #3",
@@ -863,6 +875,11 @@
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
     "port": 20200
+  },
+  {
+    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
+    "addr": "195.82.158.186",
+    "port": 21300
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -983,8 +1000,7 @@
   {
     "name": "[13SNC] #2 Dírty's R&D",
     "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1759860648
+    "port": 7777
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server Only Stalingrad",
@@ -1570,12 +1586,14 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 8530
+    "port": 8530,
+    "removed": 1759947064
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759947064
   },
   {
     "name": "HLL Server",
@@ -1734,8 +1752,7 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7777,
-    "removed": 1759925648
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1957,8 +1974,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1759839236
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1974,8 +1990,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1759839236
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1990,8 +2005,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1759839236
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2051,8 +2065,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1759860648
+    "port": 28400
   },
   {
     "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
@@ -2113,7 +2126,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759947064
   },
   {
     "name": "HLL Official - South America #01",
@@ -2159,7 +2173,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759947064
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -2262,7 +2277,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759947064
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
