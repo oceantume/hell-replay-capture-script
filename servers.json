@@ -874,7 +874,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1759949049
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1168,8 +1169,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1759948064
+    "port": 7777
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -2031,7 +2031,8 @@
   {
     "name": "STALINGRAD 24/7 | (US East)",
     "addr": "83.223.203.147",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759949049
   },
   {
     "name": "Meatball's OFFICIAL Test Server",
