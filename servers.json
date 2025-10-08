@@ -1145,7 +1145,8 @@
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
     "addr": "208.115.248.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759926787
   },
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
@@ -1594,7 +1595,8 @@
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
     "addr": "51.89.42.34",
-    "port": 10165
+    "port": 10165,
+    "removed": 1759926787
   },
   {
     "name": "TRYHARD | LVL 50+ | VLK @ valkyriahll.cz",
@@ -2111,8 +2113,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1759755373
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
