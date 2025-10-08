@@ -23,7 +23,8 @@
   {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
-    "port": 8888
+    "port": 8888,
+    "removed": 1759929353
   },
   {
     "name": "HLL Official - Japan #02",
@@ -396,7 +397,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759929353
   },
   {
     "name": "QA Testing - EU #08",
