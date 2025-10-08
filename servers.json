@@ -289,7 +289,8 @@
   {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759907176
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -677,7 +678,8 @@
   {
     "name": "5th Ranger Battalion | US East | 5thrb.com",
     "addr": "192.169.86.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759907176
   },
   {
     "name": "Helios Event Server",
@@ -1511,8 +1513,7 @@
   {
     "name": "CN1#散人猫猫社区|萌新军官当然来的咖啡馆Q120748",
     "addr": "5.56.25.100",
-    "port": 7887,
-    "removed": 1759906464
+    "port": 7887
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
@@ -1701,7 +1702,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759907176
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
