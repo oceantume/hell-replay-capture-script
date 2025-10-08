@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1759863861
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -50,6 +49,11 @@
     "name": "Hell Let Loose Testing Server olo",
     "addr": "134.255.222.217",
     "port": 24100
+  },
+  {
+    "name": "Meatball's Test Server",
+    "addr": "134.255.240.110",
+    "port": 10300
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -472,8 +476,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1759839236
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -777,7 +780,8 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759883520
   },
   {
     "name": "SLB #4",
@@ -1072,8 +1076,7 @@
   {
     "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
     "addr": "208.115.226.2",
-    "port": 7797,
-    "removed": 1759863861
+    "port": 7797
   },
   {
     "name": "Event-Server der 106. Panzerbrigade",
@@ -1379,8 +1382,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1759842914
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1467,7 +1469,7 @@
     "removed": 1759860648
   },
   {
-    "name": "CN4#散人猫猫社区限杀|夏日炎炎也要激战Q120748151",
+    "name": "CN4#散人猫猫社区|秋日微凉也要激战Q120748151",
     "addr": "5.56.25.100",
     "port": 7777
   },
@@ -1582,6 +1584,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "51.195.170.105",
+    "port": 9075
+  },
+  {
     "name": "HLL Server",
     "addr": "51.198.31.150",
     "port": 7777
@@ -1635,7 +1642,8 @@
   {
     "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| discord.gg/btb",
     "addr": "63.143.60.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759883520
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
@@ -1686,8 +1694,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1759860648
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1707,8 +1714,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1759860648
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1839,8 +1845,7 @@
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
-    "port": 8888,
-    "removed": 1759860648
+    "port": 8888
   },
   {
     "name": "Radical Gaming Network -Los Angeles-",
@@ -1983,7 +1988,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759883520
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2037,6 +2043,11 @@
     "name": "STALINGRAD 24/7 | (US East)",
     "addr": "83.223.203.147",
     "port": 28000
+  },
+  {
+    "name": "Meatball's OFFICIAL Test Server",
+    "addr": "83.223.203.147",
+    "port": 28300
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -2098,8 +2109,7 @@
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1759860648
+    "port": 7817
   },
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
