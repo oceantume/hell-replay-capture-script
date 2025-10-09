@@ -1236,7 +1236,8 @@
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "216.144.245.84",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760033439
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1246,7 +1247,8 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "216.144.245.85",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760033439
   },
   {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
@@ -1350,7 +1352,7 @@
     "port": 7787
   },
   {
-    "name": "【EU】IGHOST REGIMENT New Player Training 1v50 Hell Let Loose",
+    "name": "【EU I GHOST REGIMENT New Player Training 1v50 |discord.gg/7WG",
     "addr": "31.56.0.37",
     "port": 8777
   },
@@ -1489,9 +1491,19 @@
     "port": 9014
   },
   {
+    "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
+    "addr": "5.56.25.10",
+    "port": 7727
+  },
+  {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "5.56.25.10",
     "port": 7777
+  },
+  {
+    "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
+    "addr": "5.56.25.10",
+    "port": 7787
   },
   {
     "name": "CN4#散人猫猫社区|秋日微凉也要激战Q120748151",
@@ -1731,7 +1743,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760033439
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1779,7 +1792,7 @@
     "port": 7777
   },
   {
-    "name": "Go学长服务器",
+    "name": "Go学长服务器[加群979552783]",
     "addr": "64.31.32.212",
     "port": 7777
   },
@@ -1988,7 +2001,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.200.180",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760033439
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2003,13 +2017,13 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760033439
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1759883520
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2029,7 +2043,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760033439
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2301,8 +2316,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1759947064
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
