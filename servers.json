@@ -102,7 +102,8 @@
   {
     "name": "Hell Breaks Loose | BNKR Sweat & Commandos vs TWAT",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1759992300
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -263,7 +264,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759992300
   },
   {
     "name": "HLL Official - Europe #01",
@@ -1066,8 +1068,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777,
-    "removed": 1759991317
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -1143,8 +1144,7 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1759991317
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
@@ -1362,8 +1362,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
-    "port": 7777,
-    "removed": 1759991317
+    "port": 7777
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1399,8 +1398,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1759991317
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1661,10 +1659,9 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM |FAST 1M+XP| discord.gg/btb",
+    "name": "Bob The Builder is down for maintenence discord.gg/btb",
     "addr": "63.143.60.20",
-    "port": 7777,
-    "removed": 1759883520
+    "port": 7777
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
