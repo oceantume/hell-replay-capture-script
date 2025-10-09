@@ -37,6 +37,11 @@
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
     "addr": "108.165.230.224",
+    "port": 7776
+  },
+  {
+    "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
+    "addr": "108.165.230.224",
     "port": 7777,
     "removed": 1760011996
   },
@@ -1345,7 +1350,7 @@
     "port": 7787
   },
   {
-    "name": "【EU】IGHOST REGIMENT New Player Training 50v5 Hell Let Loose",
+    "name": "【EU】IGHOST REGIMENT New Player Training 1v50 Hell Let Loose",
     "addr": "31.56.0.37",
     "port": 8777
   },
@@ -1388,8 +1393,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1760011996
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
