@@ -37,7 +37,8 @@
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
     "addr": "108.165.230.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760011996
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -132,7 +133,8 @@
   {
     "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
     "addr": "141.105.66.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1760011996
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -228,7 +230,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1760011996
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -383,7 +386,7 @@
     "port": 28000
   },
   {
-    "name": "Segsy and Superior - Krieg & WCB - CZ / SK / EU / Balkan - Begi",
+    "name": "Krieg - CZ/SK/EU - The Emperor's Wil",
     "addr": "176.57.168.254",
     "port": 28100
   },
@@ -421,8 +424,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1759969931
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -706,8 +708,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1759990300
+    "port": 7787
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -889,7 +890,8 @@
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "195.82.158.186",
-    "port": 21300
+    "port": 21300,
+    "removed": 1760011996
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1379,14 +1381,15 @@
     "port": 28700
   },
   {
-    "name": "HLL Salute to the US Army Vets (US Mid) Server by g-portal.com",
+    "name": "HLL Salute to All Vets",
     "addr": "45.137.244.9",
     "port": 28800
   },
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760011996
   },
   {
     "name": "QA Testing - US West #06",
@@ -1426,7 +1429,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760011996
   },
   {
     "name": "HLL Official - US East #05",
@@ -1441,7 +1445,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760011996
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1499,7 +1504,7 @@
     "port": 7797
   },
   {
-    "name": "CN3#散人猫猫社区|宝宝巴士萌新限杀馆Q120748151",
+    "name": "CN3#散人猫猫攻防|极限攻防第二咖啡馆Q120748151",
     "addr": "5.56.25.100",
     "port": 7807
   },
@@ -1657,7 +1662,7 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder is down for maintenence discord.gg/btb",
+    "name": "Bob The Builder join discord.gg/btb for password",
     "addr": "63.143.60.20",
     "port": 7777
   },
