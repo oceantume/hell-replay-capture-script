@@ -12,19 +12,18 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777,
-    "removed": 1759839236
+    "port": 7777
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1759969931
   },
   {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
-    "port": 8888,
-    "removed": 1759929353
+    "port": 8888
   },
   {
     "name": "HLL Official - Japan #02",
@@ -168,6 +167,11 @@
     "port": 28800
   },
   {
+    "name": "STALINGRAD 24/7 | BROTHERS IN ARMS | ( US East )",
+    "addr": "144.126.153.213",
+    "port": 28900
+  },
+  {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
     "port": 29000
@@ -225,8 +229,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1759925648
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -419,7 +422,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759969931
   },
   {
     "name": "DevQA - EU #02",
@@ -582,6 +586,11 @@
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
     "port": 8772
+  },
+  {
+    "name": "Armen la línea!",
+    "addr": "181.214.221.212",
+    "port": 7777
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
@@ -790,7 +799,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -800,7 +809,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -941,7 +950,7 @@
     "port": 7777
   },
   {
-    "name": "Current Level: Catholic School Defenders(D1CK)",
+    "name": "Current Level: BF6 coming soon(D1CK)",
     "addr": "206.53.0.15",
     "port": 7777
   },
@@ -1272,12 +1281,12 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1302,7 +1311,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
   },
@@ -2026,7 +2035,7 @@
     "port": 28300
   },
   {
-    "name": "STALINGRAD 24/7 | (US East)",
+    "name": "(US East) Garrison Jockey Lvl +50",
     "addr": "83.223.203.147",
     "port": 28000
   },
