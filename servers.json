@@ -1408,7 +1408,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760015744
   },
   {
     "name": "HLL Official - US West #03",
@@ -1983,6 +1984,11 @@
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "83.11.200.180",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
