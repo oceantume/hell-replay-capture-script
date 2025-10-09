@@ -52,7 +52,8 @@
   {
     "name": "Meatball's Test Server",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1759992937
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -102,8 +103,7 @@
   {
     "name": "Hell Breaks Loose | BNKR Sweat & Commandos vs TWAT",
     "addr": "139.28.17.147",
-    "port": 7777,
-    "removed": 1759992300
+    "port": 7777
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -239,7 +239,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1759992937
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Training Server 2",
@@ -264,8 +265,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1759992300
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -1651,12 +1651,14 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759992937
   },
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1759992937
   },
   {
     "name": "Bob The Builder is down for maintenence discord.gg/btb",
