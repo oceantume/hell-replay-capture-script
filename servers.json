@@ -361,8 +361,7 @@
   {
     "name": "Death Korps of Krieg",
     "addr": "176.57.168.252",
-    "port": 28100,
-    "removed": 1759971641
+    "port": 28100
   },
   {
     "name": "Pirate Gaming - Hell Let Loose",
@@ -449,8 +448,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1759947064
+    "port": 28700
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -465,7 +463,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1759990300
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -485,7 +484,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1759990300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -566,7 +566,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1759990300
   },
   {
     "name": "QA Testing - EU #05",
@@ -706,7 +707,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1759990300
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1952,8 +1954,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1759971641
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
