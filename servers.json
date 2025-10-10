@@ -58,8 +58,7 @@
   {
     "name": "Meatball's Test Server",
     "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1760076708
+    "port": 10300
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -1741,7 +1740,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760077721
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1771,8 +1771,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1760076708
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -1924,8 +1923,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1760076708
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
