@@ -295,6 +295,11 @@
     "removed": 1760056346
   },
   {
+    "name": "Hell let loose (Australia) Server by g-portal.com",
+    "addr": "176.57.135.68",
+    "port": 28000
+  },
+  {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
@@ -328,8 +333,7 @@
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1759947064
+    "port": 28000
   },
   {
     "name": "Hellfire Company [ENG/DK] Offensive | new player friendly | See",
@@ -590,7 +594,7 @@
     "port": 8772
   },
   {
-    "name": "Armen la línea!",
+    "name": "Armen la linea!",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -658,7 +662,8 @@
   {
     "name": "[GER] 300 Spartaner / Mic Pflicht!",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760119846
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -891,8 +896,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760102031
+    "port": 20200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -961,7 +965,7 @@
     "port": 7777
   },
   {
-    "name": "Current Level: BF6 coming soon(D1CK)",
+    "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
     "addr": "206.53.0.15",
     "port": 7777
   },
@@ -979,12 +983,6 @@
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
-  },
-  {
-    "name": "CRCON Developer Test Server",
-    "addr": "208.115.201.134",
-    "port": 7777,
-    "removed": 1759515003
   },
   {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
@@ -1091,12 +1089,6 @@
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
     "port": 7777
-  },
-  {
-    "name": "THE MIDLINE – World’s First Midline only Server | EU | ENG",
-    "addr": "208.115.224.71",
-    "port": 7787,
-    "removed": 1759515003
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1378,6 +1370,11 @@
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
+  },
+  {
+    "name": "nitrado.net gameserver JnMXm13s",
+    "addr": "37.10.127.2",
+    "port": 10900
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1808,7 +1805,8 @@
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760119846
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1978,7 +1976,7 @@
     "port": 11255
   },
   {
-    "name": "[LATAM/ESP] URANIUM | STALINGRADO 24/7 | +35LVL | GPORTAL | dis",
+    "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
     "addr": "78.111.102.114",
     "port": 28200
   },
