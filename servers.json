@@ -660,10 +660,9 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner / Mic Pflicht!",
+    "name": "[GER] 300 Spartaner",
     "addr": "185.83.152.101",
-    "port": 9075,
-    "removed": 1760119846
+    "port": 9075
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -1750,7 +1749,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760122327
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1805,8 +1805,7 @@
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
-    "port": 7777,
-    "removed": 1760119846
+    "port": 7777
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
