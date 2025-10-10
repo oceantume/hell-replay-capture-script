@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1760036595
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -176,7 +175,8 @@
   {
     "name": "OPERATION BARBAROSSA | RUSSIAN MAP | # ( US East )",
     "addr": "144.126.153.213",
-    "port": 28900
+    "port": 28900,
+    "removed": 1760056346
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
@@ -236,8 +236,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1760011996
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -297,7 +296,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1760056346
   },
   {
     "name": "Warfrags Studios",
@@ -1022,7 +1022,7 @@
     "port": 7777
   },
   {
-    "name": "PL ※ ENG | DGM | Polski/Polish Server Only Stalingrad",
+    "name": "PL ※ ENG | DGM | Polski/Polish Server",
     "addr": "208.115.206.38",
     "port": 7787
   },
@@ -1212,8 +1212,7 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787,
-    "removed": 1759860648
+    "port": 7787
   },
   {
     "name": "[Latam - BR] Monte castelo Brasil",
@@ -1608,10 +1607,9 @@
     "port": 9075
   },
   {
-    "name": "Digger Company AU | Random Winter Map/Modes | discord.gg/digger",
+    "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1760014554
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
@@ -1633,8 +1631,7 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1759903895
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1745,8 +1742,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760036595
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -2106,14 +2102,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1760036595
-  },
-  {
-    "name": "TacticalSemiMilsim I US Central I https://discord.gg/Vd6BqNwyvE",
-    "addr": "83.223.207.55",
-    "port": 28500,
-    "removed": 1759451487
+    "port": 28400
   },
   {
     "name": "hll Server",
