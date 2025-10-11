@@ -277,8 +277,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1760166618
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -1152,12 +1151,6 @@
     "port": 7787
   },
   {
-    "name": "Polish Veterans / PZJR Event Server",
-    "addr": "208.115.248.106",
-    "port": 7817,
-    "removed": 1759579888
-  },
-  {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
@@ -1350,7 +1343,8 @@
   {
     "name": "[EU]-GHOST REGIMENT-Player Training 1v50 |discord.gg/7WGX6JwPTu",
     "addr": "31.56.0.37",
-    "port": 8777
+    "port": 8777,
+    "removed": 1760184697
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1427,8 +1421,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1760098424
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1473,7 +1466,8 @@
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
     "addr": "45.45.238.228",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760184697
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -2159,7 +2153,8 @@
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
     "addr": "88.209.197.59",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760184697
   },
   {
     "name": "{serverName}",
