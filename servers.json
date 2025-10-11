@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1760122913
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -59,7 +58,8 @@
   {
     "name": "Meatball's Test Server",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1760142629
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -595,7 +595,7 @@
     "port": 8772
   },
   {
-    "name": "Armen la linea!",
+    "name": "[LATAM] El Olimpo -360 Conducción- discord.gg/RVpRVBP2JQ",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -896,7 +896,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760142629
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1409,7 +1410,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760142629
   },
   {
     "name": "HLL Official - US West #03",
@@ -1492,6 +1494,11 @@
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
     "addr": "5.56.25.10",
     "port": 7697
+  },
+  {
+    "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
+    "addr": "5.56.25.10",
+    "port": 7717
   },
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
@@ -1818,7 +1825,7 @@
     "port": 7787
   },
   {
-    "name": "BREACH | LVL 25+ | US EAST | DISCORD.GG/BREACH-GG",
+    "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
     "port": 7777
   },
@@ -1902,8 +1909,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1760122913
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2076,12 +2082,14 @@
   {
     "name": "(US East) Hotel - Actual Lvl +50",
     "addr": "83.223.203.147",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760142629
   },
   {
     "name": "Meatball's OFFICIAL Test Server",
     "addr": "83.223.203.147",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760142629
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
