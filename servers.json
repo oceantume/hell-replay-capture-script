@@ -1743,7 +1743,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760207008
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
