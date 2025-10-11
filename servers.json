@@ -440,8 +440,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1760076708
+    "port": 28400
   },
   {
     "name": "QA Testing - EU #04",
@@ -572,7 +571,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760162990
   },
   {
     "name": "QA Testing - EU #05",
@@ -729,7 +729,8 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760162990
   },
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
@@ -856,12 +857,6 @@
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
-  },
-  {
-    "name": "[FR/BE] ♠ L'Académie ♠ LVL -150 | Serveur Débutants",
-    "addr": "193.160.23.21",
-    "port": 7777,
-    "removed": 1759558177
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
@@ -1693,7 +1688,7 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb for password",
+    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
   },
@@ -1756,7 +1751,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760162990
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1938,7 +1934,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760162990
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
