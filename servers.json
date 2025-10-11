@@ -510,7 +510,8 @@
   {
     "name": "Hell let Loose Server Piu",
     "addr": "176.57.171.176",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760206108
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -661,7 +662,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner",
+    "name": "[GER] 300 Spartaner / MIC Pflicht",
     "addr": "185.83.152.101",
     "port": 9075
   },
@@ -1183,8 +1184,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1760187757
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1378,15 +1378,14 @@
     "port": 28700
   },
   {
-    "name": "HLL Salute to All Vets",
+    "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
     "port": 28800
   },
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1760187757
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1396,8 +1395,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1760187757
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1623,8 +1621,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.105",
-    "port": 8530,
-    "removed": 1759947064
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1635,8 +1632,7 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1760076708
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1684,7 +1680,7 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
+    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb for password",
     "addr": "63.143.60.20",
     "port": 7777
   },
@@ -1803,6 +1799,11 @@
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
     "port": 7777
+  },
+  {
+    "name": "[EU]GHOST REGIMENT- NewPlayer Training| discord.gg/7WGX6JwPTu |",
+    "addr": "64.31.4.170",
+    "port": 7787
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1929,8 +1930,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1760187757
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2021,8 +2021,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1760033439
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2032,7 +2031,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760206108
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2047,8 +2047,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1760033439
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2257,10 +2256,9 @@
     "port": 7787
   },
   {
-    "name": "The Hive....New Players Welcome",
+    "name": "Hell Let Loose Server",
     "addr": "92.118.19.83",
-    "port": 7797,
-    "removed": 1759797140
+    "port": 7797
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
