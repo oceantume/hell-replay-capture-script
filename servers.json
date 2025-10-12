@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1760209545
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -501,7 +500,8 @@
   {
     "name": "[EU] Hell Let Loose : Offensive et Skirmish",
     "addr": "176.57.171.161",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760229260
   },
   {
     "name": "Borry‘s Playground",
@@ -553,8 +553,7 @@
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1760209545
+    "port": 28000
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -620,7 +619,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
-    "port": 7827
+    "port": 7827,
+    "removed": 1760229260
   },
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1035,8 +1035,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1759841768
+    "port": 7777
   },
   {
     "name": "[GER] Midgards Panzer Event Server",
@@ -1286,7 +1285,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797
+    "port": 7797,
+    "removed": 1760229260
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
@@ -1511,7 +1511,7 @@
     "port": 7877
   },
   {
-    "name": "CN4#散人猫猫社区|秋日微凉也要激战Q120748151",
+    "name": "CN4#散人猫猫攻防|秋日微凉也要攻防Q120748151",
     "addr": "5.56.25.100",
     "port": 7777
   },
@@ -1634,7 +1634,8 @@
   {
     "name": "HLL Server",
     "addr": "51.198.31.150",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760229260
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1682,7 +1683,7 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb for password",
+    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
   },
@@ -2306,7 +2307,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760229260
   },
   {
     "name": "HLL Official - Australia #01",
