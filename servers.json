@@ -1046,6 +1046,11 @@
     "port": 7787
   },
   {
+    "name": "Soulless Exiles—Veteran Owned—-New Players Welcome!!",
+    "addr": "208.115.212.78",
+    "port": 7777
+  },
+  {
     "name": "㋑ | Born To Kill - discord.gg/b2kgaming",
     "addr": "208.115.212.78",
     "port": 7787
@@ -1323,7 +1328,8 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "31.56.0.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760292534
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1379,8 +1385,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1760274208
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1396,14 +1401,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1760274208
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1760274208
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1581,7 +1584,8 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
     "addr": "5.56.25.25",
-    "port": 7797
+    "port": 7797,
+    "removed": 1760292534
   },
   {
     "name": "帝国社区训练专用服",
@@ -1602,6 +1606,11 @@
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
     "addr": "5.56.25.25",
     "port": 7837
+  },
+  {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
+    "addr": "5.56.25.25",
+    "port": 7847
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1931,8 +1940,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1760274208
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2033,8 +2041,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1760206108
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2306,13 +2313,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1760229260
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760292534
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
