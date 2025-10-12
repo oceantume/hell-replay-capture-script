@@ -535,12 +535,6 @@
     "port": 28200
   },
   {
-    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
-    "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1759666289
-  },
-  {
     "name": "Churchill's Dagger Division",
     "addr": "176.57.174.211",
     "port": 28600
@@ -848,8 +842,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1760253066
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -864,8 +857,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1760252344
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1422,7 +1414,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760271098
   },
   {
     "name": "HLL Official - US East #02",
