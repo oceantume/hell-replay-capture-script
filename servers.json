@@ -394,7 +394,8 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Wil",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760231032
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1000,7 +1001,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760231032
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1170,7 +1172,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760231032
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -1285,8 +1288,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1760229260
+    "port": 7797
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
@@ -1392,7 +1394,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760231032
   },
   {
     "name": "HLL Official - US West #02",
@@ -1412,7 +1415,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760231032
   },
   {
     "name": "HLL Official - US East #04",
@@ -1462,7 +1466,8 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760231032
   },
   {
     "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
@@ -1746,7 +1751,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760231032
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1776,7 +1782,8 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760231032
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2142,17 +2149,20 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760231032
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760231032
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760231032
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
