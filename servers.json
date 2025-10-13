@@ -577,7 +577,8 @@
   {
     "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
     "addr": "176.57.181.105",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760315718
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -756,12 +757,14 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1760315718
   },
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760315718
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -772,7 +775,8 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760315718
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1416,13 +1420,13 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760315718
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1760271098
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1828,7 +1832,8 @@
   {
     "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760315718
   },
   {
     "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
@@ -2026,12 +2031,14 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760315718
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760315718
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2041,7 +2048,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760315718
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2051,7 +2059,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760315718
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2265,7 +2274,7 @@
     "port": 7787
   },
   {
-    "name": "Hell Let Loose Server",
+    "name": "The Hive",
     "addr": "92.118.19.83",
     "port": 7797
   },
@@ -2273,12 +2282,6 @@
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
     "addr": "92.38.150.147",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose (Brazil) Server by g-portal.com",
-    "addr": "92.38.150.147",
-    "port": 29100,
-    "removed": 1759710796
   },
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
