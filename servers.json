@@ -299,7 +299,8 @@
   {
     "name": "Hell let loose (Australia) Server by g-portal.com",
     "addr": "176.57.135.68",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760379048
   },
   {
     "name": "Warfrags Studios",
@@ -471,8 +472,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1760335957
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -577,10 +577,9 @@
     "port": 28200
   },
   {
-    "name": "[GER] Das Bollwerk by trias-gaming.de | Mic Only",
+    "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
     "addr": "176.57.181.105",
-    "port": 28200,
-    "removed": 1760361379
+    "port": 28200
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -663,6 +662,11 @@
     "name": "[GER] 300 Spartaner / MIC Pflicht",
     "addr": "185.83.152.101",
     "port": 9075
+  },
+  {
+    "name": "Private Server A01",
+    "addr": "185.83.152.101",
+    "port": 9620
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -956,7 +960,8 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760379048
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -1331,8 +1336,7 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "31.56.0.21",
-    "port": 7777,
-    "removed": 1760292534
+    "port": 7777
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1368,7 +1372,8 @@
   {
     "name": "nitrado.net gameserver JnMXm13s",
     "addr": "37.10.127.2",
-    "port": 10900
+    "port": 10900,
+    "removed": 1760379048
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1756,7 +1761,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760379048
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1988,7 +1994,8 @@
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
     "addr": "78.111.102.114",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760379048
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -2029,14 +2036,12 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1760315718
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1760315718
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2046,8 +2051,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1760315718
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2319,8 +2323,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1760292534
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
