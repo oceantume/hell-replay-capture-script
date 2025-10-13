@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1760382112
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -960,8 +961,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1760381529
+    "port": 7777
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -1761,7 +1761,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760382112
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
