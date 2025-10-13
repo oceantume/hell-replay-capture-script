@@ -267,7 +267,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760337974
   },
   {
     "name": "HLL Official - Europe #01",
@@ -1025,8 +1026,7 @@
   {
     "name": "[GER] LwJg46 Bierstube",
     "addr": "208.115.206.76",
-    "port": 7777,
-    "removed": 1760336993
+    "port": 7777
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -2325,7 +2325,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1760336993
+    "port": 10700
   }
 ]
