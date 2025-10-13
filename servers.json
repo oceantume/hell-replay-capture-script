@@ -282,7 +282,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760335957
   },
   {
     "name": "HLL Official - Europe #05",
@@ -394,8 +395,7 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Wil",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1760317521
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -471,7 +471,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760335957
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -994,8 +995,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1760317521
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1125,8 +1125,7 @@
   {
     "name": "CBMS",
     "addr": "208.115.226.4",
-    "port": 7777,
-    "removed": 1760317521
+    "port": 7777
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1171,8 +1170,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1760317521
+    "port": 7777
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -1612,7 +1610,7 @@
     "port": 7837
   },
   {
-    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "5.56.25.25",
     "port": 7847
   },
@@ -1788,8 +1786,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1760317521
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2158,20 +2155,17 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1760317521
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1760317521
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1760317521
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
