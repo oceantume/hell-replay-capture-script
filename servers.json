@@ -889,8 +889,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760339359
+    "port": 20200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1049,7 +1048,7 @@
     "port": 7787
   },
   {
-    "name": "Soulless Exiles—Veteran Owned—-New Players Welcome!!",
+    "name": "Exiled—USMC Veteran Owned—-New Players Welcome!!",
     "addr": "208.115.212.78",
     "port": 7777
   },
@@ -1368,8 +1367,7 @@
   {
     "name": "nitrado.net gameserver JnMXm13s",
     "addr": "37.10.127.2",
-    "port": 10900,
-    "removed": 1760339359
+    "port": 10900
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1420,8 +1418,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1760315718
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1451,7 +1448,8 @@
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
     "addr": "45.143.199.235",
-    "port": 10710
+    "port": 10710,
+    "removed": 1760357621
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
