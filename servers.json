@@ -394,7 +394,7 @@
     "port": 28000
   },
   {
-    "name": "Krieg - CZ/SK/EU - The Emperor's Wil",
+    "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
     "port": 28100
   },
@@ -608,7 +608,7 @@
     "port": 7847
   },
   {
-    "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
+    "name": "Ronin EVENTS / BR Hosted Server",
     "addr": "181.214.221.41",
     "port": 7777
   },
@@ -763,14 +763,12 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1760446667
+    "port": 7877
   },
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777,
-    "removed": 1760446667
+    "port": 7777
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -781,8 +779,7 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1760446667
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -897,7 +894,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760465478
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1832,8 +1830,7 @@
   {
     "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
-    "port": 7777,
-    "removed": 1760446667
+    "port": 7777
   },
   {
     "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
@@ -2055,8 +2052,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1760444049
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2198,12 +2194,6 @@
     "port": 28600
   },
   {
-    "name": "Team17",
-    "addr": "92.118.16.126",
-    "port": 7777,
-    "removed": 1759860648
-  },
-  {
     "name": "Mapping HLL",
     "addr": "92.118.16.90",
     "port": 7787
@@ -2295,8 +2285,13 @@
     "port": 29400
   },
   {
-    "name": "Ronin EVENTS / BR Hosted Server",
+    "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.89",
+    "port": 29100
+  },
+  {
+    "name": "Pg/Esp- LatAm Battlegrounds/TRINCHERAS/VS/CASUAL;)",
+    "addr": "92.38.151.91",
     "port": 29100
   },
   {
