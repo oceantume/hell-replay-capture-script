@@ -282,13 +282,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1760335957
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760422329
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -432,7 +432,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760422329
   },
   {
     "name": "DevQA - EU #02",
@@ -894,7 +895,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760422329
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -960,8 +962,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1760401924
+    "port": 7777
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -1071,12 +1072,14 @@
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.214.218",
-    "port": 7867
+    "port": 7867,
+    "removed": 1760422329
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760422329
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -1166,7 +1169,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760422329
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
@@ -1761,8 +1765,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760403629
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -2136,7 +2139,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760422329
   },
   {
     "name": "Q's - Qonzer.com | Event Server #3 | London",
@@ -2320,6 +2324,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1760422329
   }
 ]
