@@ -232,8 +232,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1760445195
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -765,12 +764,14 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1760446667
   },
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760446667
   },
   {
     "name": "Helios Create and Destroy : US EAST",
@@ -781,7 +782,8 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760446667
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -962,8 +964,7 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777,
-    "removed": 1760444049
+    "port": 7777
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -978,8 +979,7 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "206.53.0.19",
-    "port": 7777,
-    "removed": 1760445195
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
@@ -1278,7 +1278,7 @@
     "port": 9075
   },
   {
-    "name": "Chimera | Australia | OCE 3",
+    "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "221.121.139.3",
     "port": 7777
   },
@@ -1759,8 +1759,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760444049
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1835,7 +1834,8 @@
   {
     "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760446667
   },
   {
     "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
@@ -2120,8 +2120,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1760445195
+    "port": 28400
   },
   {
     "name": "hll Server",
