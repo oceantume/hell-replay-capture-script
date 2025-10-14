@@ -895,8 +895,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760422329
+    "port": 20200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -962,7 +961,8 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760424268
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -1762,7 +1762,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760424268
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
