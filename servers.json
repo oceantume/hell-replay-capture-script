@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1760468540
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -267,7 +268,8 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760468540
   },
   {
     "name": "HLL Official - Europe #01",
@@ -305,7 +307,8 @@
   {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760468540
   },
   {
     "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
@@ -346,8 +349,7 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1760467954
+    "port": 28200
   },
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)https://disc",
@@ -895,7 +897,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760468540
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1187,7 +1190,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760468540
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1567,7 +1571,8 @@
   {
     "name": "CN1#散人猫猫社区|萌新军官当然来的咖啡馆Q120748",
     "addr": "5.56.25.100",
-    "port": 7887
+    "port": 7887,
+    "removed": 1760468540
   },
   {
     "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
@@ -2312,6 +2317,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1760468540
   }
 ]
