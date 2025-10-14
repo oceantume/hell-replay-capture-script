@@ -17,7 +17,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1760444049
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -733,8 +734,7 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1760162990
+    "port": 8530
   },
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
@@ -961,7 +961,8 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "206.53.0.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760444049
   },
   {
     "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
@@ -1031,7 +1032,8 @@
   {
     "name": "[GER] LwJg46 Bierstube",
     "addr": "208.115.206.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760444049
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -1718,12 +1720,6 @@
     "port": 10710
   },
   {
-    "name": "[LATAM] |ESP| ¿QUE ES UN GARRY? | [VKR]",
-    "addr": "64.20.50.186",
-    "port": 8530,
-    "removed": 1759839236
-  },
-  {
     "name": "[D.C.] Devils Company - ENTRENAMIENTOS - Discord: devilscompany",
     "addr": "64.20.50.186",
     "port": 9075
@@ -1761,7 +1757,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760444049
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -2058,7 +2055,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760444049
   },
   {
     "name": "HLL Official - Asia #03",
