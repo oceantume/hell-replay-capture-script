@@ -252,8 +252,7 @@
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
     "addr": "176.31.232.159",
-    "port": 8530,
-    "removed": 1760490186
+    "port": 8530
   },
   {
     "name": "CDS",
@@ -283,13 +282,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760508717
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1760422329
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -433,8 +432,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1760422329
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -663,7 +661,8 @@
   {
     "name": "[GER] 300 Spartaner / MIC Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760508717
   },
   {
     "name": "Private Server A01",
@@ -860,7 +859,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760508717
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
@@ -2150,20 +2150,17 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1760490186
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1760490186
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1760490186
+    "port": 7787
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
