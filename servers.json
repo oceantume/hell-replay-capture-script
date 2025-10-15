@@ -17,7 +17,8 @@
   {
     "name": "Chimera | Australia | OCE 3",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1760533090
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -2111,8 +2112,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1760531630
+    "port": 28400
   },
   {
     "name": "hll Server",
