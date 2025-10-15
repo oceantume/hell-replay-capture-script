@@ -330,12 +330,6 @@
     "port": 28200
   },
   {
-    "name": "[FR] ★ Crazy French Team ★ 100% RP",
-    "addr": "176.57.153.114",
-    "port": 28300,
-    "removed": 1759947064
-  },
-  {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
     "port": 28000
@@ -615,7 +609,8 @@
   {
     "name": "Ronin EVENTS / BR Hosted Server",
     "addr": "181.214.221.41",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760551890
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1189,6 +1184,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.251.114",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -1651,12 +1651,6 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "51.195.170.105",
-    "port": 9075,
-    "removed": 1759947064
-  },
-  {
     "name": "HLL Server",
     "addr": "51.198.31.150",
     "port": 7777,
@@ -1805,6 +1799,11 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
+    "port": 7777
+  },
+  {
+    "name": "Ronin EVENTS / Miameeee Hosted Server",
+    "addr": "64.31.31.124",
     "port": 7777
   },
   {
@@ -2041,7 +2040,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760551890
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2173,12 +2173,6 @@
     "port": 28300
   },
   {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1759947064
-  },
-  {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
     "port": 28000
@@ -2212,12 +2206,6 @@
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
     "port": 7777
-  },
-  {
-    "name": "=ROTN= | Rangers of the North | Event and Training Server",
-    "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1759947064
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
