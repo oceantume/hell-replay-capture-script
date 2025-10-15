@@ -231,7 +231,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1760530479
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -411,8 +412,7 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300,
-    "removed": 1759929353
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #08",
@@ -769,12 +769,6 @@
     "name": "AS YT",
     "addr": "192.169.95.179",
     "port": 7777
-  },
-  {
-    "name": "Helios Create and Destroy : US EAST",
-    "addr": "192.169.95.181",
-    "port": 7777,
-    "removed": 1759925648
   },
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
@@ -1428,17 +1422,20 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760530479
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760530479
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760530479
   },
   {
     "name": "HLL Official - US East #05",
@@ -1453,7 +1450,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760530479
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1842,12 +1840,6 @@
     "port": 7777
   },
   {
-    "name": "Bob the Builder Official | XP Farm |discord.gg/bobthebuilder",
-    "addr": "64.31.59.76",
-    "port": 7777,
-    "removed": 1759925648
-  },
-  {
     "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
     "addr": "64.31.59.77",
     "port": 7777
@@ -2199,7 +2191,7 @@
     "port": 28600
   },
   {
-    "name": "Mapping HLL",
+    "name": "Test HLL",
     "addr": "92.118.16.90",
     "port": 7787
   },
