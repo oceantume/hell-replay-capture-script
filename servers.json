@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1760641420
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -649,8 +650,7 @@
   {
     "name": "[GER] 300 Spartaner / MIC Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075,
-    "removed": 1760640812
+    "port": 9075
   },
   {
     "name": "Private Server A01",
@@ -1732,8 +1732,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760640205
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
