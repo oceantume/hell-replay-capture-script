@@ -41,12 +41,6 @@
     "port": 7776
   },
   {
-    "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
-    "addr": "108.165.230.224",
-    "port": 7777,
-    "removed": 1760011996
-  },
-  {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
     "addr": "108.165.230.224",
     "port": 7787
@@ -136,12 +130,6 @@
     "name": "EG event server",
     "addr": "141.105.66.70",
     "port": 9075
-  },
-  {
-    "name": "[PKKA]-Russian Server (Only RU) - discord.gg/PKKA",
-    "addr": "141.105.66.70",
-    "port": 9620,
-    "removed": 1760011996
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -407,7 +395,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760616828
   },
   {
     "name": "QA Testing - EU #08",
@@ -892,12 +881,6 @@
     "port": 20200
   },
   {
-    "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
-    "addr": "195.82.158.186",
-    "port": 21300,
-    "removed": 1760011996
-  },
-  {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
     "port": 20900
@@ -1186,7 +1169,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.251.114",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760616828
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1432,25 +1416,23 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1760530479
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1760530479
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1760530479
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760616828
   },
   {
     "name": "HLL Official - US East #03",
@@ -1871,8 +1853,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.60.82",
-    "port": 8530,
-    "removed": 1760598480
+    "port": 8530
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -1927,8 +1908,7 @@
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
     "addr": "67.217.48.14",
-    "port": 9620,
-    "removed": 1760598480
+    "port": 9620
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1983,7 +1963,8 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255
+    "port": 11255,
+    "removed": 1760616828
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
