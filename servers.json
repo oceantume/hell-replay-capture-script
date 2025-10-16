@@ -778,7 +778,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760597696
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -888,7 +889,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760597696
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -2306,6 +2308,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1760597696
   }
 ]
