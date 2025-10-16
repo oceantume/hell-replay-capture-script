@@ -889,8 +889,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760597696
+    "port": 20200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -1872,7 +1871,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.60.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760598480
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -1927,7 +1927,8 @@
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
     "addr": "67.217.48.14",
-    "port": 9620
+    "port": 9620,
+    "removed": 1760598480
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2308,7 +2309,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1760597696
+    "port": 10700
   }
 ]
