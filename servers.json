@@ -767,8 +767,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1760597696
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -2104,7 +2103,8 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400
+    "port": 28400,
+    "removed": 1760617957
   },
   {
     "name": "hll Server",
