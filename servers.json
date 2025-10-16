@@ -217,8 +217,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1760574809
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -285,14 +284,12 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1760508717
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1760574809
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -617,8 +614,7 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
-    "port": 7827,
-    "removed": 1760229260
+    "port": 7827
   },
   {
     "name": "[LATAM/ESP] CLAN | CTM | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -831,8 +827,7 @@
   {
     "name": "[GER] Omen Event & Match Server #3",
     "addr": "193.160.22.58",
-    "port": 7787,
-    "removed": 1760574809
+    "port": 7787
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
@@ -842,8 +837,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1760574809
+    "port": 7877
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1004,7 +998,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760576554
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1180,7 +1175,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760576554
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -1792,7 +1788,8 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760576554
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2070,8 +2067,7 @@
   {
     "name": "[FR] La Guerre Des Boutons",
     "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1760574809
+    "port": 28000
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -2153,17 +2149,20 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760576554
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760576554
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760576554
   },
   {
     "name": "63rd Infantry Division | Blood & Fire | Level 75+",
