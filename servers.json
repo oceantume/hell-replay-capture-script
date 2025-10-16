@@ -195,7 +195,8 @@
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1760620631
   },
   {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
@@ -497,8 +498,7 @@
   {
     "name": "Hell let Loose Server Piu",
     "addr": "176.57.171.176",
-    "port": 28100,
-    "removed": 1760206108
+    "port": 28100
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -723,6 +723,11 @@
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
+  },
+  {
+    "name": "hll Server",
+    "addr": "192.169.90.202",
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
@@ -1392,8 +1397,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1760534268
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1403,8 +1407,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1760534268
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
