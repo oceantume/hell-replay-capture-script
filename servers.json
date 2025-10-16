@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1760555083
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -218,7 +217,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760574809
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -291,7 +291,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760574809
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -830,7 +831,8 @@
   {
     "name": "[GER] Omen Event & Match Server #3",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760574809
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
@@ -840,7 +842,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1760574809
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -890,8 +893,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760555083
+    "port": 20200
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -907,8 +909,7 @@
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
     "addr": "198.244.177.7",
-    "port": 8530,
-    "removed": 1760555083
+    "port": 8530
   },
   {
     "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
@@ -1287,7 +1288,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Gottimperator Ecko | Mic Pflicht",
+    "name": "[GER] Fliesentisch-Veteranen #2 | BFTB | Maybe Lag-Free",
     "addr": "23.111.240.210",
     "port": 9075
   },
@@ -1461,8 +1462,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1760530479
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -2070,7 +2070,8 @@
   {
     "name": "[FR] La Guerre Des Boutons",
     "addr": "83.223.203.138",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760574809
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -2253,8 +2254,7 @@
   {
     "name": "The Hive",
     "addr": "92.118.19.83",
-    "port": 7797,
-    "removed": 1760488433
+    "port": 7797
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
@@ -2309,7 +2309,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1760555083
+    "port": 10700
   }
 ]
