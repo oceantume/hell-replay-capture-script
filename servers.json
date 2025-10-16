@@ -649,7 +649,8 @@
   {
     "name": "[GER] 300 Spartaner / MIC Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760640812
   },
   {
     "name": "Private Server A01",
@@ -659,8 +660,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1760036595
+    "port": 7807
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -1635,7 +1635,7 @@
     "port": 8530
   },
   {
-    "name": "[KSK] The Cattlesheds | A Tankers Heaven!",
+    "name": "[KSK] [EU/ENG] The Cattlesheds | Femboys & New Players welcome!",
     "addr": "51.77.66.51",
     "port": 9620
   },
