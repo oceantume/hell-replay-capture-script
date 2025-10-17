@@ -106,7 +106,8 @@
   {
     "name": "Hell Breaks Loose | BNKR Sweat & Commandos vs TWAT",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760703201
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -1388,7 +1389,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760703201
   },
   {
     "name": "HLL Official - US East #04",
@@ -1408,8 +1410,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1760616828
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1419,8 +1420,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1760661174
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1483,8 +1483,7 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.10",
-    "port": 7787,
-    "removed": 1760684710
+    "port": 7787
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1942,8 +1941,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255,
-    "removed": 1760616828
+    "port": 11255
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
