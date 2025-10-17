@@ -217,7 +217,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1760704324
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -228,12 +229,6 @@
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
-  },
-  {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
-    "addr": "172.96.172.104",
-    "port": 7807,
-    "removed": 1760098424
   },
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
@@ -625,12 +620,6 @@
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
     "addr": "185.216.145.154",
     "port": 9075
-  },
-  {
-    "name": "[GER] Mettmanufaktur | discord.gg/xzgnTNVPq8 | MIC ONLY | & Mor",
-    "addr": "185.83.152.101",
-    "port": 10165,
-    "removed": 1760098424
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | GTX | GER",
@@ -1196,12 +1185,6 @@
     "port": 7797
   },
   {
-    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
-    "addr": "216.144.245.82",
-    "port": 7797,
-    "removed": 1760098424
-  },
-  {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
     "addr": "216.144.245.83",
     "port": 7787
@@ -1210,18 +1193,6 @@
     "name": "Oceanic Ocelots Server | Japan",
     "addr": "216.144.245.84",
     "port": 7777
-  },
-  {
-    "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
-    "addr": "216.144.245.85",
-    "port": 7777,
-    "removed": 1760098424
-  },
-  {
-    "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
-    "addr": "216.144.245.86",
-    "port": 7787,
-    "removed": 1760098424
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
