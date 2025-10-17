@@ -869,8 +869,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760683412
+    "port": 20200
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1484,7 +1483,8 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.10",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760684710
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
