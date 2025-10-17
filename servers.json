@@ -869,7 +869,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760683412
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1936,8 +1937,7 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "74.63.231.3",
-    "port": 7777,
-    "removed": 1760682477
+    "port": 7777
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
