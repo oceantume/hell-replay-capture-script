@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1760641420
+    "port": 8888
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -90,7 +89,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1760661174
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -158,12 +158,6 @@
     "port": 28800
   },
   {
-    "name": "OPERATION BARBAROSSA | RUSSIAN MAP | # ( US East )",
-    "addr": "144.126.153.213",
-    "port": 28900,
-    "removed": 1760056346
-  },
-  {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
     "port": 29000
@@ -221,8 +215,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1760530479
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -280,12 +273,6 @@
     "addr": "176.57.134.62",
     "port": 28500,
     "removed": 1760595126
-  },
-  {
-    "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
-    "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1760056346
   },
   {
     "name": "Hell let loose (Australia) Server by g-portal.com",
@@ -765,8 +752,7 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1760638253
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -944,7 +930,7 @@
     "port": 7777
   },
   {
-    "name": "Current Level: Join the discord, we are playing BF6(D1CK)",
+    "name": "Current Level: spook hunting season(D1CK)",
     "addr": "206.53.0.15",
     "port": 7777
   },
@@ -1070,7 +1056,7 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM EVENT |LOW PING| PBSGAMETEAM .COM",
+    "name": "hll Server",
     "addr": "208.115.214.221",
     "port": 7777
   },
@@ -1431,7 +1417,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760661174
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -2019,8 +2006,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1760488433
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
