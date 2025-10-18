@@ -858,7 +858,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1760749105
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1690,8 +1691,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760747441
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
