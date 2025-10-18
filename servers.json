@@ -251,8 +251,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1760747441
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -981,7 +980,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 Dírty's R&D",
+    "name": "[13SNC] #2 - Dírty's R&D",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1695,8 +1694,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760751480
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
