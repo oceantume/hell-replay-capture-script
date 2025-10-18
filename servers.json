@@ -326,6 +326,11 @@
     "port": 28100
   },
   {
+    "name": "FR/BE Front de Normandie 1944",
+    "addr": "176.57.168.250",
+    "port": 28200
+  },
+  {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
     "port": 28200
@@ -858,8 +863,7 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1760749105
+    "port": 20200
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1691,7 +1695,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760751480
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
