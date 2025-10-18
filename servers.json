@@ -115,8 +115,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165,
-    "removed": 1760792678
+    "port": 10165
   },
   {
     "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
@@ -126,8 +125,7 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1760792678
+    "port": 9075
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -512,7 +510,8 @@
   {
     "name": "(AUT) Austrian Server #NEW # Anfängerfreundlich",
     "addr": "176.57.174.211",
-    "port": 28400
+    "port": 28400,
+    "removed": 1760810943
   },
   {
     "name": "Churchill's Dagger Division",
@@ -1065,8 +1064,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1760638253
+    "port": 7777
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
@@ -1106,7 +1104,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.226.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760810943
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1154,10 +1153,9 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1760616828
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1691,8 +1689,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760792678
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1957,7 +1954,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760810943
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1982,7 +1980,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1760810943
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2210,8 +2209,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1760724555
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
