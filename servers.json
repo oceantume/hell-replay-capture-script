@@ -115,7 +115,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165
+    "port": 10165,
+    "removed": 1760792678
   },
   {
     "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
@@ -125,7 +126,8 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760792678
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -1689,7 +1691,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760792678
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
