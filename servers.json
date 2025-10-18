@@ -52,12 +52,6 @@
     "port": 24100
   },
   {
-    "name": "Meatball's Test Server",
-    "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1760142629
-  },
-  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -257,7 +251,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1760747441
   },
   {
     "name": "QA Testing - EU #03",
@@ -733,8 +728,7 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1760724555
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -957,7 +951,7 @@
     "port": 7777
   },
   {
-    "name": "[GER/ENG] Trinity´s Ballerbude",
+    "name": "[GER] Trinity´s Ballerbude",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1696,7 +1690,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760747441
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1961,8 +1956,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1760724555
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2008,18 +2002,6 @@
     "name": "Study Hall",
     "addr": "83.223.203.138",
     "port": 28300
-  },
-  {
-    "name": "(US East) Hotel - Actual Lvl +50",
-    "addr": "83.223.203.147",
-    "port": 28000,
-    "removed": 1760142629
-  },
-  {
-    "name": "Meatball's OFFICIAL Test Server",
-    "addr": "83.223.203.147",
-    "port": 28300,
-    "removed": 1760142629
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
