@@ -903,7 +903,8 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8888
+    "port": 8888,
+    "removed": 1760811864
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1689,7 +1690,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760811864
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
