@@ -33,8 +33,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1760681479
+    "port": 28300
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -236,7 +235,8 @@
   {
     "name": "CDS",
     "addr": "176.31.232.159",
-    "port": 9075
+    "port": 9075,
+    "removed": 1760789530
   },
   {
     "name": "QA Testing - EU #02",
@@ -325,7 +325,7 @@
     "port": 28100
   },
   {
-    "name": "FR/BE Front de Normandie 1944",
+    "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
     "addr": "176.57.168.250",
     "port": 28200
   },
@@ -1293,12 +1293,6 @@
     "port": 7787
   },
   {
-    "name": "[EU]-GHOST REGIMENT-Player Training 1v50 |discord.gg/7WGX6JwPTu",
-    "addr": "31.56.0.37",
-    "port": 8777,
-    "removed": 1760184697
-  },
-  {
     "name": "①︱THE CIRCLE #1︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
     "addr": "31.56.0.41",
     "port": 7817
@@ -1384,7 +1378,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1760789530
   },
   {
     "name": "HLL Official - US East #03",
@@ -1394,7 +1389,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760789530
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1416,12 +1412,6 @@
     "name": "hll Server",
     "addr": "45.151.81.210",
     "port": 7777
-  },
-  {
-    "name": "63rd Infantry Division - Event Server[Recruiting Now][discord.g",
-    "addr": "45.45.238.228",
-    "port": 8530,
-    "removed": 1760184697
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -2082,12 +2072,6 @@
     "port": 7787
   },
   {
-    "name": "63rd Infantry Division | Blood & Fire | Level 75+",
-    "addr": "88.209.197.59",
-    "port": 8530,
-    "removed": 1760184697
-  },
-  {
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
@@ -2165,7 +2149,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "92.118.19.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760789530
   },
   {
     "name": "The Hive",
