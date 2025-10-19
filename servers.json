@@ -604,6 +604,11 @@
     "port": 10710
   },
   {
+    "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
+    "addr": "185.216.144.75",
+    "port": 11255
+  },
+  {
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
     "port": 8530
@@ -869,7 +874,7 @@
     "port": 8530
   },
   {
-    "name": "☆ UKLL | UK Let Loose ☆ discord.gg/ukll - New Players Welco",
+    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
     "port": 9620
   },
@@ -917,6 +922,11 @@
     "name": "HORANG / Ocelots Event Server | US WEST |",
     "addr": "206.53.0.11",
     "port": 7777
+  },
+  {
+    "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
+    "addr": "206.53.0.11",
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -1037,14 +1047,12 @@
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.214.218",
-    "port": 7867,
-    "removed": 1760854235
+    "port": 7867
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777,
-    "removed": 1760857219
+    "port": 7777
   },
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
@@ -1135,8 +1143,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1760856691
+    "port": 7777
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
@@ -1369,7 +1376,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1760875921
   },
   {
     "name": "HLL Official - US East #02",
@@ -1379,8 +1387,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1760789530
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1518,6 +1525,11 @@
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
     "addr": "5.56.25.100",
     "port": 7917
+  },
+  {
+    "name": "Chimera | Japan | discord.gg/CHMA",
+    "addr": "5.56.25.11",
+    "port": 7777
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
@@ -1690,7 +1702,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760875921
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1740,7 +1753,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760875921
   },
   {
     "name": "Go学长服务器[加群979552783]",
@@ -1820,7 +1834,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760875921
   },
   {
     "name": "I love playing APEX",
@@ -2047,8 +2062,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1760856098
+    "port": 7777
   },
   {
     "name": "Q's - Qonzer.com | Event Server #3 | London",
