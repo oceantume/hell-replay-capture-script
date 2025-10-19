@@ -472,12 +472,6 @@
     "port": 28100
   },
   {
-    "name": "[EU] Hell Let Loose : Offensive et Skirmish",
-    "addr": "176.57.171.161",
-    "port": 28200,
-    "removed": 1760229260
-  },
-  {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
@@ -906,6 +900,11 @@
     "port": 8888
   },
   {
+    "name": "HCIA Dev Server",
+    "addr": "203.23.178.51",
+    "port": 8898
+  },
+  {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
@@ -1230,7 +1229,8 @@
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
     "addr": "31.56.0.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760834245
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
@@ -1476,17 +1476,20 @@
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "5.56.25.100",
-    "port": 7817
+    "port": 7817,
+    "removed": 1760834245
   },
   {
     "name": "HLL Server",
     "addr": "5.56.25.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1760834245
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
-    "port": 7837
+    "port": 7837,
+    "removed": 1760834245
   },
   {
     "name": "CN#3 FJ空降兵瓦学弟极限强度服(纯冲突)Q:979552783",
