@@ -326,7 +326,8 @@
   {
     "name": "#2 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
     "addr": "176.57.168.250",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760940728
   },
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
@@ -337,6 +338,11 @@
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
     "port": 28200
+  },
+  {
+    "name": "#01 - only US Maps - multi-clan.dk - HLL [ EU ] Danmark",
+    "addr": "176.57.168.251",
+    "port": 28300
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -366,7 +372,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760940728
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -534,7 +541,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1760940728
   },
   {
     "name": "QA Testing - UK #07",
