@@ -1214,7 +1214,8 @@
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
     "addr": "216.144.245.83",
-    "port": 7787
+    "port": 7787,
+    "removed": 1760965024
   },
   {
     "name": "Oceanic Ocelots Server | Japan",
@@ -1708,8 +1709,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760963569
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
