@@ -278,12 +278,6 @@
     "port": 28400
   },
   {
-    "name": "Hell let loose (Australia) Server by g-portal.com",
-    "addr": "176.57.135.68",
-    "port": 28000,
-    "removed": 1760379048
-  },
-  {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
@@ -405,6 +399,11 @@
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
+  },
+  {
+    "name": "Team17 CERT",
+    "addr": "176.57.168.38",
+    "port": 28500
   },
   {
     "name": "CZ/SK",
@@ -705,6 +704,11 @@
     "port": 7787
   },
   {
+    "name": "[XBOX] | Hell Let Loose | US Server",
+    "addr": "192.169.86.212",
+    "port": 7777
+  },
+  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
     "port": 7777
@@ -747,7 +751,8 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797
+    "port": 7797,
+    "removed": 1760983876
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -828,6 +833,16 @@
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
     "port": 7877
+  },
+  {
+    "name": "1ST. Infantry Division EU | discord.gg/1stid | Qonzer",
+    "addr": "193.160.22.60",
+    "port": 7777
+  },
+  {
+    "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 2",
+    "addr": "193.160.22.62",
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1267,6 +1282,11 @@
     "port": 7877
   },
   {
+    "name": "HLL FINLAND | Suomiservu | EU | discord.gg/FmHdHGAKCM",
+    "addr": "31.56.0.14",
+    "port": 7777
+  },
+  {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "31.56.0.14",
     "port": 7787
@@ -1287,9 +1307,19 @@
     "port": 7787
   },
   {
+    "name": "HLL FINLAND | Suomiservu | Events & Training | OFIN | EU",
+    "addr": "31.56.0.15",
+    "port": 7797
+  },
+  {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
     "port": 7787
+  },
+  {
+    "name": "[FR/EN] Team L9o | Warfare ONLY | discord.l9o.fr",
+    "addr": "31.56.0.17",
+    "port": 7807
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1330,12 +1360,6 @@
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
     "port": 7777
-  },
-  {
-    "name": "nitrado.net gameserver JnMXm13s",
-    "addr": "37.10.127.2",
-    "port": 10900,
-    "removed": 1760379048
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1707,10 +1731,14 @@
     "port": 7777
   },
   {
+    "name": "1ST. Infantry NA East | LVL35+ | discord.gg/1stid | Qonzer",
+    "addr": "64.31.2.219",
+    "port": 7877
+  },
+  {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1760966171
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1791,6 +1819,11 @@
   {
     "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
+    "port": 7777
+  },
+  {
+    "name": "Darkhorse | Sunday Funday",
+    "addr": "64.31.58.60",
     "port": 7777
   },
   {
@@ -1900,6 +1933,11 @@
     "port": 7827
   },
   {
+    "name": "1ST. Infantry Baddie Division NA Central | discord.gg/1stid | Q",
+    "addr": "69.162.102.52",
+    "port": 7777
+  },
+  {
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1987,7 +2025,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760983876
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2002,8 +2041,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1760810943
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2231,7 +2269,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1760983876
   },
   {
     "name": "HLL Official - Australia #01",
