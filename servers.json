@@ -10,6 +10,11 @@
     "port": 7807
   },
   {
+    "name": "BigD.com.au AU#3 | Testing | discord.gg/bigd",
+    "addr": "103.193.80.26",
+    "port": 7807
+  },
+  {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
     "port": 7777
@@ -892,7 +897,8 @@
   {
     "name": "#1 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1760962433
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1355,8 +1361,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1760595126
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1376,19 +1381,18 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1760703201
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1760962433
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1760875921
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1408,14 +1412,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1760789530
-  },
-  {
-    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
-    "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1760357621
+    "port": 28700
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1591,6 +1588,11 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
+  },
+  {
+    "name": "HLL Server",
+    "addr": "51.19.142.3",
+    "port": 7777
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
