@@ -897,8 +897,7 @@
   {
     "name": "#1 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1760962433
+    "port": 8530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1709,7 +1708,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1760963569
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
