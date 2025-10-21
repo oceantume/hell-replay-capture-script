@@ -10,7 +10,7 @@
     "port": 7807
   },
   {
-    "name": "BigD.com.au AU#3 | Testing | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7807
   },
@@ -22,8 +22,7 @@
   {
     "name": "Chimera | Australia | OCE 3",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1760533090
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -38,7 +37,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761048844
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -276,7 +276,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1761048844
   },
   {
     "name": "Warfrags Studios",
@@ -372,8 +373,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1760940728
+    "port": 28000
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -480,8 +480,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1761027123
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -501,8 +500,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1761006820
+    "port": 28300
   },
   {
     "name": "[HTD] HaiiTeD not Lovely | Mikroplastik | GER-ENG",
@@ -548,8 +546,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1760940728
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -710,12 +707,18 @@
   {
     "name": "[XBOX] | Hell Let Loose | US Server",
     "addr": "192.169.86.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
     "port": 7777
+  },
+  {
+    "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
+    "addr": "192.169.86.213",
+    "port": 7787
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -770,7 +773,8 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -803,7 +807,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -813,7 +817,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -825,7 +829,8 @@
   {
     "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 1",
     "addr": "193.160.22.58",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "[GER] Omen Event & Match Server #3",
@@ -966,7 +971,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "206.53.0.11",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761048844
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -1208,12 +1214,14 @@
   {
     "name": "[KRTS] Krauts-Server 2 | GER | discord.gg/cxpj7aFMzq",
     "addr": "208.115.251.115",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.251.116",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1291,12 +1299,12 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "31.56.0.11",
     "port": 7797
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "31.56.0.13",
     "port": 7877
   },
@@ -1331,14 +1339,15 @@
     "port": 7797
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "31.56.0.17",
     "port": 7787
   },
   {
     "name": "[FR/EN] Team L9o | Warfare ONLY | discord.l9o.fr",
     "addr": "31.56.0.17",
-    "port": 7807
+    "port": 7807,
+    "removed": 1761048844
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1363,8 +1372,7 @@
   {
     "name": "Q's - Qonzer.com | Event Server #2 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787,
-    "removed": 1761027123
+    "port": 7787
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1414,7 +1422,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761048844
   },
   {
     "name": "HLL Official - US West #03",
@@ -1429,8 +1438,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1760962433
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1445,7 +1453,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761048844
   },
   {
     "name": "HLL Official - US East #03",
@@ -1495,7 +1504,8 @@
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.10",
-    "port": 7727
+    "port": 7727,
+    "removed": 1761048844
   },
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
@@ -1505,7 +1515,8 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.10",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761048844
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1538,14 +1549,15 @@
     "port": 7817
   },
   {
-    "name": "HLL Server",
+    "name": "hll Server",
     "addr": "5.56.25.100",
     "port": 7827
   },
   {
     "name": "CN ACE 养老院晋升之路Q:558699689",
     "addr": "5.56.25.100",
-    "port": 7837
+    "port": 7837,
+    "removed": 1761048844
   },
   {
     "name": "CN#3 FJ空降兵瓦学弟极限强度服(纯冲突)Q:979552783",
@@ -1573,9 +1585,15 @@
     "port": 7897
   },
   {
+    "name": "hll Server",
+    "addr": "5.56.25.100",
+    "port": 7907
+  },
+  {
     "name": "CN# ッ深夜食堂萌新进阶欢乐服SYST JP Q群:1017723887",
     "addr": "5.56.25.100",
-    "port": 7917
+    "port": 7917,
+    "removed": 1761048844
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1615,7 +1633,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "5.56.25.25",
-    "port": 7847
+    "port": 7847,
+    "removed": 1761048844
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1630,8 +1649,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1761029091
+    "port": 9620
   },
   {
     "name": "HLL Server",
@@ -1664,7 +1682,8 @@
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
     "addr": "51.89.42.34",
-    "port": 10165
+    "port": 10165,
+    "removed": 1761048844
   },
   {
     "name": "TRYHARD | LVL 50+ | VLK @ valkyriahll.cz",
@@ -1759,8 +1778,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1761027123
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1876,7 +1894,8 @@
   {
     "name": "DMT #1 (US West) | discord.gg/DMTTournament",
     "addr": "64.31.6.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761048844
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1901,8 +1920,7 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777,
-    "removed": 1760875921
+    "port": 7777
   },
   {
     "name": "I love playing APEX",
@@ -1985,6 +2003,11 @@
     "port": 7797
   },
   {
+    "name": "hll Server",
+    "addr": "74.63.225.19",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
     "port": 7777
@@ -2047,13 +2070,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761048844
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1760983876
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
