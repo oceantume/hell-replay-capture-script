@@ -88,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1761027123
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -265,8 +266,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1761006820
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -378,8 +378,7 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1761008575
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -480,7 +479,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761027123
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -754,8 +754,7 @@
   {
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1760983876
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1363,7 +1362,8 @@
   {
     "name": "Q's - Qonzer.com | Event Server #2 | Frankfurt",
     "addr": "31.56.0.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761027123
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1757,7 +1757,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761027123
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1868,6 +1869,11 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
+    "port": 7777
+  },
+  {
+    "name": "DMT #1 (US West) | discord.gg/DMTTournament",
+    "addr": "64.31.6.94",
     "port": 7777
   },
   {
