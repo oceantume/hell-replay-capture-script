@@ -22,7 +22,8 @@
   {
     "name": "Chimera | Australia | OCE 3",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1761049982
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -1050,12 +1051,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] LwJg46 Bierstube",
-    "addr": "208.115.206.76",
-    "port": 7777,
-    "removed": 1760444049
-  },
-  {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
@@ -1504,8 +1499,7 @@
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.10",
-    "port": 7727,
-    "removed": 1761048844
+    "port": 7727
   },
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
@@ -1515,8 +1509,7 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.10",
-    "port": 7787,
-    "removed": 1761048844
+    "port": 7787
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1633,8 +1626,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "5.56.25.25",
-    "port": 7847,
-    "removed": 1761048844
+    "port": 7847
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
