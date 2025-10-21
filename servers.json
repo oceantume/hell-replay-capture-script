@@ -265,7 +265,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761006820
   },
   {
     "name": "HLL Official - Europe #05",
@@ -498,7 +499,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761006820
   },
   {
     "name": "[HTD] HaiiTeD not Lovely | Mikroplastik | GER-ENG",
@@ -820,6 +822,11 @@
     "port": 7787
   },
   {
+    "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 1",
+    "addr": "193.160.22.58",
+    "port": 7777
+  },
+  {
     "name": "[GER] Omen Event & Match Server #3",
     "addr": "193.160.22.58",
     "port": 7787
@@ -842,7 +849,8 @@
   {
     "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 2",
     "addr": "193.160.22.62",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761006820
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1197,8 +1205,13 @@
     "port": 7777
   },
   {
-    "name": "[KRTS] Krauts-Server | GER | discord.gg/cxpj7aFMzq",
+    "name": "[KRTS] Krauts-Server 2 | GER | discord.gg/cxpj7aFMzq",
     "addr": "208.115.251.115",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.251.116",
     "port": 7777
   },
   {
@@ -1743,7 +1756,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761006820
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
