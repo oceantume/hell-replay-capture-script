@@ -404,7 +404,8 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761029091
   },
   {
     "name": "CZ/SK",
@@ -689,8 +690,7 @@
   {
     "name": "5th Ranger Battalion | US East | 5thrb.com",
     "addr": "192.169.86.210",
-    "port": 7787,
-    "removed": 1761028138
+    "port": 7787
   },
   {
     "name": "Helios Event Server",
@@ -1630,7 +1630,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1761029091
   },
   {
     "name": "HLL Server",
