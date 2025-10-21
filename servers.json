@@ -211,7 +211,8 @@
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
     "addr": "157.250.201.86",
-    "port": 9075
+    "port": 9075,
+    "removed": 1761051487
   },
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
@@ -774,8 +775,7 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1761048844
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1499,7 +1499,8 @@
   {
     "name": "CN/HK#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "5.56.25.10",
-    "port": 7727
+    "port": 7727,
+    "removed": 1761051487
   },
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
@@ -1509,7 +1510,8 @@
   {
     "name": "<CN>HK#2 瓦学弟萌新进阶（纯攻防）Q群：979552783",
     "addr": "5.56.25.10",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761051487
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
@@ -1553,7 +1555,7 @@
     "removed": 1761048844
   },
   {
-    "name": "CN#3 FJ空降兵瓦学弟极限强度服(纯冲突)Q:979552783",
+    "name": "CN#1 FJ空降兵瓦学弟极限冲突服(日服)Q:979552783",
     "addr": "5.56.25.100",
     "port": 7847
   },
@@ -2037,7 +2039,8 @@
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761051487
   },
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
