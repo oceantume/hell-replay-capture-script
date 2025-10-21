@@ -378,7 +378,8 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1761008575
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1756,8 +1757,7 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1761006820
+    "port": 7777
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
