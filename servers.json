@@ -89,8 +89,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1761027123
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -891,7 +890,8 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761070214
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1305,7 +1305,8 @@
   {
     "name": "HLL FINLAND | Suomiservu | EU | discord.gg/FmHdHGAKCM",
     "addr": "31.56.0.14",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761070214
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1330,7 +1331,8 @@
   {
     "name": "HLL FINLAND | Suomiservu | Events & Training | OFIN | EU",
     "addr": "31.56.0.15",
-    "port": 7797
+    "port": 7797,
+    "removed": 1761070214
   },
   {
     "name": "SLB #3",
@@ -1542,7 +1544,7 @@
     "port": 7817
   },
   {
-    "name": "hll Server",
+    "name": "CN[FJ]绿魔鬼空降猎兵服/JP/Q:716701264",
     "addr": "5.56.25.100",
     "port": 7827
   },
@@ -1578,7 +1580,7 @@
     "port": 7897
   },
   {
-    "name": "hll Server",
+    "name": "CN#2 瓦学弟萌新攻防服(日服)Q:979552783",
     "addr": "5.56.25.100",
     "port": 7907
   },
@@ -1626,8 +1628,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "5.56.25.25",
-    "port": 7847,
-    "removed": 1761052752
+    "port": 7847
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
@@ -1711,6 +1712,11 @@
   {
     "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
     "addr": "63.143.60.20",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "63.143.63.82",
     "port": 7777
   },
   {
@@ -1857,7 +1863,8 @@
   {
     "name": "Darkhorse | Sunday Funday",
     "addr": "64.31.58.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761070214
   },
   {
     "name": "NEW PLAYER PARADISE - Bad Intentions - Public",
@@ -2038,8 +2045,7 @@
   {
     "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530,
-    "removed": 1761051487
+    "port": 8530
   },
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
@@ -2064,13 +2070,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1761048844
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761070214
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2085,7 +2091,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761070214
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2313,8 +2320,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1760983876
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
