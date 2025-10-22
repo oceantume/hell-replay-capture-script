@@ -191,7 +191,8 @@
   {
     "name": "HLL Server",
     "addr": "149.13.210.188",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761137896
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -226,8 +227,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1761136373
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -268,8 +268,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1761135235
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -408,7 +407,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1761137896
   },
   {
     "name": "Team17 CERT",
