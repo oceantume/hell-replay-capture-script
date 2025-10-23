@@ -20,10 +20,9 @@
     "port": 7777
   },
   {
-    "name": "Chimera | Australia | OCE 3",
+    "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1761049982
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -415,8 +414,7 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300,
-    "removed": 1760616828
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #08",
@@ -1296,7 +1294,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "221.121.139.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761221621
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 | BFTB | Maybe Lag-Free",
@@ -1459,12 +1458,14 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761221621
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761221621
   },
   {
     "name": "HLL Official - US East #03",
@@ -2161,7 +2162,8 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1761221621
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
