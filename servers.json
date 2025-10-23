@@ -48,7 +48,8 @@
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
     "addr": "108.165.230.224",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761199907
   },
   {
     "name": "Hell Let Loose Testing Server olo",
@@ -73,13 +74,13 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761199907
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1761113537
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -89,8 +90,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1761113537
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -252,8 +252,7 @@
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
     "addr": "176.31.232.159",
-    "port": 8530,
-    "removed": 1761181344
+    "port": 8530
   },
   {
     "name": "CDS",
@@ -443,7 +442,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761199907
   },
   {
     "name": "DevQA - EU #02",
@@ -1039,8 +1039,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1761181344
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1211,8 +1210,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1761181344
+    "port": 7777
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -1233,8 +1231,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.251.116",
-    "port": 7777,
-    "removed": 1761048844
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1825,8 +1822,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1761181344
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2191,20 +2187,17 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787,
-    "removed": 1761181344
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787,
-    "removed": 1761181344
+    "port": 7787
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787,
-    "removed": 1761181344
+    "port": 7787
   },
   {
     "name": "{serverName}",
