@@ -287,7 +287,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761243056
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -414,7 +415,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761243056
   },
   {
     "name": "QA Testing - EU #08",
@@ -1113,7 +1115,8 @@
   {
     "name": "#04 [ESP] Comunidad Hispana Eventos - discord.comunidadhll.es -",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761243056
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1669,18 +1672,12 @@
     "removed": 1760966171
   },
   {
-    "name": "HLL Server",
-    "addr": "51.198.31.150",
-    "port": 7777,
-    "removed": 1760638253
-  },
-  {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
   },
   {
-    "name": "[KSK] [EU/ENG] The Cattlesheds | Femboys & New Players welcome!",
+    "name": "[KSK] [EU/ENG] The Cattlesheds | New Players welcome!",
     "addr": "51.77.66.51",
     "port": 9620
   },
@@ -2073,17 +2070,20 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761243056
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761243056
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761243056
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2332,8 +2332,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1761156729
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
