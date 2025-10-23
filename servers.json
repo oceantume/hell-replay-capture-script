@@ -118,7 +118,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "hll server",
     "addr": "139.28.17.150",
     "port": 7787
   },
@@ -675,7 +675,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1761244060
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
