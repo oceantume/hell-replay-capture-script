@@ -194,7 +194,8 @@
   {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
     "addr": "15.235.225.173",
-    "port": 9075
+    "port": 9075,
+    "removed": 1761329459
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -253,10 +254,9 @@
     "removed": 1760789530
   },
   {
-    "name": "QA Testing - EU #02",
+    "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1761288239
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
@@ -270,7 +270,7 @@
     "removed": 1761286288
   },
   {
-    "name": "QA Testing - EU #03",
+    "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
     "port": 28100
   },
@@ -402,17 +402,18 @@
     "port": 28300
   },
   {
-    "name": "QA Testing - EU #01",
+    "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
   },
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761329459
   },
   {
-    "name": "QA Testing - EU #08",
+    "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
   },
@@ -449,7 +450,7 @@
     "port": 28400
   },
   {
-    "name": "QA Testing - EU #04",
+    "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
     "port": 28500
   },
@@ -476,7 +477,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761329459
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -565,7 +567,7 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - UK #07",
+    "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
     "port": 28200
   },
@@ -575,10 +577,9 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - EU #05",
+    "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1761288239
+    "port": 28200
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -744,7 +745,8 @@
   {
     "name": "hll Server",
     "addr": "192.169.90.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761329459
   },
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
@@ -1418,7 +1420,7 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - US West #06",
+    "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
     "port": 28300
   },
@@ -1556,7 +1558,7 @@
     "port": 7817
   },
   {
-    "name": "CN[FJ]绿魔鬼空降猎兵服/JP/Q:716701264",
+    "name": "hll Server",
     "addr": "5.56.25.100",
     "port": 7827
   },
@@ -2063,8 +2065,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1761243056
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2075,13 +2076,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1761243056
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761329459
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2096,7 +2097,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761329459
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2311,12 +2313,6 @@
     "port": 29100
   },
   {
-    "name": "Pg/Esp- LatAm Battlegrounds/TRINCHERAS/VS/CASUAL;)",
-    "addr": "92.38.151.91",
-    "port": 29100,
-    "removed": 1760724555
-  },
-  {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
     "port": 28100
@@ -2324,7 +2320,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761329459
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
