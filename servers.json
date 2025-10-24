@@ -261,7 +261,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761288239
   },
   {
     "name": "HLL Dev Team",
@@ -457,7 +458,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761288239
   },
   {
     "name": "DevQA - EU #01",
@@ -584,7 +586,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761288239
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -1426,8 +1429,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1761286288
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1447,7 +1449,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761288239
   },
   {
     "name": "HLL Official - US East #04",
