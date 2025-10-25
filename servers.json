@@ -309,7 +309,8 @@
   {
     "name": "[GER] Zum goldenen Brennholzreiter | Mic Pflicht",
     "addr": "176.57.140.83",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761415748
   },
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
@@ -523,12 +524,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200
-  },
-  {
-    "name": "(AUT) Austrian Server #NEW # Anfängerfreundlich",
-    "addr": "176.57.174.211",
-    "port": 28400,
-    "removed": 1760810943
   },
   {
     "name": "Churchill's Dagger Division",
@@ -1153,12 +1148,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
-    "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1760810943
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "208.115.226.90",
     "port": 7787
@@ -1189,7 +1178,7 @@
     "port": 7777
   },
   {
-    "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th]",
+    "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th] [b",
     "addr": "208.115.248.90",
     "port": 7777
   },
@@ -2062,19 +2051,18 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1761243056
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761415748
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1761329459
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2302,13 +2290,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1761415748
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1761329459
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
