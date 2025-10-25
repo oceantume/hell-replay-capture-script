@@ -1034,7 +1034,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761354109
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1206,7 +1207,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761354109
   },
   {
     "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
@@ -1808,7 +1810,8 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761354109
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2179,17 +2182,20 @@
   {
     "name": "Omen's No Mercy | Event Server #5 London Powered by Qonzer",
     "addr": "85.208.197.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761354109
   },
   {
     "name": "Omen's No Mercy | Event Server #6 London Powered by Qonzer",
     "addr": "85.208.197.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761354109
   },
   {
     "name": "Omen's No Mercy | Event Server #4 London Powered by Qonzer",
     "addr": "85.208.197.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761354109
   },
   {
     "name": "{serverName}",
@@ -2290,8 +2296,7 @@
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
     "addr": "92.38.151.76",
-    "port": 28900,
-    "removed": 1761352377
+    "port": 28900
   },
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
