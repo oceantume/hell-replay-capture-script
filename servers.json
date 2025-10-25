@@ -246,12 +246,6 @@
     "port": 8530
   },
   {
-    "name": "CDS",
-    "addr": "176.31.232.159",
-    "port": 9075,
-    "removed": 1760789530
-  },
-  {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
@@ -1484,7 +1478,8 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761395360
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -2263,12 +2258,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "MEXICO LATAM ESP OGT 2",
-    "addr": "92.118.19.78",
-    "port": 7787,
-    "removed": 1760789530
   },
   {
     "name": "The Hive",
