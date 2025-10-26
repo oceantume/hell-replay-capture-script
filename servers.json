@@ -122,7 +122,8 @@
   {
     "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
     "addr": "141.105.66.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761480725
   },
   {
     "name": "EG event server",
@@ -213,8 +214,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1761462125
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -809,8 +809,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1761462125
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -820,8 +819,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1761462125
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1006,6 +1004,11 @@
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
     "port": 7777
+  },
+  {
+    "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
+    "addr": "206.53.0.27",
+    "port": 7787
   },
   {
     "name": "LwJg46 Bierstube",
@@ -1206,8 +1209,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1761462125
+    "port": 7777
   },
   {
     "name": "[KRTS] Krauts-Server 2 | GER | discord.gg/cxpj7aFMzq",
@@ -1300,14 +1302,12 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "31.56.0.11",
-    "port": 7797,
-    "removed": 1761462125
+    "port": 7797
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "31.56.0.13",
-    "port": 7877,
-    "removed": 1761462125
+    "port": 7877
   },
   {
     "name": "HLL FINLAND | Suomiservu | EU | discord.gg/FmHdHGAKCM",
@@ -1344,8 +1344,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "31.56.0.17",
-    "port": 7787,
-    "removed": 1761462125
+    "port": 7787
   },
   {
     "name": "[FR/EN] Team L9o | Warfare ONLY | discord.l9o.fr",
@@ -1442,7 +1441,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761480725
   },
   {
     "name": "HLL Official - US East #01",
@@ -1457,7 +1457,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761480725
   },
   {
     "name": "HLL Official - US East #03",
@@ -1488,8 +1489,7 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1761462125
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1746,8 +1746,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1761462125
+    "port": 8530
   },
   {
     "name": "BETA社区服务器",
@@ -1831,12 +1830,6 @@
     "port": 7777
   },
   {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "64.31.32.211",
-    "port": 7777,
-    "removed": 1760875921
-  },
-  {
     "name": "Go学长服务器[加群979552783]",
     "addr": "64.31.32.212",
     "port": 7777
@@ -1860,7 +1853,8 @@
   {
     "name": "多 | Hostile Unknown | Event | .gg/hostile",
     "addr": "64.31.40.202",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761480725
   },
   {
     "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
