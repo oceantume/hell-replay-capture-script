@@ -307,10 +307,9 @@
     "port": 28000
   },
   {
-    "name": "[GER] Zum goldenen Brennholzreiter | Mic Pflicht",
+    "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger + Mic",
     "addr": "176.57.140.83",
-    "port": 28200,
-    "removed": 1761415748
+    "port": 28200
   },
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
@@ -850,6 +849,11 @@
     "removed": 1761093291
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.61",
+    "port": 7787
+  },
+  {
     "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 2",
     "addr": "193.160.22.62",
     "port": 7777,
@@ -1188,7 +1192,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Zum goldenen Brennholzreiter #2 | Mic Pflicht!",
+    "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
     "addr": "208.115.248.92",
     "port": 7777
   },
@@ -2072,8 +2076,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1761352377
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
