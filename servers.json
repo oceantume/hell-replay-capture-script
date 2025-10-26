@@ -268,7 +268,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761459019
   },
   {
     "name": "HLL Official - Europe #05",
@@ -487,7 +488,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761459019
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -547,7 +549,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761459019
   },
   {
     "name": "Testing Server - UK #07",
@@ -1592,7 +1595,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "5.56.25.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761459019
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
@@ -1813,6 +1817,11 @@
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
+    "addr": "64.31.32.210",
+    "port": 7777
+  },
+  {
+    "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.211",
     "port": 7777,
     "removed": 1760875921
@@ -1844,7 +1853,7 @@
     "port": 7787
   },
   {
-    "name": "BREACH | BEST MAPS ONLY! | DISCORD.GG/BREACH-GG",
+    "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
     "port": 7777
   },
