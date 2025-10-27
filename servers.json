@@ -72,7 +72,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761545573
   },
   {
     "name": "HLL Official - Russia #02",
@@ -269,8 +270,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1761459019
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -332,12 +332,6 @@
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)https://disc",
     "addr": "176.57.168.194",
     "port": 28300
-  },
-  {
-    "name": "#2 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
-    "addr": "176.57.168.250",
-    "port": 28100,
-    "removed": 1760940728
   },
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
@@ -439,7 +433,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1761545573
   },
   {
     "name": "Testing Server - EU #04",
@@ -489,8 +484,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1761459019
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -768,7 +762,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1761545573
   },
   {
     "name": "AS YT",
@@ -1007,7 +1002,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761545573
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
