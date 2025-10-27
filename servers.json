@@ -518,6 +518,11 @@
     "port": 28100
   },
   {
+    "name": "Buraks Server",
+    "addr": "176.57.174.211",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200
@@ -582,7 +587,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | BHB | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1761588658
   },
   {
     "name": "[LATAM] El Olimpo -360 Conducción- discord.gg/RVpRVBP2JQ",
@@ -645,7 +651,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner / MIC Pflicht",
+    "name": "[GER] 300 Spartaner /MIC Pflicht",
     "addr": "185.83.152.101",
     "port": 9075
   },
@@ -1667,7 +1673,8 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761588658
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1833,7 +1840,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761588658
   },
   {
     "name": "Go学长服务器[加群979552783]",
@@ -2084,8 +2092,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1761502163
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2100,8 +2107,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1761329459
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2318,7 +2324,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1761588658
   },
   {
     "name": "HLL Official - Australia #01",
