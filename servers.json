@@ -528,6 +528,11 @@
     "port": 28200
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28300
+  },
+  {
     "name": "Churchill's Dagger Division",
     "addr": "176.57.174.211",
     "port": 28600
@@ -1206,6 +1211,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "208.115.248.93",
+    "port": 7777
+  },
+  {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
     "port": 7777
@@ -1659,7 +1669,8 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761525435
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
