@@ -920,7 +920,8 @@
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1761590623
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -2336,6 +2337,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1761590623
   }
 ]
