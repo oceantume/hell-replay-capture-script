@@ -2125,7 +2125,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "83.223.203.147",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761548356
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -2325,6 +2326,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1761548356
   }
 ]
