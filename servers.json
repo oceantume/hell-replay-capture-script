@@ -565,7 +565,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761567242
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -1420,7 +1421,8 @@
   {
     "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761567242
   },
   {
     "name": "HLL Official - US West #02",
@@ -1446,8 +1448,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1761480725
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1462,8 +1463,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1761480725
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1504,7 +1504,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
     "addr": "5.56.25.10",
-    "port": 7697
+    "port": 7697,
+    "removed": 1761567242
   },
   {
     "name": "CN【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
@@ -1665,8 +1666,7 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777,
-    "removed": 1761525435
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -2276,7 +2276,8 @@
   {
     "name": "The Hive",
     "addr": "92.118.19.83",
-    "port": 7797
+    "port": 7797,
+    "removed": 1761567242
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
@@ -2326,7 +2327,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1761548356
+    "port": 10700
   }
 ]
