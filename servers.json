@@ -1017,7 +1017,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 - Dírty's R&D",
+    "name": "[13SNC] #2 - Dírty's Research and Dev",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1190,7 +1190,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.251.116",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761677127
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
