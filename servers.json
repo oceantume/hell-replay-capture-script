@@ -73,8 +73,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1761545573
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -184,7 +183,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "146.59.52.47",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761631929
   },
   {
     "name": "HLL Server",
@@ -270,7 +270,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761631929
   },
   {
     "name": "HLL Official - Europe #05",
@@ -433,8 +434,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1761545573
+    "port": 28400
   },
   {
     "name": "Testing Server - EU #04",
@@ -554,8 +554,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1761459019
+    "port": 28000
   },
   {
     "name": "Testing Server - UK #07",
@@ -565,7 +564,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761631929
   },
   {
     "name": "Testing Server - EU #05",
@@ -651,7 +651,8 @@
   {
     "name": "[GER] 300 Spartaner /MIC Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1761631929
   },
   {
     "name": "Private Server A01",
@@ -1034,8 +1035,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1761613299
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1668,7 +1668,8 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761631929
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1999,10 +2000,9 @@
     "port": 7787
   },
   {
-    "name": "(IC) Blackwater | US Central #3 Dallas | discord.gg/icoh",
+    "name": "(IC) Event Server | US Central #3 Dallas | discord.gg/icoh",
     "addr": "69.162.89.150",
-    "port": 7777,
-    "removed": 1761611563
+    "port": 7777
   },
   {
     "name": "331 | Banana Brawl - Discord.gg/331st",
