@@ -864,12 +864,6 @@
     "port": 7787
   },
   {
-    "name": "XBOX - Hell Let Loose - Discord.gg/XBHLL | 2",
-    "addr": "193.160.22.62",
-    "port": 7777,
-    "removed": 1761006820
-  },
-  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -1040,7 +1034,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761613299
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
