@@ -1410,8 +1410,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1761653625
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #05",
@@ -1421,7 +1420,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1761740050
   },
   {
     "name": "HLL Official - US East #06",
@@ -1767,12 +1767,6 @@
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
     "port": 7777
-  },
-  {
-    "name": "[EU]GHOST REGIMENT- NewPlayer Training| discord.gg/7WGX6JwPTu |",
-    "addr": "64.31.4.170",
-    "port": 7787,
-    "removed": 1761135235
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -2192,8 +2186,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
     "addr": "92.38.150.147",
-    "port": 28000,
-    "removed": 1761698105
+    "port": 28000
   },
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
