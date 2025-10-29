@@ -260,8 +260,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1761653625
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -412,7 +411,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761718337
   },
   {
     "name": "DevQA - EU #02",
@@ -452,8 +452,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1761653625
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -553,8 +552,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1761631929
+    "port": 28000
   },
   {
     "name": "Testing Server - EU #05",
@@ -766,7 +764,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761718337
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1003,8 +1002,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1761699914
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1324,7 +1322,8 @@
   {
     "name": "CBMS",
     "addr": "31.56.0.25",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761718337
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -1597,7 +1596,8 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761718337
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1685,7 +1685,7 @@
     "port": 8530
   },
   {
-    "name": "BETA社区服务器",
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "64.31.11.74",
     "port": 11800
   },
