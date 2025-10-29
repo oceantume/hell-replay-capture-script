@@ -638,10 +638,9 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner /MIC Pflicht",
+    "name": "[GER] 300 Spartaner MIC Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075,
-    "removed": 1761631929
+    "port": 9075
   },
   {
     "name": "Private Server A01",
@@ -830,12 +829,6 @@
     "port": 7877
   },
   {
-    "name": "1ST. Infantry Division EU | discord.gg/1stid | Qonzer",
-    "addr": "193.160.22.60",
-    "port": 7777,
-    "removed": 1761093291
-  },
-  {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
     "addr": "193.160.22.61",
     "port": 7787
@@ -858,8 +851,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1761678482
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -988,6 +980,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] • Oktogon 2 • Mic Only • Wir Rekrutieren! #Qonzer",
+    "addr": "208.115.201.22",
+    "port": 7787
+  },
+  {
     "name": "[Ger] 1. Fallschirmjäger Division Server 2",
     "addr": "208.115.206.195",
     "port": 7777
@@ -1000,7 +997,8 @@
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.206.34",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761698105
   },
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
@@ -1013,7 +1011,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] • Oktogon • Mic Only • Wir Rekrutieren! • #Qonzer",
+    "name": "[GER] • Oktogon 1 • Mic Only • Wir Rekrutieren! #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1060,7 +1058,8 @@
   {
     "name": "㋑ | Born To Kill - discord.gg/b2kgaming",
     "addr": "208.115.212.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761698105
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -1211,7 +1210,8 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761698105
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
@@ -1321,6 +1321,11 @@
     "port": 7777
   },
   {
+    "name": "CBMS",
+    "addr": "31.56.0.25",
+    "port": 7777
+  },
+  {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
     "addr": "31.56.0.37",
     "port": 7777
@@ -1343,8 +1348,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "31.56.0.97",
-    "port": 7777,
-    "removed": 1761653625
+    "port": 7777
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1592,8 +1596,7 @@
   {
     "name": "HLL Server",
     "addr": "51.19.142.3",
-    "port": 7777,
-    "removed": 1761631929
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1699,12 +1702,6 @@
     "name": "△ The Motor Pool | New Player Friendly",
     "addr": "64.31.2.218",
     "port": 7777
-  },
-  {
-    "name": "1ST. Infantry NA East | LVL35+ | discord.gg/1stid | Qonzer",
-    "addr": "64.31.2.219",
-    "port": 7877,
-    "removed": 1761093291
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
@@ -1900,12 +1897,6 @@
     "port": 7827
   },
   {
-    "name": "1ST. Infantry Baddie Division NA Central | discord.gg/1stid | Q",
-    "addr": "69.162.102.52",
-    "port": 7777,
-    "removed": 1761093291
-  },
-  {
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
     "port": 7787
@@ -2054,7 +2045,8 @@
   {
     "name": "Steel and Sacrifice! New Players Welcome! Open Server---Few Rul",
     "addr": "83.223.207.50",
-    "port": 28500
+    "port": 28500,
+    "removed": 1761698105
   },
   {
     "name": "The Gang Is All Here",
@@ -2193,14 +2185,15 @@
     "removed": 1761567242
   },
   {
-    "name": "MEXICO LATAM ESP OGT 2",
+    "name": "LATAM ESP OGT 2",
     "addr": "92.118.19.84",
     "port": 7797
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
     "addr": "92.38.150.147",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761698105
   },
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
