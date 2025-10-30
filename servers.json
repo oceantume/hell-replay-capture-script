@@ -253,8 +253,7 @@
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1761761473
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -340,7 +339,8 @@
   {
     "name": "#01 - only US Maps - multi-clan.dk - HLL [ EU ] Danmark",
     "addr": "176.57.168.251",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761826433
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -557,8 +557,7 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1761567242
+    "port": 28200
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -1258,12 +1257,6 @@
     "port": 9075
   },
   {
-    "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
-    "addr": "221.121.139.3",
-    "port": 7777,
-    "removed": 1761221621
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen #2 | BFTB | 60 Minutes",
     "addr": "23.111.240.210",
     "port": 9075
@@ -1377,8 +1370,7 @@
   {
     "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1761567242
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1396,10 +1388,9 @@
     "port": 28700
   },
   {
-    "name": "QA Testing - US East #09",
+    "name": "Testing Server - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1761288239
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1424,8 +1415,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1761740050
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
