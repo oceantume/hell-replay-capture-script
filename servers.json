@@ -868,7 +868,8 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1761847842
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -923,7 +924,8 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8888
+    "port": 8888,
+    "removed": 1761847842
   },
   {
     "name": "HCIA Dev Server",
@@ -1018,7 +1020,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 - Dírty's Research and Dev",
+    "name": "[13SNC] Development",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1896,7 +1898,7 @@
     "port": 7777
   },
   {
-    "name": "331 | Banana Brawl - Discord.gg/331st",
+    "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
     "port": 7787
   },
@@ -1963,13 +1965,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1761761473
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1761847842
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1994,7 +1996,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1761847842
   },
   {
     "name": "HLL Official - Asia #03",
