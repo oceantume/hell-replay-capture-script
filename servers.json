@@ -412,7 +412,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1761891098
   },
   {
     "name": "DevQA - EU #02",
@@ -542,8 +543,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1761804695
+    "port": 28000
   },
   {
     "name": "Testing Server - UK #07",
@@ -718,8 +718,7 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1761872606
+    "port": 8530
   },
   {
     "name": "hll Server",
@@ -1013,8 +1012,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1761872606
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1718,10 +1716,14 @@
     "port": 8530
   },
   {
+    "name": "<CN>瓦学弟想看学姐的黑丝（投票图 ）979552783",
+    "addr": "64.31.11.42",
+    "port": 8530
+  },
+  {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "64.31.11.74",
-    "port": 11800,
-    "removed": 1761804695
+    "port": 11800
   },
   {
     "name": "hll Server",
