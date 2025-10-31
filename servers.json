@@ -976,7 +976,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "206.53.0.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761912860
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -1744,7 +1745,8 @@
   {
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761912860
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1913,12 +1915,6 @@
     "port": 8530
   },
   {
-    "name": "多 | Low Level Unknown | US-C | .gg/hostile",
-    "addr": "69.162.102.50",
-    "port": 7777,
-    "removed": 1761308054
-  },
-  {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
     "port": 7787
@@ -2023,6 +2019,11 @@
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
     "port": 28300
+  },
+  {
+    "name": "CN#TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "addr": "83.223.197.85",
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
