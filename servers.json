@@ -49,7 +49,8 @@
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
     "addr": "108.165.230.224",
-    "port": 7787
+    "port": 7787,
+    "removed": 1761999109
   },
   {
     "name": "Hell Let Loose Testing Server olo",
@@ -1056,7 +1057,8 @@
   {
     "name": "[13SNC] Development",
     "addr": "208.115.206.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1761999109
   },
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
@@ -1111,8 +1113,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777,
-    "removed": 1761980429
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1192,8 +1193,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1761980429
+    "port": 7777
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th] [b",
@@ -1249,12 +1249,6 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.82",
     "port": 7807
-  },
-  {
-    "name": "[Latam - BR] Monte castelo Brasil",
-    "addr": "209.192.185.90",
-    "port": 7797,
-    "removed": 1761394306
   },
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
@@ -1742,8 +1736,7 @@
   {
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
     "addr": "64.31.11.42",
-    "port": 8530,
-    "removed": 1761980429
+    "port": 8530
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -2277,7 +2270,8 @@
   {
     "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
     "addr": "92.38.151.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1761999109
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
