@@ -642,27 +642,32 @@
   {
     "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
     "addr": "185.216.144.75",
-    "port": 10710
+    "port": 10710,
+    "removed": 1762020533
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1762020533
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762020533
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
     "addr": "185.216.144.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1762020533
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
     "addr": "185.216.145.154",
-    "port": 9075
+    "port": 9075,
+    "removed": 1762020533
   },
   {
     "name": "EX YU Balkan Express",
@@ -765,6 +770,11 @@
     "port": 7817
   },
   {
+    "name": "①︱THE CIRCLE #1︱WARFARE︱60 MIN GAMES︱DISCORD.GG/THE-C",
+    "addr": "192.169.90.203",
+    "port": 7827
+  },
+  {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
@@ -778,6 +788,11 @@
     "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
     "addr": "192.169.90.204",
     "port": 7797
+  },
+  {
+    "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
+    "addr": "192.169.90.205",
+    "port": 7827
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1064,6 +1079,11 @@
     "port": 7787
   },
   {
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
+    "addr": "208.115.206.38",
+    "port": 7797
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
     "addr": "208.115.206.74",
     "port": 7777
@@ -1181,6 +1201,11 @@
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
     "addr": "208.115.248.106",
+    "port": 7787
+  },
+  {
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
+    "addr": "208.115.248.107",
     "port": 7787
   },
   {
@@ -1403,8 +1428,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1762002309
+    "port": 28000
   },
   {
     "name": "Testing Server - US West #06",
@@ -1424,8 +1448,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1762002309
+    "port": 28700
   },
   {
     "name": "Testing Server - US East #09",
@@ -1930,8 +1953,7 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787,
-    "removed": 1762002309
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -2016,7 +2038,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762020533
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2026,8 +2049,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1761934270
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2291,8 +2313,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1761934270
+    "port": 28200
   },
   {
     "name": "nitrado.net gameserver 22GhuiHg",
