@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1761916617
+    "port": 28300
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -1404,7 +1403,8 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762002309
   },
   {
     "name": "Testing Server - US West #06",
@@ -1414,8 +1414,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1761916617
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1425,7 +1424,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1762002309
   },
   {
     "name": "Testing Server - US East #09",
@@ -1930,7 +1930,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1762002309
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
