@@ -1033,7 +1033,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] • Oktogon 2 • Mic Only • Wir Rekrutieren! #Qonzer",
+    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.201.22",
     "port": 7787
   },
@@ -2318,7 +2318,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1762023424
+    "port": 10700
   }
 ]
