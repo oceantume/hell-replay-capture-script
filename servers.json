@@ -254,8 +254,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1762067003
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -839,8 +838,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1762067003
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -850,8 +848,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1762067003
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1032,7 +1029,7 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
+    "name": "[GER] • Oktogon 2 • Mic Only • Wir Rekrutieren! #Qonzer",
     "addr": "208.115.201.22",
     "port": 7787
   },
@@ -1240,8 +1237,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1762067003
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1499,8 +1495,7 @@
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1762067003
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1909,7 +1904,8 @@
   {
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762085495
   },
   {
     "name": "Oceanic Ocelots | US West",
@@ -2061,13 +2057,18 @@
   {
     "name": "CN#TT天堂萌新俱乐部[纯随机]Q群：578097070",
     "addr": "83.223.197.42",
-    "port": 31500
+    "port": 31500,
+    "removed": 1762085495
   },
   {
     "name": "<CN>4 瓦学弟就不能拥有学妹吗 加群: 979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1762001475
+    "port": 28000
+  },
+  {
+    "name": "[WW2]New Player Serverp/Random Map",
+    "addr": "83.223.197.85",
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2319,6 +2320,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1762085495
   }
 ]
