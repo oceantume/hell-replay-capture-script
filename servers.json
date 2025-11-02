@@ -587,7 +587,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762063834
   },
   {
     "name": "Testing Server - EU #05",
@@ -642,8 +643,7 @@
   {
     "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
     "addr": "185.216.144.75",
-    "port": 10710,
-    "removed": 1762020533
+    "port": 10710
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
@@ -1277,7 +1277,8 @@
   {
     "name": "Oceanic Ocelots Server | Japan",
     "addr": "216.144.245.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762063834
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1592,12 +1593,6 @@
     "removed": 1761870839
   },
   {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "5.56.25.11",
-    "port": 7777,
-    "removed": 1761459019
-  },
-  {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "5.56.25.25",
     "port": 7777,
@@ -1910,6 +1905,11 @@
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
     "port": 7777
+  },
+  {
+    "name": "Oceanic Ocelots | US West",
+    "addr": "64.31.61.93",
+    "port": 7787
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
