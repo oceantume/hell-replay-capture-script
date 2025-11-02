@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1762088669
+    "port": 28300
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -184,7 +183,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "146.59.52.33",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762106935
   },
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
@@ -270,8 +270,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1762088669
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -404,7 +403,8 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762106935
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -542,7 +542,7 @@
     "port": 28100
   },
   {
-    "name": "Buraks Server",
+    "name": "[EU] Buraks Server DE/AT/CH",
     "addr": "176.57.174.211",
     "port": 28100
   },
@@ -705,8 +705,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1762088669
+    "port": 7777
   },
   {
     "name": "Pathfinders | Event Server",
@@ -751,8 +750,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1762088669
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -785,7 +783,7 @@
     "port": 7787
   },
   {
-    "name": "Europe #1 | Blood Sweat & Beers BSB | Comp Maps | discord.gg/bl",
+    "name": "HBL Event - stdb vs BSC",
     "addr": "192.169.90.204",
     "port": 7797
   },
@@ -1184,6 +1182,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
+    "addr": "208.115.226.6",
+    "port": 7777
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "208.115.226.90",
     "port": 7787
@@ -1256,8 +1259,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1762088669
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1696,6 +1698,11 @@
     "port": 9720
   },
   {
+    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
+    "addr": "54.36.173.226",
+    "port": 8530
+  },
+  {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7787
@@ -1763,8 +1770,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1762088669
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1784,8 +1790,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1762088669
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1870,6 +1875,11 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
+    "port": 7777
+  },
+  {
+    "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
+    "addr": "64.31.60.34",
     "port": 7777
   },
   {
@@ -1995,8 +2005,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255,
-    "removed": 1762088669
+    "port": 11255
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
@@ -2036,13 +2045,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1762020533
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762106935
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2052,8 +2061,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1761934270
+    "port": 28300
   },
   {
     "name": "CN#TT天堂萌新俱乐部[纯随机]Q群：578097070",
@@ -2132,8 +2140,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1762088669
+    "port": 28700
   },
   {
     "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
@@ -2216,7 +2223,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762106935
   },
   {
     "name": "Test HLL",
@@ -2328,6 +2336,7 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700
+    "port": 10700,
+    "removed": 1762106935
   }
 ]
