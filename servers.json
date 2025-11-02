@@ -1836,12 +1836,6 @@
     "port": 7807
   },
   {
-    "name": "多 | Hostile Unknown | Event | .gg/hostile",
-    "addr": "64.31.40.202",
-    "port": 7787,
-    "removed": 1761480725
-  },
-  {
     "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
     "port": 7777
@@ -1904,13 +1898,13 @@
   {
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1762085495
+    "port": 7777
   },
   {
     "name": "Oceanic Ocelots | US West",
     "addr": "64.31.61.93",
-    "port": 7787
+    "port": 7787,
+    "removed": 1762086557
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -2068,7 +2062,8 @@
   {
     "name": "[WW2]New Player Serverp/Random Map",
     "addr": "83.223.197.85",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762086557
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2211,6 +2206,11 @@
     "port": 28600
   },
   {
+    "name": "HLL Server",
+    "addr": "90.218.186.227",
+    "port": 7777
+  },
+  {
     "name": "Test HLL",
     "addr": "92.118.16.90",
     "port": 7787
@@ -2320,7 +2320,6 @@
   {
     "name": "nitrado.net gameserver 22GhuiHg",
     "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1762085495
+    "port": 10700
   }
 ]
