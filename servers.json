@@ -391,6 +391,11 @@
     "removed": 1761826433
   },
   {
+    "name": "[EU] Buraks Server DE/AT/CH",
+    "addr": "176.57.168.251",
+    "port": 28400
+  },
+  {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
     "port": 28000
@@ -550,7 +555,8 @@
   {
     "name": "[EU] Buraks Server DE/AT/CH",
     "addr": "176.57.174.211",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762172037
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1468,7 +1474,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762172037
   },
   {
     "name": "HLL Official - US East #01",
@@ -1478,7 +1485,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762172037
   },
   {
     "name": "HLL Official - US East #05",
@@ -1493,7 +1501,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1762172037
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1764,7 +1773,7 @@
     "port": 8530
   },
   {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
+    "name": "Hello/Laowo/JP/QQ882377564",
     "addr": "64.31.11.74",
     "port": 11800
   },
