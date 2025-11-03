@@ -270,7 +270,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1762173174
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1525,12 +1526,6 @@
     "port": 9014
   },
   {
-    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
-    "addr": "5.56.25.10",
-    "port": 7697,
-    "removed": 1761567242
-  },
-  {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "5.56.25.10",
     "port": 7777,
@@ -1930,7 +1925,8 @@
   {
     "name": "I love playing APEX",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762173174
   },
   {
     "name": "Oceanic Ocelots | US West",
@@ -2289,12 +2285,6 @@
     "name": "U Test Server",
     "addr": "92.118.19.67",
     "port": 7777
-  },
-  {
-    "name": "The Hive",
-    "addr": "92.118.19.83",
-    "port": 7797,
-    "removed": 1761567242
   },
   {
     "name": "LATAM ESP OGT 2",
