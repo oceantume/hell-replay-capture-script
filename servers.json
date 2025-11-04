@@ -37,7 +37,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762279861
   },
   {
     "name": "[LATAM/ESP] ШДㅣ War Dogs ㅣLa Perrera | +30lvl",
@@ -415,8 +416,7 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000,
-    "removed": 1762106935
+    "port": 28000
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -441,8 +441,7 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1762261196
+    "port": 28100
   },
   {
     "name": "Testing Server - EU #08",
@@ -610,7 +609,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762279861
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -1109,6 +1109,11 @@
     "port": 7777
   },
   {
+    "name": "SLB #2",
+    "addr": "208.115.206.86",
+    "port": 7877
+  },
+  {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
@@ -1142,6 +1147,11 @@
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
     "port": 7777
+  },
+  {
+    "name": "SLB #3",
+    "addr": "208.115.214.220",
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1224,6 +1234,11 @@
     "port": 7787
   },
   {
+    "name": "SLB #1",
+    "addr": "208.115.248.107",
+    "port": 7797
+  },
+  {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
@@ -1251,6 +1266,11 @@
   {
     "name": "hll Server",
     "addr": "208.115.248.93",
+    "port": 7777
+  },
+  {
+    "name": "[GER]Kampfgruppe Lazarus - Lvl 30+",
+    "addr": "208.115.248.94",
     "port": 7777
   },
   {
@@ -1459,7 +1479,8 @@
   {
     "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762279861
   },
   {
     "name": "HLL Official - US West #02",
@@ -1479,7 +1500,8 @@
   {
     "name": "Testing Server - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762279861
   },
   {
     "name": "HLL Official - US East #04",
@@ -1716,8 +1738,7 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1762261196
+    "port": 8530
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
@@ -2025,8 +2046,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255,
-    "removed": 1762236720
+    "port": 11255
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
@@ -2076,13 +2096,13 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762279861
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1762193445
+    "port": 28300
   },
   {
     "name": "CN#TT天堂萌新俱乐部[纯随机]Q群：578097070",
@@ -2114,8 +2134,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1762193445
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
