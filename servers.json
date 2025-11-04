@@ -441,7 +441,8 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762261196
   },
   {
     "name": "Testing Server - EU #08",
@@ -1715,7 +1716,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762261196
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
