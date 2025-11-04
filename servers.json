@@ -315,7 +315,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1762236720
   },
   {
     "name": "Warfrags Studios",
@@ -601,7 +602,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762236720
   },
   {
     "name": "Testing Server - EU #05",
@@ -1060,8 +1062,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1762218208
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1293,6 +1294,16 @@
     "addr": "216.144.245.84",
     "port": 7777,
     "removed": 1762063834
+  },
+  {
+    "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
+    "addr": "216.144.245.86",
+    "port": 7777
+  },
+  {
+    "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "addr": "216.144.245.86",
+    "port": 7877
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -2010,7 +2021,8 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255
+    "port": 11255,
+    "removed": 1762236720
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
