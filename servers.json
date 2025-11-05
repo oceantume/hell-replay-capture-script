@@ -1354,8 +1354,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #2 | BFTB | Event #2",
     "addr": "23.111.240.210",
-    "port": 9075,
-    "removed": 1762345983
+    "port": 9075
   },
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
@@ -1735,7 +1734,8 @@
   {
     "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762347472
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
