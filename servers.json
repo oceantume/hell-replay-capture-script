@@ -446,6 +446,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Dev Team 2",
+    "addr": "176.57.168.38",
+    "port": 28300
+  },
+  {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
@@ -1055,6 +1060,11 @@
     "port": 7777
   },
   {
+    "name": "WTH Training Server",
+    "addr": "208.115.206.195",
+    "port": 7787
+  },
+  {
     "name": "[GER/ENG] Trinity´s Ballerbude",
     "addr": "208.115.206.34",
     "port": 7777
@@ -1315,10 +1325,9 @@
     "port": 7787
   },
   {
-    "name": "Oceanic Ocelots Server | Japan",
+    "name": "CN#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
     "addr": "216.144.245.84",
-    "port": 7777,
-    "removed": 1762063834
+    "port": 7777
   },
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
@@ -1791,7 +1800,7 @@
     "port": 8530
   },
   {
-    "name": "Hello/Laowo/JP/QQ882377564",
+    "name": "<Asia>/Chinese player welcome/laowo/JP/QQ882377564",
     "addr": "64.31.11.74",
     "port": 11800
   },
@@ -2106,8 +2115,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1762279861
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2144,7 +2152,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762366260
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2360,7 +2369,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762366260
   },
   {
     "name": "HLL Official - Australia #01",
