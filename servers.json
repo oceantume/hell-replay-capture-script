@@ -365,7 +365,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.168.194",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762302912
   },
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)https://disc",
@@ -532,7 +533,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762302912
   },
   {
     "name": "Hell let Loose Server Piu",
@@ -854,7 +856,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -864,7 +866,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1058,12 +1060,6 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
-    "addr": "208.115.206.34",
-    "port": 7787,
-    "removed": 1761698105
-  },
-  {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
     "port": 7777
@@ -1109,7 +1105,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1149,7 +1145,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1239,7 +1235,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -2059,6 +2055,11 @@
     "port": 28200
   },
   {
+    "name": "Se Sortea Chancho by Tango",
+    "addr": "78.111.102.114",
+    "port": 28300
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -2172,12 +2173,6 @@
     "port": 28100
   },
   {
-    "name": "Steel and Sacrifice! New Players Welcome! Open Server---Few Rul",
-    "addr": "83.223.207.50",
-    "port": 28500,
-    "removed": 1761698105
-  },
-  {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
@@ -2264,8 +2259,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1762106935
+    "port": 7777
   },
   {
     "name": "Test HLL",
