@@ -302,7 +302,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1762323118
   },
   {
     "name": "Testing Server - EU #03",
@@ -312,13 +313,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762323118
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1762236720
+    "port": 28500
   },
   {
     "name": "Warfrags Studios",
@@ -427,7 +428,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762323118
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -487,8 +489,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1762150369
+    "port": 28700
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -677,8 +678,7 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
     "addr": "185.216.144.75",
-    "port": 9075,
-    "removed": 1762258480
+    "port": 9075
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -1920,6 +1920,11 @@
     "port": 7777
   },
   {
+    "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
+    "addr": "64.31.6.92",
+    "port": 7797
+  },
+  {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
     "port": 7777
@@ -2264,7 +2269,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762323118
   },
   {
     "name": "Test HLL",
