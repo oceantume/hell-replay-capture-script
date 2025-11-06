@@ -381,12 +381,6 @@
     "port": 28200
   },
   {
-    "name": "#01 - only US Maps - multi-clan.dk - HLL [ EU ] Danmark",
-    "addr": "176.57.168.251",
-    "port": 28300,
-    "removed": 1761826433
-  },
-  {
     "name": "[EU] Buraks Server DE/AT/CH",
     "addr": "176.57.168.251",
     "port": 28400
@@ -822,8 +816,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1762409523
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1531,6 +1524,11 @@
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
     "port": 28700
+  },
+  {
+    "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
+    "addr": "45.143.199.235",
+    "port": 10710
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
