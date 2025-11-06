@@ -187,12 +187,6 @@
     "removed": 1762106935
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
-    "addr": "146.59.52.47",
-    "port": 8530,
-    "removed": 1761784485
-  },
-  {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
     "addr": "15.235.225.173",
     "port": 9075
@@ -1076,7 +1070,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762391063
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
