@@ -695,7 +695,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1762452683
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -937,8 +938,7 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1762435045
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1692,6 +1692,11 @@
     "port": 9620
   },
   {
+    "name": "hll Server",
+    "addr": "51.75.156.0",
+    "port": 7777
+  },
+  {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
     "addr": "51.77.66.51",
     "port": 8530
@@ -2052,14 +2057,12 @@
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
     "addr": "78.111.102.114",
-    "port": 28200,
-    "removed": 1762409523
+    "port": 28200
   },
   {
     "name": "Se Sortea Chancho by Tango",
     "addr": "78.111.102.114",
-    "port": 28300,
-    "removed": 1762409523
+    "port": 28300
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -2141,8 +2144,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1762366260
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2358,8 +2360,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1762366260
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
