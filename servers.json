@@ -208,6 +208,11 @@
     "port": 7827
   },
   {
+    "name": "Black Bees - Backup",
+    "addr": "152.114.195.151",
+    "port": 7777
+  },
+  {
     "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7787
@@ -365,7 +370,8 @@
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)https://disc",
     "addr": "176.57.168.194",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762389283
   },
   {
     "name": "[ESP] Black Bees - Event Server Only",
@@ -532,8 +538,7 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1762302912
+    "port": 28000
   },
   {
     "name": "Hell let Loose Server Piu",
@@ -787,8 +792,7 @@
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱60 MIN GAMES︱DISCORD.GG/THE-C",
     "addr": "192.169.90.203",
-    "port": 7827,
-    "removed": 1762369622
+    "port": 7827
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -801,7 +805,7 @@
     "port": 7787
   },
   {
-    "name": "HBL Event - stdb vs BSC",
+    "name": "The Red Lion - Blood Sweat and Beers - [BSB] - Community server",
     "addr": "192.169.90.204",
     "port": 7797
   },
@@ -946,6 +950,11 @@
     "addr": "195.82.158.186",
     "port": 20200,
     "removed": 1762258480
+  },
+  {
+    "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
+    "addr": "195.82.158.186",
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1735,7 +1744,7 @@
     "port": 9720
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
+    "name": "[PL/ENG] | Polish Server | Low Ping & New Players Welcome",
     "addr": "54.36.173.226",
     "port": 8530
   },
@@ -2267,8 +2276,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1762323118
+    "port": 7777
   },
   {
     "name": "Test HLL",
