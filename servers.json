@@ -1205,7 +1205,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "208.115.226.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1762456088
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1695,6 +1696,11 @@
     "name": "hll Server",
     "addr": "51.75.156.0",
     "port": 7777
+  },
+  {
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
+    "addr": "51.75.156.2",
+    "port": 7787
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
