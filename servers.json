@@ -458,7 +458,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762495919
   },
   {
     "name": "DevQA - EU #02",
@@ -468,7 +469,8 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400
+    "port": 28400,
+    "removed": 1762495919
   },
   {
     "name": "Testing Server - EU #04",
@@ -1226,8 +1228,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1762477466
+    "port": 7777
   },
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
@@ -1242,7 +1243,8 @@
   {
     "name": "[GER]Kampfgruppe Lazarus - Lvl 30+",
     "addr": "208.115.248.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762495919
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1604,8 +1606,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1762477466
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -1715,7 +1716,7 @@
     "port": 7787
   },
   {
-    "name": "CN 汉语 永不炸服 美西节点 难民营",
+    "name": "CN 汉语 75级+ 永不炸服 美西节点 难民营",
     "addr": "64.31.61.93",
     "port": 7777
   },
@@ -1815,7 +1816,7 @@
     "port": 28200
   },
   {
-    "name": "Se Sortea Chancho by Tango",
+    "name": "[LATAM] Se Sortea Chancho by Tango",
     "addr": "78.111.102.114",
     "port": 28300
   },
@@ -2005,12 +2006,14 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762495919
   },
   {
     "name": "HLL Server",
     "addr": "90.246.49.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762495919
   },
   {
     "name": "Test HLL",
