@@ -193,6 +193,21 @@
     "port": 7777
   },
   {
+    "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
+    "addr": "15.204.170.68",
+    "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
+    "addr": "15.204.170.68",
+    "port": 7787
+  },
+  {
+    "name": "hll Server",
+    "addr": "15.204.170.68",
+    "port": 7797
+  },
+  {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
     "addr": "15.235.225.173",
     "port": 9075
@@ -519,7 +534,7 @@
     "port": 28000
   },
   {
-    "name": "ØVER - Balkan/EU Hell Let Loose//discord.gg/over-balkan",
+    "name": "ØVER ︱Offensive︱Balkan/EU Hell Let Loose//discord.gg/over-",
     "addr": "176.57.171.158",
     "port": 28100
   },
@@ -758,7 +773,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762539036
   },
   {
     "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
@@ -1240,10 +1256,9 @@
     "port": 7777
   },
   {
-    "name": "[GER]Kampfgruppe Lazarus - Lvl 30+",
+    "name": "hll Server",
     "addr": "208.115.248.94",
-    "port": 7777,
-    "removed": 1762495919
+    "port": 7777
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1453,6 +1468,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "51.75.156.0",
+    "port": 7787
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "51.75.156.2",
     "port": 7787
@@ -1600,12 +1620,14 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1762539036
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1762539036
   },
   {
     "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
@@ -1856,6 +1878,11 @@
   },
   {
     "name": "hll Server",
+    "addr": "82.25.36.11",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
     "addr": "82.25.36.130",
     "port": 7777
   },
@@ -1893,7 +1920,8 @@
   {
     "name": "<CN>4 瓦学弟就不能拥有学妹吗 加群: 979552783",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762539036
   },
   {
     "name": "[WW2]New Player Serverp/Random Map",
@@ -1934,7 +1962,8 @@
   {
     "name": "Study Hall",
     "addr": "83.223.203.138",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762539036
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -2118,7 +2147,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762539036
   },
   {
     "name": "HLL Official - Australia #01",
