@@ -433,7 +433,8 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762518725
   },
   {
     "name": "HLL Dev Team 2",
@@ -1001,12 +1002,6 @@
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
-  },
-  {
-    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
-    "addr": "206.53.0.22",
-    "port": 7777,
-    "removed": 1761912860
   },
   {
     "name": "LwJg46 Bierstube",
