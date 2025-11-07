@@ -446,6 +446,11 @@
     "port": 28400
   },
   {
+    "name": "HLL Playtest Server - Europe #02",
+    "addr": "176.57.168.38",
+    "port": 28600
+  },
+  {
     "name": "CZ/SK",
     "addr": "176.57.168.91",
     "port": 28000
@@ -1452,6 +1457,11 @@
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "51.75.156.2",
     "port": 7787
+  },
+  {
+    "name": "[GER] Kampfgruppe Lazarus LVL 30+",
+    "addr": "51.75.156.31",
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
