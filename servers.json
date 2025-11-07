@@ -433,8 +433,7 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1762518725
+    "port": 28100
   },
   {
     "name": "HLL Dev Team 2",
@@ -951,7 +950,8 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1762520165
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1387,6 +1387,11 @@
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #05",
