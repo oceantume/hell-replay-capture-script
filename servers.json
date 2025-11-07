@@ -1226,7 +1226,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762477466
   },
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
@@ -1603,13 +1604,13 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762477466
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777,
-    "removed": 1762258480
+    "port": 7777
   },
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
@@ -2004,6 +2005,11 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
+    "port": 7777
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.246.49.75",
     "port": 7777
   },
   {
