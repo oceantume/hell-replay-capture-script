@@ -144,7 +144,8 @@
   {
     "name": "SAPPER | US EAST | NEW PLAYERS WELCOME",
     "addr": "144.126.153.213",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762582209
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -208,7 +209,7 @@
     "port": 7797
   },
   {
-    "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
+    "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
     "port": 7777
   },
@@ -468,7 +469,8 @@
   {
     "name": "HLL Playtest Server - Europe #02",
     "addr": "176.57.168.38",
-    "port": 28600
+    "port": 28600,
+    "removed": 1762582209
   },
   {
     "name": "CZ/SK",
@@ -483,8 +485,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1762495919
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -494,8 +495,7 @@
   {
     "name": "HLL Official - Europe #06",
     "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1762495919
+    "port": 28400
   },
   {
     "name": "Testing Server - EU #04",
@@ -510,7 +510,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1762582209
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -763,6 +764,11 @@
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
     "port": 7797
+  },
+  {
+    "name": "hll Server",
+    "addr": "192.169.86.210",
+    "port": 7807
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -1273,7 +1279,7 @@
     "port": 7777
   },
   {
-    "name": "[EU] IGHOST REGIMENT Player Training | discord.gg/7WGX6JwPTu",
+    "name": "[EU]Neko-puma-eros-jump 50v50 | discord.gg/7WGX6JwPTu",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1313,7 +1319,7 @@
     "port": 7777
   },
   {
-    "name": "HORANG / Ocelots Event Server | US WEST |",
+    "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "216.144.245.85",
     "port": 7777
   },
@@ -1417,8 +1423,7 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1762563646
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #05",
