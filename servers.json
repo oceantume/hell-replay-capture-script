@@ -315,8 +315,7 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1762561933
+    "port": 28000
   },
   {
     "name": "HLL Dev Team",
@@ -464,8 +463,7 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1762561933
+    "port": 28400
   },
   {
     "name": "HLL Playtest Server - Europe #02",
@@ -623,8 +621,7 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1762561933
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -634,8 +631,7 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1762561933
+    "port": 28200
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -976,8 +972,7 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1762561933
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1237,7 +1232,7 @@
     "port": 7797
   },
   {
-    "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
+    "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
   },
@@ -1422,7 +1417,8 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762563646
   },
   {
     "name": "HLL Official - US East #05",
@@ -1607,8 +1603,7 @@
   {
     "name": "Current Level: Shopping's Better Now(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777,
-    "removed": 1762561933
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
