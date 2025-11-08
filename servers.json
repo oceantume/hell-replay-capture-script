@@ -208,6 +208,11 @@
     "port": 7797
   },
   {
+    "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
+    "addr": "15.204.170.69",
+    "port": 7777
+  },
+  {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
     "addr": "15.235.225.173",
     "port": 9075
@@ -290,8 +295,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1762259646
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -311,7 +315,8 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762561933
   },
   {
     "name": "HLL Dev Team",
@@ -459,7 +464,8 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1762561933
   },
   {
     "name": "HLL Playtest Server - Europe #02",
@@ -617,7 +623,8 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762561933
   },
   {
     "name": "HLL Official - UK #02",
@@ -627,7 +634,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762561933
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -839,12 +847,14 @@
   {
     "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762561933
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762561933
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -966,7 +976,8 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1762561933
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1039,7 +1050,7 @@
     "port": 7787
   },
   {
-    "name": "[GER/ENG] Trinity´s Ballerbude",
+    "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
     "addr": "208.115.206.34",
     "port": 7777
   },
@@ -1307,6 +1318,11 @@
     "port": 7777
   },
   {
+    "name": "HORANG / Ocelots Event Server | US WEST |",
+    "addr": "216.144.245.85",
+    "port": 7777
+  },
+  {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "216.144.245.86",
     "port": 7777
@@ -1559,7 +1575,7 @@
     "port": 10710
   },
   {
-    "name": "[D.C.] Devils Company - ENTRENAMIENTOS - Discord: devilscompany",
+    "name": "D.C. I DELTA CORPS - ENTRENAMIENTOS",
     "addr": "64.20.50.186",
     "port": 9075
   },
@@ -1591,7 +1607,8 @@
   {
     "name": "Current Level: Shopping's Better Now(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762561933
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
