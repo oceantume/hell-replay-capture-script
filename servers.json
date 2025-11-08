@@ -17,8 +17,7 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777,
-    "removed": 1762475683
+    "port": 7777
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -281,8 +280,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1762585301
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
@@ -292,7 +290,8 @@
   {
     "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
     "addr": "162.220.160.106",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762603913
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -887,8 +886,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1762585301
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -898,8 +896,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1762585301
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1107,8 +1104,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1762585301
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1148,8 +1144,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1762585301
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1240,8 +1235,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1762585301
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1419,7 +1413,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1762603913
   },
   {
     "name": "HLL Official - US East #02",
@@ -1942,10 +1937,9 @@
     "removed": 1762085495
   },
   {
-    "name": "<CN>4 瓦学弟就不能拥有学妹吗 加群: 979552783",
+    "name": "<CN4> 瓦学弟想摸一摸学姐的黑丝",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1762539036
+    "port": 28000
   },
   {
     "name": "[WW2]New Player Serverp/Random Map",
@@ -2146,12 +2140,6 @@
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
     "addr": "92.38.151.76",
     "port": 28900
-  },
-  {
-    "name": "『V』Vanguarda Training sv - Aliste-se discord.gg/vanguarda",
-    "addr": "92.38.151.86",
-    "port": 28900,
-    "removed": 1761999109
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
