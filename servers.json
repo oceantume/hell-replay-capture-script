@@ -40,7 +40,7 @@
     "port": 28300
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
+    "name": "[LATAM] Asado, Vino y Latencia God | LVL +40",
     "addr": "108.165.230.224",
     "port": 7787
   },
@@ -194,12 +194,14 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762648632
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.68",
-    "port": 7787
+    "port": 7787,
+    "removed": 1762648632
   },
   {
     "name": "hll Server",
@@ -346,12 +348,6 @@
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
-  },
-  {
-    "name": "PARABELLUM PUBLIC SERVER #1 | HUN/ENG",
-    "addr": "176.57.140.196",
-    "port": 28200,
-    "removed": 1762043813
   },
   {
     "name": "[FR] Division Gauloise | ADMIN ACTIF | SEED A 30",
@@ -1654,14 +1650,12 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797,
-    "removed": 1762539036
+    "port": 7797
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807,
-    "removed": 1762539036
+    "port": 7807
   },
   {
     "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
@@ -1691,8 +1685,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1762193445
+    "port": 7777
   },
   {
     "name": "Go学长服务器[加群979552783]",
