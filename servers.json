@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1762693534
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +40",
@@ -177,12 +176,6 @@
     "port": 9014
   },
   {
-    "name": "[PL/ENG] | NZN - Polish Clan Server | Low Ping & New Players We",
-    "addr": "146.59.52.33",
-    "port": 8530,
-    "removed": 1762106935
-  },
-  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -298,8 +291,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1762693534
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -407,7 +399,7 @@
     "port": 28200
   },
   {
-    "name": "[EU] Buraks Server DE/AT/CH",
+    "name": "[DE|AT|CH] #Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.251",
     "port": 28400
   },
@@ -537,7 +529,7 @@
     "port": 28000
   },
   {
-    "name": "ØVER ︱Offensive︱Balkan/EU Hell Let Loose//discord.gg/over-",
+    "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
     "port": 28100
   },
@@ -730,6 +722,11 @@
     "port": 7807
   },
   {
+    "name": "Iron Line Battalion- Warfare",
+    "addr": "188.64.33.2",
+    "port": 8530
+  },
+  {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
     "addr": "191.101.166.120",
     "port": 8530
@@ -742,8 +739,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1762693534
+    "port": 7777
   },
   {
     "name": "Pathfinders | Event Server",
@@ -794,8 +790,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1762693534
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -983,10 +978,9 @@
     "port": 21000
   },
   {
-    "name": "nitrado.net gameserver 4MdTP9_z",
+    "name": "Free Dutch Empire server #1, you need mic.",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1762693534
+    "port": 21200
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1031,7 +1025,8 @@
   {
     "name": "HCIA Dev Server",
     "addr": "203.23.178.51",
-    "port": 8898
+    "port": 8898,
+    "removed": 1762711804
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1044,7 +1039,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] • Oktogon 2 • Mic Only • Wir Rekrutieren! #Qonzer",
+    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.201.22",
     "port": 7787
   },
@@ -1633,8 +1628,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1762693534
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1654,8 +1648,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1762693534
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1741,8 +1734,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1762693534
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1877,8 +1869,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255,
-    "removed": 1762693534
+    "port": 11255
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
@@ -1933,7 +1924,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762711804
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2167,18 +2159,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762711804
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1762625356
-  },
-  {
-    "name": "nitrado.net gameserver 22GhuiHg",
-    "addr": "95.156.198.83",
-    "port": 10700,
-    "removed": 1762106935
+    "port": 28200
   }
 ]
