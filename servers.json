@@ -135,7 +135,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | GER",
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | ENG GER",
     "addr": "142.91.157.156",
     "port": 7777
   },
@@ -327,7 +327,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1762668621
   },
   {
     "name": "Testing Server - EU #03",
@@ -337,7 +338,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762668621
   },
   {
     "name": "HLL Official - Europe #05",
@@ -464,8 +466,7 @@
   {
     "name": "HLL Playtest Server - Europe #02",
     "addr": "176.57.168.38",
-    "port": 28600,
-    "removed": 1762582209
+    "port": 28600
   },
   {
     "name": "CZ/SK",
@@ -505,8 +506,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1762582209
+    "port": 28700
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -851,8 +851,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1762561933
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -963,7 +962,8 @@
   {
     "name": "OPERATION BARBAROSSA | # ( NYC )",
     "addr": "194.140.197.76",
-    "port": 28800
+    "port": 28800,
+    "removed": 1762668621
   },
   {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
@@ -1332,8 +1332,7 @@
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "216.144.245.85",
-    "port": 7777,
-    "removed": 1762650488
+    "port": 7777
   },
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
