@@ -100,7 +100,7 @@
     "port": 7797
   },
   {
-    "name": "KRTs Chilling at Camelot",
+    "name": "KRTs Chilling at Camelot Experimental",
     "addr": "139.28.17.148",
     "port": 7777
   },
@@ -183,6 +183,11 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
+    "port": 7777
+  },
+  {
+    "name": "US East ｜Newbie Paradise Server｜TT天堂",
+    "addr": "15.204.170.66",
     "port": 7777
   },
   {
@@ -311,14 +316,12 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1762776841
+    "port": 28000
   },
   {
-    "name": "HLL Dev Team",
+    "name": "{serverName}",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1762776841
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -328,7 +331,8 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762798258
   },
   {
     "name": "HLL Official - Europe #03",
@@ -447,7 +451,13 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762798258
+  },
+  {
+    "name": "HLL Playtest Server - Europe #01",
+    "addr": "176.57.168.38",
+    "port": 28200
   },
   {
     "name": "HLL Dev Team 2",
@@ -457,7 +467,8 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1762798258
   },
   {
     "name": "HLL Playtest Server - Europe #02",
@@ -501,8 +512,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600,
-    "removed": 1762776841
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #02",
@@ -615,7 +625,8 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762798258
   },
   {
     "name": "HLL Official - UK #02",
@@ -971,6 +982,11 @@
     "removed": 1762668621
   },
   {
+    "name": "Mondaze Testing",
+    "addr": "194.180.207.89",
+    "port": 7777
+  },
+  {
     "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
     "addr": "195.82.158.186",
     "port": 20200,
@@ -1095,6 +1111,11 @@
     "port": 7797
   },
   {
+    "name": "POWERBITS GAMETEAM EXPERIMENTAL",
+    "addr": "208.115.206.38",
+    "port": 7807
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
     "addr": "208.115.206.74",
     "port": 7777
@@ -1208,7 +1229,8 @@
   {
     "name": "CN 汉语 75级+ 永不炸服 德国节点 难民营",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762798258
   },
   {
     "name": "Mic server Free Dutch Empire server #1",
@@ -1443,8 +1465,7 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1762776841
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #05",
@@ -1504,7 +1525,8 @@
   {
     "name": "Qonzer EU Test",
     "addr": "51.75.156.0",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762798258
   },
   {
     "name": "hll Server",
@@ -1538,7 +1560,7 @@
     "port": 10165
   },
   {
-    "name": "TRYHARD | LVL 50+ | VLK @ valkyriahll.cz",
+    "name": "VLK @ SMOLENSK",
     "addr": "51.89.42.34",
     "port": 10710
   },
@@ -1695,7 +1717,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762798258
   },
   {
     "name": "Go学长服务器[加群979552783]",
@@ -1948,7 +1971,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762798258
   },
   {
     "name": "<CN4> 瓦学弟想摸一摸学姐的黑丝",
@@ -1969,7 +1993,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762798258
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2006,12 +2031,6 @@
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
-  },
-  {
-    "name": "Over Here 30GA | https://discord.gg/QkwNmUdwa7",
-    "addr": "83.223.207.55",
-    "port": 28200,
-    "removed": 1762193445
   },
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
@@ -2168,8 +2187,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1762711804
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
