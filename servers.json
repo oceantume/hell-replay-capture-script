@@ -32,14 +32,12 @@
   {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.159",
-    "port": 28000,
-    "removed": 1762799261
+    "port": 28000
   },
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1762799261
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +40",
@@ -318,7 +316,8 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762800811
   },
   {
     "name": "{serverName}",
@@ -2099,7 +2098,8 @@
   {
     "name": "HLL Server",
     "addr": "90.246.49.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762800811
   },
   {
     "name": "Test HLL",
