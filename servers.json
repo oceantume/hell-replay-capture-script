@@ -321,8 +321,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1762668621
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -332,13 +331,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1762668621
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1762755184
   },
   {
     "name": "Warfrags Studios",
@@ -501,7 +500,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1762755184
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -516,7 +516,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762755184
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -618,7 +619,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762755184
   },
   {
     "name": "Testing Server - EU #05",
@@ -851,8 +853,7 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1762690321
+    "port": 8530
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -908,12 +909,6 @@
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
     "port": 7797
-  },
-  {
-    "name": "[GER] Omen Event & Match Server #1",
-    "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1762150369
   },
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
@@ -1344,7 +1339,7 @@
     "port": 7777
   },
   {
-    "name": "CN#1 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "216.144.245.86",
     "port": 7877
   },
@@ -1504,7 +1499,8 @@
   {
     "name": "hll Server",
     "addr": "51.75.156.0",
-    "port": 7787
+    "port": 7787,
+    "removed": 1762755184
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1569,8 +1565,7 @@
   {
     "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
     "addr": "63.143.60.20",
-    "port": 7777,
-    "removed": 1762736872
+    "port": 7777
   },
   {
     "name": "[9VEC] Warfare Only - New Community & New Players Welcome!",
@@ -1947,7 +1942,8 @@
   {
     "name": "<CN4> 瓦学弟想摸一摸学姐的黑丝",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762755184
   },
   {
     "name": "HLL Official - Asia #06",
