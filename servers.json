@@ -291,8 +291,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1762777984
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -838,7 +837,7 @@
     "port": 7827
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜T T",
+    "name": "US East ｜Newbie Paradise Server｜",
     "addr": "192.169.92.30",
     "port": 7777
   },
@@ -1560,7 +1559,8 @@
   {
     "name": "[PL/ENG] | BYZANTIUM Polish Server | Low Ping & New Players Wel",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762779488
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
@@ -1690,8 +1690,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1762777984
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
