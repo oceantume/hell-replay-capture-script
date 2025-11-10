@@ -311,12 +311,14 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762776841
   },
   {
     "name": "HLL Dev Team",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - Europe #01",
@@ -460,7 +462,8 @@
   {
     "name": "HLL Playtest Server - Europe #02",
     "addr": "176.57.168.38",
-    "port": 28600
+    "port": 28600,
+    "removed": 1762776841
   },
   {
     "name": "CZ/SK",
@@ -470,7 +473,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.91",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - Europe #04",
@@ -480,7 +484,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - Europe #06",
@@ -490,12 +495,14 @@
   {
     "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1762776841
   },
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - Europe #02",
@@ -571,12 +578,6 @@
     "removed": 1762625356
   },
   {
-    "name": "[EU] Buraks Server DE/AT/CH",
-    "addr": "176.57.174.211",
-    "port": 28100,
-    "removed": 1762172037
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200
@@ -625,7 +626,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762776841
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -709,7 +711,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner MIC Pflicht",
+    "name": "[GER] 300 Spartaner",
     "addr": "185.83.152.101",
     "port": 9075
   },
@@ -835,6 +837,11 @@
     "port": 7827
   },
   {
+    "name": "US East ｜Newbie Paradise Server｜T T",
+    "addr": "192.169.92.30",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
     "port": 7877
@@ -853,7 +860,8 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "192.169.95.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762776841
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1197,7 +1205,7 @@
     "port": 7807
   },
   {
-    "name": "CBMS",
+    "name": "CN 汉语 75级+ 永不炸服 德国节点 难民营",
     "addr": "208.115.226.4",
     "port": 7777
   },
@@ -1324,7 +1332,7 @@
     "port": 7787
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部（纯攻防）Q群：578097070",
+    "name": "CN#2TT天堂萌新俱乐部炸服加Q群：578097070",
     "addr": "216.144.245.84",
     "port": 7777
   },
@@ -1418,7 +1426,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - US East #01",
@@ -1433,13 +1442,13 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762776841
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1762690321
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1774,7 +1783,7 @@
     "port": 7787
   },
   {
-    "name": "CN 汉语 75级+ 永不炸服 美西节点 难民营",
+    "name": "I Love Playing Apex",
     "addr": "64.31.61.93",
     "port": 7777
   },
