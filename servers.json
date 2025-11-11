@@ -74,8 +74,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1762841524
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -329,8 +328,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1762841524
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -345,8 +343,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1762755184
+    "port": 28500
   },
   {
     "name": "Warfrags Studios",
@@ -439,8 +436,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1762841524
+    "port": 28000
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -517,8 +513,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1762755184
+    "port": 28700
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -619,7 +614,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1762884650
   },
   {
     "name": "Testing Server - UK #07",
@@ -861,10 +857,9 @@
     "port": 7777
   },
   {
-    "name": "SOULSNIPER'S SOF 2 | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPE",
+    "name": "Pathfinders | Smolensk",
     "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1762561933
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -898,7 +893,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1131,7 +1126,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1182,7 +1177,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1279,7 +1274,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1474,7 +1469,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1762884650
   },
   {
     "name": "HLL Official - US East #03",
@@ -1804,7 +1800,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[Merc] US West | Event Server",
     "addr": "64.31.61.92",
     "port": 7787
   },
@@ -1941,7 +1937,8 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762884650
   },
   {
     "name": "hll Server",
@@ -1956,8 +1953,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1762711804
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1972,8 +1968,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1762798258
+    "port": 28300
   },
   {
     "name": "<CN4> 瓦学弟想摸一摸学姐的黑丝",
@@ -1994,8 +1989,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1762798258
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
