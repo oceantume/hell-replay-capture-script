@@ -850,10 +850,9 @@
     "port": 7827
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜",
+    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "192.169.92.30",
-    "port": 7777,
-    "removed": 1762780697
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1077,6 +1076,11 @@
     "port": 7787
   },
   {
+    "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
+    "addr": "208.115.206.198",
+    "port": 7777
+  },
+  {
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
     "addr": "208.115.206.34",
     "port": 7777
@@ -1128,6 +1132,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
+    "addr": "208.115.206.84",
+    "port": 7787
+  },
+  {
     "name": "[GER] Midgards Panzer Event Server",
     "addr": "208.115.206.86",
     "port": 7777
@@ -1176,6 +1185,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
+    "port": 7777
+  },
+  {
+    "name": "ComunidadHispana - BetaBranch 1",
+    "addr": "208.115.214.220",
     "port": 7777
   },
   {
@@ -1634,7 +1648,8 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762821320
   },
   {
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
@@ -1885,7 +1900,7 @@
     "port": 7797
   },
   {
-    "name": "hll Server",
+    "name": "HLL Server",
     "addr": "74.63.225.19",
     "port": 7777
   },
@@ -2055,7 +2070,7 @@
     "port": 7777
   },
   {
-    "name": "Q's - Qonzer.com | Event Server #3 | London",
+    "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren!",
     "addr": "85.208.197.70",
     "port": 7777
   },
@@ -2092,8 +2107,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1762625356
+    "port": 7777
   },
   {
     "name": "HLL Server",
