@@ -687,7 +687,8 @@
   {
     "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1762885646
   },
   {
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
@@ -1439,12 +1440,6 @@
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
     "port": 28700
-  },
-  {
-    "name": "Testing Server - US East #09",
-    "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1762279861
   },
   {
     "name": "HLL Official - US East #04",
