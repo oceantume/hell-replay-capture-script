@@ -299,7 +299,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1762864361
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -984,12 +985,6 @@
     "port": 7777
   },
   {
-    "name": "Hell Let Luul [GER|DE] - Newbies Welcome",
-    "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1762258480
-  },
-  {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
     "port": 21000
@@ -1369,8 +1364,7 @@
   {
     "name": "CN#2TT天堂萌新俱乐部炸服加Q群：578097070",
     "addr": "216.144.245.84",
-    "port": 7777,
-    "removed": 1762863229
+    "port": 7777
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1653,8 +1647,7 @@
   {
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
     "addr": "64.31.11.42",
-    "port": 8530,
-    "removed": 1762863229
+    "port": 8530
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -1735,12 +1728,6 @@
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
-  },
-  {
-    "name": "Go学长服务器[加群979552783]",
-    "addr": "64.31.32.212",
-    "port": 7777,
-    "removed": 1762258480
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
