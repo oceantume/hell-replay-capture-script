@@ -17,7 +17,8 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762863229
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -47,7 +48,8 @@
   {
     "name": "Hell Let Loose Testing Server olo",
     "addr": "134.255.222.217",
-    "port": 24100
+    "port": 24100,
+    "removed": 1762863229
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -622,7 +624,8 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762863229
   },
   {
     "name": "HLL Official - UK #02",
@@ -632,7 +635,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762863229
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -1293,7 +1297,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762863229
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th] [b",
@@ -1364,7 +1369,8 @@
   {
     "name": "CN#2TT天堂萌新俱乐部炸服加Q群：578097070",
     "addr": "216.144.245.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762863229
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1455,8 +1461,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1762776841
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1548,6 +1553,11 @@
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 30+",
     "addr": "51.75.156.31",
+    "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "51.75.156.4",
     "port": 7777
   },
   {
@@ -1643,7 +1653,8 @@
   {
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
     "addr": "64.31.11.42",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762863229
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
