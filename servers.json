@@ -134,7 +134,8 @@
   {
     "name": "DKB - Event server - HLLdanmark.dk",
     "addr": "141.95.33.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1762972067
   },
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | ENG GER",
@@ -838,7 +839,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "192.169.92.29",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762972067
   },
   {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
@@ -1532,7 +1534,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Kampfgruppe Lazarus LVL 30+",
+    "name": "[GER] Kampfgruppe Lazarus LVL 10+",
     "addr": "51.75.156.31",
     "port": 7777
   },
@@ -1559,7 +1561,8 @@
   {
     "name": "VLK @ SMOLENSK",
     "addr": "51.89.42.34",
-    "port": 10710
+    "port": 10710,
+    "removed": 1762972067
   },
   {
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
@@ -1689,7 +1692,8 @@
   {
     "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
     "addr": "64.31.29.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762972067
   },
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
@@ -2061,6 +2065,11 @@
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "HLL Server",
+    "addr": "86.8.4.202",
+    "port": 7777
   },
   {
     "name": "{serverName}",
