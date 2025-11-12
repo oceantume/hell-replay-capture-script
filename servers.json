@@ -41,7 +41,7 @@
     "port": 28300
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God | LVL +40",
+    "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
     "addr": "108.165.230.224",
     "port": 7787
   },
@@ -358,7 +358,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762907714
   },
   {
     "name": "Testing Stuff",
@@ -374,12 +375,6 @@
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
     "port": 28000
-  },
-  {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "176.57.168.194",
-    "port": 28200,
-    "removed": 1762302912
   },
   {
     "name": "[BWR] UKRAINIAN & BALTIC SERVER (UA/LTU/LV/EST/ENG)https://disc",
@@ -1734,7 +1729,7 @@
     "port": 7777
   },
   {
-    "name": "SMOLENSK 24/7 - Public",
+    "name": "Bad Intentions - Event #2 [US EAST]",
     "addr": "64.31.58.62",
     "port": 7777
   },
