@@ -836,6 +836,11 @@
     "port": 7827
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "192.169.92.29",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "192.169.92.30",
     "port": 7777
@@ -887,7 +892,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1121,7 +1126,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1172,7 +1177,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1268,7 +1273,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1952,7 +1957,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762971071
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2064,7 +2070,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1762971071
   },
   {
     "name": "HLL Official - South America #01",
@@ -2192,6 +2199,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1762971071
   }
 ]
