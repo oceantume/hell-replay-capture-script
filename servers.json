@@ -298,8 +298,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1762950827
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -335,7 +334,8 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1762952342
   },
   {
     "name": "HLL Official - Europe #03",
@@ -1417,7 +1417,8 @@
   {
     "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1762952342
   },
   {
     "name": "HLL Official - US West #02",
@@ -1574,7 +1575,8 @@
   {
     "name": "[PL/ENG] | BYZANTIUM Polish Server | Low Ping & New Players Wel",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1762952342
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
