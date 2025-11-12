@@ -321,7 +321,7 @@
     "port": 28000
   },
   {
-    "name": "{serverName}",
+    "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
     "port": 28200
   },
@@ -678,7 +678,8 @@
   {
     "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
     "addr": "185.216.144.75",
-    "port": 10710
+    "port": 10710,
+    "removed": 1762949668
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
@@ -689,12 +690,6 @@
     "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
     "addr": "185.216.144.75",
     "port": 8530
-  },
-  {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
-    "addr": "185.216.144.75",
-    "port": 9075,
-    "removed": 1762344852
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -1461,8 +1456,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1762884650
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1738,6 +1732,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.53.182",
+    "port": 7777
+  },
+  {
     "name": "Bad Intentions - Event #2 [US EAST]",
     "addr": "64.31.58.62",
     "port": 7777
@@ -1906,8 +1905,7 @@
   {
     "name": "[LATAM] Se Sortea Chancho by Tango",
     "addr": "78.111.102.114",
-    "port": 28300,
-    "removed": 1762931387
+    "port": 28300
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -2063,6 +2061,11 @@
     "port": 28300
   },
   {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
     "port": 28000
@@ -2122,7 +2125,8 @@
   {
     "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
     "addr": "92.118.18.84",
-    "port": 7797
+    "port": 7797,
+    "removed": 1762949668
   },
   {
     "name": "End of Existence | VoidExistence.com",
