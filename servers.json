@@ -73,13 +73,13 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1762927920
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1763014335
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -341,7 +341,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763014335
   },
   {
     "name": "HLL Official - Europe #05",
@@ -427,8 +428,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1762927920
+    "port": 28000
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -480,8 +480,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1762927920
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -522,7 +521,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763014335
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -930,7 +930,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1763014335
   },
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
@@ -955,8 +956,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1762927920
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1661,7 +1661,7 @@
     "port": 11800
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜CN3 TT天堂",
+    "name": "US East ｜Newbie Paradise Server｜CN4 TT天堂",
     "addr": "64.31.16.186",
     "port": 7777
   },
@@ -1789,7 +1789,8 @@
   {
     "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
     "addr": "64.31.59.77",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763014335
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1940,8 +1941,7 @@
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
     "addr": "78.111.102.114",
-    "port": 28200,
-    "removed": 1762994088
+    "port": 28200
   },
   {
     "name": "[LATAM] Se Sortea Chancho by Tango",
@@ -2137,7 +2137,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763014335
   },
   {
     "name": "HLL Server",
