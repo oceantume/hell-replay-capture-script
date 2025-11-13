@@ -451,7 +451,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763060076
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -1284,7 +1285,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "208.115.226.6",
     "port": 7787
   },
