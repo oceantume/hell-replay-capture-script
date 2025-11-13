@@ -17,7 +17,8 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763036048
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -78,8 +79,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1763014335
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -357,7 +357,8 @@
   {
     "name": "Empire of Thunder - Join the Battle! DE/EN",
     "addr": "176.57.140.196",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763036048
   },
   {
     "name": "[FR] Division Gauloise | ADMIN ACTIF | SEED A 30",
@@ -458,7 +459,8 @@
   {
     "name": "HLL Dev Team 2",
     "addr": "176.57.168.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763036048
   },
   {
     "name": "Testing Server - EU #08",
@@ -477,10 +479,9 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Empire of Thunder - Join the Battle! DE/EN",
     "addr": "176.57.168.91",
-    "port": 28100,
-    "removed": 1762776841
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #04",
@@ -754,7 +755,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "192.169.86.107",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763036048
   },
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
@@ -1061,7 +1063,7 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
+    "name": "[GER] • Oktogon 2 • Mic Only • Wir Rekrutieren! #Qonzer",
     "addr": "208.115.201.22",
     "port": 7787
   },
@@ -1386,7 +1388,8 @@
   {
     "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
     "addr": "216.144.245.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763036048
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -1663,7 +1666,8 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "64.31.11.74",
-    "port": 11800
+    "port": 11800,
+    "removed": 1763036048
   },
   {
     "name": "US East ｜Newbie Paradise Server｜CN4 TT天堂",
@@ -1913,6 +1917,11 @@
     "port": 7777
   },
   {
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
+    "addr": "74.63.203.74",
+    "port": 7777
+  },
+  {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
     "port": 7787
@@ -2141,8 +2150,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1763014335
+    "port": 7777
   },
   {
     "name": "HLL Server",
