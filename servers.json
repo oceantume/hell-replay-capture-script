@@ -188,10 +188,9 @@
     "port": 7777
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜CN TT天堂",
+    "name": "US East ｜Newbie Paradise Server｜CN3 TT天堂",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1762994088
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -1662,6 +1661,16 @@
     "port": 11800
   },
   {
+    "name": "US East ｜Newbie Paradise Server｜CN3 TT天堂",
+    "addr": "64.31.16.186",
+    "port": 7777
+  },
+  {
+    "name": "US East ｜Newbie Paradise Server｜CN2 TT天堂",
+    "addr": "64.31.16.187",
+    "port": 7777
+  },
+  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -2128,8 +2137,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1762994088
+    "port": 7777
   },
   {
     "name": "HLL Server",
