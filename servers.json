@@ -1001,7 +1001,8 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763058402
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1641,6 +1642,11 @@
     "name": "[PL/ENG] | BYZANTIUM Polish Server | Low Ping & New Players Wel",
     "addr": "54.36.173.226",
     "port": 8530
+  },
+  {
+    "name": "278/ACR L Troop",
+    "addr": "54.37.129.102",
+    "port": 7807
   },
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
