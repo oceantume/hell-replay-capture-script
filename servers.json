@@ -17,8 +17,7 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777,
-    "removed": 1763036048
+    "port": 7777
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -243,42 +242,50 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "154.45.251.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763057407
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "154.45.251.75",
-    "port": 7827
+    "port": 7827,
+    "removed": 1763057407
   },
   {
     "name": "LST车组训练专用服",
     "addr": "154.45.251.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763057407
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
     "addr": "154.45.251.76",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763057407
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "154.45.251.76",
-    "port": 7847
+    "port": 7847,
+    "removed": 1763057407
   },
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
     "addr": "154.45.251.77",
-    "port": 7837
+    "port": 7837,
+    "removed": 1763057407
   },
   {
     "name": "帝国社区训练专用服",
     "addr": "154.45.251.78",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763057407
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "154.45.251.78",
-    "port": 7817
+    "port": 7817,
+    "removed": 1763057407
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
@@ -295,6 +302,11 @@
     "addr": "162.220.160.106",
     "port": 8530,
     "removed": 1762603913
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "162.220.9.82",
+    "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -484,7 +496,7 @@
     "port": 28000
   },
   {
-    "name": "Empire of Thunder - Join the Battle! DE/EN",
+    "name": "Open for All! [ENG/GER New Players Welcome!] - Empire of Thunde",
     "addr": "176.57.168.91",
     "port": 28100
   },
@@ -725,12 +737,18 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763057407
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
     "addr": "188.64.33.2",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "188.64.33.2",
+    "port": 9075
   },
   {
     "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
@@ -1141,8 +1159,7 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "208.115.206.84",
-    "port": 7787,
-    "removed": 1763039955
+    "port": 7787
   },
   {
     "name": "[GER] Midgards Panzer Event Server",
@@ -1433,6 +1450,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "45.124.213.23",
+    "port": 8530
+  },
+  {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28700
@@ -1465,7 +1487,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1763057407
   },
   {
     "name": "HLL Official - US East #04",
@@ -1585,6 +1608,11 @@
     "port": 9620
   },
   {
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
+    "addr": "51.79.151.161",
+    "port": 7777
+  },
+  {
     "name": "CZ & SK | #3 | VLK @ EVENT",
     "addr": "51.89.42.34",
     "port": 10165
@@ -1668,6 +1696,11 @@
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
     "addr": "64.31.11.42",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.31.11.42",
+    "port": 9075
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -1925,7 +1958,8 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
     "addr": "74.63.203.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763057407
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -2011,8 +2045,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1762971071
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2030,10 +2063,9 @@
     "port": 28300
   },
   {
-    "name": "<CN4> 瓦学弟想摸一摸学姐的黑丝",
+    "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1762755184
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2156,7 +2188,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763057407
   },
   {
     "name": "HLL Server",
@@ -2258,7 +2291,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1762971071
+    "port": 28200
   }
 ]
