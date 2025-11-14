@@ -306,7 +306,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "162.220.9.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763080511
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -496,7 +497,7 @@
     "port": 28000
   },
   {
-    "name": "Open for All! [ENG/GER New Players Welcome!] - Empire of Thunde",
+    "name": "ENG/GER New Players Welcome! - Empire of Thunder",
     "addr": "176.57.168.91",
     "port": 28100
   },
@@ -737,8 +738,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1763057407
+    "port": 7807
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -746,7 +746,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "CN/EU 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "188.64.33.2",
     "port": 9075
   },
@@ -780,6 +780,11 @@
     "addr": "192.169.86.107",
     "port": 7777,
     "removed": 1763036048
+  },
+  {
+    "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
+    "addr": "192.169.86.108",
+    "port": 7787
   },
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
@@ -1113,8 +1118,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1762475683
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1273,10 +1277,9 @@
     "port": 7777
   },
   {
-    "name": "Mic server Free Dutch Empire server #1",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.226.4",
-    "port": 7787,
-    "removed": 1762994088
+    "port": 7787
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1286,13 +1289,8 @@
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "208.115.226.6",
-    "port": 7787
-  },
-  {
-    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
-    "addr": "208.115.226.90",
     "port": 7787,
-    "removed": 1762456088
+    "removed": 1763080511
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1457,7 +1455,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "45.124.213.23",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763080511
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1710,7 +1709,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.11.42",
-    "port": 9075
+    "port": 9075,
+    "removed": 1763080511
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -1789,10 +1789,9 @@
     "port": 7777
   },
   {
-    "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
+    "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.31.123",
-    "port": 7777,
-    "removed": 1762927920
+    "port": 7777
   },
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
@@ -2198,8 +2197,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1763057407
+    "port": 7777
   },
   {
     "name": "HLL Server",
@@ -2225,7 +2223,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763080511
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
