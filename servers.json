@@ -173,6 +173,11 @@
     "port": 29000
   },
   {
+    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 SGP节点",
+    "addr": "145.239.144.76",
+    "port": 8530
+  },
+  {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
     "addr": "145.239.144.76",
     "port": 9075
@@ -612,7 +617,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763143846
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -736,7 +742,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] 300 Spartaner",
+    "name": "[GER] 300 Spartaner Mic Pflicht",
     "addr": "185.83.152.101",
     "port": 9075
   },
@@ -826,12 +832,6 @@
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
     "port": 7787
-  },
-  {
-    "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "192.169.86.213",
-    "port": 7777,
-    "removed": 1762539036
   },
   {
     "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
@@ -1031,8 +1031,7 @@
   {
     "name": "Mondaze Testing",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1763122476
+    "port": 7777
   },
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
@@ -1245,7 +1244,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.222",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763143846
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1290,6 +1290,11 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | discord.gg/byzantium",
     "addr": "208.115.226.4",
+    "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.226.5",
     "port": 7787
   },
   {
@@ -1492,7 +1497,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1763143846
   },
   {
     "name": "HLL Official - US West #01",
@@ -1556,6 +1562,11 @@
     "name": "[AnE] Let Loose UK - All levels and experience welcome.",
     "addr": "45.143.199.235",
     "port": 8530
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "5.135.28.224",
+    "port": 7777
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1647,7 +1658,8 @@
   {
     "name": "VLK @ SMOLENSK",
     "addr": "51.89.42.34",
-    "port": 10710
+    "port": 10710,
+    "removed": 1763143846
   },
   {
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
@@ -1795,7 +1807,7 @@
     "port": 7797
   },
   {
-    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
     "addr": "64.31.28.85",
     "port": 7807
   },
@@ -2100,8 +2112,7 @@
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1763125051
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2132,12 +2143,6 @@
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.138",
     "port": 28200
-  },
-  {
-    "name": "Study Hall",
-    "addr": "83.223.203.138",
-    "port": 28300,
-    "removed": 1762539036
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
