@@ -317,8 +317,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1763123615
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1461,7 +1460,8 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 SGP节点",
     "addr": "45.124.213.23",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763125051
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1661,8 +1661,7 @@
   {
     "name": "[PL/ENG] | BYZANTIUM Polish Server | Low Ping & New Players Wel",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1763123615
+    "port": 8530
   },
   {
     "name": "278/ACR L Troop",
@@ -1728,7 +1727,8 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "64.31.11.42",
-    "port": 9075
+    "port": 9075,
+    "removed": 1763125051
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -2094,7 +2094,8 @@
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763125051
   },
   {
     "name": "HLL Official - Asia #06",
