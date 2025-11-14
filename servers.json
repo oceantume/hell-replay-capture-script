@@ -42,7 +42,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763126208
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -84,6 +85,11 @@
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
     "port": 8982
+  },
+  {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "addr": "135.181.165.173",
+    "port": 9075
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
