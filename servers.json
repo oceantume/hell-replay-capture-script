@@ -87,7 +87,7 @@
     "port": 8982
   },
   {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
     "addr": "135.181.165.173",
     "port": 9075
   },
@@ -152,12 +152,6 @@
     "port": 7777
   },
   {
-    "name": "SAPPER | US EAST | NEW PLAYERS WELCOME",
-    "addr": "144.126.153.213",
-    "port": 28300,
-    "removed": 1762582209
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -173,7 +167,7 @@
     "port": 29000
   },
   {
-    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 SGP节点",
+    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
     "addr": "145.239.144.76",
     "port": 8530
   },
@@ -358,8 +352,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1762927920
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -369,7 +362,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763187014
   },
   {
     "name": "HLL Official - Europe #05",
@@ -466,8 +460,7 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1763100720
+    "port": 28000
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -580,8 +573,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1763100720
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -649,7 +641,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763187014
   },
   {
     "name": "Testing Server - UK #07",
@@ -685,6 +678,11 @@
     "name": "[LATAM] El Olimpo -360 Conducción- discord.gg/RVpRVBP2JQ",
     "addr": "181.214.221.212",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "181.214.221.212",
+    "port": 7787
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
@@ -745,7 +743,8 @@
   {
     "name": "[GER] 300 Spartaner Mic Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1763187014
   },
   {
     "name": "Private Server A01",
@@ -1128,8 +1127,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1763168591
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1632,7 +1630,7 @@
     "port": 9620
   },
   {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
+    "name": "Welcome cnplayer/┗|｀O′|┛/nodiscord/hk/882377564",
     "addr": "51.79.151.161",
     "port": 7777
   },
@@ -1867,7 +1865,7 @@
     "port": 7777
   },
   {
-    "name": "Bad Intentions - Event #2 [US EAST]",
+    "name": "Bad Intentions - Public [US EAST]",
     "addr": "64.31.58.62",
     "port": 7777
   },
@@ -2002,6 +2000,66 @@
     "addr": "74.63.203.74",
     "port": 7777,
     "removed": 1763057407
+  },
+  {
+    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
+    "addr": "74.63.207.107",
+    "port": 7847
+  },
+  {
+    "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
+    "addr": "74.63.207.107",
+    "port": 7907
+  },
+  {
+    "name": "chickchickchick",
+    "addr": "74.63.207.108",
+    "port": 7777
+  },
+  {
+    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
+    "addr": "74.63.207.108",
+    "port": 7787
+  },
+  {
+    "name": "CN2#散人猫猫攻防|极限攻防战争咖啡馆Q120748151",
+    "addr": "74.63.207.108",
+    "port": 7857
+  },
+  {
+    "name": "CN1#散人猫猫社区|萌新军官当然来的咖啡馆Q120748",
+    "addr": "74.63.207.108",
+    "port": 7887
+  },
+  {
+    "name": "CN3#散人猫猫攻防|极限攻防第二咖啡馆Q120748151",
+    "addr": "74.63.207.109",
+    "port": 7807
+  },
+  {
+    "name": "<CN>#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
+    "addr": "74.63.207.109",
+    "port": 7827
+  },
+  {
+    "name": "CN4#散人猫猫攻防|秋日微凉也要攻防Q120748151",
+    "addr": "74.63.207.110",
+    "port": 7777
+  },
+  {
+    "name": "GTZ战术大队跑图服",
+    "addr": "74.63.207.110",
+    "port": 7797
+  },
+  {
+    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
+    "addr": "74.63.207.110",
+    "port": 7817
+  },
+  {
+    "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
+    "addr": "74.63.207.110",
+    "port": 7897
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -2224,7 +2282,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763187014
   },
   {
     "name": "HLL Server",
