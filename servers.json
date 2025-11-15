@@ -31,6 +31,11 @@
     "removed": 1763208716
   },
   {
+    "name": "#2 EMP&GR 帝国社区无规则冲突服",
+    "addr": "103.62.51.130",
+    "port": 8888
+  },
+  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -603,12 +608,6 @@
     "port": 28400
   },
   {
-    "name": "LwJg46 Trainingsserver",
-    "addr": "176.57.171.38",
-    "port": 28100,
-    "removed": 1762625356
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200,
@@ -786,8 +785,7 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "192.169.86.106",
-    "port": 7787,
-    "removed": 1763211974
+    "port": 7787
   },
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1494,19 +1492,18 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1763143846
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1763230176
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1763057407
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
