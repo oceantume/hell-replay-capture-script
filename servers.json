@@ -43,8 +43,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1763126208
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -317,7 +316,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763211974
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -786,7 +786,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "192.169.86.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763211974
   },
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
