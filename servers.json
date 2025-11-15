@@ -27,7 +27,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763208716
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -301,19 +302,12 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1763190122
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075
-  },
-  {
-    "name": "League of Extraordinary Respected Gamers | US West | RESG | 24x",
-    "addr": "162.220.160.106",
-    "port": 8530,
-    "removed": 1762603913
   },
   {
     "name": "CHESHIRE CAT 柴郡 WELCOME QUN885187716 //CCG CN//US WEST",
@@ -413,6 +407,11 @@
     "port": 28000
   },
   {
+    "name": "! ! !OINK 8 KAMPFSCHWEINE | OFFENSIVE | LMS | GER ENG",
+    "addr": "176.57.168.194",
+    "port": 28100
+  },
+  {
     "name": "[ESP] Black Bees - Event Server Only",
     "addr": "176.57.168.250",
     "port": 28100,
@@ -506,7 +505,7 @@
     "port": 28000
   },
   {
-    "name": "#NEW - EMPIRE OF THUNDER | NEW PLAYER FRIENDLY | ENG/GER",
+    "name": "#NEW PLAYER FRIENDLY! | Empire of Thunder | ENG/GER",
     "addr": "176.57.168.91",
     "port": 28100
   },
@@ -549,7 +548,8 @@
   {
     "name": "! ! !OINK 8 KAMPFSCHWEINE | OFFENSIVE | GER ENG",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763208716
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -750,7 +750,8 @@
   {
     "name": "Private Server A01",
     "addr": "185.83.152.101",
-    "port": 9620
+    "port": 9620,
+    "removed": 1763208716
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -945,8 +946,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1763190122
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
@@ -956,8 +956,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1763190122
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1138,7 +1137,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] • Oktogon 1 • Mic Only • Wir Rekrutieren! #Qonzer",
+    "name": "Oktogon 1 • Mic Only • Wir Rekrutieren! [ENG/GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1185,8 +1184,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1763190122
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1238,8 +1236,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1763190122
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1298,7 +1295,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Mic Free Dutch empire Server https://discord.gg/fdenl",
     "addr": "208.115.226.5",
     "port": 7787
   },
@@ -1341,8 +1338,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1763190122
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1378,8 +1374,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1763190122
+    "port": 7777
   },
   {
     "name": "[EU]Neko-puma-eros-jump 50v50 | discord.gg/7WGX6JwPTu",
@@ -1525,8 +1520,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1763122476
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1536,8 +1530,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1763122476
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1572,8 +1565,7 @@
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1763190122
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1961,8 +1953,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1763190122
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
