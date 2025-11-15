@@ -596,7 +596,8 @@
   {
     "name": "Hell let Loose Server Piu",
     "addr": "176.57.171.176",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763166832
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -1580,14 +1581,12 @@
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1763147176
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1763147176
+    "port": 9620
   },
   {
     "name": "Qonzer EU Test",
@@ -2224,8 +2223,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1763100720
+    "port": 7777
   },
   {
     "name": "HLL Server",
