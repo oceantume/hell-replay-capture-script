@@ -1,5 +1,10 @@
 [
   {
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
+    "addr": "103.1.213.251",
+    "port": 8888
+  },
+  {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
     "port": 8888
@@ -33,7 +38,8 @@
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
     "addr": "103.62.51.130",
-    "port": 8888
+    "port": 8888,
+    "removed": 1763316607
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -95,7 +101,8 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
     "addr": "135.181.165.173",
-    "port": 9075
+    "port": 9075,
+    "removed": 1763316607
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -120,8 +127,7 @@
   {
     "name": "KRTs Chilling at Camelot Experimental",
     "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1763298370
+    "port": 7777
   },
   {
     "name": "hll server",
@@ -288,7 +294,7 @@
     "removed": 1763057407
   },
   {
-    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "154.45.251.78",
     "port": 7817
   },
@@ -310,8 +316,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1763211974
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1018,7 +1023,8 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1763316607
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
@@ -1064,12 +1070,6 @@
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8888
-  },
-  {
-    "name": "HCIA Dev Server",
-    "addr": "203.23.178.51",
-    "port": 8898,
-    "removed": 1762711804
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1185,7 +1185,8 @@
   {
     "name": "㋑ | Born To Kill - discord.gg/b2kgaming",
     "addr": "208.115.212.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763316607
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -1472,8 +1473,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1763230176
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1533,8 +1533,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777,
-    "removed": 1763275399
+    "port": 7777
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
