@@ -27,8 +27,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1763208716
+    "port": 7807
   },
   {
     "name": "#2 EMP&GR 帝国社区无规则冲突服",
@@ -206,18 +205,6 @@
     "addr": "15.204.170.66",
     "port": 7777,
     "removed": 1763100720
-  },
-  {
-    "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
-    "addr": "15.204.170.68",
-    "port": 7777,
-    "removed": 1762648632
-  },
-  {
-    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
-    "addr": "15.204.170.68",
-    "port": 7787,
-    "removed": 1762648632
   },
   {
     "name": "hll Server",
@@ -608,6 +595,11 @@
     "port": 28400
   },
   {
+    "name": "Front Sector Control [EU] | Tactical | No Solo Squad | Map Vote",
+    "addr": "176.57.174.211",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200,
@@ -621,7 +613,8 @@
   {
     "name": "Churchill's Dagger Division",
     "addr": "176.57.174.211",
-    "port": 28600
+    "port": 28600,
+    "removed": 1763253482
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -1668,7 +1661,7 @@
     "port": 9720
   },
   {
-    "name": "[PL/ENG] | BYZANTIUM Polish Server | Low Ping & New Players Wel",
+    "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
     "port": 8530
   },
@@ -2166,7 +2159,7 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (Taiwan) Server by g-portal.com",
+    "name": "NiuB",
     "addr": "83.223.197.85",
     "port": 28100
   },
