@@ -30,7 +30,7 @@
     "port": 7807
   },
   {
-    "name": "#2 EMP&GR 帝国社区无规则冲突服",
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
     "addr": "103.62.51.130",
     "port": 8888
   },
@@ -88,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1763273447
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -349,8 +350,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1763187014
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -595,7 +595,7 @@
     "port": 28400
   },
   {
-    "name": "Front Sector Control [EU|DE] | Tactical | No Solo Squad | Map V",
+    "name": "Front Sector Control [EU|DE] | Tactical | No Solo Squad | Arvox",
     "addr": "176.57.174.211",
     "port": 28000
   },
@@ -634,8 +634,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1763187014
+    "port": 28000
   },
   {
     "name": "Testing Server - UK #07",
@@ -673,7 +672,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "D.C. I DELTA CORPS",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1015,12 +1014,6 @@
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
     "port": 9620
-  },
-  {
-    "name": "OPERATION BARBAROSSA | # ( NYC )",
-    "addr": "194.140.197.76",
-    "port": 28800,
-    "removed": 1762668621
   },
   {
     "name": "Mondaze Testing",
@@ -1621,7 +1614,7 @@
     "port": 9620
   },
   {
-    "name": "Welcome cnplayer/┗|｀O′|┛/nodiscord/hk/882377564",
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
     "addr": "51.79.151.161",
     "port": 7777
   },
