@@ -967,8 +967,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1763014335
+    "port": 7877
   },
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
@@ -1332,7 +1331,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763319072
   },
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
