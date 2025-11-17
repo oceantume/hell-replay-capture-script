@@ -315,7 +315,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763382777
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -483,12 +484,6 @@
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
-  },
-  {
-    "name": "HLL Playtest Server - Europe #02",
-    "addr": "176.57.168.38",
-    "port": 28600,
-    "removed": 1762776841
   },
   {
     "name": "CZ/SK",
@@ -819,7 +814,8 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763382777
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -903,12 +899,6 @@
     "name": "Pathfinders | Smolensk",
     "addr": "192.169.95.182",
     "port": 7777
-  },
-  {
-    "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
-    "addr": "192.169.95.2",
-    "port": 8530,
-    "removed": 1762776841
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -2136,7 +2126,8 @@
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763382777
   },
   {
     "name": "NiuB",
