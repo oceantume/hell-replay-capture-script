@@ -672,7 +672,7 @@
     "port": 7777
   },
   {
-    "name": "D.C. I DELTA CORPS",
+    "name": "[LATAM] D.C. I DELTA CORPS / ESP",
     "addr": "181.214.221.212",
     "port": 7787
   },
@@ -1002,6 +1002,11 @@
   {
     "name": "The Fox Hole (Veteran Owned - New Players Welcome)",
     "addr": "193.192.58.206",
+    "port": 28300
+  },
+  {
+    "name": "Savage Let loose",
+    "addr": "193.192.59.170",
     "port": 28300
   },
   {
