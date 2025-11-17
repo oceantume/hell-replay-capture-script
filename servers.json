@@ -741,7 +741,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763404021
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -1011,7 +1012,8 @@
   {
     "name": "Mondaze Testing",
     "addr": "194.180.207.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763404021
   },
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
@@ -1551,12 +1553,6 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
-  },
-  {
-    "name": "Qonzer EU Test",
-    "addr": "51.75.156.0",
-    "port": 7777,
-    "removed": 1762798258
   },
   {
     "name": "EASY Company EU | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2248,8 +2244,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1763187014
+    "port": 7777
   },
   {
     "name": "HLL Server",
