@@ -310,7 +310,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763469180
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -2326,8 +2327,7 @@
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.89",
-    "port": 29100,
-    "removed": 1763468034
+    "port": 29100
   },
   {
     "name": "HLL Official - Australia #02",
