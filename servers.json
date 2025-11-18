@@ -85,7 +85,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763446311
   },
   {
     "name": "HLL Official - Russia #02",
@@ -159,7 +160,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | ENG GER",
+    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
     "port": 7777
   },
@@ -360,7 +361,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1763446311
   },
   {
     "name": "Testify",
@@ -727,7 +729,7 @@
     "port": 10165
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER",
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER ENG",
     "addr": "185.83.152.101",
     "port": 8530
   },
@@ -1106,8 +1108,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1763427879
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
