@@ -1106,7 +1106,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763427879
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -2248,7 +2249,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763427879
   },
   {
     "name": "Test HLL",
