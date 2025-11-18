@@ -62,12 +62,6 @@
     "port": 7787
   },
   {
-    "name": "Hell Let Loose Testing Server olo",
-    "addr": "134.255.222.217",
-    "port": 24100,
-    "removed": 1762863229
-  },
-  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -1319,12 +1313,6 @@
     "port": 7787
   },
   {
-    "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1762863229
-  },
-  {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th] [b",
     "addr": "208.115.248.90",
     "port": 7777
@@ -1415,7 +1403,8 @@
   {
     "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
     "addr": "217.182.196.157",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763468034
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1506,8 +1495,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1763381636
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -2338,7 +2326,8 @@
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.89",
-    "port": 29100
+    "port": 29100,
+    "removed": 1763468034
   },
   {
     "name": "HLL Official - Australia #02",
