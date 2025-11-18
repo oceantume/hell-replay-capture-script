@@ -310,8 +310,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1763469180
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -1621,7 +1620,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763470676
   },
   {
     "name": "278/ACR L Troop",
