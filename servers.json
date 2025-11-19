@@ -593,7 +593,8 @@
   {
     "name": "Front Sector Control [EU|DE] | Tactical | No Solo Squad | Arvox",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763512513
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1724,7 +1725,7 @@
     "port": 7777
   },
   {
-    "name": "1st Marine Division | New Player Friendly | discord.com/1stmard",
+    "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "64.31.18.228",
     "port": 7777
   },
@@ -2136,8 +2137,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1763426084
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
