@@ -7,10 +7,11 @@
   {
     "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1763554439
   },
   {
-    "name": "BigD.com.au AU#0 | LOCKED TEST | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
     "port": 7787
   },
@@ -20,7 +21,7 @@
     "port": 7807
   },
   {
-    "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
+    "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7807
   },
@@ -364,7 +365,8 @@
   {
     "name": "Testify",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763554439
   },
   {
     "name": "Warfrags Studios",
@@ -858,8 +860,7 @@
   {
     "name": "The Red Lion - Blood Sweat and Beers - [BSB] - Community server",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1763359966
+    "port": 7797
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1463,7 +1464,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763554439
   },
   {
     "name": "HLL Official - US East #01",
@@ -1526,7 +1528,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#1 | Map Voting Enabled | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -2163,7 +2165,8 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763554439
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2178,12 +2181,14 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren!",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763554439
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1763554439
   },
   {
     "name": "HLL Server",
@@ -2288,7 +2293,8 @@
   {
     "name": "LATAM ESP OGT 2",
     "addr": "92.118.19.84",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763554439
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
