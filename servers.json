@@ -504,12 +504,6 @@
     "port": 28200
   },
   {
-    "name": "HLL Official - Europe #06",
-    "addr": "176.57.169.108",
-    "port": 28400,
-    "removed": 1762927920
-  },
-  {
     "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
     "port": 28500
@@ -827,12 +821,6 @@
     "port": 7787
   },
   {
-    "name": "Dark Horizon 2 | New Players Welcome | Powered by Qonzer",
-    "addr": "192.169.86.213",
-    "port": 7787,
-    "removed": 1762927920
-  },
-  {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
     "port": 7777
@@ -1022,14 +1010,12 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1763532698
+    "port": 21000
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
     "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1763532698
+    "port": 21200
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1873,12 +1859,6 @@
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
     "port": 7787
-  },
-  {
-    "name": "Dark Horizon 1 | New Players Welcome | Powered by Qonzer",
-    "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1762927920
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
