@@ -308,14 +308,15 @@
     "port": 9075
   },
   {
-    "name": "CHESHIRE CAT 柴郡 WELCOME QUN885187716 //CCG CN//US WEST",
+    "name": "CHESHIRE CAT CHAIJUN WELCOME885187716 CCG CN CHAIJUN",
     "addr": "162.220.9.82",
     "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763555579
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -691,12 +692,6 @@
     "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE",
     "addr": "181.214.48.19",
     "port": 7797
-  },
-  {
-    "name": "UK/EU | Pixels 'N' Pints | New Players Welcome",
-    "addr": "185.216.144.75",
-    "port": 10710,
-    "removed": 1762949668
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
@@ -2258,12 +2253,6 @@
     "name": "The DRAFT [HAUS] Event Server",
     "addr": "92.118.18.72",
     "port": 7807
-  },
-  {
-    "name": "SOULSNIPER'S SOF | EVENT SERVER | DISCORD.GG/SOULSNIPER",
-    "addr": "92.118.18.84",
-    "port": 7797,
-    "removed": 1762949668
   },
   {
     "name": "End of Existence | VoidExistence.com",
