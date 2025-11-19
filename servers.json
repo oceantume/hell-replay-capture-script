@@ -5,10 +5,9 @@
     "port": 8888
   },
   {
-    "name": "BigD.com.au AU#2 | All Modes - Map Voting | discord.gg/bigd",
+    "name": "BigD.com.au #00 | discord.gg/BigD",
     "addr": "103.1.215.69",
-    "port": 8888,
-    "removed": 1763554439
+    "port": 8888
   },
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
@@ -819,8 +818,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777,
-    "removed": 1763558294
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1002,6 +1000,11 @@
     "name": "Mondaze Testing",
     "addr": "194.180.207.89",
     "port": 7777
+  },
+  {
+    "name": "Filmserver [GER] EGGY/BOTBAUM",
+    "addr": "195.82.158.186",
+    "port": 20600
   },
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
@@ -1327,7 +1330,7 @@
     "port": 7777
   },
   {
-    "name": "[EU]Neko-puma-eros-jump 50v50 | discord.gg/7WGX6JwPTu",
+    "name": "[EU]GHOST REGIMENT Player Training 50v50 | discord.gg/7WGX6JwPT",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -2092,8 +2095,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1763403041
+    "port": 28300
   },
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
@@ -2195,12 +2197,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1762971071
   },
   {
     "name": "HLL Official - South America #01",
@@ -2318,7 +2314,6 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1763489489
+    "port": 28200
   }
 ]
