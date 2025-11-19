@@ -78,8 +78,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1763446311
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -360,8 +359,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1763446311
+    "port": 28500
   },
   {
     "name": "Testify",
@@ -560,8 +558,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1763359966
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -641,7 +638,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763532698
   },
   {
     "name": "Testing Server - EU #05",
@@ -1024,12 +1022,14 @@
   {
     "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1763532698
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1763532698
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
