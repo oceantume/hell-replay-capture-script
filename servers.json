@@ -88,8 +88,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1763619103
+    "port": 8982
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -155,6 +154,11 @@
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
+    "port": 7777
+  },
+  {
+    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
+    "addr": "142.91.157.28",
     "port": 7777
   },
   {
@@ -329,8 +333,7 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1763619103
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -367,12 +370,6 @@
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
-  },
-  {
-    "name": "Empire of Thunder - Join the Battle! DE/EN",
-    "addr": "176.57.140.196",
-    "port": 28200,
-    "removed": 1763036048
   },
   {
     "name": "[FR] Division Gauloise | ADMIN ACTIF | SEED A 30",
@@ -469,12 +466,6 @@
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
     "port": 28200
-  },
-  {
-    "name": "HLL Dev Team 2",
-    "addr": "176.57.168.38",
-    "port": 28300,
-    "removed": 1763036048
   },
   {
     "name": "Testing Server - EU #08",
@@ -636,7 +627,8 @@
   {
     "name": "Testing Server - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763640859
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -714,7 +706,7 @@
     "port": 10165
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | GTX | GER ENG",
+    "name": "! ! !OINK 9.9 KAMPFSCHWEINE | ENDGAME | GTX | GER ENG",
     "addr": "185.83.152.101",
     "port": 8530
   },
@@ -769,12 +761,6 @@
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "192.169.86.106",
     "port": 7807
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "192.169.86.107",
-    "port": 7777,
-    "removed": 1763036048
   },
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
@@ -1023,7 +1009,8 @@
   {
     "name": "#1 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763640859
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1354,12 +1341,6 @@
     "port": 7787
   },
   {
-    "name": "[CN]Nya~柔情猫娘#欢迎主人进服喵#日服Q:500001820",
-    "addr": "216.144.245.86",
-    "port": 7777,
-    "removed": 1763036048
-  },
-  {
     "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
     "addr": "216.144.245.86",
     "port": 7877
@@ -1440,13 +1421,13 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1763554439
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1763640859
   },
   {
     "name": "HLL Official - US East #02",
@@ -1461,7 +1442,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1763640859
   },
   {
     "name": "HLL Official - US East #03",
@@ -1659,12 +1641,6 @@
     "addr": "64.31.11.42",
     "port": 9075,
     "removed": 1763125051
-  },
-  {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
-    "addr": "64.31.11.74",
-    "port": 11800,
-    "removed": 1763036048
   },
   {
     "name": "US East ｜Newbie Paradise Server｜CN4 TT天堂",
@@ -2141,31 +2117,28 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797,
-    "removed": 1763554439
+    "port": 7797
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1763640859
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1763622548
+    "port": 7777
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren!",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1763619103
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1763554439
+    "port": 7817
   },
   {
     "name": "{serverName}",
