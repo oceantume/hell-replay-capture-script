@@ -88,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1763619103
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -328,7 +329,8 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763619103
   },
   {
     "name": "HLL Dev Team 1",
@@ -460,7 +462,8 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763619103
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -617,7 +620,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763619103
   },
   {
     "name": "Testing Server - UK #07",
@@ -627,8 +631,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1763532698
+    "port": 28000
   },
   {
     "name": "Testing Server - EU #05",
@@ -791,7 +794,8 @@
   {
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763619103
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -816,12 +820,14 @@
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
     "addr": "192.169.90.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763619103
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "192.169.90.203",
-    "port": 7817
+    "port": 7817,
+    "removed": 1763619103
   },
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱60 MIN GAMES︱DISCORD.GG/THE-C",
@@ -836,7 +842,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763619103
   },
   {
     "name": "The Red Lion - Blood Sweat and Beers - [BSB] - Community server",
@@ -1076,8 +1083,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1763600637
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1968,7 +1974,7 @@
     "port": 7817
   },
   {
-    "name": "CN-JUMP特战大队|无HQ规则冲突服JP|Q:982533719",
+    "name": "JUMP Special Forces Server",
     "addr": "74.63.207.110",
     "port": 7897
   },
@@ -2149,7 +2155,8 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren!",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763619103
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
