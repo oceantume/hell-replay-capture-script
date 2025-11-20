@@ -313,8 +313,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1763641994
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -471,7 +470,8 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1763643454
   },
   {
     "name": "CZ/SK",
@@ -496,7 +496,8 @@
   {
     "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1763643454
   },
   {
     "name": "DevQA - EU #01",
@@ -618,7 +619,8 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763643454
   },
   {
     "name": "HLL Official - UK #02",
