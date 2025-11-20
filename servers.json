@@ -249,46 +249,10 @@
     "port": 7787
   },
   {
-    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
-    "addr": "154.45.251.75",
-    "port": 7777,
-    "removed": 1763057407
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
-    "addr": "154.45.251.75",
-    "port": 7827,
-    "removed": 1763057407
-  },
-  {
-    "name": "LST车组训练专用服",
-    "addr": "154.45.251.76",
-    "port": 7787,
-    "removed": 1763057407
-  },
-  {
-    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙营Q747976659",
-    "addr": "154.45.251.76",
-    "port": 7797,
-    "removed": 1763057407
-  },
-  {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "154.45.251.76",
     "port": 7847,
     "removed": 1763122476
-  },
-  {
-    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
-    "addr": "154.45.251.77",
-    "port": 7837,
-    "removed": 1763057407
-  },
-  {
-    "name": "帝国社区训练专用服",
-    "addr": "154.45.251.78",
-    "port": 7807,
-    "removed": 1763057407
   },
   {
     "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
@@ -349,7 +313,8 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763662306
   },
   {
     "name": "HLL Official - Europe #03",
@@ -460,7 +425,8 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763662306
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -581,8 +547,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1763143846
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -716,8 +681,7 @@
   {
     "name": "[GER] 300 Spartaner Mic Pflicht",
     "addr": "185.83.152.101",
-    "port": 9075,
-    "removed": 1763187014
+    "port": 9075
   },
   {
     "name": "Private Server A01",
@@ -980,7 +944,7 @@
     "port": 7777
   },
   {
-    "name": "Filmserver [GER] EGGY/BOTBAUM",
+    "name": "nitrado.net gameserver RD_IGFkS",
     "addr": "195.82.158.186",
     "port": 20600
   },
@@ -1893,12 +1857,6 @@
     "port": 7777
   },
   {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/港服/Q882377564",
-    "addr": "74.63.203.74",
-    "port": 7777,
-    "removed": 1763057407
-  },
-  {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "74.63.207.107",
     "port": 7847
@@ -2026,7 +1984,8 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763662306
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2036,8 +1995,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1763489489
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2047,7 +2005,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763662306
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2078,7 +2037,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763662306
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2258,7 +2218,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763662306
   },
   {
     "name": "HLL Official - Australia #01",
