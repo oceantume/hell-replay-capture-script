@@ -1419,7 +1419,8 @@
   {
     "name": "Testing Server - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763620115
   },
   {
     "name": "HLL Official - US West #02",
