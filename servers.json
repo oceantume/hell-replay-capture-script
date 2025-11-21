@@ -692,8 +692,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1763665671
+    "port": 7807
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -1633,8 +1632,7 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "64.31.18.228",
-    "port": 7777,
-    "removed": 1763621768
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2032,7 +2030,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763685284
   },
   {
     "name": "HLL Official - Asia #04",
