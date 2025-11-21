@@ -215,7 +215,8 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763727212
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -301,8 +302,7 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1763641994
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -317,8 +317,7 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1763662306
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -429,8 +428,7 @@
   {
     "name": "Testing Server - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1763662306
+    "port": 28100
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -466,8 +464,7 @@
   {
     "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1763643454
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -589,8 +586,7 @@
   {
     "name": "Testing Server - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1763643454
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -1385,8 +1381,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1763640859
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1401,8 +1396,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1763640859
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1491,7 +1485,7 @@
     "port": 9620
   },
   {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/加速器挂香港/",
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/香港HK/Q882377564",
     "addr": "51.79.151.161",
     "port": 7777
   },
@@ -1553,7 +1547,8 @@
   {
     "name": "[9VEC] Warfare Only - New Community & New Players Welcome!",
     "addr": "63.143.63.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763727212
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
@@ -1640,12 +1635,14 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763727212
   },
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
     "addr": "64.31.28.85",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763727212
   },
   {
     "name": "Q's - Qonzer.com | Event Server #4 | Frankfurt",
