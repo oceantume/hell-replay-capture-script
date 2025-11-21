@@ -7,7 +7,8 @@
   {
     "name": "BigD.com.au #00 | discord.gg/BigD",
     "addr": "103.1.215.69",
-    "port": 8888
+    "port": 8888,
+    "removed": 1763730930
   },
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
@@ -195,6 +196,11 @@
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
     "addr": "145.239.253.127",
     "port": 9014
+  },
+  {
+    "name": "HLL Server",
+    "addr": "149.13.210.188",
+    "port": 7777
   },
   {
     "name": "HLL Server",
@@ -1255,7 +1261,7 @@
     "port": 7777
   },
   {
-    "name": "[EU/CN]GHOST REGIMENT Player Training 50v50 | discord.gg/7WGX6J",
+    "name": "[EU]GHOST REGIMENT Player Training | discord.gg/7WGX6JwPTu",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1324,12 +1330,6 @@
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
-  },
-  {
-    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 SGP节点",
-    "addr": "45.124.213.23",
-    "port": 8530,
-    "removed": 1763125051
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1578,12 +1578,6 @@
     "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
     "addr": "64.31.11.42",
     "port": 8530
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
-    "addr": "64.31.11.42",
-    "port": 9075,
-    "removed": 1763125051
   },
   {
     "name": "hll Server",
