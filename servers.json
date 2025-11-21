@@ -213,14 +213,18 @@
     "port": 7777
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜CN3 TT天堂",
+    "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1763100720
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
+    "port": 7777
+  },
+  {
+    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
+    "addr": "15.204.170.70",
     "port": 7777
   },
   {
@@ -489,7 +493,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763705532
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -590,7 +595,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763705532
   },
   {
     "name": "Testing Server - EU #05",
@@ -747,8 +753,7 @@
   {
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
-    "port": 7797,
-    "removed": 1763619103
+    "port": 7797
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -800,7 +805,8 @@
   {
     "name": "The Red Lion - Blood Sweat and Beers - [BSB] - Community server",
     "addr": "192.169.90.204",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763705532
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1035,8 +1041,7 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1763687064
+    "port": 7777
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1097,12 +1102,6 @@
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
-  },
-  {
-    "name": "㋑ | Born To Kill - Event - https://discord.gg/b2kgaming",
-    "addr": "208.115.212.77",
-    "port": 7787,
-    "removed": 1763100720
   },
   {
     "name": "Exiled—USMC Veteran Owned—-New Players Welcome!!",
@@ -1248,8 +1247,7 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1763687064
+    "port": 7777
   },
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
@@ -1464,7 +1462,8 @@
   {
     "name": "EASY Company EU | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "51.75.156.1",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763705532
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1537,12 +1536,6 @@
     "port": 8530
   },
   {
-    "name": "278/ACR L Troop",
-    "addr": "54.37.129.102",
-    "port": 7807,
-    "removed": 1763100720
-  },
-  {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7787
@@ -1604,18 +1597,6 @@
     "removed": 1763125051
   },
   {
-    "name": "US East ｜Newbie Paradise Server｜CN4 TT天堂",
-    "addr": "64.31.16.186",
-    "port": 7777,
-    "removed": 1763100720
-  },
-  {
-    "name": "US East ｜Newbie Paradise Server｜CN2 TT天堂",
-    "addr": "64.31.16.187",
-    "port": 7777,
-    "removed": 1763100720
-  },
-  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1628,7 +1609,8 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "64.31.18.228",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763705532
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1673,8 +1655,7 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1763687064
+    "port": 7777
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -1934,7 +1915,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "74.63.231.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763705532
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -1979,8 +1961,7 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.130",
-    "port": 7777,
-    "removed": 1763662306
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2070,8 +2051,7 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1763687064
+    "port": 28400
   },
   {
     "name": "hll Server",
