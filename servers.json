@@ -1035,7 +1035,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763687064
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1205,12 +1206,6 @@
     "port": 7777
   },
   {
-    "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
-    "addr": "208.115.226.6",
-    "port": 7787,
-    "removed": 1763080511
-  },
-  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -1253,7 +1248,8 @@
   {
     "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763687064
   },
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
@@ -1677,7 +1673,8 @@
   {
     "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763687064
   },
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
@@ -2073,7 +2070,8 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400
+    "port": 28400,
+    "removed": 1763687064
   },
   {
     "name": "hll Server",
@@ -2146,12 +2144,6 @@
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
     "port": 7777
-  },
-  {
-    "name": "=ROTN= | Rangers of the North | Event and Training Server",
-    "addr": "92.118.18.72",
-    "port": 7777,
-    "removed": 1763080511
   },
   {
     "name": "The DRAFT [HAUS] Event Server",
