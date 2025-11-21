@@ -64,14 +64,12 @@
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1763748666
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "135.125.188.111",
-    "port": 9075,
-    "removed": 1763748666
+    "port": 9075
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -244,7 +242,8 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763749654
   },
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
