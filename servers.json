@@ -64,12 +64,14 @@
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763748666
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "135.125.188.111",
-    "port": 9075
+    "port": 9075,
+    "removed": 1763748666
   },
   {
     "name": "team.phoenix Trainingsserver | phx",
@@ -200,7 +202,8 @@
   {
     "name": "HLL Server",
     "addr": "149.13.210.188",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763748666
   },
   {
     "name": "HLL Server",
@@ -214,6 +217,11 @@
     "port": 7777
   },
   {
+    "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "addr": "15.204.170.64",
+    "port": 7787
+  },
+  {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
     "port": 7777
@@ -221,8 +229,7 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1763727212
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -233,6 +240,16 @@
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "15.204.170.70",
     "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
+    "addr": "15.204.170.72",
+    "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
+    "addr": "15.204.170.72",
+    "port": 7787
   },
   {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
@@ -490,8 +507,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1763705532
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -516,7 +532,8 @@
   {
     "name": "TP | Team Paranoid | EU/ENG",
     "addr": "176.57.171.161",
-    "port": 28100
+    "port": 28100,
+    "removed": 1763748666
   },
   {
     "name": "Borry‘s Playground",
@@ -764,7 +781,8 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.86.214",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763748666
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1140,12 +1158,6 @@
     "port": 7777
   },
   {
-    "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "208.115.214.222",
-    "port": 7777,
-    "removed": 1763143846
-  },
-  {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
     "port": 7777
@@ -1416,6 +1428,11 @@
     "name": "[AnE] Let Loose UK - All levels and experience welcome.",
     "addr": "45.143.199.235",
     "port": 8530
+  },
+  {
+    "name": "hll Server",
+    "addr": "45.151.81.210",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -1966,8 +1983,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1763662306
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1999,8 +2015,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1763662306
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
