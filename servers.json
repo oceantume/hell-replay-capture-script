@@ -539,12 +539,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let Loose Server Piu",
-    "addr": "176.57.171.176",
-    "port": 28100,
-    "removed": 1763166832
-  },
-  {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
     "port": 28300
@@ -1051,7 +1045,8 @@
   {
     "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
     "addr": "208.115.206.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763773367
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
