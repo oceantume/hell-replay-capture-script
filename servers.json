@@ -54,8 +54,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1763816690
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -214,14 +213,12 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1763816690
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1763816690
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -306,8 +303,7 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014,
-    "removed": 1763816690
+    "port": 9014
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -322,7 +318,8 @@
   {
     "name": "#3 EXD.gg » Veterans min. lvl 50 | Discord.exd.gg",
     "addr": "176.31.232.159",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763834993
   },
   {
     "name": "Testing Server - EU #02",
@@ -725,8 +722,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777,
-    "removed": 1763816690
+    "port": 7777
   },
   {
     "name": "Pathfinders | Event Server",
@@ -806,7 +802,7 @@
     "removed": 1763619103
   },
   {
-    "name": "The Red Lion - Blood Sweat and Beers - [BSB] - Community server",
+    "name": "HBL Event - BSC vs 106",
     "addr": "192.169.90.204",
     "port": 7797
   },
@@ -1276,8 +1272,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1763816690
+    "port": 7777
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1613,8 +1608,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1763816690
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1677,8 +1671,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1763816690
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1733,8 +1726,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1763816690
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1926,8 +1918,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255,
-    "removed": 1763816690
+    "port": 11255
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
@@ -1977,7 +1968,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763834993
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1987,12 +1979,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763834993
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763834993
   },
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
@@ -2049,8 +2043,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1763816690
+    "port": 28700
   },
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
@@ -2193,12 +2186,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1763662306
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1763834993
   }
 ]
