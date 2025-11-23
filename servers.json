@@ -307,7 +307,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763899896
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -863,7 +864,7 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #1 - Dírty's Heroes LVL 75+! - discord.gg/13snc",
+    "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
     "addr": "193.160.22.140",
     "port": 7787
   },
@@ -1128,7 +1129,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763899896
   },
   {
     "name": "ComunidadHispana - BetaBranch 1",
@@ -1143,7 +1145,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.221",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763899896
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1234,6 +1237,11 @@
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
+  },
+  {
+    "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
+    "addr": "208.115.248.110",
+    "port": 7777
   },
   {
     "name": "57TH Turkish Regiment [Türkçe & English] [Discord.gg/57th] [b",
@@ -1377,7 +1385,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1763899896
   },
   {
     "name": "HLL Official - US East #01",
@@ -1402,8 +1411,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1763813508
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1428,12 +1436,33 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763899896
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
     "port": 7777
+  },
+  {
+    "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
+    "addr": "5.135.28.224",
+    "port": 7877
+  },
+  {
+    "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
+    "addr": "5.135.28.224",
+    "port": 7977
+  },
+  {
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "5.135.28.231",
+    "port": 7777
+  },
+  {
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "5.135.28.231",
+    "port": 7877
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1704,12 +1733,14 @@
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763899896
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "64.31.4.170",
-    "port": 7807
+    "port": 7807,
+    "removed": 1763899896
   },
   {
     "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
