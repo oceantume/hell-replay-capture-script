@@ -1128,8 +1128,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "208.115.214.219",
-    "port": 7777,
-    "removed": 1763880864
+    "port": 7777
   },
   {
     "name": "ComunidadHispana - BetaBranch 1",
@@ -1434,8 +1433,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777,
-    "removed": 1763880864
+    "port": 7777
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1463,6 +1461,11 @@
     "port": 9620
   },
   {
+    "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "51.38.89.132",
+    "port": 7777
+  },
+  {
     "name": "EASY Company EU | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "51.75.156.1",
     "port": 7777,
@@ -1486,8 +1489,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.75.156.4",
-    "port": 7777,
-    "removed": 1763880864
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -2081,7 +2083,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763881589
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren!",
