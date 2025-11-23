@@ -79,8 +79,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1763791816
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -480,7 +479,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763878275
   },
   {
     "name": "DevQA - EU #02",
@@ -531,8 +531,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1763791816
+    "port": 28300
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -590,7 +589,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763878275
   },
   {
     "name": "Testing Server - UK #07",
@@ -600,7 +600,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1763878275
   },
   {
     "name": "Testing Server - EU #05",
@@ -884,13 +885,13 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1763858423
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1763878275
   },
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
@@ -935,12 +936,14 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1763878275
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
-    "port": 9620
+    "port": 9620,
+    "removed": 1763878275
   },
   {
     "name": "Q's - Qonzer.com | Event Server #2 | Italy",
@@ -1252,7 +1255,8 @@
   {
     "name": "hll Server",
     "addr": "208.115.248.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763878275
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1467,6 +1471,11 @@
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "51.75.156.2",
     "port": 7787
+  },
+  {
+    "name": "Radical Gaming Network -Frankfurt- Powered by QONZER",
+    "addr": "51.75.156.30",
+    "port": 7777
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
