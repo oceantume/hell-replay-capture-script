@@ -256,6 +256,11 @@
     "port": 7777
   },
   {
+    "name": "Qonzer Testing2",
+    "addr": "15.204.170.74",
+    "port": 7777
+  },
+  {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
     "addr": "15.235.225.173",
     "port": 9075
@@ -566,12 +571,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28300
-  },
-  {
-    "name": "Churchill's Dagger Division",
-    "addr": "176.57.174.211",
-    "port": 28600,
-    "removed": 1763253482
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -885,7 +884,8 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1763858423
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1590,6 +1590,11 @@
     "port": 8530
   },
   {
+    "name": "Testing Qonzer",
+    "addr": "64.31.16.186",
+    "port": 7777
+  },
+  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1736,7 +1741,8 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "64.31.60.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1763858423
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
