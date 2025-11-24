@@ -295,7 +295,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1763987597
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -2209,7 +2210,13 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.86",
-    "port": 29400
+    "port": 29400,
+    "removed": 1763987597
+  },
+  {
+    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
+    "addr": "92.38.151.89",
+    "port": 28700
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
