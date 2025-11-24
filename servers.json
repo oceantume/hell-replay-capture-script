@@ -235,7 +235,8 @@
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1763990380
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1559,8 +1560,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1763989139
+    "port": 8530
   },
   {
     "name": "Moon",
