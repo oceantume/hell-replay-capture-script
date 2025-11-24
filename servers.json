@@ -215,7 +215,8 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764007897
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -233,10 +234,9 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
+    "name": "hll Server",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1763990380
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -998,7 +998,7 @@
     "port": 8908
   },
   {
-    "name": "LwJg46 Bierstube",
+    "name": "[GER] [LwJg46] Bierstube",
     "addr": "208.115.201.22",
     "port": 7777
   },
@@ -2019,8 +2019,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1763834993
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2030,8 +2029,7 @@
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1763986453
+    "port": 28000
   },
   {
     "name": "NiuB",
@@ -2052,7 +2050,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764007897
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2138,8 +2137,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1763427879
+    "port": 7777
   },
   {
     "name": "Test HLL",
@@ -2226,8 +2224,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1763921414
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
