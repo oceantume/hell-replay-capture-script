@@ -192,12 +192,6 @@
     "removed": 1763748666
   },
   {
-    "name": "HLL Server",
-    "addr": "149.34.170.137",
-    "port": 7777,
-    "removed": 1763489489
-  },
-  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -279,7 +273,7 @@
     "port": 7817
   },
   {
-    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/Vu55R9Qacy",
+    "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
   },
@@ -567,7 +561,8 @@
   {
     "name": "test",
     "addr": "176.57.174.240",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764094290
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -704,7 +699,7 @@
     "port": 9075
   },
   {
-    "name": "♤Ctrl Alt Defeat [OFFENSIVE ONLY] ctrlalt-defeat.com",
+    "name": "♤Ctrl Alt Defeat [Event] ctrlalt-defeat.com",
     "addr": "191.101.166.120",
     "port": 8530
   },
@@ -823,7 +818,8 @@
   {
     "name": "Pathfinders | Smolensk",
     "addr": "192.169.95.182",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764094290
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -852,7 +848,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -862,7 +858,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1092,7 +1088,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1133,7 +1129,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1224,7 +1220,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1311,6 +1307,11 @@
     "addr": "216.144.245.83",
     "port": 7787,
     "removed": 1764051146
+  },
+  {
+    "name": "Pathfinders | Tobruk",
+    "addr": "216.144.245.84",
+    "port": 7777
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -1569,8 +1570,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1764075558
+    "port": 8530
   },
   {
     "name": "Moon",
@@ -1580,7 +1580,8 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764094290
   },
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
@@ -2040,7 +2041,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764094290
   },
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
@@ -2066,8 +2068,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1764007897
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2246,6 +2247,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764094290
   }
 ]
