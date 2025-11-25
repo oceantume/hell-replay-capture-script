@@ -296,7 +296,8 @@
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
     "addr": "172.93.104.218",
-    "port": 9014
+    "port": 9014,
+    "removed": 1764072888
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -452,8 +453,7 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1763643454
+    "port": 28400
   },
   {
     "name": "CZ/SK",
@@ -563,6 +563,11 @@
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "176.57.174.211",
     "port": 28700
+  },
+  {
+    "name": "test",
+    "addr": "176.57.174.240",
+    "port": 28400
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -679,7 +684,8 @@
   {
     "name": "Die 300 Spartaner rekrutieren!",
     "addr": "185.83.152.101",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764072888
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -884,7 +890,8 @@
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
     "addr": "193.160.22.61",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764072888
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1316,12 +1323,6 @@
     "port": 8530
   },
   {
-    "name": "Meatgrinders GGB (GER/ENG) VIP 4 SEED",
-    "addr": "217.182.196.157",
-    "port": 8530,
-    "removed": 1763468034
-  },
-  {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
@@ -1380,7 +1381,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764072888
   },
   {
     "name": "HLL Official - US East #01",
@@ -1971,7 +1973,8 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "74.63.236.194",
-    "port": 11255
+    "port": 11255,
+    "removed": 1764072888
   },
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
