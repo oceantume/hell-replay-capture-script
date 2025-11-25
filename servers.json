@@ -83,7 +83,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1764051146
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -215,7 +216,8 @@
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764051146
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -325,8 +327,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1763964771
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -914,7 +915,8 @@
   {
     "name": "The Fox Hole (Veteran Owned - New Players Welcome)",
     "addr": "193.192.58.206",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764051146
   },
   {
     "name": "Savage Let loose",
@@ -1258,6 +1260,11 @@
     "port": 7777
   },
   {
+    "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
+    "addr": "208.115.251.114",
+    "port": 7787
+  },
+  {
     "name": "[EU]GHOST REGIMENT Player Training | discord.gg/7WGX6JwPTu",
     "addr": "208.115.251.116",
     "port": 7777,
@@ -1296,7 +1303,8 @@
   {
     "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
     "addr": "216.144.245.83",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764051146
   },
   {
     "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
@@ -1631,12 +1639,14 @@
   {
     "name": "hll Server",
     "addr": "64.31.18.226",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764051146
   },
   {
     "name": "Current Level: Shopping's Better Now(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764051146
   },
   {
     "name": "1st Marine Division | NPF | discord.com/1stmardiv",
@@ -1647,7 +1657,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764051146
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1949,7 +1960,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764051146
   },
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
