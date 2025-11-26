@@ -2138,7 +2138,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764161964
   },
   {
     "name": "Test HLL",
