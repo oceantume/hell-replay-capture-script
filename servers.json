@@ -262,7 +262,7 @@
     "port": 7777
   },
   {
-    "name": "#3 [ESP] - Bee Division - Español / Spanish - www.div33.es",
+    "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7787
   },
@@ -824,7 +824,8 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764180602
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1351,7 +1352,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764180602
   },
   {
     "name": "HLL Official - US West #01",
@@ -1361,7 +1363,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1764180602
   },
   {
     "name": "HLL Official - US East #04",
@@ -2005,8 +2008,7 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.130",
-    "port": 7777,
-    "removed": 1764137539
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2031,8 +2033,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1764094290
+    "port": 28300
   },
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
@@ -2052,7 +2053,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764180602
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2225,7 +2227,11 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1764094290
+    "port": 28200
+  },
+  {
+    "name": "Qonzer LAX Test2",
+    "addr": "95.135.0.4",
+    "port": 7777
   }
 ]
