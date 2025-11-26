@@ -538,7 +538,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764137539
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -574,7 +575,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764137539
   },
   {
     "name": "Testing Server - EU #05",
@@ -1581,10 +1583,9 @@
     "port": 7777
   },
   {
-    "name": "[9VEC] Warfare Only - New Community & New Players Welcome!",
+    "name": "Syndicate US - Level 50+ - syn-hll.gg",
     "addr": "63.143.63.82",
-    "port": 7777,
-    "removed": 1763727212
+    "port": 7777
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
@@ -1761,6 +1762,11 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
+    "port": 7777
+  },
+  {
+    "name": "Qonzer Test LAX",
+    "addr": "64.31.6.90",
     "port": 7777
   },
   {
@@ -1950,10 +1956,9 @@
     "port": 7777
   },
   {
-    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
+    "name": "Another Qonzer.com server is born!",
     "addr": "74.63.231.3",
-    "port": 7777,
-    "removed": 1763705532
+    "port": 7777
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -1999,7 +2004,8 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764137539
   },
   {
     "name": "HLL Official - Asia #01",
