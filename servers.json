@@ -188,8 +188,7 @@
   {
     "name": "HLL Server",
     "addr": "149.13.210.188",
-    "port": 7777,
-    "removed": 1763748666
+    "port": 7777
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -280,6 +279,11 @@
     "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075
+  },
+  {
+    "name": "2nd Armored | US EAST | discord.gg/2ad",
+    "addr": "162.216.115.122",
+    "port": 8530
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军 QQ群885187716//US WEST",
@@ -658,7 +662,8 @@
   {
     "name": "! ! !OINK 9.9 KAMPFSCHWEINE | ENDGAME | GTX | GER ENG",
     "addr": "185.83.152.101",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764245640
   },
   {
     "name": "Die 300 Spartaner rekrutieren!",
@@ -685,7 +690,8 @@
   {
     "name": "♤Ctrl Alt Defeat [Event] ctrlalt-defeat.com",
     "addr": "191.101.166.120",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764245640
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -802,7 +808,8 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620
+    "port": 9620,
+    "removed": 1764245640
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1393,8 +1400,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1764159252
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
