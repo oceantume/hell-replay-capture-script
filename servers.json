@@ -368,7 +368,7 @@
     "port": 28000
   },
   {
-    "name": "! ! !OINK 8 KAMPFSCHWEINE | OFFENSIVE | LMS | GER ENG",
+    "name": "! ! !OINK OFFENSIVE ONLY | Late Night | EU | LMS",
     "addr": "176.57.168.194",
     "port": 28100
   },
@@ -969,6 +969,11 @@
   {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
+    "port": 8888
+  },
+  {
+    "name": "PatoVeterans",
+    "addr": "203.23.178.3",
     "port": 8888
   },
   {
