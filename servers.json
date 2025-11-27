@@ -375,7 +375,7 @@
     "port": 28000
   },
   {
-    "name": "! ! !OINK OFFENSIVE ONLY | Late Night | EU | LMS",
+    "name": "! ! !OINK OFFENSIVE ONLY | SMDM SME CARENTAN ELITE",
     "addr": "176.57.168.194",
     "port": 28100
   },
@@ -1360,8 +1360,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1764180602
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -1963,7 +1962,8 @@
   {
     "name": "XP GRIND SERVER. JOIN ALLIES. BUILD BUNKERS. REPEAT.",
     "addr": "74.63.231.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764267063
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
