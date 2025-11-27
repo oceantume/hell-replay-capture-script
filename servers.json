@@ -207,7 +207,7 @@
     "port": 7777
   },
   {
-    "name": "1st Marine Division | NPF | discord.com/1stmardiv",
+    "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
     "port": 7777
   },
@@ -335,7 +335,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1764223940
   },
   {
     "name": "Warfrags Studios",
@@ -766,12 +767,6 @@
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
-  },
-  {
-    "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
-    "addr": "192.169.90.204",
-    "port": 7787,
-    "removed": 1763619103
   },
   {
     "name": "[BSB] Blood Sweat & Beers | Powerd By Qonzer",
@@ -1907,6 +1902,11 @@
     "name": "CN1#散人猫猫社区|萌新军官当然来的咖啡馆Q120748",
     "addr": "74.63.207.108",
     "port": 7887
+  },
+  {
+    "name": "hll Server",
+    "addr": "74.63.207.109",
+    "port": 7777
   },
   {
     "name": "CN3#散人猫猫攻防|极限攻防第二咖啡馆Q120748151",
