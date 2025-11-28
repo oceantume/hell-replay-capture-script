@@ -335,7 +335,8 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1764334646
   },
   {
     "name": "HLL Official - Europe #03",
@@ -419,6 +420,11 @@
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
+  },
+  {
+    "name": "[AT/GER] - [HB] Heurigen-Bataillon Österreich - Stammtisch",
+    "addr": "176.57.168.253",
+    "port": 28100
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
