@@ -1008,7 +1008,7 @@
     "port": 7777
   },
   {
-    "name": "⫷-The Rift-⫸",
+    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.201.22",
     "port": 7787
   },
@@ -1364,8 +1364,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1764180602
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1532,8 +1531,7 @@
   {
     "name": "CN#2 TT天堂萌新俱乐部（纯进攻）Q群：578097070",
     "addr": "51.79.151.162",
-    "port": 7787,
-    "removed": 1764335842
+    "port": 7787
   },
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
@@ -1589,6 +1587,11 @@
   {
     "name": "Syndicate US - Level 50+ - syn-hll.gg",
     "addr": "63.143.63.82",
+    "port": 7777
+  },
+  {
+    "name": "CtrlAlt-Defeat EVENT Server",
+    "addr": "63.143.63.83",
     "port": 7777
   },
   {
@@ -2013,7 +2016,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764353447
   },
   {
     "name": "HLL Official - Asia #07",
