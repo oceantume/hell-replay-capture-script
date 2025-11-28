@@ -93,8 +93,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1764310340
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -149,14 +148,12 @@
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
-    "port": 7777,
-    "removed": 1764310340
+    "port": 7777
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
     "addr": "142.91.157.28",
-    "port": 7777,
-    "removed": 1764310340
+    "port": 7777
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -385,8 +382,7 @@
   {
     "name": "! ! !OINK OFFENSIVE | LOW PING | Late Night | EU",
     "addr": "176.57.168.194",
-    "port": 28100,
-    "removed": 1764310340
+    "port": 28100
   },
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
@@ -495,10 +491,20 @@
     "port": 28700
   },
   {
+    "name": "Hell let loose Ger-Server by DD Neulinge Herzlich Willkommen.",
+    "addr": "176.57.169.115",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.169.115",
     "port": 28400,
     "removed": 1763837493
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.171.140",
+    "port": 28000
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -1018,7 +1024,8 @@
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
     "addr": "208.115.206.198",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764332046
   },
   {
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
@@ -1074,7 +1081,8 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "208.115.206.84",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764332046
   },
   {
     "name": "[GER] Midgards Panzer Event Server",
@@ -1263,8 +1271,7 @@
   {
     "name": "[EU]GHOST REGIMENT Player Training | discord.gg/7WGX6JwPTu",
     "addr": "208.115.251.116",
-    "port": 7777,
-    "removed": 1763986453
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1392,7 +1399,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1764332046
   },
   {
     "name": "HLL Official - US East #03",
@@ -1655,18 +1663,6 @@
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
-  },
-  {
-    "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
-    "addr": "64.31.28.85",
-    "port": 7797,
-    "removed": 1763727212
-  },
-  {
-    "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
-    "addr": "64.31.28.85",
-    "port": 7807,
-    "removed": 1763727212
   },
   {
     "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
@@ -2004,7 +2000,8 @@
   {
     "name": "hll Server",
     "addr": "82.25.36.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764332046
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2228,6 +2225,7 @@
   {
     "name": "Qonzer LAX Test2",
     "addr": "95.135.0.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764332046
   }
 ]
