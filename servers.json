@@ -86,9 +86,15 @@
     "port": 8982
   },
   {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
+    "addr": "135.181.165.173",
+    "port": 9075
+  },
+  {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1764310340
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -103,7 +109,8 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "139.28.17.147",
-    "port": 7797
+    "port": 7797,
+    "removed": 1764310340
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -143,12 +150,14 @@
   {
     "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764310340
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
     "addr": "142.91.157.28",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764310340
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -377,7 +386,8 @@
   {
     "name": "! ! !OINK OFFENSIVE | LOW PING | Late Night | EU",
     "addr": "176.57.168.194",
-    "port": 28100
+    "port": 28100,
+    "removed": 1764310340
   },
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
@@ -494,7 +504,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764310340
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -514,7 +525,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764310340
   },
   {
     "name": "TP | Team Paranoid | EU/ENG",
@@ -577,8 +589,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1764137539
+    "port": 28000
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -676,12 +687,14 @@
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
     "addr": "188.64.33.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764310340
   },
   {
     "name": "CN/EU 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "188.64.33.2",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764310340
   },
   {
     "name": "♤Ctrl Alt Defeat [Event] ctrlalt-defeat.com",
@@ -850,7 +863,8 @@
   {
     "name": "[GER] Omen Event & Match Server #3",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764310340
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
@@ -913,8 +927,7 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
-    "port": 9620,
-    "removed": 1763878275
+    "port": 9620
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -1471,12 +1484,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company EU | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "51.75.156.1",
-    "port": 7777,
-    "removed": 1763705532
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
     "addr": "51.75.156.2",
     "port": 7787
@@ -1626,12 +1633,6 @@
     "name": "Current Level: Shopping's Better Now(D1CK)",
     "addr": "64.31.18.227",
     "port": 7777
-  },
-  {
-    "name": "1st Marine Division | NPF | discord.com/1stmardiv",
-    "addr": "64.31.18.228",
-    "port": 7777,
-    "removed": 1763705532
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
