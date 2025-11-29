@@ -103,7 +103,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUNDS #1 | LOW PING | GER ENG",
     "addr": "139.28.17.147",
-    "port": 7797
+    "port": 7797,
+    "removed": 1764419450
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -234,8 +235,7 @@
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1764418361
+    "port": 7787
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -860,7 +860,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Event & Match Server #2",
+    "name": "[GER] Omen Event & Match Server #3",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -1322,7 +1322,7 @@
     "port": 9075
   },
   {
-    "name": "[GER] Gottimperator ECKO | BFTB | Geheiligt sei Bayern",
+    "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
     "addr": "23.111.240.210",
     "port": 9075
   },
@@ -1764,8 +1764,7 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1764418361
+    "port": 7787
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
