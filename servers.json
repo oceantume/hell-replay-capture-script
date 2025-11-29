@@ -234,7 +234,8 @@
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764418361
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -294,8 +295,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军 QQ群885187716//US WEST",
     "addr": "162.220.9.82",
-    "port": 8530,
-    "removed": 1764400056
+    "port": 8530
   },
   {
     "name": "SYNDICATE | EVENT | DISCORD.GG/SYN-HLL",
@@ -348,6 +348,11 @@
     "addr": "176.57.134.62",
     "port": 28500,
     "removed": 1764223940
+  },
+  {
+    "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
+    "addr": "176.57.135.134",
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -536,6 +541,11 @@
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
     "port": 28300
+  },
+  {
+    "name": "[GER] 100.Jäger-Division | DEV Server by Wienni",
+    "addr": "176.57.171.161",
+    "port": 28000
   },
   {
     "name": "Borry‘s Playground",
@@ -820,12 +830,6 @@
     "port": 8530
   },
   {
-    "name": "SYNDICATE | US EAST | LVL 50+ | DISCORD.GG/SYN-HLL",
-    "addr": "192.169.95.202",
-    "port": 8772,
-    "removed": 1763813508
-  },
-  {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
     "port": 9075
@@ -856,7 +860,7 @@
     "port": 7787
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUNDS #2 | NEW PLAYER FRIENDLY | GER ENG",
+    "name": "[GER] Omen Event & Match Server #2",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -868,8 +872,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1763878275
+    "port": 7877
   },
   {
     "name": "5th Ranger Battalion | EU | 5thrb.com",
@@ -1027,12 +1030,6 @@
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
     "addr": "208.115.206.34",
     "port": 7777
-  },
-  {
-    "name": "Omen's No Mercy | Event Server #3 Frankfurt Powered by Qonzer",
-    "addr": "208.115.206.36",
-    "port": 7777,
-    "removed": 1763813508
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1237,12 +1234,6 @@
     "port": 7777
   },
   {
-    "name": "Omen's No Mercy | Event Server #2 Frankfurt Powered by Qonzer",
-    "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1763813508
-  },
-  {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
     "addr": "208.115.248.92",
     "port": 7777
@@ -1393,8 +1384,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1764332046
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1669,12 +1659,6 @@
     "removed": 1764030816
   },
   {
-    "name": "Omen's No Mercy | Event Server #1 Frankfurt Powered by Qonzer",
-    "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1763813508
-  },
-  {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
@@ -1780,7 +1764,8 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764418361
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
