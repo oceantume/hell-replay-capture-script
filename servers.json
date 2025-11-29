@@ -353,6 +353,11 @@
     "port": 28400
   },
   {
+    "name": "Testovich1",
+    "addr": "176.57.140.181",
+    "port": 30600
+  },
+  {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
@@ -858,7 +863,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Event & Match Server #3",
+    "name": "[GER] Omen Event & Match Server #2",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -1506,7 +1511,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
+    "name": "CN#1TT天堂萌新俱乐部（纯攻防）排队进Q群548651",
     "addr": "51.79.151.162",
     "port": 7777
   },
@@ -1716,8 +1721,7 @@
   {
     "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
     "addr": "64.31.59.77",
-    "port": 7777,
-    "removed": 1764396667
+    "port": 7777
   },
   {
     "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
@@ -1986,8 +1990,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1764353447
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2022,8 +2025,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1764180602
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
