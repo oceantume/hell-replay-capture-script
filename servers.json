@@ -153,6 +153,11 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
+    "port": 28300
+  },
+  {
+    "name": "Hell let loose (US East) Server by g-portal.com",
+    "addr": "144.126.153.213",
     "port": 28400
   },
   {
@@ -330,8 +335,7 @@
   {
     "name": "Testing Server - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1764334646
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -530,8 +534,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1764310340
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -1017,8 +1020,7 @@
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
     "addr": "208.115.206.198",
-    "port": 7777,
-    "removed": 1764332046
+    "port": 7777
   },
   {
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
@@ -1074,8 +1076,7 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "208.115.206.84",
-    "port": 7787,
-    "removed": 1764332046
+    "port": 7787
   },
   {
     "name": "[GER] Midgards Panzer Event Server",
@@ -1563,8 +1564,7 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787,
-    "removed": 1764094290
+    "port": 7787
   },
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
@@ -1617,7 +1617,7 @@
     "port": 8530
   },
   {
-    "name": "<CN>3 瓦学弟想看学姐的黑丝（投票图 ）979552783",
+    "name": "CN.WA3 | Brother Wa love sister's JK and Pantyhose Server | Q10",
     "addr": "64.31.11.42",
     "port": 8530
   },
@@ -1733,7 +1733,8 @@
   {
     "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
     "addr": "64.31.59.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764396667
   },
   {
     "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
@@ -1758,8 +1759,7 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7777,
-    "removed": 1764378193
+    "port": 7777
   },
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
@@ -1774,32 +1774,38 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764396667
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764396667
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764396667
   },
   {
     "name": "[Merc] US West | Event Server",
     "addr": "64.31.61.92",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764396667
   },
   {
     "name": "I Love Playing Apex",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764396667
   },
   {
     "name": "Oceanic Ocelots | US West",
     "addr": "64.31.61.93",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764396667
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1840,12 +1846,6 @@
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
     "port": 7787
-  },
-  {
-    "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
-    "addr": "69.162.102.50",
-    "port": 7827,
-    "removed": 1763791816
   },
   {
     "name": "Fire For Effect [FFE] S1",
