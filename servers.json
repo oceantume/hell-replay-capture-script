@@ -364,7 +364,7 @@
     "port": 28400
   },
   {
-    "name": "Testovich1",
+    "name": "[HILF UA] Ukrainian server",
     "addr": "176.57.140.181",
     "port": 30600
   },
@@ -938,7 +938,8 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764528139
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1004,7 +1005,8 @@
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8908
+    "port": 8908,
+    "removed": 1764528139
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
