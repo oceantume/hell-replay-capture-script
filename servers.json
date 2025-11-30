@@ -140,7 +140,7 @@
     "port": 9075
   },
   {
-    "name": "! ! !OINK 1 KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
+    "name": "OINK 1 | KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
     "port": 7777
   },
@@ -242,7 +242,7 @@
     "port": 7777
   },
   {
-    "name": "Qonzer Testing2",
+    "name": "Another Qonzer.com server is born!",
     "addr": "15.204.170.74",
     "port": 7777
   },
@@ -330,7 +330,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1764483089
   },
   {
     "name": "Testing Server - EU #03",
@@ -345,8 +346,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1764223940
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -1239,12 +1239,6 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
-    "addr": "208.115.248.93",
-    "port": 7777,
-    "removed": 1763878275
-  },
-  {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
     "port": 7777
@@ -1508,12 +1502,12 @@
     "port": 7777
   },
   {
-    "name": "CN#1TT天堂萌新俱乐部（纯攻防）排队进Q群548651",
+    "name": "CN#1TT天堂萌新俱乐部 HK低延迟 Q群548651",
     "addr": "51.79.151.162",
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部（纯进攻）Q群：578097070",
+    "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "51.79.151.162",
     "port": 7787
   },
@@ -1856,7 +1850,7 @@
     "port": 7787
   },
   {
-    "name": "CN2#散人猫猫攻防|极限攻防战争咖啡馆Q120748151",
+    "name": "JQNSP#sanren community|玫防officer cafe丨120748151",
     "addr": "74.63.207.108",
     "port": 7857
   },
