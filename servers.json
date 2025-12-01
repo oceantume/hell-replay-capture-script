@@ -340,8 +340,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1764483089
+    "port": 28600
   },
   {
     "name": "Testing Server - EU #03",
@@ -356,7 +355,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1764569615
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -529,7 +529,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764569615
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -611,7 +612,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764569615
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -642,6 +644,11 @@
     "name": "彡 MIB 彡 MADE IN BRASIL - Ajoelha e Reza",
     "addr": "181.214.221.212",
     "port": 7847
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "181.214.221.41",
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1320,6 +1327,11 @@
     "port": 8530
   },
   {
+    "name": "139Gebirgsjager Regiment Server",
+    "addr": "45.137.244.9",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28700
@@ -1659,6 +1671,11 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.31.125",
     "port": 7777
   },
   {
