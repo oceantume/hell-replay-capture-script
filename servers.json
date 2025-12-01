@@ -771,8 +771,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1764526226
+    "port": 7787
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1207,7 +1206,8 @@
   {
     "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
     "addr": "208.115.248.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764591274
   },
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
@@ -1605,7 +1605,8 @@
   {
     "name": "CN.WA3 | Brother Wa love sister's JK and Pantyhose Server | Q10",
     "addr": "64.31.11.42",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764591274
   },
   {
     "name": "Testing Qonzer",
@@ -2091,8 +2092,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1764161964
+    "port": 7777
   },
   {
     "name": "Test HLL",
