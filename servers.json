@@ -561,9 +561,15 @@
     "port": 28300
   },
   {
+    "name": "DSL Suchtlappen DE/EN",
+    "addr": "176.57.171.38",
+    "port": 28100
+  },
+  {
     "name": "DE/EN [DSL] DieSuchtLappen",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764700192
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
