@@ -100,7 +100,7 @@
     "port": 7797
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUNDS #1 | LOW PING | GBG | GER ENG",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG | GER ENG",
     "addr": "139.28.17.147",
     "port": 7797
   },
@@ -777,7 +777,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "192.169.86.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764635746
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1055,7 +1056,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon 1 • Mic Only • Wir Rekrutieren! [ENG/GER] #Qonzer",
+    "name": "Oktogon • Mic Only • Wir Rekrutieren! [ENG/GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1268,7 +1269,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "208.115.255.52",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764635746
   },
   {
     "name": "Rookie Server // Levels 0-50 // HLL Guides = discord/etool",
@@ -1654,12 +1656,6 @@
     "port": 7787
   },
   {
-    "name": "Q's - Qonzer.com | Event Server #1 | Frankfurt",
-    "addr": "64.31.29.66",
-    "port": 7777,
-    "removed": 1764030816
-  },
-  {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
@@ -1727,7 +1723,8 @@
   {
     "name": "Qonzer Test LAX",
     "addr": "64.31.6.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764635746
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2048,7 +2045,8 @@
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
     "addr": "83.223.207.55",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764635746
   },
   {
     "name": "hll Server",
@@ -2182,7 +2180,7 @@
     "port": 28200
   },
   {
-    "name": "hll Server",
+    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "95.135.0.1",
     "port": 7777
   },
