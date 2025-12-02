@@ -582,12 +582,6 @@
     "port": 28700
   },
   {
-    "name": "test",
-    "addr": "176.57.174.240",
-    "port": 28400,
-    "removed": 1764094290
-  },
-  {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "176.57.178.127",
     "port": 28000
@@ -807,6 +801,16 @@
     "port": 7827
   },
   {
+    "name": "MEXICO LATAM ESP OGT 1",
+    "addr": "192.169.92.27",
+    "port": 7787
+  },
+  {
+    "name": "MEXICO LATAM ESP OGT 2",
+    "addr": "192.169.92.28",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "192.169.92.30",
     "port": 7777
@@ -820,12 +824,6 @@
     "name": "AS YT",
     "addr": "192.169.95.179",
     "port": 7777
-  },
-  {
-    "name": "Pathfinders | Smolensk",
-    "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1764094290
   },
   {
     "name": "[77th] The Old Bastards Official Server",
@@ -1262,7 +1260,7 @@
     "port": 7787
   },
   {
-    "name": "MEXICO LATAM OGT 2",
+    "name": "MEXICO LATAM OGT 4",
     "addr": "209.192.185.50",
     "port": 7837
   },
@@ -1522,8 +1520,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1764680406
+    "port": 8530
   },
   {
     "name": "Moon",
@@ -1984,8 +1981,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1764612715
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2041,7 +2037,8 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764699137
   },
   {
     "name": "{serverName}",
@@ -2110,7 +2107,7 @@
     "port": 7787
   },
   {
-    "name": "MEXICO LATAM ESP OGT",
+    "name": "MEXICO LATAM ESP OGT 3",
     "addr": "92.118.19.66",
     "port": 7787
   },
@@ -2152,7 +2149,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764699137
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
