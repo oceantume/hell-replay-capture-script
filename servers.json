@@ -355,8 +355,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1764569615
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -529,8 +528,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1764569615
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -550,7 +548,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764655955
   },
   {
     "name": "[GER] 100.Jäger-Division | DEV Server by Wienni",
@@ -617,8 +616,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1764569615
+    "port": 28000
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -926,12 +924,6 @@
     "name": "Hell let loose (US West) big mikes",
     "addr": "193.192.58.206",
     "port": 28200
-  },
-  {
-    "name": "The Fox Hole (Veteran Owned - New Players Welcome)",
-    "addr": "193.192.58.206",
-    "port": 28300,
-    "removed": 1764051146
   },
   {
     "name": "Savage Let loose",
@@ -1291,12 +1283,6 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.82",
     "port": 7807
-  },
-  {
-    "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
-    "addr": "216.144.245.83",
-    "port": 7787,
-    "removed": 1764051146
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1676,7 +1662,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] |CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
+    "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
     "port": 7777
   },
@@ -2182,6 +2168,11 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "95.135.0.1",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "95.135.0.2",
     "port": 7777
   },
   {
