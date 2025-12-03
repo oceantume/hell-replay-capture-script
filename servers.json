@@ -199,8 +199,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1764766849
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -298,7 +297,7 @@
     "port": 9075
   },
   {
-    "name": "=7Cav= Tactical Realism | US CENTRAL | Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism | Smolensk 24/7 | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075
   },
@@ -566,8 +565,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1764765260
+    "port": 28300
   },
   {
     "name": "DSL Suchtlappen DE/EN",
@@ -622,6 +620,11 @@
     "port": 28200
   },
   {
+    "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
+    "addr": "176.57.181.105",
+    "port": 28200
+  },
+  {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
@@ -632,7 +635,7 @@
     "port": 8772
   },
   {
-    "name": "[LATAM] El Olimpo -360 Conducción- discord.gg/RVpRVBP2JQ",
+    "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- discord.gg/RVpRVBP2JQ",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -652,7 +655,7 @@
     "port": 7847
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "360 Boot Camp Server | Eventos ③⑥⓪",
     "addr": "181.214.221.41",
     "port": 7787
   },
@@ -805,6 +808,11 @@
     "port": 7847
   },
   {
+    "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
+    "addr": "192.169.90.204",
+    "port": 7787
+  },
+  {
     "name": "[BSB] Blood Sweat & Beers | Powerd By Qonzer",
     "addr": "192.169.90.204",
     "port": 7797
@@ -940,7 +948,7 @@
     "port": 9620
   },
   {
-    "name": "Q's Testing Area",
+    "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
   },
@@ -1022,7 +1030,7 @@
     "port": 7787
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Server 2",
+    "name": "[Ger] 1. Fallschirmjäger Division Smolensk 60min",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -1290,7 +1298,7 @@
     "removed": 1764677667
   },
   {
-    "name": "CNTT Paradise Newbie Club Low-Latency Q Group: 548651",
+    "name": "#6 EXP.gg » All Maps | .TT.gg",
     "addr": "216.144.245.85",
     "port": 7777
   },
@@ -1353,8 +1361,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1764764085
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1456,7 +1463,8 @@
   {
     "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764785506
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1705,7 +1713,7 @@
     "port": 7777
   },
   {
-    "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
+    "name": "6TH RECON DIVISION [6RCN] Smolensk 24/7 EAST SERVER",
     "addr": "64.31.59.77",
     "port": 7777
   },
@@ -1728,8 +1736,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1764766849
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1817,7 +1824,7 @@
     "port": 7787
   },
   {
-    "name": "Fire For Effect [FFE] S1",
+    "name": "Fire For Effect [FFE] SMOLENSK FFECREW.COM",
     "addr": "69.162.102.53",
     "port": 7787
   },
@@ -1836,8 +1843,7 @@
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
     "addr": "74.63.207.107",
-    "port": 7907,
-    "removed": 1764765260
+    "port": 7907
   },
   {
     "name": "chickchickchick",
@@ -1980,8 +1986,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2001,7 +2006,8 @@
   {
     "name": "<C.TW> | Brother 瓦 Advanced Newbies | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764785506
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2016,8 +2022,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1764764085
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2191,14 +2196,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1764764085
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1764699137
+    "port": 28200
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -2216,5 +2219,10 @@
     "addr": "95.135.0.4",
     "port": 7777,
     "removed": 1764332046
+  },
+  {
+    "name": "nitrado.net gameserver u4Ry1ZT1",
+    "addr": "95.156.198.83",
+    "port": 10300
   }
 ]
