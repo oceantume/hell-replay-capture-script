@@ -92,8 +92,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1764765260
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -200,7 +199,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764766849
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -364,7 +364,7 @@
     "port": 28400
   },
   {
-    "name": "[HILF UA] Ukrainian server",
+    "name": "HILF | UA/ENG | Europe | Community Server",
     "addr": "176.57.140.181",
     "port": 30600
   },
@@ -536,8 +536,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1764765260
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -576,10 +575,9 @@
     "port": 28100
   },
   {
-    "name": "DE/EN [DSL] DieSuchtLappen",
+    "name": "Testify",
     "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1764700192
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1468,8 +1466,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1764764085
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1731,7 +1728,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1764766849
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1821,8 +1819,7 @@
   {
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
-    "port": 7787,
-    "removed": 1764765260
+    "port": 7787
   },
   {
     "name": "(IC) Event Server | US Central #3 Dallas | discord.gg/icoh",
@@ -1905,8 +1902,7 @@
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
-    "port": 7787,
-    "removed": 1764765260
+    "port": 7787
   },
   {
     "name": "RCON Testing",
@@ -1930,7 +1926,7 @@
     "removed": 1764267063
   },
   {
-    "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
+    "name": "[LATAM/ESP] URANIUM | SMOLENSK 24/7 ==NO RULES == discord.gg/ur",
     "addr": "78.111.102.114",
     "port": 28200
   },
@@ -2067,8 +2063,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1764765260
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
@@ -2131,6 +2126,11 @@
   {
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
+    "port": 7777
+  },
+  {
+    "name": "=ROTN= | Rangers of the North | Event and Training Server",
+    "addr": "92.118.18.72",
     "port": 7777
   },
   {
