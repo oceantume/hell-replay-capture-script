@@ -325,7 +325,8 @@
   {
     "name": "Testing Server - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764744481
   },
   {
     "name": "HLL Dev Team 1",
@@ -500,12 +501,14 @@
   {
     "name": "Testing Server - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1764744481
   },
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1764744481
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1333,6 +1336,11 @@
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
     "port": 28000
+  },
+  {
+    "name": "Testing Server - US West #06",
+    "addr": "45.137.246.13",
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
