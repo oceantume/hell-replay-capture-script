@@ -249,8 +249,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1764787631
+    "port": 7787
   },
   {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
@@ -814,10 +813,9 @@
     "port": 7787
   },
   {
-    "name": "[BSB] Blood Sweat & Beers | Powerd By Qonzer",
+    "name": "[BSB] Blood Sweat & Beers | Powered By Qonzer",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1764787631
+    "port": 7797
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -1089,8 +1087,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1764787631
+    "port": 7777
   },
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
@@ -1566,12 +1563,14 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764788323
   },
   {
     "name": "BR1 Match Server -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1764788323
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
