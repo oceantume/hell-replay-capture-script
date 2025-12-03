@@ -825,7 +825,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 1",
     "addr": "192.169.92.27",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764786556
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
@@ -1294,8 +1295,7 @@
   {
     "name": "Pathfinders | Event 2",
     "addr": "216.144.245.84",
-    "port": 7777,
-    "removed": 1764677667
+    "port": 7777
   },
   {
     "name": "#6 EXP.gg » All Maps | .TT.gg",
@@ -1725,7 +1725,8 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764786556
   },
   {
     "name": "Qonzer Test LAX",
@@ -1799,7 +1800,7 @@
     "port": 10710
   },
   {
-    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism | US EAST Smolensk 24/7 | Discord.gg/7C",
     "addr": "67.217.48.14",
     "port": 11255
   },
