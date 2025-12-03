@@ -334,7 +334,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1764742346
   },
   {
     "name": "Testing Server - EU #03",
@@ -472,7 +473,8 @@
   {
     "name": "Testing Server - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764742346
   },
   {
     "name": "CZ/SK",
@@ -542,8 +544,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1764655955
+    "port": 28300
   },
   {
     "name": "[GER] 100.Jäger-Division | DEV Server by Wienni",
@@ -576,12 +577,6 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1764137539
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
