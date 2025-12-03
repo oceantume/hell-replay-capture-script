@@ -553,7 +553,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764722109
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -650,8 +651,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "181.214.221.41",
-    "port": 7787,
-    "removed": 1764612715
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -703,6 +703,11 @@
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
+  },
+  {
+    "name": "GBG2",
+    "addr": "188.42.131.188",
+    "port": 7777
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -852,7 +857,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -862,7 +867,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1084,7 +1089,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1119,7 +1124,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1205,7 +1210,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1809,7 +1814,8 @@
   {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "74.63.207.107",
-    "port": 7847
+    "port": 7847,
+    "removed": 1764722109
   },
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
@@ -1943,6 +1949,11 @@
     "addr": "82.25.36.130",
     "port": 7777,
     "removed": 1764332046
+  },
+  {
+    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
+    "addr": "82.25.36.150",
+    "port": 7797
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2166,7 +2177,8 @@
   {
     "name": "hll Server",
     "addr": "95.135.0.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764722109
   },
   {
     "name": "Qonzer LAX Test2",
