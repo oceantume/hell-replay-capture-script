@@ -92,7 +92,8 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764765260
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
@@ -153,26 +154,22 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400,
-    "removed": 1764764085
+    "port": 28400
   },
   {
     "name": "CrossFire Gaming",
     "addr": "144.126.153.213",
-    "port": 28800,
-    "removed": 1764764085
+    "port": 28800
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
-    "port": 29000,
-    "removed": 1764764085
+    "port": 29000
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
@@ -364,8 +361,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1764764085
+    "port": 28400
   },
   {
     "name": "[HILF UA] Ukrainian server",
@@ -540,7 +536,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764765260
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -570,7 +567,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764765260
   },
   {
     "name": "DSL Suchtlappen DE/EN",
@@ -606,7 +604,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764765260
   },
   {
     "name": "Testing Server - UK #07",
@@ -764,8 +763,7 @@
   {
     "name": "5th Ranger Battalion | US East | 5thrb.com",
     "addr": "192.169.86.210",
-    "port": 7787,
-    "removed": 1764764085
+    "port": 7787
   },
   {
     "name": "Helios Event Server",
@@ -921,20 +919,17 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1764764085
+    "port": 28000
   },
   {
     "name": "Hell let loose (US West) big mikes",
     "addr": "193.192.58.206",
-    "port": 28200,
-    "removed": 1764764085
+    "port": 28200
   },
   {
     "name": "Savage Let loose",
     "addr": "193.192.59.170",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1335,26 +1330,22 @@
   {
     "name": "139Gebirgsjager Regiment Server",
     "addr": "45.137.244.9",
-    "port": 28100,
-    "removed": 1764764085
+    "port": 28100
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "45.137.244.9",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
-    "port": 28800,
-    "removed": 1764764085
+    "port": 28800
   },
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1764764085
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1370,20 +1361,17 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1764764085
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1394,8 +1382,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1764677667
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1411,14 +1398,12 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1764764085
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1695,8 +1680,7 @@
   {
     "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
-    "port": 7777,
-    "removed": 1764764085
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1837,7 +1821,8 @@
   {
     "name": "Fire For Effect [FFE] S1",
     "addr": "69.162.102.53",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764765260
   },
   {
     "name": "(IC) Event Server | US Central #3 Dallas | discord.gg/icoh",
@@ -1854,7 +1839,8 @@
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
     "addr": "74.63.207.107",
-    "port": 7907
+    "port": 7907,
+    "removed": 1764765260
   },
   {
     "name": "chickchickchick",
@@ -1919,7 +1905,8 @@
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764765260
   },
   {
     "name": "RCON Testing",
@@ -1945,14 +1932,12 @@
   {
     "name": "[LATAM/ESP] URANIUM | ENTRENAMIENTOS, SOMOS MALOS PERO SEREMOS ",
     "addr": "78.111.102.114",
-    "port": 28200,
-    "removed": 1764764085
+    "port": 28200
   },
   {
     "name": "[LATAM] Se Sortea Chancho by Tango",
     "addr": "78.111.102.114",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1994,8 +1979,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1764764085
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #08",
@@ -2006,14 +1990,12 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1764764085
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2044,32 +2026,27 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100,
-    "removed": 1764764085
+    "port": 28100
   },
   {
     "name": "[FR] La Guerre Des Boutons",
     "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1764764085
+    "port": 28000
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.138",
-    "port": 28200,
-    "removed": 1764764085
+    "port": 28200
   },
   {
     "name": "Test",
     "addr": "83.223.207.50",
-    "port": 28100,
-    "removed": 1764764085
+    "port": 28100
   },
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "[MFEF] Midwestern Fleeb's Eastern Front",
@@ -2090,7 +2067,8 @@
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764765260
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
@@ -2106,13 +2084,13 @@
   {
     "name": "{serverName}",
     "addr": "89.117.72.61",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764765260
   },
   {
     "name": "HLL Official - South America #01",
@@ -2127,14 +2105,12 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1764764085
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28600,
-    "removed": 1764764085
+    "port": 28600
   },
   {
     "name": "HLL Server",
@@ -2195,26 +2171,22 @@
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
     "addr": "92.38.151.76",
-    "port": 28900,
-    "removed": 1764764085
+    "port": 28900
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
     "addr": "92.38.151.86",
-    "port": 29200,
-    "removed": 1764764085
+    "port": 29200
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.89",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.89",
-    "port": 29100,
-    "removed": 1764764085
+    "port": 29100
   },
   {
     "name": "HLL Official - Australia #02",
