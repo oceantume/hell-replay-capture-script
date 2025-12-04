@@ -87,8 +87,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1764828774
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -384,6 +383,11 @@
     "port": 28200
   },
   {
+    "name": "PARABELLUM EVENT SERVER",
+    "addr": "176.57.153.114",
+    "port": 28000
+  },
+  {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
     "port": 28000
@@ -428,7 +432,8 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764871945
   },
   {
     "name": "[AT/GER] - [HB] Heurigen-Bataillon Österreich - Stammtisch",
@@ -518,8 +523,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1764828774
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -564,7 +568,8 @@
   {
     "name": "Testify",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764871945
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -622,7 +627,7 @@
     "port": 8772
   },
   {
-    "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- discord.gg/RVpRVBP2JQ",
+    "name": "[LATAM] El Olimpo -360 Conducción- discord.gg/RVpRVBP2JQ",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -662,7 +667,7 @@
     "port": 7797
   },
   {
-    "name": "#2 ☆ UKLL | UK Let Loose | All Maps | discord.gg/ukll ☆",
+    "name": "#2 ☆ UKLL | UK Let Loose | SMOLENSK 24/7 EVENT | discord.gg/u",
     "addr": "185.216.144.75",
     "port": 11255
   },
@@ -1226,7 +1231,7 @@
     "port": 7777
   },
   {
-    "name": "CN做最优质的战士！【PUMA】萌新对抗服q746699634",
+    "name": "Cathey【PUMA】chin server 746699634",
     "addr": "208.115.251.114",
     "port": 7787
   },
@@ -1537,8 +1542,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1764853231
+    "port": 8530
   },
   {
     "name": "Moon",
@@ -1649,8 +1653,7 @@
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777,
-    "removed": 1764850473
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -1915,13 +1918,7 @@
     "port": 7777
   },
   {
-    "name": "XP GRIND SERVER. JOIN ALLIES. BUILD BUNKERS. REPEAT.",
-    "addr": "74.63.231.4",
-    "port": 7777,
-    "removed": 1764267063
-  },
-  {
-    "name": "[LATAM/ESP] URANIUM | SMOLENSK 24/7 ==NO RULES == discord.gg/ur",
+    "name": "EVENTOS URANIUM || SOMOS MALOS PERO SEREMOS MEJORES || discord.",
     "addr": "78.111.102.114",
     "port": 28200
   },
@@ -1980,7 +1977,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764871945
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2102,7 +2100,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764871945
   },
   {
     "name": "Test HLL",
