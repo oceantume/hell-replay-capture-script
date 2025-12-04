@@ -5,7 +5,7 @@
     "port": 8888
   },
   {
-    "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Smolensk 24/7 | discord.gg/bigd",
     "addr": "103.193.80.145",
     "port": 7787
   },
@@ -287,7 +287,7 @@
     "port": 7817
   },
   {
-    "name": "Turks Let Loose [TR] - Türkiye - turksletloose.com",
+    "name": "Turks Let Loose [EN]/[TR] - Discord: turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
   },
@@ -391,7 +391,8 @@
   {
     "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger + Mic",
     "addr": "176.57.140.83",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764808540
   },
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
@@ -1241,7 +1242,7 @@
     "port": 7777
   },
   {
-    "name": "[1.BV] Brennholzverleih | Active Admins | Ger + Mic",
+    "name": "[1.BV] Brennholzverleih | Active Admins | Ger",
     "addr": "208.115.248.92",
     "port": 7777
   },
@@ -1331,6 +1332,11 @@
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "38.246.35.141",
+    "port": 7777
   },
   {
     "name": "139Gebirgsjager Regiment Server",
@@ -1462,8 +1468,7 @@
   {
     "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1764785506
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1943,8 +1948,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1764789057
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
