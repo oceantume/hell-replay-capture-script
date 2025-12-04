@@ -389,10 +389,9 @@
     "removed": 1764248298
   },
   {
-    "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger + Mic",
+    "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger",
     "addr": "176.57.140.83",
-    "port": 28200,
-    "removed": 1764808540
+    "port": 28200
   },
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
@@ -1361,7 +1360,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764810364
   },
   {
     "name": "HLL Official - US West #02",
@@ -2215,8 +2215,7 @@
   {
     "name": "hll Server",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1764722109
+    "port": 7777
   },
   {
     "name": "Qonzer LAX Test2",
