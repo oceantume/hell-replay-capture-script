@@ -192,12 +192,6 @@
     "port": 9014
   },
   {
-    "name": "HLL Server",
-    "addr": "149.13.210.188",
-    "port": 7777,
-    "removed": 1764248298
-  },
-  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -361,7 +355,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764853231
   },
   {
     "name": "HILF | UA/ENG | Europe | Community Server",
@@ -382,12 +377,6 @@
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
-  },
-  {
-    "name": "Testing Stuff",
-    "addr": "176.57.140.83",
-    "port": 28000,
-    "removed": 1764248298
   },
   {
     "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger",
@@ -1309,7 +1298,7 @@
     "port": 9075
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "23.109.63.156",
     "port": 8530
   },
@@ -1548,7 +1537,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764853231
   },
   {
     "name": "Moon",
@@ -1675,8 +1665,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1764851638
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
