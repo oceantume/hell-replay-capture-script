@@ -698,12 +698,6 @@
     "port": 10165
   },
   {
-    "name": "! ! !OINK 9.9 KAMPFSCHWEINE | ENDGAME | GTX | GER ENG",
-    "addr": "185.83.152.101",
-    "port": 8530,
-    "removed": 1764245640
-  },
-  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
@@ -722,12 +716,6 @@
     "name": "CN/EU 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "188.64.33.2",
     "port": 9075
-  },
-  {
-    "name": "♤Ctrl Alt Defeat [Event] ctrlalt-defeat.com",
-    "addr": "191.101.166.120",
-    "port": 8530,
-    "removed": 1764245640
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1295,7 +1283,7 @@
     "port": 7777
   },
   {
-    "name": "#6 CT.gg » All Maps |discord .NT.gg",
+    "name": "#6 CT.gg » All Maps |discord .cn.gg",
     "addr": "216.144.245.85",
     "port": 7777
   },
@@ -1319,6 +1307,11 @@
     "name": "[GER] Panzerschreck Peanut Butter | MIC ONLY | VOTE MAP | VIP f",
     "addr": "217.182.196.157",
     "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "23.109.63.156",
+    "port": 8530
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -1384,8 +1377,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1764764085
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1400,13 +1392,13 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1764764085
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1764850473
   },
   {
     "name": "HLL Official - US East #06",
@@ -1667,7 +1659,8 @@
   {
     "name": "»BAIN« | Training & Event | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764850473
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -1870,12 +1863,14 @@
   {
     "name": "hll Server",
     "addr": "74.63.207.109",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764850473
   },
   {
     "name": "CN3#散人猫猫攻防|极限攻防第二咖啡馆Q120748151",
     "addr": "74.63.207.109",
-    "port": 7807
+    "port": 7807,
+    "removed": 1764850473
   },
   {
     "name": "i love playing CSGO!",
@@ -1890,12 +1885,14 @@
   {
     "name": "CN4#散人猫猫攻防|秋日微凉也要攻防Q120748151",
     "addr": "74.63.207.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764850473
   },
   {
     "name": "GTZ战术大队跑图服",
     "addr": "74.63.207.110",
-    "port": 7797
+    "port": 7797,
+    "removed": 1764850473
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
@@ -2090,8 +2087,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1764765260
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2116,8 +2112,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1764612715
+    "port": 7777
   },
   {
     "name": "Test HLL",
