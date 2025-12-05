@@ -380,7 +380,8 @@
   {
     "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger",
     "addr": "176.57.140.83",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764894969
   },
   {
     "name": "PARABELLUM EVENT SERVER",
@@ -426,8 +427,7 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000,
-    "removed": 1764871945
+    "port": 28000
   },
   {
     "name": "[AT/GER] - [HB] Heurigen-Bataillon Österreich - Stammtisch",
@@ -542,7 +542,8 @@
   {
     "name": "[GER] 100.Jäger-Division | DEV Server by Wienni",
     "addr": "176.57.171.161",
-    "port": 28000
+    "port": 28000,
+    "removed": 1764894969
   },
   {
     "name": "Borry‘s Playground",
@@ -1444,7 +1445,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#3 | Vote Map | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Affiliate Scrim Night | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1825,27 +1826,32 @@
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
     "addr": "74.63.207.107",
-    "port": 7907
+    "port": 7907,
+    "removed": 1764894969
   },
   {
     "name": "chickchickchick",
     "addr": "74.63.207.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764894969
   },
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "74.63.207.108",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764894969
   },
   {
     "name": "JQNSP#sanren community|玫防officer cafe丨120748151",
     "addr": "74.63.207.108",
-    "port": 7857
+    "port": 7857,
+    "removed": 1764894969
   },
   {
     "name": "JQNSP#sanren community|荫新officer cafe丨120748151",
     "addr": "74.63.207.108",
-    "port": 7887
+    "port": 7887,
+    "removed": 1764894969
   },
   {
     "name": "hll Server",
@@ -1862,12 +1868,14 @@
   {
     "name": "i love playing CSGO!",
     "addr": "74.63.207.109",
-    "port": 7827
+    "port": 7827,
+    "removed": 1764894969
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "74.63.207.109",
-    "port": 7867
+    "port": 7867,
+    "removed": 1764894969
   },
   {
     "name": "CN4#散人猫猫攻防|秋日微凉也要攻防Q120748151",
@@ -1884,12 +1892,14 @@
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "74.63.207.110",
-    "port": 7817
+    "port": 7817,
+    "removed": 1764894969
   },
   {
     "name": "JUMP Special Forces Server",
     "addr": "74.63.207.110",
-    "port": 7897
+    "port": 7897,
+    "removed": 1764894969
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1919,7 +1929,8 @@
   {
     "name": "[LATAM] Se Sortea Chancho by Tango",
     "addr": "78.111.102.114",
-    "port": 28300
+    "port": 28300,
+    "removed": 1764894969
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1955,8 +1966,52 @@
   {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "82.25.36.150",
-    "port": 7797,
-    "removed": 1764764085
+    "port": 7777
+  },
+  {
+    "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
+    "addr": "82.25.36.150",
+    "port": 7787
+  },
+  {
+    "name": "JQNSP#sanren community|玫防officer cafe丨120748151",
+    "addr": "82.25.36.150",
+    "port": 7797
+  },
+  {
+    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
+    "addr": "82.25.36.150",
+    "port": 7807
+  },
+  {
+    "name": "JQNSP#sanren community|荫新officer cafe丨120748151",
+    "addr": "82.25.36.150",
+    "port": 7817
+  },
+  {
+    "name": "i love playing CSGO!",
+    "addr": "82.25.36.150",
+    "port": 7827
+  },
+  {
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
+    "addr": "82.25.36.150",
+    "port": 7837
+  },
+  {
+    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
+    "addr": "82.25.36.150",
+    "port": 7847
+  },
+  {
+    "name": "JUMP Special Forces Server",
+    "addr": "82.25.36.150",
+    "port": 7857
+  },
+  {
+    "name": "chickchickchick",
+    "addr": "82.25.36.150",
+    "port": 7867
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2069,7 +2124,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764894969
   },
   {
     "name": "HLL Official - South America #01",
