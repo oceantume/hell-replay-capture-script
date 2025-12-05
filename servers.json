@@ -1345,7 +1345,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1764958214
   },
   {
     "name": "HLL Official - US West #01",
@@ -1611,7 +1612,8 @@
   {
     "name": "Testing Qonzer",
     "addr": "64.31.16.186",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764958214
   },
   {
     "name": "hll Server",
@@ -1649,7 +1651,7 @@
     "port": 7787
   },
   {
-    "name": "»BAIN« | Training & Event | bainclan.com.br",
+    "name": "hll Server",
     "addr": "64.31.31.122",
     "port": 7777
   },
@@ -1925,7 +1927,7 @@
     "port": 7777
   },
   {
-    "name": "EVENTOS URANIUM || SOMOS MALOS PERO SEREMOS MEJORES || discord.",
+    "name": "EVENTOS URANIUM || HCA EVENT || discord.gg/uranium235",
     "addr": "78.111.102.114",
     "port": 28200
   },
@@ -2023,13 +2025,13 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1764871945
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764958214
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2212,7 +2214,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | https://discord.gg/caveiras",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | LVL 80 + | discord.gg/caveiras",
     "addr": "92.38.151.86",
     "port": 29200
   },
@@ -2234,13 +2236,13 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1764958214
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "95.135.0.1",
-    "port": 7777,
-    "removed": 1764940736
+    "port": 7777
   },
   {
     "name": "hll Server",
