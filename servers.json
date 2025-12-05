@@ -540,10 +540,9 @@
     "port": 28300
   },
   {
-    "name": "[GER] 100.Jäger-Division | DEV Server by Wienni",
+    "name": "4story",
     "addr": "176.57.171.161",
-    "port": 28000,
-    "removed": 1764894969
+    "port": 28000
   },
   {
     "name": "Borry‘s Playground",
@@ -1536,7 +1535,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764939520
   },
   {
     "name": "Moon",
