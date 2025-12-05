@@ -1278,15 +1278,9 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
+    "name": "#6 EXP.gg » All Maps | .CN.gg",
     "addr": "216.144.245.85",
     "port": 7777
-  },
-  {
-    "name": "CN#1 TT天堂萌新俱乐部（纯冲突）Q群：578097070",
-    "addr": "216.144.245.86",
-    "port": 7877,
-    "removed": 1764313831
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1392,8 +1386,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1764850473
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1418,14 +1411,12 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777,
-    "removed": 1764917963
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7877,
-    "removed": 1764917963
+    "port": 7877
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1453,7 +1444,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#3 | Affiliate Scrim Night | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1470,8 +1461,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777,
-    "removed": 1764917963
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
@@ -1491,8 +1481,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.75.156.4",
-    "port": 7777,
-    "removed": 1764917963
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1973,12 +1962,6 @@
     "port": 9075
   },
   {
-    "name": "hll Server",
-    "addr": "82.25.36.130",
-    "port": 7777,
-    "removed": 1764332046
-  },
-  {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "82.25.36.150",
     "port": 7777
@@ -1989,7 +1972,7 @@
     "port": 7787
   },
   {
-    "name": "JQNSP#sanren community|玫防officer cafe丨120748151",
+    "name": "JQNSP#散人社区|极限攻防战争咖啡馆丨120748151",
     "addr": "82.25.36.150",
     "port": 7797
   },
@@ -1999,7 +1982,7 @@
     "port": 7807
   },
   {
-    "name": "JQNSP#sanren community|荫新officer cafe丨120748151",
+    "name": "JQNSP#牢散社区|荫新的军官咖啡馆丨120748151",
     "addr": "82.25.36.150",
     "port": 7817
   },
@@ -2211,7 +2194,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 3",
     "addr": "92.118.19.66",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764936875
   },
   {
     "name": "U Test Server",
@@ -2262,12 +2246,6 @@
     "name": "hll Server",
     "addr": "95.135.0.2",
     "port": 7777
-  },
-  {
-    "name": "Qonzer LAX Test2",
-    "addr": "95.135.0.4",
-    "port": 7777,
-    "removed": 1764332046
   },
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
