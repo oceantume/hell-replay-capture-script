@@ -291,7 +291,7 @@
     "port": 9075
   },
   {
-    "name": "=7Cav= Tactical Realism | Smolensk 24/7 | Discord.gg/7Cav",
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075
   },
@@ -333,8 +333,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1764828774
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -349,7 +348,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1764915143
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -875,7 +875,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1764915143
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -921,6 +922,11 @@
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
     "port": 9620
+  },
+  {
+    "name": "Autism Let Loose (US East) Pure Autism, Pure Hatred, Unbridled ",
+    "addr": "194.140.198.168",
+    "port": 29100
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -1272,7 +1278,7 @@
     "port": 7777
   },
   {
-    "name": "#6 CT.gg » All Maps |discord .cn.gg",
+    "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "216.144.245.85",
     "port": 7777
   },
@@ -1604,6 +1610,11 @@
     "addr": "64.31.11.42",
     "port": 8530,
     "removed": 1764591274
+  },
+  {
+    "name": "GTZ战术大队跑图服",
+    "addr": "64.31.11.74",
+    "port": 11800
   },
   {
     "name": "Testing Qonzer",
