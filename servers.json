@@ -43,8 +43,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1765026668
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -161,6 +160,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
+  },
+  {
+    "name": "Tyler",
+    "addr": "144.126.153.213",
+    "port": 28500
   },
   {
     "name": "CrossFire Gaming",
@@ -363,8 +367,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1764853231
+    "port": 28400
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
@@ -1021,7 +1024,7 @@
     "port": 7787
   },
   {
-    "name": "[Ger] 1. Fallschirmjäger Division Smolensk 60min",
+    "name": "[Ger] 1. Fallschirmjäger Server 2",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -1358,8 +1361,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1764958214
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1395,8 +1397,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1765023139
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -2106,21 +2107,22 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765044600
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1764958214
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765044600
   },
   {
-    "name": "<C.TW> | Brother Wa Advanced Newbies | Q979552783",
+    "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
     "addr": "83.223.197.85",
     "port": 28000
   },
@@ -2132,13 +2134,13 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1764981273
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765044600
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2231,7 +2233,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765044600
   },
   {
     "name": "Test HLL",
@@ -2317,8 +2320,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1764958214
+    "port": 28200
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
