@@ -43,7 +43,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765026668
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -961,8 +962,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1765025632
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
