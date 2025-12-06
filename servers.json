@@ -2,7 +2,8 @@
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
     "addr": "103.1.213.251",
-    "port": 8888
+    "port": 8888,
+    "removed": 1765001451
   },
   {
     "name": "BigD.com.au AU#2 | Smolensk 24/7 | discord.gg/bigd",
@@ -357,8 +358,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1764915143
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -607,7 +607,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765001451
   },
   {
     "name": "QA Testing - EU #05",
@@ -879,8 +880,7 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1764983043
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -957,12 +957,14 @@
   {
     "name": "Free Dutch Empire server #1, you need mic.",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1765001451
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1765001451
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -1290,7 +1292,8 @@
   {
     "name": "#6 EXP.gg » All Maps | .CN.gg",
     "addr": "216.144.245.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765001451
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1988,6 +1991,21 @@
     "port": 9075
   },
   {
+    "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
+    "addr": "82.25.36.130",
+    "port": 7777
+  },
+  {
+    "name": "CN#1TT天堂萌新俱乐部 HK低延迟 Q群548651",
+    "addr": "82.25.36.130",
+    "port": 7787
+  },
+  {
+    "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
+    "addr": "82.25.36.130",
+    "port": 7797
+  },
+  {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "82.25.36.150",
     "port": 7777
@@ -2210,7 +2228,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765001451
   },
   {
     "name": "Test HLL",
