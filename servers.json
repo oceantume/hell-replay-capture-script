@@ -149,8 +149,7 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
     "addr": "142.91.157.28",
-    "port": 7777,
-    "removed": 1764442965
+    "port": 7777
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -367,7 +366,7 @@
     "removed": 1764853231
   },
   {
-    "name": "HILF | UA/ENG | Europe | Community Server",
+    "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "176.57.140.181",
     "port": 30600
   },
@@ -975,7 +974,7 @@
     "port": 9620
   },
   {
-    "name": "#1 - HLL-DANMARK.DK - Danmark ☆ NEW PLAYERS WELCOM",
+    "name": "#1 - Only Smolensk - Danmark ☆ NEW PLAYERS WELCOM",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1083,7 +1082,8 @@
   {
     "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
     "addr": "208.115.206.84",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765023139
   },
   {
     "name": "[GER] Midgards Panzer Event Server",
@@ -1373,7 +1373,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765023139
   },
   {
     "name": "HLL Official - US East #01",
@@ -1393,7 +1394,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1765023139
   },
   {
     "name": "HLL Official - US East #03",
@@ -1596,7 +1598,8 @@
   {
     "name": "MG Prep",
     "addr": "64.20.50.186",
-    "port": 10710
+    "port": 10710,
+    "removed": 1765023139
   },
   {
     "name": "D.C. I DELTA CORPS - ENTRENAMIENTOS",
@@ -1996,7 +1999,8 @@
   {
     "name": "CN#1TT天堂萌新俱乐部 HK低延迟 Q群548651",
     "addr": "82.25.36.130",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765023139
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
@@ -2226,8 +2230,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765001451
+    "port": 7777
   },
   {
     "name": "Test HLL",
