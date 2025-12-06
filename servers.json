@@ -82,7 +82,8 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
     "addr": "135.181.165.173",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764981273
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -173,7 +174,8 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
     "addr": "145.239.144.76",
-    "port": 8530
+    "port": 8530,
+    "removed": 1764981273
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -273,12 +275,14 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "154.45.251.75",
-    "port": 7827
+    "port": 7827,
+    "removed": 1764981273
   },
   {
     "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "154.45.251.78",
-    "port": 7817
+    "port": 7817,
+    "removed": 1764981273
   },
   {
     "name": "Turks Let Loose [EN]/[TR] - Discord: turksletloose.com",
@@ -294,6 +298,11 @@
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075
+  },
+  {
+    "name": "&quot;We Need an Airhead&quot;",
+    "addr": "160.202.167.11",
+    "port": 8888
   },
   {
     "name": "2nd Armored | US EAST | discord.gg/2ad",
@@ -673,7 +682,8 @@
   {
     "name": "<CN>#5 IMP帝国社区 萌新攻防服 |Q1020812925 欧洲节",
     "addr": "185.216.144.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1764981273
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -1496,17 +1506,20 @@
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/香港HK/Q882377564",
     "addr": "51.79.151.161",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764981273
   },
   {
     "name": "CN#1TT天堂萌新俱乐部 HK低延迟 Q群548651",
     "addr": "51.79.151.162",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764981273
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "51.79.151.162",
-    "port": 7787
+    "port": 7787,
+    "removed": 1764981273
   },
   {
     "name": "CZ & SK | #3 | VLK @ EVENT",
@@ -1651,7 +1664,7 @@
     "port": 7787
   },
   {
-    "name": "hll Server",
+    "name": "»BAIN« | Server de treino | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
   },
@@ -1673,6 +1686,11 @@
   {
     "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
+    "port": 7777
+  },
+  {
+    "name": "Qonzer | Miami | Test",
+    "addr": "64.31.31.126",
     "port": 7777
   },
   {
@@ -1734,7 +1752,8 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "64.31.60.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1764981273
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1790,6 +1809,11 @@
     "name": "=7Cav= Tactical Realism | US EAST Smolensk 24/7 | Discord.gg/7C",
     "addr": "67.217.48.14",
     "port": 11255
+  },
+  {
+    "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
+    "addr": "67.217.48.14",
+    "port": 8530
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1983,7 +2007,7 @@
     "port": 7807
   },
   {
-    "name": "JQNSP#牢散社区|荫新的军官咖啡馆丨120748151",
+    "name": "CN1#牢散社区|荫新的军官咖啡馆丨日服120748151",
     "addr": "82.25.36.150",
     "port": 7817
   },
@@ -2011,6 +2035,41 @@
     "name": "chickchickchick",
     "addr": "82.25.36.150",
     "port": 7867
+  },
+  {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "addr": "82.25.36.151",
+    "port": 7777
+  },
+  {
+    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
+    "addr": "82.25.36.151",
+    "port": 7787
+  },
+  {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
+    "addr": "82.25.36.151",
+    "port": 7807
+  },
+  {
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
+    "addr": "82.25.36.151",
+    "port": 7817
+  },
+  {
+    "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "addr": "82.25.36.151",
+    "port": 7827
+  },
+  {
+    "name": "LST车组训练专用服",
+    "addr": "82.25.36.151",
+    "port": 7837
+  },
+  {
+    "name": "帝国社区训练专用服",
+    "addr": "82.25.36.151",
+    "port": 7847
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2051,7 +2110,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1764981273
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2149,8 +2209,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1764871945
+    "port": 7777
   },
   {
     "name": "Test HLL",
