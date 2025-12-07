@@ -413,6 +413,11 @@
     "port": 28200
   },
   {
+    "name": "FC Groningen",
+    "addr": "176.57.168.250",
+    "port": 28400
+  },
+  {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
     "port": 28200
@@ -858,8 +863,7 @@
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
     "addr": "193.160.22.140",
-    "port": 7787,
-    "removed": 1765091148
+    "port": 7787
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -1447,8 +1451,7 @@
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1765091148
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1805,8 +1808,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1765091148
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST Smolensk 24/7 | Discord.gg/7C",
