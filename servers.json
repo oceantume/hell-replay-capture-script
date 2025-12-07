@@ -568,7 +568,7 @@
     "port": 28300
   },
   {
-    "name": "DSL Suchtlappen DE/EN",
+    "name": "DieSuchtLappen [DSL] GER/EN",
     "addr": "176.57.171.38",
     "port": 28100
   },
@@ -888,8 +888,7 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877,
-    "removed": 1764915143
+    "port": 7877
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1181,7 +1180,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765131013
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1758,7 +1758,8 @@
   {
     "name": "ゐCobras Fumantes 3",
     "addr": "64.31.60.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765131013
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2099,8 +2100,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1765044600
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2110,8 +2110,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1765044600
+    "port": 28300
   },
   {
     "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
@@ -2131,8 +2130,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1765044600
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
