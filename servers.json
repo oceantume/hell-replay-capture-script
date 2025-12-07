@@ -1841,12 +1841,6 @@
     "port": 7787
   },
   {
-    "name": "(IC) Event Server | US Central #3 Dallas | discord.gg/icoh",
-    "addr": "69.162.89.150",
-    "port": 7777,
-    "removed": 1764485126
-  },
-  {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "74.63.207.107",
     "port": 7847,
@@ -2328,6 +2322,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1765090434
   }
 ]
