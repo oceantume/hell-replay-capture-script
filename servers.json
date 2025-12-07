@@ -1001,12 +1001,6 @@
     "port": 8888
   },
   {
-    "name": "HCIA EU 2 - Powered by Streamline",
-    "addr": "203.23.178.51",
-    "port": 8908,
-    "removed": 1764528139
-  },
-  {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "208.115.201.22",
     "port": 7777
@@ -1180,8 +1174,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1765131013
+    "port": 7777
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1217,7 +1210,8 @@
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765133532
   },
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
@@ -1642,7 +1636,8 @@
   {
     "name": "Current Level: Shopping's Better Now(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765133532
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
