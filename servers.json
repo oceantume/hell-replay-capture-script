@@ -164,7 +164,8 @@
   {
     "name": "Tyler",
     "addr": "144.126.153.213",
-    "port": 28500
+    "port": 28500,
+    "removed": 1765068014
   },
   {
     "name": "CrossFire Gaming",
@@ -404,12 +405,6 @@
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
     "port": 28000
-  },
-  {
-    "name": "! ! !OINK OFFENSIVE | LOW PING | Late Night | EU",
-    "addr": "176.57.168.194",
-    "port": 28100,
-    "removed": 1764442965
   },
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
@@ -950,12 +945,6 @@
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
     "port": 20600
-  },
-  {
-    "name": "[ESP] MALDITOS BATRDS | COMUNIDA ESPAÑOLA",
-    "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1764463201
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
@@ -1757,10 +1746,9 @@
     "port": 7777
   },
   {
-    "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
+    "name": "ゐCobras Fumantes 3",
     "addr": "64.31.60.34",
-    "port": 7777,
-    "removed": 1764981273
+    "port": 7777
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
