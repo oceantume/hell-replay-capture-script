@@ -878,7 +878,8 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765069968
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1269,6 +1270,11 @@
     "name": "MEXICO LATAM OGT 4",
     "addr": "209.192.185.50",
     "port": 7837
+  },
+  {
+    "name": "GSR",
+    "addr": "209.192.185.50",
+    "port": 7857
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
