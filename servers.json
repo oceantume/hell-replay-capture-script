@@ -1555,7 +1555,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530
+    "port": 8530,
+    "removed": 1765198799
   },
   {
     "name": "Moon",
@@ -2224,8 +2225,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765044600
+    "port": 7777
   },
   {
     "name": "Test HLL",
