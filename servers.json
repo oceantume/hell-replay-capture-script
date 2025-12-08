@@ -376,6 +376,11 @@
     "port": 28400
   },
   {
+    "name": "Oktogon • NEW PLAYER FRIENDLY • [ENG/GER]",
+    "addr": "176.57.140.146",
+    "port": 28100
+  },
+  {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "176.57.140.181",
     "port": 30600
@@ -708,7 +713,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | FIESE ENDE | GBG | GER ENG",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | OFFENSIVE | GBG | GER ENG",
     "addr": "188.42.131.188",
     "port": 7777
   },
@@ -956,7 +961,8 @@
   {
     "name": "Free Dutch Empire server #1, you need mic.",
     "addr": "195.82.158.186",
-    "port": 21200
+    "port": 21200,
+    "removed": 1765217528
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1533,7 +1539,7 @@
     "port": 10165
   },
   {
-    "name": "VLK @ SMOLENSK",
+    "name": "European Competitive Community",
     "addr": "51.89.42.34",
     "port": 10710
   },
@@ -1555,8 +1561,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ 2 | discord.gg/byzantium",
     "addr": "54.36.173.226",
-    "port": 8530,
-    "removed": 1765198799
+    "port": 8530
   },
   {
     "name": "Moon",
@@ -1631,6 +1636,11 @@
     "removed": 1764958214
   },
   {
+    "name": "504th: 24hr Smolensk",
+    "addr": "64.31.18.226",
+    "port": 7777
+  },
+  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1643,7 +1653,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.18.230",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765217528
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1937,7 +1948,7 @@
     "port": 7797
   },
   {
-    "name": "HLL Server",
+    "name": "QNZR PERF TEST",
     "addr": "74.63.225.19",
     "port": 7777
   },
@@ -2091,7 +2102,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765217528
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2225,7 +2237,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765217528
   },
   {
     "name": "Test HLL",
@@ -2326,6 +2339,11 @@
   {
     "name": "The Devils Rejects",
     "addr": "95.135.0.70",
+    "port": 7777
+  },
+  {
+    "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
+    "addr": "95.135.0.71",
     "port": 7777
   },
   {
