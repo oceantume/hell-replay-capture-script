@@ -8,8 +8,7 @@
   {
     "name": "BigD.com.au AU#2 | Smolensk 24/7 | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1765154205
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -151,6 +150,11 @@
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
     "addr": "142.91.157.28",
     "port": 7777
+  },
+  {
+    "name": "Testify",
+    "addr": "144.126.153.213",
+    "port": 28000
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -299,8 +303,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1765177341
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -821,7 +824,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Smolensk Heaven | US Central #1 Dallas | discord.gg/icoh",
+    "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
     "addr": "192.169.92.30",
     "port": 7777
   },
@@ -858,8 +861,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1765177341
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -869,8 +871,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1765177341
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1086,8 +1087,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1765177341
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1122,8 +1122,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1765177341
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1173,7 +1172,8 @@
   {
     "name": "Mic Free Dutch empire Server https://discord.gg/fdenl",
     "addr": "208.115.226.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765196082
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -1201,12 +1201,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] [1DBD] 1. DosenBier Division (Anfänger Freundlich, Germa",
-    "addr": "208.115.248.106",
-    "port": 7787,
-    "removed": 1764591274
-  },
-  {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "208.115.248.107",
     "port": 7787
@@ -1214,8 +1208,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1765177341
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1240,8 +1233,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1765177341
+    "port": 7777
   },
   {
     "name": "Cathey【PUMA】chin server 746699634",
@@ -1380,8 +1372,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1765023139
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1461,8 +1452,7 @@
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1765177341
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1627,12 +1617,6 @@
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
     "port": 8530
-  },
-  {
-    "name": "CN.WA3 | Brother Wa love sister's JK and Pantyhose Server | Q10",
-    "addr": "64.31.11.42",
-    "port": 8530,
-    "removed": 1764591274
   },
   {
     "name": "GTZ战术大队跑图服",
