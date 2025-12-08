@@ -8,7 +8,8 @@
   {
     "name": "BigD.com.au AU#2 | Smolensk 24/7 | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765154205
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -28,7 +29,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1765154205
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -573,10 +575,9 @@
     "port": 28100
   },
   {
-    "name": "Testify",
+    "name": "cds",
     "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1764871945
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -705,7 +706,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG | GER E",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | FIESE ENDE | GBG | GER ENG",
     "addr": "188.42.131.188",
     "port": 7777
   },
@@ -1177,6 +1178,11 @@
     "port": 7777
   },
   {
+    "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG | GER E",
+    "addr": "208.115.226.92",
+    "port": 7777
+  },
+  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -1307,7 +1313,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "23.109.63.156",
-    "port": 8530
+    "port": 8530,
+    "removed": 1765154205
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -1415,6 +1422,11 @@
     "name": "[AnE] Let Loose UK - All levels and experience welcome.",
     "addr": "45.143.199.235",
     "port": 8530
+  },
+  {
+    "name": "QNZR | TEST",
+    "addr": "45.151.81.210",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -2016,7 +2028,7 @@
     "port": 7807
   },
   {
-    "name": "CN1#牢散社区|荫新的军官咖啡馆丨日服120748151",
+    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "82.25.36.150",
     "port": 7817
   },
@@ -2071,7 +2083,7 @@
     "port": 7827
   },
   {
-    "name": "LST车组训练专用服",
+    "name": "<CN>#5 帝国社区 经验农场萌新公益刷枪服 XP Farm J",
     "addr": "82.25.36.151",
     "port": 7837
   },
@@ -2181,6 +2193,11 @@
     "addr": "86.8.4.202",
     "port": 7777,
     "removed": 1764699137
+  },
+  {
+    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
+    "addr": "88.211.219.170",
+    "port": 8530
   },
   {
     "name": "{serverName}",
@@ -2313,6 +2330,11 @@
   {
     "name": "hll Server",
     "addr": "95.135.0.2",
+    "port": 7777
+  },
+  {
+    "name": "The Devils Rejects",
+    "addr": "95.135.0.70",
     "port": 7777
   },
   {
