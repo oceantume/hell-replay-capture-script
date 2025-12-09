@@ -68,7 +68,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765260764
   },
   {
     "name": "HLL Official - Russia #02",
@@ -94,27 +95,32 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765260764
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765260764
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG | GER ENG",
     "addr": "139.28.17.147",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765260764
   },
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765260764
   },
   {
     "name": "hll server",
     "addr": "139.28.17.150",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765260764
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -886,8 +892,7 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1765242414
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -2010,7 +2015,7 @@
     "port": 7787
   },
   {
-    "name": "CN2#散人社区|极限攻防战争咖啡馆丨日服120748151",
+    "name": "CN2#散人社区|铁血攻防战争咖啡馆丨日服120748151",
     "addr": "82.25.36.150",
     "port": 7797
   },
@@ -2221,7 +2226,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765260764
   },
   {
     "name": "Test HLL",
