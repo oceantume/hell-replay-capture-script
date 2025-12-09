@@ -68,8 +68,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1765260764
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -95,32 +94,27 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1765260764
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797,
-    "removed": 1765260764
+    "port": 7797
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG | GER ENG",
     "addr": "139.28.17.147",
-    "port": 7797,
-    "removed": 1765260764
+    "port": 7797
   },
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1765260764
+    "port": 7777
   },
   {
     "name": "hll server",
     "addr": "139.28.17.150",
-    "port": 7787,
-    "removed": 1765260764
+    "port": 7787
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -364,7 +358,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1765282480
   },
   {
     "name": "HLL Official - Europe #03",
@@ -431,6 +426,11 @@
     "name": "FC Groningen",
     "addr": "176.57.168.250",
     "port": 28400
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.168.251",
+    "port": 28100
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -510,7 +510,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765282480
   },
   {
     "name": "DevQA - EU #02",
@@ -530,7 +531,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1765282480
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -615,7 +617,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765282480
   },
   {
     "name": "QA Testing - UK #07",
@@ -630,7 +633,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765282480
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -719,7 +723,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | OFFENSIVE | GBG | GER ENG",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | LOW PING | GBG | GER ENG",
     "addr": "188.42.131.188",
     "port": 7777
   },
@@ -957,7 +961,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1765282480
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
@@ -1190,7 +1195,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG | GER E",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765282480
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1250,7 +1256,8 @@
   {
     "name": "[EU]GHOST REGIMENT Player Training | discord.gg/7WGX6JwPTu",
     "addr": "208.115.251.116",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765282480
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1353,7 +1360,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765282480
   },
   {
     "name": "HLL Official - US West #02",
@@ -1378,7 +1386,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1765282480
   },
   {
     "name": "HLL Official - US East #02",
@@ -1653,6 +1662,11 @@
     "removed": 1765217528
   },
   {
+    "name": "508P | US East | LVL 40+ |",
+    "addr": "64.31.2.18",
+    "port": 7777
+  },
+  {
     "name": "△ The Motor Pool | New Player Friendly",
     "addr": "64.31.2.218",
     "port": 7777
@@ -1814,7 +1828,7 @@
     "port": 10710
   },
   {
-    "name": "=7Cav= Tactical Realism | US EAST Smolensk 24/7 | Discord.gg/7C",
+    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
     "port": 11255
   },
@@ -2097,8 +2111,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1765217528
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2306,6 +2319,11 @@
     "port": 29100
   },
   {
+    "name": "Hell let loose (US West) Server by g-portal.com",
+    "addr": "94.250.218.33",
+    "port": 28200
+  },
+  {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
     "port": 28100
@@ -2313,7 +2331,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765282480
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -2339,6 +2358,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1765282480
   }
 ]
