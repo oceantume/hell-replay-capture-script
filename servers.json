@@ -886,7 +886,8 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765242414
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1670,6 +1671,11 @@
     "name": "»BAIN« | Server de treino | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
+  },
+  {
+    "name": "MEXICO LATAM ESP OGT 2",
+    "addr": "64.31.31.122",
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
