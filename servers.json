@@ -600,6 +600,11 @@
     "port": 28200
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28400
+  },
+  {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "176.57.174.211",
     "port": 28700
@@ -871,8 +876,7 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1765305822
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
