@@ -773,12 +773,6 @@
     "port": 7777
   },
   {
-    "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
-    "addr": "192.169.86.211",
-    "port": 7787,
-    "removed": 1764635746
-  },
-  {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
     "port": 8530
@@ -826,7 +820,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 2",
     "addr": "192.169.92.28",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765240578
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1257,12 +1252,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
-    "addr": "208.115.255.52",
-    "port": 7777,
-    "removed": 1764635746
-  },
-  {
     "name": "Blueberry Madness | 多 eTool | .gg/hostile | .gg/etool",
     "addr": "208.115.255.53",
     "port": 7777
@@ -1638,7 +1627,8 @@
   {
     "name": "504th: 24hr Smolensk",
     "addr": "64.31.18.226",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765240578
   },
   {
     "name": "hll Server",
@@ -1745,12 +1735,6 @@
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
-  },
-  {
-    "name": "Qonzer Test LAX",
-    "addr": "64.31.6.90",
-    "port": 7777,
-    "removed": 1764635746
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2166,12 +2150,6 @@
     "port": 28700
   },
   {
-    "name": "[MFEF] Midwestern Fleeb's Eastern Front",
-    "addr": "83.223.207.55",
-    "port": 28400,
-    "removed": 1764635746
-  },
-  {
     "name": "hll Server",
     "addr": "85.208.197.66",
     "port": 7797
@@ -2237,8 +2215,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765217528
+    "port": 7777
   },
   {
     "name": "Test HLL",
@@ -2302,7 +2279,7 @@
     "port": 28900
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | LVL 80 + | discord.gg/caveiras",
+    "name": "[CAV] CAVEIRAS BRASIL #2 | LVL 50+ | discord.gg/caveiras",
     "addr": "92.38.151.86",
     "port": 29200
   },
