@@ -430,7 +430,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.251",
-    "port": 28100
+    "port": 28100,
+    "removed": 1765283642
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -510,8 +511,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1765282480
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -531,8 +531,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1765282480
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -961,8 +960,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1765282480
+    "port": 20600
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
@@ -1195,8 +1193,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG | GER E",
     "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1765282480
+    "port": 7777
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -2358,7 +2355,6 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300,
-    "removed": 1765282480
+    "port": 10300
   }
 ]
