@@ -6,10 +6,9 @@
     "removed": 1765001451
   },
   {
-    "name": "BigD.com.au AU#2 | Smolensk 24/7 | discord.gg/bigd",
+    "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1765307188
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -19,8 +18,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1765307188
+    "port": 7807
   },
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
@@ -85,8 +83,7 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
     "addr": "135.181.165.173",
-    "port": 9075,
-    "removed": 1764981273
+    "port": 9075
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -188,8 +185,7 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
     "addr": "145.239.144.76",
-    "port": 8530,
-    "removed": 1764981273
+    "port": 8530
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -402,7 +398,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765327040
   },
   {
     "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger",
@@ -709,10 +706,9 @@
     "port": 8530
   },
   {
-    "name": "<CN>#5 IMP帝国社区 萌新攻防服 |Q1020812925 欧洲节",
+    "name": "<CN>#10 IMP帝国社区 萌新攻防服 |Q1020812925 欧洲节",
     "addr": "185.216.144.75",
-    "port": 9075,
-    "removed": 1764981273
+    "port": 9075
   },
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
@@ -730,7 +726,7 @@
     "port": 7807
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | LOW PING | GBG | GER ENG",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | MIDNIGHT MAYHEM | GBG | GER ENG",
     "addr": "188.42.131.188",
     "port": 7777
   },
@@ -876,7 +872,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -886,7 +882,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -1103,7 +1099,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1138,7 +1134,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1224,7 +1220,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1674,7 +1670,8 @@
   {
     "name": "508P | US East | LVL 40+ |",
     "addr": "64.31.2.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765327040
   },
   {
     "name": "△ The Motor Pool | New Player Friendly",
@@ -1871,12 +1868,6 @@
     "name": "Fire For Effect [FFE] SMOLENSK FFECREW.COM",
     "addr": "69.162.102.53",
     "port": 7787
-  },
-  {
-    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
-    "addr": "74.63.207.107",
-    "port": 7847,
-    "removed": 1764722109
   },
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
@@ -2173,7 +2164,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1765327040
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2265,8 +2257,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765260764
+    "port": 7777
   },
   {
     "name": "Test HLL",
