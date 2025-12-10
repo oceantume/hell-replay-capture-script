@@ -368,7 +368,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1765347180
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -471,7 +472,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765347180
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -621,8 +623,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1765282480
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -899,8 +900,7 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1765328901
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -925,7 +925,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765347180
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1284,8 +1285,7 @@
   {
     "name": "GSR",
     "addr": "209.192.185.50",
-    "port": 7857,
-    "removed": 1765328901
+    "port": 7857
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
@@ -2259,7 +2259,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765347180
   },
   {
     "name": "Test HLL",
