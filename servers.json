@@ -44,7 +44,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765458145
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -206,12 +207,14 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765458145
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765458145
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -261,8 +264,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1765456509
+    "port": 7787
   },
   {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
@@ -768,7 +770,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "192.169.80.26",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765458145
   },
   {
     "name": "Pathfinders | Event Server",
@@ -864,8 +867,7 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1765456509
+    "port": 7877
   },
   {
     "name": "AS YT",
@@ -1457,12 +1459,14 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765458145
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765458145
   },
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
@@ -1563,8 +1567,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777,
-    "removed": 1765456509
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
@@ -1818,7 +1821,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765458145
   },
   {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
@@ -1905,7 +1909,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765458145
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1926,14 +1931,12 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1765456509
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1765456509
+    "port": 7787
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -2305,7 +2308,8 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700
+    "port": 28700,
+    "removed": 1765458145
   },
   {
     "name": "hll Server",
