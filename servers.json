@@ -2,8 +2,7 @@
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
     "addr": "103.1.213.251",
-    "port": 8888,
-    "removed": 1765001451
+    "port": 8888
   },
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
@@ -402,8 +401,7 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1765327040
+    "port": 28200
   },
   {
     "name": "[1.BV] Brennholzverleih #2 | Active Admins | Ger",
@@ -597,7 +595,8 @@
   {
     "name": "cds",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765413438
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -919,22 +918,26 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765413438
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765413438
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765413438
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765413438
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
@@ -1346,6 +1349,91 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "38.246.35.141",
     "port": 7777
+  },
+  {
+    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
+    "addr": "40.27.40.150",
+    "port": 7777
+  },
+  {
+    "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
+    "addr": "40.27.40.150",
+    "port": 7787
+  },
+  {
+    "name": "CN2#散人社区|铁血攻防战争咖啡馆丨日服120748151",
+    "addr": "40.27.40.150",
+    "port": 7797
+  },
+  {
+    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
+    "addr": "40.27.40.150",
+    "port": 7807
+  },
+  {
+    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
+    "addr": "40.27.40.150",
+    "port": 7817
+  },
+  {
+    "name": "i love playing CSGO!",
+    "addr": "40.27.40.150",
+    "port": 7827
+  },
+  {
+    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
+    "addr": "40.27.40.150",
+    "port": 7837
+  },
+  {
+    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
+    "addr": "40.27.40.150",
+    "port": 7847
+  },
+  {
+    "name": "JUMP Special Forces Server",
+    "addr": "40.27.40.150",
+    "port": 7857
+  },
+  {
+    "name": "chickchickchick",
+    "addr": "40.27.40.150",
+    "port": 7867
+  },
+  {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
+    "addr": "40.27.40.151",
+    "port": 7777
+  },
+  {
+    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
+    "addr": "40.27.40.151",
+    "port": 7787
+  },
+  {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
+    "addr": "40.27.40.151",
+    "port": 7807
+  },
+  {
+    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
+    "addr": "40.27.40.151",
+    "port": 7817
+  },
+  {
+    "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "addr": "40.27.40.151",
+    "port": 7827
+  },
+  {
+    "name": "<CN>#5 帝国社区 经验农场萌新公益刷枪服 XP Farm J",
+    "addr": "40.27.40.151",
+    "port": 7837
+  },
+  {
+    "name": "帝国社区训练专用服",
+    "addr": "40.27.40.151",
+    "port": 7847
   },
   {
     "name": "139Gebirgsjager Regiment Server",
@@ -2173,8 +2261,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1765327040
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2214,8 +2301,7 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1765177341
+    "port": 7817
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
@@ -2348,7 +2434,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765413438
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
