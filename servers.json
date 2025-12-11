@@ -18,7 +18,8 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807
+    "port": 7807,
+    "removed": 1765456509
   },
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
@@ -129,8 +130,7 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075,
-    "removed": 1765455322
+    "port": 9075
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -241,8 +241,7 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777,
-    "removed": 1765455322
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
@@ -262,7 +261,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765456509
   },
   {
     "name": "[ENG] | Dark Panthera Tigris | SEA Server |",
@@ -864,7 +864,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1765456509
   },
   {
     "name": "AS YT",
@@ -1346,8 +1347,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
     "addr": "23.111.240.210",
-    "port": 9075,
-    "removed": 1765455322
+    "port": 9075
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1563,7 +1563,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765456509
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
@@ -1857,8 +1858,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1765455322
+    "port": 7777
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1926,17 +1926,20 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765456509
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765456509
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765456509
   },
   {
     "name": "[Merc] US West | Event Server",
