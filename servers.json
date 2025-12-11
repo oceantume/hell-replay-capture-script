@@ -997,8 +997,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1765477665
+    "port": 20600
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
@@ -1195,7 +1194,8 @@
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817
+    "port": 7817,
+    "removed": 1765478814
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Only Smolensk",
