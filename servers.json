@@ -18,8 +18,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1765456509
+    "port": 7807
   },
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
@@ -364,7 +363,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765480301
   },
   {
     "name": "HLL Official - Europe #01",
