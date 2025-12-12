@@ -934,7 +934,8 @@
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1765565925
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -2209,8 +2210,7 @@
   {
     "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1765563103
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
