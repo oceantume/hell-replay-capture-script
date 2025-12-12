@@ -757,7 +757,8 @@
   {
     "name": "The 7th Reich [EU] New Players Welcome",
     "addr": "188.64.33.2",
-    "port": 10165
+    "port": 10165,
+    "removed": 1765541660
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -1208,7 +1209,7 @@
     "port": 7777
   },
   {
-    "name": "[PL/ENG] POLSKI SERWER | BZ | discord.gg/byzantium | VIP FOR SE",
+    "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
     "port": 7787
   },
@@ -1537,8 +1538,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1765455322
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
