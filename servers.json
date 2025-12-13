@@ -1109,12 +1109,6 @@
     "port": 7777
   },
   {
-    "name": "[GER] [404] skill not found Eventserver | Wir rekrutieren! | Mi",
-    "addr": "208.115.206.84",
-    "port": 7787,
-    "removed": 1765023139
-  },
-  {
     "name": "[GER] Midgards Panzer Event Server",
     "addr": "208.115.206.86",
     "port": 7777
@@ -1366,8 +1360,7 @@
   {
     "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "40.27.40.13",
-    "port": 7787,
-    "removed": 1765609702
+    "port": 7787
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
@@ -1423,8 +1416,7 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "40.27.40.151",
-    "port": 7777,
-    "removed": 1765519979
+    "port": 7777
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
@@ -1521,7 +1513,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765627989
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1586,7 +1579,8 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.135.28.231",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765627989
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1676,7 +1670,8 @@
   {
     "name": "EU/ENG | [LL] Lost Legion | [1stA] 1st Airborne | lostlegion.eu",
     "addr": "51.89.42.34",
-    "port": 8530
+    "port": 8530,
+    "removed": 1765627989
   },
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
@@ -1727,12 +1722,6 @@
     "name": "Radical Gaming Network -Miami- #2 | discord.gg/RadicalGaming",
     "addr": "64.20.50.186",
     "port": 10165
-  },
-  {
-    "name": "MG Prep",
-    "addr": "64.20.50.186",
-    "port": 10710,
-    "removed": 1765023139
   },
   {
     "name": "D.C. I DELTA CORPS - ENTRENAMIENTOS",
@@ -2048,12 +2037,6 @@
     "removed": 1765303818
   },
   {
-    "name": "CN#1TT天堂萌新俱乐部 HK低延迟 Q群548651",
-    "addr": "82.25.36.130",
-    "port": 7787,
-    "removed": 1765023139
-  },
-  {
     "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "82.25.36.130",
     "port": 7797,
@@ -2189,8 +2172,7 @@
   {
     "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1765606292
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
