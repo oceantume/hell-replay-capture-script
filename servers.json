@@ -299,6 +299,11 @@
     "port": 7787
   },
   {
+    "name": "ZG／JP （Mandarin）GR&DB&BW Team Community Server QQ：10025",
+    "addr": "154.45.251.74",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose [EN]/[TR] - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -1547,7 +1552,7 @@
     "port": 11255
   },
   {
-    "name": "[AnE] Let Loose UK - All levels and experience welcome.",
+    "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All levels and exper",
     "addr": "45.143.199.235",
     "port": 8530
   },
@@ -1579,8 +1584,7 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.135.28.231",
-    "port": 7777,
-    "removed": 1765627989
+    "port": 7777
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -2172,7 +2176,8 @@
   {
     "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765649394
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2360,7 +2365,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765649394
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
