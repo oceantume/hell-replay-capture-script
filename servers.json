@@ -78,7 +78,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1765692693
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -293,7 +294,7 @@
     "port": 7787
   },
   {
-    "name": "ZG／JP （Mandarin）GR&DB&BW Team Community Server QQ：10025",
+    "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
     "addr": "154.45.251.74",
     "port": 7777
   },
@@ -365,7 +366,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765692693
   },
   {
     "name": "HLL Official - Europe #05",
@@ -512,8 +514,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1765606292
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -916,13 +917,17 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1765674781
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
     "port": 7877
+  },
+  {
+    "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "193.160.22.61",
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1377,8 +1382,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807,
-    "removed": 1765606292
+    "port": 7807
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1626,7 +1630,8 @@
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.75.156.30",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765692693
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
@@ -1768,7 +1773,7 @@
     "removed": 1765327040
   },
   {
-    "name": "△ The Motor Pool | New Player Friendly",
+    "name": "△ The Motor Pool #1 | New Player Friendly",
     "addr": "64.31.2.218",
     "port": 7777
   },
@@ -1967,7 +1972,7 @@
     "port": 7787
   },
   {
-    "name": "Fire For Effect [FFE] SMOLENSK FFECREW.COM",
+    "name": "Fire For Effect [FFE] - FFECREW.COM",
     "addr": "69.162.102.53",
     "port": 7787
   },
