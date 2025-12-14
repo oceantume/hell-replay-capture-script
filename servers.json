@@ -1565,12 +1565,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765694735
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "5.135.28.224",
-    "port": 7877
+    "port": 7877,
+    "removed": 1765694735
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1641,7 +1643,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.75.156.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765694735
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
