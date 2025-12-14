@@ -114,7 +114,8 @@
   {
     "name": "hll server",
     "addr": "139.28.17.150",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765735849
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -248,7 +249,7 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Smolensk Playtest :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7787
   },
@@ -417,7 +418,8 @@
   {
     "name": "[FR/BE] Front de Normandie 1944 https://discord.gg/MzDJXuPM",
     "addr": "176.57.168.250",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765735849
   },
   {
     "name": "FC Groningen",
@@ -740,7 +742,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | MIDNIGHT MAYHEM | GBG | GER ENG",
     "addr": "188.42.131.188",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765735849
   },
   {
     "name": "The 7th Reich [EU] New Players Welcome",
@@ -984,8 +987,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1765714389
+    "port": 7777
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1046,8 +1048,7 @@
   {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1765566650
+    "port": 7777
   },
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
@@ -1496,13 +1497,13 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1765735849
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1765563103
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #04",
@@ -1586,12 +1587,14 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.135.28.231",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765735849
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.135.28.231",
-    "port": 7877
+    "port": 7877,
+    "removed": 1765735849
   },
   {
     "name": "#03 [ENG&ESP] Comunidad Hispana - discord.comunidadhll.es - Get",
@@ -1893,12 +1896,6 @@
     "port": 7777
   },
   {
-    "name": "ゐCobras Fumantes 3",
-    "addr": "64.31.60.34",
-    "port": 7777,
-    "removed": 1765131013
-  },
-  {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.60.82",
     "port": 8530
@@ -2165,7 +2162,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765735849
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2226,7 +2224,8 @@
   {
     "name": "hll Server",
     "addr": "85.208.197.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765735849
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2394,6 +2393,16 @@
     "port": 7977
   },
   {
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "95.135.0.5",
+    "port": 7777
+  },
+  {
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "95.135.0.5",
+    "port": 7877
+  },
+  {
     "name": "The Devils Rejects",
     "addr": "95.135.0.70",
     "port": 7777,
@@ -2416,10 +2425,25 @@
     "port": 7777
   },
   {
+    "name": "! ! !GERMAN BATTLEGROUND #3 | MIDNIGHT MAYHEM | GBG | GER ENG #",
+    "addr": "95.135.1.4",
+    "port": 7777
+  },
+  {
     "name": "QNZR | Policy",
     "addr": "95.135.1.5",
     "port": 7777,
     "removed": 1765714389
+  },
+  {
+    "name": "CBMS",
+    "addr": "95.135.1.8",
+    "port": 7777
+  },
+  {
+    "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
+    "addr": "95.135.1.8",
+    "port": 7787
   },
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
