@@ -352,8 +352,7 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1765800946
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -991,7 +990,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1765802143
   },
   {
     "name": "Free Dutch Empire server #1, you need mic.",
