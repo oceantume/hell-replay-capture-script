@@ -1339,12 +1339,6 @@
     "port": 9075
   },
   {
-    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
-    "addr": "23.109.63.156",
-    "port": 8530,
-    "removed": 1765154205
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
     "addr": "23.111.240.210",
     "port": 9075
@@ -1610,20 +1604,17 @@
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1765739078
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1765739078
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1765739078
+    "port": 9620
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1868,6 +1859,11 @@
     "addr": "64.31.53.182",
     "port": 7777,
     "removed": 1765455322
+  },
+  {
+    "name": "Phantom Division (9AD)",
+    "addr": "64.31.58.59",
+    "port": 7777
   },
   {
     "name": "Bad Intentions - Public [US EAST]",
