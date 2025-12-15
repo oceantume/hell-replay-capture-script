@@ -156,7 +156,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765822348
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -216,8 +217,7 @@
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1765803793
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -604,26 +604,22 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1765803793
+    "port": 28200
   },
   {
     "name": "Testify",
     "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1765803793
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28400,
-    "removed": 1765803793
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "176.57.174.211",
-    "port": 28700,
-    "removed": 1765803793
+    "port": 28700
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -997,12 +993,6 @@
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
     "port": 20600
-  },
-  {
-    "name": "Free Dutch Empire server #1, you need mic.",
-    "addr": "195.82.158.186",
-    "port": 21200,
-    "removed": 1765217528
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1448,14 +1438,12 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1765803793
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1765803793
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1491,8 +1479,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1765735849
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1770,12 +1757,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "64.31.18.230",
-    "port": 7777,
-    "removed": 1765217528
-  },
-  {
     "name": "508P | US East | LVL 40+ |",
     "addr": "64.31.2.18",
     "port": 7777,
@@ -1799,8 +1780,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1765803793
+    "port": 7787
   },
   {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
@@ -1840,7 +1820,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765822348
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1892,8 +1873,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1765803793
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -2003,7 +1983,8 @@
   {
     "name": "QNZR PERF TEST",
     "addr": "74.63.225.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765822348
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
@@ -2026,7 +2007,7 @@
     "port": 10710
   },
   {
-    "name": "WAR - Events",
+    "name": "[GER] WE ARE READY - #WAR | Wir Rekrutieren!",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -2167,8 +2148,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1765735849
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2224,8 +2204,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1765803793
+    "port": 28700
   },
   {
     "name": "hll Server",
@@ -2370,13 +2349,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1765822348
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1765649394
+    "port": 28200
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -2432,7 +2411,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "QNZR | POLICY",
     "addr": "95.135.1.2",
     "port": 7777
   },
