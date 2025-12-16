@@ -147,7 +147,8 @@
   {
     "name": "OINK 1 | KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765887303
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
@@ -309,8 +310,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1765868513
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -653,8 +653,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1765499800
+    "port": 28200
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -891,10 +890,9 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1765868513
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -902,10 +900,9 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1765868513
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1115,10 +1112,9 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1765868513
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1151,10 +1147,9 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1765868513
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1232,10 +1227,9 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1765868513
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1260,8 +1254,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1765868513
+    "port": 7777
   },
   {
     "name": "Cathey【PUMA】chin server 746699634",
@@ -1473,8 +1466,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1765499800
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1543,7 +1535,7 @@
     "port": 11255
   },
   {
-    "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome.",
+    "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
     "port": 8530
   },
@@ -1590,8 +1582,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1765868513
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -2217,8 +2208,7 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1765782226
+    "port": 7817
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
