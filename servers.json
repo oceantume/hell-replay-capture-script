@@ -100,8 +100,7 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797,
-    "removed": 1765890085
+    "port": 7797
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
@@ -910,8 +909,7 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797,
-    "removed": 1765847307
+    "port": 7797
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
@@ -1031,7 +1029,8 @@
   {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765908745
   },
   {
     "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
@@ -1082,8 +1081,7 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
     "addr": "208.115.206.38",
-    "port": 7797,
-    "removed": 1765890085
+    "port": 7797
   },
   {
     "name": "POWERBITS GAMETEAM EXPERIMENTAL",
@@ -1440,6 +1438,16 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
+    "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
+    "addr": "40.27.44.8",
+    "port": 7777
+  },
+  {
+    "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
+    "addr": "40.27.44.9",
     "port": 7777
   },
   {
@@ -1875,12 +1883,14 @@
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765908745
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "64.31.61.90",
-    "port": 7787
+    "port": 7787,
+    "removed": 1765908745
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -2007,120 +2017,6 @@
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
-  },
-  {
-    "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
-    "addr": "82.25.36.130",
-    "port": 7777,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
-    "addr": "82.25.36.130",
-    "port": 7797,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
-    "addr": "82.25.36.150",
-    "port": 7777,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
-    "addr": "82.25.36.150",
-    "port": 7787,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN2#散人社区|铁血攻防战争咖啡馆丨日服120748151",
-    "addr": "82.25.36.150",
-    "port": 7797,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
-    "addr": "82.25.36.150",
-    "port": 7807,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
-    "addr": "82.25.36.150",
-    "port": 7817,
-    "removed": 1765303818
-  },
-  {
-    "name": "i love playing CSGO!",
-    "addr": "82.25.36.150",
-    "port": 7827,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
-    "addr": "82.25.36.150",
-    "port": 7837,
-    "removed": 1765303818
-  },
-  {
-    "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
-    "addr": "82.25.36.150",
-    "port": 7847,
-    "removed": 1765303818
-  },
-  {
-    "name": "JUMP Special Forces Server",
-    "addr": "82.25.36.150",
-    "port": 7857,
-    "removed": 1765303818
-  },
-  {
-    "name": "chickchickchick",
-    "addr": "82.25.36.150",
-    "port": 7867,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
-    "addr": "82.25.36.151",
-    "port": 7777,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
-    "addr": "82.25.36.151",
-    "port": 7787,
-    "removed": 1765303818
-  },
-  {
-    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
-    "addr": "82.25.36.151",
-    "port": 7807,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
-    "addr": "82.25.36.151",
-    "port": 7817,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
-    "addr": "82.25.36.151",
-    "port": 7827,
-    "removed": 1765303818
-  },
-  {
-    "name": "<CN>#5 帝国社区 经验农场萌新公益刷枪服 XP Farm J",
-    "addr": "82.25.36.151",
-    "port": 7837,
-    "removed": 1765303818
-  },
-  {
-    "name": "帝国社区训练专用服",
-    "addr": "82.25.36.151",
-    "port": 7847,
-    "removed": 1765303818
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2341,13 +2237,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
-  },
-  {
-    "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
-    "addr": "95.135.0.1",
-    "port": 7777,
-    "removed": 1765303818
+    "port": 28200,
+    "removed": 1765908745
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -2375,12 +2266,6 @@
     "port": 7877
   },
   {
-    "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "95.135.0.71",
-    "port": 7777,
-    "removed": 1765303818
-  },
-  {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
     "port": 7777
@@ -2396,7 +2281,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | MIDNIGHT MAYHEM | GBG-HLL.COM | G",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | SKIRMISH ONLY | GBG-HLL.COM | GER",
     "addr": "95.135.1.4",
     "port": 7777
   },
