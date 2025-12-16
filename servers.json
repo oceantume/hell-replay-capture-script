@@ -147,8 +147,7 @@
   {
     "name": "OINK 1 | KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
-    "port": 7777,
-    "removed": 1765887303
+    "port": 7777
   },
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
@@ -428,12 +427,6 @@
     "name": "FC Groningen",
     "addr": "176.57.168.250",
     "port": 28400
-  },
-  {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.168.251",
-    "port": 28100,
-    "removed": 1765283642
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -1798,7 +1791,8 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765888472
   },
   {
     "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
@@ -2253,8 +2247,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765347180
+    "port": 7777
   },
   {
     "name": "Test HLL",
