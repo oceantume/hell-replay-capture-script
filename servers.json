@@ -43,8 +43,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1765803793
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -101,7 +100,8 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765890085
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
@@ -1082,7 +1082,8 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
     "addr": "208.115.206.38",
-    "port": 7797
+    "port": 7797,
+    "removed": 1765890085
   },
   {
     "name": "POWERBITS GAMETEAM EXPERIMENTAL",
@@ -1791,8 +1792,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1765888472
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
@@ -2247,7 +2247,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765890085
   },
   {
     "name": "Test HLL",
