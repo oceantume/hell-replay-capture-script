@@ -68,12 +68,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1765951987
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765951987
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -89,8 +91,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1765865578
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -1805,7 +1806,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] CTM | MIAMI | #03 CHILE | PRÁCTICAS & EVENTOS",
+    "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
     "port": 7777
   },
