@@ -260,7 +260,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "15.204.170.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765995193
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
@@ -300,6 +301,11 @@
   {
     "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
     "addr": "154.45.251.74",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "154.45.251.75",
     "port": 7777
   },
   {
@@ -1434,6 +1440,11 @@
     "port": 7777
   },
   {
+    "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
+    "addr": "40.27.41.6",
+    "port": 7777
+  },
+  {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
     "port": 7777
@@ -1476,8 +1487,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1765933521
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1497,8 +1507,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1765933521
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -2014,7 +2023,7 @@
     "port": 10710
   },
   {
-    "name": "[GER] WE ARE READY - #WAR | Wir Rekrutieren!",
+    "name": "WAR - Events",
     "addr": "78.46.101.16",
     "port": 11255
   },
@@ -2031,7 +2040,8 @@
   {
     "name": "HLL Server",
     "addr": "81.77.171.162",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765995193
   },
   {
     "name": "HLL Official - Asia #01",
@@ -2046,7 +2056,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765995193
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2077,7 +2088,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765995193
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2228,7 +2240,7 @@
     "port": 28700
   },
   {
-    "name": "[LATAM] Hagamos Garris -RONIN - Estamos RECLUTANDO!! discord.gg",
+    "name": "[LATAM] Hagamos Garris - RONIN - Estamos RECLUTANDO!! discord.g",
     "addr": "92.38.151.89",
     "port": 29100
   },
@@ -2246,14 +2258,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1765822348
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1765908745
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
