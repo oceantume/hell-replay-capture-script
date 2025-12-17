@@ -1243,7 +1243,8 @@
   {
     "name": "[1.BV] Brennholzverleih | Active Admins | Ger",
     "addr": "208.115.248.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765973692
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
@@ -1527,7 +1528,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1765973692
   },
   {
     "name": "HLL Official - US East #06",
@@ -1781,6 +1783,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.29.67",
+    "port": 7777
+  },
+  {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
@@ -2020,6 +2027,11 @@
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "81.77.171.162",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
