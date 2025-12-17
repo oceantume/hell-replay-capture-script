@@ -981,8 +981,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1765931723
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1475,7 +1474,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765933521
   },
   {
     "name": "HLL Official - US West #02",
@@ -1495,7 +1495,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1765933521
   },
   {
     "name": "HLL Official - US East #04",
@@ -1757,12 +1758,6 @@
     "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
     "port": 7777
-  },
-  {
-    "name": "508P | US East | LVL 40+ |",
-    "addr": "64.31.2.18",
-    "port": 7777,
-    "removed": 1765327040
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -2220,7 +2215,7 @@
     "port": 28700
   },
   {
-    "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
+    "name": "[LATAM] Hagamos Garris -RONIN - Estamos RECLUTANDO!! discord.gg",
     "addr": "92.38.151.89",
     "port": 29100
   },
