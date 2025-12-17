@@ -982,7 +982,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1765954176
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -2307,6 +2308,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1765954176
   }
 ]
