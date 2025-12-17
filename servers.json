@@ -243,7 +243,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "15.204.170.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1765931723
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -882,7 +883,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -892,7 +893,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -954,7 +955,8 @@
   {
     "name": "Savage Let loose",
     "addr": "193.192.59.170",
-    "port": 28300
+    "port": 28300,
+    "removed": 1765931723
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -979,7 +981,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1765931723
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1103,7 +1106,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1138,7 +1141,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1218,7 +1221,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1427,6 +1430,11 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
+    "port": 7777
+  },
+  {
+    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
+    "addr": "40.27.42.10",
     "port": 7777
   },
   {
