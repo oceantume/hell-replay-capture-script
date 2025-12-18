@@ -185,8 +185,7 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
     "addr": "145.239.253.127",
-    "port": 9014,
-    "removed": 1766060087
+    "port": 9014
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -606,18 +605,6 @@
     "port": 28700
   },
   {
-    "name": "FR/EN - Server Free Player Spirit (FPS)",
-    "addr": "176.57.178.127",
-    "port": 28000,
-    "removed": 1765476654
-  },
-  {
-    "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
-    "addr": "176.57.178.134",
-    "port": 28000,
-    "removed": 1765476654
-  },
-  {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
@@ -874,8 +861,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1766062807
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -885,8 +871,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1766062807
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1133,8 +1118,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1766062807
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1195,7 +1179,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1766081524
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1215,8 +1200,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1766062807
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1317,8 +1301,7 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530,
-    "removed": 1766060087
+    "port": 8530
   },
   {
     "name": "△ The Motor Pool #2 | Level 50+",
@@ -2031,7 +2014,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766081524
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2099,14 +2083,12 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1766041246
+    "port": 7817
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1766062807
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
@@ -2146,7 +2128,8 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766081524
   },
   {
     "name": "Test HLL",
@@ -2221,8 +2204,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1766060087
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
@@ -2275,7 +2257,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | SKIRMISH ONLY | GBG-HLL.COM | GER",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | WARFARE | GBG-HLL.COM | GER ENG #",
     "addr": "95.135.1.4",
     "port": 7777
   },
