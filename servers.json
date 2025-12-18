@@ -8,8 +8,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1765998042
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -107,7 +106,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "139.28.17.147",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766018009
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -1205,7 +1205,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766018009
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1296,8 +1297,7 @@
   {
     "name": "GSR",
     "addr": "209.192.185.50",
-    "port": 7857,
-    "removed": 1765845438
+    "port": 7857
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
@@ -2302,8 +2302,13 @@
     "port": 7777
   },
   {
-    "name": "QNZR | POLICY",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
+    "port": 7777
+  },
+  {
+    "name": "QNZR | Policy",
+    "addr": "95.135.1.3",
     "port": 7777
   },
   {
@@ -2312,10 +2317,9 @@
     "port": 7777
   },
   {
-    "name": "QNZR | Policy",
+    "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "95.135.1.5",
-    "port": 7777,
-    "removed": 1765714389
+    "port": 7777
   },
   {
     "name": "CBMS",
