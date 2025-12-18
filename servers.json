@@ -185,7 +185,8 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
     "addr": "145.239.253.127",
-    "port": 9014
+    "port": 9014,
+    "removed": 1766060087
   },
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
@@ -253,8 +254,7 @@
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "15.204.170.74",
-    "port": 7777,
-    "removed": 1766041246
+    "port": 7777
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -563,8 +563,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1766038388
+    "port": 28300
   },
   {
     "name": "4story",
@@ -579,8 +578,7 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1766038388
+    "port": 28300
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -1315,7 +1313,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1766060087
   },
   {
     "name": "△ The Motor Pool #2 | Level 50+",
@@ -1490,7 +1489,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766060087
   },
   {
     "name": "HLL Official - US East #04",
@@ -1520,8 +1520,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1765973692
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1552,7 +1551,8 @@
   {
     "name": "hllc Server",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766060087
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -1775,7 +1775,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "48th RTR | Official Sever - EU",
     "addr": "64.31.29.67",
     "port": 7777
   },
@@ -2033,8 +2033,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1765995193
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2060,13 +2059,13 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766060087
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1765995193
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2148,8 +2147,7 @@
   {
     "name": "HLL Server",
     "addr": "90.218.186.227",
-    "port": 7777,
-    "removed": 1765890085
+    "port": 7777
   },
   {
     "name": "Test HLL",
@@ -2230,7 +2228,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766060087
   },
   {
     "name": "HLL Official - Australia #01",
