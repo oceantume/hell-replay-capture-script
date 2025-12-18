@@ -1,11 +1,5 @@
 [
   {
-    "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 AUS",
-    "addr": "103.1.213.251",
-    "port": 8888,
-    "removed": 1765433586
-  },
-  {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
     "port": 7787
@@ -68,25 +62,17 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1765951987
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1765951987
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
     "port": 8982
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
-    "addr": "135.181.165.173",
-    "port": 9075,
-    "removed": 1765433586
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -576,7 +562,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766038388
   },
   {
     "name": "4story",
@@ -591,7 +578,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766038388
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -1296,8 +1284,7 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.82",
-    "port": 7807,
-    "removed": 1765845438
+    "port": 7807
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1836,12 +1823,6 @@
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "64.31.32.211",
     "port": 7777
-  },
-  {
-    "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
-    "addr": "64.31.51.242",
-    "port": 7777,
-    "removed": 1765433586
   },
   {
     "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
