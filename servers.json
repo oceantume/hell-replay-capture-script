@@ -1478,8 +1478,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1766060087
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1609,7 +1608,7 @@
     "port": 7777
   },
   {
-    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT|Discord.gg/hll-cats",
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
     "port": 7787
   },
@@ -1806,8 +1805,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1765822348
+    "port": 7777
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
