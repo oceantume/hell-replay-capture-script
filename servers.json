@@ -373,7 +373,8 @@
   {
     "name": "Oktogon • NEW PLAYER FRIENDLY • [ENG/GER]",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766104623
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
@@ -481,12 +482,6 @@
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
     "port": 28400
-  },
-  {
-    "name": "Team17 CERT",
-    "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1765499800
   },
   {
     "name": "CZ/SK",
@@ -601,7 +596,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766104623
   },
   {
     "name": "QA Testing - UK #07",
@@ -641,8 +637,7 @@
   {
     "name": "[LATAM] D.C. I DELTA CORPS / ESP",
     "addr": "181.214.221.212",
-    "port": 7787,
-    "removed": 1766084384
+    "port": 7787
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
@@ -881,12 +876,14 @@
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "193.160.22.58",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766104623
   },
   {
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "193.160.22.58",
-    "port": 7877
+    "port": 7877,
+    "removed": 1766104623
   },
   {
     "name": "RGN #4 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1179,8 +1176,7 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1766081524
+    "port": 7807
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1607,7 +1603,7 @@
     "port": 7777
   },
   {
-    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT German Server #NEW",
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT|Discord.gg/hll-cats",
     "addr": "51.75.156.2",
     "port": 7787
   },
@@ -1719,7 +1715,8 @@
   {
     "name": "Radical Gaming Network -Miami- #1 | discord.gg/RadicalGaming",
     "addr": "64.20.50.186",
-    "port": 9620
+    "port": 9620,
+    "removed": 1766104623
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1942,7 +1939,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "69.162.89.146",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766104623
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -2041,8 +2039,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1766060087
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2245,6 +2242,16 @@
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
     "addr": "95.135.1.15",
     "port": 7777
+  },
+  {
+    "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
+    "addr": "95.135.1.18",
+    "port": 7777
+  },
+  {
+    "name": "[GER] Omen Event & Match Server #1",
+    "addr": "95.135.1.18",
+    "port": 7787
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
