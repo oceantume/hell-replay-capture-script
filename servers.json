@@ -596,7 +596,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766124752
   },
   {
     "name": "QA Testing - UK #07",
@@ -815,7 +816,8 @@
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
     "addr": "192.169.92.30",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766124752
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1389,7 +1391,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#5 帝国社区 经验农场萌新公益刷枪服 XP Farm J",
+    "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1401,6 +1403,11 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
+    "port": 7777
+  },
+  {
+    "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
+    "addr": "40.27.41.3",
     "port": 7777
   },
   {
@@ -1714,8 +1721,7 @@
   {
     "name": "Radical Gaming Network -Miami- #1 | discord.gg/RadicalGaming",
     "addr": "64.20.50.186",
-    "port": 9620,
-    "removed": 1766104623
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1816,7 +1822,8 @@
   {
     "name": "Phantom Division (9AD)",
     "addr": "64.31.58.59",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766124752
   },
   {
     "name": "Bad Intentions - Public [US EAST]",
