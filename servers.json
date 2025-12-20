@@ -577,7 +577,7 @@
     "port": 28100
   },
   {
-    "name": "[ Ger ]Hell let loose (EU) Server by g-portal.com",
+    "name": "[ Ger ]Hell let loose",
     "addr": "176.57.174.211",
     "port": 28000
   },
@@ -887,7 +887,8 @@
   {
     "name": "RGN #4 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "193.160.22.61",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766254199
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -2050,12 +2051,6 @@
     "port": 28300
   },
   {
-    "name": "<C.TW.4> | 瓦学弟萌新攻防训练营 | Q979552783",
-    "addr": "83.223.197.85",
-    "port": 28000,
-    "removed": 1765649394
-  },
-  {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.89",
     "port": 28000
@@ -2068,7 +2063,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766254199
   },
   {
     "name": "HLL Official - Asia #03",
