@@ -575,6 +575,11 @@
     "port": 28100
   },
   {
+    "name": "[ Ger ]Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28200,
@@ -1004,12 +1009,6 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
-    "addr": "208.115.201.22",
-    "port": 7787,
-    "removed": 1765566650
-  },
-  {
     "name": "[GER] 1. Fallschirmjäger-Division Server 2",
     "addr": "208.115.206.195",
     "port": 7777
@@ -1394,8 +1393,7 @@
   {
     "name": "帝国社区训练专用服",
     "addr": "40.27.40.151",
-    "port": 7847,
-    "removed": 1766167897
+    "port": 7847
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1843,7 +1841,8 @@
   {
     "name": "504th: Top the Chart. Pick the Map. AI",
     "addr": "64.31.59.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766190881
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
