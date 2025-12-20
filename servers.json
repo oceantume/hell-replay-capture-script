@@ -139,7 +139,8 @@
   {
     "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
     "addr": "142.91.157.28",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766232772
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -1474,7 +1475,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766232772
   },
   {
     "name": "HLL Official - US East #01",
@@ -1525,12 +1527,23 @@
   {
     "name": "QNZR | PERFORMANCE",
     "addr": "45.151.81.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766232772
+  },
+  {
+    "name": "QZNR | TuT3",
+    "addr": "45.151.81.210",
+    "port": 7787
   },
   {
     "name": "QNZR | STANDARD",
     "addr": "45.151.81.211",
     "port": 7777
+  },
+  {
+    "name": "QNZR | TuT4",
+    "addr": "45.151.81.211",
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -1595,6 +1608,16 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
+    "port": 7777
+  },
+  {
+    "name": "QNZR | TuTish3",
+    "addr": "51.38.89.139",
+    "port": 7787
+  },
+  {
+    "name": "QNZR | TuT2",
+    "addr": "51.38.89.154",
     "port": 7777
   },
   {
@@ -1822,7 +1845,8 @@
   {
     "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
     "addr": "64.31.59.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766232772
   },
   {
     "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
