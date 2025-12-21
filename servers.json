@@ -605,8 +605,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1766124752
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -948,12 +947,14 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1766297510
   },
   {
     "name": "DE/BADLANDS",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1766297510
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1522,7 +1523,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "45.143.199.235",
-    "port": 11255
+    "port": 11255,
+    "removed": 1766297510
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1634,12 +1636,6 @@
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
     "port": 7787
-  },
-  {
-    "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
-    "addr": "51.75.156.30",
-    "port": 7777,
-    "removed": 1765692693
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
