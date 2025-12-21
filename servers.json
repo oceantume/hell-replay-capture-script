@@ -577,7 +577,7 @@
     "port": 28100
   },
   {
-    "name": "[ Ger ]Hell let loose",
+    "name": "Naturtalent",
     "addr": "176.57.174.211",
     "port": 28000
   },
@@ -763,8 +763,7 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
-    "port": 7777,
-    "removed": 1766211077
+    "port": 7777
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -952,7 +951,7 @@
     "port": 20600
   },
   {
-    "name": "DE/BEADLANDS",
+    "name": "DE/BADLANDS",
     "addr": "195.82.158.186",
     "port": 21000
   },
@@ -1326,7 +1325,8 @@
   {
     "name": "CN2#散人社区|铁血攻防战争咖啡馆丨日服120748151",
     "addr": "40.27.40.150",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766277613
   },
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
@@ -1627,6 +1627,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "51.38.89.154",
+    "port": 7787
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
     "port": 7787
@@ -1925,7 +1930,8 @@
   {
     "name": "Radical Gaming Network -Los Angeles- | discord.gg/RadicalGaming",
     "addr": "67.211.208.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1766277613
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -2296,6 +2302,11 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "95.135.1.5",
+    "port": 7777
+  },
+  {
+    "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "95.135.1.7",
     "port": 7777
   },
   {
