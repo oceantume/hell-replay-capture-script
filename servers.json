@@ -2005,7 +2005,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766340646
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2020,8 +2021,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1766254199
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
