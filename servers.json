@@ -567,6 +567,11 @@
     "port": 28000
   },
   {
+    "name": "Naturtalent",
+    "addr": "176.57.171.176",
+    "port": 28200
+  },
+  {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
     "addr": "176.57.171.176",
     "port": 28300
@@ -579,7 +584,8 @@
   {
     "name": "Naturtalent",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766319184
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -952,7 +958,8 @@
   {
     "name": "DE/BADLANDS",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1766319184
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1479,13 +1486,13 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1766232772
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766319184
   },
   {
     "name": "HLL Official - US East #02",
@@ -1510,7 +1517,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766319184
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
