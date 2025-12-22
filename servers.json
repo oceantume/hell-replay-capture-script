@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1766343879
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -13,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1766343879
+    "port": 7807
   },
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
@@ -126,6 +124,11 @@
     "name": "DKB - Event server - HLLdanmark.dk",
     "addr": "141.95.33.70",
     "port": 9075
+  },
+  {
+    "name": "[GER] Winoly and Friends | MIC PLICHT",
+    "addr": "141.95.33.70",
+    "port": 9620
   },
   {
     "name": "OINK 1 | KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
@@ -545,7 +548,7 @@
     "port": 28000
   },
   {
-    "name": "Naturtalent",
+    "name": "[ Ger ] Hell let Loose | NEW PLAYER WELCOME |",
     "addr": "176.57.171.176",
     "port": 28200
   },
@@ -919,7 +922,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1766363971
   },
   {
     "name": "DE/BADLANDS",
@@ -1728,7 +1732,8 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766363971
   },
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
@@ -2234,6 +2239,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1766363971
   }
 ]
