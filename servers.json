@@ -355,12 +355,14 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766384037
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1766384037
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -435,7 +437,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766384037
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -480,7 +483,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766384037
   },
   {
     "name": "DevQA - EU #02",
@@ -500,7 +504,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766384037
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -515,7 +520,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766384037
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -535,7 +541,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766384037
   },
   {
     "name": "4story",
@@ -682,7 +689,8 @@
   {
     "name": "EX YU Balkan Express",
     "addr": "185.83.152.101",
-    "port": 10165
+    "port": 10165,
+    "removed": 1766384037
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -727,12 +735,14 @@
   {
     "name": "5TH RANGER BATTALION | US EAST | 5THRB.COM",
     "addr": "192.169.86.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766384037
   },
   {
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766384037
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -747,7 +757,8 @@
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
     "addr": "192.169.90.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766384037
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -767,7 +778,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766384037
   },
   {
     "name": "[BSB] Blood Sweat & Beers | Powered By Qonzer",
@@ -1164,7 +1176,8 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "208.115.248.107",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766384037
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
@@ -1305,7 +1318,8 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1766384037
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1685,7 +1699,8 @@
   {
     "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766384037
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1804,7 +1819,8 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766384037
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1851,8 +1867,7 @@
   {
     "name": "Radical Gaming Network -Los Angeles- | discord.gg/RadicalGaming",
     "addr": "67.211.208.154",
-    "port": 8530,
-    "removed": 1766277613
+    "port": 8530
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
