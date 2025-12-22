@@ -299,8 +299,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1766386944
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -426,6 +425,11 @@
     "port": 28000
   },
   {
+    "name": "[BCH] - [KLABUSTERBEERENSAFT] - [Deutsch]",
+    "addr": "176.57.168.252",
+    "port": 28100
+  },
+  {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
     "port": 28000
@@ -438,8 +442,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1766384037
+    "port": 28200
   },
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
@@ -836,8 +839,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1766386944
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -847,8 +849,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1766386944
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -937,7 +938,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1766405722
   },
   {
     "name": "DE/BADLANDS",
@@ -1068,8 +1070,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1766386944
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1186,8 +1187,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1766386944
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1213,8 +1213,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1766386944
+    "port": 7777
   },
   {
     "name": "Cathey【PUMA】chin server 746699634",
@@ -1249,7 +1248,8 @@
   {
     "name": "MEXICO LATAM OGT 4",
     "addr": "209.192.185.50",
-    "port": 7837
+    "port": 7837,
+    "removed": 1766405722
   },
   {
     "name": "GSR",
@@ -1506,8 +1506,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1766319184
+    "port": 28700
   },
   {
     "name": "[FR] - UPZ - discord.gg/88ggWR4Z6s | Auto-VIP | Micro +18 |",
@@ -1549,8 +1548,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1766386944
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1735,6 +1733,11 @@
     "removed": 1766167897
   },
   {
+    "name": "[EU] HLL Bastion | low ping | https://discord.gg/7WGX6JwPTu",
+    "addr": "64.31.29.68",
+    "port": 7777
+  },
+  {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
     "addr": "64.31.31.122",
     "port": 7777
@@ -1878,8 +1881,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1766386944
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2225,8 +2227,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
-    "port": 7777,
-    "removed": 1766365895
+    "port": 7777
   },
   {
     "name": "QNZR | Policy",
@@ -2261,6 +2262,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1766405722
   }
 ]
