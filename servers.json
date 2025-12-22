@@ -922,8 +922,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1766363971
+    "port": 20600
   },
   {
     "name": "DE/BADLANDS",
@@ -1732,8 +1731,7 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7787,
-    "removed": 1766363971
+    "port": 7787
   },
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
@@ -2204,7 +2202,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766365895
   },
   {
     "name": "QNZR | Policy",
@@ -2239,7 +2238,6 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300,
-    "removed": 1766363971
+    "port": 10300
   }
 ]
