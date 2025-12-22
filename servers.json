@@ -938,8 +938,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1766405722
+    "port": 20600
   },
   {
     "name": "DE/BADLANDS",
@@ -1045,7 +1044,8 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
     "addr": "208.115.206.38",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766406903
   },
   {
     "name": "POWERBITS GAMETEAM EXPERIMENTAL",
@@ -1181,8 +1181,7 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "208.115.248.107",
-    "port": 7787,
-    "removed": 1766384037
+    "port": 7787
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
@@ -2262,7 +2261,6 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300,
-    "removed": 1766405722
+    "port": 10300
   }
 ]
