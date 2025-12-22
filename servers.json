@@ -1157,6 +1157,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Brennholzverleih | Active Admins",
+    "addr": "208.115.226.90",
+    "port": 7777
+  },
+  {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "208.115.226.92",
     "port": 7777,
@@ -1773,7 +1778,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766427125
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -2018,7 +2024,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766427125
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2175,7 +2182,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766427125
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
