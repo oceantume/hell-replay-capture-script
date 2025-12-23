@@ -37,7 +37,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766513523
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -571,7 +572,7 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
+    "name": "Bren boy",
     "addr": "176.57.174.211",
     "port": 28000
   },
@@ -590,6 +591,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28400
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28500
   },
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
@@ -1926,7 +1932,7 @@
     "port": 7777
   },
   {
-    "name": "EVENTOS URANIUM || HCA EVENT || discord.gg/uranium235",
+    "name": "EVENTOS URANIUM || discord.gg/uranium235",
     "addr": "78.111.102.114",
     "port": 28200
   },
@@ -1956,6 +1962,11 @@
     "port": 9075
   },
   {
+    "name": "Oktogon • Offensive • [ENG/GER]",
+    "addr": "78.46.101.16",
+    "port": 9620
+  },
+  {
     "name": "HLL Server",
     "addr": "81.77.171.162",
     "port": 7777,
@@ -1969,7 +1980,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766513523
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2000,8 +2012,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1766427125
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2158,8 +2169,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1766427125
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
