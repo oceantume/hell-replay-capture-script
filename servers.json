@@ -72,7 +72,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1766470383
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -312,6 +313,11 @@
     "port": 8530
   },
   {
+    "name": "West Coast Rumble",
+    "addr": "172.240.229.155",
+    "port": 7777
+  },
+  {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
     "addr": "172.93.97.74",
     "port": 8530
@@ -349,8 +355,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1766384037
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -482,8 +487,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1766384037
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -503,8 +507,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1766384037
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -519,8 +522,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1766384037
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -607,7 +609,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766470383
   },
   {
     "name": "QA Testing - EU #05",
@@ -687,8 +690,7 @@
   {
     "name": "EX YU Balkan Express",
     "addr": "185.83.152.101",
-    "port": 10165,
-    "removed": 1766384037
+    "port": 10165
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -739,8 +741,7 @@
   {
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
-    "port": 7797,
-    "removed": 1766384037
+    "port": 7797
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -755,8 +756,7 @@
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
     "addr": "192.169.90.203",
-    "port": 7777,
-    "removed": 1766384037
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -1321,8 +1321,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807,
-    "removed": 1766384037
+    "port": 7807
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
