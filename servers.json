@@ -396,7 +396,8 @@
   {
     "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
     "addr": "176.57.168.194",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766450221
   },
   {
     "name": "FC Groningen",
@@ -568,10 +569,9 @@
     "port": 28100
   },
   {
-    "name": "Naturtalent",
+    "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1766319184
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -956,7 +956,7 @@
     "port": 9620
   },
   {
-    "name": "1 # The Danish Infantrymen - Danmark ☆ NEW PLAYERS WELCOM",
+    "name": "The Danish Infantrymen - Denmark",
     "addr": "198.244.177.84",
     "port": 8530
   },
