@@ -1829,18 +1829,6 @@
     "port": 8530
   },
   {
-    "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
-    "addr": "64.31.61.90",
-    "port": 7777,
-    "removed": 1765908745
-  },
-  {
-    "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
-    "addr": "64.31.61.90",
-    "port": 7787,
-    "removed": 1765908745
-  },
-  {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
@@ -1929,6 +1917,11 @@
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
+    "port": 7777
+  },
+  {
+    "name": "[RS] Rogue Soldiers Clan | Discord.gg/RSClan",
+    "addr": "74.63.231.3",
     "port": 7777
   },
   {
