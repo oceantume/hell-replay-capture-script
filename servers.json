@@ -281,6 +281,11 @@
     "port": 7777
   },
   {
+    "name": "hll Server",
+    "addr": "154.45.251.76",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose - Sadece Türkçe - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -1202,12 +1207,6 @@
     "port": 7777
   },
   {
-    "name": "[1.BV] Brennholzverleih | Active Admins | Ger",
-    "addr": "208.115.248.92",
-    "port": 7777,
-    "removed": 1765973692
-  },
-  {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
     "port": 7777
@@ -1297,7 +1296,8 @@
   {
     "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
     "addr": "40.27.40.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766579601
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
