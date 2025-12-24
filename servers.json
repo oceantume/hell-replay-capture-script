@@ -63,7 +63,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766556793
   },
   {
     "name": "HLL Official - Russia #02",
@@ -354,8 +355,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1766384037
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -541,8 +541,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1766384037
+    "port": 28300
   },
   {
     "name": "4story",
@@ -1722,7 +1721,8 @@
   {
     "name": "[EU] 开往安和桥北-萌新训练营",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766556793
   },
   {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
@@ -1816,8 +1816,7 @@
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
-    "port": 7777,
-    "removed": 1766384037
+    "port": 7777
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2223,6 +2222,11 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "95.135.1.5",
+    "port": 7777
+  },
+  {
+    "name": "[EU] 开往安和桥北-萌新训练营",
+    "addr": "95.135.1.6",
     "port": 7777
   },
   {
