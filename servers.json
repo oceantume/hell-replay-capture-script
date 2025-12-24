@@ -219,12 +219,6 @@
     "port": 7777
   },
   {
-    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
-    "addr": "15.204.170.70",
-    "port": 7777,
-    "removed": 1765931723
-  },
-  {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7777
@@ -403,6 +397,11 @@
     "addr": "176.57.168.194",
     "port": 28000,
     "removed": 1766450221
+  },
+  {
+    "name": "Hell let loose Anfänger feuer frei (bin neu)",
+    "addr": "176.57.168.194",
+    "port": 28100
   },
   {
     "name": "FC Groningen",
@@ -648,6 +647,11 @@
     "port": 7787
   },
   {
+    "name": "Vanguarda",
+    "addr": "181.214.221.212",
+    "port": 7797
+  },
+  {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
     "addr": "181.214.221.212",
     "port": 7827
@@ -740,8 +744,7 @@
   {
     "name": "5TH RANGER BATTALION | US EAST | 5THRB.COM",
     "addr": "192.169.86.210",
-    "port": 7787,
-    "removed": 1766384037
+    "port": 7787
   },
   {
     "name": "Helios Event Server",
@@ -907,12 +910,6 @@
     "name": "Hell let loose (US West) big mikes",
     "addr": "193.192.58.206",
     "port": 28200
-  },
-  {
-    "name": "Savage Let loose",
-    "addr": "193.192.59.170",
-    "port": 28300,
-    "removed": 1765931723
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1647,7 +1644,7 @@
     "port": 7777
   },
   {
-    "name": "Syndicate US - Level 50+ - syn-hll.gg",
+    "name": "Spawn Simulator | Syndicate",
     "addr": "63.143.63.82",
     "port": 7777
   },
