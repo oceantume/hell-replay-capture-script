@@ -72,8 +72,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1766643182
+    "port": 8982
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -271,17 +270,20 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "154.45.251.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766664860
   },
   {
     "name": "<CN>#2 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
     "addr": "154.45.251.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766664860
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716",
     "addr": "154.45.251.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766664860
   },
   {
     "name": "Turks Let Loose - Sadece Türkçe - discord.gg/TLL",
@@ -1329,8 +1331,7 @@
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.150",
-    "port": 7817,
-    "removed": 1766643182
+    "port": 7817
   },
   {
     "name": "i love playing CSGO!",
@@ -1370,8 +1371,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7807,
-    "removed": 1766599918
+    "port": 7807
   },
   {
     "name": "<CN>#2 EMP&GR 帝国社区无规则冲突服|Q258455568 JP",
@@ -1393,7 +1393,8 @@
   {
     "name": "帝国社区训练专用服",
     "addr": "40.27.40.151",
-    "port": 7847
+    "port": 7847,
+    "removed": 1766664860
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1483,7 +1484,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766664860
   },
   {
     "name": "HLL Official - US East #02",
@@ -1984,6 +1986,11 @@
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
     "port": 28300
+  },
+  {
+    "name": "[CTW] Brother Wa Super New Bee",
+    "addr": "83.223.197.85",
+    "port": 28000
   },
   {
     "name": "HLL Official - Asia #06",
