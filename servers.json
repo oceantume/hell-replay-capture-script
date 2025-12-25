@@ -62,8 +62,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1766556793
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -73,7 +72,13 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1766643182
+  },
+  {
+    "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
+    "addr": "135.181.165.173",
+    "port": 9075
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -89,12 +94,6 @@
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "139.28.17.146",
     "port": 7797
-  },
-  {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
-    "addr": "139.28.17.147",
-    "port": 7797,
-    "removed": 1766018009
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -114,7 +113,8 @@
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1766643182
   },
   {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
@@ -342,7 +342,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1766643182
   },
   {
     "name": "QA Testing - EU #03",
@@ -357,7 +358,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1766643182
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -372,7 +374,8 @@
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "176.57.140.181",
-    "port": 30600
+    "port": 30600,
+    "removed": 1766643182
   },
   {
     "name": "Warfrags Studios",
@@ -453,7 +456,8 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766643182
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -488,7 +492,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766643182
   },
   {
     "name": "DevQA - EU #02",
@@ -508,12 +513,14 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766643182
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766643182
   },
   {
     "name": "Hell let loose back to hell",
@@ -558,7 +565,8 @@
   {
     "name": "[ Ger ] Hell let Loose | NEW PLAYER WELCOME |",
     "addr": "176.57.171.176",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766643182
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server 1",
@@ -573,7 +581,8 @@
   {
     "name": "Bren boy",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766643182
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -614,8 +623,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1766470383
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -862,7 +870,8 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766643182
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
@@ -935,8 +944,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1766602612
+    "port": 20600
   },
   {
     "name": "DE/BADLANDS",
@@ -1007,7 +1015,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766643182
   },
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
@@ -1160,12 +1169,6 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
-    "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1766018009
-  },
-  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -1255,7 +1258,8 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.82",
-    "port": 7807
+    "port": 7807,
+    "removed": 1766643182
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1325,7 +1329,8 @@
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.150",
-    "port": 7817
+    "port": 7817,
+    "removed": 1766643182
   },
   {
     "name": "i love playing CSGO!",
@@ -1926,7 +1931,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165
+    "port": 10165,
+    "removed": 1766643182
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
@@ -1987,7 +1993,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766643182
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2217,7 +2224,7 @@
     "port": 7777
   },
   {
-    "name": "[EU] HLL Bastion | Low Ping | Join Discord: discord.gg/7WGX6JwP",
+    "name": "[EU] HLL Bastion | Low Ping | discord.gg/7WGX6JwPTu",
     "addr": "95.135.1.6",
     "port": 7777
   },
