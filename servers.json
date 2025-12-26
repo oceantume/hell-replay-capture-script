@@ -142,6 +142,11 @@
     "removed": 1766232772
   },
   {
+    "name": "[FR] La Tenaille",
+    "addr": "142.91.157.60",
+    "port": 7777
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28300,
@@ -293,12 +298,6 @@
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
-  },
-  {
-    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
-    "addr": "157.250.201.86",
-    "port": 9075,
-    "removed": 1766167897
   },
   {
     "name": "&quot;We Need an Airhead&quot;",
@@ -578,12 +577,6 @@
     "port": 28000
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1766167897
-  },
-  {
     "name": "Testify",
     "addr": "176.57.174.211",
     "port": 28300
@@ -791,8 +784,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787,
-    "removed": 1766384037
+    "port": 7787
   },
   {
     "name": "[BSB] Blood Sweat & Beers | Powered By Qonzer",
@@ -994,8 +986,7 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787,
-    "removed": 1766643182
+    "port": 7787
   },
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
@@ -1376,8 +1367,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1766755151
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1705,12 +1695,6 @@
     "port": 7787
   },
   {
-    "name": "48th RTR | Official Sever - EU",
-    "addr": "64.31.29.67",
-    "port": 7777,
-    "removed": 1766167897
-  },
-  {
     "name": "[EU] 开往安和桥北-萌新训练营",
     "addr": "64.31.29.68",
     "port": 7777,
@@ -1958,7 +1942,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766772704
   },
   {
     "name": "[CTW] Brother Wa Super New Bee",
@@ -1978,8 +1963,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1766686299
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2125,13 +2109,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766772704
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1766686299
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
