@@ -678,6 +678,11 @@
     "port": 7797
   },
   {
+    "name": "Lootrush Hell let Loose",
+    "addr": "185.216.144.75",
+    "port": 10710
+  },
+  {
     "name": "#2 ☆ UKLL | UK Let Loose | SMOLENSK 24/7 | discord.gg/ukll ",
     "addr": "185.216.144.75",
     "port": 11255
@@ -1481,7 +1486,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1766751256
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1502,17 +1508,20 @@
   {
     "name": "QZNR | TuT3",
     "addr": "45.151.81.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766751256
   },
   {
     "name": "QNZR | STANDARD",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766751256
   },
   {
     "name": "QNZR | TuT4",
     "addr": "45.151.81.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766751256
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1552,17 +1561,20 @@
   {
     "name": "QNZR | TuTish3",
     "addr": "51.38.89.139",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766751256
   },
   {
     "name": "QNZR | TuT2",
     "addr": "51.38.89.154",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766751256
   },
   {
     "name": "hll Server",
     "addr": "51.38.89.154",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766751256
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
@@ -1750,7 +1762,8 @@
   {
     "name": "BREACH | US East | LVL 25+ | DISCORD.GG/BREACH-GG",
     "addr": "64.31.53.181",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766751256
   },
   {
     "name": "Bad Intentions - Public [US EAST]",
