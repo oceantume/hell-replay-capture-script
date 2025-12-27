@@ -136,12 +136,6 @@
     "port": 7777
   },
   {
-    "name": "! ! !OINK 2 KAMPFSCHWEINE | NEW PLAYER FRIENDLY | LMS | GER ENG",
-    "addr": "142.91.157.28",
-    "port": 7777,
-    "removed": 1766232772
-  },
-  {
     "name": "FR La Tenaille | Nouveau serveur FR | MIC Obligatoire",
     "addr": "142.91.157.60",
     "port": 7777,
@@ -295,9 +289,19 @@
     "port": 9075
   },
   {
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
+    "addr": "157.250.201.86",
+    "port": 9075
+  },
+  {
     "name": "&quot;We Need an Airhead&quot;",
     "addr": "160.202.167.11",
     "port": 8888
+  },
+  {
+    "name": "2nd Armored | US EAST | discord.gg/2ad",
+    "addr": "162.216.115.122",
+    "port": 8530
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军 QQ群885187716//US WEST",
@@ -320,7 +324,7 @@
     "port": 9075
   },
   {
-    "name": "#3 EXD.gg » Battlegrounds | Discord.exd.gg",
+    "name": "#3 EXD.gg » Offensive Only | Discord.exd.gg",
     "addr": "176.31.232.159",
     "port": 8530
   },
@@ -1479,8 +1483,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1766751256
+    "port": 28700
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1491,12 +1494,6 @@
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
     "port": 8530
-  },
-  {
-    "name": "QNZR | PERFORMANCE",
-    "addr": "45.151.81.210",
-    "port": 7777,
-    "removed": 1766232772
   },
   {
     "name": "QZNR | TuT3",
@@ -1756,12 +1753,6 @@
     "name": "Bad Intentions - Public [US EAST]",
     "addr": "64.31.58.62",
     "port": 7777
-  },
-  {
-    "name": "6TH RECON DIVISION [6RCN] EAST SERVER",
-    "addr": "64.31.59.77",
-    "port": 7777,
-    "removed": 1766232772
   },
   {
     "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
