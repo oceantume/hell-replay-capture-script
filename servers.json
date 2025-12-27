@@ -144,7 +144,8 @@
   {
     "name": "[FR] La Tenaille | Nouveau serveur FR | MIC Obligatoire",
     "addr": "142.91.157.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766815915
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -523,8 +524,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1766729562
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -895,7 +895,8 @@
   {
     "name": "Non-stop D-day-(US West) 100 player offensive, new players welc",
     "addr": "193.192.58.206",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766815915
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
