@@ -366,7 +366,8 @@
   {
     "name": "Oktogon • NEW PLAYER FRIENDLY • [ENG/GER]",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1766945469
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
@@ -1860,8 +1861,7 @@
   {
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
     "addr": "69.162.102.53",
-    "port": 7787,
-    "removed": 1766924016
+    "port": 7787
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1926,7 +1926,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1766945469
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1936,14 +1937,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1766859045
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1766772704
+    "port": 28300
   },
   {
     "name": "[CTW] Brother Wa Super New Bee",
@@ -2115,13 +2114,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1766772704
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766945469
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
