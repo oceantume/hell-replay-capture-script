@@ -17,7 +17,8 @@
   {
     "name": "(IC) Offensive Heaven | AUS Sydney | discord.gg/icoh",
     "addr": "103.193.80.97",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766924016
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
@@ -365,8 +366,7 @@
   {
     "name": "Oktogon • NEW PLAYER FRIENDLY • [ENG/GER]",
     "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1766903376
+    "port": 28100
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
@@ -643,37 +643,44 @@
   {
     "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766924016
   },
   {
     "name": "[LATAM] D.C. I DELTA CORPS / ESP",
     "addr": "181.214.221.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766924016
   },
   {
     "name": "『V』VANGUARDA | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766924016
   },
   {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
     "addr": "181.214.221.212",
-    "port": 7827
+    "port": 7827,
+    "removed": 1766924016
   },
   {
     "name": "彡 MIB 彡 MADE IN BRASIL - Ajoelha e Reza",
     "addr": "181.214.221.212",
-    "port": 7847
+    "port": 7847,
+    "removed": 1766924016
   },
   {
     "name": "360 Boot Camp Server | Eventos ③⑥⓪",
     "addr": "181.214.221.41",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766924016
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
-    "port": 7827
+    "port": 7827,
+    "removed": 1766924016
   },
   {
     "name": "[LATAM/ESP] CLAN | CTM | #01 CHILE | Dsc.gg/ctmclan",
@@ -925,12 +932,6 @@
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
     "port": 20600
-  },
-  {
-    "name": "DE/BADLANDS",
-    "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1766319184
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1316,7 +1317,7 @@
     "port": 7817
   },
   {
-    "name": "i love playing CSGO!",
+    "name": "#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
     "addr": "40.27.40.150",
     "port": 7827
   },
@@ -1857,7 +1858,8 @@
   {
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
     "addr": "69.162.102.53",
-    "port": 7787
+    "port": 7787,
+    "removed": 1766924016
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1944,7 +1946,8 @@
   {
     "name": "[CTW] Brother Wa Super New Bee",
     "addr": "83.223.197.85",
-    "port": 28000
+    "port": 28000,
+    "removed": 1766924016
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2031,6 +2034,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "[XBOX] HLL - New player friendly- EU - 24/7 - All Out Warfare",
+    "addr": "92.118.16.112",
+    "port": 7797
   },
   {
     "name": "Test HLL",
