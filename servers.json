@@ -864,7 +864,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1766992053
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1995,12 +1996,6 @@
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
-  },
-  {
-    "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
-    "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1766386944
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
