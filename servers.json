@@ -1224,6 +1224,11 @@
     "port": 7777
   },
   {
+    "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
+    "addr": "209.192.185.171",
+    "port": 7777
+  },
+  {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.171",
     "port": 7827
@@ -1236,7 +1241,8 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1767011731
   },
   {
     "name": "GSR",
