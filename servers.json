@@ -1392,8 +1392,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1767013334
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1711,8 +1710,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1767013334
+    "port": 7787
   },
   {
     "name": "[EU] 开往安和桥北-萌新训练营",
@@ -1756,14 +1754,13 @@
     "port": 7777
   },
   {
-    "name": "Chimera | Japan | discord.gg/CHMA",
-    "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1766427125
-  },
-  {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "64.31.32.211",
+    "port": 7777
+  },
+  {
+    "name": "Asia | Brother Wa Super New Bie",
+    "addr": "64.31.51.244",
     "port": 7777
   },
   {
@@ -1790,8 +1787,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1767013334
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1936,13 +1932,13 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1766945469
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767031958
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1998,8 +1994,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1767013334
+    "port": 28700
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
@@ -2184,7 +2179,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | STEAM ONLY | GBG-HLL.COM | GER EN",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
     "addr": "95.135.1.4",
     "port": 7777
   },
