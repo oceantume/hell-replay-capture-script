@@ -1124,7 +1124,7 @@
     "port": 7817
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Only Smolensk",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
     "addr": "208.115.226.3",
     "port": 7787
   },
@@ -1237,12 +1237,6 @@
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.50",
     "port": 7787
-  },
-  {
-    "name": "MEXICO LATAM OGT 4",
-    "addr": "209.192.185.50",
-    "port": 7837,
-    "removed": 1766405722
   },
   {
     "name": "GSR",
@@ -1478,8 +1472,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1766664860
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1499,7 +1492,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1767010539
   },
   {
     "name": "HLL Official - US East #06",
