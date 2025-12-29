@@ -579,7 +579,8 @@
   {
     "name": "Bren boy",
     "addr": "176.57.171.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1766968851
   },
   {
     "name": "Bren boy",
@@ -1225,6 +1226,11 @@
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.171",
     "port": 7827
+  },
+  {
+    "name": "GSR",
+    "addr": "209.192.185.171",
+    "port": 7857
   },
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
@@ -2039,7 +2045,8 @@
   {
     "name": "[XBOX] HLL - New player friendly- EU - 24/7 - All Out Warfare",
     "addr": "92.118.16.112",
-    "port": 7797
+    "port": 7797,
+    "removed": 1766968851
   },
   {
     "name": "Test HLL",
