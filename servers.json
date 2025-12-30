@@ -1239,12 +1239,6 @@
     "removed": 1767011731
   },
   {
-    "name": "GSR",
-    "addr": "209.192.185.50",
-    "port": 7857,
-    "removed": 1766492091
-  },
-  {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.82",
     "port": 7807,
@@ -1492,8 +1486,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1767010539
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
