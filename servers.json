@@ -400,12 +400,6 @@
     "port": 28300
   },
   {
-    "name": "[GER/AUT] Liquidhoelle.at =ASK= Teamserver MIC Pflicht",
-    "addr": "176.57.168.194",
-    "port": 28000,
-    "removed": 1766450221
-  },
-  {
     "name": "Hell let loose Anfänger feuer frei (bin neu)",
     "addr": "176.57.168.194",
     "port": 28100
@@ -431,7 +425,7 @@
     "port": 28000
   },
   {
-    "name": "[BCH] - [KLABUSTERBEERENSAFT] - [Deutsch]",
+    "name": "[GER] - [BCH - KLABUSTERBEERENSAFT]",
     "addr": "176.57.168.252",
     "port": 28100
   },
@@ -724,8 +718,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1767034675
+    "port": 7807
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
