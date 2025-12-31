@@ -582,6 +582,11 @@
     "removed": 1766968851
   },
   {
+    "name": "Game iets | English & Dutch | All welcome!",
+    "addr": "176.57.171.38",
+    "port": 28300
+  },
+  {
     "name": "Bren boy",
     "addr": "176.57.174.211",
     "port": 28000,
@@ -1145,6 +1150,11 @@
     "port": 7777
   },
   {
+    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
+    "addr": "208.115.226.91",
+    "port": 7777
+  },
+  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -1397,8 +1407,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1766755151
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1949,7 +1958,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1767141449
   },
   {
     "name": "HLL Official - Asia #04",
