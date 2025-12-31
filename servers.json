@@ -84,7 +84,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1767161606
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -491,7 +492,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767161606
   },
   {
     "name": "DevQA - EU #02",
@@ -527,8 +529,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1767075194
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -1175,6 +1176,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.247.19",
+    "port": 7777
+  },
+  {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 13:00–22:00 CEST︱",
     "addr": "208.115.248.107",
     "port": 7787
@@ -1709,12 +1715,6 @@
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
-  },
-  {
-    "name": "[EU] 开往安和桥北-萌新训练营",
-    "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1766556793
   },
   {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
