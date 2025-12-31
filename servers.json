@@ -38,8 +38,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1767118340
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -452,7 +451,8 @@
   {
     "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
     "addr": "176.57.168.254",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767204715
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -1178,6 +1178,11 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.247.19",
+    "port": 7777
+  },
+  {
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 20+ #Experiment",
+    "addr": "208.115.248.106",
     "port": 7777
   },
   {
@@ -1919,8 +1924,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1767118340
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1957,7 +1961,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767204715
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2110,8 +2115,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1767118340
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
