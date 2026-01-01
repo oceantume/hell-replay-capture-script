@@ -38,7 +38,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767291119
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -228,7 +229,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "15.204.170.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767291119
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
@@ -933,8 +935,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1767272411
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1042,7 +1043,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[NewA] Warfare | New Players Welcome | discord.gg/newa",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1452,7 +1453,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1767291119
   },
   {
     "name": "QA Testing - US East #09",
@@ -1546,7 +1548,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1767291119
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -2072,6 +2075,11 @@
     "port": 28000
   },
   {
+    "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
+    "addr": "92.38.150.147",
+    "port": 28400
+  },
+  {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.76",
     "port": 28900
@@ -2079,7 +2087,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.151.86",
-    "port": 29200
+    "port": 29200,
+    "removed": 1767291119
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
@@ -2125,7 +2134,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7977
+    "port": 7977,
+    "removed": 1767291119
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
