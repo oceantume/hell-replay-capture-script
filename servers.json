@@ -227,6 +227,11 @@
     "port": 7787
   },
   {
+    "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
+    "addr": "15.204.170.73",
+    "port": 7777
+  },
+  {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "15.204.170.74",
     "port": 7777
@@ -677,6 +682,11 @@
     "name": "360 Boot Camp Server | Eventos ③⑥⓪",
     "addr": "181.214.221.41",
     "port": 7787
+  },
+  {
+    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
+    "addr": "181.214.221.41",
+    "port": 7797
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1158,7 +1168,8 @@
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
     "addr": "208.115.226.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767228172
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1253,7 +1264,8 @@
   {
     "name": "GSR",
     "addr": "209.192.185.171",
-    "port": 7857
+    "port": 7857,
+    "removed": 1767228172
   },
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
@@ -1955,8 +1967,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1767141449
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
