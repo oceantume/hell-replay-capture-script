@@ -280,8 +280,7 @@
   {
     "name": "Turks Let Loose - Sadece Türkçe - discord.gg/TLL",
     "addr": "156.67.62.60",
-    "port": 7777,
-    "removed": 1767356062
+    "port": 7777
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -963,7 +962,8 @@
   {
     "name": "HLL Server",
     "addr": "2.220.126.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767377530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1461,8 +1461,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1767291119
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1925,8 +1924,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1767204715
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1952,6 +1950,11 @@
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
     "port": 28700
+  },
+  {
+    "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
+    "addr": "85.208.197.66",
+    "port": 7817
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
