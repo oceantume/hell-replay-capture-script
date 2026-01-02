@@ -38,8 +38,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1767291119
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -962,6 +961,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "2.220.126.130",
+    "port": 7777
+  },
+  {
     "name": "cn「CZS」超质数中队跑图训练服",
     "addr": "203.10.98.103",
     "port": 8888
@@ -1673,7 +1677,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
