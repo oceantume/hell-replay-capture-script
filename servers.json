@@ -68,8 +68,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1767334412
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -529,8 +528,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1767334412
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -550,7 +548,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767420717
   },
   {
     "name": "4story",
@@ -627,7 +626,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767420717
   },
   {
     "name": "QA Testing - EU #05",
@@ -913,12 +913,6 @@
     "name": "Hell let loose (US West) big mikes",
     "addr": "193.192.58.206",
     "port": 28200
-  },
-  {
-    "name": "Non-stop D-day-(US West) 100 player offensive, new players welc",
-    "addr": "193.192.58.206",
-    "port": 28300,
-    "removed": 1766815915
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
