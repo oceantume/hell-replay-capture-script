@@ -117,6 +117,11 @@
     "port": 9075
   },
   {
+    "name": "[FWR]Ivent Server",
+    "addr": "141.105.66.70",
+    "port": 9620
+  },
+  {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
     "port": 8530
@@ -278,7 +283,7 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose - Sadece Türkçe - discord.gg/TLL",
+    "name": "Turks Let Loose #1 - TLL #2 Açıldı! - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
   },
@@ -1382,7 +1387,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1767400548
   },
   {
     "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
