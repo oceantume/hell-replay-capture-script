@@ -1514,12 +1514,14 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1767466533
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1767466533
   },
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
@@ -1986,8 +1988,7 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1767465865
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
