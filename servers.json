@@ -525,12 +525,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose back to hell",
-    "addr": "176.57.171.140",
-    "port": 28000,
-    "removed": 1766925140
-  },
-  {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
     "port": 28200
@@ -559,7 +553,8 @@
   {
     "name": "4story",
     "addr": "176.57.171.161",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767531413
   },
   {
     "name": "Borry‘s Playground",
