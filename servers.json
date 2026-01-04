@@ -72,7 +72,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767507139
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -624,8 +625,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1767420717
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1304,7 +1304,8 @@
   {
     "name": "△ The Motor Pool #2 | Level 50+",
     "addr": "38.246.35.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767507139
   },
   {
     "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
@@ -1427,7 +1428,7 @@
     "port": 7777
   },
   {
-    "name": "♤ DALE LET LOOSE :: US Central :: New Players Welcome!",
+    "name": "♤ DALE LET LOOSE :: US Central :: Warfare / Offensive ONLY!",
     "addr": "45.137.244.9",
     "port": 28100
   },
@@ -1654,6 +1655,16 @@
   {
     "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
+    "port": 7777
+  },
+  {
+    "name": "△ The Motor Pool #2 | Level 50+",
+    "addr": "64.31.2.19",
+    "port": 7777
+  },
+  {
+    "name": "△ The Motor Pool #2 | Level 50+",
+    "addr": "64.31.2.20",
     "port": 7777
   },
   {
