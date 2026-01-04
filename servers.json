@@ -15,7 +15,7 @@
     "port": 7807
   },
   {
-    "name": "Aussies | AU/NZ Only | No Clans | English Only | Warfare/Offens",
+    "name": "Aussies | AU/NZ Only | No Clans | English Only | Warfare",
     "addr": "103.193.80.97",
     "port": 7777
   },
@@ -1695,7 +1695,8 @@
   {
     "name": "»BAIN« | Server de treino | bainclan.com.br",
     "addr": "64.31.31.122",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767528812
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
