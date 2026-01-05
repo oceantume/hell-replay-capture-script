@@ -73,8 +73,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1767507139
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -548,8 +547,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1767420717
+    "port": 28300
   },
   {
     "name": "4story",
@@ -900,7 +898,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767593773
   },
   {
     "name": "Hell let loose (US West) big mikes",
@@ -1217,7 +1216,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "208.115.251.114",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767593773
   },
   {
     "name": "Cathey【PUMA】chin server 746699634",
@@ -1655,7 +1655,8 @@
   {
     "name": "△ The Motor Pool #2 | Level 50+",
     "addr": "64.31.2.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767593773
   },
   {
     "name": "△ The Motor Pool #2 | Level 50+",
@@ -2149,6 +2150,11 @@
     "name": "[GER] Omen Event & Match Server #1",
     "addr": "95.135.1.18",
     "port": 7787
+  },
+  {
+    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
+    "addr": "95.135.1.19",
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
