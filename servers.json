@@ -831,7 +831,7 @@
     "port": 7787
   },
   {
-    "name": "No Mans Land | Hostile Unknown | .gg/hostile",
+    "name": "§ | No Mans Land | Sassy's Assault Squad | .gg/hostile",
     "addr": "192.169.92.27",
     "port": 7797
   },
@@ -1256,7 +1256,7 @@
     "port": 7777
   },
   {
-    "name": "Blueberry Madness | 多 eTool | .gg/hostile | .gg/etool",
+    "name": "Blueberry Madness | § eTool | .gg/hostile + etool",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -2123,7 +2123,8 @@
   {
     "name": "QNZR | TESTING3",
     "addr": "95.135.0.14",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767680016
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
