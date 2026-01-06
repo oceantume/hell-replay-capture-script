@@ -873,7 +873,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1085,7 +1085,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1120,7 +1120,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1216,7 +1216,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1922,8 +1922,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1767636798
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1949,8 +1948,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1767636798
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2191,12 +2189,6 @@
     "name": "QNZR | TESTING2",
     "addr": "95.135.1.21",
     "port": 7777
-  },
-  {
-    "name": "QNZR | Policy",
-    "addr": "95.135.1.3",
-    "port": 7777,
-    "removed": 1767118340
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
