@@ -147,7 +147,8 @@
   {
     "name": "FR La Tenaille | Nouveau serveur FR | MIC Obligatoire",
     "addr": "142.91.157.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767701705
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -286,6 +287,11 @@
     "port": 7777
   },
   {
+    "name": "CN可爱小羊狗叫屋 攻防服 日服纯玩无Q群",
+    "addr": "154.45.251.76",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose #1 - TLL #2 Açıldı! - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -293,8 +299,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1767683081
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -416,7 +421,8 @@
   {
     "name": "FC Groningen",
     "addr": "176.57.168.250",
-    "port": 28400
+    "port": 28400,
+    "removed": 1767701705
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -879,8 +885,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1767683081
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1082,8 +1087,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1767683081
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1118,8 +1122,7 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1767683081
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1215,8 +1218,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1767683081
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1375,7 +1377,8 @@
   {
     "name": "chickchickchick",
     "addr": "40.27.40.150",
-    "port": 7867
+    "port": 7867,
+    "removed": 1767701705
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
@@ -1531,8 +1534,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1767683081
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1815,8 +1817,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1767683081
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2180,8 +2181,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1767683081
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
