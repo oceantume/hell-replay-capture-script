@@ -20,7 +20,7 @@
     "port": 7777
   },
   {
-    "name": "GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
+    "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
     "port": 7787
   },
@@ -627,7 +627,8 @@
   {
     "name": "JUANCASALMON - BEESAREFUN",
     "addr": "176.57.181.105",
-    "port": 28100
+    "port": 28100,
+    "removed": 1767659896
   },
   {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
@@ -688,6 +689,11 @@
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
     "port": 7827
+  },
+  {
+    "name": "hll Server",
+    "addr": "181.214.48.19",
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
@@ -862,7 +868,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767659896
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -1319,7 +1326,8 @@
   {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "40.27.40.150",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767659896
   },
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
@@ -2067,10 +2075,9 @@
     "removed": 1767573695
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL #3 | https://cavhll.com.br",
     "addr": "92.38.151.86",
-    "port": 28900,
-    "removed": 1767639693
+    "port": 28900
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
@@ -2113,6 +2120,11 @@
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
     "port": 28200
+  },
+  {
+    "name": "QNZR | TESTING3",
+    "addr": "95.135.0.14",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
