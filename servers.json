@@ -42,7 +42,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767809552
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -200,8 +201,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1767790955
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -267,26 +267,22 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1767788125
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1767788125
+    "port": 7827
   },
   {
     "name": "[ESP] Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777,
-    "removed": 1767788125
+    "port": 7777
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1767788125
+    "port": 7787
   },
   {
     "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
@@ -470,12 +466,6 @@
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
     "port": 28200
-  },
-  {
-    "name": "[YII] 9. Panzerdivision » only GER + Mic » only warfare",
-    "addr": "176.57.168.254",
-    "port": 28000,
-    "removed": 1767204715
   },
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
@@ -891,7 +881,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -984,8 +974,7 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1767746245
+    "port": 9620
   },
   {
     "name": "# 1 DK | The Danish Infantry Squad | Denmark | Discord www.hll-",
@@ -1091,8 +1080,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
     "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1767790955
+    "port": 7777
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -1105,7 +1093,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1140,7 +1128,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1192,8 +1180,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1767790955
+    "port": 7777
   },
   {
     "name": "[GER] Brennholzverleih | Active Admins",
@@ -1237,7 +1224,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1450,8 +1437,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1767790955
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1728,8 +1714,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1767790955
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
@@ -1801,8 +1786,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1767790955
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1962,8 +1946,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1767550265
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2003,8 +1986,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1767790955
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2214,7 +2196,8 @@
   {
     "name": "QNZR | TESTING2",
     "addr": "95.135.1.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767809552
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
