@@ -266,22 +266,26 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1767788125
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1767788125
   },
   {
     "name": "[ESP] Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767788125
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1767788125
   },
   {
     "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
@@ -306,8 +310,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1767769392
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -738,7 +741,8 @@
   {
     "name": "[FR Coalition | FTC] Frères de TranChées FR ONLY - discord.gg",
     "addr": "185.216.145.154",
-    "port": 9075
+    "port": 9075,
+    "removed": 1767788125
   },
   {
     "name": "EX YU Balkan Express",
@@ -1101,8 +1105,7 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1767769392
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1137,8 +1140,7 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1767769392
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1234,8 +1236,7 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1767769392
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1576,8 +1577,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1767636798
+    "port": 9620
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1749,7 +1749,8 @@
   {
     "name": "│ CLAN AESIR │ ENTRENAMIENTOS Y EVENTOS │ www.n9.cl/clana",
     "addr": "64.31.31.123",
-    "port": 7787
+    "port": 7787,
+    "removed": 1767788125
   },
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
@@ -1839,8 +1840,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1767769392
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2044,12 +2044,6 @@
     "port": 28600
   },
   {
-    "name": "Test HLL",
-    "addr": "92.118.16.90",
-    "port": 7787,
-    "removed": 1767183287
-  },
-  {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
     "port": 7827
@@ -2200,10 +2194,9 @@
     "removed": 1767746245
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM",
     "addr": "95.135.1.2",
-    "port": 7777,
-    "removed": 1767748121
+    "port": 7777
   },
   {
     "name": "QNZR | TESTING",
@@ -2218,8 +2211,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
     "addr": "95.135.1.4",
-    "port": 7777,
-    "removed": 1767748121
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
