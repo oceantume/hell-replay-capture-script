@@ -67,12 +67,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767766426
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767766426
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -528,8 +530,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1767746245
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -1342,6 +1343,11 @@
     "port": 7787
   },
   {
+    "name": "JP/安河桥北的军官营",
+    "addr": "40.27.40.15",
+    "port": 7777
+  },
+  {
     "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
     "addr": "40.27.40.150",
     "port": 7777
@@ -1352,7 +1358,7 @@
     "port": 7787
   },
   {
-    "name": "CN2#散人社区|铁血攻防战争咖啡馆丨日服120748151",
+    "name": "CN2#散人社区|极限铁血攻防战争咖啡馆丨日服1207",
     "addr": "40.27.40.150",
     "port": 7797
   },
@@ -1625,7 +1631,7 @@
     "port": 7787
   },
   {
-    "name": "BR1 Match Server -- Central -- discord.gg/br1",
+    "name": "BR1 Operation Yellow Snow -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7797
   },
@@ -2219,7 +2225,8 @@
   {
     "name": "JP/安河桥北的军官营",
     "addr": "95.135.1.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767766426
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
