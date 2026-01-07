@@ -2191,7 +2191,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767748121
   },
   {
     "name": "QNZR | TESTING",
@@ -2206,12 +2207,14 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
     "addr": "95.135.1.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767748121
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
     "addr": "95.135.1.5",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767748121
   },
   {
     "name": "JP/安河桥北的军官营",
