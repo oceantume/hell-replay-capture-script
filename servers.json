@@ -1470,7 +1470,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767855039
   },
   {
     "name": "HLL Official - US West #02",
@@ -1490,7 +1491,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767855039
   },
   {
     "name": "HLL Official - US East #04",
@@ -2132,8 +2134,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1767853897
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
@@ -2158,8 +2159,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1767853897
+    "port": 7777
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
