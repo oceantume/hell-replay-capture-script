@@ -68,14 +68,12 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1767766426
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1767766426
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -535,7 +533,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767852813
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -626,7 +625,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1767852813
   },
   {
     "name": "QA Testing - EU #05",
@@ -1638,7 +1638,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "The 11th Infantry Division",
     "addr": "63.143.63.84",
     "port": 7777
   },
