@@ -198,8 +198,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1767877414
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -294,7 +293,7 @@
     "port": 7777
   },
   {
-    "name": "CN可爱小羊狗叫屋 攻防服 日服纯玩无Q群",
+    "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
     "addr": "154.45.251.76",
     "port": 7777
   },
@@ -423,6 +422,11 @@
   {
     "name": "Hell let loose Anfänger feuer frei (bin neu)",
     "addr": "176.57.168.194",
+    "port": 28100
+  },
+  {
+    "name": "PARABELLUM SERVER HUN/ENG",
+    "addr": "176.57.168.250",
     "port": 28100
   },
   {
@@ -844,7 +848,8 @@
   {
     "name": "MEXICO LATAM ESP OGT 1",
     "addr": "192.169.92.27",
-    "port": 7787
+    "port": 7787,
+    "removed": 1767895863
   },
   {
     "name": "§ | No Mans Land | Sassy's Assault Squad | .gg/hostile",
@@ -1409,10 +1414,14 @@
     "port": 7827
   },
   {
+    "name": "MEXICO LATAM ESP OGT 1",
+    "addr": "40.27.41.10",
+    "port": 7777
+  },
+  {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1767877414
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1432,14 +1441,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1767877414
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1767877414
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1645,7 +1652,8 @@
   {
     "name": "11ID vs L201 Friendly",
     "addr": "63.143.63.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767895863
   },
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
@@ -1716,8 +1724,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1767877414
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
@@ -1794,8 +1801,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1767877414
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1950,7 +1956,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767895863
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1995,8 +2002,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1767877414
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2190,8 +2196,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1767746245
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM",
@@ -2243,6 +2248,7 @@
   {
     "name": "nitrado.net gameserver u4Ry1ZT1",
     "addr": "95.156.198.83",
-    "port": 10300
+    "port": 10300,
+    "removed": 1767895863
   }
 ]
