@@ -400,12 +400,6 @@
     "port": 28200
   },
   {
-    "name": "[PRB] PARABELLUM | HUN/ENG",
-    "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1767379591
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.114",
     "port": 28300
@@ -2112,6 +2106,11 @@
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
     "addr": "92.38.151.92",
     "port": 29600
+  },
+  {
+    "name": "EVENTOS URANIUM || discord.gg/uranium235",
+    "addr": "92.38.151.92",
+    "port": 29700
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
