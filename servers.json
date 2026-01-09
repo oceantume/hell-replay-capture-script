@@ -1750,7 +1750,8 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1767962102
   },
   {
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1775,7 +1776,8 @@
   {
     "name": "2DB - Serveur Français - Lvl 30+",
     "addr": "64.31.4.170",
-    "port": 7787
+    "port": 7787,
+    "removed": 1767962102
   },
   {
     "name": "Asia | Brother Wa Super New Bie",
@@ -1971,8 +1973,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1767960915
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
