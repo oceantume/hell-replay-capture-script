@@ -200,8 +200,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1767963727
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -535,8 +534,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1767963727
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -871,7 +869,8 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1767982356
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -978,12 +977,6 @@
     "name": "# 1 DK | The Danish Infantry Squad | Denmark | Discord www.hll-",
     "addr": "198.244.177.84",
     "port": 8530
-  },
-  {
-    "name": "HLL Server",
-    "addr": "2.220.126.130",
-    "port": 7777,
-    "removed": 1767377530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1277,7 +1270,7 @@
     "port": 7827
   },
   {
-    "name": "[HLLEE] Estonian partisans Let Loose | EE/EN | WARFARE",
+    "name": "Estonian partisans Let Loose | EE/EN | WARFARE",
     "addr": "212.237.216.54",
     "port": 7807
   },
@@ -1432,14 +1425,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1767963727
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1767963727
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1479,17 +1470,20 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1767982356
   },
   {
     "name": "QA Testing - US East #09",
@@ -1570,7 +1564,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1767982356
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1603,7 +1598,7 @@
     "port": 10165
   },
   {
-    "name": "European Competitive Community",
+    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 10710
   },
@@ -1722,8 +1717,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1767963727
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
@@ -1755,8 +1749,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1767962102
+    "port": 7777
   },
   {
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1779,7 +1772,7 @@
     "port": 7777
   },
   {
-    "name": "2eme Division Blind?e - Fr",
+    "name": "2eme Division Blindée - Fr",
     "addr": "64.31.4.170",
     "port": 7787
   },
@@ -1911,7 +1904,8 @@
   {
     "name": "EVENTOS URANIUM || discord.gg/uranium235",
     "addr": "78.111.102.114",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767982356
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1951,12 +1945,14 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1967,7 +1963,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1982,7 +1979,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2007,8 +2005,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1767963727
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2129,12 +2126,14 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1767982356
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1767982356
   },
   {
     "name": "QNZR | TESTING3",
