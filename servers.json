@@ -153,6 +153,11 @@
     "removed": 1767701705
   },
   {
+    "name": "Boneyard",
+    "addr": "144.126.153.213",
+    "port": 28000
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -1269,6 +1274,11 @@
     "port": 7807
   },
   {
+    "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
+    "addr": "213.166.84.5",
+    "port": 11255
+  },
+  {
     "name": "Pathfinders | Event 2",
     "addr": "216.144.245.84",
     "port": 7777
@@ -1528,7 +1538,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "45.143.199.235",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768005438
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1766,7 +1777,7 @@
     "port": 7777
   },
   {
-    "name": "2eme Division Blindée - Fr",
+    "name": "[2DB] Serveur Français",
     "addr": "64.31.4.170",
     "port": 7787
   },
@@ -2198,7 +2209,8 @@
   {
     "name": "QNZR | TESTING",
     "addr": "95.135.1.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768005438
   },
   {
     "name": "QNZR | TESTING2",
