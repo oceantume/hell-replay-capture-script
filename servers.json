@@ -380,7 +380,8 @@
   {
     "name": "Oktogon #3 — New Player Friendly",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768068662
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
@@ -560,7 +561,7 @@
     "port": 28000
   },
   {
-    "name": "[ Ger ] OC | Organisiertes Chaos | min LVL 20 |",
+    "name": "[ Ger ] OC | Organisiertes Chaos | min LVL 15 |",
     "addr": "176.57.171.176",
     "port": 28200
   },
@@ -1422,8 +1423,7 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
-    "port": 7777,
-    "removed": 1768047183
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1473,20 +1473,17 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1767982356
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1767982356
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1767982356
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1773,7 +1770,8 @@
   {
     "name": "[2DB] Serveur Français",
     "addr": "64.31.4.170",
-    "port": 7787
+    "port": 7787,
+    "removed": 1768068662
   },
   {
     "name": "Asia | Brother Wa Super New Bie",
@@ -1944,26 +1942,22 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1767982356
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1767982356
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1767895863
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1767982356
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2130,14 +2124,12 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1767982356
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1767982356
+    "port": 28200
   },
   {
     "name": "QNZR | TESTING3",
