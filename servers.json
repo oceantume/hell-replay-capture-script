@@ -872,7 +872,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768047183
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
@@ -1422,7 +1423,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768047183
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1495,20 +1497,17 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1767874587
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1767960915
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1767960915
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1518,14 +1517,12 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1767960915
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1767960915
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1847,8 +1844,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1768029000
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
