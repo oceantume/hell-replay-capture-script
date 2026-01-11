@@ -566,7 +566,7 @@
     "port": 28200
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 1",
+    "name": "[GER] 1. Fallschirmjäger-Division Server 2",
     "addr": "176.57.171.176",
     "port": 28300
   },
@@ -742,6 +742,11 @@
     "name": "Hogs of War I New Players Welcome I come join the discord https",
     "addr": "188.64.33.2",
     "port": 11800
+  },
+  {
+    "name": "Galaktisches Imperium 2.0",
+    "addr": "188.64.33.2",
+    "port": 12345
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -1012,7 +1017,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 2",
+    "name": "[GER] 1. Fallschirmjäger-Division Server",
     "addr": "208.115.206.195",
     "port": 7777
   },
@@ -1369,10 +1374,9 @@
     "port": 7857
   },
   {
-    "name": "chickchickchick",
+    "name": "GTZ战术大队跑图服",
     "addr": "40.27.40.150",
-    "port": 7867,
-    "removed": 1767701705
+    "port": 7867
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 JP节点",
@@ -1498,7 +1502,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768133643
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1518,8 +1523,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1767960915
+    "port": 28700
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1667,7 +1671,8 @@
   {
     "name": "GTZ战术大队跑图服",
     "addr": "64.31.11.74",
-    "port": 11800
+    "port": 11800,
+    "removed": 1768133643
   },
   {
     "name": "hll Server",
@@ -1714,12 +1719,6 @@
     "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
-  },
-  {
-    "name": "»BAIN« | Server de treino | bainclan.com.br",
-    "addr": "64.31.31.122",
-    "port": 7777,
-    "removed": 1767528812
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
