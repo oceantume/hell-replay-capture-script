@@ -1007,7 +1007,8 @@
   {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768155069
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1465,12 +1466,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768155069
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1768155069
   },
   {
     "name": "HLL Official - US West #03",
@@ -1709,7 +1712,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #2 - TLL vs BxB - Canlı -> discord.gg/TLL",
+    "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1929,7 +1932,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768155069
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1939,7 +1943,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768155069
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1959,8 +1964,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1767982356
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2111,7 +2115,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768155069
   },
   {
     "name": "HLL Official - Australia #01",
@@ -2165,7 +2170,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Omen Event & Match Server #1",
+    "name": "[GER] Omen Match Server #1",
     "addr": "95.135.1.18",
     "port": 7787
   },
