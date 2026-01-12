@@ -496,7 +496,8 @@
   {
     "name": "NEW PLAYER FRIENDLY | EMPIRE OF THUNDER | ENG/GER",
     "addr": "176.57.168.91",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768220141
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1097,7 +1098,8 @@
   {
     "name": "㋑ | Born To Kill - discord.gg/b2kgaming",
     "addr": "208.115.212.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1768220141
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -1490,8 +1492,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1768133643
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
