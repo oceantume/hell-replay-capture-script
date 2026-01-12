@@ -125,6 +125,11 @@
     "port": 9620
   },
   {
+    "name": "Chaoskommando [GERMAN] Only MIC",
+    "addr": "141.95.33.70",
+    "port": 12345
+  },
+  {
     "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
     "addr": "141.95.33.70",
     "port": 8530
@@ -554,7 +559,7 @@
     "port": 28000
   },
   {
-    "name": "[ Ger ] OC | Organisiertes Chaos | min LVL 15 |",
+    "name": "OC | Serverumzug auf [GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "176.57.171.176",
     "port": 28200
   },
@@ -739,7 +744,8 @@
   {
     "name": "Galaktisches Imperium 2.0",
     "addr": "188.64.33.2",
-    "port": 12345
+    "port": 12345,
+    "removed": 1768178419
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -1195,7 +1201,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 20+ #Experiment",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1251,7 +1257,7 @@
     "port": 7777
   },
   {
-    "name": "Blueberry Madness | § eTool | .gg/hostile + etool",
+    "name": "Sassy's Assault | § eTool | .gg/hostile + etool",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -1379,8 +1385,7 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "40.27.40.151",
-    "port": 7787,
-    "removed": 1768114093
+    "port": 7787
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
@@ -2099,7 +2104,8 @@
   {
     "name": "EVENTOS URANIUM || discord.gg/uranium235",
     "addr": "92.38.151.92",
-    "port": 29700
+    "port": 29700,
+    "removed": 1768178419
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
