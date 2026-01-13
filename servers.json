@@ -629,12 +629,6 @@
     "port": 28200
   },
   {
-    "name": "JUANCASALMON - BEESAREFUN",
-    "addr": "176.57.181.105",
-    "port": 28100,
-    "removed": 1767659896
-  },
-  {
     "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
     "addr": "176.57.181.105",
     "port": 28200
@@ -1848,8 +1842,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.58.130",
-    "port": 8530,
-    "removed": 1768264444
+    "port": 8530
   },
   {
     "name": "The Lucky Strikes | Votemap",
