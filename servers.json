@@ -291,17 +291,20 @@
   {
     "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
     "addr": "154.45.251.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768284800
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "154.45.251.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768284800
   },
   {
     "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
     "addr": "154.45.251.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768284800
   },
   {
     "name": "Turks Let Loose #1 - TLL #2 Açıldı! - discord.gg/TLL",
@@ -1368,14 +1371,34 @@
     "port": 7787
   },
   {
+    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "addr": "40.27.40.151",
+    "port": 7797
+  },
+  {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
     "port": 7807
   },
   {
+    "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
+    "addr": "40.27.40.151",
+    "port": 7817
+  },
+  {
     "name": "<CN>#4 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
     "addr": "40.27.40.151",
     "port": 7827
+  },
+  {
+    "name": "CN／JP GR&DB&BW Team Community Server QQ：1002516589",
+    "addr": "40.27.40.151",
+    "port": 7837
+  },
+  {
+    "name": "帝国社区训练专用服",
+    "addr": "40.27.40.151",
+    "port": 7847
   },
   {
     "name": "MEXICO LATAM ESP OGT 1",
@@ -2069,6 +2092,11 @@
     "port": 28900
   },
   {
+    "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
+    "addr": "92.38.151.86",
+    "port": 30000
+  },
+  {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.89",
     "port": 28700
@@ -2076,7 +2104,8 @@
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
     "addr": "92.38.151.92",
-    "port": 29600
+    "port": 29600,
+    "removed": 1768284800
   },
   {
     "name": "EVENTOS URANIUM || discord.gg/uranium235",
