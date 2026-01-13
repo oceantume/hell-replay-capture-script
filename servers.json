@@ -204,8 +204,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1768309424
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -869,7 +868,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -921,8 +920,7 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1768306555
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -943,6 +941,11 @@
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
     "port": 20600
+  },
+  {
+    "name": "nitrado.net gameserver CVEZZCJW",
+    "addr": "195.82.158.186",
+    "port": 20700
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1071,7 +1074,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1107,7 +1110,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1197,7 +1200,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1252,7 +1255,7 @@
     "port": 7827
   },
   {
-    "name": "Estonian partisans Let Loose | EST/ENG | WARFARE",
+    "name": "Estonian partisans | EST/ENG | WARFARE",
     "addr": "212.237.216.54",
     "port": 7807
   },
@@ -1425,8 +1428,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1768309424
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1466,8 +1468,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1768155069
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1788,8 +1789,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1768309424
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1967,7 +1967,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768328002
   },
   {
     "name": "HLL Official - Asia #03",
