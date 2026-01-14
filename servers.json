@@ -232,7 +232,7 @@
     "port": 7777
   },
   {
-    "name": "79th ID | Sweaty Lobbies | discord.gg/79th",
+    "name": "79th ID | Level 50+| Sweaty Lobbies | discord.gg/79th",
     "addr": "15.204.170.68",
     "port": 7777
   },
@@ -379,7 +379,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1768371224
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -537,7 +538,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768371224
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -552,7 +554,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768371224
   },
   {
     "name": "Borry‘s Playground",
@@ -916,7 +919,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768371224
   },
   {
     "name": "Hell let loose (US West) big mikes",
@@ -969,7 +973,7 @@
     "port": 9620
   },
   {
-    "name": "# 1 DK | The Danish Infantry Squad | Denmark | Discord www.hll-",
+    "name": "# 1 Frontline | Danmark | Discord www.hll-clan.dk",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1423,8 +1427,7 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
-    "port": 7777,
-    "removed": 1768351145
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
