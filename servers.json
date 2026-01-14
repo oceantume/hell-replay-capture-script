@@ -131,7 +131,7 @@
     "port": 9620
   },
   {
-    "name": "Chaoskommando [only GERMAN] MIC-Pflicht┃CKO",
+    "name": "Chaoskommando [GERMAN] MIC-Pflicht┃CKO",
     "addr": "141.95.33.70",
     "port": 12345
   },
@@ -945,7 +945,8 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768392922
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1026,7 +1027,8 @@
   {
     "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
     "addr": "208.115.206.198",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768392922
   },
   {
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
@@ -1267,7 +1269,8 @@
   {
     "name": "Estonian partisans | EST/ENG | WARFARE",
     "addr": "212.237.216.54",
-    "port": 7807
+    "port": 7807,
+    "removed": 1768392922
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1508,7 +1511,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768392922
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1843,8 +1847,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1768374169
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2141,14 +2144,12 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1768374169
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877,
-    "removed": 1768374169
+    "port": 7877
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -2168,8 +2169,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1768374169
+    "port": 7777
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
