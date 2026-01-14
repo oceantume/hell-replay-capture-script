@@ -1843,7 +1843,8 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710
+    "port": 10710,
+    "removed": 1768374169
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -2140,12 +2141,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768374169
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1768374169
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -2165,7 +2168,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768374169
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
