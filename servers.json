@@ -51,6 +51,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "108.165.230.224",
+    "port": 7797
+  },
+  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -126,7 +131,7 @@
     "port": 9620
   },
   {
-    "name": "Chaoskommando [GERMAN] Only MIC",
+    "name": "Chaoskommando [only GERMAN] MIC-Pflicht┃CKO",
     "addr": "141.95.33.70",
     "port": 12345
   },
@@ -405,7 +410,8 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768351145
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -868,7 +874,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1074,7 +1080,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1110,7 +1116,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1200,7 +1206,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1417,7 +1423,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768351145
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
