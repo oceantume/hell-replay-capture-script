@@ -209,8 +209,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1768395758
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -539,8 +538,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1768371224
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -940,8 +938,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1768392922
+    "port": 7777
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1264,8 +1261,7 @@
   {
     "name": "Estonian partisans | EST/ENG | WARFARE",
     "addr": "212.237.216.54",
-    "port": 7807,
-    "removed": 1768392922
+    "port": 7807
   },
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
@@ -1952,8 +1948,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1768241551
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1969,8 +1964,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1768328002
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2123,7 +2117,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768414382
   },
   {
     "name": "HLL Official - Australia #01",
@@ -2190,12 +2185,6 @@
     "addr": "95.135.1.20",
     "port": 7777,
     "removed": 1768005438
-  },
-  {
-    "name": "QNZR | TESTING2",
-    "addr": "95.135.1.21",
-    "port": 7777,
-    "removed": 1767809552
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
