@@ -131,7 +131,7 @@
     "port": 9620
   },
   {
-    "name": "Chaoskommando [GERMAN] MIC-Pflicht┃CKO",
+    "name": "[GER] |CKO| Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
   },
@@ -210,8 +210,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1768482146
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -316,8 +315,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1768457603
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -420,7 +418,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.153.114",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768500950
   },
   {
     "name": "Hell let loose Anfänger feuer frei (bin neu)",
@@ -837,12 +836,6 @@
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
     "addr": "192.169.90.205",
     "port": 7827
-  },
-  {
-    "name": "MEXICO LATAM ESP OGT 1",
-    "addr": "192.169.92.27",
-    "port": 7787,
-    "removed": 1767895863
   },
   {
     "name": "§ | No Mans Land | Sassy's Assault Squad | .gg/hostile",
@@ -1416,8 +1409,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1768482146
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1437,14 +1429,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1768309424
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1768482146
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1654,12 +1644,6 @@
     "port": 7777
   },
   {
-    "name": "11ID vs L201 Friendly",
-    "addr": "63.143.63.84",
-    "port": 7777,
-    "removed": 1767895863
-  },
-  {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
@@ -1723,8 +1707,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1768482146
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
@@ -1749,8 +1732,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1768482146
+    "port": 7777
   },
   {
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1801,8 +1783,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1768482146
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1954,7 +1935,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768500950
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2005,8 +1987,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1768482146
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2133,8 +2114,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1768414382
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
@@ -2226,11 +2206,5 @@
     "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
     "addr": "95.135.1.8",
     "port": 7787
-  },
-  {
-    "name": "nitrado.net gameserver u4Ry1ZT1",
-    "addr": "95.156.198.83",
-    "port": 10300,
-    "removed": 1767895863
   }
 ]
