@@ -153,8 +153,7 @@
   {
     "name": "OINK 1 | KAMPFSCHWEINE | LOW PING | LMS | GER ENG",
     "addr": "142.91.157.156",
-    "port": 7777,
-    "removed": 1768439132
+    "port": 7777
   },
   {
     "name": "Boneyard",
@@ -235,7 +234,8 @@
   {
     "name": "79th ID | Level 50+| Sweaty Lobbies | discord.gg/79th",
     "addr": "15.204.170.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768457603
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -319,7 +319,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1768457603
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -385,8 +386,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1768371224
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -492,8 +492,7 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1768439132
+    "port": 28400
   },
   {
     "name": "CZ/SK",
@@ -539,12 +538,14 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768457603
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768457603
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -559,14 +560,12 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1768371224
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1768439132
+    "port": 28000
   },
   {
     "name": "OC | Serverumzug auf [GER] OC | Organisiertes Chaos | Lvl 15+",
@@ -627,7 +626,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768457603
   },
   {
     "name": "QA Testing - EU #05",
@@ -730,6 +730,11 @@
     "port": 10165
   },
   {
+    "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
+    "addr": "185.83.152.162",
+    "port": 11255
+  },
+  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
     "port": 7807
@@ -753,7 +758,8 @@
   {
     "name": "CN/EU 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "188.64.33.2",
-    "port": 9075
+    "port": 9075,
+    "removed": 1768457603
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -813,8 +819,7 @@
   {
     "name": "①︱THE CIRCLE #1︱WARFARE︱60 MIN GAMES︱DISCORD.GG/THE-C",
     "addr": "192.169.90.203",
-    "port": 7827,
-    "removed": 1768439132
+    "port": 7827
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -920,8 +925,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1768371224
+    "port": 7777
   },
   {
     "name": "Hell let loose (US West) big mikes",
@@ -976,8 +980,7 @@
   {
     "name": "# 1 Frontline | Danmark | Discord www.hll-clan.dk",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1768439132
+    "port": 8530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1275,8 +1278,7 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "213.166.84.5",
-    "port": 11255,
-    "removed": 1768437322
+    "port": 11255
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1518,8 +1520,7 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1768439132
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #05",
