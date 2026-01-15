@@ -311,6 +311,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "156.67.62.97",
+    "port": 7777
+  },
+  {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
@@ -411,8 +416,7 @@
   {
     "name": "frogus",
     "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1768351145
+    "port": 28200
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1266,7 +1270,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "213.166.84.5",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768437322
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1958,8 +1963,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1768264444
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
