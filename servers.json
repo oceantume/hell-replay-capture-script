@@ -51,7 +51,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[LATAM/ESP] | LA HOGUERA | CLAN AESIR RECLUTANDO!",
     "addr": "108.165.230.224",
     "port": 7797
   },
@@ -200,7 +200,8 @@
   {
     "name": "FR/EN - Server Free Player Spirit (FPS)",
     "addr": "149.102.154.195",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768523936
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -633,6 +634,11 @@
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
+  },
+  {
+    "name": "Tempête DEV",
+    "addr": "178.33.122.90",
+    "port": 8530
   },
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
@@ -1262,8 +1268,7 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "213.166.84.5",
-    "port": 11255,
-    "removed": 1768479319
+    "port": 11255
   },
   {
     "name": "Pathfinders | Event 2",
