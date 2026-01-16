@@ -608,7 +608,8 @@
   {
     "name": "Hell let loose (EU) Server by Cubefighter_Gaming :-)",
     "addr": "176.57.174.211",
-    "port": 28700
+    "port": 28700,
+    "removed": 1768587162
   },
   {
     "name": "HLL Official - UK #01",
@@ -707,7 +708,7 @@
     "port": 7797
   },
   {
-    "name": "[FR/BE] MISERE SOUS LES TROPIQUES | FR Only | discord.gg/NewxfV",
+    "name": "[FR/BE] MISERE SOUS LES TROPIQUES - M.S.T | FR Only | discord.g",
     "addr": "185.216.144.75",
     "port": 10710
   },
@@ -1268,7 +1269,7 @@
     "port": 7827
   },
   {
-    "name": "Estonian partisans | EST/ENG | WARFARE",
+    "name": "Estonian Partisans | EST/ENG | WARFARE",
     "addr": "212.237.216.54",
     "port": 7807
   },
@@ -1893,12 +1894,6 @@
     "port": 7777
   },
   {
-    "name": "EVENTOS URANIUM || discord.gg/uranium235",
-    "addr": "78.111.102.114",
-    "port": 28200,
-    "removed": 1767982356
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1941,8 +1936,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1768500950
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2173,7 +2167,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] 100.Jäger-Division | Mikrofon erforderlich!",
+    "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
     "port": 7777
   },
