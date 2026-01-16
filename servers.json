@@ -31,6 +31,11 @@
     "port": 7807
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "103.193.81.14",
+    "port": 8530
+  },
+  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -83,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1768544023
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -383,7 +389,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1768544023
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -536,8 +543,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1768457603
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -653,7 +659,8 @@
   {
     "name": "[LATAM] D.C. I DELTA CORPS / ESP",
     "addr": "181.214.221.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1768544023
   },
   {
     "name": "『V』VANGUARDA | BR | LATAM | Warfare",
