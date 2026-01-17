@@ -171,17 +171,20 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768610179
   },
   {
     "name": "CrossFire Gaming",
     "addr": "144.126.153.213",
-    "port": 28800
+    "port": 28800,
+    "removed": 1768610179
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
-    "port": 29000
+    "port": 29000,
+    "removed": 1768610179
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
@@ -1956,7 +1959,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1768610179
   },
   {
     "name": "HLL Official - Asia #04",
