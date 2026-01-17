@@ -94,7 +94,8 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
     "addr": "135.181.165.173",
-    "port": 9075
+    "port": 9075,
+    "removed": 1768651981
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -187,7 +188,8 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 EU节点",
     "addr": "145.239.144.76",
-    "port": 8530
+    "port": 8530,
+    "removed": 1768651981
   },
   {
     "name": "[OFFICIEL] HLL FRANCE - discord.gg/hllfrance",
@@ -339,7 +341,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军 QQ群885187716//US WEST",
     "addr": "162.220.9.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1768651981
   },
   {
     "name": "West Coast Rumble",
@@ -1541,7 +1544,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1768651981
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1577,6 +1581,11 @@
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.38.89.130",
     "port": 7777
+  },
+  {
+    "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "51.38.89.130",
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1735,7 +1744,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.29.69",
     "port": 7777
   },
