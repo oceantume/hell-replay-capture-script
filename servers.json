@@ -402,12 +402,6 @@
     "port": 28400
   },
   {
-    "name": "Oktogon #3 — New Player Friendly",
-    "addr": "176.57.140.146",
-    "port": 28100,
-    "removed": 1768068662
-  },
-  {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "176.57.140.181",
     "port": 30600
@@ -739,7 +733,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "185.83.152.162",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768673483
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -1285,7 +1280,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "213.166.84.5",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768673483
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1419,7 +1415,7 @@
     "port": 7837
   },
   {
-    "name": "帝国社区训练专用服",
+    "name": "CN 帝国社区训练专用服",
     "addr": "40.27.40.151",
     "port": 7847
   },
@@ -1496,7 +1492,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768673483
   },
   {
     "name": "HLL Official - US West #01",
@@ -1553,6 +1550,11 @@
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
     "port": 8530
+  },
+  {
+    "name": "hllc Server",
+    "addr": "45.151.81.211",
+    "port": 7777
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1784,12 +1786,6 @@
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "64.31.32.211",
     "port": 7777
-  },
-  {
-    "name": "[2DB] Serveur Français",
-    "addr": "64.31.4.170",
-    "port": 7787,
-    "removed": 1768068662
   },
   {
     "name": "<CN>#4 瓦学弟 ❤ 黑丝 ※ 学姐达咩 Q:979552783",
