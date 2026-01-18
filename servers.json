@@ -734,7 +734,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "185.83.152.162",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768738418
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -1067,7 +1068,7 @@
     "port": 7807
   },
   {
-    "name": "[NewA] Warfare | New Players Welcome | discord.gg/newa",
+    "name": "[NewA] | New Players Welcome | discord.gg/newa",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1280,7 +1281,8 @@
   {
     "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
     "addr": "213.166.84.5",
-    "port": 11255
+    "port": 11255,
+    "removed": 1768738418
   },
   {
     "name": "Pathfinders | Event 2",
@@ -1542,8 +1544,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1768651981
+    "port": 28700
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1583,7 +1584,8 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.38.89.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768738418
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1707,7 +1709,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "RGN #9 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.2.19",
     "port": 7777
   },
