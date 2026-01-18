@@ -313,7 +313,7 @@
     "removed": 1768284800
   },
   {
-    "name": "Turks Let Loose #1 - TLL #2 Açıldı! - discord.gg/TLL",
+    "name": "Turks Let Loose #1 - Sadece Türkçe - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
   },
@@ -1755,7 +1755,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.29.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768696918
   },
   {
     "name": "MEXICO LATAM ESP OGT 2",
@@ -1981,8 +1982,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1768610179
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
