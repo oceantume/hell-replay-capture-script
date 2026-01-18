@@ -1055,7 +1055,8 @@
   {
     "name": "PL ※ ENG | DGM | Polski/Polish Server",
     "addr": "208.115.206.38",
-    "port": 7787
+    "port": 7787,
+    "removed": 1768761840
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
@@ -1918,8 +1919,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1768760868
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
