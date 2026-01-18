@@ -404,7 +404,8 @@
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "176.57.140.181",
-    "port": 30600
+    "port": 30600,
+    "removed": 1768759862
   },
   {
     "name": "Warfrags Studios",
@@ -1284,7 +1285,7 @@
     "removed": 1768738418
   },
   {
-    "name": "Pathfinders | Event 2",
+    "name": "Pathfinders | 24/7 SMDM SME",
     "addr": "216.144.245.84",
     "port": 7777
   },
@@ -1492,13 +1493,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1768673483
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1768759862
   },
   {
     "name": "HLL Official - US West #03",
@@ -1573,7 +1574,8 @@
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1768759862
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
@@ -1732,7 +1734,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #2 - Sadece Türkçe - discord.gg/TLL",
+    "name": "Turks Let Loose #2 - LVL 50+ English Only - discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -2139,7 +2141,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768759862
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
@@ -2207,7 +2210,7 @@
     "port": 7777
   },
   {
-    "name": "testovich",
+    "name": "HILF - UA/ENG - Europe - Ukrainian - Community Server",
     "addr": "95.135.1.6",
     "port": 7777
   },
