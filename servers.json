@@ -332,12 +332,6 @@
     "port": 9075
   },
   {
-    "name": "&quot;We Need an Airhead&quot;",
-    "addr": "160.202.167.11",
-    "port": 8888,
-    "removed": 1768241551
-  },
-  {
     "name": "CN//CCG柴郡猫猫近卫军 QQ群885187716//US WEST",
     "addr": "162.220.9.82",
     "port": 8530,
@@ -689,7 +683,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1768847395
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1987,12 +1982,6 @@
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
     "port": 28100
-  },
-  {
-    "name": "[FR] La Guerre Des Boutons",
-    "addr": "83.223.203.138",
-    "port": 28000,
-    "removed": 1768241551
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
