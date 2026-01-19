@@ -275,14 +275,12 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1768807025
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1768807025
+    "port": 7827
   },
   {
     "name": "[ESP] Black Bees - Event Server",
@@ -503,12 +501,6 @@
     "name": "CZ/SK",
     "addr": "176.57.168.91",
     "port": 28000
-  },
-  {
-    "name": "NEW PLAYER FRIENDLY | EMPIRE OF THUNDER | ENG/GER",
-    "addr": "176.57.168.91",
-    "port": 28100,
-    "removed": 1768220141
   },
   {
     "name": "HLL Official - Europe #04",
@@ -1110,12 +1102,6 @@
     "port": 7777
   },
   {
-    "name": "㋑ | Born To Kill - discord.gg/b2kgaming",
-    "addr": "208.115.212.78",
-    "port": 7787,
-    "removed": 1768220141
-  },
-  {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
     "addr": "208.115.214.218",
     "port": 7787
@@ -1273,7 +1259,8 @@
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
     "addr": "209.192.185.171",
-    "port": 7827
+    "port": 7827,
+    "removed": 1768824987
   },
   {
     "name": "Estonian Partisans | EST/ENG | WARFARE",
@@ -1441,7 +1428,8 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "40.27.41.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768824987
   },
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
@@ -1547,7 +1535,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1768824987
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
