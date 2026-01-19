@@ -561,7 +561,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768803404
   },
   {
     "name": "Borry‘s Playground",
@@ -776,6 +777,11 @@
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "192.169.86.108",
+    "port": 7787
+  },
+  {
+    "name": "Pathfinders | 24/7 SMDM SME",
+    "addr": "192.169.86.109",
     "port": 7787
   },
   {
@@ -1281,7 +1287,8 @@
   {
     "name": "Pathfinders | 24/7 SMDM SME",
     "addr": "216.144.245.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768803404
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
