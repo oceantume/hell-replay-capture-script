@@ -484,7 +484,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1768911392
   },
   {
     "name": "HLL Official - Europe #02",
@@ -970,12 +971,6 @@
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
-  },
-  {
-    "name": "[GER] [LwJg46] Bierstube",
-    "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1768306555
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1503,13 +1498,13 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1768911392
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1768824987
+    "port": 28700
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
