@@ -42,8 +42,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1768914323
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -506,8 +505,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1768889696
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -844,7 +842,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1045,7 +1043,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1080,7 +1078,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1170,7 +1168,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1248,15 +1246,15 @@
     "port": 8530
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "STONEY'S TEST SERVER",
     "addr": "216.245.210.196",
-    "port": 7777,
-    "removed": 1768826210
+    "port": 7777
   },
   {
     "name": "Venom's Test Server",
     "addr": "216.245.210.197",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768932867
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1387,8 +1385,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1768914323
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1542,7 +1539,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1768932867
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1694,8 +1692,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1768914323
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - LVL 50+ English Only - discord.gg/TLL",
@@ -1796,8 +1793,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1768914323
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1939,7 +1935,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1768932867
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1949,8 +1946,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1768846339
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1970,7 +1966,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1768932867
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1990,8 +1987,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1768914323
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
