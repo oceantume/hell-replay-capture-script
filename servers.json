@@ -281,24 +281,6 @@
     "port": 7787
   },
   {
-    "name": "ZG／JP GR&DB&BW Team Community Server QQ：1002516589",
-    "addr": "154.45.251.74",
-    "port": 7777,
-    "removed": 1768284800
-  },
-  {
-    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
-    "addr": "154.45.251.75",
-    "port": 7777,
-    "removed": 1768284800
-  },
-  {
-    "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
-    "addr": "154.45.251.76",
-    "port": 7777,
-    "removed": 1768284800
-  },
-  {
     "name": "Turks Let Loose #1 - Sadece Türkçe - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -359,8 +341,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1768716716
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -487,7 +468,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768889696
   },
   {
     "name": "DevQA - EU #02",
@@ -522,7 +504,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1768889696
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -537,8 +520,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1768803404
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -600,8 +582,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1768716716
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -843,8 +824,7 @@
   {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
-    "port": 9620,
-    "removed": 1768630300
+    "port": 9620
   },
   {
     "name": "=7Cav= HLL Training Server 2",
@@ -1278,6 +1258,11 @@
     "removed": 1768826210
   },
   {
+    "name": "Venom's Test Server",
+    "addr": "216.245.210.197",
+    "port": 7777
+  },
+  {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
@@ -1563,8 +1548,7 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.38.89.130",
-    "port": 7777,
-    "removed": 1768738418
+    "port": 7777
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1654,7 +1638,8 @@
   {
     "name": "Radical Gaming Network -Miami- #2 | discord.gg/RadicalGaming",
     "addr": "64.20.50.186",
-    "port": 10165
+    "port": 10165,
+    "removed": 1768889696
   },
   {
     "name": "D.C. I DELTA CORPS - ENTRENAMIENTOS",
@@ -1664,7 +1649,8 @@
   {
     "name": "Radical Gaming Network -Miami- #1 | discord.gg/RadicalGaming",
     "addr": "64.20.50.186",
-    "port": 9620
+    "port": 9620,
+    "removed": 1768889696
   },
   {
     "name": "=7Cav= HLL Training Server 1",
@@ -1773,6 +1759,16 @@
     "port": 7777
   },
   {
+    "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "64.31.40.203",
+    "port": 7777
+  },
+  {
+    "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "64.31.40.204",
+    "port": 7777
+  },
+  {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
     "port": 7777
@@ -1791,6 +1787,11 @@
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
+  },
+  {
+    "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "64.31.6.92",
+    "port": 7787
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1835,7 +1836,8 @@
   {
     "name": "Radical Gaming Network -Los Angeles- | discord.gg/RadicalGaming",
     "addr": "67.211.208.154",
-    "port": 8530
+    "port": 8530,
+    "removed": 1768889696
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
@@ -2088,12 +2090,6 @@
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.89",
     "port": 28700
-  },
-  {
-    "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
-    "addr": "92.38.151.92",
-    "port": 29600,
-    "removed": 1768284800
   },
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
