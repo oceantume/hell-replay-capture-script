@@ -984,12 +984,6 @@
     "port": 7787
   },
   {
-    "name": "[GER] [404] skill not found | Mic Only | discord.gg/404-hll",
-    "addr": "208.115.206.198",
-    "port": 7777,
-    "removed": 1768392922
-  },
-  {
     "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
     "addr": "208.115.206.34",
     "port": 7777
@@ -1477,12 +1471,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1768997793
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768997793
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1583,7 +1579,7 @@
     "port": 10165
   },
   {
-    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
+    "name": "VLK #2 | 2x45min | CZ/SK/ENG",
     "addr": "51.89.42.34",
     "port": 10710
   },
@@ -1595,8 +1591,7 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720,
-    "removed": 1768979631
+    "port": 9720
   },
   {
     "name": "Moon",
