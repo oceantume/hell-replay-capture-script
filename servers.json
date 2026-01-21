@@ -42,8 +42,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1769000721
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -1402,14 +1401,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1769000721
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1769000721
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1732,8 +1729,7 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1769000721
+    "port": 7777
   },
   {
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1793,8 +1789,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1769000721
+    "port": 7797
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1931,13 +1926,13 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769019605
   },
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1768932867
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1967,13 +1962,13 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1768932867
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769019605
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -1988,8 +1983,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1769000721
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2104,7 +2098,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769019605
   },
   {
     "name": "HLL Official - Australia #01",
