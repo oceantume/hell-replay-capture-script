@@ -42,7 +42,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769000721
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -921,8 +922,7 @@
   {
     "name": "nitrado.net gameserver CVEZZCJW",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1768999021
+    "port": 20700
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1402,12 +1402,14 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769000721
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769000721
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1730,7 +1732,8 @@
   {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769000721
   },
   {
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
@@ -1790,7 +1793,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1769000721
   },
   {
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
@@ -1984,7 +1988,8 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700
+    "port": 28700,
+    "removed": 1769000721
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
