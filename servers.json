@@ -93,7 +93,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1768976094
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -310,8 +311,7 @@
   {
     "name": "West Coast Rumble",
     "addr": "172.240.229.155",
-    "port": 7777,
-    "removed": 1768957886
+    "port": 7777
   },
   {
     "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
@@ -469,8 +469,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1768889696
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -491,7 +490,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1768976094
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -583,7 +583,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1768976094
   },
   {
     "name": "QA Testing - EU #05",
@@ -1249,10 +1250,11 @@
   {
     "name": "STONEY'S TEST SERVER",
     "addr": "216.245.210.196",
-    "port": 7777
+    "port": 7777,
+    "removed": 1768976094
   },
   {
-    "name": "The Digital Tavern | New Players Welcome |",
+    "name": "TDT Test",
     "addr": "216.245.210.197",
     "port": 7777
   },
