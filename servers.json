@@ -363,12 +363,6 @@
     "port": 28200
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.153.114",
-    "port": 28300,
-    "removed": 1768500950
-  },
-  {
     "name": "Hell let loose Anfänger feuer frei (bin neu)",
     "addr": "176.57.168.194",
     "port": 28100
@@ -1104,7 +1098,7 @@
     "port": 7787
   },
   {
-    "name": "Pathfinders | Frankfurt | LVL 25+ | Discord.gg/pathfinders-hll",
+    "name": "Pathfinders | Frankfurt | LVL 25+ | ENG | Discord.gg/pathfinder",
     "addr": "208.115.226.5",
     "port": 7787
   },
@@ -1987,6 +1981,11 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
+    "port": 8530
+  },
+  {
+    "name": "Kaffee im Schützengraben - GER -",
+    "addr": "88.211.219.18",
     "port": 8530
   },
   {
