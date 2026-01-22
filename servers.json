@@ -50,7 +50,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] | LA HOGUERA | CLAN AESIR RECLUTANDO!",
+    "name": "[LATAM/ESP] | LA HOGUERA |",
     "addr": "108.165.230.224",
     "port": 7797
   },
@@ -632,6 +632,11 @@
     "port": 7807
   },
   {
+    "name": "RONIN - Se vienen cositas...",
+    "addr": "181.214.221.212",
+    "port": 7817
+  },
+  {
     "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
     "addr": "181.214.221.212",
     "port": 7827
@@ -926,8 +931,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1769022083
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -2060,6 +2064,11 @@
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
     "port": 7797
+  },
+  {
+    "name": "[NEW] The Dawg House :: NEW PLAYERS WELCOME :: US East",
+    "addr": "92.118.18.90",
+    "port": 7787
   },
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
