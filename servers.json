@@ -77,7 +77,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769062447
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -231,12 +232,6 @@
     "port": 7777
   },
   {
-    "name": "79th ID | Level 50+| Sweaty Lobbies | discord.gg/79th",
-    "addr": "15.204.170.68",
-    "port": 7777,
-    "removed": 1768457603
-  },
-  {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
     "port": 7777
@@ -357,7 +352,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1769062447
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -490,8 +486,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1768976094
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -583,8 +578,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1768976094
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -723,12 +717,6 @@
     "port": 8530
   },
   {
-    "name": "CN/EU 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
-    "addr": "188.64.33.2",
-    "port": 9075,
-    "removed": 1768457603
-  },
-  {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
     "port": 9075
@@ -814,6 +802,11 @@
     "port": 7827
   },
   {
+    "name": "[GGW] Garries Gone Wild",
+    "addr": "192.169.92.27",
+    "port": 7787
+  },
+  {
     "name": "§ | No Mans Land | Sassy's Assault Squad | .gg/hostile",
     "addr": "192.169.92.27",
     "port": 7797
@@ -896,7 +889,8 @@
   {
     "name": "Hell let loose (US West) big mikes",
     "addr": "193.192.58.206",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769062447
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1546,8 +1540,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1768932867
+    "port": 9620
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -2067,7 +2060,7 @@
     "port": 7797
   },
   {
-    "name": "[NEW] The Dawg House :: NEW PLAYERS WELCOME :: US East",
+    "name": "[NEW] The Dawg House | US East | New Players Welcome | dsc.gg/d",
     "addr": "92.118.18.90",
     "port": 7787
   },
