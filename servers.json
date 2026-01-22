@@ -42,8 +42,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1769087165
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
@@ -95,8 +94,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1768976094
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -134,7 +132,7 @@
     "port": 9620
   },
   {
-    "name": "[GER] |CKO| Chaoskommando MIC-Pflicht German",
+    "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
   },
@@ -721,7 +719,8 @@
   {
     "name": "Pathfinders | 24/7 SMDM SME",
     "addr": "192.169.86.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769105512
   },
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
@@ -1105,6 +1104,11 @@
     "port": 7787
   },
   {
+    "name": "Pathfinders | Frankfurt | LVL 25+ | Discord.gg/pathfinders-hll",
+    "addr": "208.115.226.5",
+    "port": 7787
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
     "port": 7777
@@ -1363,8 +1367,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1769087165
+    "port": 7777
   },
   {
     "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
@@ -1908,8 +1911,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1769019605
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #08",
@@ -1924,7 +1926,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769105512
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1949,8 +1952,7 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100,
-    "removed": 1769019605
+    "port": 28100
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -1965,8 +1967,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1769087165
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2086,13 +2087,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1769019605
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769105512
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
