@@ -282,12 +282,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "156.67.62.97",
-    "port": 7777,
-    "removed": 1768479319
-  },
-  {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
@@ -307,12 +301,6 @@
     "name": "West Coast Rumble",
     "addr": "172.240.229.155",
     "port": 7777
-  },
-  {
-    "name": "2nd Armored | OFFENSIVE ONLY | discord.gg/2ad",
-    "addr": "172.93.97.74",
-    "port": 8530,
-    "removed": 1768479319
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -480,8 +468,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600,
-    "removed": 1768911392
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1210,7 +1197,8 @@
   {
     "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
     "addr": "209.192.185.171",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769084213
   },
   {
     "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
@@ -1493,8 +1481,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1768911392
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1855,12 +1842,6 @@
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
     "addr": "67.217.48.14",
     "port": 9075
-  },
-  {
-    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS E TREINOS",
-    "addr": "67.217.48.14",
-    "port": 9620,
-    "removed": 1768479319
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
