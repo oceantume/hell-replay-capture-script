@@ -137,7 +137,7 @@
     "port": 12345
   },
   {
-    "name": "[ GER ] TRÜMMERTRUPPE #DTT | Mic Only | German",
+    "name": "[ GER ] TRÜMMERTRUPPE #TЯÜM | Mic Only | German",
     "addr": "141.95.33.70",
     "port": 8530
   },
@@ -307,7 +307,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769171790
   },
   {
     "name": "HLL Official - Europe #01",
