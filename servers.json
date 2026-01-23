@@ -82,8 +82,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1769148810
+    "port": 8982
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -94,7 +93,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1769170569
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -147,12 +147,6 @@
     "port": 9075
   },
   {
-    "name": "[GER] Winoly and Friends | MIC PLICHT",
-    "addr": "141.95.33.70",
-    "port": 9620,
-    "removed": 1768565704
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -192,6 +186,11 @@
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "149.102.154.195",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "149.13.210.188",
+    "port": 7777
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -906,7 +905,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1769170569
   },
   {
     "name": "# 1 | ALL MAPS | Danmark & Greenland | The Danish Infantry Squa",
@@ -1373,7 +1373,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "40.27.42.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769170569
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1450,14 +1451,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1768997793
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1768997793
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1897,7 +1896,8 @@
   {
     "name": "Oktogon #2 • Offensive [ENG/GER]",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1769170569
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1982,7 +1982,7 @@
     "port": 8530
   },
   {
-    "name": "Kaffee im Schützengraben - GER -",
+    "name": "[ GER ] Kaffee im Schützengraben",
     "addr": "88.211.219.18",
     "port": 8530
   },
