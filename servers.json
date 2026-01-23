@@ -50,7 +50,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] | LA HOGUERA |",
+    "name": "[LATAM/ESP] | Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "108.165.230.224",
     "port": 7797
   },
@@ -77,13 +77,13 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1769062447
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1769148810
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突服 |Q258455568 EU节点",
@@ -287,7 +287,8 @@
   {
     "name": "West Coast Rumble",
     "addr": "172.240.229.155",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769148810
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -327,8 +328,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1769062447
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -435,7 +435,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1769148810
   },
   {
     "name": "DevQA - EU #02",
@@ -1225,7 +1226,8 @@
   {
     "name": "TDT Test",
     "addr": "216.245.210.197",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769148810
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
