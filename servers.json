@@ -93,8 +93,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1769170569
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -275,6 +274,11 @@
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
+    "addr": "157.250.201.114",
+    "port": 9075
+  },
+  {
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "157.250.201.86",
     "port": 9075,
     "removed": 1769215041
@@ -436,8 +440,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1769148810
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -457,7 +460,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1769235114
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -809,7 +813,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -1006,7 +1010,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1041,7 +1045,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1088,7 +1092,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769235114
   },
   {
     "name": "Pathfinders | Frankfurt | LVL 25+ | ENG | Discord.gg/pathfinder",
@@ -1221,10 +1226,9 @@
     "removed": 1768976094
   },
   {
-    "name": "TDT Test",
+    "name": "The Digital Tavern",
     "addr": "216.245.210.197",
-    "port": 7777,
-    "removed": 1769148810
+    "port": 7777
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
