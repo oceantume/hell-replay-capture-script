@@ -1511,7 +1511,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769323741
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
@@ -2068,12 +2069,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769323741
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1769323741
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
