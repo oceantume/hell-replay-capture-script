@@ -85,7 +85,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | HLL2 | discord.gg/FLL",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -112,7 +112,8 @@
   {
     "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
     "addr": "141.105.66.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1769301780
   },
   {
     "name": "EG event server",
@@ -437,7 +438,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1769301780
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1637,7 +1639,7 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] |Server 2| discord.gg/drafthaus",
+    "name": "The DRAFT [HAUS] | Armor Only | discord.gg/drafthaus",
     "addr": "64.31.2.220",
     "port": 7777
   },
@@ -1665,12 +1667,6 @@
     "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.29.69",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.29.70",
-    "port": 7777,
-    "removed": 1768696918
   },
   {
     "name": "『V』VANGUARDA.PRO.BR | EVENT SERVER MIAMI",
@@ -2038,7 +2034,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #3 | https://cavhll.com.br",
     "addr": "92.38.151.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1769301780
   },
   {
     "name": "[LATAM/ESP] URANIUM | LAG BAJO, HABILIDAD TAMBIÉN | +35LVL | G",
