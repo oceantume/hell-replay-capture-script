@@ -85,7 +85,7 @@
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | HLL2 | discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -322,12 +322,6 @@
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
     "port": 28400
-  },
-  {
-    "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
-    "addr": "176.57.140.181",
-    "port": 30600,
-    "removed": 1768759862
   },
   {
     "name": "Warfrags Studios",
@@ -1393,7 +1387,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1769364672
   },
   {
     "name": "HLL Official - US West #03",
@@ -1898,8 +1893,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1769278273
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
