@@ -87,7 +87,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1769408160
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -229,7 +230,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769408160
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -311,7 +313,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769408160
   },
   {
     "name": "HLL Official - Europe #05",
@@ -467,7 +470,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769408160
   },
   {
     "name": "Borry‘s Playground",
@@ -1174,6 +1178,11 @@
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
     "port": 8530
+  },
+  {
+    "name": "[L9] The Loyal Nine | #2 | L9Clan.com/discord",
+    "addr": "216.245.210.194",
+    "port": 7777
   },
   {
     "name": "STONEY'S TEST SERVER",
