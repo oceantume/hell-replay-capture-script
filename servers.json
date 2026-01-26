@@ -164,7 +164,8 @@
   {
     "name": "[FR] 2eBCP \\_/ 2e Bataillon de Commandos Parachutistes \\_/",
     "addr": "145.239.253.127",
-    "port": 8772
+    "port": 8772,
+    "removed": 1769429795
   },
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/cfr",
@@ -230,8 +231,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1769408160
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -803,7 +803,8 @@
   {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769429795
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -1158,12 +1159,6 @@
     "removed": 1769084213
   },
   {
-    "name": "『V』WWW.VANGUARDA.PRO.BR | Event Server",
-    "addr": "209.192.185.171",
-    "port": 7827,
-    "removed": 1768824987
-  },
-  {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
     "addr": "212.237.216.54",
     "port": 7807
@@ -1295,7 +1290,7 @@
     "port": 7827
   },
   {
-    "name": "CN／JP GR&DB&BW Team Community Server QQ：1002516589",
+    "name": "CN／JP GR&DB&BW战队高质量萌新乐园 QQ：1002516589",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1419,7 +1414,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1769429795
   },
   {
     "name": "HLL Official - US East #03",
@@ -1429,8 +1425,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1769256809
+    "port": 28700
   },
   {
     "name": "[CI] Corrupted Infantry | ENG | Strict Teamplay | discord.gg/ci",
@@ -1450,7 +1445,8 @@
   {
     "name": "hllc Server",
     "addr": "45.151.81.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769429795
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
