@@ -938,7 +938,7 @@
     "port": 7787
   },
   {
-    "name": "Development",
+    "name": "[13SNC] Eastern Inferno (Season 1)",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1145,6 +1145,11 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
+    "port": 7777
+  },
+  {
+    "name": "hllv Server",
+    "addr": "208.115.255.51",
     "port": 7777
   },
   {
@@ -1443,6 +1448,11 @@
     "port": 9620
   },
   {
+    "name": "hllv Server",
+    "addr": "45.151.81.210",
+    "port": 7777
+  },
+  {
     "name": "hllc Server",
     "addr": "45.151.81.211",
     "port": 7777,
@@ -1656,6 +1666,11 @@
     "port": 7777
   },
   {
+    "name": "hllv Server",
+    "addr": "64.31.31.123",
+    "port": 7787
+  },
+  {
     "name": "Ronin EVENTS / Miameeee Hosted Server",
     "addr": "64.31.31.124",
     "port": 7777
@@ -1795,6 +1810,11 @@
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
     "addr": "69.162.102.53",
     "port": 7787
+  },
+  {
+    "name": "hllv Server",
+    "addr": "74.63.203.26",
+    "port": 7777
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
