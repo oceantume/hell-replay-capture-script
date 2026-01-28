@@ -142,7 +142,7 @@
     "port": 9075
   },
   {
-    "name": "SiRg-portal.com",
+    "name": "Silent Rangers having fun",
     "addr": "144.126.153.213",
     "port": 28300
   },
@@ -536,7 +536,7 @@
     "port": 28200
   },
   {
-    "name": "[GER] Taktisches Totalversagen [TTV] am Bollwerk | Mic Only",
+    "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
     "addr": "176.57.181.105",
     "port": 28200
   },
@@ -1353,6 +1353,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "40.27.45.12",
+    "port": 7777
+  },
+  {
     "name": "♤ DALE LET LOOSE :: US Central :: Warfare / Offensive ONLY!",
     "addr": "45.137.244.9",
     "port": 28100
@@ -1381,7 +1386,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1769624128
   },
   {
     "name": "HLL Official - US West #01",
@@ -1796,8 +1802,7 @@
   {
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
     "addr": "69.162.102.53",
-    "port": 7787,
-    "removed": 1769602620
+    "port": 7787
   },
   {
     "name": "hllv Server",
@@ -1879,8 +1884,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1769537721
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1915,8 +1919,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1769605569
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2055,8 +2058,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1769278273
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
