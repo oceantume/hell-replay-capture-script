@@ -78,8 +78,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1769494435
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -237,7 +236,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769580883
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -309,8 +309,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1769494435
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -325,8 +324,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1769494435
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -457,7 +455,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769580883
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -528,7 +527,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1769580883
   },
   {
     "name": "QA Testing - EU #05",
@@ -593,7 +593,8 @@
   {
     "name": "360 Boot Camp Server | Eventos ③⑥⓪",
     "addr": "181.214.221.41",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769580883
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
@@ -1939,7 +1940,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1769580883
   },
   {
     "name": "[GER] Kaffee im Schützengraben | Keine Mic Pflicht!",
