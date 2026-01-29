@@ -655,7 +655,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1769710779
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -686,12 +687,6 @@
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "192.169.86.108",
     "port": 7787
-  },
-  {
-    "name": "Pathfinders | 24/7 SMDM SME",
-    "addr": "192.169.86.109",
-    "port": 7787,
-    "removed": 1769105512
   },
   {
     "name": "[13SNC] #3 - Dírty's Rejects [US] - Discord.gg/13snc",
@@ -729,7 +724,7 @@
     "port": 7817
   },
   {
-    "name": "①︱THE CIRCLE #1︱WARFARE︱60 MIN GAMES︱DISCORD.GG/THE-C",
+    "name": "①︱THE CIRCLE #1︱MIXED︱DISCORD.GG/THE-CIRCLE",
     "addr": "192.169.90.203",
     "port": 7827
   },
@@ -795,7 +790,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -858,6 +853,11 @@
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
+  },
+  {
+    "name": "nitrado.net gameserver _3V9iwKM",
+    "addr": "195.82.158.186",
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -985,7 +985,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1020,7 +1020,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1116,7 +1116,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1164,6 +1164,11 @@
   {
     "name": "Sassy's Assault | § eTool | .gg/hostile + etool",
     "addr": "208.115.255.53",
+    "port": 7777
+  },
+  {
+    "name": "★≡ Liberty & Lead ★≡ Warfare ★≡ NEW",
+    "addr": "209.192.185.171",
     "port": 7777
   },
   {
@@ -1347,7 +1352,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "△ The Motor Pool #1 | New Player Friendly",
     "addr": "40.27.45.12",
     "port": 7777
   },
@@ -1375,8 +1380,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1769624128
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1602,7 +1606,7 @@
     "port": 7777
   },
   {
-    "name": "△ The Motor Pool #1 | New Player Friendly",
+    "name": "TMP #1 has MOVED! Refavorite us!",
     "addr": "64.31.2.218",
     "port": 7777
   },
@@ -1864,7 +1868,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769710779
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1874,7 +1879,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769710779
   },
   {
     "name": "HLL Official - Asia #06",
