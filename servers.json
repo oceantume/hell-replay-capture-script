@@ -347,6 +347,11 @@
     "port": 28200
   },
   {
+    "name": "Bootylicious bums (Warfare only)",
+    "addr": "176.57.165.122",
+    "port": 35800
+  },
+  {
     "name": "Hell let loose Anfänger feuer frei (bin neu)",
     "addr": "176.57.168.194",
     "port": 28100,
@@ -435,7 +440,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1769647421
   },
   {
     "name": "DevQA - EU #01",
@@ -533,7 +539,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769647421
   },
   {
     "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
@@ -1381,7 +1388,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769647421
   },
   {
     "name": "HLL Official - US West #02",
@@ -1402,7 +1410,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769647421
   },
   {
     "name": "HLL Official - US East #04",
@@ -1894,7 +1903,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769647421
   },
   {
     "name": "HLL Official - Asia #04",
