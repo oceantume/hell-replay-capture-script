@@ -1167,12 +1167,6 @@
     "port": 7777
   },
   {
-    "name": "SEPTIMO DE LINEA [7°DL] ACADEMIA DE GUERRA",
-    "addr": "209.192.185.171",
-    "port": 7777,
-    "removed": 1769084213
-  },
-  {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
     "addr": "212.237.216.54",
     "port": 7807
@@ -1397,7 +1391,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769689190
   },
   {
     "name": "HLL Official - US East #04",
@@ -1777,8 +1772,7 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "67.217.48.14",
-    "port": 8530,
-    "removed": 1769670531
+    "port": 8530
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
