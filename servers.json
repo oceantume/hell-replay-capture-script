@@ -440,8 +440,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1769647421
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -1370,12 +1369,6 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (US Mid) Server by g-portal.com",
-    "addr": "45.137.244.9",
-    "port": 28700,
-    "removed": 1769044264
-  },
-  {
     "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
     "port": 28800
@@ -1410,8 +1403,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1769647421
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
