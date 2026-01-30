@@ -315,7 +315,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769775563
   },
   {
     "name": "HLL Official - Europe #03",
@@ -644,7 +645,8 @@
   {
     "name": "EX YU Balkan Express",
     "addr": "185.83.152.101",
-    "port": 10165
+    "port": 10165,
+    "removed": 1769775563
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -780,12 +782,14 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769775563
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769775563
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -800,7 +804,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.141",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769775563
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -1368,8 +1373,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1769647421
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1400,7 +1404,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1769775563
   },
   {
     "name": "HLL Official - US East #02",
@@ -1844,12 +1849,6 @@
     "port": 9075
   },
   {
-    "name": "Oktogon #2 • Offensive [ENG/GER]",
-    "addr": "78.46.101.16",
-    "port": 9620,
-    "removed": 1769170569
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -2033,7 +2032,8 @@
   {
     "name": "[LATAM] Hagamos Garris -RONIN- discord.gg/clan-ronin",
     "addr": "92.38.151.92",
-    "port": 29800
+    "port": 29800,
+    "removed": 1769775563
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
