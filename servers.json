@@ -262,6 +262,11 @@
     "port": 7787
   },
   {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
+    "addr": "154.45.251.74",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose #1 - Sadece Türkçe - discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -281,12 +286,6 @@
     "addr": "157.250.201.86",
     "port": 9075,
     "removed": 1769215041
-  },
-  {
-    "name": "West Coast Rumble",
-    "addr": "172.240.229.155",
-    "port": 7777,
-    "removed": 1769148810
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -446,7 +445,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1769754212
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -577,7 +577,7 @@
     "port": 7807
   },
   {
-    "name": "RONIN - Se vienen cositas...",
+    "name": "[LATAM] Hagamos Garris - Ronin Reclutando",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -1278,7 +1278,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1769754212
   },
   {
     "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
@@ -1657,7 +1658,7 @@
     "removed": 1769451233
   },
   {
-    "name": "Ronin EVENTS / Miameeee Hosted Server",
+    "name": "Ronin Eventos Miame",
     "addr": "64.31.31.124",
     "port": 7777
   },
