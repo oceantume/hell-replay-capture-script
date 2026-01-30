@@ -93,6 +93,11 @@
     "port": 9224
   },
   {
+    "name": "Crows prep server",
+    "addr": "139.28.16.34",
+    "port": 7777
+  },
+  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -475,12 +480,6 @@
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
-  },
-  {
-    "name": "[GER] 1. Fallschirmjäger-Division Server 2",
-    "addr": "176.57.171.176",
-    "port": 28300,
-    "removed": 1769191957
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -1375,7 +1374,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1769797065
   },
   {
     "name": "HLL Official - US West #03",
@@ -1853,8 +1853,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1769710779
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1864,8 +1863,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1769710779
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2035,7 +2033,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769797065
   },
   {
     "name": "HLL Official - Australia #01",
