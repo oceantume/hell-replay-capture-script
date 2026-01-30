@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1769713449
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -13,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1769713449
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -351,15 +349,9 @@
     "port": 28200
   },
   {
-    "name": "Bootylicious bums (Warfare only)",
+    "name": "Bootylicious Bums (Warfare only, 2 hour time limit)",
     "addr": "176.57.165.122",
     "port": 35800
-  },
-  {
-    "name": "Hell let loose Anfänger feuer frei (bin neu)",
-    "addr": "176.57.168.194",
-    "port": 28100,
-    "removed": 1769128723
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -510,7 +502,8 @@
   {
     "name": "Game iets | English & Dutch | All welcome!",
     "addr": "176.57.171.38",
-    "port": 28300
+    "port": 28300,
+    "removed": 1769733845
   },
   {
     "name": "Testify",
@@ -657,8 +650,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1769710779
+    "port": 7807
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -1778,8 +1770,7 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "67.217.48.14",
-    "port": 8530,
-    "removed": 1769713449
+    "port": 8530
   },
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
@@ -1893,8 +1884,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1769647421
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
