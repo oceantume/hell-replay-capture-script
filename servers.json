@@ -79,8 +79,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1769667785
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -437,8 +436,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1769754212
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -448,7 +446,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769840227
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -691,8 +690,7 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1769822138
+    "port": 8530
   },
   {
     "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
@@ -1760,7 +1758,7 @@
     "port": 11255
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "67.217.48.14",
     "port": 8530
   },
