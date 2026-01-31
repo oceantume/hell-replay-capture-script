@@ -386,7 +386,8 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1769883118
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -452,8 +453,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1769861697
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -1368,8 +1368,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1769797065
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1612,7 +1611,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #2 - LVL 50+ English Only - discord.gg/TLL",
+    "name": "Turks Let Loose #2 - TLL vs BZ - Dostluk Maçı",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1624,8 +1623,7 @@
   {
     "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.29.69",
-    "port": 7777,
-    "removed": 1769864512
+    "port": 7777
   },
   {
     "name": "『V』VANGUARDA.PRO.BR | EVENT SERVER MIAMI",
@@ -2029,13 +2027,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1769797065
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1769883118
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
