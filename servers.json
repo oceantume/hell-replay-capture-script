@@ -452,7 +452,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1769861697
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -948,7 +949,8 @@
   {
     "name": "[NewA] | New Players Welcome | discord.gg/newa",
     "addr": "208.115.206.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1769861697
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
@@ -1388,13 +1390,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1769775563
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1769861697
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1764,7 +1766,8 @@
   {
     "name": "[1ST MRB] 1st Marine Raider Battalion | Event Server",
     "addr": "67.217.48.14",
-    "port": 9075
+    "port": 9075,
+    "removed": 1769861697
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
