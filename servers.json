@@ -386,8 +386,7 @@
   {
     "name": "Krieg - CZ/SK/EU - The Emperor's Will",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1769883118
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1985,7 +1984,8 @@
   {
     "name": "Hell Let Loose Server",
     "addr": "92.118.19.140",
-    "port": 7787
+    "port": 7787,
+    "removed": 1769884164
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
