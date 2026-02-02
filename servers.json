@@ -168,12 +168,6 @@
     "port": 29000
   },
   {
-    "name": "[FR] 2eBCP \\_/ 2e Bataillon de Commandos Parachutistes \\_/",
-    "addr": "145.239.253.127",
-    "port": 8772,
-    "removed": 1769429795
-  },
-  {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
     "addr": "145.239.253.127",
     "port": 9014
@@ -231,8 +225,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1770013971
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -683,7 +676,8 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770034827
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1329,7 +1323,8 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770034827
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
@@ -1380,8 +1375,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1769689190
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1913,8 +1907,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1769580883
+    "port": 8530
   },
   {
     "name": "{serverName}",
@@ -2071,8 +2064,7 @@
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1770015636
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM",
