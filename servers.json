@@ -73,8 +73,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1770013971
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -89,7 +88,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1770099914
   },
   {
     "name": "Crows prep server",
@@ -230,22 +230,26 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1770099914
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1770099914
   },
   {
     "name": "[ESP] Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770099914
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770099914
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
@@ -345,7 +349,8 @@
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.251",
-    "port": 28400
+    "port": 28400,
+    "removed": 1770099914
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -436,8 +441,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1770013971
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -457,8 +461,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1770013971
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -494,8 +497,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1770013971
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -825,7 +827,8 @@
   {
     "name": "Autism Let Loose (US East) Pure Autism, Pure Hatred, Unbridled ",
     "addr": "194.140.198.168",
-    "port": 29100
+    "port": 29100,
+    "removed": 1770099914
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
