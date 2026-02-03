@@ -46,7 +46,7 @@
     "port": 28300
   },
   {
-    "name": "[LATAM] Asado, Vino y Latencia God | LVL +30",
+    "name": "[LATAM] Asado, Vino y Latencia God | LVL +30 [CLAN 7DL]",
     "addr": "108.165.230.224",
     "port": 7787
   },
@@ -88,8 +88,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1770099914
+    "port": 9224
   },
   {
     "name": "Crows prep server",
@@ -502,7 +501,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - UK #02",
@@ -758,7 +758,7 @@
     "removed": 1769775563
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -960,7 +960,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -995,7 +995,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1085,7 +1085,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1339,12 +1339,14 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - US West #01",
@@ -1359,7 +1361,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - US East #04",
@@ -1410,12 +1413,6 @@
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
     "port": 9620
-  },
-  {
-    "name": "[13SNC] Eastern Inferno (Season 1)",
-    "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1769537721
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1578,7 +1575,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #2 - 50+ LVL English Only - discord.gg/TLL",
+    "name": "Turks Let Loose #2 - 50+ LVL EN/TR - discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1791,12 +1788,14 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1806,7 +1805,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1963,12 +1963,14 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1770143160
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770143160
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
