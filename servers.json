@@ -147,6 +147,11 @@
     "port": 9075
   },
   {
+    "name": "Testify",
+    "addr": "144.126.153.213",
+    "port": 28000
+  },
+  {
     "name": "Silent Rangers having fun",
     "addr": "144.126.153.213",
     "port": 28300,
@@ -230,26 +235,22 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1770099914
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1770099914
+    "port": 7827
   },
   {
     "name": "[ESP] Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777,
-    "removed": 1770099914
+    "port": 7777
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1770099914
+    "port": 7787
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
@@ -726,12 +727,6 @@
     "port": 7787
   },
   {
-    "name": "§ | No Mans Land | Sassy's Assault Squad | .gg/hostile",
-    "addr": "192.169.92.27",
-    "port": 7797,
-    "removed": 1769516171
-  },
-  {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
     "port": 7877
@@ -842,7 +837,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1770121235
   },
   {
     "name": "nitrado.net gameserver CVEZZCJW",
@@ -1286,7 +1282,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Soviet Maps Heaven | US Central #1 Dallas | discord.gg/ico",
+    "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
     "addr": "40.27.41.3",
     "port": 7777
   },
@@ -1573,12 +1569,6 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] | Armor Only | discord.gg/drafthaus",
-    "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1769516171
-  },
-  {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
@@ -1687,12 +1677,6 @@
     "name": "[Merc] US West | Offensive | Discord.gg/m3rc",
     "addr": "64.31.6.93",
     "port": 7777
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "64.31.60.82",
-    "port": 8530,
-    "removed": 1769516171
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
