@@ -594,12 +594,6 @@
     "port": 7797
   },
   {
-    "name": "[FR/BE] MISERE SOUS LES TROPIQUES - M.S.T | FR Only | discord.g",
-    "addr": "185.216.144.75",
-    "port": 10710,
-    "removed": 1769602620
-  },
-  {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
@@ -795,6 +789,11 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
+    "port": 7777
+  },
+  {
+    "name": "RYE TESTING GROUNDS",
+    "addr": "193.160.23.42",
     "port": 7777
   },
   {
@@ -1333,8 +1332,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1770143160
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1355,8 +1353,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1770143160
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1906,12 +1903,6 @@
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
     "port": 7797
-  },
-  {
-    "name": "[NEW] The Dawg House | US East | New Players Welcome | dsc.gg/d",
-    "addr": "92.118.18.90",
-    "port": 7787,
-    "removed": 1769602620
   },
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
