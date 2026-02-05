@@ -224,8 +224,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1770297375
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -575,7 +574,7 @@
     "port": 7797
   },
   {
-    "name": "7DL - SEPTIMO DE LINEA [ACADEMIA DE GUERRA]",
+    "name": "[CLAN 7DL] ACADEMIA DE GUERRA Y EVENTOS",
     "addr": "181.214.221.41",
     "port": 7807
   },
@@ -747,7 +746,7 @@
     "removed": 1769775563
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -954,7 +953,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -989,7 +988,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1079,7 +1078,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1348,7 +1347,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1770315895
   },
   {
     "name": "QA Testing - US East #09",
@@ -1631,7 +1631,7 @@
     "port": 7777
   },
   {
-    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - Miami - div33.e",
+    "name": "#4 [ESP/LATAM] - DIV33 Oficial - Español / Spanish - Miami",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -1799,7 +1799,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770315895
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1814,7 +1815,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770315895
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1955,8 +1957,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1770143160
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
