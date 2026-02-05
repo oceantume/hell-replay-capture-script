@@ -360,8 +360,7 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000,
-    "removed": 1770079598
+    "port": 28000
   },
   {
     "name": "[AT/GER] - [HB] Heurigen-Bataillon Österreich - Stammtisch",
@@ -1632,7 +1631,7 @@
     "port": 7777
   },
   {
-    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - Miami - www.div",
+    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - Miami - div33.e",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -1647,7 +1646,7 @@
     "port": 7777
   },
   {
-    "name": "=ROTN= OnlyToes discord.gg/rangersofthenorth",
+    "name": "Baddies of The North Comp Grounds",
     "addr": "64.31.59.77",
     "port": 7787
   },
