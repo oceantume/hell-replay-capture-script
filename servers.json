@@ -237,7 +237,7 @@
     "port": 7827
   },
   {
-    "name": "[ESP] Black Bees - Event Server",
+    "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
     "port": 7777
   },
@@ -831,7 +831,7 @@
     "port": 9620
   },
   {
-    "name": "# 1 | FRONTLINE | Danmark | The Danish Infantry Squad",
+    "name": "# 1 | HLL-FRONTLINE.DK | Danmark | The Danish Infantry Squad",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1106,6 +1106,11 @@
     "port": 7777
   },
   {
+    "name": "[2/5 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
+    "addr": "209.192.185.171",
+    "port": 7807
+  },
+  {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
     "addr": "212.237.216.54",
     "port": 7807
@@ -1319,8 +1324,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1770315895
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1756,12 +1760,14 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770402155
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770402155
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1771,8 +1777,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1770315895
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1928,7 +1933,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770402155
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
