@@ -67,7 +67,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770445202
   },
   {
     "name": "HLL Official - Russia #02",
@@ -484,8 +485,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1770359174
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -496,8 +496,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1770359174
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -1106,7 +1105,7 @@
     "port": 7777
   },
   {
-    "name": "[2/5 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
+    "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
     "port": 7807
   },
