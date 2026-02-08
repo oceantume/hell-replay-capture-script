@@ -67,8 +67,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1770445202
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -109,7 +108,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165
+    "port": 10165,
+    "removed": 1770531902
   },
   {
     "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
@@ -290,7 +290,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1770531902
   },
   {
     "name": "QA Testing - EU #03",
@@ -405,7 +406,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770531902
   },
   {
     "name": "DevQA - EU #02",
@@ -455,7 +457,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770531902
   },
   {
     "name": "Borry‘s Playground",
@@ -1981,7 +1984,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
     "port": 7777
   },
