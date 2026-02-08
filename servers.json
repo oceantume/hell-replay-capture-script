@@ -1128,7 +1128,7 @@
     "port": 8530
   },
   {
-    "name": "[L9] The Loyal Nine | #2 | L9Clan.com/discord",
+    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "216.245.210.194",
     "port": 7777
   },
@@ -1270,7 +1270,8 @@
   {
     "name": "[L9] The Loyal Nine >> Please use Server #2",
     "addr": "40.27.42.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770575616
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
