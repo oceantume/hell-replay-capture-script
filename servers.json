@@ -405,8 +405,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1770531902
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -436,7 +435,8 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770618882
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -456,8 +456,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1770531902
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -498,7 +497,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770618882
   },
   {
     "name": "QA Testing - EU #05",
@@ -1115,7 +1115,8 @@
   {
     "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
-    "port": 7807
+    "port": 7807,
+    "removed": 1770618882
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
