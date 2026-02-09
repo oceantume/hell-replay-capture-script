@@ -886,7 +886,8 @@
   {
     "name": "[EU/ENG] UnityGaming | NEW PLAYER FRIENDLY | Low Ping | All Map",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770644437
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1815,8 +1816,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1770642112
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
