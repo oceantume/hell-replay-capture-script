@@ -259,8 +259,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1770620596
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -734,8 +733,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1770620596
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -745,8 +743,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1770620596
+    "port": 7777
   },
   {
     "name": "[GER] Omen Event & Match Server #2",
@@ -943,8 +940,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1770620596
+    "port": 7877
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -979,8 +975,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1770620596
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1070,8 +1065,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1770620596
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1229,7 +1223,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#3 IMP帝国社区 萌新攻防服 |Q1020812925 JP节点",
+    "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP节",
     "addr": "40.27.40.151",
     "port": 7797
   },
@@ -1276,8 +1270,7 @@
   {
     "name": "[L9] The Loyal Nine >> Please use Server #2",
     "addr": "40.27.42.10",
-    "port": 7777,
-    "removed": 1770575616
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1353,12 +1346,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1770640197
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770640197
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1398,8 +1393,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1770620596
+    "port": 8530
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
@@ -1630,8 +1624,7 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
-    "port": 7777,
-    "removed": 1770620596
+    "port": 7777
   },
   {
     "name": "Bob's playground",
@@ -1691,8 +1684,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1770620596
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -1993,7 +1985,8 @@
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770640197
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
