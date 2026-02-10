@@ -122,7 +122,7 @@
     "port": 9075
   },
   {
-    "name": "[BWR]Публичный Русский Сервер/MOSCOW/Only",
+    "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "141.105.66.70",
     "port": 9620
   },
@@ -482,12 +482,6 @@
     "port": 28000
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1770143160
-  },
-  {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
     "port": 28000
@@ -728,7 +722,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -738,7 +732,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -939,7 +933,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -974,7 +968,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1064,7 +1058,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1126,7 +1120,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN.jpPUMA做最优质的战士冲突服q746699634",
     "addr": "216.144.245.83",
     "port": 7777
   },
@@ -1792,18 +1786,19 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770748249
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1770661581
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770748249
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1818,7 +1813,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770748249
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1868,7 +1864,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770748249
   },
   {
     "name": "HLL Official - South America #01",
@@ -1963,7 +1960,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770748249
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
