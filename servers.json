@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1770642112
+    "port": 28300
   },
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30 [CLAN 7DL]",
@@ -1118,7 +1117,8 @@
   {
     "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
-    "port": 7807
+    "port": 7807,
+    "removed": 1770730648
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
@@ -1864,6 +1864,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
