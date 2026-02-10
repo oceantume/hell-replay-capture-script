@@ -68,7 +68,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770705254
   },
   {
     "name": "HLL Official - Russia #02",
@@ -284,8 +285,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1770531902
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -430,8 +430,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1770618882
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -492,8 +491,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1770618882
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -576,7 +574,7 @@
     "port": 7827
   },
   {
-    "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - https://discord.gg/XuUJj7M",
+    "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - RECRUTAMENTO (11) 91155-20",
     "addr": "181.214.48.19",
     "port": 7787
   },
@@ -653,6 +651,11 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
+    "port": 7777
+  },
+  {
+    "name": "OSCL US East #1 Powered by qonzer.com",
+    "addr": "192.169.86.213",
     "port": 7777
   },
   {
@@ -771,6 +774,11 @@
     "port": 7777
   },
   {
+    "name": "OSCL EU West #1 Powered by qonzer.com",
+    "addr": "193.160.23.42",
+    "port": 7787
+  },
+  {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
     "port": 8530
@@ -785,12 +793,6 @@
     "addr": "194.140.197.83",
     "port": 29200,
     "removed": 1770488006
-  },
-  {
-    "name": "Autism Let Loose (US East) Pure Autism, Pure Hatred, Unbridled ",
-    "addr": "194.140.198.168",
-    "port": 29100,
-    "removed": 1770099914
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -1116,7 +1118,8 @@
   {
     "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
-    "port": 7807
+    "port": 7807,
+    "removed": 1770705254
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
@@ -1169,7 +1172,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#1 FJ空降兵瓦学弟萌新进阶(纯冲突)Q:979552783",
+    "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
     "addr": "40.27.40.150",
     "port": 7777
   },
@@ -1219,7 +1222,7 @@
     "port": 7867
   },
   {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q258455568 JP节",
+    "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q258455568 JP",
     "addr": "40.27.40.151",
     "port": 7777
   },
@@ -1276,7 +1279,8 @@
   {
     "name": "[L9] The Loyal Nine >> Please use Server #2",
     "addr": "40.27.42.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770705254
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1434,7 +1438,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770705254
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
@@ -1668,6 +1673,11 @@
     "port": 7777
   },
   {
+    "name": "OSCL US West #2 Powered by qonzer.com",
+    "addr": "64.31.61.91",
+    "port": 7777
+  },
+  {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
@@ -1686,6 +1696,11 @@
     "name": "Oceanic Ocelots | US West",
     "addr": "64.31.61.93",
     "port": 7787
+  },
+  {
+    "name": "OSCL US West #1 Powered by qonzer.com",
+    "addr": "64.31.61.94",
+    "port": 7777
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1976,7 +1991,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770705254
   },
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
