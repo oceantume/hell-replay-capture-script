@@ -40,7 +40,7 @@
     "port": 28300
   },
   {
-    "name": "You're not in Kansas anymore - OZ",
+    "name": "You're Not In Kansas Anymore - OZ",
     "addr": "104.249.63.252",
     "port": 8530
   },
@@ -110,7 +110,7 @@
     "port": 10165
   },
   {
-    "name": "[FD][BWR] - FWR Русский Сервер | [RUS]",
+    "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "141.105.66.70",
     "port": 8530
   },
@@ -737,7 +737,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -747,7 +747,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -817,7 +817,8 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770834555
   },
   {
     "name": "nitrado.net gameserver _3V9iwKM",
@@ -960,7 +961,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -995,7 +996,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1091,7 +1092,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1181,8 +1182,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1770812802
+    "port": 8772
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -1329,8 +1329,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1770383721
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1375,13 +1374,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1770812802
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1770834555
   },
   {
     "name": "HLL Official - US West #03",
@@ -1433,7 +1432,8 @@
   {
     "name": "[CI] Corrupted Infantry | ENG | Strict Teamplay | discord.gg/ci",
     "addr": "45.143.199.235",
-    "port": 10165
+    "port": 10165,
+    "removed": 1770834555
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1848,6 +1848,11 @@
     "port": 9075
   },
   {
+    "name": "[CI] Corrupted Infantry | ENG | Teamwork | discord.gg/ci",
+    "addr": "78.46.101.16",
+    "port": 9620
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1860,7 +1865,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770834555
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1880,7 +1886,8 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100
+    "port": 28100,
+    "removed": 1770834555
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2095,6 +2102,21 @@
     "port": 7777
   },
   {
+    "name": "#4 EXD.gg (Test) » All Maps | Discord.exd.gg",
+    "addr": "95.135.1.27",
+    "port": 7777
+  },
+  {
+    "name": "#5 EXD.gg (Test) » New Players Welcome | Discord.exd.gg",
+    "addr": "95.135.1.28",
+    "port": 7777
+  },
+  {
+    "name": "#6 EXD.gg (Test) » Offensive Only | Discord.exd.gg",
+    "addr": "95.135.1.29",
+    "port": 7777
+  },
+  {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | GE",
     "addr": "95.135.1.4",
     "port": 7777
@@ -2107,8 +2129,7 @@
   {
     "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
     "addr": "95.135.1.6",
-    "port": 7777,
-    "removed": 1770816609
+    "port": 7777
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
