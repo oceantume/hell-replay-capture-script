@@ -40,6 +40,11 @@
     "port": 28300
   },
   {
+    "name": "You're not in Kansas anymore - OZ",
+    "addr": "104.249.63.252",
+    "port": 8530
+  },
+  {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30 [CLAN 7DL]",
     "addr": "108.165.230.224",
     "port": 7787
@@ -67,8 +72,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1770705254
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -78,7 +82,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1770791604
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -476,7 +481,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1770791604
   },
   {
     "name": "HLL Official - UK #01",
@@ -745,6 +751,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.141",
+    "port": 7787
+  },
+  {
     "name": "[GER] Omen Event & Match Server #2",
     "addr": "193.160.22.58",
     "port": 7787
@@ -767,7 +778,13 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770791604
+  },
+  {
+    "name": "Test Server",
+    "addr": "193.160.23.22",
+    "port": 7787
   },
   {
     "name": "RYE TESTING GROUNDS",
@@ -804,20 +821,17 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1770773486
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1770773486
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver CVEZZCJW",
     "addr": "195.82.158.186",
-    "port": 20700,
-    "removed": 1770773486
+    "port": 20700
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1123,8 +1137,7 @@
   {
     "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
-    "port": 7807,
-    "removed": 1770730648
+    "port": 7807
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE | New Players Welcome",
@@ -1164,7 +1177,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "37.148.133.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770791604
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
