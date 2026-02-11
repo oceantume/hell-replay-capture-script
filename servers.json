@@ -37,7 +37,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770812802
   },
   {
     "name": "You're not in Kansas anymore - OZ",
@@ -82,8 +83,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1770791604
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -250,7 +250,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "154.45.251.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770812802
   },
   {
     "name": "Turks Let Loose #1 - Sadece Türkçe - discord.gg/TLL",
@@ -305,7 +306,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1770812802
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -430,8 +432,7 @@
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200,
-    "removed": 1770771108
+    "port": 28200
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -441,7 +442,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1770812802
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -456,7 +458,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770812802
   },
   {
     "name": "Borry‘s Playground",
@@ -487,6 +490,11 @@
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
     "port": 28000
+  },
+  {
+    "name": "QA Testing - UK #07",
+    "addr": "176.57.178.141",
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -586,7 +594,8 @@
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797
+    "port": 7797,
+    "removed": 1770812802
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -777,13 +786,13 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1770791604
+    "port": 7777
   },
   {
     "name": "Test Server",
     "addr": "193.160.23.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770812802
   },
   {
     "name": "RYE TESTING GROUNDS",
@@ -880,7 +889,8 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8888
+    "port": 8888,
+    "removed": 1770812802
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1136,7 +1146,8 @@
   {
     "name": "[1/9 Mar] Marines Milsim Gaming | New-Players Welcome | Veteran",
     "addr": "209.192.185.171",
-    "port": 7807
+    "port": 7807,
+    "removed": 1770812802
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE | New Players Welcome",
@@ -1166,7 +1177,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1770812802
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -1280,6 +1292,11 @@
     "port": 7847
   },
   {
+    "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
+    "addr": "40.27.40.151",
+    "port": 7857
+  },
+  {
     "name": "MEXICO LATAM ESP OGT 1",
     "addr": "40.27.41.10",
     "port": 7777
@@ -1354,7 +1371,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1770812802
   },
   {
     "name": "HLL Official - US West #01",
@@ -1384,7 +1402,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770812802
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1399,7 +1418,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1770812802
   },
   {
     "name": "HLL Official - US East #06",
@@ -1420,6 +1440,11 @@
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
     "port": 9620
+  },
+  {
+    "name": "hll Server",
+    "addr": "45.151.81.211",
+    "port": 7787
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1661,7 +1686,8 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770812802
   },
   {
     "name": "Bob's playground",
@@ -1761,6 +1787,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "74.63.203.74",
+    "port": 7777
+  },
+  {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
     "port": 7787
@@ -1818,8 +1849,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1770748249
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1829,8 +1859,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1770748249
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1845,8 +1874,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1770748249
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1998,20 +2026,17 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1770748249
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1770793273
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877,
-    "removed": 1770793273
+    "port": 7877
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
