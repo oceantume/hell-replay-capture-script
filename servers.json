@@ -154,7 +154,8 @@
   {
     "name": "CrossFire Gaming",
     "addr": "144.126.153.213",
-    "port": 28800
+    "port": 28800,
+    "removed": 1770771108
   },
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
@@ -424,7 +425,8 @@
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1770771108
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -567,6 +569,11 @@
     "port": 7827
   },
   {
+    "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
+    "addr": "181.214.48.19",
+    "port": 7777
+  },
+  {
     "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - RECRUTAMENTO (11) 91155-20",
     "addr": "181.214.48.19",
     "port": 7787
@@ -649,7 +656,8 @@
   {
     "name": "OSCL US East #1 Powered by qonzer.com",
     "addr": "192.169.86.213",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770771108
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -769,7 +777,8 @@
   {
     "name": "OSCL EU West #1 Powered by qonzer.com",
     "addr": "193.160.23.42",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770771108
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1084,7 +1093,7 @@
     "removed": 1770684762
   },
   {
-    "name": "OKTOGON | EVENT | Discord.gg/Oktogon #Qonzer",
+    "name": "OKTOGON | EVENT | OKT vs HT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1115,7 +1124,7 @@
     "removed": 1770730648
   },
   {
-    "name": "[EST/ENG] Estonian Division | WARFARE ONLY | New Players Welcom",
+    "name": "[EST/ENG] Estonian Division | WARFARE | New Players Welcome",
     "addr": "212.237.216.54",
     "port": 7807
   },
@@ -1148,6 +1157,11 @@
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
     "addr": "23.111.240.210",
     "port": 9075
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "37.148.133.8",
+    "port": 7777
   },
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
@@ -1624,7 +1638,7 @@
     "port": 7777
   },
   {
-    "name": "#4 [ESP/LATAM] - DIV33 Oficial - Español / Spanish - Miami",
+    "name": "#4 [LATAM] - DIV33 Oficial - Español / Spanish - Miami",
     "addr": "64.31.40.205",
     "port": 7777
   },
@@ -1666,7 +1680,8 @@
   {
     "name": "OSCL US West #2 Powered by qonzer.com",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770771108
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1691,7 +1706,8 @@
   {
     "name": "OSCL US West #1 Powered by qonzer.com",
     "addr": "64.31.61.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770771108
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1947,6 +1963,11 @@
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.89",
     "port": 28700
+  },
+  {
+    "name": "Server Tango Latam",
+    "addr": "92.38.151.89",
+    "port": 28800
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
