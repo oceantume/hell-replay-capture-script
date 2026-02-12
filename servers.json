@@ -40,7 +40,7 @@
     "port": 28300
   },
   {
-    "name": "You're Not In Kansas Anymore - OZ",
+    "name": "Texas Meat Grinder- Dallas",
     "addr": "104.249.63.252",
     "port": 8530
   },
@@ -294,7 +294,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1770878020
   },
   {
     "name": "HLL Official - Europe #05",
@@ -497,7 +498,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1770878020
   },
   {
     "name": "QA Testing - EU #05",
@@ -799,8 +801,12 @@
   {
     "name": "OSCL EU West #1 Powered by qonzer.com",
     "addr": "193.160.23.42",
-    "port": 7787,
-    "removed": 1770771108
+    "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.23.42",
+    "port": 7797
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -821,8 +827,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1770834555
+    "port": 7777
   },
   {
     "name": "nitrado.net gameserver _3V9iwKM",
