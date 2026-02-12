@@ -269,7 +269,8 @@
   {
     "name": "#3 EXD.gg » Offensive Only | Discord.exd.gg",
     "addr": "176.31.232.159",
-    "port": 8530
+    "port": 8530,
+    "removed": 1770857193
   },
   {
     "name": "QA Testing - EU #02",
@@ -470,6 +471,11 @@
     "port": 28200
   },
   {
+    "name": "test2133",
+    "addr": "176.57.174.211",
+    "port": 28000
+  },
+  {
     "name": "Testify",
     "addr": "176.57.174.211",
     "port": 28300
@@ -587,8 +593,7 @@
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797,
-    "removed": 1770812802
+    "port": 7797
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -1198,7 +1203,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1770857193
   },
   {
     "name": "CN#3 TT天堂萌新俱乐部 HK低延迟Q群：548651",
@@ -1458,7 +1464,8 @@
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1770857193
   },
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
@@ -2101,17 +2108,17 @@
     "port": 7777
   },
   {
-    "name": "#4 EXD.gg (Test) » All Maps | Discord.exd.gg",
+    "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "95.135.1.27",
     "port": 7777
   },
   {
-    "name": "#5 EXD.gg (Test) » New Players Welcome | Discord.exd.gg",
+    "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "95.135.1.28",
     "port": 7777
   },
   {
-    "name": "#6 EXD.gg (Test) » Offensive Only | Discord.exd.gg",
+    "name": "#3 EXD.gg » Offensive Only | Discord.exd.gg",
     "addr": "95.135.1.29",
     "port": 7777
   },
