@@ -166,6 +166,11 @@
     "port": 9014
   },
   {
+    "name": ".PT Training",
+    "addr": "149.102.154.195",
+    "port": 28100
+  },
+  {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "149.102.154.195",
     "port": 28300
@@ -213,7 +218,8 @@
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "15.204.170.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770943748
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -615,8 +621,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1770922413
+    "port": 7807
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -913,12 +918,12 @@
     "port": 7787
   },
   {
-    "name": "[GER/ENG] Trinity´s Ballerbude | Teamplay | Active Admins",
+    "name": "[GER] Trinity`s Ballerbude",
     "addr": "208.115.206.34",
     "port": 7777
   },
   {
-    "name": "[EU/ENG] UnityGaming | NEW PLAYER FRIENDLY | Low Ping | All Map",
+    "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
     "addr": "208.115.206.35",
     "port": 7777
   },
@@ -1466,6 +1471,16 @@
     "port": 7787
   },
   {
+    "name": "QNZR | TEST2",
+    "addr": "45.151.81.211",
+    "port": 8887
+  },
+  {
+    "name": "QNZR | TEST1",
+    "addr": "45.151.81.211",
+    "port": 9997
+  },
+  {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
     "port": 8530
@@ -1493,12 +1508,14 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.38.89.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770943748
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "51.38.89.130",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770943748
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1508,12 +1525,14 @@
   {
     "name": "QNZR | TEST2",
     "addr": "51.38.89.139",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770943748
   },
   {
     "name": "QNZR | TEST1",
     "addr": "51.38.89.154",
-    "port": 7787
+    "port": 7787,
+    "removed": 1770943748
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
@@ -1619,7 +1638,8 @@
   {
     "name": "RGN #9 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.2.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770943748
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
@@ -1661,7 +1681,8 @@
   {
     "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.29.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770943748
   },
   {
     "name": "THE 24/7 GROUP EVENT SERVER",
@@ -1949,6 +1970,16 @@
     "port": 7817
   },
   {
+    "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "85.208.197.68",
+    "port": 7777
+  },
+  {
+    "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "85.208.197.68",
+    "port": 7787
+  },
+  {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
     "port": 7777
@@ -2165,6 +2196,11 @@
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
     "port": 7777
+  },
+  {
+    "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
+    "addr": "95.135.1.7",
+    "port": 7787
   },
   {
     "name": "CBMS",
