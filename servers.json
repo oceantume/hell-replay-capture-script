@@ -310,8 +310,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1770816609
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -527,8 +526,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1770964208
+    "port": 8772
   },
   {
     "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- 360hll.com.ar",
@@ -1755,7 +1753,8 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
-    "port": 7777
+    "port": 7777,
+    "removed": 1770988515
   },
   {
     "name": "Bob's playground",
