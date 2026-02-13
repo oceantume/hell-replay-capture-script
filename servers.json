@@ -268,6 +268,11 @@
     "port": 9075
   },
   {
+    "name": "LCS-USA-STRESS-TEST",
+    "addr": "157.250.201.86",
+    "port": 8530
+  },
+  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -477,6 +482,11 @@
     "name": "test2133",
     "addr": "176.57.174.211",
     "port": 28000
+  },
+  {
+    "name": "Piu",
+    "addr": "176.57.174.211",
+    "port": 28200
   },
   {
     "name": "Testify",
@@ -848,6 +858,11 @@
     "addr": "195.82.158.186",
     "port": 20700,
     "removed": 1770920841
+  },
+  {
+    "name": "nitrado.net gameserver uqrf4AZK",
+    "addr": "195.82.158.186",
+    "port": 20900
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1473,17 +1488,20 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771006858
   },
   {
     "name": "QNZR | TEST2",
     "addr": "45.151.81.211",
-    "port": 8887
+    "port": 8887,
+    "removed": 1771006858
   },
   {
     "name": "QNZR | TEST1",
     "addr": "45.151.81.211",
-    "port": 9997
+    "port": 9997,
+    "removed": 1771006858
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1675,7 +1693,8 @@
   {
     "name": "48th RTR | Official Server - EU",
     "addr": "64.31.29.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771006858
   },
   {
     "name": "〔ADD〕| Ablattungs Dauer Dienst | Mic Duty! | GER/ENG",
@@ -1753,8 +1772,7 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
-    "port": 7777,
-    "removed": 1770988515
+    "port": 7777
   },
   {
     "name": "Bob's playground",
@@ -1922,7 +1940,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771006858
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1952,7 +1971,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771006858
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2094,7 +2114,8 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.89",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771006858
   },
   {
     "name": "Server Tango Latam",
@@ -2109,8 +2130,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1770920841
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
