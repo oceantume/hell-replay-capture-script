@@ -629,7 +629,8 @@
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
     "addr": "188.64.33.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1770985245
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -837,8 +838,7 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1770967666
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1147,14 +1147,12 @@
   {
     "name": "OKTOGON | EVENT | OKT vs HT | Discord.gg/Oktogon #Qonzer",
     "addr": "208.115.251.115",
-    "port": 7787,
-    "removed": 1770964208
+    "port": 7787
   },
   {
     "name": "57TH TURKISH REGIMENT EVENT SERVER | POWERED BY QONZER",
     "addr": "208.115.251.116",
-    "port": 7777,
-    "removed": 1770964208
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -1426,8 +1424,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1770899059
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -2154,26 +2151,22 @@
   {
     "name": "[GER] Kampfgruppe Lazarus LVL 10+",
     "addr": "95.135.1.15",
-    "port": 7777,
-    "removed": 1770964208
+    "port": 7777
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "95.135.1.18",
-    "port": 7777,
-    "removed": 1770964208
+    "port": 7777
   },
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "95.135.1.18",
-    "port": 7787,
-    "removed": 1770964208
+    "port": 7787
   },
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1770964208
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
