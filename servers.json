@@ -72,7 +72,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771050106
   },
   {
     "name": "HLL Official - Russia #02",
@@ -268,7 +269,7 @@
     "port": 9075
   },
   {
-    "name": "LCS-USA-STRESS-TEST",
+    "name": "FREE CLAN/EVENT SERVER - CONTACT lilmanmichael on DISCORD",
     "addr": "157.250.201.86",
     "port": 8530
   },
@@ -305,12 +306,14 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771050106
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771050106
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -461,7 +464,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771050106
   },
   {
     "name": "Borry‘s Playground",
@@ -1209,7 +1213,7 @@
     "port": 7777
   },
   {
-    "name": "The Digital Tavern",
+    "name": "The Digital Tavern | New Players Welcome | US Central",
     "addr": "216.245.210.197",
     "port": 7777
   },
@@ -1502,6 +1506,11 @@
     "addr": "45.151.81.211",
     "port": 9997,
     "removed": 1771006858
+  },
+  {
+    "name": "TD4W Clan Server",
+    "addr": "45.59.163.234",
+    "port": 8530
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1842,7 +1851,7 @@
     "port": 8888
   },
   {
-    "name": "5th Infantry Division",
+    "name": "5th ID | New Players Welcome | discord.gg/reddevilshll",
     "addr": "66.235.172.30",
     "port": 8530
   },
@@ -1905,7 +1914,13 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "78.111.102.114",
-    "port": 29200
+    "port": 29200,
+    "removed": 1771050106
+  },
+  {
+    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
+    "addr": "78.111.102.114",
+    "port": 29900
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
