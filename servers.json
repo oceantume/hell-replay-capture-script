@@ -889,8 +889,7 @@
   {
     "name": "# 1 | HLL-FRONTLINE.DK | Danmark | The Danish Infantry Squad",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1771071339
+    "port": 8530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -2116,7 +2115,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771072536
   },
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
