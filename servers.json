@@ -52,7 +52,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor #2 | S.A. | discord.gg/legion-condo",
     "addr": "108.165.230.224",
-    "port": 7797
+    "port": 7797,
+    "removed": 1771071339
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -271,7 +272,8 @@
   {
     "name": "FREE CLAN/EVENT SERVER - CONTACT lilmanmichael on DISCORD",
     "addr": "157.250.201.86",
-    "port": 8530
+    "port": 8530,
+    "removed": 1771071339
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -866,7 +868,8 @@
   {
     "name": "nitrado.net gameserver uqrf4AZK",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1771071339
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -886,7 +889,8 @@
   {
     "name": "# 1 | HLL-FRONTLINE.DK | Danmark | The Danish Infantry Squad",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1771071339
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1679,12 +1683,6 @@
     "port": 7777
   },
   {
-    "name": "TMP #1 has MOVED! Refavorite us! | discord.gg/motorpool",
-    "addr": "64.31.2.218",
-    "port": 7777,
-    "removed": 1770466530
-  },
-  {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
@@ -1781,8 +1779,7 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "64.31.51.244",
-    "port": 7777,
-    "removed": 1771052751
+    "port": 7777
   },
   {
     "name": "Bob's playground",
@@ -1859,8 +1856,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710,
-    "removed": 1771052751
+    "port": 10710
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
