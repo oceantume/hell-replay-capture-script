@@ -74,8 +74,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1771050106
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -308,14 +307,12 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1771050106
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1771050106
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -466,8 +463,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1771050106
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -509,7 +505,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771138186
   },
   {
     "name": "QA Testing - UK #07",
@@ -1219,7 +1216,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1771138186
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -2214,7 +2212,8 @@
   {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "95.135.1.27",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771138186
   },
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
