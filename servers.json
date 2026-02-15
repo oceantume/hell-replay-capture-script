@@ -123,7 +123,7 @@
     "port": 9075
   },
   {
-    "name": "[BWR]Hussein's Hideout",
+    "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "141.105.66.70",
     "port": 9620
   },
@@ -273,8 +273,7 @@
   {
     "name": "FREE CLAN/EVENT SERVER - CONTACT lilmanmichael on DISCORD",
     "addr": "157.250.201.86",
-    "port": 8530,
-    "removed": 1771071339
+    "port": 8530
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -488,12 +487,14 @@
   {
     "name": "test2133",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771116581
   },
   {
     "name": "Piu",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771116581
   },
   {
     "name": "Testify",
@@ -1528,20 +1529,17 @@
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1771096012
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1771096012
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1771096012
+    "port": 9620
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1604,7 +1602,7 @@
     "port": 10165
   },
   {
-    "name": "VALKYRIA EVENT",
+    "name": "CZ & SK | #2 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 10710
   },
