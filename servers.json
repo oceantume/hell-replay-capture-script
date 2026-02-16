@@ -843,12 +843,14 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1771248024
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1771248024
   },
   {
     "name": "nitrado.net gameserver CVEZZCJW",
@@ -1243,7 +1245,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部 HK低延迟Q群：548651",
+    "name": "CN#2 TT天堂萌新俱乐部 服务器四周年 Q群：548651",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -2123,8 +2125,7 @@
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
     "addr": "92.38.151.76",
-    "port": 29800,
-    "removed": 1771246015
+    "port": 29800
   },
   {
     "name": "[LATAM/ESP] | URANIUM | RECLUTANDO | discord.gg/uranium235",
