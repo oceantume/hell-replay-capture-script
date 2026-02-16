@@ -130,7 +130,7 @@
     "port": 12345
   },
   {
-    "name": "[ GER ] TRÜMMERTRUPPE #TЯÜM | Mic Only | German",
+    "name": "[GER] TRÜMMERTRUPPE #TЯÜM | Mic Only | German",
     "addr": "141.95.33.70",
     "port": 8530
   },
@@ -630,7 +630,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1771265960
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -843,14 +844,12 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1771248024
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1771248024
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver CVEZZCJW",
@@ -918,6 +917,11 @@
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
+  },
+  {
+    "name": "#1 EXD.gg » Events | Discord.exd.gg",
+    "addr": "208.115.203.20",
+    "port": 7777
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1216,8 +1220,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1771138186
+    "port": 8772
   },
   {
     "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
@@ -2157,8 +2160,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1771179227
+    "port": 28200
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
