@@ -502,8 +502,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1771138186
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -1226,6 +1225,11 @@
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
     "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "37.148.133.8",
+    "port": 7797
   },
   {
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
