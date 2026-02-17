@@ -87,7 +87,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1771309747
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -130,7 +131,7 @@
     "port": 12345
   },
   {
-    "name": "|GER| Trümmertruppe #TЯÜM ·MIC German· dietruemmertruppe.d",
+    "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German #dietruemmertruppe.de",
     "addr": "141.95.33.70",
     "port": 8530
   },
@@ -410,7 +411,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771309747
   },
   {
     "name": "DevQA - EU #02",
@@ -445,7 +447,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771309747
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -513,7 +516,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771309747
   },
   {
     "name": "QA Testing - EU #05",
@@ -823,7 +827,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.23.42",
-    "port": 7797
+    "port": 7797,
+    "removed": 1771309747
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1494,8 +1499,7 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.211",
-    "port": 7787,
-    "removed": 1771006858
+    "port": 7787
   },
   {
     "name": "QNZR | TEST2",
@@ -1506,8 +1510,7 @@
   {
     "name": "QNZR | TEST1",
     "addr": "45.151.81.211",
-    "port": 9997,
-    "removed": 1771006858
+    "port": 9997
   },
   {
     "name": "TD4W Clan Server",
