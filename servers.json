@@ -1192,8 +1192,7 @@
   {
     "name": "[EST/ENG] Estonian Division | WARFARE | New Players Welcome",
     "addr": "212.237.216.54",
-    "port": 7807,
-    "removed": 1771311324
+    "port": 7807
   },
   {
     "name": "CN.jpPUMA做最优质的战士冲突服q746699634",
@@ -1241,7 +1240,7 @@
     "port": 8530
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部 服务器四周年 Q群：548651",
+    "name": "CN#3 TT天堂萌新俱乐部 Q群548651低延迟四周年",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1473,7 +1472,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771330967
   },
   {
     "name": "[CI] Corrupted Infantry | ENG | Strict Teamplay | discord.gg/ci",
@@ -1781,7 +1781,8 @@
   {
     "name": "Bob's playground",
     "addr": "64.31.58.62",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771330967
   },
   {
     "name": "Exiled USMC | New Players Welcome | Offensive Only",
@@ -1915,7 +1916,8 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "78.111.102.114",
-    "port": 29900
+    "port": 29900,
+    "removed": 1771330967
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -2106,8 +2108,14 @@
   },
   {
     "name": "WidowMaker's",
-    "addr": "92.118.19.84",
+    "addr": "92.118.19.80",
     "port": 7807
+  },
+  {
+    "name": "WidowMaker's",
+    "addr": "92.118.19.84",
+    "port": 7807,
+    "removed": 1771330967
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
@@ -2118,6 +2126,11 @@
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
     "addr": "92.38.151.76",
     "port": 29800
+  },
+  {
+    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
+    "addr": "92.38.151.86",
+    "port": 28900
   },
   {
     "name": "[LATAM/ESP] | URANIUM | RECLUTANDO | discord.gg/uranium235",
