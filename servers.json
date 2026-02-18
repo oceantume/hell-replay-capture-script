@@ -744,7 +744,7 @@
     "port": 9075
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -754,7 +754,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -972,7 +972,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1013,7 +1013,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1078,12 +1078,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1770816609
-  },
-  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -1109,15 +1103,9 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1770816609
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1392,7 +1380,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771439006
   },
   {
     "name": "HLL Official - US West #01",
@@ -1540,12 +1529,6 @@
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
     "port": 7787
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "51.75.156.4",
-    "port": 7777,
-    "removed": 1770816609
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1804,7 +1787,7 @@
     "port": 8888
   },
   {
-    "name": "5th ID | New Players Welcome | discord.gg/reddevilshll",
+    "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "66.235.172.30",
     "port": 8530
   },
@@ -1837,12 +1820,6 @@
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
     "addr": "69.162.102.53",
     "port": 7787
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "74.63.203.74",
-    "port": 7777,
-    "removed": 1770816609
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1914,7 +1891,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771439006
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1944,8 +1922,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1771352798
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
