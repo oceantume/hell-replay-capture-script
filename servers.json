@@ -447,8 +447,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1771309747
+    "port": 28400
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -469,7 +468,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771375603
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -698,7 +698,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
+    "name": "Greyhound Public GER&ENG | only 1min Warmup | Votemap&Votekick",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -999,8 +999,7 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1771355887
+    "port": 7877
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -1670,6 +1669,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.2.18",
+    "port": 7777
+  },
+  {
     "name": "RGN #9 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.2.19",
     "port": 7777,
@@ -1719,7 +1723,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Miami",
+    "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Miami | Eventos |",
     "addr": "64.31.31.122",
     "port": 7787
   },
