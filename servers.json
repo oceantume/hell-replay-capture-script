@@ -1000,7 +1000,8 @@
   {
     "name": "Dev Test | Qonzer",
     "addr": "208.115.212.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771417355
   },
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
@@ -1458,8 +1459,7 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1771330967
+    "port": 28700
   },
   {
     "name": "[CI] Corrupted Infantry | ENG | Strict Teamplay | discord.gg/ci",
