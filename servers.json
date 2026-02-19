@@ -37,8 +37,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1771420778
+    "port": 28300
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -1515,7 +1514,8 @@
   {
     "name": "QNZR | TEST",
     "addr": "51.38.89.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771507278
   },
   {
     "name": "QNZR | TEST2",
@@ -2053,8 +2053,7 @@
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
     "addr": "92.38.151.76",
-    "port": 29800,
-    "removed": 1771505250
+    "port": 29800
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
