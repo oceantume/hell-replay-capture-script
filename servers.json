@@ -414,7 +414,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1771462020
   },
   {
     "name": "HLL Official - Europe #02",
@@ -455,8 +456,7 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1771375603
+    "port": 28000
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -679,7 +679,7 @@
     "port": 8530
   },
   {
-    "name": "Greyhound Public GER&ENG | only 1min Warmup | Votemap&Votekick",
+    "name": "[ENG/GER] Greyhound Public | only 1min Warmup | Votemap&Votekic",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -823,8 +823,7 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1771442065
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -840,14 +839,12 @@
   {
     "name": "nitrado.net gameserver P2zkts1L",
     "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1771442065
+    "port": 20900
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1771442065
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - OFFENSIVE ONLY - DUTCH/ENGLISH - [NE",
@@ -978,6 +975,16 @@
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
+  },
+  {
+    "name": "A Qonzer.com Server Is Born",
+    "addr": "208.115.211.18",
+    "port": 7777
+  },
+  {
+    "name": "New HLL service",
+    "addr": "208.115.211.18",
+    "port": 7787
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -1121,7 +1128,7 @@
     "port": 7777
   },
   {
-    "name": "57TH Turkish Regiment [Türkçe/TR & English] [discord.gg/57th]",
+    "name": "57TH TURKISH REGIMENT [Türkçe/English] [discord.gg/57th] [by ",
     "addr": "208.115.248.90",
     "port": 7777
   },
