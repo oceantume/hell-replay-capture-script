@@ -607,12 +607,6 @@
     "port": 11255
   },
   {
-    "name": "#1 European Misfits Regiment -EMR- |New Players| WAREFARE-Only",
-    "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1770899059
-  },
-  {
     "name": "<CN>#10 IMP帝国社区 萌新攻防服 |Q1020812925 欧洲节",
     "addr": "185.216.144.75",
     "port": 9075
@@ -1259,8 +1253,7 @@
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "40.27.40.150",
-    "port": 7847,
-    "removed": 1771503804
+    "port": 7847
   },
   {
     "name": "JUMP Special Forces Server",
@@ -1280,8 +1273,7 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "40.27.40.151",
-    "port": 7787,
-    "removed": 1771503804
+    "port": 7787
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
@@ -1311,8 +1303,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857,
-    "removed": 1771503804
+    "port": 7857
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1669,12 +1660,6 @@
     "addr": "64.31.29.67",
     "port": 7777,
     "removed": 1771006858
-  },
-  {
-    "name": "〔ADD〕| Ablattungs Dauer Dienst | Mic Duty! | GER/ENG",
-    "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1770899059
   },
   {
     "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
@@ -2068,7 +2053,8 @@
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
     "addr": "92.38.151.76",
-    "port": 29800
+    "port": 29800,
+    "removed": 1771505250
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
