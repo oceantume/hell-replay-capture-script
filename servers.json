@@ -822,8 +822,7 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1771486079
+    "port": 20200
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -872,7 +871,7 @@
     "port": 8888
   },
   {
-    "name": "GREYHOUND NIGHT - ORANGE",
+    "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "203.17.244.3",
     "port": 8898
   },
@@ -1260,7 +1259,8 @@
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "40.27.40.150",
-    "port": 7847
+    "port": 7847,
+    "removed": 1771503804
   },
   {
     "name": "JUMP Special Forces Server",
@@ -1280,7 +1280,8 @@
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "40.27.40.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771503804
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
@@ -1310,7 +1311,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857
+    "port": 7857,
+    "removed": 1771503804
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1436,7 +1438,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1771503804
   },
   {
     "name": "HLL Official - US East #06",
@@ -1456,7 +1459,8 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771503804
   },
   {
     "name": "QNZR | TEST2",
@@ -1515,6 +1519,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
+    "port": 7777
+  },
+  {
+    "name": "QNZR | TEST",
+    "addr": "51.38.89.139",
     "port": 7777
   },
   {
@@ -1701,7 +1710,8 @@
   {
     "name": "Qonzer | Miami | Test",
     "addr": "64.31.31.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771503804
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1969,7 +1979,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - BLUE | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - BLACK | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
