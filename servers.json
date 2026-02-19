@@ -185,7 +185,7 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] |Armor Only| discord.gg/drafthaus",
+    "name": "The DRAFT [HAUS] |Test Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
     "port": 7787
   },
@@ -273,7 +273,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771525527
   },
   {
     "name": "HLL Dev Team 1",
@@ -288,7 +289,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1771525527
   },
   {
     "name": "HLL Official - Europe #03",
@@ -409,7 +411,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771525527
   },
   {
     "name": "DevQA - EU #01",
@@ -1382,8 +1385,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1771439006
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1522,6 +1524,11 @@
     "addr": "51.38.89.139",
     "port": 7787,
     "removed": 1770943748
+  },
+  {
+    "name": "QNZR | TEST",
+    "addr": "51.38.89.154",
+    "port": 7777
   },
   {
     "name": "QNZR | TEST1",
@@ -1901,7 +1908,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771525527
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2014,7 +2022,7 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] Event Server",
+    "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "92.118.18.72",
     "port": 7807
   },
