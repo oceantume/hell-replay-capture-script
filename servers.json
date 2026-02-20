@@ -190,7 +190,7 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] |Test Server| discord.gg/drafthaus",
+    "name": "The DRAFT [HAUS] |Conquest Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
     "port": 7787
   },
@@ -272,7 +272,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771611669
   },
   {
     "name": "HLL Dev Team 1",
@@ -288,7 +289,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1771611669
   },
   {
     "name": "HLL Official - Europe #03",
@@ -379,7 +381,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1771611669
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -399,17 +402,20 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771611669
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771611669
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771611669
   },
   {
     "name": "DevQA - EU #01",
@@ -493,7 +499,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771611669
   },
   {
     "name": "HLL Official - UK #02",
@@ -503,7 +510,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771611669
   },
   {
     "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
@@ -1006,7 +1014,7 @@
     "port": 7867
   },
   {
-    "name": "ComunidadHispana - BetaBranch 1",
+    "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
     "port": 7777
   },
@@ -1043,8 +1051,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
     "addr": "208.115.226.3",
-    "port": 7787,
-    "removed": 1771568857
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -1358,6 +1365,11 @@
   },
   {
     "name": "Another Qonzer.com server is born!",
+    "addr": "40.27.45.6",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
     "addr": "40.27.45.7",
     "port": 7777,
     "removed": 1771568857
@@ -1380,7 +1392,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771611669
   },
   {
     "name": "HLL Official - US West #02",
@@ -1400,7 +1413,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771611669
   },
   {
     "name": "HLL Official - US East #04",
@@ -1457,12 +1471,6 @@
     "name": "hll Server",
     "addr": "45.151.81.211",
     "port": 7787
-  },
-  {
-    "name": "QNZR | TEST2",
-    "addr": "45.151.81.211",
-    "port": 8887,
-    "removed": 1771006858
   },
   {
     "name": "QNZR | TEST1",
@@ -1615,7 +1623,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.2.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771611669
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
@@ -1636,12 +1645,6 @@
     "name": "Turks Let Loose #2 - English/Türkçe - turksletloose.com",
     "addr": "64.31.29.66",
     "port": 7777
-  },
-  {
-    "name": "48th RTR | Official Server - EU",
-    "addr": "64.31.29.67",
-    "port": 7777,
-    "removed": 1771006858
   },
   {
     "name": "『V』VANGUARDA.PRO.BR | EVENT SERVER MIAMI",
@@ -1866,19 +1869,18 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1771439006
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771611669
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1771525527
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2042,12 +2044,6 @@
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.86",
     "port": 28900
-  },
-  {
-    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
-    "addr": "92.38.151.89",
-    "port": 28700,
-    "removed": 1771006858
   },
   {
     "name": "Server Tango Latam",
