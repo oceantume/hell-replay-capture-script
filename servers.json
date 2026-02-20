@@ -272,8 +272,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1771525527
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -283,7 +282,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1771568857
   },
   {
     "name": "QA Testing - EU #03",
@@ -298,7 +298,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771568857
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -398,8 +399,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1771482657
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -419,7 +419,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771568857
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -434,7 +435,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771568857
   },
   {
     "name": "[HistoDidou] Serveur Fr, débutants acceptés",
@@ -1046,7 +1048,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
     "addr": "208.115.226.3",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771568857
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -1361,7 +1364,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "40.27.45.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771568857
   },
   {
     "name": "Hell let loose Server by g-portal.com",
@@ -1451,9 +1455,13 @@
   },
   {
     "name": "hll Server",
+    "addr": "45.151.81.210",
+    "port": 7787
+  },
+  {
+    "name": "hll Server",
     "addr": "45.151.81.211",
-    "port": 7787,
-    "removed": 1771503804
+    "port": 7787
   },
   {
     "name": "QNZR | TEST2",
@@ -1509,10 +1517,9 @@
     "removed": 1771507278
   },
   {
-    "name": "QNZR | TEST",
+    "name": "hllc Server",
     "addr": "51.38.89.154",
-    "port": 7777,
-    "removed": 1771548235
+    "port": 7777
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
