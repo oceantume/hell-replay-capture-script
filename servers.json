@@ -389,7 +389,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771591411
   },
   {
     "name": "CZ/SK",
@@ -1974,6 +1975,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.248.84.192",
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
