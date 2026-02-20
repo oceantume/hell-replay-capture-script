@@ -105,6 +105,11 @@
     "port": 7777
   },
   {
+    "name": "QNZR | TEST",
+    "addr": "139.28.17.170",
+    "port": 7777
+  },
+  {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
     "port": 10165
@@ -821,6 +826,11 @@
     "port": 20200
   },
   {
+    "name": "Deutscher HLL Server | Alle Willkommen",
+    "addr": "195.82.158.186",
+    "port": 20300
+  },
+  {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
     "port": 20600
@@ -1357,6 +1367,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "40.27.45.7",
+    "port": 7777
+  },
+  {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "45.137.244.9",
     "port": 28100
@@ -1522,7 +1537,8 @@
   {
     "name": "QNZR | TEST",
     "addr": "51.38.89.154",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771548235
   },
   {
     "name": "QNZR | TEST1",
