@@ -490,14 +490,12 @@
   {
     "name": "Testify",
     "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1771676118
+    "port": 28300
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500,
-    "removed": 1771676118
+    "port": 28500
   },
   {
     "name": "HLL Official - UK #01",
@@ -2075,7 +2073,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771677302
   },
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
