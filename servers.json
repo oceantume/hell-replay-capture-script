@@ -700,6 +700,11 @@
     "port": 7847
   },
   {
+    "name": "hll Server",
+    "addr": "192.169.90.204",
+    "port": 7777
+  },
+  {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
     "port": 7787
@@ -1743,7 +1748,8 @@
   {
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.6.92",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771636665
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
