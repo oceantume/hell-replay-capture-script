@@ -72,7 +72,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771654838
   },
   {
     "name": "HLL Official - Russia #02",
@@ -107,7 +108,8 @@
   {
     "name": "QNZR | TEST",
     "addr": "139.28.17.170",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771654838
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -288,8 +290,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1771568857
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -300,7 +301,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1771654838
   },
   {
     "name": "HLL Official - Europe #05",
@@ -341,7 +343,8 @@
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771654838
   },
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
@@ -445,8 +448,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1771568857
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -498,7 +500,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771654838
   },
   {
     "name": "QA Testing - UK #07",
@@ -998,6 +1001,11 @@
     "removed": 1771614420
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.212.75",
+    "port": 7777
+  },
+  {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
@@ -1213,6 +1221,11 @@
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
     "addr": "37.187.157.115",
     "port": 8530
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "38.246.35.141",
+    "port": 7777
   },
   {
     "name": "CN#3 TT天堂萌新俱乐部 Q群548651低延迟四周年",
@@ -1476,7 +1489,8 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771654838
   },
   {
     "name": "hll Server",
@@ -1531,7 +1545,7 @@
     "removed": 1771507278
   },
   {
-    "name": "hllc Server",
+    "name": "hll Server",
     "addr": "51.38.89.154",
     "port": 7777
   },
@@ -1701,10 +1715,11 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "64.31.39.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771654838
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "HLL European | Incoming",
     "addr": "64.31.4.170",
     "port": 7777
   },
@@ -1748,8 +1763,7 @@
   {
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.6.92",
-    "port": 7787,
-    "removed": 1771636665
+    "port": 7787
   },
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -2131,8 +2145,7 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "95.135.1.18",
-    "port": 7787,
-    "removed": 1771634607
+    "port": 7787
   },
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
