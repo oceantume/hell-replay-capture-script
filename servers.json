@@ -212,10 +212,9 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Conquest Playtest :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1771697598
+    "port": 7787
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -839,7 +838,8 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1771698686
   },
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
@@ -849,7 +849,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1771698686
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1559,7 +1560,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771698686
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
