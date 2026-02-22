@@ -25,6 +25,11 @@
     "port": 7807
   },
   {
+    "name": "Bones Graveyard Australia",
+    "addr": "103.193.81.14",
+    "port": 8530
+  },
+  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -72,8 +77,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1771654838
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -301,14 +305,12 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1771654838
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1771568857
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -410,8 +412,7 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1771611669
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -433,7 +434,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771741390
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -494,8 +496,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000,
-    "removed": 1771654838
+    "port": 28000
   },
   {
     "name": "QA Testing - UK #07",
@@ -506,8 +507,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1771697598
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -842,8 +842,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1771723411
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -866,7 +865,7 @@
     "port": 9620
   },
   {
-    "name": "#1 D-DAY | ENG/DK/SW/NO/DE | Danmark | The Danish Infantry Squa",
+    "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYER WELCOME | DANMARK",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -913,7 +912,8 @@
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
     "addr": "208.115.206.195",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771741390
   },
   {
     "name": "WTH Training Server",
@@ -928,7 +928,8 @@
   {
     "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771741390
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1065,8 +1066,7 @@
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1771723411
+    "port": 7817
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
@@ -1219,7 +1219,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[BRASIL] MARRAM.COM.BR - DISCORD.GG/MARRAM",
     "addr": "37.148.133.8",
     "port": 7797
   },
@@ -1366,6 +1366,16 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
+    "port": 7777
+  },
+  {
+    "name": "Merciless | Warfare | US West",
+    "addr": "40.27.44.12",
+    "port": 7777
+  },
+  {
+    "name": "Merciless | Conquest Server | US West",
+    "addr": "40.27.44.13",
     "port": 7777
   },
   {
@@ -1604,12 +1614,14 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771741390
   },
   {
     "name": "BR1 Operation Yellow Snow -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1771741390
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
@@ -1784,7 +1796,8 @@
   {
     "name": "Merciless | Warfare | US West",
     "addr": "64.31.6.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771741390
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1794,7 +1807,8 @@
   {
     "name": "Merciless | Conquest Server | US West",
     "addr": "64.31.61.92",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771741390
   },
   {
     "name": "I Love Playing Apex",
@@ -2170,6 +2184,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] 1. Fallschirmjäger-Division Server",
+    "addr": "95.135.1.24",
+    "port": 7777
+  },
+  {
     "name": "#1 EXD.gg » All Maps | Discord.exd.gg",
     "addr": "95.135.1.27",
     "port": 7777
@@ -2182,6 +2201,11 @@
   {
     "name": "#3 EXD.gg » Offensive Only | Discord.exd.gg",
     "addr": "95.135.1.29",
+    "port": 7777
+  },
+  {
+    "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
+    "addr": "95.135.1.31",
     "port": 7777
   },
   {
@@ -2212,7 +2236,8 @@
   {
     "name": "CBMS",
     "addr": "95.135.1.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771741390
   },
   {
     "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
