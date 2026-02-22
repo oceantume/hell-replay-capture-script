@@ -42,8 +42,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1771765463
+    "port": 28300
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -184,8 +183,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1771765463
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -508,8 +506,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000,
-    "removed": 1771765463
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -995,7 +992,8 @@
   {
     "name": "LGN Public Warfare",
     "addr": "208.115.212.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771784042
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1222,7 +1220,8 @@
   {
     "name": "LGN Laboratory",
     "addr": "38.246.35.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771784042
   },
   {
     "name": "CN#3 TT天堂萌新俱乐部 Q群548651低延迟四周年",
@@ -1337,8 +1336,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1771765463
+    "port": 7777
   },
   {
     "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
@@ -1353,14 +1351,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1771765463
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1771765463
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1432,8 +1428,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1771697598
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1683,8 +1678,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1771765463
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - English Command - turksletloose.com",
@@ -1744,7 +1738,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[7DL] Academia de Guerra",
     "addr": "64.31.40.202",
     "port": 7777
   },
@@ -1787,8 +1781,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1771765463
+    "port": 7797
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1878,6 +1871,11 @@
     "port": 7777
   },
   {
+    "name": "Competitive Public Server",
+    "addr": "74.63.231.3",
+    "port": 7787
+  },
+  {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "78.111.102.114",
     "port": 29900,
@@ -1932,7 +1930,8 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771784042
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1952,8 +1951,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1771697598
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1973,8 +1971,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1771765463
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2074,12 +2071,6 @@
     "port": 7777
   },
   {
-    "name": "Hell Let Loose Server",
-    "addr": "92.118.19.140",
-    "port": 7787,
-    "removed": 1771179227
-  },
-  {
     "name": "WidowMaker's",
     "addr": "92.118.19.80",
     "port": 7807
@@ -2118,7 +2109,8 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1771784042
   },
   {
     "name": "HLL Official - Australia #01",
