@@ -1198,6 +1198,11 @@
     "port": 7777
   },
   {
+    "name": "The Expeditionary Forces",
+    "addr": "216.245.210.196",
+    "port": 7797
+  },
+  {
     "name": "The Digital Tavern | New Players Welcome | US Central",
     "addr": "216.245.210.197",
     "port": 7777
@@ -1218,10 +1223,9 @@
     "port": 7777
   },
   {
-    "name": "[BR] MARRAM.COM.BR - DISCORD.GG/MARRAM",
+    "name": "Another Qonzer.com server is born!",
     "addr": "37.148.133.8",
-    "port": 7797,
-    "removed": 1771634607
+    "port": 7797
   },
   {
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
@@ -1660,7 +1664,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.2.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771721236
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
@@ -1732,6 +1737,11 @@
   {
     "name": "HLL European | Incoming",
     "addr": "64.31.4.170",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.40.202",
     "port": 7777
   },
   {
