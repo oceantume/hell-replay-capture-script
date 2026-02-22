@@ -476,12 +476,6 @@
     "port": 28200
   },
   {
-    "name": "test2133",
-    "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1771116581
-  },
-  {
     "name": "Piu",
     "addr": "176.57.174.211",
     "port": 28200,
@@ -848,7 +842,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1771723411
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1007,7 +1002,7 @@
     "removed": 1771614420
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "LGN Public Warfare",
     "addr": "208.115.212.75",
     "port": 7777
   },
@@ -1070,7 +1065,8 @@
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817
+    "port": 7817,
+    "removed": 1771723411
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
@@ -1233,7 +1229,7 @@
     "port": 8530
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "LGN Laboratory",
     "addr": "38.246.35.141",
     "port": 7777
   },
