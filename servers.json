@@ -1141,7 +1141,8 @@
   {
     "name": "BWCC #2 | ENG/EU | discord.gg/BWCC",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771762561
   },
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
@@ -1460,8 +1461,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1771676118
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1486,12 +1486,14 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1771762561
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771762561
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
