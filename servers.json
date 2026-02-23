@@ -77,7 +77,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771828463
   },
   {
     "name": "HLL Official - Russia #02",
@@ -310,7 +311,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771828463
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -433,8 +435,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1771741390
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -490,7 +491,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771828463
   },
   {
     "name": "HLL Official - UK #01",
@@ -506,7 +508,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1771828463
   },
   {
     "name": "QA Testing - EU #05",
@@ -986,8 +989,7 @@
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "208.115.212.74",
-    "port": 7787,
-    "removed": 1771614420
+    "port": 7787
   },
   {
     "name": "LGN Public Warfare",
@@ -1173,7 +1175,7 @@
     "port": 7777
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "4th Infantry Division | Testing",
     "addr": "216.173.113.250",
     "port": 8530
   },
@@ -1506,12 +1508,14 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771828463
   },
   {
     "name": "hll Server",
     "addr": "45.151.81.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771828463
   },
   {
     "name": "QNZR | TEST1",
@@ -1563,7 +1567,8 @@
   {
     "name": "hll Server",
     "addr": "51.38.89.154",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771828463
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
@@ -1614,14 +1619,12 @@
   {
     "name": "BR1 Gaming -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787,
-    "removed": 1771741390
+    "port": 7787
   },
   {
     "name": "BR1 Operation Yellow Snow -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797,
-    "removed": 1771741390
+    "port": 7797
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
