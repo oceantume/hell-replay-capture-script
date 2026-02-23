@@ -254,6 +254,11 @@
     "port": 7787
   },
   {
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "152.114.195.174",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose #1 - Sadece Türkçe - turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
@@ -604,7 +609,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1771871411
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -1432,7 +1438,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1771871411
   },
   {
     "name": "HLL Official - US West #03",
@@ -1902,7 +1909,7 @@
     "port": 11255
   },
   {
-    "name": "[GER] Ententeich | Anfänger- & Streamerfreundlich",
+    "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
     "port": 8530
   },
@@ -1924,8 +1931,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1771697598
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1935,8 +1941,7 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1771784042
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
@@ -2120,8 +2125,7 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1771784042
+    "port": 28100
   },
   {
     "name": "HLL Official - Australia #01",
@@ -2146,7 +2150,8 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "95.135.0.5",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771871411
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
