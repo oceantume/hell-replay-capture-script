@@ -52,7 +52,8 @@
   {
     "name": "[LATAM] Asado, Vino y Latencia God | LVL +30 [CLAN 7DL]",
     "addr": "108.165.230.224",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771849461
   },
   {
     "name": "[ESP] LATAMSQUAD - discord.gg/latamsquad | latamsquad.org",
@@ -259,8 +260,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1771830172
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -285,8 +285,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1771611669
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -301,8 +300,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1771611669
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -393,8 +391,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1771611669
+    "port": 28100
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -419,14 +416,12 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1771611669
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1771611669
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -479,12 +474,6 @@
     "port": 28200
   },
   {
-    "name": "Piu",
-    "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1771244582
-  },
-  {
     "name": "Testify",
     "addr": "176.57.174.211",
     "port": 28300
@@ -502,8 +491,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200,
-    "removed": 1771611669
+    "port": 28200
   },
   {
     "name": "HLL Official - UK #02",
@@ -514,8 +502,7 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200,
-    "removed": 1771611669
+    "port": 28200
   },
   {
     "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
@@ -528,7 +515,7 @@
     "port": 28300
   },
   {
-    "name": "[FR|TdA]La Tempête d’Acier / Qualité via la communication !",
+    "name": "[FR|TdA] 🌪 La Tempête d’Acier 🌪 Qualité via la commun",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -751,8 +738,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1771830172
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -762,8 +748,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1771830172
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -829,8 +814,7 @@
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
     "addr": "195.82.158.186",
-    "port": 20300,
-    "removed": 1771830172
+    "port": 20300
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -977,8 +961,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1771830172
+    "port": 7877
   },
   {
     "name": "A Qonzer.com Server Is Born",
@@ -1035,8 +1018,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1771830172
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1126,8 +1108,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1771830172
+    "port": 7797
   },
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1249,8 +1230,7 @@
   {
     "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
     "addr": "40.27.40.15",
-    "port": 7777,
-    "removed": 1771830172
+    "port": 7777
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
@@ -1441,8 +1421,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1771611669
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1462,8 +1441,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1771611669
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #04",
@@ -1473,7 +1451,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1771849461
   },
   {
     "name": "HLL Official - US East #02",
@@ -1493,8 +1472,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1771762561
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -1521,6 +1499,11 @@
   {
     "name": "hll Server",
     "addr": "45.151.81.211",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "45.151.81.211",
     "port": 7787,
     "removed": 1771828463
   },
@@ -1538,8 +1521,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1771830172
+    "port": 8530
   },
   {
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
@@ -1864,7 +1846,8 @@
   {
     "name": "The Lucky Strikes | Votemap",
     "addr": "69.162.102.50",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771849461
   },
   {
     "name": "[FFE] ★Fire For Effect★ - FFECREW.COM",
@@ -1982,8 +1965,7 @@
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
     "addr": "83.223.203.138",
-    "port": 28200,
-    "removed": 1771830172
+    "port": 28200
   },
   {
     "name": "Test",
@@ -2095,7 +2077,8 @@
   {
     "name": "Order 66",
     "addr": "92.118.19.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771849461
   },
   {
     "name": "WidowMaker's",
@@ -2193,8 +2176,7 @@
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon erforderlich!",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1771830172
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
