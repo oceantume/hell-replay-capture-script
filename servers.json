@@ -1410,6 +1410,11 @@
     "port": 28100
   },
   {
+    "name": "Hell for you",
+    "addr": "45.137.244.9",
+    "port": 28400
+  },
+  {
     "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
     "port": 28800
@@ -1558,8 +1563,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
-    "port": 7787,
-    "removed": 1771786412
+    "port": 7787
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -2069,6 +2073,11 @@
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
     "addr": "92.118.18.96",
+    "port": 7777
+  },
+  {
+    "name": "Order 66",
+    "addr": "92.118.19.76",
     "port": 7777
   },
   {
