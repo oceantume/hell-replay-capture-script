@@ -96,6 +96,11 @@
     "port": 9224
   },
   {
+    "name": "Garrisons & Whiskey Ξ Infantry Only",
+    "addr": "139.28.16.38",
+    "port": 7777
+  },
+  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -741,7 +746,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -801,7 +806,7 @@
     "port": 9620
   },
   {
-    "name": "Q's Qonzer.com | Event Server | Italy",
+    "name": "SLB #1",
     "addr": "194.180.207.89",
     "port": 7777
   },
@@ -958,7 +963,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1015,7 +1020,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1426,13 +1431,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1771957690
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1771871411
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
@@ -1506,12 +1511,6 @@
     "addr": "45.151.81.211",
     "port": 7787,
     "removed": 1771828463
-  },
-  {
-    "name": "QNZR | TEST1",
-    "addr": "45.151.81.211",
-    "port": 9997,
-    "removed": 1771352798
   },
   {
     "name": "TD4W Clan Server",
