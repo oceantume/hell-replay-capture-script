@@ -61,6 +61,11 @@
     "port": 7797
   },
   {
+    "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
+    "addr": "135.125.188.111",
+    "port": 10165
+  },
+  {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
     "port": 8530
@@ -446,7 +451,8 @@
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1771980533
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -483,6 +489,11 @@
     "name": "100.JD DEV SERVER",
     "addr": "176.57.171.38",
     "port": 28200
+  },
+  {
+    "name": "Glory to Ukraine [English]",
+    "addr": "176.57.174.211",
+    "port": 28000
   },
   {
     "name": "Testify",
@@ -806,7 +817,7 @@
     "port": 9620
   },
   {
-    "name": "SLB #1",
+    "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
   },
@@ -1395,7 +1406,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "40.27.45.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1771980533
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1562,7 +1574,8 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
     "addr": "51.75.156.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1771980533
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1658,8 +1671,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.2.18",
-    "port": 7777,
-    "removed": 1771611669
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
