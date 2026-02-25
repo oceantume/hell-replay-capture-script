@@ -30,6 +30,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "103.205.24.54",
+    "port": 7777
+  },
+  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -103,8 +108,7 @@
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
     "addr": "139.28.16.38",
-    "port": 7777,
-    "removed": 1772002809
+    "port": 7777
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -185,8 +189,7 @@
   {
     "name": ".PT Training",
     "addr": "149.102.154.195",
-    "port": 28100,
-    "removed": 1772002809
+    "port": 28100
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -760,8 +763,7 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1772002809
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -978,8 +980,7 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1772002809
+    "port": 7877
   },
   {
     "name": "A Qonzer.com Server Is Born",
@@ -1006,12 +1007,6 @@
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
-  },
-  {
-    "name": "Dev Test | Qonzer",
-    "addr": "208.115.212.76",
-    "port": 7787,
-    "removed": 1771417355
   },
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
@@ -1409,8 +1404,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "40.27.45.6",
-    "port": 7777,
-    "removed": 1771980533
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1575,10 +1569,9 @@
     "removed": 1771828463
   },
   {
-    "name": "[AUT|GER] All Cats Are Beauties #ACAB #CAT | Discord.gg/hll-cat",
+    "name": "[AUT|GER] ALTER SERVER!!! 03.03.26 OFFLINE #ACAB #CAT | Discord",
     "addr": "51.75.156.2",
-    "port": 7787,
-    "removed": 1771980533
+    "port": 7787
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1674,7 +1667,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.2.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772022278
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1991,8 +1985,7 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1772002809
+    "port": 7777
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
