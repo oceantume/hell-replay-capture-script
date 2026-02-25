@@ -445,8 +445,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1771914633
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -457,8 +456,7 @@
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
     "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1771914633
+    "port": 28200
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -503,7 +501,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772001154
   },
   {
     "name": "HLL Official - UK #01",
@@ -518,7 +517,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772001154
   },
   {
     "name": "QA Testing - EU #05",
@@ -1177,7 +1177,7 @@
     "port": 7777
   },
   {
-    "name": "4th Infantry Division | Testing",
+    "name": "4th Infantry Division | Steadfast and Loyal",
     "addr": "216.173.113.250",
     "port": 8530
   },
@@ -1826,7 +1826,8 @@
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "66.235.172.30",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772001154
   },
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
