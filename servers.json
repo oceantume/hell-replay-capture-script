@@ -457,8 +457,7 @@
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200,
-    "removed": 1771980533
+    "port": 28200
   },
   {
     "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
@@ -806,6 +805,11 @@
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
+  },
+  {
+    "name": "Test Server",
+    "addr": "193.160.23.22",
+    "port": 7787
   },
   {
     "name": "RYE TESTING GROUNDS",
@@ -1573,7 +1577,8 @@
   {
     "name": "[AUT|GER] ALTER SERVER!!! 03.03.26 OFFLINE #ACAB #CAT | Discord",
     "addr": "51.75.156.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772066631
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1907,7 +1912,8 @@
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772066631
   },
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
