@@ -336,7 +336,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772130199
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -557,8 +558,7 @@
   {
     "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777,
-    "removed": 1772108663
+    "port": 7777
   },
   {
     "name": "『V』VANGUARDA | BR | LATAM | Warfare",
@@ -814,7 +814,8 @@
   {
     "name": "Test Server",
     "addr": "193.160.23.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772130199
   },
   {
     "name": "RYE TESTING GROUNDS",
@@ -1151,7 +1152,7 @@
     "port": 7777
   },
   {
-    "name": "OKTOGON | EVENT | OKT vs 106 | Discord.gg/Oktogon #Qonzer",
+    "name": "Oktogon • Event #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1244,7 +1245,7 @@
     "removed": 1771784042
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部 Q群548651低延迟四周年",
+    "name": "CN#3 TT天堂萌新俱乐部Q群：548651欢迎加群！",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1462,7 +1463,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772130199
   },
   {
     "name": "QA Testing - US East #09",
@@ -1959,8 +1961,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1772044242
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2016,6 +2017,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.61",
     "port": 28300
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2098,7 +2104,8 @@
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
     "addr": "92.38.151.76",
-    "port": 29800
+    "port": 29800,
+    "removed": 1772130199
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
