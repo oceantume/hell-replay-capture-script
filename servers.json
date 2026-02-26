@@ -48,8 +48,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1772025823
+    "port": 28300
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -1571,12 +1570,6 @@
     "port": 7777
   },
   {
-    "name": "QNZR | TEST",
-    "addr": "51.38.89.139",
-    "port": 7777,
-    "removed": 1771507278
-  },
-  {
     "name": "hll Server",
     "addr": "51.38.89.154",
     "port": 7777,
@@ -2212,8 +2205,7 @@
   {
     "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
     "addr": "95.135.1.31",
-    "port": 7777,
-    "removed": 1772110131
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | Da",
