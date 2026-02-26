@@ -241,8 +241,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772090887
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -398,7 +397,8 @@
   {
     "name": "[AT/GER] - [HB] Heurigen-Bataillon Österreich - Stammtisch",
     "addr": "176.57.168.253",
-    "port": 28100
+    "port": 28100,
+    "removed": 1772108663
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -558,7 +558,8 @@
   {
     "name": "[LATAM] El Olimpo -③⑥⓪ Conducción- 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772108663
   },
   {
     "name": "『V』VANGUARDA | BR | LATAM | Warfare",
@@ -839,8 +840,7 @@
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1772090887
+    "port": 20200
   },
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
@@ -1235,7 +1235,8 @@
   {
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
     "addr": "37.187.157.115",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772108663
   },
   {
     "name": "LGN Laboratory",
@@ -1249,7 +1250,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部 服务器四周年 Q群：548651",
+    "name": "CN#2 TT天堂萌新俱乐部Q群：548651欢迎加群！",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1497,7 +1498,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1772108663
   },
   {
     "name": "HLL Official - US East #06",
@@ -1545,7 +1547,8 @@
   {
     "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1772108663
   },
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
@@ -1732,12 +1735,6 @@
     "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
     "port": 7777
-  },
-  {
-    "name": "Qonzer | Miami | Test",
-    "addr": "64.31.31.126",
-    "port": 7777,
-    "removed": 1771503804
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
