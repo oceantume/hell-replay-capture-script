@@ -198,6 +198,26 @@
     "port": 28300
   },
   {
+    "name": "HLL Official - UK #02",
+    "addr": "149.102.158.161",
+    "port": 28000
+  },
+  {
+    "name": "QA Testing - EU #05",
+    "addr": "149.102.158.161",
+    "port": 28300
+  },
+  {
+    "name": "HLL Official - UK #01",
+    "addr": "149.102.158.161",
+    "port": 28400
+  },
+  {
+    "name": "QA Testing - UK #07",
+    "addr": "149.102.158.161",
+    "port": 28600
+  },
+  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -295,7 +315,8 @@
   {
     "name": "FREE CLAN/EVENT SERVER - CONTACT lilmanmichael on DISCORD",
     "addr": "157.250.201.86",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772194843
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -498,7 +519,8 @@
   {
     "name": "100.JD DEV SERVER",
     "addr": "176.57.171.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772194843
   },
   {
     "name": "Glory to Ukraine [English]",
@@ -518,22 +540,26 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "176.57.178.141",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772194843
   },
   {
     "name": "QA Testing - UK #07",
     "addr": "176.57.178.141",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772194843
   },
   {
     "name": "HLL Official - UK #02",
     "addr": "176.57.178.17",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772194843
   },
   {
     "name": "QA Testing - EU #05",
     "addr": "176.57.178.17",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772194843
   },
   {
     "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
@@ -1245,12 +1271,12 @@
     "removed": 1771784042
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部 新人领红包 Q群548651",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部 新人领红包 Q群548651",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1493,8 +1519,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1772108663
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
@@ -2020,7 +2045,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772194843
   },
   {
     "name": "HLL Official - South America #01",
