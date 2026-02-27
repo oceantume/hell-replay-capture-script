@@ -1223,7 +1223,7 @@
     "port": 7777
   },
   {
-    "name": "The Expeditionary Forces",
+    "name": "The Expeditionary Forces - NEW PLAYER FRIENDLY - 2 Days VIP for",
     "addr": "216.245.210.196",
     "port": 7797
   },
@@ -1344,6 +1344,11 @@
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
     "addr": "40.27.40.151",
     "port": 7797
+  },
+  {
+    "name": "hll Server",
+    "addr": "40.27.40.151",
+    "port": 7807
   },
   {
     "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
@@ -1478,8 +1483,7 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1772130199
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1939,7 +1943,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772216269
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1954,7 +1959,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772216269
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1977,7 +1983,7 @@
     "port": 28100
   },
   {
-    "name": "Don't Be A Loser - Microphone Required - US EAST",
+    "name": "Don't Be A Loser - All Maps - US EAST",
     "addr": "83.223.203.138",
     "port": 28100
   },
@@ -2056,12 +2062,6 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "90.248.84.192",
-    "port": 7777,
-    "removed": 1771593307
   },
   {
     "name": "hll Server",
@@ -2199,7 +2199,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | LVL 20+ | GBG-HLL.COM ",
     "addr": "95.135.1.2",
     "port": 7777
   },
