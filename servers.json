@@ -855,7 +855,8 @@
   {
     "name": "nitrado.net gameserver P2zkts1L",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1772175017
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1418,12 +1419,6 @@
     "name": "△ The Motor Pool #2 | Level 25+",
     "addr": "40.27.45.6",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "40.27.45.7",
-    "port": 7777,
-    "removed": 1771568857
   },
   {
     "name": "Hell let loose Server by g-portal.com",
