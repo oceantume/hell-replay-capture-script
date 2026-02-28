@@ -198,6 +198,11 @@
     "port": 28300
   },
   {
+    "name": "AAA SERVEUR EN TEST",
+    "addr": "149.102.154.195",
+    "port": 28500
+  },
+  {
     "name": "HLL Official - UK #02",
     "addr": "149.102.158.161",
     "port": 28000
@@ -870,7 +875,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1772282098
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -2084,12 +2090,6 @@
     "port": 7777
   },
   {
-    "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
-    "addr": "92.118.18.72",
-    "port": 7807,
-    "removed": 1771676118
-  },
-  {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
     "port": 7797
@@ -2113,7 +2113,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772282098
   },
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
