@@ -157,7 +157,7 @@
     "port": 12345
   },
   {
-    "name": "GER｜Trümmertruppe(TЯÜM) ·MIC German◦dietruemmertruppe.d",
+    "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
     "port": 8530
   },
@@ -224,8 +224,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1772283725
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -265,8 +264,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772283725
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -578,7 +576,7 @@
     "port": 28300
   },
   {
-    "name": "[FR|TdA] 🌪 La Tempête d’Acier 🌪 Qualité via la commun",
+    "name": "[FR|TdA] La Tempête d’Acier | lvl 30 Mini | Micro Obligatoir",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -728,7 +726,7 @@
     "port": 7817
   },
   {
-    "name": "①︱THE CIRCLE #1︱MIXED︱DISCORD.GG/THE-CIRCLE",
+    "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "192.169.90.203",
     "port": 7827
   },
@@ -748,7 +746,7 @@
     "port": 7787
   },
   {
-    "name": "[BSB] Blood Sweat & Beers | Competitive Maps Only | Powered By ",
+    "name": "[BSB] The Red Lion Inn | New Player Friendly | Powered By Qonze",
     "addr": "192.169.90.204",
     "port": 7797
   },
@@ -818,22 +816,22 @@
     "port": 7787
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ NIV +25 - discord/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ DÉBUTANTS - discord/7eCie",
     "addr": "193.160.23.19",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ DÉBUTANTS - discord/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -859,14 +857,15 @@
     "port": 9620
   },
   {
-    "name": "Friday - Weekly",
+    "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
   },
   {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1772302333
   },
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
@@ -1414,8 +1413,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1772283725
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1725,8 +1723,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1772283725
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - English Command - turksletloose.com",
@@ -1811,8 +1808,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1772283725
+    "port": 7797
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1968,8 +1964,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1772216269
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2127,7 +2122,8 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.86",
-    "port": 28900
+    "port": 28900,
+    "removed": 1772302333
   },
   {
     "name": "Server Tango Latam",
@@ -2196,7 +2192,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | LVL 10+ | GBG-HLL.COM ",
     "addr": "95.135.1.2",
     "port": 7777
   },
