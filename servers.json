@@ -158,7 +158,7 @@
     "port": 12345
   },
   {
-    "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German #dietruemmertruppe.de",
+    "name": "GER｜Trümmertruppe(TЯÜM) ·MIC German ·dietruemmertruppe.d",
     "addr": "141.95.33.70",
     "port": 8530
   },
@@ -980,7 +980,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 16:00/75+ 17",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 15:00/75+ 16",
     "addr": "208.115.206.38",
     "port": 7797
   },
@@ -1503,7 +1503,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772280916
   },
   {
     "name": "HLL Official - US East #02",
