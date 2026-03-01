@@ -48,8 +48,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1772370321
+    "port": 28300
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -226,8 +225,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1772370321
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -267,8 +265,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772370321
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -370,8 +367,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1772370321
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -523,7 +519,8 @@
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
     "addr": "176.57.171.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1772388777
   },
   {
     "name": "100.JD DEV SERVER",
@@ -576,7 +573,7 @@
     "removed": 1772194843
   },
   {
-    "name": "[GER] Das Bollwerk! - TTV - | Mic Only |",
+    "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
     "addr": "176.57.181.105",
     "port": 28200
   },
@@ -833,12 +830,12 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ DÉBUTANTS - discord/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
     "addr": "193.160.23.19",
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ DÉBUTANTS - discord/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
   },
@@ -850,7 +847,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ ÉVENT - discord/7eCie",
     "addr": "193.160.23.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772388777
   },
   {
     "name": "RYE TESTING GROUNDS",
@@ -892,6 +890,11 @@
     "name": "nitrado.net gameserver P2zkts1L",
     "addr": "195.82.158.186",
     "port": 20900
+  },
+  {
+    "name": "Zap Branigan",
+    "addr": "195.82.158.186",
+    "port": 21100
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -941,12 +944,14 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8888
+    "port": 8888,
+    "removed": 1772388777
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8908
+    "port": 8908,
+    "removed": 1772388777
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -1387,8 +1392,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1772370321
+    "port": 7777
   },
   {
     "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
@@ -1403,14 +1407,12 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1772370321
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1772370321
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1589,7 +1591,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1772388777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1713,8 +1716,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1772370321
+    "port": 7787
   },
   {
     "name": "Turks Let Loose #2 - English Command - turksletloose.com",
@@ -1799,8 +1801,7 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1772370321
+    "port": 7797
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1928,8 +1929,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1772216269
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1944,7 +1944,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772388777
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1959,7 +1960,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772388777
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1984,8 +1986,7 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1772370321
+    "port": 28700
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2124,7 +2125,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772388777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
