@@ -159,8 +159,7 @@
   {
     "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1772326336
+    "port": 8530
   },
   {
     "name": "DKB - Event server - HLLdanmark.dk",
@@ -180,7 +179,8 @@
   {
     "name": "Antietam Let Loose |US East| Hosted by HL",
     "addr": "144.126.153.213",
-    "port": 29000
+    "port": 29000,
+    "removed": 1772346181
   },
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
@@ -1427,7 +1427,7 @@
     "port": 7777
   },
   {
-    "name": "Merciless | Conquest Server | US West",
+    "name": "Merciless | Warfare Server 2 | US West",
     "addr": "40.27.44.13",
     "port": 7777
   },
@@ -2111,7 +2111,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772346181
   },
   {
     "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
