@@ -159,7 +159,8 @@
   {
     "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772326336
   },
   {
     "name": "DKB - Event server - HLLdanmark.dk",
@@ -527,7 +528,7 @@
     "removed": 1772194843
   },
   {
-    "name": "HLL B&B #1 - Warfare Only - Dutch/English",
+    "name": "HLL B&B #1 - Warfare Only - Dutch/English [New players welcome]",
     "addr": "176.57.171.38",
     "port": 28300
   },
@@ -1709,12 +1710,6 @@
     "removed": 1772022278
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.2.19",
-    "port": 7777,
-    "removed": 1771721236
-  },
-  {
     "name": "△ The Motor Pool #2 | Level 25+",
     "addr": "64.31.2.20",
     "port": 7777,
@@ -2197,7 +2192,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | LVL 10+ | GBG-HLL.COM ",
+    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | LVL 20+ | GBG-HLL.COM ",
     "addr": "95.135.1.2",
     "port": 7777
   },
