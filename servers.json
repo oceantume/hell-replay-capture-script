@@ -662,7 +662,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1772475677
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -682,7 +683,8 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "192.169.86.106",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772475677
   },
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1159,6 +1161,11 @@
     "port": 7797
   },
   {
+    "name": "GG GUYS GG | LIETUVA | EN/LT server | No Tubruk XD",
+    "addr": "208.115.248.108",
+    "port": 7777
+  },
+  {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
@@ -1174,7 +1181,7 @@
     "port": 7787
   },
   {
-    "name": "57TH TURKISH REGIMENT | TÜRKÇE | POWERED BY QONZER",
+    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QONZER",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1401,8 +1408,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1772457390
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1440,6 +1446,11 @@
     "port": 7787
   },
   {
+    "name": "Pathfinders | Event Server",
+    "addr": "40.27.45.15",
+    "port": 7787
+  },
+  {
     "name": "△ The Motor Pool #2 | Level 25+",
     "addr": "40.27.45.6",
     "port": 7777
@@ -1472,7 +1483,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772475677
   },
   {
     "name": "HLL Official - US West #01",
@@ -1900,7 +1912,8 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772475677
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1926,8 +1939,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1772388777
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
