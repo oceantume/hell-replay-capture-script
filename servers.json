@@ -104,14 +104,12 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1772432933
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1772432933
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
@@ -302,7 +300,8 @@
   {
     "name": "Turks Let Loose #1 - Sadece Türkçe - turksletloose.com",
     "addr": "156.67.62.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772436393
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
