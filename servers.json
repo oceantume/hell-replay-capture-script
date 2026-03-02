@@ -874,6 +874,11 @@
     "port": 7777
   },
   {
+    "name": "Turks Let Loose #1 - Sadece Türkçe - turksletloose.com",
+    "addr": "195.162.69.175",
+    "port": 7787
+  },
+  {
     "name": "nitrado.net gameserver _3V9iwKM",
     "addr": "195.82.158.186",
     "port": 20200,
@@ -1536,21 +1541,9 @@
   },
   {
     "name": "hll Server",
-    "addr": "45.151.81.210",
-    "port": 7787,
-    "removed": 1771828463
-  },
-  {
-    "name": "hll Server",
     "addr": "45.151.81.211",
     "port": 7777,
     "removed": 1771893811
-  },
-  {
-    "name": "hll Server",
-    "addr": "45.151.81.211",
-    "port": 7787,
-    "removed": 1771828463
   },
   {
     "name": "TD4W Clan Server",
@@ -1588,12 +1581,6 @@
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
     "port": 7777
-  },
-  {
-    "name": "hll Server",
-    "addr": "51.38.89.154",
-    "port": 7777,
-    "removed": 1771828463
   },
   {
     "name": "[AUT|GER] ALTER SERVER!!! 03.03.26 OFFLINE #ACAB #CAT | Discord",
