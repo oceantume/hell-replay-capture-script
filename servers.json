@@ -104,12 +104,14 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1772432933
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1772432933
   },
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
@@ -1266,7 +1268,7 @@
     "port": 7787
   },
   {
-    "name": "<CN>#4 瓦学弟 ε=(´ο｀*)) 黑丝 ※ 学姐达咩 Q:97955",
+    "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
     "addr": "40.27.40.15",
     "port": 7777
   },
@@ -1278,7 +1280,8 @@
   {
     "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
     "addr": "40.27.40.150",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772432933
   },
   {
     "name": "CN2#散人社区|新春攻防龙马精神！丨日服120748151",
