@@ -254,13 +254,13 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772540482
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772521968
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -938,7 +938,7 @@
     "port": 8888
   },
   {
-    "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - Orange | discord.gg/greyhounds",
     "addr": "203.17.244.3",
     "port": 8898
   },
@@ -1188,7 +1188,7 @@
     "port": 7787
   },
   {
-    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QONZER",
+    "name": "57TH TURKISH REGIMENT | ENGLISH | POWERED BY QONZER",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1429,12 +1429,14 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772540482
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772540482
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1521,12 +1523,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772540482
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772540482
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1541,7 +1545,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1772540482
   },
   {
     "name": "HLL Official - US East #06",
@@ -1707,6 +1712,11 @@
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
+  },
+  {
+    "name": "hll Server",
+    "addr": "64.31.20.182",
+    "port": 7777
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -2008,7 +2018,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND NIGHT - Green | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -2025,8 +2035,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1772194843
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
