@@ -594,6 +594,11 @@
     "port": 7777
   },
   {
+    "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
+    "addr": "181.214.221.212",
+    "port": 7787
+  },
+  {
     "name": "『V』VANGUARDA | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
     "port": 7797,
@@ -662,8 +667,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1772475677
+    "port": 7807
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -1222,7 +1226,7 @@
     "port": 8530
   },
   {
-    "name": "[L9] The Loyal Nine | LVL 15+ During Free Weekend",
+    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "216.245.210.194",
     "port": 7777
   },
@@ -1448,7 +1452,13 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "40.27.45.15",
-    "port": 7787
+    "port": 7777
+  },
+  {
+    "name": "Pathfinders | Event Server",
+    "addr": "40.27.45.15",
+    "port": 7787,
+    "removed": 1772498801
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
@@ -1547,12 +1557,6 @@
     "port": 9620
   },
   {
-    "name": "hll Server",
-    "addr": "45.151.81.211",
-    "port": 7777,
-    "removed": 1771893811
-  },
-  {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
     "port": 8530
@@ -1587,6 +1591,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
+    "port": 7777
+  },
+  {
+    "name": "QNZR | TEST",
+    "addr": "51.38.89.139",
     "port": 7777
   },
   {
