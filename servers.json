@@ -98,7 +98,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1772519124
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -341,7 +342,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1772519124
   },
   {
     "name": "QA Testing - EU #03",
@@ -505,7 +507,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772519124
   },
   {
     "name": "Borry‘s Playground",
@@ -799,7 +802,8 @@
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
-    "port": 9075
+    "port": 9075,
+    "removed": 1772519124
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
@@ -1288,13 +1292,12 @@
     "port": 7777
   },
   {
-    "name": "<CN>#2 瓦学弟萌新进阶（纯攻防）Q:979552783",
+    "name": "CN3#散人社区|免费周萌新快乐营丨限制等级160级1",
     "addr": "40.27.40.150",
-    "port": 7787,
-    "removed": 1772432933
+    "port": 7787
   },
   {
-    "name": "CN2#散人社区|新春攻防龙马精神！丨日服120748151",
+    "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
     "addr": "40.27.40.150",
     "port": 7797
   },
@@ -1304,7 +1307,7 @@
     "port": 7807
   },
   {
-    "name": "CN1#散人社区|新年快乐龙马奔腾！丨日服120748151",
+    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.150",
     "port": 7817
   },
