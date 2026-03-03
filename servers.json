@@ -254,8 +254,7 @@
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1772540482
+    "port": 7787
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -1249,12 +1248,6 @@
     "port": 8772
   },
   {
-    "name": "[GER] Fliesentisch-Veteranen #2 I BFTB I Lvl 15+",
-    "addr": "23.111.240.210",
-    "port": 9075,
-    "removed": 1771935855
-  },
-  {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
     "port": 7777
@@ -1429,14 +1422,12 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1772540482
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777,
-    "removed": 1772540482
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -2056,6 +2047,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.204.235.149",
+    "port": 7777
   },
   {
     "name": "hll Server",
