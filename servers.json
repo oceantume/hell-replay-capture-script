@@ -1812,6 +1812,11 @@
     "port": 7787
   },
   {
+    "name": "hll Server",
+    "addr": "64.31.62.74",
+    "port": 7777
+  },
+  {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
