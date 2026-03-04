@@ -30,12 +30,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Server",
-    "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1772025823
-  },
-  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -180,8 +174,7 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
     "addr": "145.239.253.127",
-    "port": 9014,
-    "removed": 1772630084
+    "port": 9014
   },
   {
     "name": ".PT Training",
@@ -913,7 +906,8 @@
   {
     "name": "Zap Branigan",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1772648518
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1431,12 +1425,14 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772648518
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772648518
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1497,8 +1493,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1772475677
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1940,8 +1935,7 @@
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1772475677
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -2219,7 +2213,7 @@
     "port": 7777
   },
   {
-    "name": "HILF | UA/ENG | Europe | Ukrainian | Community Server",
+    "name": "HILF | UA/ENG | Ukraine | Community Server",
     "addr": "95.135.1.6",
     "port": 7777
   },
