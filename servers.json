@@ -902,7 +902,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1772628211
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1694,12 +1695,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.2.18",
-    "port": 7777,
-    "removed": 1772022278
-  },
-  {
     "name": "△ The Motor Pool #2 | Level 25+",
     "addr": "64.31.2.20",
     "port": 7777,
@@ -1761,7 +1756,7 @@
     "port": 7777
   },
   {
-    "name": "cn「CZS」超质数中队跑图训练服",
+    "name": "CN「CZS」超质数中队跑图训练服2",
     "addr": "64.31.32.212",
     "port": 7777
   },
