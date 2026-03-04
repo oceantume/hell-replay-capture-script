@@ -180,7 +180,8 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
     "addr": "145.239.253.127",
-    "port": 9014
+    "port": 9014,
+    "removed": 1772630084
   },
   {
     "name": ".PT Training",
@@ -902,8 +903,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1772628211
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
