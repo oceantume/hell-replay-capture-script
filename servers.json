@@ -93,7 +93,8 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772605408
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -199,7 +200,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "149.102.158.161",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772605408
   },
   {
     "name": "QA Testing - EU #05",
@@ -341,8 +343,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1772519124
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -496,7 +497,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772605408
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -506,8 +508,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1772519124
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -936,7 +937,8 @@
   {
     "name": "cn「CZS」超质数中队跑图训练服",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1772605408
   },
   {
     "name": "Streamline HLL Test",
@@ -1852,6 +1854,11 @@
     "port": 8530
   },
   {
+    "name": "NO MAN'S LAND | Operation Overlord | 24/7 Warfare",
+    "addr": "67.217.48.14",
+    "port": 9620
+  },
+  {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.58.130",
     "port": 8530
@@ -1870,12 +1877,6 @@
     "name": "RCON Testing",
     "addr": "74.63.225.18",
     "port": 7797
-  },
-  {
-    "name": "hll Server",
-    "addr": "74.63.225.34",
-    "port": 7777,
-    "removed": 1771982752
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
