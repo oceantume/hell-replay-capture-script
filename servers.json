@@ -515,6 +515,11 @@
     "port": 28000
   },
   {
+    "name": "Falling Skies",
+    "addr": "176.57.171.176",
+    "port": 28200
+  },
+  {
     "name": "DieSuchtLappen [DSL] GER/EN",
     "addr": "176.57.171.38",
     "port": 28100,
@@ -750,7 +755,8 @@
   {
     "name": "hll Server",
     "addr": "192.169.90.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772587138
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -770,7 +776,8 @@
   {
     "name": "hll Server",
     "addr": "192.169.90.206",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772587138
   },
   {
     "name": "[GGW] Garries Gone Wild",
