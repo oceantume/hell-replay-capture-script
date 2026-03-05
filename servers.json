@@ -718,7 +718,7 @@
     "port": 8530
   },
   {
-    "name": "[ENG/GER] Greyhound Public | only 1min Warmup | Votemap&Votekic",
+    "name": "GREYHOUND NIGHT - Green | discord.gg/greyhounds",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -860,7 +860,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
-    "port": 9620
+    "port": 9620,
+    "removed": 1772738199
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -1544,7 +1545,8 @@
   {
     "name": "RMC Training 2",
     "addr": "45.151.81.210",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772738199
   },
   {
     "name": "Another Qonzer.com server is born!",
