@@ -318,12 +318,6 @@
     "port": 9075
   },
   {
-    "name": "EXD.gg » We've Moved! Add Us Again | Discord.exd.gg",
-    "addr": "176.31.232.159",
-    "port": 8530,
-    "removed": 1772090887
-  },
-  {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
@@ -1517,13 +1511,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1772540482
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772713340
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1533,7 +1527,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772713340
   },
   {
     "name": "HLL Official - US East #03",
@@ -1845,7 +1840,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "TEG.gg | Mic | Employed gamers only <3",
     "addr": "69.10.33.178",
     "port": 8530
   },
