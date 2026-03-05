@@ -340,7 +340,8 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772736214
   },
   {
     "name": "HLL Official - Europe #05",
@@ -498,7 +499,8 @@
   {
     "name": "Falling Skies",
     "addr": "176.57.171.176",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772736214
   },
   {
     "name": "DieSuchtLappen [DSL] GER/EN",
@@ -656,7 +658,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1772736214
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -1483,7 +1486,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772736214
   },
   {
     "name": "QA Testing - US East #09",
@@ -1545,7 +1549,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "45.151.81.211",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772736214
   },
   {
     "name": "TD4W Clan Server",
@@ -2073,12 +2078,6 @@
     "port": 28400
   },
   {
-    "name": "[LATAM/ESP] | URANIUM | | ENTRENAMIENTOS |",
-    "addr": "92.38.151.76",
-    "port": 29800,
-    "removed": 1772130199
-  },
-  {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "92.38.151.86",
     "port": 28900,
@@ -2186,7 +2185,7 @@
     "port": 7777
   },
   {
-    "name": "HILF | UA/ENG | Ukraine | Community Server",
+    "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
     "addr": "95.135.1.6",
     "port": 7777
   },
