@@ -87,8 +87,7 @@
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1772605408
+    "port": 28200
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -194,8 +193,7 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "149.102.158.161",
-    "port": 28000,
-    "removed": 1772605408
+    "port": 28000
   },
   {
     "name": "QA Testing - EU #05",
@@ -205,7 +203,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772691937
   },
   {
     "name": "QA Testing - UK #07",
@@ -288,7 +287,7 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose #1 - Sadece Türkçe - turksletloose.com",
+    "name": "Turks Let Loose︱Sadece Türkçe︱discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
   },
@@ -404,7 +403,8 @@
   {
     "name": "[GER] KLABUSTER ★ BEEREN ★ SAFT [BCH - Clan] ☠",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1772691937
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -825,7 +825,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Event & Match Server #2",
+    "name": "[GER] Omen Prep & Training Server #2",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -1288,7 +1288,7 @@
     "port": 7777
   },
   {
-    "name": "CN3#散人社区|免费周萌新快乐营丨限制等级160级1",
+    "name": "CN3#散人社区|打折周萌新欢乐巴士丨限级160级1207",
     "addr": "40.27.40.150",
     "port": 7787
   },
@@ -1703,7 +1703,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose #2 - English Command - turksletloose.com",
+    "name": "Turks Let Loose︱English︱LVL 25+︱turksletloose.com",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -2195,7 +2195,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | Da",
+    "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | #Q",
     "addr": "95.135.1.4",
     "port": 7777
   },
