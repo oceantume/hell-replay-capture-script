@@ -350,8 +350,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1772457390
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -1537,6 +1536,16 @@
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
     "port": 9620
+  },
+  {
+    "name": "RMC Training 2",
+    "addr": "45.151.81.210",
+    "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "45.151.81.211",
+    "port": 7787
   },
   {
     "name": "TD4W Clan Server",
