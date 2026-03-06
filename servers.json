@@ -208,7 +208,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1772821200
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -511,6 +512,11 @@
     "port": 28000
   },
   {
+    "name": "WCB Balkan server",
+    "addr": "176.57.174.211",
+    "port": 28200
+  },
+  {
     "name": "Testify",
     "addr": "176.57.174.211",
     "port": 28300
@@ -710,7 +716,7 @@
     "port": 7787
   },
   {
-    "name": "[BSB] The Red Lion Inn | New Player Friendly | Powered By Qonze",
+    "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
     "port": 7797
   },
@@ -1123,7 +1129,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1148,7 +1154,7 @@
     "port": 7787
   },
   {
-    "name": "57TH TURKISH REGIMENT | ENGLISH | POWERED BY QONZER",
+    "name": "57TH TURKISH REGIMENT | EVENT SERVER| POWERED BY QONZER",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1301,7 +1307,8 @@
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1772821200
   },
   {
     "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
@@ -1331,7 +1338,8 @@
   {
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7867
+    "port": 7867,
+    "removed": 1772821200
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1351,8 +1359,7 @@
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "40.27.41.6",
-    "port": 7777,
-    "removed": 1772802754
+    "port": 7777
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1377,14 +1384,12 @@
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1772802754
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777,
-    "removed": 1772802754
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1902,7 +1907,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1772821200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -2004,7 +2010,8 @@
   {
     "name": "hll Server",
     "addr": "91.189.182.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772821200
   },
   {
     "name": "Excel Spreadsheets",
