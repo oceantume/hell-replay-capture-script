@@ -203,8 +203,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400,
-    "removed": 1772691937
+    "port": 28400
   },
   {
     "name": "QA Testing - UK #07",
@@ -340,13 +339,13 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1772736214
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772778246
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -397,8 +396,7 @@
   {
     "name": "[GER] KLABUSTER ★ BEEREN ★ SAFT [BCH - Clan] ☠",
     "addr": "176.57.168.252",
-    "port": 28100,
-    "removed": 1772691937
+    "port": 28100
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1115,7 +1113,7 @@
     "port": 7787
   },
   {
-    "name": "Pathfinders | Frankfurt | LVL 25+ | ENG | Discord.gg/pathfinder",
+    "name": "Pathfinders | Event Frankfurt",
     "addr": "208.115.226.5",
     "port": 7787
   },
@@ -1946,7 +1944,7 @@
     "port": 28100
   },
   {
-    "name": "Don't Be A Loser - All Maps - US EAST",
+    "name": "Don't Be A Loser - Level 50+ - All Maps - US EAST",
     "addr": "83.223.203.138",
     "port": 28100
   },
@@ -2102,6 +2100,11 @@
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
     "port": 28200
+  },
+  {
+    "name": "QNZR | QNZR",
+    "addr": "95.135.0.15",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
