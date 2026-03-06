@@ -660,7 +660,8 @@
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
     "addr": "188.64.33.2",
-    "port": 11800
+    "port": 11800,
+    "removed": 1772799587
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -988,7 +989,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 15:00/75+ 16",
+    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 15:00/100+ 1",
     "addr": "208.115.206.38",
     "port": 7797
   },
@@ -1493,7 +1494,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772799587
   },
   {
     "name": "HLL Official - US East #01",
@@ -1503,8 +1505,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1772713340
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1514,8 +1515,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1772713340
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
