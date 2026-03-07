@@ -901,8 +901,7 @@
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYER WELCOME | DANMARK",
     "addr": "198.244.177.84",
-    "port": 8530,
-    "removed": 1772885746
+    "port": 8530
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1116,7 +1115,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #4 | BOT LOBBY | GBG-HLL.COM | #QONZER",
+    "name": "! ! !GERMAN BATTLEGROUND #4 | FEUCHTES LOCH | GBG-HLL.COM | #QO",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -2083,7 +2082,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772886943
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
