@@ -42,7 +42,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772888601
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -215,7 +216,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772888601
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -261,43 +263,38 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772888601
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1772885746
+    "port": 7807
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827,
-    "removed": 1772885746
+    "port": 7827
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.150",
-    "port": 7877,
-    "removed": 1772885746
+    "port": 7877
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777,
-    "removed": 1772885746
+    "port": 7777
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1772885746
+    "port": 7787
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.174",
-    "port": 7777,
-    "removed": 1772885746
+    "port": 7777
   },
   {
     "name": "Turks Let Loose︱Sadece Türkçe︱discord.gg/TLL",
@@ -1218,7 +1215,8 @@
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772888601
   },
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
@@ -1378,7 +1376,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772888601
   },
   {
     "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
@@ -1398,7 +1397,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772888601
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1692,7 +1692,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772888601
   },
   {
     "name": "Turks Let Loose︱English︱LVL 25+︱turksletloose.com",
@@ -1788,7 +1789,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1772888601
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1969,7 +1971,8 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772888601
   },
   {
     "name": "Big Boi Gaming | New Players Welcome | New Launch 02/28/2026",
@@ -2082,8 +2085,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
     "addr": "92.38.150.147",
-    "port": 28400,
-    "removed": 1772886943
+    "port": 28400
   },
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
