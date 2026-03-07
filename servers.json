@@ -244,7 +244,8 @@
   {
     "name": "[CASUAL] Hell Let Loose - Open Server",
     "addr": "15.204.170.69",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772846267
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
@@ -510,7 +511,7 @@
     "port": 28000
   },
   {
-    "name": "WCB Balkan server",
+    "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | Discord/WCB",
     "addr": "176.57.174.211",
     "port": 28200
   },
@@ -1417,6 +1418,11 @@
     "addr": "40.27.45.15",
     "port": 7787,
     "removed": 1772498801
+  },
+  {
+    "name": "[CASUAL] Hell Let Loose - Open Server",
+    "addr": "40.27.45.16",
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
