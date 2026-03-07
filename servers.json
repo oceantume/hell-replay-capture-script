@@ -97,7 +97,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1772864279
   },
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
@@ -345,8 +346,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1772778246
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -591,6 +591,11 @@
     "port": 7797
   },
   {
+    "name": "[CAV] CAVEIRAS BRASIL #3 | 36x36 | Apenas Infantaria",
+    "addr": "181.214.221.41",
+    "port": 7807
+  },
+  {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
     "port": 7827
@@ -681,7 +686,8 @@
   {
     "name": "[CASUAL] Hell Let Loose - Open Server",
     "addr": "192.169.86.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772864279
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1189,6 +1195,16 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "216.144.245.84",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "216.144.245.85",
+    "port": 7777
+  },
+  {
     "name": "4th Infantry Division | Steadfast and Loyal",
     "addr": "216.173.113.250",
     "port": 8530
@@ -1342,6 +1358,11 @@
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
     "port": 7867
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "40.27.40.20",
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1815,7 +1836,7 @@
     "port": 8530
   },
   {
-    "name": "[FFE] ★Fire For Effect★ - NEW PLAYERS WELCOME",
+    "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
   },
