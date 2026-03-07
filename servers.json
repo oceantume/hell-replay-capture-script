@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1772823840
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -13,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1772823840
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -244,6 +242,11 @@
     "port": 7777
   },
   {
+    "name": "[CASUAL] Hell Let Loose - Open Server",
+    "addr": "15.204.170.69",
+    "port": 7787
+  },
+  {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7777
@@ -363,12 +366,6 @@
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
-  },
-  {
-    "name": "Bootylicious Bums (Warfare only, 1 hour time limit)",
-    "addr": "176.57.165.122",
-    "port": 35800,
-    "removed": 1772239233
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -498,10 +495,9 @@
     "removed": 1772736214
   },
   {
-    "name": "DieSuchtLappen [DSL] GER/EN",
+    "name": "VT1",
     "addr": "176.57.171.38",
-    "port": 28100,
-    "removed": 1772388777
+    "port": 28100
   },
   {
     "name": "B&B #1 - Warfare Only - Dutch/English [New players welcome]",
@@ -680,6 +676,11 @@
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
     "port": 7777
+  },
+  {
+    "name": "[CASUAL] Hell Let Loose - Open Server",
+    "addr": "192.169.86.212",
+    "port": 7787
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1549,8 +1550,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1772388777
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1901,8 +1901,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1772758126
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
