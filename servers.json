@@ -266,32 +266,38 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1772885746
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1772885746
   },
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.150",
-    "port": 7877
+    "port": 7877,
+    "removed": 1772885746
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772885746
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772885746
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.174",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772885746
   },
   {
     "name": "Turks Let Loose︱Sadece Türkçe︱discord.gg/TLL",
@@ -895,7 +901,8 @@
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYER WELCOME | DANMARK",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1772885746
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -1109,7 +1116,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "! ! !GERMAN BATTLEGROUND #4 | BOT LOBBY | GBG-HLL.COM | #QONZER",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1200,7 +1207,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
     "addr": "216.144.245.85",
     "port": 7777
   },
@@ -1360,7 +1367,7 @@
     "port": 7867
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1499,8 +1506,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1772799587
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1732,6 +1738,11 @@
   {
     "name": "CN「CZS」超质数中队比赛训练服",
     "addr": "64.31.32.212",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.32.213",
     "port": 7777
   },
   {
