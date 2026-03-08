@@ -42,7 +42,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1772975087
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -210,7 +211,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772975087
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -256,7 +258,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1772975087
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1478,7 +1481,8 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772975087
   },
   {
     "name": "QA Testing - US West #06",
@@ -1488,17 +1492,20 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1772975087
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772975087
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1772975087
   },
   {
     "name": "QA Testing - US East #09",
@@ -1806,8 +1813,7 @@
   {
     "name": "I Love Playing Apex",
     "addr": "64.31.61.93",
-    "port": 7777,
-    "removed": 1772973402
+    "port": 7777
   },
   {
     "name": "Oceanic Ocelots | US West",
