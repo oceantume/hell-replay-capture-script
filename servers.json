@@ -742,12 +742,6 @@
     "removed": 1772587138
   },
   {
-    "name": "[GGW] Garries Gone Wild",
-    "addr": "192.169.92.27",
-    "port": 7787,
-    "removed": 1772367400
-  },
-  {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
     "port": 7877
@@ -1171,12 +1165,6 @@
     "name": "Sassy's Assault | § eTool | .gg/hostile + etool",
     "addr": "208.115.255.53",
     "port": 7777
-  },
-  {
-    "name": "★≡ Liberty & Lead ★≡ WE WANT YOU! ★≡ US East ★≡",
-    "addr": "209.192.185.171",
-    "port": 7777,
-    "removed": 1772367400
   },
   {
     "name": "[EST/ENG] Estonian Division | WARFARE | New Players Welcome",
@@ -1818,7 +1806,8 @@
   {
     "name": "I Love Playing Apex",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772973402
   },
   {
     "name": "Oceanic Ocelots | US West",
