@@ -52,14 +52,12 @@
   {
     "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
-    "port": 7777,
-    "removed": 1772932994
+    "port": 7777
   },
   {
     "name": "[ESP] LATAMSQUAD - discord.gg/latamsquad | latamsquad.org",
     "addr": "108.165.230.224",
-    "port": 7797,
-    "removed": 1772932994
+    "port": 7797
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -84,7 +82,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1772950876
   },
   {
     "name": "HLL Official - Russia #02",
@@ -605,20 +604,17 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777,
-    "removed": 1772932994
+    "port": 7777
   },
   {
     "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - RECRUTAMENTO (11) 91155-20",
     "addr": "181.214.48.19",
-    "port": 7787,
-    "removed": 1772932994
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797,
-    "removed": 1772932994
+    "port": 7797
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -651,6 +647,11 @@
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
     "port": 9075
+  },
+  {
+    "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
+    "addr": "191.101.30.57",
+    "port": 8530
   },
   {
     "name": "Pathfinders | Event Server",
@@ -1238,14 +1239,12 @@
   {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
-    "port": 7777,
-    "removed": 1772932994
+    "port": 7777
   },
   {
     "name": "[BRASIL] MARRAM.COM.BR - discord.gg/marram",
     "addr": "37.148.133.8",
-    "port": 7797,
-    "removed": 1772932994
+    "port": 7797
   },
   {
     "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
@@ -1995,6 +1994,11 @@
     "name": "Big Boi Gaming | New Players Welcome | New Launch 02/28/2026",
     "addr": "83.223.207.55",
     "port": 28400
+  },
+  {
+    "name": "OGHC Battleground - New Players Welcome - US Central",
+    "addr": "83.223.207.55",
+    "port": 28500
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
