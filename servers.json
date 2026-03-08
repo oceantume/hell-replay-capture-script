@@ -256,8 +256,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772953399
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -297,8 +296,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1772953399
+    "port": 9075
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -777,8 +775,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1772953399
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -788,8 +785,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1772953399
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -857,8 +853,7 @@
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
     "addr": "195.82.158.186",
-    "port": 20300,
-    "removed": 1772953399
+    "port": 20300
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
@@ -1000,8 +995,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1772953399
+    "port": 7877
   },
   {
     "name": "A Qonzer.com Server Is Born",
@@ -1046,8 +1040,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1772953399
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -1142,8 +1135,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1772953399
+    "port": 7797
   },
   {
     "name": "GG GUYS GG | LIETUVA | EN/LT server | No Tobruk XD",
@@ -1261,8 +1253,7 @@
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
     "addr": "40.27.40.15",
-    "port": 7777,
-    "removed": 1772953399
+    "port": 7777
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
@@ -1389,6 +1380,11 @@
     "name": "E_Another Qonzer.com server is born!",
     "addr": "40.27.40.22",
     "port": 7787
+  },
+  {
+    "name": "CN「CZS」超质数中队比赛训练服",
+    "addr": "40.27.40.23",
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1544,7 +1540,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1772972188
   },
   {
     "name": "HLL Official - US East #03",
@@ -1586,8 +1583,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1772953399
+    "port": 8530
   },
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
@@ -1687,8 +1683,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1772953399
+    "port": 8530
   },
   {
     "name": "hll Server",
@@ -1759,7 +1754,8 @@
   {
     "name": "CN「CZS」超质数中队比赛训练服",
     "addr": "64.31.32.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772972188
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1816,7 +1812,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1772972188
   },
   {
     "name": "I Love Playing Apex",
@@ -2183,8 +2180,7 @@
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon & deutsche Spra",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1772953399
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | LVL 20+ | GBG-HLL.COM ",
