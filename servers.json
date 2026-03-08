@@ -99,8 +99,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1772864279
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
@@ -211,8 +210,7 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1772975087
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -258,8 +256,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1772975087
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1481,8 +1478,7 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1772975087
+    "port": 28000
   },
   {
     "name": "QA Testing - US West #06",
@@ -1498,14 +1494,12 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1772975087
+    "port": 28500
   },
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1772975087
+    "port": 28700
   },
   {
     "name": "QA Testing - US East #09",
@@ -1593,7 +1587,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1772993568
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1891,6 +1886,11 @@
     "port": 7787
   },
   {
+    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos | Eventos | discord.gg/cavei",
+    "addr": "78.111.102.114",
+    "port": 29100
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1943,8 +1943,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1772907140
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
