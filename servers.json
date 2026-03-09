@@ -83,8 +83,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1772950876
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -99,7 +98,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1773037899
   },
   {
     "name": "Garrisons & Whiskey Ξ Infantry Only",
@@ -199,7 +199,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773037899
   },
   {
     "name": "QA Testing - UK #07",
@@ -436,7 +437,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773037899
   },
   {
     "name": "DevQA - EU #02",
@@ -517,7 +519,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773037899
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -1167,7 +1170,8 @@
   {
     "name": "CN.jpPUMA做最优质的战士冲突服q746699634",
     "addr": "216.144.245.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773037899
   },
   {
     "name": "Another Qonzer.com server is born!",
