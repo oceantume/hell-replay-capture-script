@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1772996602
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -13,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1772996602
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -291,6 +289,11 @@
     "port": 7777
   },
   {
+    "name": "{serverName}",
+    "addr": "154.12.251.54",
+    "port": 30000
+  },
+  {
     "name": "Turks Let Loose︱Sadece Türkçe︱discord.gg/TLL",
     "addr": "156.67.62.60",
     "port": 7777
@@ -459,12 +462,6 @@
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
     "port": 28200
-  },
-  {
-    "name": "[GER] [BB] Boys Germany | German speaking | Mic necessary",
-    "addr": "176.57.171.140",
-    "port": 28200,
-    "removed": 1772412368
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -1252,7 +1249,8 @@
   {
     "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
     "addr": "40.27.40.150",
-    "port": 7797
+    "port": 7797,
+    "removed": 1773017190
   },
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
@@ -1262,7 +1260,8 @@
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.150",
-    "port": 7817
+    "port": 7817,
+    "removed": 1773017190
   },
   {
     "name": "#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
@@ -1949,8 +1948,7 @@
   {
     "name": "HLL Official - Singapore #01",
     "addr": "83.223.197.89",
-    "port": 28100,
-    "removed": 1772930830
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #04",
@@ -2025,7 +2023,8 @@
   {
     "name": "{serverName}",
     "addr": "89.117.72.61",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773017190
   },
   {
     "name": "HLL Server",
@@ -2102,7 +2101,7 @@
     "removed": 1772930830
   },
   {
-    "name": "Server Tango Latam",
+    "name": "[LATAM] Server Tango Eventos",
     "addr": "92.38.151.89",
     "port": 28800
   },
