@@ -295,7 +295,7 @@
     "port": 30000
   },
   {
-    "name": "Turks Let Loose︱Sadece Türkçe︱discord.gg/TLL",
+    "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
   },
@@ -625,7 +625,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1773080677
   },
   {
     "name": "Hogs of War I New Players Welcome I come join the discord https",
@@ -647,12 +648,6 @@
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
     "addr": "191.101.30.57",
     "port": 8530
-  },
-  {
-    "name": "Pathfinders | Event Server",
-    "addr": "192.169.86.106",
-    "port": 7787,
-    "removed": 1772475677
   },
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -980,10 +975,9 @@
     "port": 7877
   },
   {
-    "name": "A Qonzer.com Server Is Born",
+    "name": "New HLL service",
     "addr": "208.115.211.18",
-    "port": 7777,
-    "removed": 1773058926
+    "port": 7777
   },
   {
     "name": "New HLL service",
@@ -1693,7 +1687,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose︱English︱LVL 25+︱turksletloose.com",
+    "name": "Turks Let Loose︱Event︱Klan Başvuruları → discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1918,7 +1912,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773080677
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2024,7 +2019,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773080677
   },
   {
     "name": "HLL Official - South America #01",
@@ -2049,7 +2045,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773080677
   },
   {
     "name": "hll Server",
@@ -2116,7 +2113,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773080677
   },
   {
     "name": "QNZR | QNZR",
