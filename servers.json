@@ -834,12 +834,6 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose #1 - Sadece Türkçe - turksletloose.com",
-    "addr": "195.162.69.175",
-    "port": 7787,
-    "removed": 1772454097
-  },
-  {
     "name": "Deutscher HLL Server | Alle Willkommen",
     "addr": "195.82.158.186",
     "port": 20300
@@ -989,12 +983,14 @@
   {
     "name": "A Qonzer.com Server Is Born",
     "addr": "208.115.211.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773058926
   },
   {
     "name": "New HLL service",
     "addr": "208.115.211.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773058926
   },
   {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
@@ -1169,8 +1165,7 @@
   {
     "name": "CN.jpPUMA做最优质的战士冲突服q746699634",
     "addr": "216.144.245.83",
-    "port": 7777,
-    "removed": 1773037899
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1527,8 +1522,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1772972188
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1596,7 +1590,8 @@
   {
     "name": "QNZR | TEST",
     "addr": "51.38.89.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773058926
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -2032,8 +2027,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1772626849
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
