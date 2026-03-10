@@ -759,7 +759,7 @@
     "port": 9075
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -916,12 +916,17 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.206.35",
+    "port": 7777
+  },
+  {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Mic Only [ENG/GER] #Qonzer",
+    "name": "Oktogon #1 • Clan VIP • [GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -946,7 +951,7 @@
     "port": 7807
   },
   {
-    "name": "Oktogon #2 • New Player Friendly [ENG/GER] #Qonzer",
+    "name": "Oktogon #2 • Wir rekrutieren! • [GER] #Qonzer",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -966,7 +971,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -1012,7 +1017,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1107,7 +1112,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1268,7 +1273,8 @@
   {
     "name": "JUMP Special Forces Server",
     "addr": "40.27.40.150",
-    "port": 7857
+    "port": 7857,
+    "removed": 1773167030
   },
   {
     "name": "GTZ战术大队跑图服",
@@ -1288,7 +1294,8 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
     "addr": "40.27.40.151",
-    "port": 7797
+    "port": 7797,
+    "removed": 1773167030
   },
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
@@ -1311,7 +1318,7 @@
     "port": 7837
   },
   {
-    "name": "CN 帝国社区训练专用服",
+    "name": "CN帝国社区公益萌新跑图服 自助飞天权限",
     "addr": "40.27.40.151",
     "port": 7847
   },
@@ -1830,7 +1837,7 @@
     "port": 8530
   },
   {
-    "name": "TEG.gg | Mic | Employed gamers only <3",
+    "name": "TEG.gg | ENGLISH | Employed Gamers Only <3",
     "addr": "69.10.33.178",
     "port": 8530
   },
@@ -1907,8 +1914,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1773080677
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2108,13 +2114,13 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773167030
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1773080677
+    "port": 28200
   },
   {
     "name": "QNZR | QNZR",
