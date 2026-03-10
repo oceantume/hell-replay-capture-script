@@ -827,17 +827,20 @@
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
     "addr": "195.82.158.186",
-    "port": 20300
+    "port": 20300,
+    "removed": 1773168453
   },
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1773168453
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1773168453
   },
   {
     "name": "Zap Branigan",
@@ -1273,8 +1276,7 @@
   {
     "name": "JUMP Special Forces Server",
     "addr": "40.27.40.150",
-    "port": 7857,
-    "removed": 1773167030
+    "port": 7857
   },
   {
     "name": "GTZ战术大队跑图服",
@@ -1294,8 +1296,7 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
     "addr": "40.27.40.151",
-    "port": 7797,
-    "removed": 1773167030
+    "port": 7797
   },
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
