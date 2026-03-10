@@ -42,8 +42,7 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1772975087
+    "port": 28300
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -256,8 +255,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1773123852
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1980,7 +1978,8 @@
   {
     "name": "HLL Server",
     "addr": "84.66.150.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773148713
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
