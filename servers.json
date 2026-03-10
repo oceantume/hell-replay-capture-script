@@ -835,8 +835,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1773103311
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1431,12 +1430,6 @@
     "port": 7777
   },
   {
-    "name": "Pathfinders | Event Server",
-    "addr": "40.27.45.15",
-    "port": 7787,
-    "removed": 1772498801
-  },
-  {
     "name": "[CASUAL] Hell Let Loose - Open Server",
     "addr": "40.27.45.16",
     "port": 7777
@@ -1802,7 +1795,8 @@
   {
     "name": "hll Server",
     "addr": "64.31.62.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773105321
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
