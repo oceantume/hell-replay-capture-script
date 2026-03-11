@@ -918,7 +918,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773189770
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1716,6 +1717,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.31.126",
+    "port": 7777
+  },
+  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
@@ -1902,7 +1908,8 @@
   {
     "name": "[CI] Corrupted Infantry | ENG | Teamwork | discord.gg/ci",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1773189770
   },
   {
     "name": "HLL Official - Asia #01",
