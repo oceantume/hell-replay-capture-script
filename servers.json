@@ -202,8 +202,7 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1772821200
+    "port": 28600
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -419,7 +418,8 @@
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773231726
   },
   {
     "name": "QA Testing - EU #08",
@@ -798,13 +798,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie ★ TEST- discord/7eCie",
     "addr": "193.160.23.22",
-    "port": 7787
-  },
-  {
-    "name": "RYE TESTING GROUNDS",
-    "addr": "193.160.23.42",
-    "port": 7777,
-    "removed": 1772626849
+    "port": 7787,
+    "removed": 1773231726
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -964,7 +959,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] Midgards Panzer Event Server",
+    "name": "[GER] WoA & 19PD Event Server",
     "addr": "208.115.206.86",
     "port": 7777
   },
@@ -1030,7 +1025,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] {MP} Public-Server [WoA & 19PD] | Mic Only",
+    "name": "[GER] {WoA} Public-Server [WoA] | Mic Only",
     "addr": "208.115.226.2",
     "port": 7797
   },
@@ -1372,8 +1367,7 @@
   {
     "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
     "addr": "40.27.41.3",
-    "port": 7777,
-    "removed": 1773213193
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1488,8 +1482,7 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1773145341
+    "port": 28300
   },
   {
     "name": "HLL Official - US East #01",
@@ -1499,31 +1492,28 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1773145341
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773231726
   },
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1773145341
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1773145341
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1773145341
+    "port": 28700
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1570,8 +1560,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1772993568
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1762,12 +1751,6 @@
     "port": 7777
   },
   {
-    "name": "#4 [LATAM] - DIV33 Oficial - Español / Spanish - Miami",
-    "addr": "64.31.40.205",
-    "port": 7777,
-    "removed": 1772626849
-  },
-  {
     "name": "Exiled USMC | New Players Welcome | Offensive Only",
     "addr": "64.31.59.77",
     "port": 7787
@@ -1831,7 +1814,8 @@
   {
     "name": "NO MANS LAND | NEW PLAYERS WELCOME | 24/7 Warfare",
     "addr": "67.217.48.14",
-    "port": 9620
+    "port": 9620,
+    "removed": 1773231726
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -2028,7 +2012,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773231726
   },
   {
     "name": "HLL Official - South America #01",
@@ -2148,12 +2133,6 @@
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
     "port": 7777
-  },
-  {
-    "name": "[GER] Kampfgruppe Lazarus LVL 10+",
-    "addr": "95.135.1.15",
-    "port": 7777,
-    "removed": 1772626849
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
