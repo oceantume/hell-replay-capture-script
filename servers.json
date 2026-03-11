@@ -505,7 +505,8 @@
   {
     "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | Discord/WCB",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773256404
   },
   {
     "name": "Testify",
@@ -824,8 +825,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1773255048
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
