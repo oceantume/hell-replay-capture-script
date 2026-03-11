@@ -82,7 +82,8 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773191808
   },
   {
     "name": "HLL Official - Russia #02",
@@ -1717,7 +1718,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Das Reich",
     "addr": "64.31.31.126",
     "port": 7777
   },
