@@ -319,7 +319,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773339902
   },
   {
     "name": "HLL Dev Team 1",
@@ -334,7 +335,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773339902
   },
   {
     "name": "HLL Official - Europe #03",
@@ -366,6 +368,11 @@
     "name": "frogus",
     "addr": "176.57.140.64",
     "port": 28200
+  },
+  {
+    "name": "GER (✠DieMücke✠) Neuer Server https://discord.gg/HMd3EJQpk",
+    "addr": "176.57.153.114",
+    "port": 28000
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -462,6 +469,11 @@
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
     "port": 28200
+  },
+  {
+    "name": "SIEG | Experimental & Test Server | EU",
+    "addr": "176.57.171.140",
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -597,8 +609,7 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777,
-    "removed": 1773318056
+    "port": 7777
   },
   {
     "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - RECRUTAMENTO (11) 91155-20",
@@ -1171,8 +1182,7 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "216.245.210.194",
-    "port": 7777,
-    "removed": 1773318056
+    "port": 7777
   },
   {
     "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
@@ -1910,14 +1920,12 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1773253573
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1773253573
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #05",
@@ -1927,8 +1935,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1773253573
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1943,7 +1950,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773339902
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1983,7 +1991,8 @@
   {
     "name": "HLL Server",
     "addr": "84.66.150.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773339902
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -2024,8 +2033,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1773231726
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #01",
@@ -2196,7 +2204,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #2 | NEW PLAYER FRIENDLY | GBG-HLL.COM",
+    "name": "! ! !GERMAN BATTLEGROUND #2 | LEARN & CONQUER | GBG-HLL.COM | G",
     "addr": "95.135.1.5",
     "port": 7777
   },
