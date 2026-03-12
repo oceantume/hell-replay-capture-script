@@ -67,8 +67,7 @@
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1773318056
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -320,8 +319,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1773318056
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -687,8 +685,7 @@
   {
     "name": "GREYHOUND NIGHT - Green | discord.gg/greyhounds",
     "addr": "192.169.90.203",
-    "port": 7777,
-    "removed": 1773318056
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
@@ -748,7 +745,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773319416
   },
   {
     "name": "SLB #4",
@@ -824,7 +822,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1773319416
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -2013,8 +2012,7 @@
   {
     "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1773318056
+    "port": 7817
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
