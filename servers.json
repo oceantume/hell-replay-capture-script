@@ -372,7 +372,8 @@
   {
     "name": "GER (✠DieMücke✠) Neuer Server https://discord.gg/HMd3EJQpk",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773341358
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -494,12 +495,6 @@
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
-  },
-  {
-    "name": "Falling Skies",
-    "addr": "176.57.171.176",
-    "port": 28200,
-    "removed": 1772736214
   },
   {
     "name": "VT1",
@@ -1549,12 +1544,6 @@
     "addr": "45.151.81.210",
     "port": 7787,
     "removed": 1772738199
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "45.151.81.211",
-    "port": 7787,
-    "removed": 1772736214
   },
   {
     "name": "TD4W Clan Server",
