@@ -100,7 +100,7 @@
     "port": 9224
   },
   {
-    "name": "Garrisons & Whiskey Ξ Infantry Only",
+    "name": "Garrisons & Whiskey Ξ PTE",
     "addr": "139.28.16.38",
     "port": 7777
   },
@@ -203,7 +203,8 @@
   {
     "name": "QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773425898
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -421,13 +422,13 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773425898
   },
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
-    "port": 28200,
-    "removed": 1773231726
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #08",
@@ -453,7 +454,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773425898
   },
   {
     "name": "DevQA - EU #01",
@@ -846,7 +848,8 @@
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYER WELCOME | DANMARK",
     "addr": "198.244.177.84",
-    "port": 8530
+    "port": 8530,
+    "removed": 1773425898
   },
   {
     "name": "cn「CZS」超质数中队跑图训练服",
@@ -925,7 +928,7 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY WARFARE︱LVL 25+/50+ 15:00/100+ 1",
+    "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
     "addr": "208.115.206.38",
     "port": 7797
   },
@@ -1465,7 +1468,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - US West #02",
@@ -1485,7 +1489,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - US East #04",
@@ -1500,7 +1505,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773425898
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1517,12 +1523,14 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1773425898
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1898,7 +1906,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1908,12 +1917,14 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773425898
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1928,8 +1939,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1773339902
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
