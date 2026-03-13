@@ -82,8 +82,7 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1773296818
+    "port": 28000
   },
   {
     "name": "HLL Official - Russia #02",
@@ -341,8 +340,7 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1773296818
+    "port": 28300
   },
   {
     "name": "HLL Official - Europe #05",
@@ -1343,7 +1341,7 @@
     "port": 7777
   },
   {
-    "name": "E_Another Qonzer.com server is born!",
+    "name": "GTZ战术大队跑图服",
     "addr": "40.27.40.22",
     "port": 7787
   },
@@ -1657,7 +1655,8 @@
   {
     "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773383169
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -2041,8 +2040,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1773080677
+    "port": 7777
   },
   {
     "name": "hll Server",
