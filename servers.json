@@ -192,7 +192,8 @@
   {
     "name": "QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773404450
   },
   {
     "name": "HLL Official - UK #01",
@@ -207,38 +208,32 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1773384639
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1773384639
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7777,
-    "removed": 1773384639
+    "port": 7777
   },
   {
     "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7787,
-    "removed": 1773384639
+    "port": 7787
   },
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1773384639
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777,
-    "removed": 1773384639
+    "port": 7777
   },
   {
     "name": "[CASUAL] Hell Let Loose - Open Server",
@@ -249,20 +244,17 @@
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777,
-    "removed": 1773384639
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1773384639
+    "port": 7787
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1773384639
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -377,10 +369,9 @@
     "port": 28200
   },
   {
-    "name": "GER (✠DieMücke✠) Neuer Server https://discord.gg/HMd3EJQpk",
+    "name": "✠GER Server Der Blutige Pfad Gottes✠https://discord.gg/HMd3",
     "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1773341358
+    "port": 28000
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -441,7 +432,8 @@
   {
     "name": "QA Testing - EU #08",
     "addr": "176.57.168.38",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773404450
   },
   {
     "name": "CZ/SK",
@@ -634,15 +626,10 @@
     "port": 7807
   },
   {
-    "name": "Hogs of War I New Players Welcome I come join the discord https",
-    "addr": "188.64.33.2",
-    "port": 11800,
-    "removed": 1772799587
-  },
-  {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
     "addr": "188.64.33.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1773404450
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1524,7 +1511,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773404450
   },
   {
     "name": "HLL Official - US East #03",
