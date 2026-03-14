@@ -484,7 +484,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773469439
   },
   {
     "name": "Borry‘s Playground",
@@ -666,12 +667,6 @@
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
     "port": 7777
-  },
-  {
-    "name": "[CASUAL] Hell Let Loose - Open Server",
-    "addr": "192.169.86.212",
-    "port": 7787,
-    "removed": 1772864279
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -2036,8 +2031,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1773405801
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
@@ -2103,7 +2097,8 @@
   {
     "name": "QNZR | QNZR",
     "addr": "95.135.0.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773469439
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
