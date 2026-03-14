@@ -207,6 +207,11 @@
     "removed": 1773425898
   },
   {
+    "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
+    "addr": "149.50.126.13",
+    "port": 7777
+  },
+  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -219,14 +224,12 @@
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7787,
-    "removed": 1773490632
+    "port": 7787
   },
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
@@ -236,26 +239,22 @@
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787,
-    "removed": 1773490632
+    "port": 7787
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1773490632
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1149,18 +1148,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "216.144.245.84",
-    "port": 7777,
-    "removed": 1772907140
-  },
-  {
-    "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
-    "addr": "216.144.245.85",
-    "port": 7777,
-    "removed": 1772907140
-  },
-  {
     "name": "4th Infantry Division | Steadfast and Loyal",
     "addr": "216.173.113.250",
     "port": 8530
@@ -1316,12 +1303,6 @@
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
     "port": 7867
-  },
-  {
-    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
-    "addr": "40.27.40.20",
-    "port": 7777,
-    "removed": 1772907140
   },
   {
     "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
@@ -1628,7 +1609,7 @@
     "port": 7777
   },
   {
-    "name": "♤CtrlAlt-Defeat EVENT Server",
+    "name": "♤CtrlAlt-Defeat NA1 New Players Welcome",
     "addr": "63.143.63.83",
     "port": 7777
   },
@@ -1901,8 +1882,7 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1773425898
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #07",
@@ -1912,14 +1892,12 @@
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1773425898
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1773425898
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2104,7 +2082,8 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773512102
   },
   {
     "name": "QNZR | QNZR",
