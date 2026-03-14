@@ -209,47 +209,56 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773490632
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773490632
   },
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773490632
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773490632
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -521,6 +530,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28500
+  },
+  {
+    "name": "For Tea & Country R&D",
+    "addr": "176.57.174.211",
+    "port": 28600
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -835,7 +849,7 @@
     "port": 9620
   },
   {
-    "name": "# 1 | HLL-FRONTPAGE.DK | DANMARK",
+    "name": "# 1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
     "addr": "198.244.177.84",
     "port": 8530
   },
@@ -1503,8 +1517,7 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1773404450
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #03",
@@ -1554,8 +1567,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777,
-    "removed": 1773472151
+    "port": 7777
   },
   {
     "name": "QNZR | TEST",
@@ -2032,7 +2044,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773490632
   },
   {
     "name": "Excel Spreadsheets",
@@ -2118,8 +2131,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1773472151
+    "port": 7777
   },
   {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
