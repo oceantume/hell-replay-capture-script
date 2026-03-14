@@ -209,14 +209,12 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1773490632
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
@@ -233,8 +231,7 @@
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -1476,7 +1473,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773493598
   },
   {
     "name": "HLL Official - US West #01",
