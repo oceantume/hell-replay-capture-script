@@ -43,7 +43,8 @@
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773580250
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -217,47 +218,56 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773580250
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773580250
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773580250
   },
   {
     "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773580250
   },
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773580250
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773580250
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773580250
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773580250
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773580250
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -825,8 +835,7 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1773578440
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1458,8 +1467,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1773493598
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
