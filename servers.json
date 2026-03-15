@@ -212,8 +212,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
-    "port": 7777,
-    "removed": 1773577136
+    "port": 7777
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -826,7 +825,8 @@
   {
     "name": "FILMSERVER EGGY/BAUM",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1773578440
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
