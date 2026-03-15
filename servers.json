@@ -218,44 +218,37 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1773580250
+    "port": 7777
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1773580250
+    "port": 7787
   },
   {
     "name": "The DRAFT [HAUS] |US EAST-NYC| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7777,
-    "removed": 1773580250
+    "port": 7777
   },
   {
     "name": "The DRAFT [HAUS] |Event Server| discord.gg/drafthaus",
     "addr": "15.204.170.65",
-    "port": 7787,
-    "removed": 1773580250
+    "port": 7787
   },
   {
     "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1773580250
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777,
-    "removed": 1773580250
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777,
-    "removed": 1773580250
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
@@ -266,8 +259,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1773580250
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -782,7 +774,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Prep & Training Server #2",
+    "name": "[GER] Omen Prep & Training Server #2 sponsored by GBG",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -840,7 +832,8 @@
   {
     "name": "nitrado.net gameserver P2zkts1L",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1773598522
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1141,6 +1134,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Omen Match Server #1",
+    "addr": "208.115.251.117",
+    "port": 7787
+  },
+  {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
     "port": 7777
@@ -1316,6 +1314,11 @@
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
     "port": 7867
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "40.27.40.20",
+    "port": 7777
   },
   {
     "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
@@ -1877,7 +1880,8 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773598522
   },
   {
     "name": "HLL Official - Asia #07",
@@ -2071,8 +2075,7 @@
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1773512102
+    "port": 28200
   },
   {
     "name": "QNZR | QNZR",
@@ -2107,7 +2110,8 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "95.135.1.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773598522
   },
   {
     "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon & deutsche Spra",
