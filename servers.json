@@ -200,7 +200,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773556179
   },
   {
     "name": "QA Testing - UK #07",
@@ -491,8 +492,7 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1773469439
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -555,7 +555,7 @@
     "port": 8772
   },
   {
-    "name": "[LATAM] ③⑥⓪ El Olimpo | 360hll.com.ar",
+    "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
     "addr": "181.214.221.212",
     "port": 7777
   },
@@ -1693,7 +1693,8 @@
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "64.31.32.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773556179
   },
   {
     "name": "CN「CZS」超质数中队比赛训练服",
@@ -2010,8 +2011,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1773490632
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
