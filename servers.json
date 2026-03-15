@@ -173,7 +173,8 @@
   {
     "name": ".PT Training",
     "addr": "149.102.154.195",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773535981
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -682,7 +683,8 @@
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
     "addr": "192.169.89.18",
-    "port": 8530
+    "port": 8530,
+    "removed": 1773535981
   },
   {
     "name": "GREYHOUND NIGHT - Green | discord.gg/greyhounds",
@@ -1645,12 +1647,6 @@
     "port": 7787
   },
   {
-    "name": "hll Server",
-    "addr": "64.31.20.182",
-    "port": 7777,
-    "removed": 1772930830
-  },
-  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1705,12 +1701,6 @@
     "addr": "64.31.32.212",
     "port": 7777,
     "removed": 1772972188
-  },
-  {
-    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
-    "addr": "64.31.32.213",
-    "port": 7777,
-    "removed": 1772930830
   },
   {
     "name": "HLL European | Incoming",
@@ -2053,12 +2043,6 @@
     "name": "WidowMaker's",
     "addr": "92.118.19.80",
     "port": 7807
-  },
-  {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | discord.gg/caveiras",
-    "addr": "92.38.150.147",
-    "port": 28400,
-    "removed": 1772930830
   },
   {
     "name": "[LATAM] Server Tango Eventos",
