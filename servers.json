@@ -465,7 +465,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773622325
   },
   {
     "name": "HLL Official - Europe #02",
@@ -1224,21 +1225,9 @@
     "port": 7787
   },
   {
-    "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
-    "addr": "40.27.40.150",
-    "port": 7797,
-    "removed": 1773017190
-  },
-  {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
     "port": 7807
-  },
-  {
-    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
-    "addr": "40.27.40.150",
-    "port": 7817,
-    "removed": 1773017190
   },
   {
     "name": "#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
@@ -1985,12 +1974,6 @@
     "port": 8530
   },
   {
-    "name": "{serverName}",
-    "addr": "89.117.72.61",
-    "port": 28300,
-    "removed": 1773017190
-  },
-  {
     "name": "HLL Server",
     "addr": "89.32.89.73",
     "port": 7777,
@@ -2035,6 +2018,11 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
+    "port": 7777
+  },
+  {
+    "name": "Stay Frosty! Be competitive and play smart!",
+    "addr": "92.118.18.86",
     "port": 7777
   },
   {
