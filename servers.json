@@ -17,12 +17,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773643365
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1773643365
   },
   {
     "name": "Bones Graveyard Australia",
@@ -99,7 +101,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1773643365
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -201,8 +204,7 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400,
-    "removed": 1773556179
+    "port": 28400
   },
   {
     "name": "QA Testing - UK #07",
@@ -351,7 +353,8 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773643365
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
