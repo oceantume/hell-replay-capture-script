@@ -101,8 +101,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1773643365
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -324,10 +323,9 @@
     "port": 9075
   },
   {
-    "name": "QA Testing - EU #02",
+    "name": "[PC] QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1773339902
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -340,10 +338,9 @@
     "port": 28600
   },
   {
-    "name": "QA Testing - EU #03",
+    "name": "[Debug] QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1773339902
+    "port": 28100
   },
   {
     "name": "HLL Official - Europe #03",
@@ -428,10 +425,9 @@
     "port": 28300
   },
   {
-    "name": "QA Testing - EU #01",
+    "name": "[XPLAY] QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1773425898
+    "port": 28100
   },
   {
     "name": "HLL Playtest Server - Europe #01",
@@ -975,12 +971,6 @@
     "port": 7777
   },
   {
-    "name": "New HLL service",
-    "addr": "208.115.211.18",
-    "port": 7787,
-    "removed": 1773058926
-  },
-  {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "208.115.212.74",
     "port": 7787
@@ -1507,7 +1497,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773664087
   },
   {
     "name": "HLL Official - US East #06",
@@ -1687,7 +1678,8 @@
   {
     "name": "Das Reich",
     "addr": "64.31.31.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773664087
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -2025,7 +2017,8 @@
   {
     "name": "Stay Frosty! Be competitive and play smart!",
     "addr": "92.118.18.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773664087
   },
   {
     "name": "End of Existence | VoidExistence.com",
