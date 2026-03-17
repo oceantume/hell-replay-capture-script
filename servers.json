@@ -450,8 +450,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1773754253
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
@@ -499,6 +498,11 @@
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
+  },
+  {
+    "name": "[EU] 100 Player Server To have fun 506th Fox Company",
+    "addr": "176.57.171.176",
+    "port": 28200
   },
   {
     "name": "VT1",
@@ -1542,7 +1546,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1773772110
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1876,8 +1881,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1773685714
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1892,7 +1896,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773772110
   },
   {
     "name": "HLL Official - Asia #03",
