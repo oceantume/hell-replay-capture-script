@@ -17,14 +17,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1773643365
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1773643365
+    "port": 7807
   },
   {
     "name": "Bones Graveyard Australia",
@@ -350,8 +348,7 @@
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1773643365
+    "port": 28500
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -484,7 +481,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773729130
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -529,7 +527,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773729130
   },
   {
     "name": "For Tea & Country R&D",
@@ -971,6 +970,11 @@
     "port": 7777
   },
   {
+    "name": "New HLL service",
+    "addr": "208.115.211.18",
+    "port": 7787
+  },
+  {
     "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
     "addr": "208.115.212.74",
     "port": 7787
@@ -1297,7 +1301,7 @@
     "port": 7867
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN3#散人社区＆老逼登|萌新欢乐巴士丨限级200级1",
     "addr": "40.27.40.20",
     "port": 7777
   },
