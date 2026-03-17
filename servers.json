@@ -159,7 +159,8 @@
   {
     "name": "Testify",
     "addr": "144.126.153.213",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773750432
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -532,7 +533,8 @@
   {
     "name": "For Tea & Country R&D",
     "addr": "176.57.174.211",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773750432
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -1500,8 +1502,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1773664087
+    "port": 28600
   },
   {
     "name": "HLL Official - US East #06",
