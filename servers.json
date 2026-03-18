@@ -58,9 +58,19 @@
     "port": 7777
   },
   {
+    "name": "Qonzer.com - Brasil test PICA",
+    "addr": "108.165.230.224",
+    "port": 7787
+  },
+  {
     "name": "[ESP] LATAMSQUAD - discord.gg/latamsquad | latamsquad.org",
     "addr": "108.165.230.224",
     "port": 7797
+  },
+  {
+    "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
+    "addr": "134.255.240.110",
+    "port": 10300
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -127,8 +137,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165,
-    "removed": 1773841084
+    "port": 10165
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
@@ -1208,137 +1217,164 @@
   {
     "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
     "addr": "40.27.40.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
     "addr": "40.27.40.150",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "CN3#散人社区|打折周萌新欢乐巴士丨限级160级1207",
     "addr": "40.27.40.150",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773858482
   },
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1773858482
   },
   {
     "name": "#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
     "addr": "40.27.40.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1773858482
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "40.27.40.150",
-    "port": 7837
+    "port": 7837,
+    "removed": 1773858482
   },
   {
     "name": "[CN81] #2 萌新欢乐新兵服Q群209321456 暖服赠VIP",
     "addr": "40.27.40.150",
-    "port": 7847
+    "port": 7847,
+    "removed": 1773858482
   },
   {
     "name": "JUMP Special Forces Server",
     "addr": "40.27.40.150",
-    "port": 7857
+    "port": 7857,
+    "removed": 1773858482
   },
   {
     "name": "GTZ战术大队跑图服",
     "addr": "40.27.40.150",
-    "port": 7867
+    "port": 7867,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q258455568 JP",
     "addr": "40.27.40.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "CN/JP 紫罗兰永恒花园薇妹的萌新不妙屋：747976659",
     "addr": "40.27.40.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
     "addr": "40.27.40.151",
-    "port": 7797
+    "port": 7797,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1773858482
   },
   {
     "name": "CN可爱小羊69狗叫屋 91攻防服 日服纯玩无Q",
     "addr": "40.27.40.151",
-    "port": 7817
+    "port": 7817,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#4 IMP帝国社区 萌新德攻投票服 |Q1020812925 JP",
     "addr": "40.27.40.151",
-    "port": 7827
+    "port": 7827,
+    "removed": 1773858482
   },
   {
     "name": "CN／JP GR&DB&BW战队高质量萌新乐园 QQ：1002516589",
     "addr": "40.27.40.151",
-    "port": 7837
+    "port": 7837,
+    "removed": 1773858482
   },
   {
     "name": "CN帝国社区公益萌新跑图服 自助飞天权限",
     "addr": "40.27.40.151",
-    "port": 7847
+    "port": 7847,
+    "removed": 1773858482
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857
+    "port": 7857,
+    "removed": 1773858482
   },
   {
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7867
+    "port": 7867,
+    "removed": 1773858482
   },
   {
     "name": "CN3#散人社区＆老逼登|萌新欢乐巴士丨限级200级1",
     "addr": "40.27.40.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
     "addr": "40.27.40.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773858482
   },
   {
     "name": "FJ绿魔鬼空降猎兵服|Q:716701264",
     "addr": "40.27.40.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "GTZ战术大队跑图服",
     "addr": "40.27.40.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1773858482
   },
   {
     "name": "CN「CZS」超质数中队白莱逗我笑纯冲突Q1085594141",
     "addr": "40.27.40.23",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773858482
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1586,7 +1622,7 @@
     "port": 9620
   },
   {
-    "name": "CZ & SK | #3 | VLK @ EVENT",
+    "name": "CZ & SK | EVENT | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 10165
   },
@@ -1889,7 +1925,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773858482
   },
   {
     "name": "HLL Official - Asia #06",
@@ -1906,8 +1943,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1773772110
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
