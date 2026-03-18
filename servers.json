@@ -333,7 +333,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1773815587
   },
   {
     "name": "[Debug] QA Testing - EU #03",
@@ -481,8 +482,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1773729130
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -2066,7 +2066,8 @@
   {
     "name": "QNZR | QNZR",
     "addr": "95.135.0.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773815587
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
