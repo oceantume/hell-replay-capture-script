@@ -38,12 +38,14 @@
   {
     "name": "HLL Official - Japan #02",
     "addr": "103.97.52.159",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Japan #01",
     "addr": "103.97.52.159",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773836909
   },
   {
     "name": "Texas Meat Grinder- Dallas",
@@ -83,12 +85,14 @@
   {
     "name": "HLL Official - Russia #01",
     "addr": "135.181.119.119",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Russia #02",
     "addr": "135.181.119.119",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773836909
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -190,7 +194,8 @@
   {
     "name": "HLL Official - UK #02",
     "addr": "149.102.158.161",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "QA Testing - EU #05",
@@ -201,7 +206,8 @@
   {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
-    "port": 28400
+    "port": 28400,
+    "removed": 1773836909
   },
   {
     "name": "QA Testing - UK #07",
@@ -344,12 +350,14 @@
   {
     "name": "HLL Official - Europe #03",
     "addr": "176.57.134.62",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Europe #05",
     "addr": "176.57.134.62",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773836909
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -446,7 +454,8 @@
   {
     "name": "HLL Official - Europe #04",
     "addr": "176.57.169.108",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "DevQA - EU #02",
@@ -704,7 +713,8 @@
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "192.169.90.203",
-    "port": 7827
+    "port": 7827,
+    "removed": 1773836909
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -724,7 +734,8 @@
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
     "addr": "192.169.90.205",
-    "port": 7827
+    "port": 7827,
+    "removed": 1773836909
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -800,12 +811,6 @@
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
-  },
-  {
-    "name": "[FR/BE] ★ 7ème Compagnie ★ TEST- discord/7eCie",
-    "addr": "193.160.23.22",
-    "port": 7787,
-    "removed": 1773231726
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1407,7 +1412,8 @@
   {
     "name": "[CASUAL] Hell Let Loose - Open Server",
     "addr": "40.27.45.16",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773836909
   },
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
@@ -1448,7 +1454,8 @@
   {
     "name": "HLL Official - US West #14",
     "addr": "45.137.246.13",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "QA Testing - US West #06",
@@ -1469,7 +1476,8 @@
   {
     "name": "HLL Official - US West #03",
     "addr": "45.137.246.13",
-    "port": 28700
+    "port": 28700,
+    "removed": 1773836909
   },
   {
     "name": "QA Testing - US East #09",
@@ -1480,7 +1488,8 @@
   {
     "name": "HLL Official - US East #04",
     "addr": "45.137.247.33",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - US East #01",
@@ -1500,7 +1509,8 @@
   {
     "name": "HLL Official - US East #05",
     "addr": "45.137.247.5",
-    "port": 28500
+    "port": 28500,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - US East #03",
@@ -1510,7 +1520,8 @@
   {
     "name": "HLL Official - US East #06",
     "addr": "45.137.247.5",
-    "port": 28700
+    "port": 28700,
+    "removed": 1773836909
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1530,8 +1541,7 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1773817253
+    "port": 8530
   },
   {
     "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
@@ -1778,12 +1788,6 @@
     "port": 8530
   },
   {
-    "name": "NO MANS LAND | NEW PLAYERS WELCOME | 24/7 Warfare",
-    "addr": "67.217.48.14",
-    "port": 9620,
-    "removed": 1773231726
-  },
-  {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.58.130",
     "port": 8530
@@ -1866,17 +1870,20 @@
   {
     "name": "HLL Official - Asia #08",
     "addr": "83.223.197.11",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Asia #07",
     "addr": "83.223.197.14",
-    "port": 28300
+    "port": 28300,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Asia #05",
     "addr": "83.223.197.15",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1886,7 +1893,8 @@
   {
     "name": "HLL Official - Asia #06",
     "addr": "83.223.197.89",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Singapore #01",
@@ -1980,12 +1988,14 @@
   {
     "name": "HLL Official - South America #01",
     "addr": "89.43.106.36",
-    "port": 28000
+    "port": 28000,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - South America #02",
     "addr": "89.43.106.36",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - South America #04",
@@ -2057,18 +2067,24 @@
   {
     "name": "HLL Official - Australia #02",
     "addr": "94.250.221.25",
-    "port": 28100
+    "port": 28100,
+    "removed": 1773836909
   },
   {
     "name": "HLL Official - Australia #01",
     "addr": "94.250.221.25",
-    "port": 28200
+    "port": 28200,
+    "removed": 1773836909
   },
   {
-    "name": "QNZR | QNZR",
+    "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
     "addr": "95.135.0.15",
-    "port": 7777,
-    "removed": 1773815587
+    "port": 7777
+  },
+  {
+    "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
+    "addr": "95.135.0.15",
+    "port": 7787
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
