@@ -316,12 +316,14 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
     "addr": "154.45.251.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773967568
   },
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q258455568 JP",
     "addr": "154.45.251.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1773967568
   },
   {
     "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
@@ -673,8 +675,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1773946244
+    "port": 7807
   },
   {
     "name": "Iron Line Battalion #1│ENG│Warfare│Low Ping│ Mic prefer",
@@ -964,7 +965,8 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
     "addr": "208.115.206.38",
-    "port": 7797
+    "port": 7797,
+    "removed": 1773967568
   },
   {
     "name": "POWERBITS GAMETEAM EXPERIMENTAL",
@@ -2170,6 +2172,11 @@
   {
     "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
     "addr": "95.135.1.31",
+    "port": 7777
+  },
+  {
+    "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
+    "addr": "95.135.1.33",
     "port": 7777
   },
   {
