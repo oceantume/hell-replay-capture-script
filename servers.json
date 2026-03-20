@@ -215,12 +215,6 @@
     "removed": 1773836909
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1773425898
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -408,7 +402,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.251",
-    "port": 28100
+    "port": 28100,
+    "removed": 1774030846
   },
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
@@ -475,12 +470,6 @@
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - EU #04",
-    "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1773425898
   },
   {
     "name": "DevQA - EU #01",
@@ -842,10 +831,9 @@
     "port": 20300
   },
   {
-    "name": "FILMSERVER EGGY/BAUM",
+    "name": "Legends Hell Let Loose Server",
     "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1773944744
+    "port": 20600
   },
   {
     "name": "nitrado.net gameserver P2zkts1L",
@@ -1170,6 +1158,11 @@
     "port": 7777
   },
   {
+    "name": "Oceanic Ocelots | US West",
+    "addr": "216.144.245.83",
+    "port": 7787
+  },
+  {
     "name": "4th Infantry Division | Steadfast and Loyal",
     "addr": "216.173.113.250",
     "port": 8530,
@@ -1318,7 +1311,7 @@
     "removed": 1773858482
   },
   {
-    "name": "CN13#FJ战队|散人社区＆阿懿の小窝|日服|Q裙1050445",
+    "name": "CN3#FJ战队|散人社区＆阿懿の小窝|日服|Q裙10504450",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1460,12 +1453,6 @@
     "removed": 1773836909
   },
   {
-    "name": "QA Testing - US West #06",
-    "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1773425898
-  },
-  {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
     "port": 28400
@@ -1480,12 +1467,6 @@
     "addr": "45.137.246.13",
     "port": 28700,
     "removed": 1773836909
-  },
-  {
-    "name": "QA Testing - US East #09",
-    "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1773425898
   },
   {
     "name": "HLL Official - US East #04",
@@ -1766,7 +1747,8 @@
   {
     "name": "Oceanic Ocelots | US West",
     "addr": "64.31.61.93",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774030846
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1894,8 +1876,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1773858482
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #06",
