@@ -504,7 +504,8 @@
   {
     "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
     "addr": "176.57.171.158",
-    "port": 28300
+    "port": 28300,
+    "removed": 1774098254
   },
   {
     "name": "Borry‘s Playground",
@@ -1460,12 +1461,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1774098254
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1774098254
   },
   {
     "name": "HLL Official - US West #03",
@@ -2037,7 +2040,8 @@
   {
     "name": "[LATAM] Server Tango Eventos",
     "addr": "92.38.151.89",
-    "port": 28800
+    "port": 28800,
+    "removed": 1774098254
   },
   {
     "name": "New players welcome have fun 17 D3AD",
