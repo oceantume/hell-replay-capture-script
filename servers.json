@@ -761,7 +761,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -959,7 +959,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -999,7 +999,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -1041,7 +1041,8 @@
   {
     "name": "CBMS",
     "addr": "208.115.226.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774203281
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
@@ -1099,7 +1100,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1379,6 +1380,11 @@
   {
     "name": "Merciless | Warfare Server 2 | US West",
     "addr": "40.27.44.13",
+    "port": 7777
+  },
+  {
+    "name": "I Love Playing Apex",
+    "addr": "40.27.44.15",
     "port": 7777
   },
   {
@@ -1738,7 +1744,8 @@
   {
     "name": "I Love Playing Apex",
     "addr": "64.31.61.93",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774203281
   },
   {
     "name": "Oceanic Ocelots | US West",
@@ -1809,8 +1816,7 @@
   {
     "name": "♤CtrlAlt-Defeat NA2 competitive",
     "addr": "74.63.231.3",
-    "port": 7787,
-    "removed": 1774183102
+    "port": 7787
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos | Eventos | discord.gg/cavei",
@@ -2076,6 +2082,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
+    "port": 7777
+  },
+  {
+    "name": "CBMS",
+    "addr": "95.135.1.13",
     "port": 7777
   },
   {
