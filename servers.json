@@ -25,12 +25,6 @@
     "port": 7807
   },
   {
-    "name": "Bones Graveyard Australia",
-    "addr": "103.193.81.14",
-    "port": 8530,
-    "removed": 1773515636
-  },
-  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -267,7 +261,8 @@
   {
     "name": "hll Server",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774140579
   },
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
@@ -838,7 +833,8 @@
   {
     "name": "Deutscher HLL Server | Alle Willkommen",
     "addr": "195.82.158.186",
-    "port": 20300
+    "port": 20300,
+    "removed": 1774140579
   },
   {
     "name": "Legends Hell Let Loose Server",
@@ -1209,7 +1205,7 @@
     "port": 7777
   },
   {
-    "name": "DELTA CORPS - RECLUTANDO",
+    "name": "LATAM - DELTA CORPS - RECLUTANDO",
     "addr": "37.148.133.8",
     "port": 7787
   },
@@ -2114,7 +2110,7 @@
     "removed": 1773598522
   },
   {
-    "name": "[GER] 100.Jäger-Division Double XP! | Mikrofon & deutsche Spra",
+    "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
     "port": 7777
   },
