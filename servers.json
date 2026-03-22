@@ -85,7 +85,8 @@
   {
     "name": "team.phoenix Trainingsserver | phx",
     "addr": "135.125.188.111",
-    "port": 9620
+    "port": 9620,
+    "removed": 1774181851
   },
   {
     "name": "HLL Official - Russia #01",
@@ -135,7 +136,7 @@
     "port": 10165
   },
   {
-    "name": "BWR ivent",
+    "name": "[BWR] Event Server",
     "addr": "141.105.66.70",
     "port": 10710
   },
@@ -422,7 +423,8 @@
   {
     "name": "[GER] KLABUSTER ★ BEEREN ★ SAFT [BCH - Clan] ☠",
     "addr": "176.57.168.252",
-    "port": 28100
+    "port": 28100,
+    "removed": 1774181851
   },
   {
     "name": "3rd Cavalry Division RP/MILSIM",
@@ -1696,7 +1698,8 @@
   {
     "name": "HLL European | Incoming",
     "addr": "64.31.4.170",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774181851
   },
   {
     "name": "UTC - [.PT] & [DSS] Alliance・ (ENG/PT/NL)・Warfare丨Qonzer",
