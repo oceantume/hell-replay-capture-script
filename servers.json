@@ -1550,7 +1550,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774162185
   },
   {
     "name": "QNZR | TEST",
@@ -1692,12 +1693,6 @@
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
-  },
-  {
-    "name": "HORANG / Ocelots Event Server | JAPAN |",
-    "addr": "64.31.32.211",
-    "port": 7777,
-    "removed": 1773556179
   },
   {
     "name": "HLL European | Incoming",
@@ -2075,12 +2070,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774162185
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1774162185
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
