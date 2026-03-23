@@ -7,8 +7,7 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
-    "port": 7807,
-    "removed": 1774272519
+    "port": 7807
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
@@ -653,7 +652,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1774290284
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -1189,6 +1189,11 @@
     "port": 7777
   },
   {
+    "name": "(IC) Offensive Heaven | US Central #3 Chicago | discord.gg/icoh",
+    "addr": "216.245.210.198",
+    "port": 7777
+  },
+  {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
@@ -1356,7 +1361,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Event Server | US Central #1 Dallas | discord.gg/icoh",
+    "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "40.27.41.3",
     "port": 7777
   },
@@ -1388,7 +1393,8 @@
   {
     "name": "I Love Playing Apex",
     "addr": "40.27.44.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774290284
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
@@ -1461,6 +1467,11 @@
     "addr": "45.137.246.13",
     "port": 28000,
     "removed": 1773836909
+  },
+  {
+    "name": "QA Testing - US West #06",
+    "addr": "45.137.246.13",
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1812,7 +1823,7 @@
     "port": 7777
   },
   {
-    "name": "♤CtrlAlt-Defeat NA2 competitive",
+    "name": "♤CtrlAlt-Defeat NA2 Lvl 150 and Above",
     "addr": "74.63.231.3",
     "port": 7787
   },
@@ -1883,7 +1894,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1774290284
   },
   {
     "name": "HLL Official - Asia #06",
@@ -2069,7 +2081,8 @@
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7977
+    "port": 7977,
+    "removed": 1774290284
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
