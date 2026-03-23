@@ -65,7 +65,8 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1774270318
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -836,7 +837,8 @@
   {
     "name": "Legends Hell Let Loose Server",
     "addr": "195.82.158.186",
-    "port": 20600
+    "port": 20600,
+    "removed": 1774270318
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1687,12 +1689,6 @@
     "port": 7777
   },
   {
-    "name": "Das Reich",
-    "addr": "64.31.31.126",
-    "port": 7777,
-    "removed": 1773664087
-  },
-  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
@@ -2008,12 +2004,6 @@
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
     "port": 7777
-  },
-  {
-    "name": "Stay Frosty! Be competitive and play smart!",
-    "addr": "92.118.18.86",
-    "port": 7777,
-    "removed": 1773664087
   },
   {
     "name": "End of Existence | VoidExistence.com",
