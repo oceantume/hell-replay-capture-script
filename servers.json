@@ -239,7 +239,7 @@
     "port": 7787
   },
   {
-    "name": "1st Marine Division New Player Friendly | discord.com/1stmardiv",
+    "name": "[1stMD] 1st Marine Division NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
     "port": 7777
   },
@@ -1015,7 +1015,8 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807
+    "port": 7807,
+    "removed": 1774247849
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
