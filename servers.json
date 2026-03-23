@@ -208,6 +208,11 @@
     "removed": 1773836909
   },
   {
+    "name": "QA Testing - EU #05",
+    "addr": "149.102.158.161",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - UK #01",
     "addr": "149.102.158.161",
     "port": 28400,
@@ -371,7 +376,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1774268787
   },
   {
     "name": "Warfrags Studios",
@@ -651,7 +657,8 @@
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
     "addr": "191.101.166.120",
-    "port": 9075
+    "port": 9075,
+    "removed": 1774268787
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
@@ -1015,8 +1022,7 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1774247849
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
@@ -1092,7 +1098,8 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CET︱D",
     "addr": "208.115.248.107",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774268787
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
@@ -1704,7 +1711,8 @@
   {
     "name": "[7DL] Academia de Guerra",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774268787
   },
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -2127,6 +2135,11 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
     "addr": "95.135.1.33",
+    "port": 7777
+  },
+  {
+    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CET︱D",
+    "addr": "95.135.1.35",
     "port": 7777
   },
   {
