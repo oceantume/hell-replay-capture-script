@@ -133,27 +133,32 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "141.105.66.70",
-    "port": 10165
+    "port": 10165,
+    "removed": 1774355263
   },
   {
     "name": "[BWR] Анархия RUS",
     "addr": "141.105.66.70",
-    "port": 10710
+    "port": 10710,
+    "removed": 1774355263
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "141.105.66.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1774355263
   },
   {
     "name": "EG event server",
     "addr": "141.105.66.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1774355263
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "141.105.66.70",
-    "port": 9620
+    "port": 9620,
+    "removed": 1774355263
   },
   {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
@@ -174,12 +179,6 @@
     "name": "[BWR] UA Ukrainian-Baltic Server!",
     "addr": "142.91.157.60",
     "port": 7787
-  },
-  {
-    "name": "Testify",
-    "addr": "144.126.153.213",
-    "port": 28000,
-    "removed": 1773750432
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -375,8 +374,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1774268787
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -549,12 +547,6 @@
     "port": 28500
   },
   {
-    "name": "For Tea & Country R&D",
-    "addr": "176.57.174.211",
-    "port": 28600,
-    "removed": 1773750432
-  },
-  {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
     "addr": "176.57.181.105",
     "port": 28200
@@ -648,6 +640,31 @@
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
+  },
+  {
+    "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
+    "addr": "185.70.107.12",
+    "port": 10165
+  },
+  {
+    "name": "[BWR] Анархия RUS",
+    "addr": "185.70.107.12",
+    "port": 10710
+  },
+  {
+    "name": "[FD] - Русский Сервер | [RUS]",
+    "addr": "185.70.107.12",
+    "port": 8530
+  },
+  {
+    "name": "EG event server",
+    "addr": "185.70.107.12",
+    "port": 9075
+  },
+  {
+    "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
+    "addr": "185.70.107.12",
+    "port": 9620
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -837,6 +854,11 @@
     "name": "Legends Hell Let Loose Server",
     "addr": "195.82.158.186",
     "port": 20600
+  },
+  {
+    "name": "nitrado.net gameserver ZVH8chQB",
+    "addr": "195.82.158.186",
+    "port": 21100
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1918,7 +1940,7 @@
     "port": 28100
   },
   {
-    "name": "Garrisons & Whiskey - Lvl +50 Only",
+    "name": "Barracks and Burbon - All Maps - US East",
     "addr": "83.223.203.138",
     "port": 28100
   },
