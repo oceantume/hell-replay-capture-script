@@ -30,18 +30,6 @@
     "port": 8888
   },
   {
-    "name": "HLL Official - Japan #02",
-    "addr": "103.97.52.159",
-    "port": 28000,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Japan #01",
-    "addr": "103.97.52.159",
-    "port": 28300,
-    "removed": 1773836909
-  },
-  {
     "name": "Texas Meat Grinder- Dallas",
     "addr": "104.249.63.252",
     "port": 8530
@@ -87,18 +75,6 @@
     "addr": "135.125.188.111",
     "port": 9620,
     "removed": 1774181851
-  },
-  {
-    "name": "HLL Official - Russia #01",
-    "addr": "135.181.119.119",
-    "port": 28000,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Russia #02",
-    "addr": "135.181.119.119",
-    "port": 28200,
-    "removed": 1773836909
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -202,21 +178,9 @@
     "port": 28500
   },
   {
-    "name": "HLL Official - UK #02",
-    "addr": "149.102.158.161",
-    "port": 28000,
-    "removed": 1773836909
-  },
-  {
     "name": "QA Testing - EU #05",
     "addr": "149.102.158.161",
     "port": 28300
-  },
-  {
-    "name": "HLL Official - UK #01",
-    "addr": "149.102.158.161",
-    "port": 28400,
-    "removed": 1773836909
   },
   {
     "name": "QA Testing - UK #07",
@@ -366,21 +330,10 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Europe #03",
-    "addr": "176.57.134.62",
-    "port": 28300,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Europe #05",
-    "addr": "176.57.134.62",
-    "port": 28500,
-    "removed": 1773836909
-  },
-  {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1774443131
   },
   {
     "name": "Warfrags Studios",
@@ -468,12 +421,6 @@
     "name": "CZ/SK",
     "addr": "176.57.168.91",
     "port": 28000
-  },
-  {
-    "name": "HLL Official - Europe #04",
-    "addr": "176.57.169.108",
-    "port": 28000,
-    "removed": 1773836909
   },
   {
     "name": "DevQA - EU #02",
@@ -749,12 +696,6 @@
     "port": 7817
   },
   {
-    "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
-    "addr": "192.169.90.203",
-    "port": 7827,
-    "removed": 1773836909
-  },
-  {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
@@ -768,12 +709,6 @@
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
     "port": 7797
-  },
-  {
-    "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
-    "addr": "192.169.90.205",
-    "port": 7827,
-    "removed": 1773836909
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -1330,8 +1265,7 @@
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7807,
-    "removed": 1774441583
+    "port": 7807
   },
   {
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
@@ -1470,12 +1404,6 @@
     "port": 7777
   },
   {
-    "name": "[CASUAL] Hell Let Loose - Open Server",
-    "addr": "40.27.45.16",
-    "port": 7777,
-    "removed": 1773836909
-  },
-  {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
     "port": 7777
@@ -1506,12 +1434,6 @@
     "port": 28800
   },
   {
-    "name": "HLL Official - US West #14",
-    "addr": "45.137.246.13",
-    "port": 28000,
-    "removed": 1773836909
-  },
-  {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
     "port": 28300
@@ -1519,24 +1441,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1774443131
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
     "port": 28500
-  },
-  {
-    "name": "HLL Official - US West #03",
-    "addr": "45.137.246.13",
-    "port": 28700,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - US East #04",
-    "addr": "45.137.247.33",
-    "port": 28300,
-    "removed": 1773836909
   },
   {
     "name": "HLL Official - US East #01",
@@ -1554,21 +1465,9 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - US East #05",
-    "addr": "45.137.247.5",
-    "port": 28500,
-    "removed": 1773836909
-  },
-  {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
     "port": 28600
-  },
-  {
-    "name": "HLL Official - US East #06",
-    "addr": "45.137.247.5",
-    "port": 28700,
-    "removed": 1773836909
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1579,6 +1478,11 @@
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
     "port": 9620
+  },
+  {
+    "name": "QNZR | PERF",
+    "addr": "45.151.81.212",
+    "port": 7787
   },
   {
     "name": "TD4W Clan Server",
@@ -1852,8 +1756,7 @@
   {
     "name": "Chuck Norris Legacy ● 1h games ● Min level for officers",
     "addr": "74.63.225.20",
-    "port": 7777,
-    "removed": 1774441583
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
@@ -1917,33 +1820,9 @@
     "port": 28100
   },
   {
-    "name": "HLL Official - Asia #08",
-    "addr": "83.223.197.11",
-    "port": 28300,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Asia #07",
-    "addr": "83.223.197.14",
-    "port": 28300,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Asia #05",
-    "addr": "83.223.197.15",
-    "port": 28200,
-    "removed": 1773836909
-  },
-  {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
     "port": 28300
-  },
-  {
-    "name": "HLL Official - Asia #06",
-    "addr": "83.223.197.89",
-    "port": 28000,
-    "removed": 1773836909
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1958,7 +1837,8 @@
   {
     "name": "Barracks and Burbon - All Maps - US East",
     "addr": "83.223.203.138",
-    "port": 28100
+    "port": 28100,
+    "removed": 1774443131
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -2016,18 +1896,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Official - South America #01",
-    "addr": "89.43.106.36",
-    "port": 28000,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - South America #02",
-    "addr": "89.43.106.36",
-    "port": 28100,
-    "removed": 1773836909
-  },
-  {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
     "port": 28300
@@ -2081,18 +1949,6 @@
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
     "port": 28500
-  },
-  {
-    "name": "HLL Official - Australia #02",
-    "addr": "94.250.221.25",
-    "port": 28100,
-    "removed": 1773836909
-  },
-  {
-    "name": "HLL Official - Australia #01",
-    "addr": "94.250.221.25",
-    "port": 28200,
-    "removed": 1773836909
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
@@ -2157,7 +2013,8 @@
   {
     "name": "#2 EXD.gg » New Players Welcome | Discord.exd.gg",
     "addr": "95.135.1.28",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774443131
   },
   {
     "name": "#3 EXD.gg » Offensive Only | Discord.exd.gg",
