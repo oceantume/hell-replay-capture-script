@@ -301,7 +301,8 @@
   {
     "name": "{serverName}",
     "addr": "154.12.251.54",
-    "port": 30000
+    "port": 30000,
+    "removed": 1774420365
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
@@ -478,8 +479,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1774333968
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -545,7 +545,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1774420365
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -598,7 +599,7 @@
     "port": 7827
   },
   {
-    "name": "彡MADE IN BRASIL 彡- Estamos recrutando: discord.gg/soumib",
+    "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
     "addr": "181.214.221.212",
     "port": 7847
   },
