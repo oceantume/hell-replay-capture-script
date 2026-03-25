@@ -306,8 +306,7 @@
   {
     "name": "{serverName}",
     "addr": "154.12.251.54",
-    "port": 30000,
-    "removed": 1774420365
+    "port": 30000
   },
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
@@ -347,7 +346,7 @@
     "port": 9075
   },
   {
-    "name": "[PC] QA Testing - EU #02",
+    "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
   },
@@ -362,7 +361,7 @@
     "port": 28600
   },
   {
-    "name": "[Debug] QA Testing - EU #03",
+    "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
     "port": 28100
   },
@@ -451,7 +450,7 @@
     "port": 28300
   },
   {
-    "name": "[XPLAY] QA Testing - EU #01",
+    "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
   },
@@ -482,7 +481,7 @@
     "port": 28200
   },
   {
-    "name": "[EGS] QA Testing - EU #04",
+    "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
     "port": 28500
   },
@@ -555,7 +554,8 @@
   {
     "name": "Testify",
     "addr": "176.57.174.211",
-    "port": 28300
+    "port": 28300,
+    "removed": 1774441583
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -697,6 +697,11 @@
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
     "addr": "191.101.30.57",
     "port": 8530
+  },
+  {
+    "name": "CARMINE'S TRAINING GROUNDS",
+    "addr": "192.169.86.106",
+    "port": 7777
   },
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1157,7 +1162,8 @@
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
     "addr": "208.115.248.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774441583
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1324,7 +1330,8 @@
   {
     "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1774441583
   },
   {
     "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
@@ -1584,7 +1591,7 @@
     "port": 8530
   },
   {
-    "name": "BigD.com.au AU#3 | Vote Map Enabled | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Remagen Refresh 24/7 | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1606,7 +1613,8 @@
   {
     "name": "QNZR | TEST",
     "addr": "51.38.89.139",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774441583
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1844,7 +1852,8 @@
   {
     "name": "Chuck Norris Legacy ● 1h games ● Min level for officers",
     "addr": "74.63.225.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774441583
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
