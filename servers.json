@@ -1043,7 +1043,8 @@
   {
     "name": "[GER] Brennholzverleih | Active Admins | Mic",
     "addr": "208.115.226.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774464771
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #4 | TRAIN AND GAIN | GBG-HLL.COM | #Q",
@@ -1094,8 +1095,7 @@
   {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1774463250
+    "port": 7787
   },
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
@@ -1293,12 +1293,6 @@
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
     "port": 7857
-  },
-  {
-    "name": "<CN>#7 IMP帝国社区 免费周萌新服 60限杀150级以下",
-    "addr": "40.27.40.151",
-    "port": 7867,
-    "removed": 1773858482
   },
   {
     "name": "CN3#FJ战队|散人社区|阿懿の小窝|日|1050445081",
