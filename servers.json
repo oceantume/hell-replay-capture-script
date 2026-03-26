@@ -290,7 +290,7 @@
     "port": 9075
   },
   {
-    "name": "5th ID | CSM.MTC’s Birthday Bash | discord.gg/reddevilshll",
+    "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "157.250.201.114",
     "port": 8530
   },
@@ -420,12 +420,14 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1774506953
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1774506953
   },
   {
     "name": "DevQA - EU #01",
@@ -502,7 +504,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1774506953
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -1036,7 +1039,8 @@
   {
     "name": "[GER] Brennholzverleih | Active Admins | Mic",
     "addr": "208.115.226.90",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774506953
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #4 | TRAIN AND GAIN | GBG-HLL.COM | #Q",
@@ -1157,7 +1161,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #3 Chicago | discord.gg/icoh",
     "addr": "216.245.210.198",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774506953
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1321,6 +1326,11 @@
     "port": 7777
   },
   {
+    "name": "(IC) Offensive Heaven | US Central #3 Chicago | discord.gg/icoh",
+    "addr": "40.27.41.15",
+    "port": 7777
+  },
+  {
     "name": "(IC) Offensive Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "40.27.41.3",
     "port": 7777
@@ -1333,6 +1343,11 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
+    "port": 7777
+  },
+  {
+    "name": "SWEATS AND SYNNERS | Syndicate",
+    "addr": "40.27.42.8",
     "port": 7777
   },
   {
@@ -1555,7 +1570,8 @@
   {
     "name": "SWEATS AND SYNNERS | Syndicate",
     "addr": "63.143.63.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774506953
   },
   {
     "name": "♤CtrlAlt-Defeat NA1 New Players Welcome",
@@ -1605,7 +1621,8 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "64.31.29.66",
-    "port": 7797
+    "port": 7797,
+    "removed": 1774506953
   },
   {
     "name": "『V』VANGUARDA.PRO.BR | EVENT SERVER MIAMI",
@@ -1824,8 +1841,7 @@
   {
     "name": "Barracks and Burbon - All Maps - US East",
     "addr": "83.223.203.138",
-    "port": 28100,
-    "removed": 1774443131
+    "port": 28100
   },
   {
     "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
@@ -2020,6 +2036,11 @@
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CET︱D",
     "addr": "95.135.1.35",
+    "port": 7777
+  },
+  {
+    "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
+    "addr": "95.135.1.37",
     "port": 7777
   },
   {
