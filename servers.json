@@ -1439,8 +1439,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1774443131
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1899,6 +1898,11 @@
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
     "port": 8530
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #04",
