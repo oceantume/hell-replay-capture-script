@@ -210,8 +210,7 @@
   {
     "name": "[1stMD] 1st Marine Division NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777,
-    "removed": 1774463250
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -267,18 +266,6 @@
     "name": "{serverName}",
     "addr": "154.12.251.54",
     "port": 30000
-  },
-  {
-    "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q1020812925 JP",
-    "addr": "154.45.251.74",
-    "port": 7777,
-    "removed": 1773967568
-  },
-  {
-    "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q258455568 JP",
-    "addr": "154.45.251.76",
-    "port": 7777,
-    "removed": 1773967568
   },
   {
     "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
@@ -489,7 +476,7 @@
     "port": 28000
   },
   {
-    "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | Discord/WCB",
+    "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | discord.gg/WCB",
     "addr": "176.57.174.211",
     "port": 28200
   },
@@ -627,8 +614,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1774549813
+    "port": 7807
   },
   {
     "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
@@ -904,12 +890,6 @@
     "port": 7787
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
-    "addr": "208.115.206.38",
-    "port": 7797,
-    "removed": 1773967568
-  },
-  {
     "name": "POWERBITS GAMETEAM EXPERIMENTAL",
     "addr": "208.115.206.38",
     "port": 7807
@@ -922,6 +902,11 @@
   {
     "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
     "addr": "208.115.206.74",
+    "port": 7777
+  },
+  {
+    "name": "[GER] Brennholzverleih | Active Admins | Mic",
+    "addr": "208.115.206.83",
     "port": 7777
   },
   {
