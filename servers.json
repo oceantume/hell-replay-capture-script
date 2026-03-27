@@ -78,8 +78,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1774593376
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -691,8 +690,7 @@
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1774593376
+    "port": 7797
   },
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
@@ -909,7 +907,8 @@
   {
     "name": "[GER] Brennholzverleih | Active Admins | Mic",
     "addr": "208.115.206.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774614268
   },
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
@@ -1173,6 +1172,11 @@
     "port": 7797
   },
   {
+    "name": "HORANG / Ocelots Event Server | JAPAN |",
+    "addr": "40.27.40.11",
+    "port": 7777
+  },
+  {
     "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
     "port": 7777
@@ -1185,8 +1189,7 @@
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
     "addr": "40.27.40.15",
-    "port": 7777,
-    "removed": 1774595138
+    "port": 7777
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
@@ -1275,7 +1278,7 @@
     "port": 7857
   },
   {
-    "name": "CN3#FJ战队|散人社区|阿懿の小窝|日|1050445081",
+    "name": "CN#1FJ散人细雨清风の萌新薯条训练营",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1332,13 +1335,13 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774614268
   },
   {
     "name": "SWEATS AND SYNNERS | Syndicate",
     "addr": "40.27.42.8",
-    "port": 7777,
-    "removed": 1774528234
+    "port": 7777
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1454,8 +1457,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1774528234
+    "port": 28600
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
@@ -1687,6 +1689,11 @@
     "port": 7797
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.31.60.82",
+    "port": 8530
+  },
+  {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
@@ -1716,8 +1723,7 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
-    "port": 11255,
-    "removed": 1774595138
+    "port": 11255
   },
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
@@ -2002,6 +2008,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Brennholzverleih | Active Admins | Mic",
+    "addr": "95.135.1.22",
+    "port": 7777
+  },
+  {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
     "addr": "95.135.1.24",
     "port": 7777
@@ -2039,8 +2050,7 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.1.37",
-    "port": 7777,
-    "removed": 1774549813
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | WO",
@@ -2070,6 +2080,7 @@
   {
     "name": "BWCC #1 | ENG/EU | discord.gg/BWCC",
     "addr": "95.135.1.8",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774614268
   }
 ]
