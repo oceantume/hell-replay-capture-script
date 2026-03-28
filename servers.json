@@ -434,6 +434,11 @@
     "port": 28400
   },
   {
+    "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | discord.gg/WCB",
+    "addr": "176.57.171.158",
+    "port": 28000
+  },
+  {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
     "port": 28100
@@ -472,7 +477,8 @@
   {
     "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | discord.gg/WCB",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1774658838
   },
   {
     "name": "Testify",
@@ -494,6 +500,11 @@
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
+  },
+  {
+    "name": "HDC | Combat Division | EU | Active Admins",
+    "addr": "178.239.168.169",
+    "port": 8530
   },
   {
     "name": "[FR|TdA] La Tempête d’Acier | Micro Obligatoire | Teamplay |",
@@ -1455,6 +1466,11 @@
     "port": 28600
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "45.143.199.235",
+    "port": 10710
+  },
+  {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
     "port": 8530
@@ -1587,7 +1603,7 @@
     "port": 7787
   },
   {
-    "name": "Current Level: RIP Chuck Norris(D1CK)",
+    "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
     "port": 7777
   },
@@ -1691,7 +1707,8 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774658838
   },
   {
     "name": "I Love Playing Apex",
