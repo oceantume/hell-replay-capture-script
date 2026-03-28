@@ -245,7 +245,8 @@
   {
     "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.150",
-    "port": 7877
+    "port": 7877,
+    "removed": 1774679361
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
@@ -260,12 +261,14 @@
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "152.114.195.174",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774679361
   },
   {
     "name": "{serverName}",
     "addr": "154.12.251.54",
-    "port": 30000
+    "port": 30000,
+    "removed": 1774679361
   },
   {
     "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
@@ -577,7 +580,7 @@
     "port": 7777
   },
   {
-    "name": "2RB SEGUNDA RESISTENCIA BRASILEIRA - RECRUTAMENTO (11) 91155-20",
+    "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
     "addr": "181.214.48.19",
     "port": 7787
   },
@@ -665,7 +668,8 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774679361
   },
   {
     "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
@@ -1045,7 +1049,8 @@
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774679361
   },
   {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
@@ -1283,7 +1288,7 @@
     "port": 7857
   },
   {
-    "name": "CN#1FJ散人细雨清风の萌新薯条训练营",
+    "name": "CN#3FJ散人社区细雨清风の萌新薯条训练营",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1340,8 +1345,7 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1774614268
+    "port": 7777
   },
   {
     "name": "SWEATS AND SYNNERS | Syndicate",
@@ -1386,7 +1390,8 @@
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "40.27.45.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774679361
   },
   {
     "name": "RGN #9 -DC- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1971,6 +1976,16 @@
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
     "port": 7787
+  },
+  {
+    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "95.135.0.16",
+    "port": 7777
+  },
+  {
+    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "addr": "95.135.0.17",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
