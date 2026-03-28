@@ -447,12 +447,6 @@
     "port": 28100
   },
   {
-    "name": "ALTER SERVER!!! Nutze bitte '100.Jäger-Division' Server",
-    "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1774098254
-  },
-  {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
@@ -1440,8 +1434,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1774617800
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1466,7 +1459,8 @@
   {
     "name": "Objective First",
     "addr": "45.143.199.235",
-    "port": 10710
+    "port": 10710,
+    "removed": 1774703498
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
