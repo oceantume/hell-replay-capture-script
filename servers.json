@@ -1201,12 +1201,6 @@
     "port": 7777
   },
   {
-    "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
-    "addr": "40.27.40.150",
-    "port": 7777,
-    "removed": 1774095368
-  },
-  {
     "name": "CN3#散人社区|打折周萌新欢乐巴士丨限级160级1207",
     "addr": "40.27.40.150",
     "port": 7787
@@ -1615,6 +1609,11 @@
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
+  },
+  {
+    "name": "hll Server",
+    "addr": "64.31.20.210",
+    "port": 7797
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
