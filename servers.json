@@ -752,7 +752,8 @@
   {
     "name": "[GER] Omen Prep & Training Server #2 sponsored by GBG",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774722955
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord/7eCie",
@@ -1104,8 +1105,7 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787,
-    "removed": 1774721769
+    "port": 7787
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
@@ -2086,7 +2086,7 @@
     "port": 7777
   },
   {
-    "name": "HILF | UA/ENG | Проводимо івент. сід з 20:30",
+    "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
     "addr": "95.135.1.6",
     "port": 7777
   },
