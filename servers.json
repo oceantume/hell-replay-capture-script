@@ -45,7 +45,7 @@
     "port": 7797
   },
   {
-    "name": "[BRASIL] MARRAM.COM.BR - 15 dias de vip no seed",
+    "name": "[BRASIL] MARRAM.COM.BR - discor.gg/marram",
     "addr": "108.165.230.224",
     "port": 7807
   },
@@ -169,7 +169,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "149.102.154.195",
-    "port": 28300
+    "port": 28300,
+    "removed": 1774766028
   },
   {
     "name": "AAA SERVEUR EN TEST",
@@ -490,7 +491,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1774766028
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -1814,12 +1816,6 @@
     "name": "[CI] Corrupted Infantry | ENG | Teamwork | discord.gg/ci",
     "addr": "78.46.101.16",
     "port": 9620
-  },
-  {
-    "name": "QNZR | SGP",
-    "addr": "82.25.36.5",
-    "port": 7777,
-    "removed": 1774160732
   },
   {
     "name": "HLL Official - Asia #01",
