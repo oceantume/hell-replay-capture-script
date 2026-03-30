@@ -27,7 +27,8 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774896857
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -615,8 +616,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807,
-    "removed": 1774895293
+    "port": 7807
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
