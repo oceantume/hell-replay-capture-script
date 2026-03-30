@@ -613,12 +613,6 @@
     "port": 7807
   },
   {
-    "name": "♤Ctrl Alt Defeat[Hellfire] EARN 3 DAYS VIP PER MATCH",
-    "addr": "191.101.166.120",
-    "port": 9075,
-    "removed": 1774268787
-  },
-  {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
     "addr": "191.101.30.57",
     "port": 8530
@@ -1042,12 +1036,6 @@
     "port": 7777
   },
   {
-    "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CET︱D",
-    "addr": "208.115.248.107",
-    "port": 7787,
-    "removed": 1774268787
-  },
-  {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
@@ -1436,8 +1424,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1774786799
+    "port": 28600
   },
   {
     "name": "Objective First",
@@ -1463,7 +1450,8 @@
   {
     "name": "QNZR | PERF",
     "addr": "45.151.81.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1774873831
   },
   {
     "name": "TD4W Clan Server",
@@ -1902,7 +1890,8 @@
   {
     "name": "=ROTN= | Rangers of the North | Event and Training Server",
     "addr": "92.118.18.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1774873831
   },
   {
     "name": "End of Existence | VoidExistence.com",
