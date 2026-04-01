@@ -27,8 +27,7 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1774896857
+    "port": 7777
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -59,7 +58,8 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1775027976
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -755,7 +755,8 @@
   {
     "name": "Spielwiese der Panzertruppe",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1775027976
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1908,7 +1909,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28500
+    "port": 28500,
+    "removed": 1775027976
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
