@@ -27,7 +27,8 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775046694
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -58,8 +59,7 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1775027976
+    "port": 10300
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -377,7 +377,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1775046694
   },
   {
     "name": "DevQA - EU #01",
@@ -444,12 +445,6 @@
     "addr": "176.57.174.211",
     "port": 28200,
     "removed": 1774658838
-  },
-  {
-    "name": "Testify",
-    "addr": "176.57.174.211",
-    "port": 28300,
-    "removed": 1774441583
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -599,7 +594,8 @@
   {
     "name": "[5BCT] NA milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "192.169.86.106",
-    "port": 7807
+    "port": 7807,
+    "removed": 1775046694
   },
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
@@ -755,8 +751,7 @@
   {
     "name": "Spielwiese der Panzertruppe",
     "addr": "195.82.158.186",
-    "port": 21100,
-    "removed": 1775027976
+    "port": 21100
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1390,8 +1385,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1774960288
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1464,12 +1458,6 @@
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
     "port": 7777
-  },
-  {
-    "name": "QNZR | TEST",
-    "addr": "51.38.89.139",
-    "port": 7777,
-    "removed": 1774441583
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1651,7 +1639,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.31.60.82",
-    "port": 8530
+    "port": 8530,
+    "removed": 1775046694
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1686,7 +1675,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.58.130",
-    "port": 8530
+    "port": 8530,
+    "removed": 1775046694
   },
   {
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
@@ -1909,8 +1899,7 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28500,
-    "removed": 1775027976
+    "port": 28500
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
