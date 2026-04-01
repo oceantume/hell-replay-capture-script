@@ -547,7 +547,7 @@
     "port": 7797
   },
   {
-    "name": "シ MARRAM.COM.BR - BRASIL - discord.gg/marram",
+    "name": "シ MARRAM.COM.BR - BRASIL - Concorra a um Mouse Razer",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -1049,7 +1049,8 @@
   {
     "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
     "addr": "208.115.255.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775068091
   },
   {
     "name": "Sassy's Assault | § eTool | .gg/hostile + etool",
@@ -1069,7 +1070,8 @@
   {
     "name": "Oceanic Ocelots | Japan",
     "addr": "216.144.245.83",
-    "port": 7787
+    "port": 7787,
+    "removed": 1775068091
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1311,6 +1313,11 @@
     "port": 7777
   },
   {
+    "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
+    "addr": "40.27.44.16",
+    "port": 7777
+  },
+  {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
     "port": 7777
@@ -1385,8 +1392,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1774981702
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1772,7 +1778,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1775068091
   },
   {
     "name": "HLL Official - Asia #03",
