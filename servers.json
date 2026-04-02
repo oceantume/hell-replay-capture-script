@@ -765,12 +765,6 @@
     "port": 7777
   },
   {
-    "name": "Legends Hell Let Loose Server",
-    "addr": "195.82.158.186",
-    "port": 20600,
-    "removed": 1774549813
-  },
-  {
     "name": "Spielwiese der Panzertruppe",
     "addr": "195.82.158.186",
     "port": 21100
@@ -1847,12 +1841,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1774549813
   },
   {
     "name": "HLL Official - South America #04",
