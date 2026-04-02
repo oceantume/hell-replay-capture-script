@@ -298,8 +298,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1775134678
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -810,7 +809,8 @@
   {
     "name": "NotPolishVeterans",
     "addr": "203.23.178.3",
-    "port": 8888
+    "port": 8888,
+    "removed": 1775137142
   },
   {
     "name": "Streamline Test",
@@ -1136,7 +1136,8 @@
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
     "addr": "40.27.40.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775137142
   },
   {
     "name": "CN3#散人社区|打折周萌新欢乐巴士丨限级160级1207",
@@ -1485,7 +1486,8 @@
   {
     "name": "CZ & SK | EVENT | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
-    "port": 10165
+    "port": 10165,
+    "removed": 1775137142
   },
   {
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
@@ -1757,8 +1759,7 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100,
-    "removed": 1775134678
+    "port": 28100
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1769,14 +1770,12 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1775068091
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100,
-    "removed": 1775134678
+    "port": 28100
   },
   {
     "name": "Barracks and Burbon - All Maps - US East",
@@ -1854,8 +1853,7 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1775134678
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
@@ -1936,8 +1934,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877,
-    "removed": 1775134678
+    "port": 7877
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -2002,8 +1999,7 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
     "addr": "95.135.1.33",
-    "port": 7777,
-    "removed": 1775133027
+    "port": 7777
   },
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CET︱D",
