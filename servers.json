@@ -243,6 +243,11 @@
     "removed": 1774895293
   },
   {
+    "name": "hll Server",
+    "addr": "154.45.251.74",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
@@ -309,6 +314,11 @@
     "removed": 1774918260
   },
   {
+    "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
+    "addr": "176.57.168.250",
+    "port": 28000
+  },
+  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -321,7 +331,8 @@
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.251",
-    "port": 28400
+    "port": 28400,
+    "removed": 1775090922
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -462,7 +473,7 @@
     "port": 28300
   },
   {
-    "name": "HDC | Combat Division | EU | Active Admins",
+    "name": "HDC | Combat Division | US East & EU | Active Admins",
     "addr": "178.239.168.169",
     "port": 8530
   },
@@ -1653,6 +1664,11 @@
     "addr": "64.31.60.82",
     "port": 8530,
     "removed": 1775046694
+  },
+  {
+    "name": "Oceanic Ocelots | Japan",
+    "addr": "64.31.61.91",
+    "port": 7787
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
