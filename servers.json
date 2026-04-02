@@ -95,8 +95,7 @@
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
-    "port": 7777,
-    "removed": 1775133027
+    "port": 7777
   },
   {
     "name": "KRTs Chilling at Camelot",
@@ -148,12 +147,6 @@
     "name": "AAA SERVEUR EN TEST",
     "addr": "149.102.154.195",
     "port": 28500
-  },
-  {
-    "name": "QA Testing - EU #05",
-    "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1774528234
   },
   {
     "name": "QA Testing - UK #07",
@@ -294,7 +287,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1775134678
   },
   {
     "name": "QA Testing - EU #03",
@@ -304,7 +298,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1775134678
   },
   {
     "name": "Warfrags Studios",
@@ -1030,12 +1025,6 @@
     "port": 7797
   },
   {
-    "name": "GG GUYS GG | LIETUVA | EN/LT server | No Tobruk XD",
-    "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1774528234
-  },
-  {
     "name": "[5BCT] EU milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
@@ -1101,12 +1090,6 @@
     "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
     "addr": "216.245.210.196",
     "port": 7797
-  },
-  {
-    "name": "The Tavern Guard | US Central",
-    "addr": "216.245.210.197",
-    "port": 7777,
-    "removed": 1774528234
   },
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1409,13 +1392,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1775134678
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1775133027
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1774,12 +1757,14 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1775134678
   },
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775134678
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1790,7 +1775,8 @@
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100
+    "port": 28100,
+    "removed": 1775134678
   },
   {
     "name": "Barracks and Burbon - All Maps - US East",
@@ -1831,7 +1817,8 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775134678
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1867,7 +1854,8 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775134678
   },
   {
     "name": "HLL Official - South America #03",
@@ -1948,7 +1936,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1775134678
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
