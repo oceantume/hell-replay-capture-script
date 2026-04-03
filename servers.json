@@ -559,7 +559,7 @@
     "port": 7797
   },
   {
-    "name": "シ MARRAM.COM.BR - BRASIL - Concorra a um Mouse Razer",
+    "name": "シ MARRAM.COM.BR - BRASIL - discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -1454,7 +1454,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1775177449
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1497,12 +1498,12 @@
     "port": 7787
   },
   {
-    "name": "BR1 Gaming -- Central -- discord.gg/br1",
+    "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7787
   },
   {
-    "name": "BR1 Event Server -- discord.gg/br1",
+    "name": "BR1 (Big Red 1 Gaming) Event Server -- discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7797
   },
@@ -1809,8 +1810,7 @@
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
-    "port": 7777,
-    "removed": 1775134678
+    "port": 7777
   },
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
