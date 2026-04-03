@@ -994,7 +994,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1775199970
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1375,7 +1376,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775199970
   },
   {
     "name": "HLL Official - US West #02",
@@ -1463,8 +1465,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777,
-    "removed": 1775198197
+    "port": 7777
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1920,14 +1921,12 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1775198197
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877,
-    "removed": 1775198197
+    "port": 7877
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1937,8 +1936,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1775198197
+    "port": 7777
   },
   {
     "name": "CBMS",
