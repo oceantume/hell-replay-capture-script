@@ -608,7 +608,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "XIII Legion - Rubicon",
     "addr": "191.101.30.61",
     "port": 8530
   },
@@ -1359,22 +1359,26 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "45.137.244.9",
-    "port": 28100
+    "port": 28100,
+    "removed": 1775240439
   },
   {
     "name": "Hell for you",
     "addr": "45.137.244.9",
-    "port": 28400
+    "port": 28400,
+    "removed": 1775240439
   },
   {
     "name": "The Disabled Vets - New Players Welcome",
     "addr": "45.137.244.9",
-    "port": 28600
+    "port": 28600,
+    "removed": 1775240439
   },
   {
     "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
-    "port": 28800
+    "port": 28800,
+    "removed": 1775240439
   },
   {
     "name": "QA Testing - US West #06",
@@ -1769,8 +1773,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1775154396
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1788,9 +1791,24 @@
     "port": 28200
   },
   {
+    "name": "Hell for you",
+    "addr": "83.223.207.10",
+    "port": 28000
+  },
+  {
+    "name": "The Disabled Vets - New Players Welcome",
+    "addr": "83.223.207.10",
+    "port": 28100
+  },
+  {
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
+  },
+  {
+    "name": "#1 Saluting Our Vets",
+    "addr": "83.223.207.50",
+    "port": 28500
   },
   {
     "name": "The Gang Is All Here",
@@ -1807,6 +1825,11 @@
     "name": "OGHC Battleground - New Players Welcome - US Central",
     "addr": "83.223.207.55",
     "port": 28500
+  },
+  {
+    "name": "Hell let loose Server by g-portal.com",
+    "addr": "83.223.207.55",
+    "port": 28800
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
