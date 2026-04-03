@@ -149,6 +149,11 @@
     "port": 28500
   },
   {
+    "name": "[XPLAY] QA Testing - EU #05",
+    "addr": "149.102.158.161",
+    "port": 28300
+  },
+  {
     "name": "QA Testing - UK #07",
     "addr": "149.102.158.161",
     "port": 28600,
@@ -994,8 +999,7 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1775199970
+    "port": 7807
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -1223,7 +1227,7 @@
     "port": 7867
   },
   {
-    "name": "CN#3FJ散人社区细雨清风の萌新薯条训练营Q:7133580",
+    "name": "CN#3FJ散人社区细雨清风の萌新训练营Q:716701264",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1369,6 +1373,11 @@
     "port": 28400
   },
   {
+    "name": "The Disabled Vets - New Players Welcome",
+    "addr": "45.137.244.9",
+    "port": 28600
+  },
+  {
     "name": "#1 Saluting Our Vets",
     "addr": "45.137.244.9",
     "port": 28800
@@ -1376,8 +1385,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1775199970
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1392,8 +1400,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1775134678
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
