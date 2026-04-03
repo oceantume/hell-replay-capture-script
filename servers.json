@@ -286,8 +286,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1775134678
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -601,6 +600,11 @@
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
     "addr": "191.101.30.57",
+    "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "191.101.30.61",
     "port": 8530
   },
   {
@@ -1454,13 +1458,13 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1775177449
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775198197
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1634,7 +1638,7 @@
     "removed": 1775046694
   },
   {
-    "name": "Oceanic Ocelots | Japan",
+    "name": "Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
     "port": 7787
   },
@@ -1916,12 +1920,14 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775198197
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1775198197
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
@@ -1931,7 +1937,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775198197
   },
   {
     "name": "CBMS",
