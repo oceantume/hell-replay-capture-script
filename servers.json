@@ -583,6 +583,11 @@
     "port": 10710
   },
   {
+    "name": "[FD] - Русский Сервер | [EVENT]",
+    "addr": "185.70.107.12",
+    "port": 11255
+  },
+  {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
     "port": 8530
@@ -1104,12 +1109,6 @@
     "port": 7787
   },
   {
-    "name": "[BRASIL] MARRAM.COM.BR - discord.gg/marram",
-    "addr": "37.148.133.8",
-    "port": 7797,
-    "removed": 1774721769
-  },
-  {
     "name": "[BRASIL] シ MARRAM.COM.BR - discord.gg/marram",
     "addr": "37.148.133.8",
     "port": 7807,
@@ -1121,7 +1120,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂丨4月4TT萌新俱乐部赛丨Q群548651",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1756,8 +1755,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1775134678
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
