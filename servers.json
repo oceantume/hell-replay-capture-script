@@ -294,7 +294,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1775305197
   },
   {
     "name": "Warfrags Studios",
@@ -967,7 +968,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event OLD",
     "addr": "208.115.226.3",
-    "port": 7807
+    "port": 7807,
+    "removed": 1775305197
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
@@ -1119,10 +1121,9 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
+    "name": "CN#3 TT天堂丨4月4TT萌新俱乐部赛丨Q群548651",
     "addr": "40.27.40.13",
-    "port": 7777,
-    "removed": 1775287696
+    "port": 7777
   },
   {
     "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
