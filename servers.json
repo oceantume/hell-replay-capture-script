@@ -190,7 +190,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "=7Cav= Tactical Realism | Washington DC| Discord.gg/7Cav",
     "addr": "15.204.170.67",
     "port": 7777
   },
@@ -335,6 +335,11 @@
     "port": 28100
   },
   {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "addr": "176.57.168.251",
+    "port": 28100
+  },
+  {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
     "port": 28200
@@ -429,7 +434,8 @@
   {
     "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | discord.gg/WCB",
     "addr": "176.57.171.158",
-    "port": 28000
+    "port": 28000,
+    "removed": 1775263660
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -460,12 +466,6 @@
     "name": "Glory to Ukraine [English]",
     "addr": "176.57.174.211",
     "port": 28000
-  },
-  {
-    "name": "[WCB] NEW PLAYERS WELCOME | 2-DAYS SEEDING VIP | discord.gg/WCB",
-    "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1774658838
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -971,7 +971,7 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
+    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event OLD",
     "addr": "208.115.226.3",
     "port": 7807
   },
@@ -1095,7 +1095,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1775263660
   },
   {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1681,7 +1682,8 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "67.217.48.14",
-    "port": 8530
+    "port": 8530,
+    "removed": 1775263660
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1808,7 +1810,8 @@
   {
     "name": "OMS! Hell let loose (US Mid) Server by g-portal.com",
     "addr": "83.223.207.10",
-    "port": 28200
+    "port": 28200,
+    "removed": 1775263660
   },
   {
     "name": "Test",
@@ -1968,6 +1971,11 @@
     "port": 7977
   },
   {
+    "name": "QNZR | SYM FILTERING",
+    "addr": "95.135.0.3",
+    "port": 7777
+  },
+  {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
     "port": 7777
@@ -1990,7 +1998,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
     "addr": "95.135.1.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775263660
   },
   {
     "name": "[GER] Brennholzverleih | Active Admins | Mic",
