@@ -225,12 +225,6 @@
     "port": 7827
   },
   {
-    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
-    "addr": "152.114.195.150",
-    "port": 7877,
-    "removed": 1774679361
-  },
-  {
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
     "port": 7777
@@ -239,12 +233,6 @@
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7787
-  },
-  {
-    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
-    "addr": "152.114.195.174",
-    "port": 7777,
-    "removed": 1774679361
   },
   {
     "name": "{serverName}",
@@ -441,6 +429,11 @@
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (EU) (NA)",
+    "addr": "176.57.171.158",
+    "port": 28300
   },
   {
     "name": "Borry‘s Playground",
@@ -1331,12 +1324,6 @@
     "port": 7777
   },
   {
-    "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
-    "addr": "40.27.45.13",
-    "port": 7777,
-    "removed": 1774679361
-  },
-  {
     "name": "RGN #9 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "40.27.45.13",
     "port": 7787
@@ -1388,8 +1375,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1775265843
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1802,7 +1788,7 @@
     "port": 28000
   },
   {
-    "name": "The Disabled Vets - New Players Welcome",
+    "name": "The Disabled Vets | New Players Welcome | Active Admins",
     "addr": "83.223.207.10",
     "port": 28100
   },
