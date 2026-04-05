@@ -138,12 +138,6 @@
     "port": 9014
   },
   {
-    "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
-    "addr": "149.102.154.195",
-    "port": 28300,
-    "removed": 1774766028
-  },
-  {
     "name": "AAA SERVEUR EN TEST",
     "addr": "149.102.154.195",
     "port": 28500
@@ -465,7 +459,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1775370912
   },
   {
     "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
@@ -1206,7 +1201,7 @@
     "port": 7837
   },
   {
-    "name": "CN帝国社区公益萌新跑图服 自助飞天权限",
+    "name": "CN CCG丧尸赛",
     "addr": "40.27.40.151",
     "port": 7847
   },
