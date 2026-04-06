@@ -598,7 +598,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1775500068
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
@@ -1414,6 +1415,11 @@
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
     "port": 28600
+  },
+  {
+    "name": "Le Peloton Perdu",
+    "addr": "45.143.199.235",
+    "port": 10710
   },
   {
     "name": "Objective First [ENG] | Voice Comms | obj1st.com",
