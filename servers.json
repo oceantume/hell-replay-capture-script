@@ -288,8 +288,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1775305197
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -640,7 +639,8 @@
   {
     "name": "Helios Event Server",
     "addr": "192.169.86.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1775478523
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -1396,12 +1396,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1775478523
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1775478523
   },
   {
     "name": "HLL Playtest Server - US #01",
