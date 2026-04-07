@@ -148,12 +148,6 @@
     "port": 28300
   },
   {
-    "name": "QA Testing - UK #07",
-    "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1774960288
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -354,12 +348,6 @@
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
     "port": 28200
-  },
-  {
-    "name": "QA Testing - EU #08",
-    "addr": "176.57.168.38",
-    "port": 28400,
-    "removed": 1774960288
   },
   {
     "name": "CZ/SK",
@@ -1117,7 +1105,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨满人请到TT3",
     "addr": "40.27.40.13",
     "port": 7787
   },
