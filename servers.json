@@ -1112,7 +1112,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨欢迎您加群！",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨每日20点开服",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1230,12 +1230,14 @@
   {
     "name": "FJ绿魔鬼空降猎兵服|Q:716701264",
     "addr": "40.27.40.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775565074
   },
   {
     "name": "GTZ战术大队跑图服",
     "addr": "40.27.40.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1775565074
   },
   {
     "name": "CN「CZS」超质数中队白莱逗我笑纯冲突Q1085594141",
@@ -1384,14 +1386,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1775478523
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1775478523
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1401,7 +1401,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1775565074
   },
   {
     "name": "Le Peloton Perdu",
