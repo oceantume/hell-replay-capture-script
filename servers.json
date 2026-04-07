@@ -295,12 +295,6 @@
     "port": 28100
   },
   {
-    "name": "frogus",
-    "addr": "176.57.140.64",
-    "port": 28200,
-    "removed": 1774918260
-  },
-  {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.250",
     "port": 28000
@@ -1204,7 +1198,7 @@
     "port": 7837
   },
   {
-    "name": "CN CCG丧尸赛",
+    "name": "CN帝国社区训练服 自助切图飞天功能",
     "addr": "40.27.40.151",
     "port": 7847
   },
@@ -1538,6 +1532,11 @@
   {
     "name": "Current Level: America First(D1CK)",
     "addr": "64.31.18.227",
+    "port": 7777
+  },
+  {
+    "name": "㋑ | Born 2 Kill | discord.gg/B2KGaming",
+    "addr": "64.31.2.218",
     "port": 7777
   },
   {
