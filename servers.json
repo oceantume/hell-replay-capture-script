@@ -1383,8 +1383,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1775565074
+    "port": 28600
   },
   {
     "name": "Le Peloton Perdu",
@@ -1978,7 +1977,8 @@
   {
     "name": "[EU/ENG] UnityGaming - NEW PLAYER FRIENDLY",
     "addr": "95.135.1.31",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775651446
   },
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
