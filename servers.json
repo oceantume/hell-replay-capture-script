@@ -1004,12 +1004,6 @@
     "port": 7787
   },
   {
-    "name": "(IC) Offensive Heaven | US West #1 Portland | discord.gg/icoh",
-    "addr": "208.115.255.50",
-    "port": 7777,
-    "removed": 1775068091
-  },
-  {
     "name": "Sassy's Assault | § eTool | .gg/hostile + etool",
     "addr": "208.115.255.53",
     "port": 7777
@@ -1023,12 +1017,6 @@
     "name": "reclaimer training server",
     "addr": "216.144.245.83",
     "port": 7777
-  },
-  {
-    "name": "Oceanic Ocelots | Japan",
-    "addr": "216.144.245.83",
-    "port": 7787,
-    "removed": 1775068091
   },
   {
     "name": "工人爷爷自动刷分服 ※ Q979552783",
@@ -1711,7 +1699,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1775673357
   },
   {
     "name": "HLL Official - Asia #03",
