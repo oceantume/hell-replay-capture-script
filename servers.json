@@ -649,7 +649,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -830,7 +830,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -865,7 +865,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -951,7 +951,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1315,7 +1315,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1775738060
   },
   {
     "name": "HLL Official - US East #02",
