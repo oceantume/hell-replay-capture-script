@@ -297,12 +297,6 @@
     "port": 28200
   },
   {
-    "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
-    "addr": "176.57.168.251",
-    "port": 28400,
-    "removed": 1775090922
-  },
-  {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
     "port": 28000
@@ -1324,7 +1318,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775697516
   },
   {
     "name": "HLL Official - US West #02",
