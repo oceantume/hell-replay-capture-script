@@ -370,7 +370,8 @@
   {
     "name": "SIEG | Experimental & Test Server | EU",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1775695435
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -460,7 +461,7 @@
     "port": 7787
   },
   {
-    "name": "『V』VANGUARDA | BR | LATAM | Warfare",
+    "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
     "port": 7797
   },
@@ -1541,7 +1542,7 @@
     "port": 7777
   },
   {
-    "name": "UTC - [.PT] & [DSS] Alliance・ (ENG/PT/NL)・Warfare丨Qonzer",
+    "name": "UTC - New Players Welcome (ENG)",
     "addr": "64.31.4.172",
     "port": 7777
   },
