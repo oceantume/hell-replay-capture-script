@@ -127,7 +127,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775824024
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -1035,7 +1036,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨每日20点开服",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨俱乐部公益服",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1303,8 +1304,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1775738060
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1319,7 +1319,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1775824024
   },
   {
     "name": "Le Peloton Perdu",
@@ -1349,7 +1350,8 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1775824024
   },
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
