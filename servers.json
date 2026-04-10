@@ -161,7 +161,7 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism | WSH DC | discord.gg/7cav",
+    "name": "=7Cav= Tactical Realism | Conquest | discord.gg/7cav",
     "addr": "15.204.170.67",
     "port": 7777
   },
@@ -424,7 +424,7 @@
     "port": 8530
   },
   {
-    "name": "[FR-BE|TDA] NO PRIVATE SQUADS | NO STREAM | MIC | TEAMPLAY",
+    "name": "[FR|TDA] Discipline & Respect – Coopération – No Stream",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -805,7 +805,7 @@
     "port": 7807
   },
   {
-    "name": "Oktogon #2 • Wir rekrutieren! • [GER] #Qonzer",
+    "name": "Oktogon #2 • Community • [GER] #Qonzer",
     "addr": "208.115.206.51",
     "port": 7777
   },
@@ -1263,30 +1263,6 @@
     "port": 7777
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "45.137.244.9",
-    "port": 28100,
-    "removed": 1775240439
-  },
-  {
-    "name": "Hell for you",
-    "addr": "45.137.244.9",
-    "port": 28400,
-    "removed": 1775240439
-  },
-  {
-    "name": "The Disabled Vets - New Players Welcome",
-    "addr": "45.137.244.9",
-    "port": 28600,
-    "removed": 1775240439
-  },
-  {
-    "name": "#1 Saluting Our Vets",
-    "addr": "45.137.244.9",
-    "port": 28800,
-    "removed": 1775240439
-  },
-  {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
     "port": 28300
@@ -1584,6 +1560,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "69.10.33.178",
+    "port": 9075
+  },
+  {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1662,7 +1643,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1775845601
   },
   {
     "name": "HLL Official - Asia #04",
