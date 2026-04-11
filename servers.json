@@ -884,12 +884,6 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event OLD",
-    "addr": "208.115.226.3",
-    "port": 7807,
-    "removed": 1775305197
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
     "port": 7787
@@ -987,6 +981,11 @@
   {
     "name": "CN#1FJ绿魔鬼空降猎兵服Q:716701264",
     "addr": "216.144.245.85",
+    "port": 7777
+  },
+  {
+    "name": "GTZ战术大队跑图服",
+    "addr": "216.144.245.86",
     "port": 7777
   },
   {
@@ -1269,7 +1268,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1775910024
   },
   {
     "name": "HLL Official - US East #02",
@@ -1284,8 +1284,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1775824024
+    "port": 28600
   },
   {
     "name": "Le Peloton Perdu",
