@@ -243,7 +243,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1775889101
   },
   {
     "name": "QA Testing - EU #03",
@@ -418,7 +419,7 @@
     "port": 8530
   },
   {
-    "name": "[FR|TDA] Discipline & Respect – Coopération – No Stream",
+    "name": "FR|TDA – Discipline & Respect – Coopération – No Stream",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -1603,7 +1604,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165
+    "port": 10165,
+    "removed": 1775889101
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
