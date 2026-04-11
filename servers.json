@@ -368,12 +368,6 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) (NA)",
-    "addr": "176.57.171.158",
-    "port": 28300,
-    "removed": 1775285863
-  },
-  {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
     "port": 28000
@@ -1604,8 +1598,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1775889101
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
