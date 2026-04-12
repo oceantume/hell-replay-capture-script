@@ -709,7 +709,8 @@
   {
     "name": "[GER] Wolfsrudel",
     "addr": "195.82.158.186",
-    "port": 20900
+    "port": 20900,
+    "removed": 1775999920
   },
   {
     "name": "Spielwiese der Panzertruppe",
@@ -719,7 +720,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1775999920
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -1272,12 +1274,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1775999920
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1775999920
   },
   {
     "name": "HLL Official - US East #01",
