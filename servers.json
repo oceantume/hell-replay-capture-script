@@ -480,7 +480,8 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1775996543
   },
   {
     "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
@@ -791,7 +792,7 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] Eastern Inferno (Season 1)",
+    "name": "[13SNC] #2 Dírty's Offensives - discord.gg/13snc",
     "addr": "208.115.206.38",
     "port": 7777
   },
@@ -1280,8 +1281,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1775910024
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1317,6 +1317,11 @@
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
     "port": 9620
+  },
+  {
+    "name": "Special Needs Server",
+    "addr": "45.151.81.212",
+    "port": 7777
   },
   {
     "name": "TD4W Clan Server",
@@ -1906,7 +1911,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #2 | LEARN & CONQUER | GBG-HLL.COM | G",
+    "name": "! ! !GERMAN BATTLEGROUND ** | LEARN & CONQUER | GBG-HLL.COM | G",
     "addr": "95.135.1.5",
     "port": 7777
   },
