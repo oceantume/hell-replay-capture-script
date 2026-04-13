@@ -536,7 +536,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1776105386
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
@@ -611,6 +612,11 @@
   {
     "name": "AS YT",
     "addr": "192.169.95.179",
+    "port": 7777
+  },
+  {
+    "name": "[13SNC] #2 Dírty's Offensives [US] - discord.gg/13snc",
+    "addr": "192.169.95.182",
     "port": 7777
   },
   {
@@ -973,7 +979,8 @@
   {
     "name": "[EST/ENG] Estonian Division | New Players Welcome",
     "addr": "212.237.216.54",
-    "port": 7807
+    "port": 7807,
+    "removed": 1776105386
   },
   {
     "name": "cn.jp【PUMA】做最优质的战士服务器q: 746699634",
@@ -1647,8 +1654,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1776018058
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1744,14 +1750,12 @@
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1775759362
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28600,
-    "removed": 1775759362
+    "port": 28600
   },
   {
     "name": "Excel Spreadsheets",
