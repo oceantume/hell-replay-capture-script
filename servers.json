@@ -42,7 +42,8 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1776041858
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -218,7 +219,8 @@
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "157.250.201.114",
-    "port": 8530
+    "port": 8530,
+    "removed": 1776041858
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -479,8 +481,7 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777,
-    "removed": 1775996543
+    "port": 7777
   },
   {
     "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
@@ -1555,6 +1556,11 @@
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
     "port": 11255
+  },
+  {
+    "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
+    "addr": "67.217.48.14",
+    "port": 11800
   },
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
