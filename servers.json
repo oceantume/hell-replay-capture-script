@@ -319,7 +319,8 @@
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1776083747
   },
   {
     "name": "CZ/SK",
@@ -493,7 +494,7 @@
     "port": 7797
   },
   {
-    "name": "シ MARRAM.COM.BR - BRASIL - discord.gg/marram",
+    "name": "MARRAM.COM.BR - BRASIL - discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -566,12 +567,6 @@
     "name": "5th Ranger Battalion | US East | 5thrb.com",
     "addr": "192.169.86.210",
     "port": 7787
-  },
-  {
-    "name": "Helios Event Server",
-    "addr": "192.169.86.210",
-    "port": 7797,
-    "removed": 1775478523
   },
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
@@ -911,7 +906,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #4 | NO MERCY EU/US EAST | GBG-HLL.COM",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | NO MERCY EU/US EAST | GBG-HLL.COM ",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1292,7 +1287,8 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1776083747
   },
   {
     "name": "HLL Official - US East #03",
@@ -1860,7 +1856,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #1 | LOW PING | GBG-HLL.COM | GER ENG ",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.2",
     "port": 7777
   },
@@ -1911,12 +1907,12 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND #3 | RARE MAPS ONLY | GBG-HLL.COM | WO",
+    "name": "! ! !GERMAN BATTLEGROUND 3 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "95.135.1.4",
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND ** | LEARN & CONQUER | GBG-HLL.COM | G",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | GE",
     "addr": "95.135.1.5",
     "port": 7777
   },
