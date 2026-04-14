@@ -67,8 +67,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1776149295
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -639,7 +638,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -649,7 +648,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -712,14 +711,12 @@
   {
     "name": "Spielwiese der Panzertruppe",
     "addr": "195.82.158.186",
-    "port": 21100,
-    "removed": 1776171785
+    "port": 21100
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1776171785
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -828,7 +825,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -863,7 +860,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -943,7 +940,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1260,8 +1257,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1776171785
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1765,6 +1761,11 @@
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
     "addr": "92.118.18.96",
     "port": 7777
+  },
+  {
+    "name": "HLL Server",
+    "addr": "92.118.19.60",
+    "port": 7817
   },
   {
     "name": "WidowMaker's",
