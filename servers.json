@@ -1323,8 +1323,7 @@
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1776193455
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1334,8 +1333,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1776193455
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1598,12 +1596,6 @@
     "port": 7787
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos | Eventos | discord.gg/cavei",
-    "addr": "78.111.102.114",
-    "port": 29100,
-    "removed": 1775609556
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1767,7 +1759,8 @@
   {
     "name": "HLL Server",
     "addr": "92.118.19.60",
-    "port": 7817
+    "port": 7817,
+    "removed": 1776214641
   },
   {
     "name": "WidowMaker's",
