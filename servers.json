@@ -110,6 +110,11 @@
     "port": 28000
   },
   {
+    "name": "NEVERDEAD - US EAST - NEW PLAYERS WELCOME - ENGLISH",
+    "addr": "144.126.153.213",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -350,12 +355,6 @@
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
     "port": 28200
-  },
-  {
-    "name": "SIEG | Experimental & Test Server | EU",
-    "addr": "176.57.171.140",
-    "port": 28000,
-    "removed": 1775695435
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -1027,7 +1026,8 @@
   {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1776301115
   },
   {
     "name": "LATAM - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTANDO",
@@ -1328,8 +1328,7 @@
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1776279775
+    "port": 9075
   },
   {
     "name": "Digger Company AU | Random Map/Modes | discord.gg/diggercompany",
@@ -1339,8 +1338,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1776279775
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
