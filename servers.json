@@ -132,8 +132,12 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1776322167
+    "port": 28300
+  },
+  {
+    "name": "[XBOX] QA Testing - UK #07",
+    "addr": "149.102.158.161",
+    "port": 28600
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -356,6 +360,11 @@
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
     "port": 28200
+  },
+  {
+    "name": "|ABG|Deutsch|AlphaBübscheGamers",
+    "addr": "176.57.171.140",
+    "port": 28000
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -1570,6 +1579,11 @@
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
+  },
+  {
+    "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
+    "addr": "74.63.225.18",
+    "port": 7777
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
