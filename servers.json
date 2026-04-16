@@ -132,7 +132,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1776322167
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -1029,7 +1030,7 @@
     "port": 7777
   },
   {
-    "name": "LATAM - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTANDO",
+    "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
     "addr": "37.148.133.8",
     "port": 7787
   },
@@ -1463,8 +1464,7 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
     "addr": "64.31.31.123",
-    "port": 7777,
-    "removed": 1776303758
+    "port": 7777
   },
   {
     "name": "Ronin Eventos Miame",
@@ -1742,6 +1742,11 @@
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "90.204.235.149",
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
