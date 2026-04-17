@@ -1250,7 +1250,8 @@
   {
     "name": "-TL- The Line |NA EAST| Sponsored by RGN discord.gg/theline",
     "addr": "40.27.45.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1776390115
   },
   {
     "name": "Pathfinders | Event Server",
@@ -1680,12 +1681,6 @@
     "name": "Barracks and Burbon - All Maps - US East",
     "addr": "83.223.203.138",
     "port": 28100
-  },
-  {
-    "name": "*<>Hell let loose (US) Server NEW PLAYERS WELCOME!!!<>*",
-    "addr": "83.223.203.138",
-    "port": 28200,
-    "removed": 1775784823
   },
   {
     "name": "Hell for you",
