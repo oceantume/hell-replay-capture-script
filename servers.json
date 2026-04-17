@@ -1560,6 +1560,11 @@
     "port": 7777
   },
   {
+    "name": "Neg-X",
+    "addr": "64.31.62.76",
+    "port": 7777
+  },
+  {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
@@ -1672,13 +1677,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1776364523
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1776450362
   },
   {
     "name": "HLL Official - Asia #03",
