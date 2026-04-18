@@ -17,12 +17,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1776536467
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1776536467
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -405,6 +407,11 @@
     "port": 28000
   },
   {
+    "name": "Panadero75hz server for tests",
+    "addr": "176.57.174.211",
+    "port": 28100
+  },
+  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28500
@@ -518,6 +525,11 @@
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
+  },
+  {
+    "name": "[FR] Le survie n'est pas une option c'est une guerre | Respect",
+    "addr": "185.216.144.75",
+    "port": 9075
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -718,12 +730,6 @@
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
-  },
-  {
-    "name": "Wolfsrudel (GER)",
-    "addr": "195.82.158.186",
-    "port": 20400,
-    "removed": 1775931472
   },
   {
     "name": "[GER] Wolfsrudel",
@@ -995,7 +1001,7 @@
     "port": 7787
   },
   {
-    "name": "57TH TURKISH REGIMENT | ENGLISH | POWERED BY QONZER",
+    "name": "57TH EVENT SERVER | POWERED BY QOENZER",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1690,8 +1696,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1776450362
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
