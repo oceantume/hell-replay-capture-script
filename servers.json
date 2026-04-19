@@ -826,12 +826,6 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] #2 Dírty's Offensives - discord.gg/13snc",
-    "addr": "208.115.206.38",
-    "port": 7777,
-    "removed": 1775997959
-  },
-  {
     "name": "PL ※ ENG | DGM | Polski/Polish Server NEW PLAYERS WELCOME",
     "addr": "208.115.206.38",
     "port": 7787
@@ -1301,7 +1295,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1776604677
   },
   {
     "name": "HLL Official - US West #01",
