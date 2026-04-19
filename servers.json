@@ -17,12 +17,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1776601330
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1776601330
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -1309,7 +1311,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1776601330
   },
   {
     "name": "HLL Official - US East #02",
@@ -1845,8 +1848,7 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28500,
-    "removed": 1776583084
+    "port": 28500
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
