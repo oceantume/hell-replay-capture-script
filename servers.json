@@ -255,7 +255,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1776581073
   },
   {
     "name": "QA Testing - EU #03",
@@ -336,7 +337,8 @@
   {
     "name": "CZ/SK",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1776581073
   },
   {
     "name": "DevQA - EU #02",
@@ -1056,7 +1058,8 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1776581073
   },
   {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
