@@ -323,12 +323,6 @@
     "port": 28100
   },
   {
-    "name": "HLL Playtest Server - Europe #01",
-    "addr": "176.57.168.38",
-    "port": 28200,
-    "removed": 1776083747
-  },
-  {
     "name": "CZ/SK",
     "addr": "176.57.168.91",
     "port": 28000,
@@ -342,8 +336,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1776668344
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -825,7 +818,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Clan VIP • [GER] #Qonzer",
+    "name": "Oktogon #1 • Offensive-Monday • [GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1310,19 +1303,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1776601330
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
-  },
-  {
-    "name": "HLL Playtest Server - US #01",
-    "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1776083747
   },
   {
     "name": "HLL Official - US East #03",
