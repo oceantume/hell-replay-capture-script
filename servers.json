@@ -17,14 +17,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1776601330
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1776601330
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -229,12 +227,6 @@
     "port": 9075
   },
   {
-    "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
-    "addr": "157.250.201.114",
-    "port": 8530,
-    "removed": 1776041858
-  },
-  {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "157.250.201.114",
     "port": 9075
@@ -316,7 +308,7 @@
     "port": 28200
   },
   {
-    "name": "Krieg - CZ/SK/EU - The Emperor's Will",
+    "name": "Krieg - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
     "port": 28100
   },
@@ -572,6 +564,11 @@
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
     "addr": "188.64.33.2",
     "port": 8530
+  },
+  {
+    "name": "[WCB] TRAINING GROUNDS | discord.gg/WCB",
+    "addr": "188.64.33.2",
+    "port": 9075
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
@@ -1581,7 +1578,8 @@
   {
     "name": "Neg-X",
     "addr": "64.31.62.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1776646664
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
