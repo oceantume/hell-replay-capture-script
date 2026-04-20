@@ -25,6 +25,11 @@
     "port": 7807
   },
   {
+    "name": "HLL Server",
+    "addr": "103.205.24.54",
+    "port": 7777
+  },
+  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -505,6 +510,11 @@
     "port": 7807
   },
   {
+    "name": "Marram",
+    "addr": "181.214.48.19",
+    "port": 7847
+  },
+  {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
     "port": 7777
@@ -552,7 +562,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1776709784
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -1051,8 +1062,7 @@
   {
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1776581073
+    "port": 8772
   },
   {
     "name": "RGN #10 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1686,7 +1696,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1776709784
   },
   {
     "name": "HLL Official - Asia #03",
