@@ -231,8 +231,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1776776714
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -405,7 +404,8 @@
   {
     "name": "Panadero75hz server for tests",
     "addr": "176.57.174.211",
-    "port": 28100
+    "port": 28100,
+    "removed": 1776796390
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -528,7 +528,7 @@
     "port": 11255
   },
   {
-    "name": "[FR/BE/CA] Compagnie Vengeance | discord.gg/jRytmP57QG",
+    "name": "[FR/BE] Baguette & Bayonet RP 🇫🇷 | Roleplay | discord.gg/",
     "addr": "185.216.144.75",
     "port": 9075
   },
@@ -952,7 +952,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | NO MERCY EU/US EAST | GBG-HLL.COM ",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | NO ROOM FOR CASUALS LVL EU/US | GB",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1007,7 +1007,7 @@
     "port": 7787
   },
   {
-    "name": "57TH EVENT SERVER | POWERED BY QOENZER",
+    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1304,8 +1304,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1776776714
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1694,14 +1693,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1776622892
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1776709784
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1941,7 +1938,7 @@
     "port": 7777
   },
   {
-    "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 16:00–",
+    "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 18:00–",
     "addr": "95.135.1.33",
     "port": 7777
   },
