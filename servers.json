@@ -231,8 +231,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1776863010
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -495,6 +494,11 @@
     "port": 7827
   },
   {
+    "name": "FRONT BRASIL | Bala Come & Squad Reclama | VIP GRATIS",
+    "addr": "181.214.221.41",
+    "port": 7837
+  },
+  {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
     "port": 7777
@@ -515,7 +519,7 @@
     "port": 7807
   },
   {
-    "name": "PATRIOTAS SOMENTE BRASILEIROS",
+    "name": "PATRIOTAS - SOMENTE BRASILEIROS",
     "addr": "181.214.48.19",
     "port": 7847
   },
@@ -525,12 +529,17 @@
     "port": 7777
   },
   {
+    "name": "Boldness And Joy Brasil",
+    "addr": "181.214.48.81",
+    "port": 7817
+  },
+  {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
   },
   {
-    "name": "[FR/BE] Baguette & Bayonet RP 🇫🇷 | Roleplay | discord.gg/",
+    "name": "[FR/BE] Baguette & Bayonet RP | Roleplay | discord.gg/FxbnP3N3V",
     "addr": "185.216.144.75",
     "port": 9075
   },
@@ -958,7 +967,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | NO ROOM FOR CASUALS LVL EU/US 25+ ",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | NO ROOM FOR CASUALS EU/US | GBG-HL",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1010,7 +1019,8 @@
   {
     "name": "FRONT BRASIL | Bala Come & Squad Reclama | VIP",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1776882767
   },
   {
     "name": "Oktogon • Event #Qonzer",
