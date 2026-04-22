@@ -595,6 +595,11 @@
     "port": 7777
   },
   {
+    "name": "-TL- The Line |NA EAST| Sponsored by RGN discord.gg/theline",
+    "addr": "192.169.86.108",
+    "port": 7777
+  },
+  {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "192.169.86.108",
     "port": 7787
@@ -1817,12 +1822,6 @@
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
     "addr": "92.118.18.96",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "92.118.19.60",
-    "port": 7817,
-    "removed": 1776214641
   },
   {
     "name": "WidowMaker's",
