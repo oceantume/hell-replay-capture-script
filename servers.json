@@ -266,8 +266,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1776774908
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -515,7 +514,7 @@
     "port": 7807
   },
   {
-    "name": "SÓ BRASILEIROS",
+    "name": "PATRIOTAS SOMENTE BRASILEIROS",
     "addr": "181.214.48.19",
     "port": 7847
   },
@@ -1793,7 +1792,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1776861225
   },
   {
     "name": "Excel Spreadsheets",
