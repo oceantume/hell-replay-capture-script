@@ -231,7 +231,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1776863010
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -1007,6 +1008,11 @@
     "port": 7777
   },
   {
+    "name": "FRONT BRASIL | Bala Come & Squad Reclama | VIP",
+    "addr": "208.115.248.91",
+    "port": 7777
+  },
+  {
     "name": "Oktogon • Event #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
@@ -1314,8 +1320,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1776776714
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
