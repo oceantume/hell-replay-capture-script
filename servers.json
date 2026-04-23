@@ -69,7 +69,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1776927017
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -347,8 +348,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600,
-    "removed": 1776905903
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #02",
@@ -641,7 +641,8 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "192.169.90.203",
-    "port": 7817
+    "port": 7817,
+    "removed": 1776927017
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -726,8 +727,7 @@
   {
     "name": "[FR/BE] Yoko Training",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1776905903
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
