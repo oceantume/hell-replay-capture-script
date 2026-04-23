@@ -49,8 +49,7 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1776905903
+    "port": 10300
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -840,7 +839,8 @@
   {
     "name": "-TL- The Line |NA EAST| Sponsored by RGN discord.gg/theline",
     "addr": "208.115.206.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1776908538
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
