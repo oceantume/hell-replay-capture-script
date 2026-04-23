@@ -266,7 +266,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1776947627
   },
   {
     "name": "Warfrags Studios",
@@ -640,8 +641,7 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "192.169.90.203",
-    "port": 7817,
-    "removed": 1776927017
+    "port": 7817
   },
   {
     "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
@@ -767,7 +767,8 @@
   {
     "name": "Spielwiese der Panzertruppe",
     "addr": "195.82.158.186",
-    "port": 21100
+    "port": 21100,
+    "removed": 1776947627
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
