@@ -41,12 +41,6 @@
     "port": 7777
   },
   {
-    "name": "[ESP] LATAMSQUAD - discord.gg/latamsquad | latamsquad.org",
-    "addr": "108.165.230.224",
-    "port": 7797,
-    "removed": 1776429154
-  },
-  {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
     "port": 10300
@@ -79,7 +73,8 @@
   {
     "name": "Garrisons & Whiskey Ξ PTE",
     "addr": "139.28.16.38",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777034001
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -195,7 +190,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777034001
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -260,8 +256,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1776947627
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -869,12 +864,6 @@
     "port": 7787
   },
   {
-    "name": "5th Ranger Battalion | Camp Forrest | 5thrb.com",
-    "addr": "208.115.212.74",
-    "port": 7787,
-    "removed": 1776429154
-  },
-  {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
@@ -945,7 +934,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | NO ROOM FOR CASUALS EU/US | GBG-HL",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | INFANTRY ONLY EU | GBG-HLL.COM | O",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1323,7 +1312,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1777034001
   },
   {
     "name": "Le Peloton Perdu",
@@ -1349,6 +1339,11 @@
     "name": "Special Needs Server",
     "addr": "45.151.81.212",
     "port": 7777
+  },
+  {
+    "name": "QNZR | PERF",
+    "addr": "45.151.81.212",
+    "port": 7787
   },
   {
     "name": "TD4W Clan Server",
@@ -1518,7 +1513,8 @@
   {
     "name": "[7DL] Academia de Guerra",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777034001
   },
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1675,7 +1671,8 @@
   {
     "name": "[CI] Corrupted Infantry | ENG | Teamwork | discord.gg/ci",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1777034001
   },
   {
     "name": "HLL Official - Asia #01",
