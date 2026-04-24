@@ -165,7 +165,8 @@
   {
     "name": "[1stMD] 1st Marine Division NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777054961
   },
   {
     "name": "=7Cav= Tactical Realism | Conquest | discord.gg/7cav",
@@ -220,8 +221,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1777035760
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -466,7 +466,7 @@
     "port": 7797
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL #2 | Treinos | Eventos | discord.gg/cavei",
+    "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
     "addr": "181.214.221.41",
     "port": 7807
   },
@@ -934,7 +934,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | INFANTRY ONLY EU | GBG-HLL.COM | O",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | INFANTRY ONLY | EUROPE | GBG-HLL.C",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -971,7 +971,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777054961
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -984,10 +985,9 @@
     "port": 7777
   },
   {
-    "name": "FRONT BRASIL | Bala Come & Squad Reclama | VIP",
+    "name": "FRONT SA | Bala Come & Squad Reclama | VIP GRÁTIS",
     "addr": "208.115.248.91",
-    "port": 7777,
-    "removed": 1776882767
+    "port": 7777
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1292,14 +1292,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1777035760
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1777035760
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1689,7 +1687,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777054961
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1772,14 +1771,30 @@
     "port": 28600
   },
   {
-    "name": "HLL Official - South America #04",
-    "addr": "89.43.106.36",
+    "name": "[LATAM] Server Tango Eventos",
+    "addr": "89.39.161.159",
+    "port": 30500
+  },
+  {
+    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
+    "addr": "89.39.161.24",
     "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28600
+    "port": 28300
+  },
+  {
+    "name": "HLL Official - South America #04",
+    "addr": "89.43.106.36",
+    "port": 28400
+  },
+  {
+    "name": "HLL Official - South America #03",
+    "addr": "89.43.106.36",
+    "port": 28600,
+    "removed": 1777054961
   },
   {
     "name": "HLL Server",
@@ -1815,7 +1830,8 @@
   {
     "name": "[LATAM] Server Tango Eventos",
     "addr": "92.38.151.89",
-    "port": 28800
+    "port": 28800,
+    "removed": 1777054961
   },
   {
     "name": "New players welcome have fun 17 D3AD",
