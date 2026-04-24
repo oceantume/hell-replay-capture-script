@@ -190,8 +190,7 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787,
-    "removed": 1777034001
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -221,7 +220,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1777035760
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -1292,12 +1292,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1777035760
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1777035760
   },
   {
     "name": "HLL Official - US East #01",
