@@ -68,7 +68,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1777099219
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -708,8 +709,7 @@
   {
     "name": "[FR/BE] Yoko Training",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1777057932
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -959,7 +959,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1793,8 +1793,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1776861225
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
