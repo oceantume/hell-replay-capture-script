@@ -68,8 +68,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1777099219
+    "port": 9224
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -256,7 +255,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1777119856
   },
   {
     "name": "Warfrags Studios",
@@ -707,7 +707,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] Yoko Training",
+    "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
     "port": 7787
   },
@@ -1312,8 +1312,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1777034001
+    "port": 28600
   },
   {
     "name": "Le Peloton Perdu",
@@ -1513,8 +1512,7 @@
   {
     "name": "[7DL] Academia de Guerra",
     "addr": "64.31.40.202",
-    "port": 7777,
-    "removed": 1777034001
+    "port": 7777
   },
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1793,7 +1791,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777119856
   },
   {
     "name": "Excel Spreadsheets",
