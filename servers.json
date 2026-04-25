@@ -190,7 +190,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "15.204.170.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777141340
   },
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -701,6 +702,11 @@
     "name": "[GER] Omen Prep & Training Server #2 sponsored by GBG",
     "addr": "193.160.22.58",
     "port": 7787
+  },
+  {
+    "name": "Name To Be Decided",
+    "addr": "193.160.22.59",
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord/7eCie",
@@ -1471,7 +1477,7 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose︱Event︱Klan Başvuruları → discord.gg/TLL",
+    "name": "TLL ︱ Turks & Bullets ︱ Event ︱ Kayıtlar ⇒ discord.gg/",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1675,13 +1681,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1777141340
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1777054961
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
