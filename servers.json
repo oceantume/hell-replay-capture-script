@@ -256,8 +256,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1777119856
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -710,7 +709,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777206358
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1471,7 +1471,7 @@
     "port": 7787
   },
   {
-    "name": "TLL ︱ Turks & Bullets ︱ Event ︱ Kayıtlar ⇒ discord.gg/",
+    "name": "Turks Let Loose ︱Event︱ Bize Katıl ⇒ discord.gg/TLL",
     "addr": "64.31.29.66",
     "port": 7777
   },
@@ -1538,7 +1538,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1777206358
   },
   {
     "name": "Oceanic Ocelots | U.S. West",
@@ -1797,7 +1798,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777206358
   },
   {
     "name": "Excel Spreadsheets",
