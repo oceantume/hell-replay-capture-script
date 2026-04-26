@@ -320,12 +320,6 @@
     "port": 28100
   },
   {
-    "name": "CZ/SK",
-    "addr": "176.57.168.91",
-    "port": 28000,
-    "removed": 1776581073
-  },
-  {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
@@ -966,7 +960,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1157,7 +1151,7 @@
     "port": 7837
   },
   {
-    "name": "CN帝国社区训练服 自助切图飞天功能",
+    "name": "CN帝国社区训练服",
     "addr": "40.27.40.151",
     "port": 7847
   },
@@ -1803,8 +1797,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1777119856
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
