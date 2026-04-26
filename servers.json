@@ -364,6 +364,11 @@
     "port": 28000
   },
   {
+    "name": "404 | Eventserver",
+    "addr": "176.57.171.176",
+    "port": 28200
+  },
+  {
     "name": "VT1",
     "addr": "176.57.171.38",
     "port": 28100
@@ -493,6 +498,11 @@
     "name": "MARRAM.COM.BR - BRASIL - discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7807
+  },
+  {
+    "name": "MARRAM.COM.BR #2 - BRASIL - discord.gg/marram",
+    "addr": "181.214.48.19",
+    "port": 7817
   },
   {
     "name": "PATRIOTAS - SOMENTE BRASILEIROS - VIP GRÁTIS",
@@ -960,7 +970,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1681,8 +1691,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1777141340
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
