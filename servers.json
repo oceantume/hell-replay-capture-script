@@ -246,7 +246,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1777273669
   },
   {
     "name": "QA Testing - EU #03",
@@ -500,7 +501,7 @@
     "port": 7807
   },
   {
-    "name": "MARRAM.COM.BR #2 - OFENSIVA - discord.gg/marram",
+    "name": "MARRAM 2 | OFFENSIVE FOREVER | discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7817
   },
@@ -719,8 +720,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1777206358
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
