@@ -307,7 +307,8 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1777338141
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -721,7 +722,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777338141
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1359,7 +1361,8 @@
   {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1777338141
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1474,7 +1477,8 @@
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg.RadicalGaming",
     "addr": "64.31.20.210",
-    "port": 7797
+    "port": 7797,
+    "removed": 1777338141
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1494,7 +1498,8 @@
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Miami | Eventos |",
     "addr": "64.31.31.122",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777338141
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -1659,7 +1664,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1777338141
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1750,7 +1756,8 @@
   {
     "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777338141
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
@@ -1979,6 +1986,7 @@
   {
     "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777338141
   }
 ]
