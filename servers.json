@@ -102,12 +102,6 @@
     "port": 9075
   },
   {
-    "name": "[BWR] UA Ukrainian-Baltic Server!",
-    "addr": "142.91.157.60",
-    "port": 7787,
-    "removed": 1776774908
-  },
-  {
     "name": "Babslab",
     "addr": "144.126.153.213",
     "port": 28000
@@ -221,7 +215,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1777380527
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -771,7 +766,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
-    "port": 9620
+    "port": 9620,
+    "removed": 1777380527
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -1580,7 +1576,8 @@
   {
     "name": "Garrisons & Whiskey Ξ Lvl +50 Only",
     "addr": "67.217.48.14",
-    "port": 10710
+    "port": 10710,
+    "removed": 1777380527
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
@@ -1769,6 +1766,11 @@
     "addr": "88.211.219.170",
     "port": 8530,
     "removed": 1777360033
+  },
+  {
+    "name": "Dutch Silverbacks - www.dutchsilverbacks.nl - DUTCH/ENGLISH",
+    "addr": "88.211.219.170",
+    "port": 9075
   },
   {
     "name": "{serverName}",
