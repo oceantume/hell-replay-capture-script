@@ -25,12 +25,6 @@
     "port": 7807
   },
   {
-    "name": "HLL Server",
-    "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1776776714
-  },
-  {
     "name": "Onlyclans Training and Scrim server",
     "addr": "103.62.51.134",
     "port": 8888
@@ -215,8 +209,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1777380527
+    "port": 9075
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
@@ -966,7 +959,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1806,8 +1799,7 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777,
-    "removed": 1777206358
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
