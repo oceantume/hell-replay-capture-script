@@ -246,8 +246,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1777273669
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -307,8 +306,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1777338141
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -412,7 +410,7 @@
     "port": 8530
   },
   {
-    "name": "FR|TDA – Discipline & Respect – Coopération – No Stream",
+    "name": "FR|TDA – latempetedacier.fr – Respect du jeu – Micro – ",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -722,8 +720,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1777338141
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1184,7 +1181,7 @@
     "port": 7777
   },
   {
-    "name": "CN2#散人社区|踏青进阶攻防咖啡馆丨日服120748151",
+    "name": "CN2#散人社区|初夏里进阶攻防咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
     "port": 7777
   },
@@ -1361,8 +1358,7 @@
   {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
-    "port": 8530,
-    "removed": 1777338141
+    "port": 8530
   },
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
@@ -1664,8 +1660,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1777338141
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1772,7 +1767,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1777360033
   },
   {
     "name": "{serverName}",
