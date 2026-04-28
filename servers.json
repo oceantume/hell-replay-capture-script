@@ -372,12 +372,6 @@
     "port": 28000
   },
   {
-    "name": "Panadero75hz server for tests",
-    "addr": "176.57.174.211",
-    "port": 28100,
-    "removed": 1776796390
-  },
-  {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28500
@@ -671,7 +665,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -681,7 +675,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -854,7 +848,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -884,7 +878,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -964,7 +958,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1676,7 +1670,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1777401705
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1799,7 +1794,8 @@
   {
     "name": "HLL Server",
     "addr": "90.204.235.149",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777401705
   },
   {
     "name": "Excel Spreadsheets",
@@ -1849,7 +1845,7 @@
     "port": 28500
   },
   {
-    "name": "⑥︱THE CIRCLE #6︱WARFARE︱NEW PLAYERS WELCOME︱DISCORD.G",
+    "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
     "port": 7777
   },
