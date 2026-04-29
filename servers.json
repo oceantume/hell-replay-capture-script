@@ -709,7 +709,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777488041
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -991,7 +992,8 @@
   {
     "name": "FRONT SA | Bala Come & Squad Reclama | VIP GRÁTIS",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777488041
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1346,7 +1348,8 @@
   {
     "name": "QNZR | PERF",
     "addr": "45.151.81.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777488041
   },
   {
     "name": "TD4W Clan Server",
@@ -1679,8 +1682,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1777401705
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
