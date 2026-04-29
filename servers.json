@@ -111,6 +111,11 @@
     "port": 9014
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "147.124.192.190",
+    "port": 9075
+  },
+  {
     "name": "AAA SERVEUR EN TEST",
     "addr": "149.102.154.195",
     "port": 28500
@@ -214,7 +219,8 @@
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "157.250.201.114",
-    "port": 9075
+    "port": 9075,
+    "removed": 1777466747
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -392,7 +398,7 @@
     "port": 8530
   },
   {
-    "name": "FR|TDA – latempetedacier.fr – Respect du jeu – Micro – ",
+    "name": "FR | TDA – latempetedacier.fr – Respect des règles – Mic",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -1073,7 +1079,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨进群送纪念卡",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨关注五一赛事",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1759,7 +1765,7 @@
     "removed": 1777360033
   },
   {
-    "name": "Dutch Silverbacks - www.dutchsilverbacks.nl - DUTCH/ENGLISH",
+    "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
     "addr": "88.211.219.170",
     "port": 9075
   },
