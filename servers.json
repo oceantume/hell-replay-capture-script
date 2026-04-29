@@ -702,7 +702,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777424608
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -718,6 +719,11 @@
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
+  },
+  {
+    "name": "Hell let loose (US West) - Super Extreme Warfare",
+    "addr": "193.192.58.206",
+    "port": 28000
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -753,8 +759,7 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1777380527
+    "port": 9620
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -965,8 +970,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1777054961
+    "port": 7777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
