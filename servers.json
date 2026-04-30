@@ -508,8 +508,7 @@
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255,
-    "removed": 1777532673
+    "port": 11255
   },
   {
     "name": "[FR/BE] Baguette & Bayonet RP | Roleplay | discord.gg/FxbnP3N3V",
@@ -743,12 +742,6 @@
     "port": 7777
   },
   {
-    "name": "Spielwiese der Panzertruppe",
-    "addr": "195.82.158.186",
-    "port": 21100,
-    "removed": 1776947627
-  },
-  {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
     "port": 20900
@@ -761,8 +754,7 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1777532673
+    "port": 9620
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -852,8 +844,7 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1777532673
+    "port": 7877
   },
   {
     "name": "QNZR | PERF 3",
@@ -883,8 +874,7 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1777532673
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -974,8 +964,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1777532673
+    "port": 7787
   },
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
@@ -1164,7 +1153,7 @@
     "port": 7867
   },
   {
-    "name": "CN#3FJ散人社区细雨清风の萌新训练营Q:716701264",
+    "name": "CN#3FJ散人社区细雨清风の萌新训练营Q:1095121730",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1311,7 +1300,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1777553099
   },
   {
     "name": "Le Peloton Perdu",
@@ -1437,8 +1427,7 @@
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1777532673
+    "port": 8530
   },
   {
     "name": "hll Server",
@@ -1585,7 +1574,8 @@
   {
     "name": "ゐCobras Fumantes - training/event - discord.gg/cobrasfumantes",
     "addr": "67.217.48.14",
-    "port": 8530
+    "port": 8530,
+    "removed": 1777553099
   },
   {
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
@@ -1907,8 +1897,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1777532673
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
