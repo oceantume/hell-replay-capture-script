@@ -505,12 +505,6 @@
     "port": 7777
   },
   {
-    "name": "Boldness And Joy Brasil",
-    "addr": "181.214.48.81",
-    "port": 7817,
-    "removed": 1776905903
-  },
-  {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
@@ -1656,7 +1650,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1777510992
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
