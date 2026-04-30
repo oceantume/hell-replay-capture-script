@@ -123,12 +123,14 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1777574391
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1777574391
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -230,7 +232,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1777574391
   },
   {
     "name": "HLL Dev Team 1",
@@ -246,7 +249,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1777574391
   },
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
@@ -262,6 +266,11 @@
     "name": "[FR] Division Gauloise | ADMIN ACTIF | SEED A 30",
     "addr": "176.57.140.64",
     "port": 28100
+  },
+  {
+    "name": "Easy Company McChicken (EU) Server by g-portal.com",
+    "addr": "176.57.153.114",
+    "port": 28000
   },
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
@@ -311,17 +320,20 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1777574391
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777574391
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1777574391
   },
   {
     "name": "DevQA - EU #01",
@@ -548,7 +560,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1777574391
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -1275,7 +1288,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1777574391
   },
   {
     "name": "HLL Official - US West #02",
