@@ -62,7 +62,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1777619188
   },
   {
     "name": "Garrisons & Whiskey Ξ PTE",
@@ -243,8 +244,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1777532673
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -496,7 +496,7 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR - SÓ PT/BR - discord.gg/marram",
+    "name": "MARRAM.COM.BR - BRASIL - discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -699,7 +699,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Omen Prep & Training Server #2 sponsored by GBG",
+    "name": "hll Server",
     "addr": "193.160.22.58",
     "port": 7787
   },
@@ -1839,12 +1839,6 @@
     "name": "New players welcome have fun 17 D3AD",
     "addr": "94.250.218.33",
     "port": 28100
-  },
-  {
-    "name": "Hell let loose (US West) Server by g-portal.com",
-    "addr": "94.250.218.33",
-    "port": 28200,
-    "removed": 1777013477
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
