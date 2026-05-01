@@ -255,7 +255,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1777638724
   },
   {
     "name": "Warfrags Studios",
@@ -701,10 +702,11 @@
   {
     "name": "hll Server",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777638724
   },
   {
-    "name": "Name To Be Decided",
+    "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "193.160.22.59",
     "port": 7777
   },
@@ -934,7 +936,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | INFANTRY ONLY | EUROPE | GBG-HLL.C",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "208.115.226.92",
     "port": 7777
   },
@@ -1069,7 +1071,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨俱乐部公益服",
+    "name": "TT天堂萌新俱乐部丨赏金赛比赛服丨Q群548651",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1312,8 +1314,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1777553099
+    "port": 28600
   },
   {
     "name": "Le Peloton Perdu",
