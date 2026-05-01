@@ -66,12 +66,6 @@
     "removed": 1777619188
   },
   {
-    "name": "Garrisons & Whiskey Ξ PTE",
-    "addr": "139.28.16.38",
-    "port": 7777,
-    "removed": 1777034001
-  },
-  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -323,6 +317,11 @@
     "addr": "176.57.168.38",
     "port": 28100,
     "removed": 1777574391
+  },
+  {
+    "name": "HLL Playtest Server - Europe #01",
+    "addr": "176.57.168.38",
+    "port": 28200
   },
   {
     "name": "DevQA - EU #02",
@@ -1286,10 +1285,9 @@
     "port": 7777
   },
   {
-    "name": "QA Testing - US West #06",
+    "name": "WC Playtest Server",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1777574391
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1310,6 +1308,11 @@
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #03",
@@ -1664,12 +1667,6 @@
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
     "port": 9075
-  },
-  {
-    "name": "[CI] Corrupted Infantry | ENG | Teamwork | discord.gg/ci",
-    "addr": "78.46.101.16",
-    "port": 9620,
-    "removed": 1777034001
   },
   {
     "name": "HLL Official - Asia #01",
