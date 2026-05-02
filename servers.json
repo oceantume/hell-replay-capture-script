@@ -205,10 +205,9 @@
     "port": 7787
   },
   {
-    "name": "Turks Let Loose︱ENG/TUR︱turksletloose.com",
+    "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
-    "port": 7777,
-    "removed": 1777704607
+    "port": 7777
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -1191,8 +1190,7 @@
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "40.27.41.10",
-    "port": 7777,
-    "removed": 1777704607
+    "port": 7777
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1712,6 +1710,11 @@
     "name": "The Disabled Vets | New Players Welcome | Active Admins",
     "addr": "83.223.207.10",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (US Mid) - Google Doc",
+    "addr": "83.223.207.10",
+    "port": 28200
   },
   {
     "name": "Test",
