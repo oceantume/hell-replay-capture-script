@@ -108,7 +108,8 @@
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
     "addr": "147.124.192.190",
-    "port": 9075
+    "port": 9075,
+    "removed": 1777683604
   },
   {
     "name": "AAA SERVEUR EN TEST",
@@ -158,7 +159,7 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism | Conquest | discord.gg/7cav",
+    "name": "=7Cav= Tactical Realism | JUNO | discord.gg/7cav",
     "addr": "15.204.170.67",
     "port": 7777
   },
@@ -276,6 +277,11 @@
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
+  },
+  {
+    "name": "For Tea & Country R&D",
+    "addr": "176.57.168.250",
+    "port": 28200
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -411,7 +417,7 @@
     "port": 8530
   },
   {
-    "name": "FR | TDA – latempetedacier.fr – Respect des règles – Mic",
+    "name": "FR | TDA – latempetedacier.fr – Respect du Jeu – Micro ob",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -613,7 +619,7 @@
     "port": 7777
   },
   {
-    "name": "The 3rd Amphibious Corps - US EAST - discord.gg/3AC",
+    "name": "Odyssey - US EAST - discord.gg/odysseyhll",
     "addr": "192.169.89.18",
     "port": 8530
   },
@@ -736,7 +742,8 @@
   {
     "name": "Hell let loose (US West) - Super Extreme Warfare",
     "addr": "193.192.58.206",
-    "port": 28000
+    "port": 28000,
+    "removed": 1777683604
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1440,6 +1447,11 @@
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
+  },
+  {
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
+    "addr": "64.20.50.186",
+    "port": 9075
   },
   {
     "name": "=7Cav= HLL Training Server 1",
