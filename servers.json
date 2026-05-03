@@ -423,7 +423,7 @@
     "port": 8530
   },
   {
-    "name": "FR | TDA – latempetedacier.fr – Respect du Jeu – Micro ob",
+    "name": "FR | TDA – Respect du Jeu – Micro obligatoire – No Stream",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -712,7 +712,8 @@
   {
     "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "193.160.22.59",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777832808
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord/7eCie",
@@ -832,7 +833,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Clan VIP • [GER] #Qonzer",
+    "name": "Oktogon #1 • Community • [GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -896,7 +897,8 @@
   {
     "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777832808
   },
   {
     "name": "SLB #3",
@@ -1714,7 +1716,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777832808
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1795,10 +1798,14 @@
     "port": 7817
   },
   {
+    "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
+    "addr": "85.208.197.77",
+    "port": 7777
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1777360033
+    "port": 8530
   },
   {
     "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
@@ -1847,7 +1854,7 @@
     "port": 7777
   },
   {
-    "name": "[EN/FR/QC] 1st Maple Division",
+    "name": "EN/QC 1st Maple Div. | EAST | USA/CAN",
     "addr": "92.118.18.84",
     "port": 7787
   },
