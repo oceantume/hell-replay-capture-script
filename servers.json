@@ -205,6 +205,11 @@
     "port": 7787
   },
   {
+    "name": "THE DUDE'S - Offensive",
+    "addr": "154.12.249.34",
+    "port": 33300
+  },
+  {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
@@ -857,7 +862,8 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877
+    "port": 7877,
+    "removed": 1777791704
   },
   {
     "name": "QNZR | PERF 3",
@@ -887,7 +893,8 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777791704
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -977,7 +984,8 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1777791704
   },
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
@@ -1132,7 +1140,7 @@
     "port": 7797
   },
   {
-    "name": "<CN>#6 EMP帝国社区 免费周萌新服 60限杀150级以下",
+    "name": "<CN>#6 EMP帝国社区 混合模式投票服|Q637824071 JP",
     "addr": "40.27.40.151",
     "port": 7807
   },
@@ -1376,6 +1384,11 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
+  },
+  {
+    "name": "HLL Server",
+    "addr": "51.190.101.225",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1713,7 +1726,8 @@
   {
     "name": "Hell let loose (US Mid) - Google Doc",
     "addr": "83.223.207.10",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777791704
   },
   {
     "name": "Test",
@@ -1961,7 +1975,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "95.135.1.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1777791704
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | GE",
