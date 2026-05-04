@@ -1331,7 +1331,8 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1777901018
   },
   {
     "name": "HLL Official - US East #03",
@@ -2018,5 +2019,10 @@
     "addr": "95.135.1.7",
     "port": 7787,
     "removed": 1777338141
+  },
+  {
+    "name": "All Day East Coast Bangers All Maps",
+    "addr": "95.156.198.83",
+    "port": 10900
   }
 ]
