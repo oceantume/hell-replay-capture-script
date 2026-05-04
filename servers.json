@@ -329,13 +329,13 @@
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777898835
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1777574391
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
@@ -1325,7 +1325,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1777898835
   },
   {
     "name": "HLL Playtest Server - US #01",
