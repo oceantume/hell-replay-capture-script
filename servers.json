@@ -37,7 +37,8 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1777942726
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -278,7 +279,8 @@
   {
     "name": "For Tea & Country R&D",
     "addr": "176.57.168.250",
-    "port": 28200
+    "port": 28200,
+    "removed": 1777942726
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -886,8 +888,7 @@
   {
     "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
-    "port": 7777,
-    "removed": 1777832808
+    "port": 7777
   },
   {
     "name": "SLB #3",
@@ -1065,6 +1066,11 @@
     "name": "-=MacGGG=- Mac Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
+  },
+  {
+    "name": "merc warfare server US West",
+    "addr": "37.10.127.2",
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1826,7 +1832,8 @@
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28300
+    "port": 28300,
+    "removed": 1777942726
   },
   {
     "name": "HLL Official - South America #04",
@@ -2023,6 +2030,7 @@
   {
     "name": "All Day East Coast Bangers All Maps",
     "addr": "95.156.198.83",
-    "port": 10900
+    "port": 10900,
+    "removed": 1777942726
   }
 ]
