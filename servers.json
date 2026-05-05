@@ -37,8 +37,7 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1777942726
+    "port": 10300
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -1503,12 +1502,6 @@
     "port": 7787
   },
   {
-    "name": "RGN #5 -DC- Powered by QONZER | discord.gg.RadicalGaming",
-    "addr": "64.31.20.210",
-    "port": 7797,
-    "removed": 1777338141
-  },
-  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1784,12 +1777,6 @@
     "port": 7777
   },
   {
-    "name": "RGN #8 -London- Powered by QONZER | discord.gg/RadicalGaming",
-    "addr": "85.208.197.68",
-    "port": 7787,
-    "removed": 1777338141
-  },
-  {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
     "port": 7777
@@ -1832,8 +1819,7 @@
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28300,
-    "removed": 1777942726
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #04",
@@ -2020,12 +2006,6 @@
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
     "port": 7777
-  },
-  {
-    "name": "RGN #7 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
-    "addr": "95.135.1.7",
-    "port": 7787,
-    "removed": 1777338141
   },
   {
     "name": "All Day East Coast Bangers All Maps",
