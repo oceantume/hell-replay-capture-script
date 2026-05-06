@@ -978,7 +978,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778029129
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1070,8 +1071,7 @@
   {
     "name": "merc warfare server US West",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1777984658
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
