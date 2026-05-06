@@ -214,12 +214,6 @@
     "port": 9075
   },
   {
-    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
-    "addr": "157.250.201.114",
-    "port": 9075,
-    "removed": 1777466747
-  },
-  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -1334,7 +1328,8 @@
   {
     "name": "Le Peloton Perdu",
     "addr": "45.143.199.235",
-    "port": 10710
+    "port": 10710,
+    "removed": 1778071825
   },
   {
     "name": "Objective First [ENG] | Voice Comms | obj1st.com",
@@ -1437,7 +1432,8 @@
   {
     "name": "Moon",
     "addr": "54.37.129.102",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778071825
   },
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
