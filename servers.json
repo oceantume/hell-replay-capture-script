@@ -1353,12 +1353,6 @@
     "port": 7777
   },
   {
-    "name": "QNZR | PERF",
-    "addr": "45.151.81.212",
-    "port": 7787,
-    "removed": 1777488041
-  },
-  {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
     "port": 8530
@@ -1695,7 +1689,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1778093047
   },
   {
     "name": "HLL Official - Asia #03",
