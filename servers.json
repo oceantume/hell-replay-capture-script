@@ -30,7 +30,7 @@
     "port": 8888
   },
   {
-    "name": "»BAIN« | BRASIL HELL | bainclan.com.br",
+    "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
     "port": 7777
   },
@@ -168,6 +168,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "15.204.170.69",
+    "port": 7787
+  },
+  {
     "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7777
@@ -302,7 +307,8 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1778115785
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -319,6 +325,11 @@
     "addr": "176.57.168.38",
     "port": 28200,
     "removed": 1777898835
+  },
+  {
+    "name": "München Loose",
+    "addr": "176.57.168.91",
+    "port": 28000
   },
   {
     "name": "DevQA - EU #02",
@@ -784,6 +795,11 @@
     "port": 8908
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.201.22",
+    "port": 7777
+  },
+  {
     "name": "hll Server",
     "addr": "208.115.203.18",
     "port": 7787
@@ -1054,10 +1070,9 @@
     "port": 8772
   },
   {
-    "name": "merc warfare server US West",
+    "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1778074112
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1481,6 +1496,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.2.22",
+    "port": 7777
+  },
+  {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
     "port": 7787
@@ -1581,6 +1601,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.62.76",
+    "port": 7777
+  },
+  {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
@@ -1610,6 +1635,11 @@
     "name": "TEG.gg - Conquest for EMPLOYED GAMERS",
     "addr": "69.10.33.178",
     "port": 9075
+  },
+  {
+    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
+    "addr": "69.162.102.51",
+    "port": 7777
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
@@ -1664,7 +1694,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1778115785
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
