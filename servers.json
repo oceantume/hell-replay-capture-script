@@ -205,7 +205,8 @@
   {
     "name": "JeffreyDude HLL Server",
     "addr": "154.12.249.30",
-    "port": 32300
+    "port": 32300,
+    "removed": 1778179468
   },
   {
     "name": "THE DUDE'S - Offensive",
@@ -241,8 +242,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1778160548
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -559,7 +559,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1778179468
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -972,7 +973,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1077,7 +1078,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1778179468
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1382,7 +1384,8 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1778179468
   },
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
@@ -1549,7 +1552,7 @@
     "port": 7777
   },
   {
-    "name": "CLAN CTM | SV. MIAMI | #02 CHILE | PRÁCTICAS & EVENTOS",
+    "name": "CLAN CTM | SV. MIAMI | #02 | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
     "port": 7777
   },
@@ -1734,8 +1737,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1778093047
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1832,7 +1834,8 @@
   {
     "name": "[LATAM] Server Tango Eventos",
     "addr": "89.39.161.159",
-    "port": 30500
+    "port": 30500,
+    "removed": 1778179468
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
