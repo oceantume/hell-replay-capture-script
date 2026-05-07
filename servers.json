@@ -203,6 +203,11 @@
     "port": 7787
   },
   {
+    "name": "JeffreyDude HLL Server",
+    "addr": "154.12.249.30",
+    "port": 32300
+  },
+  {
     "name": "THE DUDE'S - Offensive",
     "addr": "154.12.249.34",
     "port": 33300,
@@ -236,7 +241,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1778160548
   },
   {
     "name": "QA Testing - EU #03",
@@ -966,7 +972,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1317,7 +1323,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1778160548
   },
   {
     "name": "HLL Official - US East #01",
