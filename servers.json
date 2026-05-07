@@ -168,7 +168,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "15.204.170.69",
     "port": 7787
   },
@@ -185,22 +185,26 @@
   {
     "name": "#1 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1778138014
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1778138014
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778138014
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778138014
   },
   {
     "name": "THE DUDE'S - Offensive",
@@ -307,8 +311,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1778115785
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -659,7 +662,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1778138014
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -967,7 +971,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1395,8 +1399,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1778008429
+    "port": 9620
   },
   {
     "name": "HLL Server",
@@ -1471,14 +1474,15 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
+    "name": "=7Cav= HLL Training Server 2",
     "addr": "64.20.50.186",
     "port": 9075
   },
   {
     "name": "=7Cav= HLL Training Server 1",
     "addr": "64.20.50.246",
-    "port": 8530
+    "port": 8530,
+    "removed": 1778138014
   },
   {
     "name": "hll Server",
@@ -1491,6 +1495,11 @@
     "port": 7777
   },
   {
+    "name": "=7Cav= HLL Training Server 1 | Powered by Qonzer",
+    "addr": "64.31.2.20",
+    "port": 7787
+  },
+  {
     "name": "㋑ | Born 2 Kill | discord.gg/B2KGaming",
     "addr": "64.31.2.218",
     "port": 7777
@@ -1498,7 +1507,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.2.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778138014
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1603,7 +1613,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.62.76",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778138014
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1639,7 +1650,8 @@
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
     "addr": "69.162.102.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778138014
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
@@ -1694,8 +1706,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1778115785
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
