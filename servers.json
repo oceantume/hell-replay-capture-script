@@ -815,7 +815,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Community • [GER] #Qonzer",
+    "name": "Oktogon #1 • Community • [ENG/GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -952,7 +952,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1046,7 +1046,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1778351313
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1547,7 +1548,7 @@
     "port": 7777
   },
   {
-    "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
+    "name": "Maria's Celebration of Life | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
     "port": 7777
   },
@@ -1702,8 +1703,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1778244141
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
