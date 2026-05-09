@@ -121,12 +121,6 @@
     "port": 28600
   },
   {
-    "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
-    "addr": "149.50.126.13",
-    "port": 7777,
-    "removed": 1777724905
-  },
-  {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7777
@@ -618,10 +612,11 @@
   {
     "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
     "addr": "192.169.90.203",
-    "port": 7817
+    "port": 7817,
+    "removed": 1778329812
   },
   {
-    "name": "[82AD] Band of Brothers | Training & Events | discord.gg/82nd",
+    "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
   },
@@ -841,12 +836,6 @@
     "removed": 1777811306
   },
   {
-    "name": "[GER] Fliesentisch-Veteranen #1 | BFTB | Lvl 15+",
-    "addr": "208.115.206.74",
-    "port": 7777,
-    "removed": 1777724905
-  },
-  {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
@@ -944,13 +933,13 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1778309618
+    "port": 7807
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "208.115.226.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778329812
   },
   {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
@@ -1031,7 +1020,8 @@
   {
     "name": "GTZ战术大队跑图服",
     "addr": "216.144.245.86",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778329812
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1328,8 +1318,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1778158270
+    "port": 28600
   },
   {
     "name": "Le Peloton Perdu",
@@ -1688,8 +1677,7 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1778288539
+    "port": 10710
   },
   {
     "name": "WAR - Events",
