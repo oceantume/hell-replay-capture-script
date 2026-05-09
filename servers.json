@@ -106,12 +106,6 @@
     "removed": 1777879003
   },
   {
-    "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav",
-    "addr": "147.124.192.190",
-    "port": 9075,
-    "removed": 1777683604
-  },
-  {
     "name": "AAA SERVEUR EN TEST",
     "addr": "149.102.154.195",
     "port": 28500
@@ -508,15 +502,14 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR - VIP GRÁTIS - discord.gg/marram",
+    "name": "MARRAM.COM.BR - Brasil - discord.gg/marram",
     "addr": "181.214.48.19",
     "port": 7807
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
-    "port": 7777,
-    "removed": 1778267559
+    "port": 7777
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -666,7 +659,8 @@
   {
     "name": "=7Cav= HLL Training Server 2",
     "addr": "192.169.95.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1778288539
   },
   {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
@@ -737,12 +731,6 @@
     "port": 7777
   },
   {
-    "name": "Hell let loose (US West) - Super Extreme Warfare",
-    "addr": "193.192.58.206",
-    "port": 28000,
-    "removed": 1777683604
-  },
-  {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
     "port": 8530
@@ -760,8 +748,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1778267559
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -806,7 +793,8 @@
   {
     "name": "RGN Japan",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778288539
   },
   {
     "name": "hll Server",
@@ -1069,8 +1057,7 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1778244141
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1196,6 +1183,11 @@
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
     "port": 7787
+  },
+  {
+    "name": "RGN Japan",
+    "addr": "40.27.40.22",
+    "port": 7777
   },
   {
     "name": "CN「CZS」超质数中队白莱逗我笑纯冲突Q1085594141",
@@ -1642,7 +1634,8 @@
   {
     "name": "Delete soon",
     "addr": "69.162.102.51",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778288539
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
@@ -1697,12 +1690,14 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1778288539
   },
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1778288539
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1858,7 +1853,7 @@
     "port": 7777
   },
   {
-    "name": "EN/QC 1st Maple Div. | EAST | USA/CAN",
+    "name": "EN/QC 1st Maple Div. Everyone welcome | EAST | USA/CAN",
     "addr": "92.118.18.84",
     "port": 7787
   },
