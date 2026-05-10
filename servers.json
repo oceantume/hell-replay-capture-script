@@ -37,7 +37,8 @@
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
     "addr": "134.255.240.110",
-    "port": 10300
+    "port": 10300,
+    "removed": 1778437704
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -119,6 +120,11 @@
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
     "port": 28600
+  },
+  {
+    "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
+    "addr": "149.50.126.13",
+    "port": 7777
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -682,12 +688,6 @@
     "port": 7787
   },
   {
-    "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
-    "addr": "193.160.22.59",
-    "port": 7777,
-    "removed": 1777832808
-  },
-  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -936,12 +936,12 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
   {
-    "name": "One Last Friday",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1469,8 +1469,7 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
-    "port": 7787,
-    "removed": 1778244141
+    "port": 7787
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
