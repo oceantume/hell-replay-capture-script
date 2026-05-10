@@ -197,12 +197,6 @@
     "removed": 1778179468
   },
   {
-    "name": "THE DUDE'S - Offensive",
-    "addr": "154.12.249.34",
-    "port": 33300,
-    "removed": 1777812900
-  },
-  {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777
@@ -1382,7 +1376,8 @@
   {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "51.77.66.51",
-    "port": 9075
+    "port": 9075,
+    "removed": 1778417864
   },
   {
     "name": "[KSK] [EU/ENG] The Cattlesheds | New Players welcome!",
