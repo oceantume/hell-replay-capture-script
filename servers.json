@@ -240,7 +240,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1778416212
   },
   {
     "name": "Warfrags Studios",
@@ -687,12 +688,6 @@
     "port": 7787
   },
   {
-    "name": "hll Server",
-    "addr": "193.160.22.58",
-    "port": 7787,
-    "removed": 1777811306
-  },
-  {
     "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "193.160.22.59",
     "port": 7777,
@@ -831,12 +826,6 @@
     "port": 7807
   },
   {
-    "name": "Oktogon #2 • Community • [GER] #Qonzer",
-    "addr": "208.115.206.51",
-    "port": 7777,
-    "removed": 1777811306
-  },
-  {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
     "port": 7777
@@ -953,7 +942,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1275,12 +1264,6 @@
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
     "port": 7777
-  },
-  {
-    "name": "Exiled USMC | New Players Welcome | Offensive Only",
-    "addr": "40.27.45.18",
-    "port": 7777,
-    "removed": 1777811306
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
@@ -1729,12 +1712,6 @@
     "port": 28000
   },
   {
-    "name": "The Disabled Vets | New Players Welcome | Active Admins",
-    "addr": "83.223.207.10",
-    "port": 28100,
-    "removed": 1777811306
-  },
-  {
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
@@ -1823,6 +1800,11 @@
     "name": "[XBOX] HLL - New player friendly- EU - 24/7 - All Out Warfare",
     "addr": "92.118.16.112",
     "port": 7797
+  },
+  {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
   },
   {
     "name": "Excel Spreadsheets",
