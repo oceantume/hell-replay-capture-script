@@ -706,7 +706,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778396758
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1177,7 +1178,8 @@
   {
     "name": "RGN Japan",
     "addr": "40.27.40.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778396758
   },
   {
     "name": "CN「CZS」超质数中队白莱逗我笑纯冲突Q1085594141",
@@ -1731,12 +1733,6 @@
     "addr": "83.223.207.10",
     "port": 28100,
     "removed": 1777811306
-  },
-  {
-    "name": "Hell let loose (US Mid) - Google Doc",
-    "addr": "83.223.207.10",
-    "port": 28200,
-    "removed": 1777791704
   },
   {
     "name": "Test",
