@@ -743,14 +743,12 @@
   {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
-    "port": 8888,
-    "removed": 1778505273
+    "port": 8888
   },
   {
     "name": "GREYHOUND NIGHT - Orange | discord.gg/greyhounds",
     "addr": "203.17.244.3",
-    "port": 8898,
-    "removed": 1778505273
+    "port": 8898
   },
   {
     "name": "Streamline Test",
@@ -930,7 +928,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1284,12 +1282,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Playtest Server - US #01",
-    "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1777901018
-  },
-  {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
     "port": 28600
@@ -1503,7 +1495,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778525237
   },
   {
     "name": "UTC - New Players Welcome (ENG)",
