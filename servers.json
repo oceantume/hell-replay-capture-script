@@ -239,8 +239,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1778416212
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -312,12 +311,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "HLL Playtest Server - Europe #01",
-    "addr": "176.57.168.38",
-    "port": 28200,
-    "removed": 1777898835
   },
   {
     "name": "München Loose",
@@ -547,7 +540,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1778505273
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -749,12 +743,14 @@
   {
     "name": "Streamline HLL Test",
     "addr": "203.17.244.3",
-    "port": 8888
+    "port": 8888,
+    "removed": 1778505273
   },
   {
     "name": "GREYHOUND NIGHT - Orange | discord.gg/greyhounds",
     "addr": "203.17.244.3",
-    "port": 8898
+    "port": 8898,
+    "removed": 1778505273
   },
   {
     "name": "Streamline Test",
