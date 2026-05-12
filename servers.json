@@ -224,7 +224,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1778590440
   },
   {
     "name": "HLL Official - Europe #01",
@@ -921,7 +922,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1333,8 +1334,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1778354906
+    "port": 9620
   },
   {
     "name": "HLL Server",
