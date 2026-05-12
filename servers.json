@@ -207,7 +207,7 @@
     "port": 9075
   },
   {
-    "name": "Kooters Kustoms~Gatorland Gaming",
+    "name": "Kooters Kustoms~Gatorland Gaming seeding NEW PLAYERS WELCOME",
     "addr": "157.250.206.202",
     "port": 8530
   },
@@ -1015,7 +1015,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1778569936
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1641,8 +1642,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1778547743
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
