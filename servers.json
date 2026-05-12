@@ -267,12 +267,6 @@
     "port": 28100
   },
   {
-    "name": "For Tea & Country R&D",
-    "addr": "176.57.168.250",
-    "port": 28200,
-    "removed": 1777942726
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "176.57.168.251",
     "port": 28100
@@ -927,7 +921,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1021,8 +1015,7 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1778351313
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1648,7 +1641,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1778547743
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1758,7 +1752,8 @@
   {
     "name": "[LATAM] Server Tango Eventos",
     "addr": "89.39.161.159",
-    "port": 30500
+    "port": 30500,
+    "removed": 1778547743
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
@@ -1960,11 +1955,5 @@
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
     "port": 7777
-  },
-  {
-    "name": "All Day East Coast Bangers All Maps",
-    "addr": "95.156.198.83",
-    "port": 10900,
-    "removed": 1777942726
   }
 ]
