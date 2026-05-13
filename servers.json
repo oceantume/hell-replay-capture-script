@@ -32,8 +32,7 @@
   {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
-    "port": 7777,
-    "removed": 1778677035
+    "port": 7777
   },
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
@@ -474,32 +473,27 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777,
-    "removed": 1778677035
+    "port": 7777
   },
   {
     "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
     "addr": "181.214.48.19",
-    "port": 7787,
-    "removed": 1778677035
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797,
-    "removed": 1778677035
+    "port": 7797
   },
   {
     "name": "MARRAM.COM.BR - Brasil - discord.gg/marram",
     "addr": "181.214.48.19",
-    "port": 7807,
-    "removed": 1778677035
+    "port": 7807
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
-    "port": 7777,
-    "removed": 1778677035
+    "port": 7777
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -676,8 +670,7 @@
   {
     "name": "SLB #5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1778656580
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -932,7 +925,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1032,14 +1025,12 @@
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
-    "port": 7777,
-    "removed": 1778677035
+    "port": 7777
   },
   {
     "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
     "addr": "37.148.133.8",
-    "port": 7787,
-    "removed": 1778677035
+    "port": 7787
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1054,8 +1045,7 @@
   {
     "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群送会员！",
     "addr": "40.27.40.13",
-    "port": 7787,
-    "removed": 1778677035
+    "port": 7787
   },
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
@@ -1184,14 +1174,12 @@
   {
     "name": "(IC) Offensive Heaven | US Central #3 Dallas | discord.gg/icoh",
     "addr": "40.27.41.15",
-    "port": 7777,
-    "removed": 1778656580
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven Lvl 15+ | US Central #1 Dallas | discord.",
     "addr": "40.27.41.3",
-    "port": 7777,
-    "removed": 1778656580
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
@@ -1353,7 +1341,8 @@
   {
     "name": "HLL Server",
     "addr": "51.190.101.225",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778698099
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1401,7 +1390,7 @@
     "port": 7797
   },
   {
-    "name": "Bob The Builder OFFICIAL XP FARM discord.gg/btb",
+    "name": "Bob The Builder OFFICIAL XP FARM | Fast Loadouts discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
   },
@@ -1596,7 +1585,7 @@
     "port": 7787
   },
   {
-    "name": "INFH Testing",
+    "name": "[TH/SEA] Hell Let Loose Thailand Community by INFH",
     "addr": "74.63.203.27",
     "port": 7777
   },
@@ -1679,8 +1668,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1778611606
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1817,6 +1805,11 @@
     "name": "WidowMaker's",
     "addr": "92.118.19.80",
     "port": 7807
+  },
+  {
+    "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
+    "addr": "92.118.19.86",
+    "port": 7797
   },
   {
     "name": "New players welcome have fun 17 D3AD",
