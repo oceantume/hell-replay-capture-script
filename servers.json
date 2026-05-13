@@ -32,7 +32,8 @@
   {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778677035
   },
   {
     "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
@@ -224,8 +225,7 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1778590440
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -322,7 +322,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1778677035
   },
   {
     "name": "DevQA - EU #01",
@@ -472,27 +473,32 @@
   {
     "name": "[LATAM/ESP] | LA ISLA DE URANIUM | discord.gg/uranium235",
     "addr": "181.214.48.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778677035
   },
   {
     "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
     "addr": "181.214.48.19",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778677035
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797
+    "port": 7797,
+    "removed": 1778677035
   },
   {
     "name": "MARRAM.COM.BR - Brasil - discord.gg/marram",
     "addr": "181.214.48.19",
-    "port": 7807
+    "port": 7807,
+    "removed": 1778677035
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778677035
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -700,8 +706,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1778656580
+    "port": 7777
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -977,7 +982,7 @@
     "port": 7807
   },
   {
-    "name": "cn.jp JURASSIC PARK qq: 746699634",
+    "name": "CN/ARO和RAM的Gay王侏罗纪世界萌新乐园PUMA Q746699634",
     "addr": "216.144.245.83",
     "port": 7777
   },
@@ -1020,17 +1025,20 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1778677035
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778677035
   },
   {
     "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
     "addr": "37.148.133.8",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778677035
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1045,7 +1053,8 @@
   {
     "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群送会员！",
     "addr": "40.27.40.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778677035
   },
   {
     "name": "<CN>#2老逼登の黑丝※学姐(高强度冲突)Q:979552783",
@@ -1130,7 +1139,8 @@
   {
     "name": "CN/ARO和RAM侏罗纪公园主题萌新乐园PUMA Q746699634",
     "addr": "40.27.40.151",
-    "port": 7867
+    "port": 7867,
+    "removed": 1778677035
   },
   {
     "name": "CN#3FJ散人社区细雨清风の萌新训练营Q:1095121730",
@@ -1196,7 +1206,8 @@
   {
     "name": "SYNDICATEd SWEATINESS|New Players Welcome|3 day VIP 4 SEEDING",
     "addr": "40.27.42.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778677035
   },
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
@@ -1289,12 +1300,6 @@
     "port": 28600
   },
   {
-    "name": "Le Peloton Perdu",
-    "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1778071825
-  },
-  {
     "name": "Objective First Official [ENG] | Voice Comms | New Players Welc",
     "addr": "45.143.199.235",
     "port": 10711
@@ -1347,8 +1352,7 @@
   {
     "name": "HLL Server",
     "addr": "51.190.101.225",
-    "port": 7777,
-    "removed": 1778244141
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1384,12 +1388,6 @@
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
-  },
-  {
-    "name": "Moon",
-    "addr": "54.37.129.102",
-    "port": 7787,
-    "removed": 1778071825
   },
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
@@ -1496,8 +1494,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1778525237
+    "port": 7777
   },
   {
     "name": "UTC - New Players Welcome (ENG)",
