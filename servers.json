@@ -230,7 +230,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1778656580
   },
   {
     "name": "QA Testing - EU #03",
@@ -295,8 +296,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1778634395
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -669,7 +669,8 @@
   {
     "name": "SLB #5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -699,7 +700,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -924,7 +926,7 @@
     "port": 7777
   },
   {
-    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
+    "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -936,7 +938,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1017,8 +1020,7 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1778569936
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1159,27 +1161,32 @@
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "40.27.41.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "(IC) Offensive Heaven | US Central #3 Dallas | discord.gg/icoh",
     "addr": "40.27.41.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "(IC) Offensive Heaven Lvl 15+ | US Central #1 Dallas | discord.",
     "addr": "40.27.41.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
     "addr": "40.27.41.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1778656580
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1591,7 +1598,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "INFH Testing",
     "addr": "74.63.203.27",
     "port": 7777
   },
@@ -1802,12 +1809,6 @@
     "name": "EN/QC 1st Maple Div. Everyone welcome | EAST | USA/CAN",
     "addr": "92.118.18.84",
     "port": 7787
-  },
-  {
-    "name": "End of Existence | VoidExistence.com",
-    "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1778031794
   },
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
