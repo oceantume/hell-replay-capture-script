@@ -295,7 +295,8 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1778634395
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -310,7 +311,8 @@
   {
     "name": "München Loose",
     "addr": "176.57.168.91",
-    "port": 28000
+    "port": 28000,
+    "removed": 1778634395
   },
   {
     "name": "DevQA - EU #02",
@@ -922,7 +924,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -934,8 +936,7 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1778029129
+    "port": 7777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1588,6 +1589,11 @@
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "74.63.203.27",
+    "port": 7777
   },
   {
     "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
