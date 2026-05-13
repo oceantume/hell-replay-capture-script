@@ -109,7 +109,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1778680207
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
