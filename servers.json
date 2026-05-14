@@ -230,8 +230,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1778656580
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -296,8 +295,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1778720877
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -323,8 +321,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1778677035
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -539,7 +536,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "188.42.131.180",
-    "port": 7807
+    "port": 7807,
+    "removed": 1778742822
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -926,7 +924,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
   },
@@ -1407,12 +1405,6 @@
     "port": 9075
   },
   {
-    "name": "=7Cav= HLL Training Server 1",
-    "addr": "64.20.50.246",
-    "port": 8530,
-    "removed": 1778138014
-  },
-  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1431,12 +1423,6 @@
     "name": "㋑ | Born 2 Kill | discord.gg/B2KGaming",
     "addr": "64.31.2.218",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.2.22",
-    "port": 7777,
-    "removed": 1778138014
   },
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
@@ -1537,12 +1523,6 @@
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
     "port": 7787
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.62.76",
-    "port": 7777,
-    "removed": 1778138014
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
