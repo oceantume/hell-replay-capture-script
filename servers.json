@@ -288,8 +288,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1778807143
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1152,7 +1151,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
+    "name": "Tacos&Tequila | OGT 1 | CERRADO",
     "addr": "40.27.41.10",
     "port": 7777
   },
@@ -1526,7 +1525,8 @@
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
     "addr": "67.217.48.14",
-    "port": 11255
+    "port": 11255,
+    "removed": 1778829645
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1708,7 +1708,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1778829645
   },
   {
     "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
