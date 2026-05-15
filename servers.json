@@ -371,7 +371,8 @@
   {
     "name": "Glory to Ukraine [English]",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1778870547
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -679,7 +680,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1778870547
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1102,7 +1104,7 @@
     "port": 7817
   },
   {
-    "name": "<CN>#4 IMP帝国社区 萌新德攻投票服 |Q637824071 JP",
+    "name": "<CN>#4 IMP帝国社区 进阶德攻投票服 |Q637824071 JP",
     "addr": "40.27.40.151",
     "port": 7827
   },
@@ -1386,6 +1388,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "63.143.63.82",
+    "port": 7777
+  },
+  {
     "name": "♤CtrlAlt-Defeat NA1 New Players Welcome",
     "addr": "63.143.63.83",
     "port": 7777
@@ -1636,8 +1643,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1778611606
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
