@@ -637,12 +637,6 @@
     "port": 9620
   },
   {
-    "name": "=7Cav= HLL Training Server 2",
-    "addr": "192.169.95.202",
-    "port": 8530,
-    "removed": 1778288539
-  },
-  {
     "name": "Gebatron Gaming's Proving Grounds - HLL Campus",
     "addr": "192.169.95.202",
     "port": 9075
@@ -685,8 +679,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1778870547
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -763,12 +756,6 @@
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
-  },
-  {
-    "name": "RGN Japan",
-    "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1778288539
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
@@ -1561,12 +1548,6 @@
     "port": 9075
   },
   {
-    "name": "Delete soon",
-    "addr": "69.162.102.51",
-    "port": 7777,
-    "removed": 1778288539
-  },
-  {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1629,8 +1610,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1778893300
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1747,7 +1727,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1778914676
   },
   {
     "name": "HLL Official - South America #03",
