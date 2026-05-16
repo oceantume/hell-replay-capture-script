@@ -234,8 +234,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1778849352
+    "port": 28400
   },
   {
     "name": "Warfrags Studios",
@@ -336,7 +335,8 @@
   {
     "name": "|ABG|Deutsch|NeuerServer|SuchenAdmin|VIP zu vergeben|",
     "addr": "176.57.171.140",
-    "port": 28000
+    "port": 28000,
+    "removed": 1778934750
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -596,12 +596,6 @@
     "port": 7777
   },
   {
-    "name": "[82AD] Band of Brothers | Training & Events #2 | discord.gg/82n",
-    "addr": "192.169.90.203",
-    "port": 7817,
-    "removed": 1778329812
-  },
-  {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
@@ -744,8 +738,7 @@
   {
     "name": "Streamline Test",
     "addr": "203.23.178.4",
-    "port": 8888,
-    "removed": 1778893300
+    "port": 8888
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
@@ -898,12 +891,6 @@
     "port": 7807
   },
   {
-    "name": "[82AD] Band of Brothers | discord.gg/82nd",
-    "addr": "208.115.226.94",
-    "port": 7777,
-    "removed": 1778329812
-  },
-  {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
     "addr": "208.115.247.18",
     "port": 7777
@@ -979,12 +966,6 @@
     "name": "CN#1FJ绿魔鬼空降猎兵服Q:1095121730",
     "addr": "216.144.245.85",
     "port": 7777
-  },
-  {
-    "name": "GTZ战术大队跑图服",
-    "addr": "216.144.245.86",
-    "port": 7777,
-    "removed": 1778329812
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1271,8 +1252,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1778849352
+    "port": 28600
   },
   {
     "name": "Objective First Official [ENG] | Voice Comms Mandatory | New Pl",
