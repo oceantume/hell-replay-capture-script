@@ -673,6 +673,11 @@
     "port": 7787
   },
   {
+    "name": "TGL-TheGulagLounge.com [UK] New Players Welcome",
+    "addr": "193.160.22.59",
+    "port": 7777
+  },
+  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -746,7 +751,8 @@
   {
     "name": "Streamline Test",
     "addr": "203.23.178.4",
-    "port": 8888
+    "port": 8888,
+    "removed": 1778893300
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
@@ -1388,7 +1394,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "TOB NA1 NEW PLAYERS WELCOME TOB/DISCORD.GG",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1489,7 +1495,7 @@
     "port": 7777
   },
   {
-    "name": "Maria's Celebration of Life | discord.gg/RadicalGaming",
+    "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
     "port": 7777
   },
@@ -1623,7 +1629,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1778893300
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
