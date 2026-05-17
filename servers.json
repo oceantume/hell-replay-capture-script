@@ -35,12 +35,6 @@
     "port": 7777
   },
   {
-    "name": "Rawr's Fun Time Emporium - No Rules or Restrictions",
-    "addr": "134.255.240.110",
-    "port": 10300,
-    "removed": 1778437704
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -167,7 +161,7 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: JUNO BEACH :: discord.gg/glows",
+    "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7787
   },
@@ -651,7 +645,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -661,7 +655,7 @@
     "port": 7787
   },
   {
-    "name": "SLB #5",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -676,7 +670,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ HARDCORE | NIV +50 14-22h",
+    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ HARDCORE | NIV+50 14-22h",
     "addr": "193.160.23.18",
     "port": 7777
   },
@@ -812,7 +806,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -839,10 +833,11 @@
   {
     "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779042638
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -917,15 +912,14 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777,
-    "removed": 1778656580
+    "port": 7777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1023,7 +1017,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群送会员！",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨越南服筹备中",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1722,7 +1716,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1779042638
   },
   {
     "name": "HLL Official - South America #03",
