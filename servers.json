@@ -58,8 +58,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1779001770
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -677,14 +676,15 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ HARDCORE | 14-22h NIV +50 | ",
+    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ HARDCORE | NIV +50 14-22h | ",
     "addr": "193.160.23.18",
     "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779021097
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1516,6 +1516,11 @@
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
+  },
+  {
+    "name": "[LATAM/ESP] Mujeres y niños entran gratis",
+    "addr": "66.235.172.30",
+    "port": 8530
   },
   {
     "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
