@@ -677,8 +677,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1779021097
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -728,7 +727,8 @@
   {
     "name": "CN「CZS」超质数中队训练服",
     "addr": "203.10.98.103",
-    "port": 8888
+    "port": 8888,
+    "removed": 1779090055
   },
   {
     "name": "Streamline HLL Test",
@@ -743,7 +743,8 @@
   {
     "name": "Streamline Test",
     "addr": "203.23.178.4",
-    "port": 8888
+    "port": 8888,
+    "removed": 1779090055
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
@@ -1716,8 +1717,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
-    "port": 28300,
-    "removed": 1779042638
+    "port": 28300
   },
   {
     "name": "HLL Official - South America #03",
@@ -1788,7 +1788,8 @@
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779090055
   },
   {
     "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
