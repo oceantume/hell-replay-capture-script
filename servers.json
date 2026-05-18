@@ -834,8 +834,7 @@
   {
     "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
-    "port": 7777,
-    "removed": 1779042638
+    "port": 7777
   },
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
@@ -1130,10 +1129,9 @@
     "port": 7777
   },
   {
-    "name": "Tacos&Tequila | OGT 1 | CERRADO",
+    "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "40.27.41.10",
-    "port": 7777,
-    "removed": 1779001770
+    "port": 7777
   },
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1430,8 +1428,7 @@
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Miami | Eventos |",
     "addr": "64.31.31.122",
-    "port": 7787,
-    "removed": 1779001770
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
@@ -1692,7 +1689,8 @@
   {
     "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "85.208.197.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779066646
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
