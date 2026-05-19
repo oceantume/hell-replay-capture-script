@@ -369,10 +369,9 @@
     "port": 28300
   },
   {
-    "name": "Glory to Ukraine [English]",
+    "name": "[KB] Kingdom's Event Server",
     "addr": "176.57.174.211",
-    "port": 28000,
-    "removed": 1778870547
+    "port": 28000
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -549,7 +548,8 @@
   {
     "name": "[WCB] TRAINING GROUNDS | discord.gg/WCB",
     "addr": "188.64.33.2",
-    "port": 9075
+    "port": 9075,
+    "removed": 1779196935
   },
   {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
@@ -1243,7 +1243,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1779196935
   },
   {
     "name": "HLL Official - US East #02",
@@ -1293,7 +1294,8 @@
   {
     "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
     "addr": "5.196.78.45",
-    "port": 8530
+    "port": 8530,
+    "removed": 1779196935
   },
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
@@ -1324,7 +1326,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779196935
   },
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
@@ -1558,7 +1561,8 @@
   {
     "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
     "addr": "74.63.225.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779196935
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1678,27 +1682,32 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817
+    "port": 7817,
+    "removed": 1779196935
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779196935
   },
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779196935
   },
   {
     "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1779196935
   },
   {
     "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "85.208.197.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779196935
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
@@ -1714,6 +1723,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
