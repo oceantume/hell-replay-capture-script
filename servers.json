@@ -57,7 +57,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1779175678
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -339,7 +340,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1779175678
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -501,7 +503,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.216.144.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1779175678
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -711,8 +714,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1779153058
+    "port": 20900
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -1534,12 +1536,14 @@
   {
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
     "addr": "69.10.33.178",
-    "port": 8530
+    "port": 8530,
+    "removed": 1779175678
   },
   {
     "name": "TEG.gg - Conquest for EMPLOYED GAMERS",
     "addr": "69.10.33.178",
-    "port": 9075
+    "port": 9075,
+    "removed": 1779175678
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
