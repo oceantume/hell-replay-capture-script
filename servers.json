@@ -17,14 +17,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1779110988
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1779110988
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -713,7 +711,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1779153058
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -1260,7 +1259,7 @@
     "port": 8530
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Légion XIII",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1371,7 +1370,7 @@
     "port": 7777
   },
   {
-    "name": "TOB NA1 NEW PLAYERS WELCOME TOB/DISCORD.GG",
+    "name": "TOB NA1 Warfare NEW PLAYERS WELCOME Discord.GG/TOB",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1517,7 +1516,7 @@
     "port": 8888
   },
   {
-    "name": "[LATAM/ESP] Mujeres y niños entran gratis",
+    "name": "[LATAM/ESP] Mujeres y niños entran gratis!",
     "addr": "66.235.172.30",
     "port": 8530
   },
@@ -1711,12 +1710,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "[LATAM] Server Tango Eventos",
-    "addr": "89.39.161.159",
-    "port": 30500,
-    "removed": 1778547743
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
