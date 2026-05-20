@@ -301,12 +301,6 @@
     "port": 28100
   },
   {
-    "name": "München Loose",
-    "addr": "176.57.168.91",
-    "port": 28000,
-    "removed": 1778634395
-  },
-  {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
@@ -1689,8 +1683,7 @@
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
-    "port": 7817,
-    "removed": 1779196935
+    "port": 7817
   },
   {
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
