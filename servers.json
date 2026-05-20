@@ -416,7 +416,7 @@
     "port": 7807
   },
   {
-    "name": "[LATAM] Hagamos Garris - Ronin Reclutando",
+    "name": "[LATAM] Hagamos Garris | ★ RONIN siempre reclutando ★",
     "addr": "181.214.221.212",
     "port": 7817
   },
@@ -996,7 +996,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1779303489
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1019,7 +1020,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨越南服筹备中",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨进群领实体卡",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1260,7 +1261,7 @@
     "port": 8530
   },
   {
-    "name": "LEGION XIII - FR/EN - LVL 150+",
+    "name": "[FR] LEGION XIII | Recrutement OUVERT | discord.gg/legiontreize",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1314,12 +1315,6 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
-  },
-  {
-    "name": "HLL Server",
-    "addr": "51.190.101.225",
-    "port": 7777,
-    "removed": 1778698099
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1443,7 +1438,7 @@
     "port": 7777
   },
   {
-    "name": "Ronin Eventos Miame",
+    "name": "RONIN Eventos Miami | ★ COMPETITIVO ★",
     "addr": "64.31.31.124",
     "port": 7777
   },
@@ -1627,8 +1622,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1779216475
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
