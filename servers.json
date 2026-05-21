@@ -427,12 +427,6 @@
     "port": 7817
   },
   {
-    "name": "ゐ Cobras Fumantes - discord.gg/cobrasfumantes",
-    "addr": "181.214.221.212",
-    "port": 7827,
-    "removed": 1778762969
-  },
-  {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
     "addr": "181.214.221.212",
     "port": 7847
@@ -1387,12 +1381,6 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= HLL Training Server 2",
-    "addr": "64.20.50.186",
-    "port": 9075,
-    "removed": 1778762969
-  },
-  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1592,7 +1580,8 @@
   {
     "name": "♤CtrlAlt-Defeat NA2 Veteran Players",
     "addr": "74.63.231.3",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779369715
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
