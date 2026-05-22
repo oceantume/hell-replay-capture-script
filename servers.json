@@ -193,7 +193,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1779455039
   },
   {
     "name": "MAKE GAMING GREAT AGAIN seeding NEW PLAYERS WELCOME",
@@ -233,7 +234,13 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1779455039
+  },
+  {
+    "name": "For Tea & Country R&D",
+    "addr": "176.57.140.146",
+    "port": 28100
   },
   {
     "name": "Warfrags Studios",
@@ -306,6 +313,11 @@
     "port": 28100
   },
   {
+    "name": "HLL Playtest Server - Europe #01",
+    "addr": "176.57.168.38",
+    "port": 28200
+  },
+  {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
     "port": 28200
@@ -313,7 +325,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1779455039
   },
   {
     "name": "DevQA - EU #01",
@@ -456,7 +469,8 @@
   {
     "name": "FRONTSA.com | Brazil | LATAM | Defesa esquecida desde 1944",
     "addr": "181.214.221.41",
-    "port": 7837
+    "port": 7837,
+    "removed": 1779455039
   },
   {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
@@ -496,7 +510,8 @@
   {
     "name": "[FR/BE] Baguette & Bayonet RP | Roleplay | discord.gg/FxbnP3N3V",
     "addr": "185.216.144.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1779455039
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -679,7 +694,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779455039
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -943,7 +959,8 @@
   {
     "name": "FRONTSA.com | Brazil | LATAM | Defesa esquecida desde 1944",
     "addr": "208.115.248.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779455039
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1116,12 +1133,6 @@
     "port": 7867
   },
   {
-    "name": "CN#3FJ散人社区细雨清风の萌新训练营Q:1095121730",
-    "addr": "40.27.40.20",
-    "port": 7777,
-    "removed": 1778849352
-  },
-  {
     "name": "CN2#散人社区|初夏里进阶攻防咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
     "port": 7777
@@ -1232,19 +1243,21 @@
     "port": 7777
   },
   {
-    "name": "QA Testing - US West #06",
+    "name": "WC Playtest Server",
     "addr": "45.137.246.13",
     "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1779455039
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1779455039
   },
   {
     "name": "HLL Official - US East #01",
@@ -1854,7 +1867,8 @@
   {
     "name": "[GER] Brennholzverleih | Active Admins | Mic",
     "addr": "95.135.1.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779455039
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
