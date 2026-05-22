@@ -107,7 +107,8 @@
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1779434875
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -322,7 +323,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1779434875
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -443,7 +445,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
     "addr": "181.214.221.41",
-    "port": 7807
+    "port": 7807,
+    "removed": 1779434875
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -676,8 +679,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1779282501
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1441,6 +1443,11 @@
     "port": 7777
   },
   {
+    "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
+    "addr": "64.31.31.123",
+    "port": 7807
+  },
+  {
     "name": "RONIN Eventos Miami | ★ COMPETITIVO ★",
     "addr": "64.31.31.124",
     "port": 7777
@@ -1519,12 +1526,6 @@
     "name": "[LATAM/ESP] Mujeres y niños entran gratis!",
     "addr": "66.235.172.30",
     "port": 8530
-  },
-  {
-    "name": "=7Cav= Tactical Realism | US EAST | Discord.gg/7Cav",
-    "addr": "67.217.48.14",
-    "port": 11255,
-    "removed": 1778829645
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
