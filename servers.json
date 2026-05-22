@@ -193,8 +193,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1779455039
+    "port": 9075
   },
   {
     "name": "MAKE GAMING GREAT AGAIN seeding NEW PLAYERS WELCOME",
@@ -480,7 +479,8 @@
   {
     "name": "2RB | FRONT ATIVO | ENTRE AGORA | [BRASIL]",
     "addr": "181.214.48.19",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779475585
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
@@ -501,6 +501,11 @@
     "name": "[LATAM] Hagamos Asado en el patio del Olimpo | [AFIP]",
     "addr": "181.214.48.81",
     "port": 7837
+  },
+  {
+    "name": "2RB - ESCOLA DE NOVATOS - BRASIL",
+    "addr": "181.214.48.81",
+    "port": 7847
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -694,8 +699,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1779455039
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1250,8 +1254,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1779455039
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1270,6 +1273,11 @@
     "port": 28000
   },
   {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
+  },
+  {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
     "port": 28600
@@ -1285,7 +1293,7 @@
     "port": 10710
   },
   {
-    "name": "Objective First Official [ENG] | Voice Comms Mandatory | New Pl",
+    "name": "Objective First Official [ENG] | Voice Comms and Teamwork Manda",
     "addr": "45.143.199.235",
     "port": 10711
   },
@@ -1640,7 +1648,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1779475585
   },
   {
     "name": "HLL Official - Asia #04",
