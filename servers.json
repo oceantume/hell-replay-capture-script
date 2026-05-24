@@ -258,7 +258,8 @@
   {
     "name": "ww2 server",
     "addr": "176.57.165.121",
-    "port": 36500
+    "port": 36500,
+    "removed": 1779585162
   },
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
@@ -1471,6 +1472,11 @@
     "port": 7777
   },
   {
+    "name": "Carlos_uru92 Server",
+    "addr": "64.31.31.125",
+    "port": 7787
+  },
+  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
@@ -1661,7 +1667,8 @@
   {
     "name": "Hell for you",
     "addr": "83.223.207.10",
-    "port": 28000
+    "port": 28000,
+    "removed": 1779585162
   },
   {
     "name": "Test",
