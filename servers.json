@@ -166,7 +166,7 @@
     "port": 7787
   },
   {
-    "name": "#1 [ESP] LVL 75+(09:00-20:00) DIV33 Oficial - Español / Spanis",
+    "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
     "addr": "152.114.195.150",
     "port": 7807
   },
@@ -335,8 +335,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1779607077
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -693,8 +692,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1779647479
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -761,12 +759,6 @@
     "addr": "203.17.244.3",
     "port": 8898,
     "removed": 1779216475
-  },
-  {
-    "name": "Streamline Test",
-    "addr": "203.23.178.4",
-    "port": 8888,
-    "removed": 1779090055
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
@@ -836,7 +828,8 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779695475
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
