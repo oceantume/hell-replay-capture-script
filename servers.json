@@ -238,7 +238,8 @@
   {
     "name": "For Tea & Country R&D",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1779715387
   },
   {
     "name": "Warfrags Studios",
@@ -314,7 +315,8 @@
   {
     "name": "HLL Playtest Server - Europe #01",
     "addr": "176.57.168.38",
-    "port": 28200
+    "port": 28200,
+    "removed": 1779715387
   },
   {
     "name": "DevQA - EU #02",
@@ -692,7 +694,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779715387
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1225,7 +1228,8 @@
   {
     "name": "WC Playtest Server",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1779715387
   },
   {
     "name": "HLL Official - US West #02",
@@ -1235,7 +1239,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1779715387
   },
   {
     "name": "HLL Official - US East #01",
@@ -1250,7 +1255,8 @@
   {
     "name": "HLL Playtest Server - US #01",
     "addr": "45.137.247.5",
-    "port": 28100
+    "port": 28100,
+    "removed": 1779715387
   },
   {
     "name": "HLL Official - US East #03",
