@@ -514,12 +514,6 @@
     "removed": 1779455039
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "185.216.144.75",
-    "port": 9620,
-    "removed": 1779175678
-  },
-  {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
     "port": 10165
@@ -684,7 +678,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.58",
-    "port": 7787
+    "port": 7787,
+    "removed": 1779801358
   },
   {
     "name": "TGL-TheGulagLounge.com [UK] New Players Welcome",
@@ -1026,7 +1021,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨冲突模式丨Q群548651",
+    "name": "CN#3 TT天堂俱乐部Q群548651丨越南版Q群439912丨",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1244,8 +1239,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1779715387
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1266,7 +1260,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1779801358
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1553,12 +1548,6 @@
     "port": 8530
   },
   {
-    "name": "TEG.gg - Conquest for EMPLOYED GAMERS",
-    "addr": "69.10.33.178",
-    "port": 9075,
-    "removed": 1779175678
-  },
-  {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1658,7 +1647,8 @@
   {
     "name": "Barracks and Burbon - All Maps - US East",
     "addr": "83.223.203.138",
-    "port": 28100
+    "port": 28100,
+    "removed": 1779801358
   },
   {
     "name": "Hell for you",
