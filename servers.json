@@ -682,6 +682,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.58",
+    "port": 7787
+  },
+  {
     "name": "TGL-TheGulagLounge.com [UK] New Players Welcome",
     "addr": "193.160.22.59",
     "port": 7777
@@ -1708,7 +1713,8 @@
   {
     "name": "ENG/EU | RMK - FRONTIER | OFFENSIVE ONLY discord.gg/ragemonkies",
     "addr": "85.208.197.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779757723
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
