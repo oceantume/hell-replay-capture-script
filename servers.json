@@ -362,7 +362,8 @@
   {
     "name": "404 | Eventserver",
     "addr": "176.57.171.176",
-    "port": 28200
+    "port": 28200,
+    "removed": 1779821848
   },
   {
     "name": "VT1",
@@ -555,12 +556,6 @@
     "port": 8530
   },
   {
-    "name": "[WCB] TRAINING GROUNDS | discord.gg/WCB",
-    "addr": "188.64.33.2",
-    "port": 9075,
-    "removed": 1779196935
-  },
-  {
     "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
     "addr": "191.101.30.57",
     "port": 8530
@@ -656,7 +651,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -694,8 +689,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1779715387
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -758,12 +752,6 @@
     "port": 8888
   },
   {
-    "name": "GREYHOUND NIGHT - Orange | discord.gg/greyhounds",
-    "addr": "203.17.244.3",
-    "port": 8898,
-    "removed": 1779216475
-  },
-  {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8888
@@ -819,7 +807,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -850,7 +838,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -920,7 +908,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1026,7 +1014,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨始建于22年",
+    "name": "CN#2 TT天堂俱乐部Q群548651丨越南版Q群439912丨",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1228,8 +1216,7 @@
   {
     "name": "WC Playtest Server",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1779715387
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1297,12 +1284,6 @@
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
     "port": 8530
-  },
-  {
-    "name": "#03[ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
-    "addr": "5.196.78.45",
-    "port": 8530,
-    "removed": 1779196935
   },
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
@@ -1636,8 +1617,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1779647479
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1721,12 +1701,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1779216475
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
