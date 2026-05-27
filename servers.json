@@ -342,7 +342,8 @@
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
     "addr": "176.57.169.115",
-    "port": 28200
+    "port": 28200,
+    "removed": 1779888435
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -1232,12 +1233,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1779888435
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1779888435
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1528,6 +1531,11 @@
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
     "addr": "69.10.33.178",
     "port": 8530
+  },
+  {
+    "name": "TEG.gg - Conquest for EMPLOYED GAMERS",
+    "addr": "69.10.33.178",
+    "port": 9075
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
