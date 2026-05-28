@@ -358,7 +358,8 @@
   {
     "name": "Borry‘s Playground",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1779975239
   },
   {
     "name": "404 | Eventserver",
@@ -977,8 +978,7 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "216.245.210.194",
-    "port": 7777,
-    "removed": 1779930323
+    "port": 7777
   },
   {
     "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
@@ -1218,17 +1218,20 @@
   {
     "name": "WC Playtest Server",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1779975239
   },
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1779975239
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1779975239
   },
   {
     "name": "HLL Official - US East #01",
@@ -1239,8 +1242,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1779888435
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1251,8 +1253,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1779801358
+    "port": 28600
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1584,12 +1585,6 @@
     "port": 7777
   },
   {
-    "name": "♤CtrlAlt-Defeat NA2 Veteran Players",
-    "addr": "74.63.231.3",
-    "port": 7787,
-    "removed": 1779369715
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1707,7 +1702,8 @@
   {
     "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
     "addr": "88.211.219.170",
-    "port": 9075
+    "port": 9075,
+    "removed": 1779975239
   },
   {
     "name": "{serverName}",
