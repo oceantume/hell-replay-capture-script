@@ -300,7 +300,8 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1779930323
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -977,7 +978,8 @@
   {
     "name": "[L9] The Loyal Nine | L9Clan.com/discord",
     "addr": "216.245.210.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1779930323
   },
   {
     "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
@@ -992,8 +994,7 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700,
-    "removed": 1779867679
+    "port": 10700
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1601,7 +1602,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1779930323
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1742,8 +1744,7 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
-    "port": 7827,
-    "removed": 1779539514
+    "port": 7827
   },
   {
     "name": "LOW.MS Testing",
