@@ -300,8 +300,7 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100,
-    "removed": 1779930323
+    "port": 28100
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -1258,7 +1257,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "45.143.199.201",
-    "port": 8530
+    "port": 8530,
+    "removed": 1779953794
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1602,8 +1602,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1779930323
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1702,7 +1701,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1779953794
   },
   {
     "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
