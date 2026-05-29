@@ -106,12 +106,6 @@
     "removed": 1780017300
   },
   {
-    "name": "[XBOX] QA Testing - UK #07",
-    "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1779434875
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -204,7 +198,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
     "addr": "172.240.69.85",
-    "port": 7797
+    "port": 7797,
+    "removed": 1780040118
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -452,12 +447,6 @@
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
     "addr": "181.214.221.41",
     "port": 7797
-  },
-  {
-    "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
-    "addr": "181.214.221.41",
-    "port": 7807,
-    "removed": 1779434875
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -881,7 +870,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780040118
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -1492,6 +1482,11 @@
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
     "port": 7797
+  },
+  {
+    "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
+    "addr": "64.31.61.91",
+    "port": 7777
   },
   {
     "name": "Oceanic Ocelots | U.S. West",
