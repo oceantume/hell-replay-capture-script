@@ -653,7 +653,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780144649
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -949,7 +950,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1780144649
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -972,13 +974,18 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂俱乐部Q群548651丨越南版Q群439912丨",
+    "name": "CN#2 TT天堂萌新俱乐部Q群548651丨登录全球社区榜",
     "addr": "40.27.40.13",
     "port": 7787
   },
   {
     "name": "<CN>#2 FJ细雨清风の无规则薯条冲突服 Q:1095121730",
     "addr": "40.27.40.15",
+    "port": 7777
+  },
+  {
+    "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
+    "addr": "40.27.40.150",
     "port": 7777
   },
   {
@@ -1196,14 +1203,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1779888435
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1780060913
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1305,7 +1310,8 @@
   {
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
-    "port": 9720
+    "port": 9720,
+    "removed": 1780144649
   },
   {
     "name": "Moon",
@@ -1427,12 +1433,6 @@
     "name": "UTC - New Players Welcome (ENG)",
     "addr": "64.31.4.172",
     "port": 7777
-  },
-  {
-    "name": "[7DL] Academia de Guerra",
-    "addr": "64.31.40.202",
-    "port": 7777,
-    "removed": 1779539514
   },
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1703,38 +1703,14 @@
     "port": 28400
   },
   {
-    "name": "[XBOX] HLL - New player friendly- EU - 24/7 - All Out Warfare",
-    "addr": "92.118.16.112",
-    "port": 7797,
-    "removed": 1779539514
-  },
-  {
-    "name": "Team17",
-    "addr": "92.118.16.126",
-    "port": 7777,
-    "removed": 1779539514
-  },
-  {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
     "port": 7827
   },
   {
-    "name": "LOW.MS Testing",
-    "addr": "92.118.18.104",
-    "port": 7777,
-    "removed": 1779539514
-  },
-  {
     "name": "EN/QC 1st Maple Div. Everyone welcome | EAST | USA/CAN",
     "addr": "92.118.18.84",
     "port": 7787
-  },
-  {
-    "name": "End of Existence | VoidExistence.com",
-    "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1779539514
   },
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
