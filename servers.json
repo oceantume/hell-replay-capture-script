@@ -12,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1780081332
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -1261,8 +1260,7 @@
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1780081332
+    "port": 9075
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1272,8 +1270,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1780081332
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1309,6 +1306,11 @@
     "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
     "addr": "54.36.165.164",
     "port": 9720
+  },
+  {
+    "name": "Moon",
+    "addr": "54.37.129.102",
+    "port": 7787
   },
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
@@ -1551,7 +1553,8 @@
   {
     "name": "[RS] Rogue Soldiers Clan | Discord.gg/RSClan",
     "addr": "74.63.231.3",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780103357
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1870,7 +1873,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | GE",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | AD",
     "addr": "95.135.1.5",
     "port": 7777
   },
