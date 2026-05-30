@@ -974,7 +974,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部Q群548651丨登录全球社区榜",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群无需排队",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1054,7 +1054,7 @@
     "port": 7837
   },
   {
-    "name": "CN帝国社区萌新跑图服 自助飞天切图",
+    "name": "CN帝国社区早诊早治杯赏金赛（备用服）",
     "addr": "40.27.40.151",
     "port": 7847
   },
@@ -1403,12 +1403,6 @@
     "port": 7777
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
-    "addr": "64.31.31.123",
-    "port": 7807,
-    "removed": 1779560971
-  },
-  {
     "name": "RONIN Eventos Miami | ★ COMPETITIVO ★",
     "addr": "64.31.31.124",
     "port": 7777
@@ -1588,12 +1582,14 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780165915
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1780165915
   },
   {
     "name": "HLL Official - Asia #03",
