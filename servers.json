@@ -454,7 +454,7 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR - Brasil - discord.gg/marram",
+    "name": "MARRAM.COM.BR Primeiros 40 players vip 30 dias",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -481,7 +481,18 @@
   {
     "name": "Ghosts of War » EU » New Players Welcome » Warfare & Offensi",
     "addr": "185.216.144.75",
-    "port": 9075
+    "port": 9075,
+    "removed": 1780252430
+  },
+  {
+    "name": "Ghosts of War»EU»New Players Welcome»Warfare & Offensive",
+    "addr": "185.216.144.75",
+    "port": 9085
+  },
+  {
+    "name": "404 | Eventserver",
+    "addr": "185.216.144.75",
+    "port": 9620
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -616,8 +627,7 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1780212652
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -1104,7 +1114,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven Lvl 15+ | US Central #1 Dallas | discord.",
+    "name": "(IC) Offensive Heaven Lvl 10+ | US Central #1 Dallas | discord.",
     "addr": "40.27.41.3",
     "port": 7777
   },
@@ -1144,7 +1154,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven | US West #1 Los Angeles | discord.gg/ico",
+    "name": "(IC) Offensive Heaven | US West #1 LA | discord.gg/icoh",
     "addr": "40.27.44.16",
     "port": 7777
   },
@@ -1582,14 +1592,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1780165915
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1780165915
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
