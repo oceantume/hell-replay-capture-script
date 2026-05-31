@@ -333,8 +333,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1780125172
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -479,6 +478,11 @@
     "port": 11255
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.216.144.75",
+    "port": 9075
+  },
+  {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
     "port": 10165
@@ -611,7 +615,8 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780212652
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -647,8 +652,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780144649
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -778,7 +782,8 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780212652
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -1063,7 +1068,7 @@
     "port": 7867
   },
   {
-    "name": "CN2#散人社区|初夏里进阶攻防咖啡馆丨日服1207481",
+    "name": "CN2#散人社区|妙手极限攻防咖啡馆|JP120748151",
     "addr": "40.27.40.21",
     "port": 7777
   },
@@ -1834,7 +1839,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | AD",
     "addr": "95.135.1.5",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780212652
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
