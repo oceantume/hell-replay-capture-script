@@ -385,7 +385,8 @@
   {
     "name": "HDC | Combat Division | US East & EU | Active Admins",
     "addr": "178.239.168.169",
-    "port": 8530
+    "port": 8530,
+    "removed": 1780231296
   },
   {
     "name": "FR | TDA – Respect du Jeu – Micro obligatoire – No Stream",
@@ -478,7 +479,7 @@
     "port": 11255
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "Ghosts of War » EU » New Players Welcome » Warfare & Offensi",
     "addr": "185.216.144.75",
     "port": 9075
   },
@@ -717,7 +718,8 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8888
+    "port": 8888,
+    "removed": 1780231296
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1839,8 +1841,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | AD",
     "addr": "95.135.1.5",
-    "port": 7777,
-    "removed": 1780212652
+    "port": 7777
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
