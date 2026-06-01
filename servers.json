@@ -557,7 +557,7 @@
     "port": 7777
   },
   {
-    "name": "5th Ranger Battalion - 5thrb.com | Recruiting / All Welcome",
+    "name": "5th Ranger Battalion | 5thrb.com | Recruiting | All Welcome",
     "addr": "192.169.86.210",
     "port": 7787
   },
@@ -909,7 +909,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[GER] Frontline Network | fln.gg",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1238,7 +1238,7 @@
     "removed": 1779953794
   },
   {
-    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
+    "name": "[FR] LEGION XIII | Match en cours",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1596,7 +1596,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780343125
   },
   {
     "name": "HLL Official - Asia #04",
