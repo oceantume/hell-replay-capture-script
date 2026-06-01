@@ -17,12 +17,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780301211
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1780301211
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -103,8 +105,12 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1780017300
+    "port": 28300
+  },
+  {
+    "name": "[XBOX] QA Testing - UK #07",
+    "addr": "149.102.158.161",
+    "port": 28600
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -560,7 +566,7 @@
     "port": 7777
   },
   {
-    "name": "5th Ranger Battalion | US East | 5thrb.com",
+    "name": "5TH RANGER BATTALION - 5THRB.COM - RECRUITING / NEW PLAYERS WEL",
     "addr": "192.169.86.210",
     "port": 7787
   },
@@ -663,8 +669,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780254204
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -735,6 +740,11 @@
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
     "port": 8908
+  },
+  {
+    "name": "Yeah...nah",
+    "addr": "208.115.201.22",
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
@@ -906,6 +916,11 @@
     "name": "Oktogon • Event #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.251.116",
+    "port": 7777
   },
   {
     "name": "[GER] Omen Match Server #1",
@@ -1195,10 +1210,9 @@
     "port": 7777
   },
   {
-    "name": "WC Playtest Server",
+    "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1779975239
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1508,12 +1522,14 @@
   {
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
     "addr": "69.10.33.178",
-    "port": 8530
+    "port": 8530,
+    "removed": 1780301211
   },
   {
     "name": "TEG.gg - Conquest for EMPLOYED GAMERS",
     "addr": "69.10.33.178",
-    "port": 9075
+    "port": 9075,
+    "removed": 1780301211
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
