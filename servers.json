@@ -30,6 +30,11 @@
     "port": 8888
   },
   {
+    "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
+    "addr": "103.62.51.218",
+    "port": 8898
+  },
+  {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
     "port": 7777
@@ -113,7 +118,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780386856
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -188,7 +194,8 @@
   {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780386856
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -319,7 +326,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1780386856
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -330,7 +338,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1780386856
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -1498,12 +1507,6 @@
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
-  },
-  {
-    "name": "OP Is Hot",
-    "addr": "66.235.172.30",
-    "port": 8530,
-    "removed": 1779780438
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
