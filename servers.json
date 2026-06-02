@@ -657,12 +657,6 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "193.160.22.58",
-    "port": 7787,
-    "removed": 1779801358
-  },
-  {
     "name": "TGL-TheGulagLounge.com [UK] New Players Welcome",
     "addr": "193.160.22.59",
     "port": 7777
@@ -1227,7 +1221,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1780407231
   },
   {
     "name": "HLL Official - US East #01",
@@ -1242,8 +1237,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1780323351
+    "port": 28600
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -1299,8 +1293,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1780254204
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1618,12 +1611,6 @@
     "port": 28100
   },
   {
-    "name": "Barracks and Burbon - All Maps - US East",
-    "addr": "83.223.203.138",
-    "port": 28100,
-    "removed": 1779801358
-  },
-  {
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
@@ -1649,6 +1636,11 @@
     "port": 28800
   },
   {
+    "name": "HLL Server",
+    "addr": "84.70.9.85",
+    "port": 7777
+  },
+  {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -1671,8 +1663,7 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777,
-    "removed": 1780081332
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
