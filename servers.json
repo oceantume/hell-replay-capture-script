@@ -194,8 +194,7 @@
   {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
-    "port": 7777,
-    "removed": 1780386856
+    "port": 7777
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -338,8 +337,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1780386856
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -351,12 +349,6 @@
     "addr": "176.57.171.176",
     "port": 28000,
     "removed": 1779975239
-  },
-  {
-    "name": "404 | Eventserver",
-    "addr": "176.57.171.176",
-    "port": 28200,
-    "removed": 1779821848
   },
   {
     "name": "VT1",
@@ -669,7 +661,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780428407
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1597,8 +1590,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1780343125
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1638,7 +1630,8 @@
   {
     "name": "HLL Server",
     "addr": "84.70.9.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780428407
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1663,7 +1656,8 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780428407
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
