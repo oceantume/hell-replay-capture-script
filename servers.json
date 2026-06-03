@@ -120,8 +120,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
-    "port": 7777,
-    "removed": 1780386856
+    "port": 7777
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -230,6 +229,11 @@
     "port": 28200
   },
   {
+    "name": "HLL Console Official - Europe #01",
+    "addr": "176.57.134.30",
+    "port": 28300
+  },
+  {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
     "port": 28600
@@ -242,7 +246,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1780494921
   },
   {
     "name": "Warfrags Studios",
@@ -307,12 +312,14 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1780494921
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1780494921
   },
   {
     "name": "QA Testing - EU #04",
@@ -328,12 +335,6 @@
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
     "port": 28700
-  },
-  {
-    "name": "[GER] Hell let Loose Neue Spieler Willkommen",
-    "addr": "176.57.169.115",
-    "port": 28200,
-    "removed": 1779888435
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -542,7 +543,8 @@
   {
     "name": "[IG] Ironclad Guardians | NA | New Player Friendly",
     "addr": "192.169.86.106",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780494921
   },
   {
     "name": "-TL- The Line |NA EAST| Sponsored by RGN discord.gg/theline",
@@ -587,8 +589,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787,
-    "removed": 1780473462
+    "port": 7787
   },
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
@@ -603,7 +604,8 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877
+    "port": 7877,
+    "removed": 1780494921
   },
   {
     "name": "AS YT",
@@ -663,7 +665,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780494921
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -814,7 +817,8 @@
   {
     "name": "ComunidadHispana - Experimental Branch",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780494921
   },
   {
     "name": "SLB #3",
@@ -970,7 +974,8 @@
   {
     "name": "Pathfinder US West Server/Beginner Friendly/Active Mods",
     "addr": "37.10.127.2",
-    "port": 10700
+    "port": 10700,
+    "removed": 1780494921
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1088,9 +1093,14 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO和RAM的小男娘侏罗纪主题萌新乐园PUMA Q746699",
+    "name": "CN/ARO和RAM的六一小萝莉男娘恐龙萌新乐园PUMA Q746",
     "addr": "40.27.40.151",
     "port": 7867
+  },
+  {
+    "name": "[风起云涌]宝宝巴士 加群带萌新:698529167 JP",
+    "addr": "40.27.40.20",
+    "port": 7777
   },
   {
     "name": "CN2#散人社区|妙手极限攻防咖啡馆|JP120748151",
@@ -1128,7 +1138,7 @@
     "port": 7777
   },
   {
-    "name": "(IC) Offensive Heaven Lvl 10+ | US Central #1 Dallas | discord.",
+    "name": "(IC) Juno Beach Heaven | US Central #1 Dallas | discord.gg/icoh",
     "addr": "40.27.41.3",
     "port": 7777
   },
@@ -1220,8 +1230,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1780407231
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1280,7 +1289,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | 24/7 Juno Beach | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1555,7 +1564,8 @@
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780494921
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
@@ -1601,12 +1611,14 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780494921
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1780494921
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1711,7 +1723,8 @@
   {
     "name": "EN/QC 1st Maple Div. Everyone welcome | EAST | USA/CAN",
     "addr": "92.118.18.84",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780494921
   },
   {
     "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
@@ -1851,7 +1864,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUER | GBG-HLL.COM | AD",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | JUNO BEACH 24/7 | GBG-HLL.COM | AD",
     "addr": "95.135.1.5",
     "port": 7777
   },
