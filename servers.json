@@ -65,6 +65,16 @@
     "port": 9224
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "139.28.16.36",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "139.28.16.38",
+    "port": 7777
+  },
+  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -150,7 +160,8 @@
   {
     "name": "MACV-SOG [Official] - Game Server",
     "addr": "15.204.170.67",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780515086
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -158,7 +169,7 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
+    "name": "=7Cav= Tactical Realism 24h JUNO | US East | Discord.gg/7Cav | ",
     "addr": "15.204.170.69",
     "port": 7787
   },
@@ -231,7 +242,8 @@
   {
     "name": "HLL Console Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780515086
   },
   {
     "name": "HLL Official - Europe #01",
@@ -312,8 +324,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1780494921
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
@@ -461,7 +472,8 @@
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780515086
   },
   {
     "name": "[LATAM] Hagamos Asado en el patio del Olimpo | [AFIP]",
@@ -604,8 +616,7 @@
   {
     "name": "(IC) Offensive Heaven | US East | discord.gg/icoh",
     "addr": "192.169.95.178",
-    "port": 7877,
-    "removed": 1780494921
+    "port": 7877
   },
   {
     "name": "AS YT",
@@ -801,8 +812,7 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1780212652
+    "port": 7787
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -1254,7 +1264,7 @@
     "removed": 1779953794
   },
   {
-    "name": "[FR] LEGION XIII | Match en cours",
+    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1301,7 +1311,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1780515086
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1360,7 +1371,7 @@
     "port": 7777
   },
   {
-    "name": "TOB NA1 Warfare NEW PLAYERS WELCOME Discord.GG/5HmkkKhKeP",
+    "name": "TOB Juno Beach 24/7 New Players Welcome Discord.GG/5HmkkKhKeP",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1520,6 +1531,11 @@
     "port": 11800
   },
   {
+    "name": "101st Airborne Division Milsim | discord.gg/saG4hMaUkR",
+    "addr": "67.217.48.14",
+    "port": 9620
+  },
+  {
     "name": "TEG.gg | ENGLISH | sweatlords get banned | Employed Gamers Only",
     "addr": "69.10.33.178",
     "port": 8530,
@@ -1564,8 +1580,7 @@
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
     "addr": "74.63.231.2",
-    "port": 7777,
-    "removed": 1780494921
+    "port": 7777
   },
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
@@ -1611,14 +1626,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1780494921
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1780494921
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1686,8 +1699,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1779953794
+    "port": 8530
   },
   {
     "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
