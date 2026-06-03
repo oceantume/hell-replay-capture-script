@@ -982,6 +982,11 @@
     "port": 7787
   },
   {
+    "name": "NA | Get On Line | discord.gg/gol",
+    "addr": "38.246.35.141",
+    "port": 7777
+  },
+  {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
     "addr": "40.27.40.11",
     "port": 7777
@@ -1625,7 +1630,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "83.223.207.55",
-    "port": 28800
+    "port": 28800,
+    "removed": 1780449892
   },
   {
     "name": "HLL Server",
