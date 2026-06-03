@@ -108,12 +108,14 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780473462
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1780473462
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -325,8 +327,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1780386856
+    "port": 28700
   },
   {
     "name": "[GER] Hell let Loose Neue Spieler Willkommen",
@@ -586,7 +587,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780473462
   },
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
@@ -661,8 +663,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780428407
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1452,6 +1453,11 @@
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
+    "port": 7777
+  },
+  {
+    "name": "TPL SERVER",
+    "addr": "64.31.59.74",
     "port": 7777
   },
   {
