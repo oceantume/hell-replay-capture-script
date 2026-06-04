@@ -71,6 +71,11 @@
     "removed": 1780599506
   },
   {
+    "name": "test1 g77654",
+    "addr": "139.28.16.37",
+    "port": 7787
+  },
+  {
     "name": "Another Qonzer.com server is born!",
     "addr": "139.28.16.38",
     "port": 7777
@@ -973,12 +978,6 @@
     "port": 8530
   },
   {
-    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
-    "addr": "216.245.210.194",
-    "port": 7777,
-    "removed": 1779994970
-  },
-  {
     "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
     "addr": "216.245.210.196",
     "port": 7797
@@ -1315,7 +1314,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1780602411
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1702,7 +1702,8 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780602411
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
