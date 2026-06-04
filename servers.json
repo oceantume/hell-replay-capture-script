@@ -67,7 +67,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "139.28.16.36",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780599506
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -158,7 +159,7 @@
     "port": 7777
   },
   {
-    "name": "MACV-SOG [Official] - D-Day Maps 24/7",
+    "name": "MACV-SOG [Official] - Juno Beach 24/7",
     "addr": "15.204.170.67",
     "port": 7777
   },
@@ -260,6 +261,11 @@
     "port": 28400
   },
   {
+    "name": "HLL PIU",
+    "addr": "176.57.140.146",
+    "port": 28100
+  },
+  {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
@@ -354,12 +360,6 @@
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
     "port": 28100
-  },
-  {
-    "name": "Borry‘s Playground",
-    "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1779975239
   },
   {
     "name": "VT1",
@@ -488,7 +488,7 @@
     "port": 7847
   },
   {
-    "name": "Haxs, Lies & Bad Aim",
+    "name": "[UK/ENG] Haxs, Lies & Bad Aim",
     "addr": "185.216.144.75",
     "port": 10165
   },
@@ -506,8 +506,7 @@
   {
     "name": "Ghosts of War»EU»New Players Welcome»Warfare & Offensive",
     "addr": "185.216.144.75",
-    "port": 9085,
-    "removed": 1780579343
+    "port": 9085
   },
   {
     "name": "404 | Eventserver",
@@ -720,8 +719,7 @@
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827,
-    "removed": 1780579343
+    "port": 7827
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1226,8 +1224,7 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "40.27.45.15",
-    "port": 7777,
-    "removed": 1780579343
+    "port": 7777
   },
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
@@ -1338,7 +1335,8 @@
   {
     "name": "[KSK] [EU/ENG] The Cattlesheds | New Players welcome!",
     "addr": "51.77.66.51",
-    "port": 9620
+    "port": 9620,
+    "removed": 1780599506
   },
   {
     "name": "CZ & SK | EVENT | VLK @ valkyriahll.cz",
@@ -1377,7 +1375,7 @@
     "port": 7777
   },
   {
-    "name": "TOB Juno Beach 24/7 New Players Welcome Discord.GG/5HmkkKhKeP",
+    "name": "TOB - Warfare 24/7 New Players Welcome Discord.GG/5HmkkKhKeP",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1389,8 +1387,7 @@
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
-    "port": 7777,
-    "removed": 1780579343
+    "port": 7777
   },
   {
     "name": "hll Server",
@@ -1470,6 +1467,11 @@
   {
     "name": "UTC - New Players Welcome (ENG)",
     "addr": "64.31.4.172",
+    "port": 7777
+  },
+  {
+    "name": "Academia de Guerra - 7DL",
+    "addr": "64.31.40.202",
     "port": 7777
   },
   {
@@ -1700,8 +1702,7 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777,
-    "removed": 1780428407
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
@@ -1709,15 +1710,14 @@
     "port": 8530
   },
   {
-    "name": "DUTCH SILVERBACKS - WWW.DUTCHSILVERBACKS.NL - ENGLISH/DUTCH",
-    "addr": "88.211.219.170",
-    "port": 9075,
-    "removed": 1779975239
-  },
-  {
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
