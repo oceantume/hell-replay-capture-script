@@ -73,7 +73,8 @@
   {
     "name": "test1 g77654",
     "addr": "139.28.16.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780622127
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -313,7 +314,8 @@
   {
     "name": "3rd Cavalry Division RP/MILSIM",
     "addr": "176.57.168.253",
-    "port": 28000
+    "port": 28000,
+    "removed": 1780622127
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -1142,8 +1144,7 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1780579343
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US Central #3 Dallas | discord.gg/icoh",
@@ -1314,8 +1315,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1780602411
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1564,7 +1564,8 @@
   {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
     "addr": "74.63.203.27",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780622127
   },
   {
     "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
@@ -1801,12 +1802,6 @@
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
     "port": 7977
-  },
-  {
-    "name": "QNZR | SYM FILTERING",
-    "addr": "95.135.0.3",
-    "port": 7777,
-    "removed": 1780017300
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
