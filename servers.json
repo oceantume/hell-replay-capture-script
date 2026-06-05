@@ -162,7 +162,8 @@
   {
     "name": "[1stMD] 1st Marine Division NPF | discord.com/1stmardiv",
     "addr": "15.204.170.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780665391
   },
   {
     "name": "MACV-SOG [Official] - Juno Beach 24/7",
@@ -780,7 +781,8 @@
   {
     "name": "[GER] Trinity`s Ballerbude",
     "addr": "208.115.206.34",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780665391
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -961,7 +963,8 @@
   {
     "name": "工人爷爷自动刷分服 ※ Q979552783",
     "addr": "216.144.245.84",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780665391
   },
   {
     "name": "CN#1FJ绿魔鬼空降猎兵服Q:1095121730",
@@ -1231,6 +1234,11 @@
     "port": 7777
   },
   {
+    "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
+    "addr": "40.27.47.179",
+    "port": 7777
+  },
+  {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
     "port": 28300
@@ -1243,13 +1251,13 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1780665391
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1780579343
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
