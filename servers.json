@@ -225,12 +225,6 @@
     "port": 8530
   },
   {
-    "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
-    "addr": "172.240.69.85",
-    "port": 7797,
-    "removed": 1780040118
-  },
-  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -1719,7 +1713,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780645448
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
