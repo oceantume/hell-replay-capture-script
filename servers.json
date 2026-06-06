@@ -99,7 +99,8 @@
   {
     "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
-    "port": 8530
+    "port": 8530,
+    "removed": 1780708237
   },
   {
     "name": "DKB - Event server - HLLdanmark.dk",
@@ -115,6 +116,11 @@
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
+  },
+  {
+    "name": "TOMO 24/7 JUNO BEACH",
+    "addr": "149.102.154.195",
+    "port": 28100
   },
   {
     "name": "[XPLAY] QA Testing - EU #05",
@@ -1264,7 +1270,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Match en cours",
+    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1594,12 +1600,6 @@
     "port": 7787
   },
   {
-    "name": "[RS] Rogue Soldiers Clan | Discord.gg/RSClan",
-    "addr": "74.63.231.3",
-    "port": 7777,
-    "removed": 1780103357
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1759,7 +1759,8 @@
   {
     "name": "New players welcome have fun 17 D3AD",
     "addr": "94.250.218.33",
-    "port": 28100
+    "port": 28100,
+    "removed": 1780708237
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
