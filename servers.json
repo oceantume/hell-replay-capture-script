@@ -1249,8 +1249,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1780665391
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1293,6 +1292,11 @@
     "name": "Special Needs Server",
     "addr": "45.151.81.212",
     "port": 7777
+  },
+  {
+    "name": "US | 19th Battalion | Map-Vote | Discord.gg/19theb",
+    "addr": "45.45.238.223",
+    "port": 8530
   },
   {
     "name": "TD4W Clan Server",
