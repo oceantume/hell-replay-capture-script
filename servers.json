@@ -22,8 +22,7 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1780730162
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -74,8 +73,7 @@
   {
     "name": "test1 g77654",
     "addr": "139.28.16.37",
-    "port": 7787,
-    "removed": 1780622127
+    "port": 7787
   },
   {
     "name": "TGL - TheGulagLounge [UK-US] New players welcome",
@@ -794,7 +792,7 @@
     "port": 7787
   },
   {
-    "name": "PL ※ ENG | DGM | Polski/Polish Server NEW PLAYERS WELCOME",
+    "name": "PL ※ ENG | DGM | Polski/Polish Server DDAY EVENT / ONLY FRENC",
     "addr": "208.115.206.38",
     "port": 7787
   },
@@ -968,7 +966,8 @@
   {
     "name": "CN#1FJ绿魔鬼空降猎兵服Q:1095121730",
     "addr": "216.144.245.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780749571
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1261,12 +1260,14 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1780749571
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1780749571
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1348,12 +1349,6 @@
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 11255
-  },
-  {
-    "name": "Desert Ratz #1 | UK/EU | Now Recruiting",
-    "addr": "54.36.165.164",
-    "port": 9720,
-    "removed": 1780144649
   },
   {
     "name": "Moon",
