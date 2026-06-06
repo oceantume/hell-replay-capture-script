@@ -17,12 +17,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780770995
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1780770995
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -76,7 +78,7 @@
     "port": 7787
   },
   {
-    "name": "TGL - TheGulagLounge [UK-US] New players welcome",
+    "name": "TGL - D-Day Landings - TheGulagLounge [UK-US] New Players Welco",
     "addr": "139.28.16.38",
     "port": 7777
   },
@@ -504,7 +506,7 @@
     "removed": 1780252430
   },
   {
-    "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare & Offensive",
+    "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
     "addr": "185.216.144.75",
     "port": 9085
   },
@@ -650,7 +652,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -683,7 +685,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780770995
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -807,7 +810,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -838,7 +841,7 @@
     "removed": 1780494921
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -908,7 +911,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1294,7 +1297,7 @@
     "port": 7777
   },
   {
-    "name": "US | 19th Battalion | Map-Vote | Discord.gg/19theb",
+    "name": "US | 19th Battalion | Everybody Welcome | Discord.gg/19theb",
     "addr": "45.45.238.223",
     "port": 8530
   },
@@ -1341,8 +1344,7 @@
   {
     "name": "[KSK] [EU/ENG] The Cattlesheds | New Players welcome!",
     "addr": "51.77.66.51",
-    "port": 9620,
-    "removed": 1780599506
+    "port": 9620
   },
   {
     "name": "CZ & SK | EVENT | VLK @ valkyriahll.cz",
@@ -1699,8 +1701,7 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777,
-    "removed": 1780602411
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
