@@ -22,7 +22,8 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1780730162
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -99,8 +100,7 @@
   {
     "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1780708237
+    "port": 8530
   },
   {
     "name": "DKB - Event server - HLLdanmark.dk",
@@ -685,8 +685,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780494921
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1663,7 +1662,8 @@
   {
     "name": "OGHC Battleground - New Players Welcome - US Central",
     "addr": "83.223.207.55",
-    "port": 28500
+    "port": 28500,
+    "removed": 1780730162
   },
   {
     "name": "Hell let loose Server by g-portal.com",
