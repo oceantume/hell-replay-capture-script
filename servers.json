@@ -17,14 +17,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1780770995
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1780770995
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -193,22 +191,26 @@
   {
     "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1780817792
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
-    "port": 7827
+    "port": 7827,
+    "removed": 1780817792
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780817792
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780817792
   },
   {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
@@ -685,8 +687,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780770995
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -822,7 +823,8 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780817792
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -946,7 +948,7 @@
     "port": 7787
   },
   {
-    "name": "§ | Outcasts eTool | .gg/hostile + etool",
+    "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
     "addr": "208.115.255.53",
     "port": 7777
   },
@@ -1324,8 +1326,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1780772831
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
