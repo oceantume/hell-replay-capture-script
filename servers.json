@@ -261,7 +261,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1780836253
   },
   {
     "name": "HLL PIU",
@@ -399,12 +400,6 @@
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
     "addr": "176.57.181.105",
     "port": 28300
-  },
-  {
-    "name": "HDC | Combat Division | US East & EU | Active Admins",
-    "addr": "178.239.168.169",
-    "port": 8530,
-    "removed": 1780231296
   },
   {
     "name": "FR | TDA – Respect du Jeu – Micro obligatoire – No Stream",
@@ -1016,12 +1011,12 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂俱乐部Q群548651丨越南版Q群439912丨",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨高考金榜题名",
     "addr": "40.27.40.13",
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群无需排队",
+    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨高考金榜题名",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1123,7 +1118,8 @@
   {
     "name": "CN2#散人社区|妙手极限攻防咖啡馆|JP120748151",
     "addr": "40.27.40.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1780836253
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1264,14 +1260,12 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1780749571
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1780749571
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1624,7 +1618,8 @@
   {
     "name": "[ESP] 250 Hispana | Escuela de novatos",
     "addr": "78.46.101.16",
-    "port": 9075
+    "port": 9075,
+    "removed": 1780836253
   },
   {
     "name": "HLL Official - Asia #01",
