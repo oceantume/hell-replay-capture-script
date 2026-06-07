@@ -76,7 +76,7 @@
     "port": 7787
   },
   {
-    "name": "TGL - D-Day Landings - TheGulagLounge [UK-US] New Players Welco",
+    "name": "TGL - TheGulagLounge [UK-US] New Players Welcome",
     "addr": "139.28.16.38",
     "port": 7777
   },
@@ -267,7 +267,8 @@
   {
     "name": "HLL PIU",
     "addr": "176.57.140.146",
-    "port": 28100
+    "port": 28100,
+    "removed": 1780857442
   },
   {
     "name": "Warfrags Studios",
@@ -467,7 +468,7 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR Primeiros 40 players vip 30 dias",
+    "name": "MARRAM.COM.BR - Brasil - Primeiros 40 players vip",
     "addr": "181.214.48.19",
     "port": 7807
   },
@@ -495,12 +496,6 @@
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
-  },
-  {
-    "name": "Ghosts of War » EU » New Players Welcome » Warfare & Offensi",
-    "addr": "185.216.144.75",
-    "port": 9075,
-    "removed": 1780252430
   },
   {
     "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
@@ -762,7 +757,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
     "addr": "208.115.203.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1780857442
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -818,8 +814,7 @@
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787,
-    "removed": 1780817792
+    "port": 7787
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -933,7 +928,7 @@
     "port": 7787
   },
   {
-    "name": "[GER] Frontline Network | fln.gg",
+    "name": "[GER] The Collective",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1116,10 +1111,9 @@
     "port": 7777
   },
   {
-    "name": "CN2#散人社区|妙手极限攻防咖啡馆|JP120748151",
+    "name": "Another Qonzer.com server is born!",
     "addr": "40.27.40.21",
-    "port": 7777,
-    "removed": 1780836253
+    "port": 7777
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1629,8 +1623,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1780685331
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
