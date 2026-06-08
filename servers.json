@@ -500,8 +500,7 @@
   {
     "name": "404 | Eventserver",
     "addr": "185.216.144.75",
-    "port": 9620,
-    "removed": 1780926066
+    "port": 9620
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -1108,7 +1107,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "CN2#散人社区|妙手无限制强度进阶咖啡馆|Q12074815",
     "addr": "40.27.40.21",
     "port": 7777
   },
@@ -1726,12 +1725,6 @@
     "addr": "92.118.18.84",
     "port": 7787,
     "removed": 1780494921
-  },
-  {
-    "name": "[16th IR] Realism Unit. |US EAST| 16THIR.ORG | VIP for Seeding",
-    "addr": "92.118.18.96",
-    "port": 7777,
-    "removed": 1780323351
   },
   {
     "name": "WidowMaker's",
