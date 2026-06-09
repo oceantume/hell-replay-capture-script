@@ -257,7 +257,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1781010785
   },
   {
     "name": "HLL PIU",
@@ -775,7 +776,7 @@
     "port": 7787
   },
   {
-    "name": "PL ※ ENG | DGM | Polski/Polish Server DDAY EVENT / ONLY FRENC",
+    "name": "PL ※ ENG | DGM | Polski/Polish Server | New Players Welcome!",
     "addr": "208.115.206.38",
     "port": 7787
   },
@@ -1244,8 +1245,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1780926066
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
