@@ -174,7 +174,7 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism 24h JUNO | US East | Discord.gg/7Cav | ",
+    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "15.204.170.69",
     "port": 7787
   },
@@ -538,12 +538,6 @@
     "port": 8530
   },
   {
-    "name": "101st Airborne Division MilSim | discord.gg/saG4hMaUkR",
-    "addr": "191.101.30.57",
-    "port": 8530,
-    "removed": 1780363164
-  },
-  {
     "name": "XIII Legion - Rubicon",
     "addr": "191.101.30.61",
     "port": 8530
@@ -672,8 +666,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1780905711
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1230,7 +1223,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1780990148
   },
   {
     "name": "HLL Official - US West #02",
@@ -1449,7 +1443,7 @@
     "port": 7777
   },
   {
-    "name": "Eventos Uranium Server",
+    "name": "LATAM /ESP Gnomos Server Campeones Mundiales Islas Tiki Tiki",
     "addr": "64.31.31.125",
     "port": 7787
   },
