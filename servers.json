@@ -62,7 +62,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1781077460
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -348,7 +349,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1781077460
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -401,7 +403,7 @@
     "port": 28300
   },
   {
-    "name": "FR | TDA – Respect du Jeu – Micro obligatoire – No Stream",
+    "name": "*** | TDA] Respect du Jeu – Micro obligatoire – No Stream",
     "addr": "178.33.122.90",
     "port": 8530
   },
@@ -528,7 +530,8 @@
   {
     "name": "EG event server",
     "addr": "185.70.107.12",
-    "port": 9075
+    "port": 9075,
+    "removed": 1781077460
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
@@ -669,7 +672,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781077460
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -876,7 +880,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1781077460
   },
   {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
@@ -1103,7 +1108,7 @@
     "port": 7777
   },
   {
-    "name": "CN2#散人社区|妙手无限制强度进阶咖啡馆|Q12074815",
+    "name": "CN2#散人社区|妙手无限制强度进阶咖啡馆Q120748151",
     "addr": "40.27.40.21",
     "port": 7777
   },
@@ -1365,7 +1370,7 @@
     "port": 7777
   },
   {
-    "name": "TOB NA1 - New Players Welcome - Discord.GG/5HmkkKhKeP",
+    "name": "δ TOB NA1 - New Players Welcome - Discord.GG/5HmkkKhKeP",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1649,12 +1654,6 @@
     "removed": 1780730162
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "83.223.207.55",
-    "port": 28800,
-    "removed": 1780449892
-  },
-  {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -1693,8 +1692,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1780645448
+    "port": 7777
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
