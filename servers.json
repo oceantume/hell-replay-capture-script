@@ -62,8 +62,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1781077460
+    "port": 9224
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -89,7 +88,8 @@
   {
     "name": "KRTs Chilling at Camelot",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781097945
   },
   {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
@@ -129,7 +129,8 @@
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1781097945
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -139,7 +140,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781097945
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -324,7 +326,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781097945
   },
   {
     "name": "QA Testing - EU #01",
@@ -349,8 +352,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1781077460
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -380,7 +382,8 @@
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
     "addr": "176.57.174.211",
-    "port": 28100
+    "port": 28100,
+    "removed": 1781097945
   },
   {
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
@@ -515,7 +518,8 @@
   {
     "name": "[BWR] Event Server RUS",
     "addr": "185.70.107.12",
-    "port": 10710
+    "port": 10710,
+    "removed": 1781097945
   },
   {
     "name": "[FD] - Русский Сервер | [EVENT]",
@@ -530,8 +534,7 @@
   {
     "name": "EG event server",
     "addr": "185.70.107.12",
-    "port": 9075,
-    "removed": 1781077460
+    "port": 9075
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
@@ -693,7 +696,8 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1781097945
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -880,8 +884,7 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1781077460
+    "port": 7807
   },
   {
     "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
@@ -1252,7 +1255,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1781097945
   },
   {
     "name": "HLL Official - US East #03",
@@ -1305,7 +1309,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#3 | 24/7 Juno Beach | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | MAP VOTING ENABLED | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
@@ -1382,7 +1386,8 @@
   {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781097945
   },
   {
     "name": "hll Server",
@@ -1512,8 +1517,7 @@
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
-    "port": 7777,
-    "removed": 1781031261
+    "port": 7777
   },
   {
     "name": "♤CtrlAlt-Defeat NA2 Veteran Server",
@@ -1523,7 +1527,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781097945
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1569,7 +1574,8 @@
   {
     "name": "Belgium Let Loose (BLL) ● 1h games ● Min lvl officers",
     "addr": "74.63.225.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781097945
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
@@ -1589,7 +1595,8 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1781097945
   },
   {
     "name": "WAR - Events",
@@ -1615,7 +1622,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781097945
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1692,7 +1700,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781097945
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
