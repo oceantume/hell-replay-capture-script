@@ -123,14 +123,12 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1780473462
+    "port": 28300
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1780473462
+    "port": 28600
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -335,8 +333,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1780494921
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
@@ -1230,8 +1227,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1780990148
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -1515,7 +1511,7 @@
     "removed": 1781031261
   },
   {
-    "name": "♤CtrlAlt-Defeat EVENT SERVER",
+    "name": "♤CtrlAlt-Defeat NA2 Veteran Server",
     "addr": "64.31.62.74",
     "port": 7777
   },
@@ -1625,6 +1621,11 @@
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
     "port": 28100
+  },
+  {
+    "name": "Bunker Boyz",
+    "addr": "83.223.207.10",
+    "port": 28000
   },
   {
     "name": "Test",
