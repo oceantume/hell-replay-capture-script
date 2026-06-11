@@ -495,7 +495,8 @@
   {
     "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
     "addr": "185.216.144.75",
-    "port": 9085
+    "port": 9085,
+    "removed": 1781184961
   },
   {
     "name": "404 | Eventserver",
@@ -858,8 +859,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1781164617
+    "port": 7777
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -985,7 +985,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨美加墨世界杯",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨排队请到TT3",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1093,12 +1093,6 @@
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
     "port": 7787
-  },
-  {
-    "name": "CN「CZS」超质数中队白莱逗我笑纯冲突Q1085594141",
-    "addr": "40.27.40.23",
-    "port": 7777,
-    "removed": 1780579343
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1229,8 +1223,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1781097945
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
