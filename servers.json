@@ -319,8 +319,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300,
-    "removed": 1781097945
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #01",
@@ -526,7 +525,8 @@
   {
     "name": "EG event server",
     "addr": "185.70.107.12",
-    "port": 9075
+    "port": 9075,
+    "removed": 1781164617
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
@@ -549,7 +549,7 @@
     "port": 7777
   },
   {
-    "name": "-TL- The Line |NA EAST| Sponsored by RGN discord.gg/theline",
+    "name": "-TL- The Line |Prep Server| Sponsored by RGN discord.gg/theline",
     "addr": "192.169.86.108",
     "port": 7777
   },
@@ -654,12 +654,6 @@
     "port": 7787
   },
   {
-    "name": "TGL-TheGulagLounge.com [UK] New Players Welcome",
-    "addr": "193.160.22.59",
-    "port": 7777,
-    "removed": 1780536270
-  },
-  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -667,8 +661,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1781077460
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -703,7 +696,8 @@
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827
+    "port": 7827,
+    "removed": 1781164617
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -864,7 +858,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781164617
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -935,8 +930,7 @@
   {
     "name": "Match server PUMA",
     "addr": "216.144.245.83",
-    "port": 7777,
-    "removed": 1781140664
+    "port": 7777
   },
   {
     "name": "工人爷爷自动刷分服 ※ Q979552783",
@@ -1289,7 +1283,7 @@
     "port": 9014
   },
   {
-    "name": "BigD.com.au AU#3 | MAP VOTING ENABLED | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
   },
