@@ -427,8 +427,7 @@
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
     "addr": "181.214.221.212",
-    "port": 7847,
-    "removed": 1781140664
+    "port": 7847
   },
   {
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
@@ -534,7 +533,8 @@
   {
     "name": "XIII Legion - Rubicon",
     "addr": "191.101.30.61",
-    "port": 8530
+    "port": 8530,
+    "removed": 1781250743
   },
   {
     "name": "[IG] Ironclad Guardians | NA | New Player Friendly",
@@ -1415,6 +1415,11 @@
   {
     "name": "LATAM /ESP Gnomos Server Campeones Mundiales Islas Tiki Tiki",
     "addr": "64.31.31.125",
+    "port": 7787
+  },
+  {
+    "name": "Hold The Line Miami - Powered by Caveiras",
+    "addr": "64.31.31.126",
     "port": 7787
   },
   {
