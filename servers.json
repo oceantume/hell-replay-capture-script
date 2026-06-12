@@ -40,6 +40,11 @@
     "port": 7777
   },
   {
+    "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
+    "addr": "108.165.230.224",
+    "port": 7797
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -293,12 +298,6 @@
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
     "port": 28000
-  },
-  {
-    "name": "3rd Cavalry Division RP/MILSIM",
-    "addr": "176.57.168.253",
-    "port": 28000,
-    "removed": 1780622127
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -655,7 +654,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781227240
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1506,12 +1506,6 @@
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
-  },
-  {
-    "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
-    "addr": "74.63.203.27",
-    "port": 7777,
-    "removed": 1780622127
   },
   {
     "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
