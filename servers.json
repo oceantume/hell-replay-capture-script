@@ -113,6 +113,11 @@
     "port": 28000
   },
   {
+    "name": "GO FUCK YOURSELF | Patriots First | US East",
+    "addr": "144.126.153.213",
+    "port": 28300
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -650,7 +655,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781375943
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1719,7 +1725,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 25+| GBG-HLL.COM | ",
     "addr": "95.135.1.2",
     "port": 7777
   },
