@@ -246,7 +246,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1781354917
   },
   {
     "name": "HLL PIU",
@@ -913,12 +914,6 @@
     "port": 7777
   },
   {
-    "name": "CN#1FJ绿魔鬼空降猎兵服Q:1095121730",
-    "addr": "216.144.245.85",
-    "port": 7777,
-    "removed": 1780749571
-  },
-  {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
     "addr": "216.173.119.202",
     "port": 8530
@@ -1193,14 +1188,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1781270648
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1781270648
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
