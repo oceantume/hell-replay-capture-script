@@ -654,7 +654,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781441526
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1544,12 +1545,6 @@
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
     "port": 8530
-  },
-  {
-    "name": "[ESP] 250 Hispana | Escuela de novatos",
-    "addr": "78.46.101.16",
-    "port": 9075,
-    "removed": 1780836253
   },
   {
     "name": "HLL Official - Asia #01",
