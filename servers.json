@@ -251,8 +251,7 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1781354917
+    "port": 28400
   },
   {
     "name": "HLL PIU",
@@ -1428,7 +1427,8 @@
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781400088
   },
   {
     "name": "TPL SERVER",
@@ -1719,7 +1719,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 25+| GBG-HLL.COM | ",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 75+| GBG-HLL.COM | ",
     "addr": "95.135.1.2",
     "port": 7777
   },
