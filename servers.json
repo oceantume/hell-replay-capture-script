@@ -654,8 +654,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1781375943
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -685,12 +684,14 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781423344
   },
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827
+    "port": 7827,
+    "removed": 1781423344
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1427,8 +1428,7 @@
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
-    "port": 7777,
-    "removed": 1781400088
+    "port": 7777
   },
   {
     "name": "TPL SERVER",
