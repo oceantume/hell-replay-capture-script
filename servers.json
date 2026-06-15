@@ -251,7 +251,8 @@
   {
     "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
     "addr": "176.57.135.134",
-    "port": 28400
+    "port": 28400,
+    "removed": 1781551704
   },
   {
     "name": "Warfrags Studios",
@@ -730,7 +731,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
     "addr": "208.115.203.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781551704
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -840,7 +842,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781551704
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -880,7 +883,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 5 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781551704
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1252,7 +1256,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1781551704
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1352,6 +1357,11 @@
   {
     "name": "Turks Let Loose ︱Event︱ Bize Katıl ⇒ discord.gg/TLL",
     "addr": "64.31.29.66",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "64.31.29.68",
     "port": 7777
   },
   {
@@ -1552,8 +1562,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1781462398
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1705,7 +1714,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 75+| GBG-HLL.COM | ",
     "addr": "95.135.1.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781551704
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1745,24 +1755,24 @@
   {
     "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
     "addr": "95.135.1.38",
-    "port": 7777,
-    "removed": 1781533258
+    "port": 7777
   },
   {
     "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
     "addr": "95.135.1.39",
-    "port": 7777,
-    "removed": 1781533258
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | ALL MAPS | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781551704
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | A",
     "addr": "95.135.1.5",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781551704
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
