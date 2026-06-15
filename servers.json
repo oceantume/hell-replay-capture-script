@@ -120,7 +120,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400
+    "port": 28400,
+    "removed": 1781511600
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
@@ -648,8 +649,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1781486646
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1482,6 +1482,11 @@
     "port": 11800
   },
   {
+    "name": "Overpowered Gaming :: US SOUTH EAST :: NEW PLAYERS WELCOME",
+    "addr": "67.217.48.14",
+    "port": 9075
+  },
+  {
     "name": "101st Airborne Division Milsim | discord.gg/saG4hMaUkR",
     "addr": "67.217.48.14",
     "port": 9620
@@ -1605,7 +1610,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1781511600
   },
   {
     "name": "{serverName}",
