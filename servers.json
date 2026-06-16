@@ -113,7 +113,7 @@
     "port": 28000
   },
   {
-    "name": "F*CK YOUR FEELINGS | Patriots First | US East | Adults Only | W",
+    "name": "F*CK YOUR FEELINGS | Patriots First | US East | Adults Only",
     "addr": "144.126.153.213",
     "port": 28300
   },
@@ -519,8 +519,7 @@
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620,
-    "removed": 1781597517
+    "port": 9620
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -681,14 +680,12 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1781423344
+    "port": 7777
   },
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827,
-    "removed": 1781423344
+    "port": 7827
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -751,7 +748,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Community • [ENG/GER] #Qonzer",
+    "name": "Oktogon #1 • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -886,7 +883,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon • Event #Qonzer",
+    "name": "Oktogon #2 • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1195,8 +1192,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1781533258
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -1261,8 +1257,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1781551704
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1628,8 +1623,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1781097945
+    "port": 7777
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
@@ -1650,6 +1644,11 @@
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
     "port": 7827
+  },
+  {
+    "name": "25ID Gaming Server",
+    "addr": "92.118.18.76",
+    "port": 7807
   },
   {
     "name": "End of Existence | VoidExistence.com",
