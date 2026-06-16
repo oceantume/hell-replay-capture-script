@@ -130,7 +130,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781573090
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
@@ -897,6 +898,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Frontline Network | 2",
+    "addr": "208.115.251.117",
+    "port": 7777
+  },
+  {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
     "port": 7787
@@ -1170,7 +1176,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781573090
   },
   {
     "name": "HLL Official - US West #02",
@@ -1360,7 +1367,7 @@
     "port": 7777
   },
   {
-    "name": "hll Server",
+    "name": "[GER] Frontline Network | 1",
     "addr": "64.31.29.68",
     "port": 7777
   },
