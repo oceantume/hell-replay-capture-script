@@ -17,14 +17,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1781290237
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1781290237
+    "port": 7807
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -623,7 +621,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -748,7 +746,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #1 • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "#1 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -768,7 +766,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -793,7 +791,7 @@
     "port": 7867
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -863,7 +861,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -883,12 +881,12 @@
     "port": 7777
   },
   {
-    "name": "Oktogon #2 • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
   {
-    "name": "GER | The Collective",
+    "name": "The Collective │ DE AT CH │ mic-pflicht",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -953,7 +951,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨排队请到TT3",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨社群玩家常驻",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1111,12 +1109,6 @@
     "name": "Merciless | Warfare | US West",
     "addr": "40.27.44.12",
     "port": 7777
-  },
-  {
-    "name": "Merciless | Warfare Server 2 | US West",
-    "addr": "40.27.44.13",
-    "port": 7777,
-    "removed": 1781031261
   },
   {
     "name": "I Love Playing Apex",
@@ -1557,7 +1549,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781637593
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1621,6 +1614,11 @@
     "port": 28600
   },
   {
+    "name": "MOB",
+    "addr": "89.117.72.86",
+    "port": 30500
+  },
+  {
     "name": "HLL Server",
     "addr": "89.32.89.73",
     "port": 7777
@@ -1648,7 +1646,8 @@
   {
     "name": "25ID Gaming Server",
     "addr": "92.118.18.76",
-    "port": 7807
+    "port": 7807,
+    "removed": 1781637593
   },
   {
     "name": "End of Existence | VoidExistence.com",
@@ -1716,7 +1715,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 100+ | GBG-HLL.COM ",
     "addr": "95.135.1.2",
     "port": 7777
   },
@@ -1771,7 +1770,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | A",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | Q",
     "addr": "95.135.1.5",
     "port": 7777
   },
