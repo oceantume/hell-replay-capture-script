@@ -519,7 +519,8 @@
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620
+    "port": 9620,
+    "removed": 1781597517
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -732,8 +733,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
     "addr": "208.115.203.18",
-    "port": 7787,
-    "removed": 1781551704
+    "port": 7787
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -843,8 +843,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
     "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1781551704
+    "port": 7777
   },
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
@@ -884,8 +883,7 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 5 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "208.115.248.110",
-    "port": 7777,
-    "removed": 1781551704
+    "port": 7777
   },
   {
     "name": "Oktogon • Event #Qonzer",
@@ -1719,10 +1717,9 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 75+| GBG-HLL.COM | ",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.2",
-    "port": 7777,
-    "removed": 1781551704
+    "port": 7777
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1772,14 +1769,12 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | ALL MAPS | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.4",
-    "port": 7777,
-    "removed": 1781551704
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | A",
     "addr": "95.135.1.5",
-    "port": 7777,
-    "removed": 1781551704
+    "port": 7777
   },
   {
     "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
