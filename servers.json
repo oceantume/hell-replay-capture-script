@@ -112,7 +112,8 @@
   {
     "name": "F*CK YOUR FEELINGS | Patriots First | US East | Adults Only",
     "addr": "144.126.153.213",
-    "port": 28300
+    "port": 28300,
+    "removed": 1781722804
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -268,8 +269,7 @@
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.250",
-    "port": 28000,
-    "removed": 1781702859
+    "port": 28000
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -395,8 +395,7 @@
   {
     "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777,
-    "removed": 1781659263
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
@@ -426,8 +425,7 @@
   {
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
     "addr": "181.214.221.41",
-    "port": 7787,
-    "removed": 1781659263
+    "port": 7787
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
@@ -518,8 +516,7 @@
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620,
-    "removed": 1781702859
+    "port": 9620
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -1533,14 +1530,12 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1781702859
+    "port": 10710
   },
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1781702859
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1627,7 +1622,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781722804
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
