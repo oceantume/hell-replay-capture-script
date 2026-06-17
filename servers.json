@@ -85,12 +85,6 @@
     "port": 7777
   },
   {
-    "name": "KRTs Chilling at Camelot",
-    "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1781097945
-  },
-  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -104,6 +98,11 @@
     "name": "DKB - Event server - HLLdanmark.dk",
     "addr": "141.95.33.70",
     "port": 9075
+  },
+  {
+    "name": "BIFROST Server 1 - Amsterdam",
+    "addr": "142.91.157.28",
+    "port": 7777
   },
   {
     "name": "Babslab",
@@ -269,7 +268,8 @@
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.250",
-    "port": 28000
+    "port": 28000,
+    "removed": 1781702859
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -518,7 +518,8 @@
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620
+    "port": 9620,
+    "removed": 1781702859
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -649,7 +650,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781702859
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -882,7 +884,7 @@
     "port": 7777
   },
   {
-    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "Oktogon • Event • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1104,38 +1106,32 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
     "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "I Love Playing Apex",
     "addr": "40.27.44.15",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "(IC) Offensive Heaven | US West #1 LA | discord.gg/icoh",
     "addr": "40.27.44.16",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1195,7 +1191,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1781702859
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1536,12 +1533,14 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1781702859
   },
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1781702859
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1556,8 +1555,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1781637593
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1629,8 +1627,7 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1781683711
+    "port": 7777
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
