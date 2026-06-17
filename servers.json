@@ -286,7 +286,8 @@
   {
     "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
     "addr": "176.57.168.251",
-    "port": 28200
+    "port": 28200,
+    "removed": 1781659263
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -349,7 +350,7 @@
     "port": 28100
   },
   {
-    "name": "B&B #1 - Warfare Only - Dutch/English [New players welcome]",
+    "name": "B&B #1 - Warfare Only - Dutch/English",
     "addr": "176.57.171.38",
     "port": 28300
   },
@@ -396,7 +397,8 @@
   {
     "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781659263
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
@@ -426,7 +428,8 @@
   {
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
     "addr": "181.214.221.41",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781659263
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
@@ -1616,7 +1619,8 @@
   {
     "name": "MOB",
     "addr": "89.117.72.86",
-    "port": 30500
+    "port": 30500,
+    "removed": 1781659263
   },
   {
     "name": "HLL Server",
@@ -1715,7 +1719,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | LVL 100+ | GBG-HLL.COM ",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.2",
     "port": 7777
   },
