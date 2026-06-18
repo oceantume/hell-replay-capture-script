@@ -509,12 +509,6 @@
     "port": 8530
   },
   {
-    "name": "EG event server",
-    "addr": "185.70.107.12",
-    "port": 9075,
-    "removed": 1781164617
-  },
-  {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
     "port": 9620
@@ -648,8 +642,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1781702859
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1251,8 +1244,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1781745577
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
