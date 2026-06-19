@@ -460,10 +460,9 @@
     "port": 7777
   },
   {
-    "name": "[LATAM] Hagamos Asado en el patio del Olimpo | [AFIP]",
+    "name": "[LATAM] Hagamos Asado en el patio del olimpo [AFIP]",
     "addr": "181.214.48.81",
-    "port": 7837,
-    "removed": 1781745577
+    "port": 7837
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -519,12 +518,6 @@
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
     "addr": "188.64.33.2",
     "port": 8530
-  },
-  {
-    "name": "XIII Legion - Rubicon",
-    "addr": "191.101.30.61",
-    "port": 8530,
-    "removed": 1781250743
   },
   {
     "name": "[IG] Ironclad Guardians | NA | New Player Friendly",
@@ -877,7 +870,7 @@
     "port": 7777
   },
   {
-    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "Oktogon • Event • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1022,7 +1015,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP帝国社区 无规则冲突服 |Q637824071 JP",
+    "name": "<CN>#2 EMP帝国社区 Lv.25+无规则冲突服 |Q637824071",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1465,7 +1458,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "64.31.62.77",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781856495
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
