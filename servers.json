@@ -203,7 +203,7 @@
     "port": 7777
   },
   {
-    "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
     "port": 7787
   },
@@ -875,7 +875,7 @@
     "port": 7787
   },
   {
-    "name": "The Collective │ DE AT CH │ mic-pflicht",
+    "name": "The Collective │ GER/DE AT CH │mic-pflicht",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -1391,6 +1391,11 @@
     "port": 7777
   },
   {
+    "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "64.31.4.170",
+    "port": 7777
+  },
+  {
     "name": "UTC - New Players Welcome (ENG)",
     "addr": "64.31.4.172",
     "port": 7777
@@ -1545,8 +1550,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1781809106
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
