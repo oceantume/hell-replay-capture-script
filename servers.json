@@ -60,6 +60,11 @@
     "port": 9075
   },
   {
+    "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
+    "addr": "135.125.188.111",
+    "port": 9620
+  },
+  {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
     "port": 8982
@@ -253,6 +258,11 @@
     "addr": "176.57.135.134",
     "port": 28400,
     "removed": 1781551704
+  },
+  {
+    "name": "Hell let loose (Australia) Server by g-portal.com",
+    "addr": "176.57.135.32",
+    "port": 28300
   },
   {
     "name": "Warfrags Studios",
@@ -644,7 +654,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781980777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -864,7 +875,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "208.115.248.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1781980777
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -1298,7 +1310,7 @@
     "port": 7777
   },
   {
-    "name": "δ TOB - NA1 - Warfare 24/7 New Players Welcome!",
+    "name": "δ TOB - NA1 - Dads Let Loose Warfare Event!",
     "addr": "63.143.63.82",
     "port": 7777
   },
