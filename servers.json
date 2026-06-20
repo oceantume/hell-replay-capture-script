@@ -460,14 +460,15 @@
     "port": 7777
   },
   {
-    "name": "[LATAM] Hagamos Asado en el patio del olimpo [AFIP]",
+    "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
     "port": 7837
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
     "addr": "181.214.48.81",
-    "port": 7847
+    "port": 7847,
+    "removed": 1781918040
   },
   {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
@@ -1030,7 +1031,7 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO和RAM的六一小萝莉男娘恐龙萌新乐园PUMA Q746",
+    "name": "CN/ARO和RAM香甜软糯的小萝莉香草睦子米的恐龙萌",
     "addr": "40.27.40.151",
     "port": 7867
   },
@@ -1328,7 +1329,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
-    "port": 7787
+    "port": 7787,
+    "removed": 1781918040
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
