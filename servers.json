@@ -456,7 +456,8 @@
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
     "addr": "181.214.221.41",
-    "port": 7847
+    "port": 7847,
+    "removed": 1782028326
   },
   {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
@@ -659,8 +660,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1781980777
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1595,7 +1595,8 @@
   {
     "name": "New Players Welcome D Texas",
     "addr": "83.223.207.10",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782028326
   },
   {
     "name": "Test",
