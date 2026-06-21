@@ -1582,7 +1582,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1782067294
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1597,8 +1598,7 @@
   {
     "name": "New Players Welcome D Texas",
     "addr": "83.223.207.10",
-    "port": 28100,
-    "removed": 1782028326
+    "port": 28100
   },
   {
     "name": "Test",
