@@ -216,7 +216,8 @@
   {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782005022
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -282,7 +283,8 @@
   {
     "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
     "addr": "176.57.168.250",
-    "port": 28000
+    "port": 28000,
+    "removed": 1782005022
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -448,7 +450,8 @@
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "181.214.221.41",
-    "port": 7827
+    "port": 7827,
+    "removed": 1782005022
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -473,12 +476,14 @@
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
     "addr": "181.214.48.81",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782005022
   },
   {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
-    "port": 7837
+    "port": 7837,
+    "removed": 1782005022
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -627,7 +632,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -773,7 +778,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -798,7 +803,7 @@
     "port": 7867
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -868,7 +873,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1418,8 +1423,7 @@
   {
     "name": "UTC - New Players Welcome (ENG)",
     "addr": "64.31.4.172",
-    "port": 7777,
-    "removed": 1781982711
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
@@ -1589,6 +1593,11 @@
     "port": 28000
   },
   {
+    "name": "New Players Welcome D Texas",
+    "addr": "83.223.207.10",
+    "port": 28100
+  },
+  {
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100
@@ -1650,6 +1659,26 @@
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
     "port": 28300
+  },
+  {
+    "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
+    "addr": "89.39.161.244",
+    "port": 7777
+  },
+  {
+    "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
+    "addr": "89.39.161.244",
+    "port": 7837
+  },
+  {
+    "name": "2RB - LINHA DE FRENTE - BRASIL",
+    "addr": "89.39.161.244",
+    "port": 7847
+  },
+  {
+    "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
+    "addr": "89.39.161.244",
+    "port": 7857
   },
   {
     "name": "HLL Official - South America #03",
