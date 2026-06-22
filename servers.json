@@ -125,7 +125,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400
+    "port": 28400,
+    "removed": 1782116430
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
@@ -1633,12 +1634,6 @@
     "name": "GREYHOUND NIGHT - Blue | discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
-  },
-  {
-    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
-    "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1781511600
   },
   {
     "name": "{serverName}",
