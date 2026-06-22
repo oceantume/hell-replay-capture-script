@@ -409,17 +409,20 @@
   {
     "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
     "addr": "181.214.221.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782155661
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
     "addr": "181.214.221.212",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782155661
   },
   {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782155661
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
@@ -429,22 +432,26 @@
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "181.214.221.212",
-    "port": 7817
+    "port": 7817,
+    "removed": 1782155661
   },
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
     "addr": "181.214.221.212",
-    "port": 7847
+    "port": 7847,
+    "removed": 1782155661
   },
   {
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
     "addr": "181.214.221.41",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782155661
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
     "addr": "181.214.221.41",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782155661
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
@@ -1313,7 +1320,7 @@
     "port": 7777
   },
   {
-    "name": "δ TOB - NA1 - Dads let Loose Warfare 24/7",
+    "name": "δ TOB - NA1 - New Players Welcome - Warfare 24/7",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1578,8 +1585,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1782067294
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1594,8 +1600,7 @@
   {
     "name": "New Players Welcome D Texas",
     "addr": "83.223.207.10",
-    "port": 28100,
-    "removed": 1782091406
+    "port": 28100
   },
   {
     "name": "Test",
@@ -1646,13 +1651,33 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1781722804
+    "port": 7777
+  },
+  {
+    "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
+    "addr": "89.39.161.131",
+    "port": 7777
+  },
+  {
+    "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
+    "addr": "89.39.161.131",
+    "port": 7797
+  },
+  {
+    "name": "[CAV] CAVEIRAS BRASIL 5 | https://cavhll.com.br",
+    "addr": "89.39.161.131",
+    "port": 7807
+  },
+  {
+    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
+    "addr": "89.39.161.131",
+    "port": 7817
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
-    "port": 28300
+    "port": 28300,
+    "removed": 1782155661
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
@@ -1673,6 +1698,16 @@
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "89.39.161.244",
     "port": 7857
+  },
+  {
+    "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
+    "addr": "89.39.161.244",
+    "port": 7877
+  },
+  {
+    "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
+    "addr": "89.39.161.244",
+    "port": 7887
   },
   {
     "name": "HLL Official - South America #03",
