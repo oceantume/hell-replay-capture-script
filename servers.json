@@ -483,8 +483,7 @@
   {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
-    "port": 7837,
-    "removed": 1782005022
+    "port": 7837
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -1264,8 +1263,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1781982711
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1318,7 +1316,7 @@
     "port": 7777
   },
   {
-    "name": "δ TOB - NA1 - Dads Let Loose Warfare Event!",
+    "name": "δ TOB - NA1 - Dads let Loose Warfare 24/7",
     "addr": "63.143.63.82",
     "port": 7777
   },
@@ -1598,7 +1596,8 @@
   {
     "name": "New Players Welcome D Texas",
     "addr": "83.223.207.10",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782091406
   },
   {
     "name": "Test",
