@@ -125,8 +125,7 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400,
-    "removed": 1782116430
+    "port": 28400
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
@@ -282,10 +281,9 @@
     "port": 28000
   },
   {
-    "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
+    "name": "Test",
     "addr": "176.57.168.250",
-    "port": 28000,
-    "removed": 1782005022
+    "port": 28000
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -894,7 +892,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon • Event • [ENG/GER] #Qonzer",
+    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1181,8 +1179,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1782048832
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1192,8 +1189,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1782046365
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1536,7 +1532,8 @@
   {
     "name": "Belgium Let Loose (BLL) ● 1h games ● Min lvl officers",
     "addr": "74.63.225.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782137160
   },
   {
     "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
