@@ -137,12 +137,14 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1782220328
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
     "addr": "149.102.158.161",
-    "port": 28600
+    "port": 28600,
+    "removed": 1782220328
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -239,8 +241,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1782199727
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -255,8 +256,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1782199727
+    "port": 28100
   },
   {
     "name": "Hell let loose (Australia) Server by g-portal.com",
@@ -322,8 +322,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1782199727
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
@@ -333,8 +332,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1782199727
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -421,8 +419,7 @@
   {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
-    "port": 7797,
-    "removed": 1782155661
+    "port": 7797
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
@@ -1187,7 +1184,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1782220328
   },
   {
     "name": "HLL Official - US West #02",
@@ -1258,8 +1256,7 @@
   {
     "name": "[FR Coalition | CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKY",
     "addr": "5.196.78.45",
-    "port": 9014,
-    "removed": 1782199727
+    "port": 9014
   },
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
@@ -1340,6 +1337,11 @@
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
+  },
+  {
+    "name": "孤儿集中营无规则冲突服允许开挂",
+    "addr": "64.31.11.42",
+    "port": 8530
   },
   {
     "name": "hll Server",
@@ -1688,7 +1690,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782220328
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
