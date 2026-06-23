@@ -37,12 +37,14 @@
   {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "108.165.230.224",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782176945
   },
   {
     "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
     "addr": "108.165.230.224",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782176945
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -255,12 +257,6 @@
     "port": 28100
   },
   {
-    "name": "[ AUS/NZ Clan ] Never Really Dead [NRD] > www.Clan-NRD.com",
-    "addr": "176.57.135.134",
-    "port": 28400,
-    "removed": 1781551704
-  },
-  {
     "name": "Hell let loose (Australia) Server by g-portal.com",
     "addr": "176.57.135.32",
     "port": 28300
@@ -427,7 +423,8 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
     "addr": "181.214.221.212",
-    "port": 7807
+    "port": 7807,
+    "removed": 1782176945
   },
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
@@ -468,17 +465,20 @@
   {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
     "addr": "181.214.48.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782176945
   },
   {
     "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
     "addr": "181.214.48.19",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782176945
   },
   {
     "name": "MARRAM.COM.BR - Brasil - Primeiros 40 players ganham vip",
     "addr": "181.214.48.19",
-    "port": 7807
+    "port": 7807,
+    "removed": 1782176945
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
@@ -946,12 +946,14 @@
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "37.148.133.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782176945
   },
   {
     "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
     "addr": "37.148.133.8",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782176945
   },
   {
     "name": "NA | Get On Line | discord.gg/gol",
@@ -1553,6 +1555,36 @@
     "port": 7787
   },
   {
+    "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
+    "addr": "78.111.102.94",
+    "port": 7777
+  },
+  {
+    "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
+    "addr": "78.111.102.94",
+    "port": 7787
+  },
+  {
+    "name": "[LATAM/ESP] | CLAN CTM | #01 CHILE | ★ RECLUTANDO ★ Dsc.gg/",
+    "addr": "78.111.102.94",
+    "port": 7797
+  },
+  {
+    "name": "MARRAM.COM.BR - Brasil - Primeiros 40 players ganham vip",
+    "addr": "78.111.102.94",
+    "port": 7807
+  },
+  {
+    "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
+    "addr": "78.111.102.94",
+    "port": 7827
+  },
+  {
+    "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
+    "addr": "78.111.102.94",
+    "port": 7837
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1659,6 +1691,11 @@
     "port": 7777
   },
   {
+    "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
+    "addr": "89.39.161.131",
+    "port": 7787
+  },
+  {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "89.39.161.131",
     "port": 7797
@@ -1676,8 +1713,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br",
     "addr": "89.39.161.24",
-    "port": 28300,
-    "removed": 1782155661
+    "port": 28300
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
@@ -1698,6 +1734,11 @@
     "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
     "addr": "89.39.161.244",
     "port": 7857
+  },
+  {
+    "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
+    "addr": "89.39.161.244",
+    "port": 7867
   },
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
