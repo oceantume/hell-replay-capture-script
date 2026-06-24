@@ -119,12 +119,6 @@
     "port": 28000
   },
   {
-    "name": "F*CK YOUR FEELINGS | Patriots First | US East | Adults Only",
-    "addr": "144.126.153.213",
-    "port": 28300,
-    "removed": 1781722804
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -743,7 +737,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND | VON BLAU ZU SCHLAU | GBG-HLL.COM",
     "addr": "208.115.203.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782328816
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -894,7 +889,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 5 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "208.115.248.110",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782328816
   },
   {
     "name": "Oktogon • Event • #Qonzer",
@@ -1331,7 +1327,7 @@
     "port": 7777
   },
   {
-    "name": "孤儿集中营无规则冲突服允许开挂",
+    "name": "CN/FL前線萌新德攻投票服Q623668702",
     "addr": "64.31.11.42",
     "port": 8530
   },
