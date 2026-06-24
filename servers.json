@@ -294,12 +294,6 @@
     "port": 28100
   },
   {
-    "name": "(UA) Ukranian Bambass Dambil (ПТН ПНХ)",
-    "addr": "176.57.168.251",
-    "port": 28200,
-    "removed": 1781659263
-  },
-  {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
     "port": 28000
@@ -347,12 +341,14 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1782285897
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782285897
   },
   {
     "name": "VT1",
@@ -402,8 +398,7 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
     "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1782263216
+    "port": 8772
   },
   {
     "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
@@ -1683,12 +1678,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "MOB",
-    "addr": "89.117.72.86",
-    "port": 30500,
-    "removed": 1781659263
   },
   {
     "name": "HLL Server",
