@@ -172,10 +172,9 @@
     "port": 7787
   },
   {
-    "name": "MACV-SOG [Official] - Juno Beach 24/7",
+    "name": "Another Qonzer.com server is born!",
     "addr": "15.204.170.67",
-    "port": 7777,
-    "removed": 1781959722
+    "port": 7777
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
@@ -663,7 +662,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782326648
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -897,7 +897,7 @@
     "port": 7777
   },
   {
-    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "Oktogon • Event • #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1446,6 +1446,11 @@
     "port": 7777
   },
   {
+    "name": "孤儿集中营无规则冲突服允许开挂",
+    "addr": "64.31.51.243",
+    "port": 7777
+  },
+  {
     "name": "TPL SERVER",
     "addr": "64.31.59.74",
     "port": 7777
@@ -1621,7 +1626,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1782326648
   },
   {
     "name": "HLL Official - Asia #03",
