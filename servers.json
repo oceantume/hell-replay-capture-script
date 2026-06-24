@@ -43,7 +43,8 @@
   {
     "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
     "addr": "108.165.230.224",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782305892
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -426,8 +427,7 @@
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "181.214.221.212",
-    "port": 7817,
-    "removed": 1782155661
+    "port": 7817
   },
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
@@ -1197,8 +1197,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1782240756
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1208,7 +1207,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1782305892
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1239,12 +1239,6 @@
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
     "addr": "45.45.238.14",
     "port": 8530
-  },
-  {
-    "name": "US | 19th Battalion | Everybody Welcome | Discord.gg/19theb",
-    "addr": "45.45.238.223",
-    "port": 8530,
-    "removed": 1781683711
   },
   {
     "name": "TD4W Clan Server",
@@ -1610,6 +1604,11 @@
     "port": 8530
   },
   {
+    "name": "Battle Pandas | EU EVENT | Hosted by GTX",
+    "addr": "78.46.101.16",
+    "port": 9620
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1701,7 +1700,7 @@
     "port": 7797
   },
   {
-    "name": "[CAV] CAVEIRAS BRASIL 5 | https://cavhll.com.br",
+    "name": "[CAV] CAVEIRAS BRASIL 1 | https://cavhll.com.br",
     "addr": "89.39.161.131",
     "port": 7807
   },
