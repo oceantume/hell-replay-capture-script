@@ -521,7 +521,8 @@
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
     "addr": "188.64.33.2",
-    "port": 8530
+    "port": 8530,
+    "removed": 1782416223
   },
   {
     "name": "[IG] Ironclad Guardians | NA | New Player Friendly",
@@ -1663,7 +1664,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782416223
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
