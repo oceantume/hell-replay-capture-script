@@ -82,12 +82,6 @@
     "port": 7787
   },
   {
-    "name": "TGL - TheGulagLounge [UK-US] New Players Welcome",
-    "addr": "139.28.16.38",
-    "port": 7777,
-    "removed": 1781789029
-  },
-  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -106,12 +100,6 @@
     "name": "DKB - Event server - HLLdanmark.dk",
     "addr": "141.95.33.70",
     "port": 9075
-  },
-  {
-    "name": "BIFROST Server 1 - Amsterdam",
-    "addr": "142.91.157.28",
-    "port": 7777,
-    "removed": 1781789029
   },
   {
     "name": "Babslab",
@@ -488,26 +476,22 @@
   {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
     "addr": "185.216.144.75",
-    "port": 10165,
-    "removed": 1782392318
+    "port": 10165
   },
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255,
-    "removed": 1782392318
+    "port": 11255
   },
   {
     "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
     "addr": "185.216.144.75",
-    "port": 9085,
-    "removed": 1782392318
+    "port": 9085
   },
   {
     "name": "404 | Eventserver",
     "addr": "185.216.144.75",
-    "port": 9620,
-    "removed": 1782392318
+    "port": 9620
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -663,8 +647,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1782392318
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord/7eCie",
@@ -679,8 +662,7 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1782392318
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -695,7 +677,8 @@
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827
+    "port": 7827,
+    "removed": 1782395321
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -811,8 +794,7 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777,
-    "removed": 1782392318
+    "port": 7777
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
@@ -1410,8 +1392,7 @@
   {
     "name": "[LATAM/ESP] GNOMOS - Campeones Mundiales Islas Tiki Tiki",
     "addr": "64.31.31.125",
-    "port": 7787,
-    "removed": 1782392318
+    "port": 7787
   },
   {
     "name": "Hold The Line Miami - Powered by Caveiras",
@@ -1496,7 +1477,8 @@
   {
     "name": "Mikey's Marauders / US East / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782395321
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1507,8 +1489,7 @@
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
-    "port": 8888,
-    "removed": 1782392318
+    "port": 8888
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1529,12 +1510,6 @@
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
-  },
-  {
-    "name": "[KB] Kingdom's Event Server ★ discord.gg/kdbv",
-    "addr": "74.63.225.18",
-    "port": 7777,
-    "removed": 1781789029
   },
   {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
@@ -1690,7 +1665,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782395321
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
@@ -1825,8 +1801,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1782392318
+    "port": 7777
   },
   {
     "name": "CBMS",
