@@ -479,8 +479,7 @@
   {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
-    "port": 7837,
-    "removed": 1782263216
+    "port": 7837
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -1750,6 +1749,11 @@
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "89.39.161.244",
     "port": 7887
+  },
+  {
+    "name": "[ESP/Latam] Al enemigo ni un like",
+    "addr": "89.39.161.89",
+    "port": 7777
   },
   {
     "name": "HLL Official - South America #03",
