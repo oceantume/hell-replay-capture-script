@@ -335,14 +335,12 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1782285897
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
-    "port": 28100,
-    "removed": 1782285897
+    "port": 28100
   },
   {
     "name": "VT1",
@@ -655,8 +653,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1782326648
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1751,7 +1748,7 @@
     "port": 7887
   },
   {
-    "name": "[ESP/Latam] Al enemigo ni un like",
+    "name": "[ESP/LATAM] Cruz de Hierro",
     "addr": "89.39.161.89",
     "port": 7777
   },
