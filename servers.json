@@ -74,7 +74,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1782459131
   },
   {
     "name": "test1 g77654",
@@ -119,8 +120,7 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1782220328
+    "port": 28300
   },
   {
     "name": "[XBOX] QA Testing - UK #07",
@@ -222,7 +222,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1782459131
   },
   {
     "name": "HLL Dev Team 1",
@@ -298,7 +299,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782459131
   },
   {
     "name": "DevQA - EU #02",
@@ -323,7 +325,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1782459131
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -481,7 +484,8 @@
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1782459131
   },
   {
     "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
@@ -641,8 +645,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1782392318
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -1314,6 +1317,11 @@
     "port": 7777
   },
   {
+    "name": "VFA-33 Redmaces New Player Friendly sponsored by Redbull Gaming",
+    "addr": "64.20.50.186",
+    "port": 9075
+  },
+  {
     "name": "CN/FL前線萌新德攻投票服Q623668702",
     "addr": "64.31.11.42",
     "port": 8530
@@ -1588,7 +1596,8 @@
   {
     "name": "Battle Pandas | EU EVENT | Hosted by GTX",
     "addr": "78.46.101.16",
-    "port": 9620
+    "port": 9620,
+    "removed": 1782459131
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1663,7 +1672,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782459131
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
