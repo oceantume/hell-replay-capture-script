@@ -199,6 +199,11 @@
     "port": 7787
   },
   {
+    "name": "CN/FJ细雨清风の无规则薯条冲突服 Q1095121730",
+    "addr": "154.45.251.74",
+    "port": 7777
+  },
+  {
     "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
     "addr": "156.67.62.60",
     "port": 7777,
@@ -954,7 +959,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨社群玩家常驻",
+    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨加群送免排队",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -1487,12 +1492,6 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "64.31.62.77",
-    "port": 7777,
-    "removed": 1781856495
-  },
-  {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
@@ -1688,7 +1687,8 @@
   {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "89.39.161.131",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782478535
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #1 | https://cavhll.com.br",
