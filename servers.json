@@ -1320,7 +1320,7 @@
     "port": 7777
   },
   {
-    "name": "VFA-33 Redmaces New Player Friendly sponsored by Redbull Gaming",
+    "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
     "port": 9075
   },
@@ -1573,26 +1573,22 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1782501807
+    "port": 10165
   },
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1782501807
+    "port": 10710
   },
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1782501807
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
-    "port": 8530,
-    "removed": 1782501807
+    "port": 8530
   },
   {
     "name": "Battle Pandas | EU EVENT | Hosted by GTX",
@@ -1628,7 +1624,8 @@
   {
     "name": "New Players Welcome D Texas",
     "addr": "83.223.207.10",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782522592
   },
   {
     "name": "Test",
@@ -1873,7 +1870,7 @@
     "port": 7777
   },
   {
-    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
+    "name": "57TH TURKISH REGIMENT | ONLY ENGLISH | POWERED BY QOENZER",
     "addr": "95.135.1.39",
     "port": 7777
   },
