@@ -74,8 +74,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1782459131
+    "port": 9224
   },
   {
     "name": "test1 g77654",
@@ -217,7 +216,8 @@
   {
     "name": "Make Gaming Great Again/New Players Welcome",
     "addr": "157.250.206.202",
-    "port": 8530
+    "port": 8530,
+    "removed": 1782544619
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -472,12 +472,6 @@
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
     "port": 7837
-  },
-  {
-    "name": "2RB - LINHA DE FRENTE - BRASIL",
-    "addr": "181.214.48.81",
-    "port": 7847,
-    "removed": 1781918040
   },
   {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
@@ -1251,8 +1245,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1782501807
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1767,7 +1760,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28500
+    "port": 28500,
+    "removed": 1782544619
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
