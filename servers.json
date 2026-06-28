@@ -253,7 +253,8 @@
   {
     "name": "[FR] Division Gauloise | ADMIN ACTIF | SEED A 30",
     "addr": "176.57.140.64",
-    "port": 28100
+    "port": 28100,
+    "removed": 1782671643
   },
   {
     "name": "[ENG/EU] Band Of Brothers - Tactical & Casual (GLHF)",
@@ -396,7 +397,8 @@
   {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
-    "port": 7797
+    "port": 7797,
+    "removed": 1782671643
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL | https://cavhll.com.br",
@@ -407,7 +409,8 @@
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "181.214.221.212",
-    "port": 7817
+    "port": 7817,
+    "removed": 1782671643
   },
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
@@ -918,12 +921,12 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂萌新俱乐部丨Q群548651丨加群无需排队",
+    "name": "CN#3 TT天堂Q群548651丨加群免排队丨萌新俱乐部服",
     "addr": "40.27.40.13",
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂萌新俱乐部丨Q群548651丨国服首选推荐",
+    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨国服首选推荐",
     "addr": "40.27.40.13",
     "port": 7787
   },
