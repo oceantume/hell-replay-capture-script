@@ -203,12 +203,6 @@
     "port": 7777
   },
   {
-    "name": "Turks Let Loose︱ENG/TÜRKÇE︱turksletloose.com",
-    "addr": "156.67.62.60",
-    "port": 7777,
-    "removed": 1782005022
-  },
-  {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
@@ -324,7 +318,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1782632037
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -433,12 +428,6 @@
     "removed": 1782155661
   },
   {
-    "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
-    "addr": "181.214.221.41",
-    "port": 7827,
-    "removed": 1782005022
-  },
-  {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
     "addr": "181.214.221.41",
     "port": 7847,
@@ -463,12 +452,6 @@
     "removed": 1782176945
   },
   {
-    "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
-    "addr": "181.214.48.81",
-    "port": 7777,
-    "removed": 1782005022
-  },
-  {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
     "port": 7837
@@ -481,8 +464,7 @@
   {
     "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255,
-    "removed": 1782459131
+    "port": 11255
   },
   {
     "name": "#1-Ghosts of War»EU»New Players Welcome»Warfare",
@@ -915,7 +897,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1782632037
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1239,8 +1222,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1782587006
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
