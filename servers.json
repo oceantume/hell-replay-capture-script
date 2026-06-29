@@ -389,18 +389,6 @@
     "port": 8772
   },
   {
-    "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
-    "addr": "181.214.221.212",
-    "port": 7777,
-    "removed": 1782155661
-  },
-  {
-    "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
-    "addr": "181.214.221.212",
-    "port": 7787,
-    "removed": 1782155661
-  },
-  {
     "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
     "addr": "181.214.221.212",
     "port": 7797,
@@ -417,24 +405,6 @@
     "addr": "181.214.221.212",
     "port": 7817,
     "removed": 1782671643
-  },
-  {
-    "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
-    "addr": "181.214.221.212",
-    "port": 7847,
-    "removed": 1782155661
-  },
-  {
-    "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
-    "addr": "181.214.221.41",
-    "port": 7787,
-    "removed": 1782155661
-  },
-  {
-    "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
-    "addr": "181.214.221.41",
-    "port": 7797,
-    "removed": 1782155661
   },
   {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
@@ -627,7 +597,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782761353
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -647,8 +618,7 @@
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1782759046
+    "port": 8530
   },
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
@@ -1177,14 +1147,12 @@
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1782759046
+    "port": 10710
   },
   {
     "name": "Objective First Official [ENG] | Voice Comms and Teamwork Manda",
     "addr": "45.143.199.235",
-    "port": 10711,
-    "removed": 1782759046
+    "port": 10711
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
