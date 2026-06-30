@@ -533,7 +533,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -679,7 +679,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -705,7 +705,7 @@
     "port": 7867
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -776,7 +776,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -949,10 +949,9 @@
     "port": 7867
   },
   {
-    "name": "[CN]战锤30k 第二帝国 加群带萌新:645238170 JP",
+    "name": "[CN]BW黑色守望 :682305162",
     "addr": "40.27.40.20",
-    "port": 7777,
-    "removed": 1782824023
+    "port": 7777
   },
   {
     "name": "CN2#散人社区|妙手無规则强度进阶咖啡馆Q120748151",
