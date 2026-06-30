@@ -27,8 +27,7 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1782759046
+    "port": 7777
   },
   {
     "name": "Onlyclans Training and Scrim server",
@@ -222,8 +221,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1782459131
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -957,7 +955,8 @@
   {
     "name": "[CN]战锤30k 第二帝国 加群带萌新:645238170 JP",
     "addr": "40.27.40.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782824023
   },
   {
     "name": "CN2#散人社区|妙手無规则强度进阶咖啡馆Q120748151",
@@ -1012,7 +1011,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782824023
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1088,8 +1088,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1782740544
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1319,8 +1318,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1782759046
+    "port": 7777
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1416,7 +1414,8 @@
   {
     "name": "101st Airborne Division Milsim | discord.gg/saG4hMaUkR",
     "addr": "67.217.48.14",
-    "port": 9620
+    "port": 9620,
+    "removed": 1782824023
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
