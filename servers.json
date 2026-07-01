@@ -198,6 +198,11 @@
     "port": 7777
   },
   {
+    "name": "CN 萌新友好の机密大坝攻防服",
+    "addr": "154.45.251.75",
+    "port": 7777
+  },
+  {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
@@ -252,7 +257,8 @@
   {
     "name": "Test",
     "addr": "176.57.168.250",
-    "port": 28000
+    "port": 28000,
+    "removed": 1782868613
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -602,6 +608,11 @@
     "port": 8530
   },
   {
+    "name": "Abit of fun New player welcome",
+    "addr": "198.244.177.7",
+    "port": 9075
+  },
+  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
     "addr": "198.244.177.7",
     "port": 9620,
@@ -930,7 +941,8 @@
   {
     "name": "【CN】 战锤30k 第二帝国┃Q群645238170 日服JP节点",
     "addr": "40.27.40.151",
-    "port": 7847
+    "port": 7847,
+    "removed": 1782868613
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
@@ -1000,8 +1012,7 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777,
-    "removed": 1782824023
+    "port": 7777
   },
   {
     "name": "Merciless | Warfare | US West",
