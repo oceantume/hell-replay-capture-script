@@ -793,10 +793,9 @@
     "removed": 1782328816
   },
   {
-    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "Oktogon • Event • #Qonzer",
     "addr": "208.115.251.115",
-    "port": 7787,
-    "removed": 1782911294
+    "port": 7787
   },
   {
     "name": "The Collective │ GER/DE AT CH │mic-pflicht",
@@ -1498,7 +1497,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1782931728
+  },
+  {
+    "name": "BBSYT",
+    "addr": "83.223.197.42",
+    "port": 30700
   },
   {
     "name": "HLL Official - Asia #04",
