@@ -42,12 +42,6 @@
     "port": 8898
   },
   {
-    "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
-    "addr": "108.165.230.224",
-    "port": 7797,
-    "removed": 1782305892
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -70,8 +64,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1782891904
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -165,7 +158,7 @@
     "port": 7787
   },
   {
-    "name": "Glow's Battlegrounds :: US East :: discord.gg/glows",
+    "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7777
   },
@@ -400,7 +393,7 @@
     "port": 10165
   },
   {
-    "name": "#2 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
+    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
   },
@@ -643,7 +636,8 @@
   {
     "name": "Yeah...nah",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1782911294
   },
   {
     "name": "Ducky's Bootcamp",
@@ -801,7 +795,8 @@
   {
     "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
-    "port": 7787
+    "port": 7787,
+    "removed": 1782911294
   },
   {
     "name": "The Collective │ GER/DE AT CH │mic-pflicht",
@@ -997,7 +992,7 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: US Central :: discord.gg/glows",
+    "name": "Glow's Central · OFFENSIVE · discord.gg/glows",
     "addr": "40.27.41.6",
     "port": 7777
   },
@@ -1032,12 +1027,12 @@
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: Blueberry Dreams :: discord.gg/glows",
+    "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
     "port": 7777
   },
   {
-    "name": "Glow's Battlegrounds :: US West :: discord.gg/glows",
+    "name": "Glow's West · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.44.9",
     "port": 7777
   },
@@ -1094,7 +1089,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1782911294
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
