@@ -49,8 +49,7 @@
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
     "addr": "135.125.188.111",
-    "port": 8530,
-    "removed": 1782984386
+    "port": 8530
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -593,7 +592,8 @@
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827
+    "port": 7827,
+    "removed": 1783002096
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -759,12 +759,6 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | RARE MAPS ONLY | GBG-HLL.COM | WOL",
-    "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1782392318
-  },
-  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -795,7 +789,7 @@
     "port": 7787
   },
   {
-    "name": "Oktogon • Event • #Qonzer",
+    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -850,7 +844,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂Q群548651丨加群免排队丨萌新俱乐部服",
+    "name": "CN#3 TT天堂Q群548651丨加群免排队丨请用语音交流",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -953,7 +947,7 @@
     "port": 7867
   },
   {
-    "name": "[CN]BW黑色守望 :682305162",
+    "name": "[CN]BW黑色守望 :276245957",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1071,7 +1065,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1783002096
   },
   {
     "name": "HLL Official - US West #01",
@@ -1081,7 +1076,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1783002096
   },
   {
     "name": "HLL Official - US East #02",
@@ -1091,8 +1087,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1782911294
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1262,7 +1257,8 @@
   {
     "name": "Turks Let Loose ︱Event︱ Bize Katıl ⇒ discord.gg/TLL",
     "addr": "64.31.29.66",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783002096
   },
   {
     "name": "[GER] Frontline Network | 1",
@@ -1704,8 +1700,7 @@
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7977,
-    "removed": 1782984386
+    "port": 7977
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
