@@ -385,7 +385,8 @@
   {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "181.214.48.81",
-    "port": 7837
+    "port": 7837,
+    "removed": 1782954721
   },
   {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
@@ -683,6 +684,11 @@
     "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
+  },
+  {
+    "name": "New HLL service",
+    "addr": "208.115.211.18",
+    "port": 7777
   },
   {
     "name": "QNZR | PERF 3",
@@ -1453,7 +1459,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] La Perrera - ШД | Wardogs.cl",
+    "name": "[LATAM/ESP] La Perrera - ШД | wardogs.cl | Misiones x Vip",
     "addr": "78.111.102.94",
     "port": 7837
   },
@@ -1495,7 +1501,7 @@
     "removed": 1782931728
   },
   {
-    "name": "SSTV-DMR-SSB",
+    "name": "CQCQCQ-HAM",
     "addr": "83.223.197.42",
     "port": 30700
   },
