@@ -7,7 +7,8 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
-    "port": 7807
+    "port": 7807,
+    "removed": 1783088738
   },
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
@@ -443,7 +444,8 @@
   {
     "name": "[IG] Ironclad Guardians | NA | New Player Friendly",
     "addr": "192.169.86.106",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783088738
   },
   {
     "name": "-TL- The Line |Prep Server| Sponsored by RGN discord.gg/theline",
@@ -1058,8 +1060,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1783002096
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1069,8 +1070,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1783002096
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1561,12 +1561,6 @@
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
     "addr": "89.39.161.131",
     "port": 7787
-  },
-  {
-    "name": "『V』VANGUARDA.PRO.BR | BR | LATAM | Warfare",
-    "addr": "89.39.161.131",
-    "port": 7797,
-    "removed": 1782478535
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #1 | https://cavhll.com.br",
