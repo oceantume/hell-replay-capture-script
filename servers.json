@@ -334,7 +334,8 @@
   {
     "name": "[KB] Kingdom's Event Server",
     "addr": "176.57.174.211",
-    "port": 28000
+    "port": 28000,
+    "removed": 1783071005
   },
   {
     "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -636,10 +637,9 @@
     "port": 8908
   },
   {
-    "name": "Yeah...nah",
+    "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
     "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1782911294
+    "port": 7777
   },
   {
     "name": "Ducky's Bootcamp",
@@ -1336,7 +1336,8 @@
   {
     "name": "TPL SERVER",
     "addr": "64.31.59.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783071005
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1476,12 +1477,6 @@
     "port": 8530
   },
   {
-    "name": "Battle Pandas | EU EVENT | Hosted by GTX",
-    "addr": "78.46.101.16",
-    "port": 9620,
-    "removed": 1782459131
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1556,12 +1551,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1782459131
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
