@@ -57,7 +57,7 @@
     "port": 9075
   },
   {
-    "name": "[DE|AT|CH] Team Amazing - Deutsch/German, Mic-Pflicht",
+    "name": "[DE|AT|CH] Team Amazing https://join.teamamazing.de/",
     "addr": "135.125.188.111",
     "port": 9620
   },
@@ -553,7 +553,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1783173050
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -578,7 +579,8 @@
   {
     "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
     "addr": "193.70.122.179",
-    "port": 9620
+    "port": 9620,
+    "removed": 1783173050
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -783,7 +785,7 @@
     "port": 7787
   },
   {
-    "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
+    "name": "Oktogon • Event • #Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1053,7 +1055,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1783173050
   },
   {
     "name": "HLL Official - US West #01",
@@ -1073,7 +1076,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1783173050
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
