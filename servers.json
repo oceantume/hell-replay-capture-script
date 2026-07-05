@@ -57,7 +57,7 @@
     "port": 9075
   },
   {
-    "name": "[DE|AT|CH] Team Amazing https://join.teamamazing.de/",
+    "name": "[GER|AT|CH] Team Amazing https://join.teamamazing.de/",
     "addr": "135.125.188.111",
     "port": 9620
   },
@@ -554,8 +554,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1783173050
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
@@ -571,6 +570,11 @@
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
+  },
+  {
+    "name": "Make Gaming Great Again (NEW PLAYER FRIENDLY)",
+    "addr": "193.192.58.206",
+    "port": 28000
   },
   {
     "name": "[FR/BE Coalition | F&Co] Fossils & Company FR ONLY - discord.gg",
@@ -1133,8 +1137,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1783193089
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
