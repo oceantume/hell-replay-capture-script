@@ -57,7 +57,7 @@
     "port": 9075
   },
   {
-    "name": "[GER|AT|CH] Team Amazing https://join.teamamazing.de/",
+    "name": "[GER|AT|CH] Team Amazing join.teamamazing.de",
     "addr": "135.125.188.111",
     "port": 9620
   },
@@ -388,7 +388,8 @@
   {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
     "addr": "185.216.144.75",
-    "port": 10165
+    "port": 10165,
+    "removed": 1783243046
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
