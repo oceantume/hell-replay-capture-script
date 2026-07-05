@@ -103,6 +103,11 @@
     "removed": 1782891904
   },
   {
+    "name": "Golem's Blue Army Film Studio",
+    "addr": "144.126.153.213",
+    "port": 28200
+  },
+  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28400
@@ -614,12 +619,6 @@
     "port": 9075
   },
   {
-    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll - New Players ☆",
-    "addr": "198.244.177.7",
-    "port": 9620,
-    "removed": 1782650378
-  },
-  {
     "name": "CN「CZS」超质数中队训练服",
     "addr": "203.10.98.103",
     "port": 8888
@@ -1061,8 +1060,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1783173050
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1072,7 +1070,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1783259848
   },
   {
     "name": "HLL Official - US East #02",
@@ -1082,8 +1081,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1783173050
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1258,7 +1256,7 @@
     "removed": 1783002096
   },
   {
-    "name": "[GER] Frontline Network | 1",
+    "name": "[GER] Frontline Network | 1 | fln.gg",
     "addr": "64.31.29.68",
     "port": 7777
   },
