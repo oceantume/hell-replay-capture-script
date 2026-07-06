@@ -31,12 +31,6 @@
     "removed": 1782826692
   },
   {
-    "name": "Onlyclans Training and Scrim server",
-    "addr": "103.62.51.134",
-    "port": 8888,
-    "removed": 1782759046
-  },
-  {
     "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
     "addr": "103.62.51.218",
     "port": 8898
@@ -176,7 +170,8 @@
   {
     "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
     "addr": "152.114.195.150",
-    "port": 7807
+    "port": 7807,
+    "removed": 1783368453
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -191,7 +186,8 @@
   {
     "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.151",
-    "port": 7787
+    "port": 7787,
+    "removed": 1783368453
   },
   {
     "name": "CN/FJ细雨清风の无规则薯条冲突服 Q1095121730",
@@ -242,12 +238,6 @@
     "name": "[FR] Opération Fer de Lance | FR ONLY | ADMIN ACTIF |",
     "addr": "176.57.140.64",
     "port": 28100
-  },
-  {
-    "name": "[ENG/EU] Band Of Brothers - Tactical & Casual (GLHF)",
-    "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1782759046
   },
   {
     "name": "Test",
@@ -630,7 +620,8 @@
   {
     "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783368453
   },
   {
     "name": "Ducky's Bootcamp",
@@ -777,6 +768,11 @@
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
     "port": 7787
+  },
+  {
+    "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
+    "addr": "208.115.251.114",
+    "port": 7777
   },
   {
     "name": "#2 Oktogon • Discord.gg/Oktogon • [ENG/GER] #Qonzer",
@@ -1120,7 +1116,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1783368453
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1293,6 +1290,16 @@
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "64.31.4.170",
     "port": 7777
+  },
+  {
+    "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
+    "addr": "64.31.4.170",
+    "port": 7807
+  },
+  {
+    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "64.31.4.171",
+    "port": 7787
   },
   {
     "name": "UTC - New Players Welcome (ENG)",
