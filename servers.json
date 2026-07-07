@@ -25,12 +25,6 @@
     "port": 7807
   },
   {
-    "name": "HLL Server",
-    "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1782826692
-  },
-  {
     "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
     "addr": "103.62.51.218",
     "port": 8898
@@ -675,12 +669,6 @@
     "port": 7777
   },
   {
-    "name": "QNZR | PERF 3",
-    "addr": "208.115.211.18",
-    "port": 7787,
-    "removed": 1782826692
-  },
-  {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
@@ -1040,14 +1028,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1783352999
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1783352999
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1057,12 +1043,14 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1783436042
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1783436042
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1297,6 +1285,11 @@
     "port": 7807
   },
   {
+    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "addr": "64.31.4.170",
+    "port": 7827
+  },
+  {
     "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "64.31.4.171",
     "port": 7787
@@ -1381,12 +1374,6 @@
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "67.217.48.14",
     "port": 11800
-  },
-  {
-    "name": "101st Airborne Division Milsim | discord.gg/saG4hMaUkR",
-    "addr": "67.217.48.14",
-    "port": 9620,
-    "removed": 1782824023
   },
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
