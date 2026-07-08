@@ -319,7 +319,8 @@
   {
     "name": "The Fallen Legion /Mikrophone Plicht German",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1783539913
   },
   {
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
@@ -1374,6 +1375,11 @@
     "port": 7787
   },
   {
+    "name": "BAE TestCenter",
+    "addr": "74.63.225.18",
+    "port": 7777
+  },
+  {
     "name": "³³¹ Blitz Bash - Discord.gg/331st",
     "addr": "74.63.225.18",
     "port": 7787
@@ -1446,7 +1452,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783539913
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1456,8 +1463,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1783352999
+    "port": 28300
   },
   {
     "name": "CQCQCQ-HAM",
