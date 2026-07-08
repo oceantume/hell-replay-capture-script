@@ -85,12 +85,6 @@
     "port": 9075
   },
   {
-    "name": "Babslab",
-    "addr": "144.126.153.213",
-    "port": 28000,
-    "removed": 1782891904
-  },
-  {
     "name": "Golem's Blue Army Film Studio",
     "addr": "144.126.153.213",
     "port": 28200
@@ -297,7 +291,8 @@
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
     "addr": "176.57.171.158",
-    "port": 28100
+    "port": 28100,
+    "removed": 1783499970
   },
   {
     "name": "VT1",
@@ -391,7 +386,8 @@
   {
     "name": "[FD] - Русский Сервер | [EVENT]",
     "addr": "185.70.107.12",
-    "port": 11255
+    "port": 11255,
+    "removed": 1783499970
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
