@@ -317,6 +317,11 @@
     "removed": 1783137110
   },
   {
+    "name": "The Fallen Legion /Mikrophone Plicht German",
+    "addr": "176.57.174.211",
+    "port": 28200
+  },
+  {
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
     "addr": "176.57.174.211",
     "port": 28300
@@ -1032,14 +1037,12 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1783436042
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1783436042
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1200,7 +1203,8 @@
   {
     "name": "[TOG] The Old Guard Official HLL Server [VA]",
     "addr": "64.31.2.221",
-    "port": 7787
+    "port": 7787,
+    "removed": 1783521111
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1440,6 +1444,11 @@
     "port": 8530
   },
   {
+    "name": "HLL Server",
+    "addr": "83.11.123.49",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1588,12 +1597,14 @@
   {
     "name": "Excel Spreadsheets",
     "addr": "92.118.18.100",
-    "port": 7827
+    "port": 7827,
+    "removed": 1783521111
   },
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1783521111
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
