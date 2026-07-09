@@ -313,8 +313,7 @@
   {
     "name": "The Fallen Legion /Mikrophone Plicht German",
     "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1783539913
+    "port": 28200
   },
   {
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
@@ -435,7 +434,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - Green | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -1429,7 +1428,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783626999
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1493,7 +1493,7 @@
     "port": 7777
   },
   {
-    "name": "GREYHOUND EVENT #1 sponsored by Melnikov",
+    "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
   },
@@ -1513,7 +1513,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] | URANIUM | HARDCORE +100 LVL RANKED (Pronto)",
+    "name": "[LATAM/ESP] | URANIUM | HARDCORE +100 LVL RANKED",
     "addr": "89.39.161.131",
     "port": 7797
   },
