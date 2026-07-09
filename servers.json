@@ -490,7 +490,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -648,7 +648,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -673,7 +673,7 @@
     "port": 7867
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -738,7 +738,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1028,7 +1028,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
+    "name": "[FR] LEGION XIII | Match en cours",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1193,12 +1193,6 @@
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
-  },
-  {
-    "name": "Turks Let Loose ︱Event︱ Bize Katıl ⇒ discord.gg/TLL",
-    "addr": "64.31.29.66",
-    "port": 7777,
-    "removed": 1783002096
   },
   {
     "name": "[GER] Frontline Network | 1 | fln.gg",
@@ -1455,7 +1449,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1783610834
   },
   {
     "name": "HLL Official - Asia #03",
