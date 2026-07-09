@@ -353,12 +353,6 @@
     "port": 8772
   },
   {
-    "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
-    "addr": "181.214.48.81",
-    "port": 7837,
-    "removed": 1782954721
-  },
-  {
     "name": "[UK/ENG] Haxs, Lies & Bad Aim",
     "addr": "185.216.144.75",
     "port": 10165,
@@ -900,7 +894,7 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO/RAM嘴硬体软傲娇猫娘睦子米的调教乐园",
+    "name": "CN/ARO＆RAM嘴硬体软傲娇雌小鬼沐芷米的恐龙游乐",
     "addr": "40.27.40.151",
     "port": 7867
   },
@@ -1256,7 +1250,8 @@
   {
     "name": "[ES/BR/EN] | URANIUM HARDCORE | OFFLINE | LVL +100",
     "addr": "64.31.31.125",
-    "port": 7787
+    "port": 7787,
+    "removed": 1783569678
   },
   {
     "name": "Hold The Line Miami - Powered by Caveiras",
@@ -1536,6 +1531,11 @@
     "port": 7787
   },
   {
+    "name": "[LATAM/ESP] | URANIUM | HARDCORE +100 LVL RANKED (Pronto)",
+    "addr": "89.39.161.131",
+    "port": 7797
+  },
+  {
     "name": "[CAV] CAVEIRAS BRASIL #1 | https://cavhll.com.br",
     "addr": "89.39.161.131",
     "port": 7807
@@ -1605,6 +1605,11 @@
     "addr": "92.118.18.100",
     "port": 7827,
     "removed": 1783521111
+  },
+  {
+    "name": "LOW.MS Testing",
+    "addr": "92.118.18.104",
+    "port": 7777
   },
   {
     "name": "End of Existence | VoidExistence.com",
