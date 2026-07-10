@@ -1089,8 +1089,7 @@
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1783656086
+    "port": 8530
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
@@ -1291,12 +1290,6 @@
     "port": 7777
   },
   {
-    "name": "TPL SERVER",
-    "addr": "64.31.59.74",
-    "port": 7777,
-    "removed": 1783071005
-  },
-  {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
@@ -1476,7 +1469,8 @@
   {
     "name": "The Gang Is All Here",
     "addr": "83.223.207.50",
-    "port": 28700
+    "port": 28700,
+    "removed": 1783676910
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1491,8 +1485,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1783656086
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
