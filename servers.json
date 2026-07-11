@@ -738,7 +738,8 @@
   {
     "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
     "addr": "208.115.251.114",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783777390
   },
   {
     "name": "#2 OKT︱New Player Friendly︱ENG/GER︱#Qonzer",
@@ -1004,7 +1005,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1783777390
   },
   {
     "name": "HLL Official - US East #02",
@@ -1139,7 +1141,8 @@
   {
     "name": "Make Gaming Great Again/New Players Welcome",
     "addr": "64.31.10.210",
-    "port": 8530
+    "port": 8530,
+    "removed": 1783777390
   },
   {
     "name": "CN/FL前線萌新德攻投票服Q623668702",
@@ -1406,8 +1409,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777,
-    "removed": 1783626999
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
