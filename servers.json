@@ -275,7 +275,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1783757182
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -303,12 +304,6 @@
     "addr": "176.57.174.211",
     "port": 28000,
     "removed": 1783193089
-  },
-  {
-    "name": "Dutch Let Loose #2 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
-    "addr": "176.57.174.211",
-    "port": 28100,
-    "removed": 1783137110
   },
   {
     "name": "The Fallen Legion /Mikrophone Plicht German",
@@ -763,7 +758,8 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787
+    "port": 7787,
+    "removed": 1783757182
   },
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
@@ -1104,12 +1100,6 @@
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 11255
-  },
-  {
-    "name": "Moon",
-    "addr": "54.37.129.102",
-    "port": 7787,
-    "removed": 1783137110
   },
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
