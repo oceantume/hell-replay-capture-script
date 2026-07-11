@@ -87,7 +87,8 @@
   {
     "name": "Golem's Blue Army Film Studio",
     "addr": "144.126.153.213",
-    "port": 28200
+    "port": 28200,
+    "removed": 1783797342
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -534,12 +535,6 @@
     "port": 8530
   },
   {
-    "name": "[FR Only] Les Coqs Enragés [LCE] - discord.gg/lescoqsenrages",
-    "addr": "193.70.122.179",
-    "port": 9620,
-    "removed": 1783173050
-  },
-  {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
@@ -552,7 +547,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1783797342
   },
   {
     "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
@@ -736,10 +732,9 @@
     "port": 7787
   },
   {
-    "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
+    "name": "KB | Fields of Fire ★ New Players Welcome | discord.gg/kbdc",
     "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1783777390
+    "port": 7777
   },
   {
     "name": "#2 OKT︱New Player Friendly︱ENG/GER︱#Qonzer",
@@ -1071,7 +1066,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1783797342
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1409,7 +1405,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783797342
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1500,12 +1497,14 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #1 | https://cavhll.com.br",
     "addr": "89.39.161.131",
-    "port": 7807
+    "port": 7807,
+    "removed": 1783797342
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
     "addr": "89.39.161.131",
-    "port": 7817
+    "port": 7817,
+    "removed": 1783797342
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
@@ -1540,12 +1539,14 @@
   {
     "name": "彡 MIB 彡 Primeiros 45 players = VIP (BRASIL)",
     "addr": "89.39.161.244",
-    "port": 7877
+    "port": 7877,
+    "removed": 1783797342
   },
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "89.39.161.244",
-    "port": 7887
+    "port": 7887,
+    "removed": 1783797342
   },
   {
     "name": "[ESP/LATAM] Cruz de Hierro",
