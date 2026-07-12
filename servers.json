@@ -336,12 +336,6 @@
     "port": 8772
   },
   {
-    "name": "[UK/ENG] Haxs, Lies & Bad Aim",
-    "addr": "185.216.144.75",
-    "port": 10165,
-    "removed": 1783243046
-  },
-  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
@@ -556,6 +550,12 @@
   {
     "name": "CN「CZS」超质数中队训练服",
     "addr": "203.10.98.103",
+    "port": 8888,
+    "removed": 1783863851
+  },
+  {
+    "name": "CN「CZS」超质数中队训练服",
+    "addr": "203.10.98.14",
     "port": 8888
   },
   {
@@ -992,18 +992,19 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1783777390
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1783863851
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1783863851
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1058,8 +1059,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1783797342
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1534,8 +1534,7 @@
   {
     "name": "[LATAM] Hagamos Garris ★ RONIN CAMPEÓN LATAM ★ RECLUTANDO",
     "addr": "89.39.161.244",
-    "port": 7887,
-    "removed": 1783797342
+    "port": 7887
   },
   {
     "name": "[ESP/LATAM] Cruz de Hierro",
