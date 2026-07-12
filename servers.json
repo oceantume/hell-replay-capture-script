@@ -296,7 +296,7 @@
     "port": 28100
   },
   {
-    "name": "B&B #1 - Warfare Only - Dutch/English",
+    "name": "B&B #1 - Warfare - Dutch/English [New players welcome]",
     "addr": "176.57.171.38",
     "port": 28300
   },
@@ -316,7 +316,7 @@
     "port": 28500
   },
   {
-    "name": "[GER] Das Bollwerk! - TTV ✠ Mic Only ✠",
+    "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
     "addr": "176.57.181.105",
     "port": 28200
   },
@@ -571,7 +571,8 @@
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.51",
-    "port": 8908
+    "port": 8908,
+    "removed": 1783883741
   },
   {
     "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
@@ -785,7 +786,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂Q群548651丨加群免排队丨请用语音交流",
+    "name": "CN#3 TT天堂Q群548651丨加群免排队丨为中国服争光",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -1408,7 +1409,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1783883741
   },
   {
     "name": "CQCQCQ-HAM",
