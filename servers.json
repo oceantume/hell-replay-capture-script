@@ -1003,14 +1003,12 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1783863851
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1783863851
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1323,8 +1321,7 @@
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
-    "port": 7787,
-    "removed": 1783935659
+    "port": 7787
   },
   {
     "name": "BAE TestCenter",
@@ -1404,8 +1401,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777,
-    "removed": 1783797342
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
