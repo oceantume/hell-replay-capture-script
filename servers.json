@@ -301,6 +301,11 @@
     "port": 28300
   },
   {
+    "name": "[BALKAN FRONT] Hell Let Loose | MIC & TEAMPLAY",
+    "addr": "176.57.174.211",
+    "port": 28100
+  },
+  {
     "name": "The Fallen Legion /Mikrophone Plicht German",
     "addr": "176.57.174.211",
     "port": 28200
@@ -1411,8 +1416,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1783883741
+    "port": 28300
   },
   {
     "name": "CQCQCQ-HAM",
@@ -1422,7 +1426,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1783971562
   },
   {
     "name": "HLL Official - Asia #03",
