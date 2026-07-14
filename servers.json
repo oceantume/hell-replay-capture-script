@@ -268,8 +268,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1783999046
+    "port": 28400
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -288,7 +287,7 @@
     "port": 28300
   },
   {
-    "name": "[BALKAN FRONT] Hell Let Loose | MIC & TEAMPLAY",
+    "name": "★ [BALKAN FRONT] ★ BHS | MIC | TEAMPLAY",
     "addr": "176.57.174.211",
     "port": 28100
   },
@@ -460,7 +459,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -524,7 +523,8 @@
   {
     "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
     "addr": "194.180.207.89",
-    "port": 7827
+    "port": 7827,
+    "removed": 1784057817
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -567,6 +567,11 @@
     "addr": "203.23.178.51",
     "port": 8908,
     "removed": 1783883741
+  },
+  {
+    "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
+    "addr": "208.115.201.22",
+    "port": 7827
   },
   {
     "name": "Ducky's Bootcamp",
@@ -614,7 +619,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -639,7 +644,7 @@
     "port": 7867
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -704,7 +709,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1411,8 +1416,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1783971562
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1476,7 +1480,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] | URANIUM | OFENSIVA / SKIRMISH",
+    "name": "[LATAM/ESP] | URANIUM | RANKED | Primeros 50 Players VIP",
     "addr": "89.39.161.131",
     "port": 7797
   },
