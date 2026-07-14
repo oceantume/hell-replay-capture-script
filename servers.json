@@ -52,12 +52,14 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1783999046
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1783999046
   },
   {
     "name": "test1 g77654",
@@ -151,12 +153,6 @@
     "port": 7787
   },
   {
-    "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
-    "addr": "152.114.195.150",
-    "port": 7807,
-    "removed": 1783368453
-  },
-  {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "152.114.195.150",
     "port": 7827,
@@ -166,12 +162,6 @@
     "name": "[ESP] BxB - Black Bees - Event Server",
     "addr": "152.114.195.151",
     "port": 7777
-  },
-  {
-    "name": "#4 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
-    "addr": "152.114.195.151",
-    "port": 7787,
-    "removed": 1783368453
   },
   {
     "name": "CN/FJ细雨清风の无规则薯条冲突服 Q1095121730",
@@ -282,7 +272,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1783999046
   },
   {
     "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
@@ -338,7 +329,8 @@
   {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
     "addr": "181.214.149.21",
-    "port": 8772
+    "port": 8772,
+    "removed": 1783999046
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -492,10 +484,9 @@
     "port": 7787
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #2 ★ Allez les Bleus! ☆☆",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1783935659
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord/7eCie",
@@ -504,22 +495,19 @@
     "removed": 1783935659
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #1 ★ Bon 14 Juillet!",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1783935659
+    "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #3 ★ Bon 14 Juillet!",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1783935659
+    "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord/7eCie",
+    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ Allez les Bleus! ☆☆",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1783935659
+    "port": 7777
   },
   {
     "name": "Make Gaming Great Again (NEW PLAYER FRIENDLY)",
@@ -583,12 +571,6 @@
     "addr": "203.23.178.51",
     "port": 8908,
     "removed": 1783883741
-  },
-  {
-    "name": "KB | Fields of Fire ★ New Players Welcome | kb-dc.eu",
-    "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1783368453
   },
   {
     "name": "Ducky's Bootcamp",
@@ -763,7 +745,8 @@
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
     "addr": "208.115.255.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783999046
   },
   {
     "name": "Match server PUMA",
@@ -1324,6 +1307,11 @@
     "port": 11800
   },
   {
+    "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
+    "addr": "67.217.48.14",
+    "port": 8772
+  },
+  {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1406,7 +1394,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777
+    "port": 7777,
+    "removed": 1783999046
   },
   {
     "name": "HLL Official - Asia #01",
