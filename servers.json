@@ -271,12 +271,6 @@
     "port": 28400
   },
   {
-    "name": "ØVER ︱Balkan/EU Hell Let Loose//discord.gg/over-balkan",
-    "addr": "176.57.171.158",
-    "port": 28100,
-    "removed": 1783499970
-  },
-  {
     "name": "VT1",
     "addr": "176.57.171.38",
     "port": 28100
@@ -328,6 +322,11 @@
     "removed": 1783999046
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.216.144.75",
+    "port": 10165
+  },
+  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255
@@ -351,12 +350,6 @@
     "name": "[BWR] Event Server RUS",
     "addr": "185.70.107.12",
     "port": 10710
-  },
-  {
-    "name": "[FD] - Русский Сервер | [EVENT]",
-    "addr": "185.70.107.12",
-    "port": 11255,
-    "removed": 1783499970
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
@@ -861,7 +854,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP帝国社区 Lv.25+无规则冲突服 |Q637824071",
+    "name": "<CN>#2 EMP&GR帝国社区 Lv.25+无规则冲突服 |Q637824071",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1011,7 +1004,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
+    "name": "[FR] LEGION XIII | Match en cours",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1098,12 +1091,14 @@
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1784123965
   },
   {
     "name": "BR1 (Big Red 1 Gaming) Event Server -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797
+    "port": 7797,
+    "removed": 1784123965
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM | Fast Loadouts discord.gg/btb",
@@ -1113,7 +1108,8 @@
   {
     "name": "δ TOB - NA1 - New Players Welcome - Warfare 24/7",
     "addr": "63.143.63.82",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784123965
   },
   {
     "name": "♤CtrlAlt-Defeat NA1 New Players Welcome",
