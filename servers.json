@@ -1158,12 +1158,6 @@
     "port": 7777
   },
   {
-    "name": "[TOG] The Old Guard Official HLL Server [VA]",
-    "addr": "64.31.2.221",
-    "port": 7787,
-    "removed": 1783521111
-  },
-  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1402,8 +1396,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777,
-    "removed": 1783999046
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1413,7 +1406,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1784143372
   },
   {
     "name": "CQCQCQ-HAM",
@@ -1562,21 +1556,9 @@
     "port": 28400
   },
   {
-    "name": "Excel Spreadsheets",
-    "addr": "92.118.18.100",
-    "port": 7827,
-    "removed": 1783521111
-  },
-  {
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
     "port": 7777
-  },
-  {
-    "name": "End of Existence | VoidExistence.com",
-    "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1783521111
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
