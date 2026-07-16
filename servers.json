@@ -324,7 +324,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.216.144.75",
-    "port": 10165
+    "port": 10165,
+    "removed": 1784190322
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -1197,12 +1198,6 @@
     "port": 7777
   },
   {
-    "name": "[ES/BR/EN] | URANIUM HARDCORE | OFFLINE | LVL +100",
-    "addr": "64.31.31.125",
-    "port": 7787,
-    "removed": 1783569678
-  },
-  {
     "name": "Hold The Line Miami - Powered by Caveiras",
     "addr": "64.31.31.126",
     "port": 7787
@@ -1395,6 +1390,11 @@
   },
   {
     "name": "HLL Server",
+    "addr": "83.11.111.83",
+    "port": 7777
+  },
+  {
+    "name": "HLL Server",
     "addr": "83.11.123.49",
     "port": 7777,
     "removed": 1784172227
@@ -1411,7 +1411,7 @@
     "removed": 1784143372
   },
   {
-    "name": "CQCQCQ-HAM",
+    "name": "CN#CQ-HAM Frontline LOHAS",
     "addr": "83.223.197.42",
     "port": 30700
   },
