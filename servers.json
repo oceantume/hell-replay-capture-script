@@ -459,7 +459,8 @@
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
     "addr": "193.160.22.140",
-    "port": 7787
+    "port": 7787,
+    "removed": 1784172227
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
@@ -854,7 +855,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP&GR帝国社区 Lv.25+无规则冲突服 |Q637824071",
+    "name": "<CN>#2 EMP&GR&DB帝国社区 Lv.25+无规则冲突服 |Q6378240",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1004,7 +1005,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Match en cours",
+    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1091,14 +1092,12 @@
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7787,
-    "removed": 1784123965
+    "port": 7787
   },
   {
     "name": "BR1 (Big Red 1 Gaming) Event Server -- discord.gg/br1",
     "addr": "63.143.56.2",
-    "port": 7797,
-    "removed": 1784123965
+    "port": 7797
   },
   {
     "name": "Bob The Builder OFFICIAL XP FARM | Fast Loadouts discord.gg/btb",
@@ -1386,7 +1385,8 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255
+    "port": 11255,
+    "removed": 1784172227
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
@@ -1396,7 +1396,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.123.49",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784172227
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1558,7 +1559,8 @@
   {
     "name": "LOW.MS Testing",
     "addr": "92.118.18.104",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784172227
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
