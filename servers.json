@@ -1068,6 +1068,11 @@
     "port": 9014
   },
   {
+    "name": "Hell Let Loose Server",
+    "addr": "51.161.174.148",
+    "port": 7797
+  },
+  {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
@@ -1257,7 +1262,8 @@
   {
     "name": "Academia de Guerra - 7DL",
     "addr": "64.31.40.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784276493
   },
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1567,6 +1573,11 @@
     "name": "[ESP/LATAM] Cruz de Hierro",
     "addr": "89.39.161.89",
     "port": 7777
+  },
+  {
+    "name": "Academia de Guerra - 7DL",
+    "addr": "89.39.161.89",
+    "port": 7787
   },
   {
     "name": "HLL Official - South America #03",
