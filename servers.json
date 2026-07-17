@@ -75,6 +75,11 @@
     "port": 7777
   },
   {
+    "name": "KB | Tales of Night ★ discord.gg/kbdc",
+    "addr": "139.28.17.148",
+    "port": 7777
+  },
+  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -921,6 +926,11 @@
     "port": 7777
   },
   {
+    "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
+    "addr": "40.27.41.7",
+    "port": 7777
+  },
+  {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
     "port": 7777
@@ -1049,7 +1059,8 @@
   {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1784258794
   },
   {
     "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
@@ -1281,7 +1292,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784258794
   },
   {
     "name": "Oceanic Ocelots | U.S. West",
@@ -1374,7 +1386,7 @@
     "port": 7827
   },
   {
-    "name": "[LATAM/ESP] La Perrera - ШД | wardogs.cl | Misiones x Vip",
+    "name": "ШД | wardogs.cl - La Perrera | Misiones x Vip [LATAM/ESP]",
     "addr": "78.111.102.94",
     "port": 7837
   },
@@ -1391,8 +1403,7 @@
   {
     "name": "WAR - Events",
     "addr": "78.46.101.16",
-    "port": 11255,
-    "removed": 1784172227
+    "port": 11255
   },
   {
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
