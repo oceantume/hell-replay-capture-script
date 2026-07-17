@@ -650,7 +650,7 @@
     "port": 7787
   },
   {
-    "name": "[FR] Les Branquignols | Opening Soon",
+    "name": "[FR] 151ème Régiment d'infanterie | discord : https://discord",
     "addr": "208.115.214.218",
     "port": 7777
   },
@@ -1184,6 +1184,11 @@
     "port": 7777
   },
   {
+    "name": "HDC Test Server",
+    "addr": "64.31.2.220",
+    "port": 7777
+  },
+  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1418,8 +1423,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.111.83",
-    "port": 7777,
-    "removed": 1784211052
+    "port": 7777
   },
   {
     "name": "HLL Server",
