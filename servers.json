@@ -1013,8 +1013,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1784211052
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1068,7 +1067,7 @@
     "port": 9014
   },
   {
-    "name": "Hell Let Loose Server",
+    "name": "Hell Let Loose Australian Server",
     "addr": "51.161.174.148",
     "port": 7797
   },
@@ -1469,12 +1468,6 @@
     "port": 28500
   },
   {
-    "name": "The Gang Is All Here",
-    "addr": "83.223.207.50",
-    "port": 28700,
-    "removed": 1783676910
-  },
-  {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -1718,7 +1711,8 @@
   {
     "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
     "addr": "95.135.1.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784296455
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
