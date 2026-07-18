@@ -460,7 +460,8 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784402039
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -631,7 +632,8 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877
+    "port": 7877,
+    "removed": 1784402039
   },
   {
     "name": "New HLL service",
@@ -661,7 +663,8 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1784402039
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -726,7 +729,8 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.107",
-    "port": 7797
+    "port": 7797,
+    "removed": 1784402039
   },
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
@@ -930,7 +934,7 @@
     "port": 7777
   },
   {
-    "name": "Syndicated Sweatiness | 3 days VIP4Seed | 25+",
+    "name": "Syndicate|LVL 50+|Competitive Public Server",
     "addr": "40.27.42.8",
     "port": 7777
   },
@@ -1150,12 +1154,6 @@
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
     "port": 9075
-  },
-  {
-    "name": "Make Gaming Great Again/New Players Welcome",
-    "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1783777390
   },
   {
     "name": "CN/FL前線萌新德攻投票服Q623668702",
