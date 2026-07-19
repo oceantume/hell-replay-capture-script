@@ -603,7 +603,7 @@
     "port": 7777
   },
   {
-    "name": "#1 OKT︱ENG/GER︱ELO 1000+ 18:00︱1200+ 19:00︱#Qonzer",
+    "name": "#1 OKT︱No Player Friendly︱High ELO 18:00︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -710,7 +710,8 @@
   {
     "name": "Richter Scale Gaming",
     "addr": "208.115.247.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784468438
   },
   {
     "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
@@ -1006,7 +1007,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1784468438
   },
   {
     "name": "HLL Official - US East #03",
@@ -1171,7 +1173,7 @@
     "port": 7777
   },
   {
-    "name": "HDC Test Server",
+    "name": "HDC | Offensive Only | US East | discord.gg/HDC",
     "addr": "64.31.2.220",
     "port": 7777
   },
