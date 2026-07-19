@@ -530,12 +530,6 @@
   },
   {
     "name": "CN「CZS」超质数中队训练服",
-    "addr": "203.10.98.103",
-    "port": 8888,
-    "removed": 1783863851
-  },
-  {
-    "name": "CN「CZS」超质数中队训练服",
     "addr": "203.10.98.14",
     "port": 8888
   },
@@ -547,7 +541,13 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.2",
-    "port": 8888
+    "port": 8888,
+    "removed": 1784488571
+  },
+  {
+    "name": "HCIA EU 2 - Powered by Streamline",
+    "addr": "203.23.178.2",
+    "port": 8908
   },
   {
     "name": "Streamline Test",
@@ -559,12 +559,6 @@
     "addr": "203.23.178.51",
     "port": 8888,
     "removed": 1784104009
-  },
-  {
-    "name": "HCIA EU 2 - Powered by Streamline",
-    "addr": "203.23.178.51",
-    "port": 8908,
-    "removed": 1783883741
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -603,7 +597,7 @@
     "port": 7777
   },
   {
-    "name": "#1 OKT︱No Player Friendly︱High ELO 18:00︱#Qonzer",
+    "name": "#1 OKT︱Not Player Friendly︱High ELO 18:00︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -917,7 +911,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
     "addr": "40.27.41.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784488571
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1074,7 +1069,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1784488571
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1430,7 +1426,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1784488571
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
@@ -1490,14 +1487,12 @@
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
     "addr": "89.39.161.131",
-    "port": 7777,
-    "removed": 1784432181
+    "port": 7777
   },
   {
     "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
     "addr": "89.39.161.131",
-    "port": 7787,
-    "removed": 1784432181
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] | URANIUM | RANKED | Primeros 50 Players VIP",
@@ -1508,20 +1503,17 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #1 | https://cavhll.com.br",
     "addr": "89.39.161.131",
-    "port": 7807,
-    "removed": 1784432181
+    "port": 7807
   },
   {
     "name": "彡 MIB 彡 TOCA DA ONÇA // EVENTOS 2.0",
     "addr": "89.39.161.131",
-    "port": 7817,
-    "removed": 1784432181
+    "port": 7817
   },
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "89.39.161.131",
-    "port": 7837,
-    "removed": 1784432181
+    "port": 7837
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
