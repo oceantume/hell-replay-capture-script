@@ -5,7 +5,7 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "#1MSU",
     "addr": "103.193.80.15",
     "port": 7777
   },
@@ -546,9 +546,15 @@
     "removed": 1784488571
   },
   {
+    "name": "HCIA EU 1 - Powered by Streamline",
+    "addr": "203.23.178.2",
+    "port": 8898
+  },
+  {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.2",
-    "port": 8908
+    "port": 8908,
+    "removed": 1784577044
   },
   {
     "name": "Streamline Test",
@@ -1426,8 +1432,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1784488571
+    "port": 28300
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
@@ -1689,7 +1694,8 @@
   {
     "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
     "addr": "95.135.1.39",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784577044
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | ALL MAPS | GBG-HLL.COM | GER ENG |",
