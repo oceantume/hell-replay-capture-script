@@ -22,12 +22,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1784642993
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1784642993
   },
   {
     "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
@@ -448,8 +450,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1784623173
+    "port": 7777
   },
   {
     "name": "[13SNC] #1 - Dírty's Heroes LVL 75+ 19:00-23:00 CET",
@@ -991,19 +992,18 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1784557453
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1784642993
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1784468438
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
