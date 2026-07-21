@@ -252,8 +252,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1784557453
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -314,12 +313,6 @@
     "name": "FR | TDA – Respect du Jeu – Micro obligatoire – No Stream",
     "addr": "178.33.122.90",
     "port": 8530
-  },
-  {
-    "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
-    "addr": "181.214.149.21",
-    "port": 8772,
-    "removed": 1783999046
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -520,7 +513,7 @@
     "port": 20900
   },
   {
-    "name": "Dutch Let Loose #1 [DLL] - WARFARE ONLY - DUTCH/ENGLISH - [NEDE",
+    "name": "Dutch Let Loose #1 [DLL] - [NEW OWNERS] - DUTCH/ENGLISH - [NEDE",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -553,8 +546,7 @@
   {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.2",
-    "port": 8908,
-    "removed": 1784577044
+    "port": 8908
   },
   {
     "name": "Streamline Test",
@@ -917,7 +909,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | discord.gg/pureinvasion",
     "addr": "40.27.41.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784604601
   },
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -1694,8 +1687,7 @@
   {
     "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
     "addr": "95.135.1.39",
-    "port": 7777,
-    "removed": 1784577044
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | ALL MAPS | GBG-HLL.COM | GER ENG |",
