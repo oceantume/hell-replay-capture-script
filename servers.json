@@ -448,7 +448,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -502,12 +502,6 @@
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
-  },
-  {
-    "name": "HLL ITA COMMUNITY #QONZER ★ VOTEMAP | EU/ENG | discord.gg/Y3C",
-    "addr": "194.180.207.89",
-    "port": 7827,
-    "removed": 1784057817
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -564,7 +558,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.201.22",
-    "port": 7827
+    "port": 7827,
+    "removed": 1784662940
   },
   {
     "name": "Ducky's Bootcamp",
@@ -585,6 +580,11 @@
     "name": "#3 OKT︱Event︱#Qonzer",
     "addr": "208.115.206.34",
     "port": 7777
+  },
+  {
+    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
+    "addr": "208.115.206.34",
+    "port": 7827
   },
   {
     "name": "UnityGaming",
@@ -618,7 +618,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -648,7 +648,7 @@
     "port": 7867
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -714,7 +714,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1169,7 +1169,7 @@
     "port": 7777
   },
   {
-    "name": "HDC | Offensive Only | US East | New Player Friendly | discord.",
+    "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
     "addr": "64.31.2.220",
     "port": 7777
   },
@@ -1409,8 +1409,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.111.83",
-    "port": 7777,
-    "removed": 1784344543
+    "port": 7777
   },
   {
     "name": "HLL Server",
@@ -1426,7 +1425,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1784662940
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
