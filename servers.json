@@ -539,7 +539,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.201.22",
-    "port": 7827
+    "port": 7827,
+    "removed": 1784816543
   },
   {
     "name": "Ducky's Bootcamp",
@@ -608,7 +609,7 @@
     "port": 7777
   },
   {
-    "name": "KB [US/EAST] | New Players Welcome ★ discord.gg/kbdc",
+    "name": "KB [US] | New Players Welcome ★ discord.gg/kbdc",
     "addr": "208.115.212.74",
     "port": 7787
   },
@@ -879,7 +880,7 @@
     "port": 7777
   },
   {
-    "name": "[L9] The Loyal Nine | L9Clan.com/discord",
+    "name": "[L9] The Loyal Nine |#1| L9Clan.com/discord",
     "addr": "40.27.41.16",
     "port": 7777
   },
@@ -1007,7 +1008,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1784816543
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1402,8 +1404,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.111.83",
-    "port": 7777,
-    "removed": 1784777627
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
