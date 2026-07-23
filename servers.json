@@ -568,12 +568,6 @@
     "port": 7827
   },
   {
-    "name": "UnityGaming",
-    "addr": "208.115.206.35",
-    "port": 7777,
-    "removed": 1784229760
-  },
-  {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
     "port": 7777
@@ -1070,7 +1064,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1784835398
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1404,7 +1399,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.111.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784835398
   },
   {
     "name": "HLL Official - Asia #01",
