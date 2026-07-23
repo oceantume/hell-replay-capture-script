@@ -22,14 +22,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1784729581
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1784729581
+    "port": 7807
   },
   {
     "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
@@ -614,6 +612,11 @@
     "name": "New HLL service",
     "addr": "208.115.211.18",
     "port": 7777
+  },
+  {
+    "name": "KB [US/EAST] | New Players Welcome ★ discord.gg/kbdc",
+    "addr": "208.115.212.74",
+    "port": 7787
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -1405,13 +1408,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.111.83",
-    "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.11.123.49",
     "port": 7777,
-    "removed": 1784172227
+    "removed": 1784777627
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1511,8 +1509,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
     "addr": "89.39.161.24",
-    "port": 28300,
-    "removed": 1784749019
+    "port": 28300
   },
   {
     "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
@@ -1569,12 +1566,6 @@
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
     "port": 28400
-  },
-  {
-    "name": "LOW.MS Testing",
-    "addr": "92.118.18.104",
-    "port": 7777,
-    "removed": 1784172227
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
