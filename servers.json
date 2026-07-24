@@ -718,7 +718,7 @@
     "port": 7787
   },
   {
-    "name": "KB | Fields of Fire ★ New Players Welcome | discord.gg/kbdc",
+    "name": "KB [EU] | New Players Welcome ★ discord.gg/kbdc",
     "addr": "208.115.251.114",
     "port": 7777
   },
@@ -1016,8 +1016,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1784816543
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1385,7 +1384,8 @@
   {
     "name": "[FR] [FF] Furious Frogs - Event Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1784901667
   },
   {
     "name": "WAR - Events",
@@ -1678,12 +1678,6 @@
     "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | #",
     "addr": "95.135.1.5",
     "port": 7777
-  },
-  {
-    "name": "HILF | UA/ENG | Europe | Ukraine | Community Server",
-    "addr": "95.135.1.6",
-    "port": 7777,
-    "removed": 1784296455
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
