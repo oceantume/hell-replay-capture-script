@@ -585,7 +585,7 @@
     "port": 7777
   },
   {
-    "name": "#1 OKT︱Not Player Friendly︱High ELO 18:00︱#Qonzer",
+    "name": "#1 OKT︱ENG/GER︱High ELO 18:00︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1077,7 +1077,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1784921999
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1108,6 +1109,11 @@
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 11255
+  },
+  {
+    "name": "Moon",
+    "addr": "54.37.129.102",
+    "port": 7787
   },
   {
     "name": "BR1 (Big Red 1 Gaming) -- Central -- discord.gg/br1",
@@ -1382,10 +1388,9 @@
     "port": 10165
   },
   {
-    "name": "[FR] [FF] Furious Frogs - Event Server",
+    "name": "HLL Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1784901667
+    "port": 10710
   },
   {
     "name": "WAR - Events",
