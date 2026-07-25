@@ -58,8 +58,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1784950061
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -100,7 +99,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28400
+    "port": 28400,
+    "removed": 1784967452
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
@@ -275,7 +275,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1784967452
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
