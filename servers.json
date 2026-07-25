@@ -58,7 +58,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1784950061
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
@@ -989,6 +990,11 @@
     "port": 7777
   },
   {
+    "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
+    "addr": "40.27.45.7",
+    "port": 7777
+  },
+  {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
     "addr": "40.27.47.179",
     "port": 7777
@@ -1059,12 +1065,6 @@
     "port": 9014
   },
   {
-    "name": "Hell Let Loose Australian Server",
-    "addr": "51.161.174.148",
-    "port": 7797,
-    "removed": 1784344543
-  },
-  {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
     "port": 9075
@@ -1077,8 +1077,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1784921999
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1178,7 +1177,8 @@
   {
     "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
     "addr": "64.31.2.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1784950061
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1367,12 +1367,6 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR - Brasil - Primeiros 40 players ganham vip",
-    "addr": "78.111.102.94",
-    "port": 7807,
-    "removed": 1784344543
-  },
-  {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
     "addr": "78.111.102.94",
     "port": 7827
@@ -1388,7 +1382,7 @@
     "port": 10165
   },
   {
-    "name": "HLL Server",
+    "name": "[FR] FF - Furious Frog Server",
     "addr": "78.46.101.16",
     "port": 10710
   },
