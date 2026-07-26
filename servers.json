@@ -172,7 +172,7 @@
     "port": 7777
   },
   {
-    "name": "CN 萌新友好の机密大坝攻防服",
+    "name": "CN SR萌新友好机密大坝攻防服Q591906548",
     "addr": "154.45.251.75",
     "port": 7777
   },
@@ -627,7 +627,8 @@
   {
     "name": "[FR] 151ème Régiment d'infanterie | discord.gg/hZEEey7wSP",
     "addr": "208.115.214.218",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785093713
   },
   {
     "name": "[LCM] La Compañia Maldita Events [ESP]",
@@ -639,6 +640,11 @@
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.214.218",
     "port": 7867
+  },
+  {
+    "name": "[LCM] La compañia maldita [ESP]",
+    "addr": "208.115.214.220",
+    "port": 7777
   },
   {
     "name": "SLB #3",
@@ -1359,6 +1365,11 @@
     "port": 7797
   },
   {
+    "name": "MARRAM.COM.BR",
+    "addr": "78.111.102.94",
+    "port": 7807
+  },
+  {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
     "addr": "78.111.102.94",
     "port": 7827
@@ -1402,7 +1413,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1785093713
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
@@ -1412,7 +1424,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1785093713
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1550,6 +1563,11 @@
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
     "port": 28400
+  },
+  {
+    "name": "End of Existence | VoidExistence.com",
+    "addr": "92.118.18.88",
+    "port": 7797
   },
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
