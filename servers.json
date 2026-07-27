@@ -535,12 +535,14 @@
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.2",
-    "port": 8888
+    "port": 8888,
+    "removed": 1785181509
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.2",
-    "port": 8898
+    "port": 8898,
+    "removed": 1785181509
   },
   {
     "name": "HCIA EU 2 - Powered by Streamline",
@@ -1233,7 +1235,8 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785181509
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1420,8 +1423,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1785093713
+    "port": 28300
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
@@ -1431,8 +1433,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1785093713
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
