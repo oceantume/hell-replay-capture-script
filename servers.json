@@ -374,7 +374,7 @@
     "port": 8530
   },
   {
-    "name": "-TL- The Line |Prep Server| Sponsored by RGN discord.gg/theline",
+    "name": "-TL- The Line Sponsored by RGN discord.gg/theline",
     "addr": "192.169.86.108",
     "port": 7777
   },
@@ -1232,8 +1232,7 @@
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
-    "port": 7777,
-    "removed": 1785181509
+    "port": 7777
   },
   {
     "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1425,7 +1424,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1785267781
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
@@ -1476,6 +1476,11 @@
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
+    "addr": "88.211.219.170",
+    "port": 8530
   },
   {
     "name": "{serverName}",
