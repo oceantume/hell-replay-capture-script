@@ -77,12 +77,6 @@
     "port": 7777
   },
   {
-    "name": "KB | Tales of Night ★ discord.gg/kbdc",
-    "addr": "139.28.17.148",
-    "port": 7777,
-    "removed": 1784729581
-  },
-  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -760,7 +754,8 @@
   {
     "name": "Match server PUMA",
     "addr": "216.144.245.83",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785335085
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -873,7 +868,7 @@
     "port": 7867
   },
   {
-    "name": "CN BW黑色守望 群满百管理直播女装黑丝 |Q276245957",
+    "name": "CN BW黑色守望 满人三天管理女装黑白丝 |Q276245957",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -930,7 +925,8 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785335085
   },
   {
     "name": "Merciless | Warfare | US West",
@@ -1211,12 +1207,6 @@
     "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
     "addr": "64.31.31.122",
     "port": 7807
-  },
-  {
-    "name": "[LATAM/ESP] Legión Cóndor | Miami | discord.gg/legion-condor",
-    "addr": "64.31.31.123",
-    "port": 7777,
-    "removed": 1784729581
   },
   {
     "name": "Eventos Ronin Miami ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
@@ -1543,12 +1533,6 @@
     "port": 7847
   },
   {
-    "name": "[LATAM/ESP] Legión Cóndor | S.A. | discord.gg/legion-condor",
-    "addr": "89.39.161.244",
-    "port": 7857,
-    "removed": 1784729581
-  },
-  {
     "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
     "addr": "89.39.161.244",
     "port": 7867
@@ -1591,7 +1575,8 @@
   {
     "name": "Hell let loose (US West) Server by g-portal.com",
     "addr": "94.250.218.33",
-    "port": 28500
+    "port": 28500,
+    "removed": 1785335085
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
@@ -1705,7 +1690,7 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | Learn & Conquest | GBG-HLL.COM | #",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUEST | GBG-HLL.COM | #",
     "addr": "95.135.1.5",
     "port": 7777
   },
