@@ -63,8 +63,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1785295374
+    "port": 9224
   },
   {
     "name": "test1 g77654",
@@ -281,7 +280,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1785400858
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -933,7 +933,7 @@
     "port": 7777
   },
   {
-    "name": "[Merc] US West 2 | discord.gg/m3rc",
+    "name": "[Merc] US West | Offensive | discord.gg/m3rc",
     "addr": "40.27.44.12",
     "port": 7777
   },
