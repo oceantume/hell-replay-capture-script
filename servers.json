@@ -562,12 +562,6 @@
     "port": 8888
   },
   {
-    "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
-    "addr": "208.115.201.22",
-    "port": 7827,
-    "removed": 1784816543
-  },
-  {
     "name": "Ducky's Bootcamp",
     "addr": "208.115.203.18",
     "port": 7787
@@ -590,7 +584,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1785440587
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1417,12 +1412,6 @@
     "port": 8530
   },
   {
-    "name": "HLL Server",
-    "addr": "83.11.111.83",
-    "port": 7777,
-    "removed": 1784835398
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1430,7 +1419,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1785440587
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
