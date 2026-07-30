@@ -77,6 +77,11 @@
     "port": 7777
   },
   {
+    "name": "WRTB Prep Server",
+    "addr": "139.28.17.146",
+    "port": 7787
+  },
+  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -928,16 +933,19 @@
     "port": 7777
   },
   {
-    "name": "Merciless | Warfare | US West",
+    "name": "[Merc] US West 2 | discord.gg/m3rc",
     "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1785315049
+    "port": 7777
   },
   {
-    "name": "Merciless | Warfare Server 2 | US West",
+    "name": "[Merc] US West | Discord.gg/m3rc",
     "addr": "40.27.44.13",
-    "port": 7777,
-    "removed": 1785315049
+    "port": 7777
+  },
+  {
+    "name": "Daddy's Offensive Playground | Offensive 24/7 | 3 Days VIP for ",
+    "addr": "40.27.44.14",
+    "port": 7777
   },
   {
     "name": "I Love Playing Apex",
