@@ -274,8 +274,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1785400858
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -552,7 +551,8 @@
   {
     "name": "Ducky's Bootcamp",
     "addr": "208.115.203.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1785489103
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -620,12 +620,6 @@
     "addr": "208.115.214.218",
     "port": 7777,
     "removed": 1785093713
-  },
-  {
-    "name": "[LCM] La Compañia Maldita Events [ESP]",
-    "addr": "208.115.214.218",
-    "port": 7787,
-    "removed": 1784882192
   },
   {
     "name": "[13SNC] #4 - Dírty's Daycare - NEW PLAYERS WELCOME!",
@@ -770,7 +764,7 @@
     "port": 7777
   },
   {
-    "name": "CN#3 TT天堂Q群548651丨加群免排队丨加群决策选图",
+    "name": "1111",
     "addr": "40.27.40.13",
     "port": 7777
   },
