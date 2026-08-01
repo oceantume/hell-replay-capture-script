@@ -579,7 +579,7 @@
     "port": 7777
   },
   {
-    "name": "#1 OKT︱ENG/GER︱High ELO 18:00︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -705,7 +705,7 @@
     "port": 7777
   },
   {
-    "name": "#2 OKT︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT︱New Player Friendly︱ENG/GER︱#Qonzer",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1134,7 +1134,12 @@
     "port": 9075
   },
   {
-    "name": "CN/FL前線萌新德攻投票服Q623668702",
+    "name": "Crucible - Chicago",
+    "addr": "64.31.10.210",
+    "port": 8530
+  },
+  {
+    "name": "CN/FL前线萌新剧情图池混合模式服Q623668702",
     "addr": "64.31.11.42",
     "port": 8530
   },
@@ -1157,12 +1162,6 @@
     "name": "㋑ | Born 2 Kill | discord.gg/B2KGaming",
     "addr": "64.31.2.218",
     "port": 7777
-  },
-  {
-    "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
-    "addr": "64.31.2.220",
-    "port": 7777,
-    "removed": 1784950061
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1273,7 +1272,8 @@
   {
     "name": "Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
-    "port": 7787
+    "port": 7787,
+    "removed": 1785555498
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1665,12 +1665,12 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 3 | ALL MAPS | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 3 | WE KNOW YOU WATCH | GBG-HLL.COM | ",
     "addr": "95.135.1.4",
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN & CONQUEST | GBG-HLL.COM | #",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | STILL ON TOP | GBG-HLL.COM | #S1LE",
     "addr": "95.135.1.5",
     "port": 7777
   },
