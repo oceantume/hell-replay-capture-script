@@ -238,7 +238,8 @@
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
     "addr": "176.57.168.254",
-    "port": 28100
+    "port": 28100,
+    "removed": 1785573009
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -514,7 +515,8 @@
   {
     "name": "Abit of fun New player welcome",
     "addr": "198.244.177.7",
-    "port": 9075
+    "port": 9075,
+    "removed": 1785573009
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -762,7 +764,7 @@
     "port": 7777
   },
   {
-    "name": "1111",
+    "name": "CN-大富大贵大喜色的无规则高强度冲突服Q10427373",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -847,7 +849,7 @@
     "port": 7867
   },
   {
-    "name": "CN BW黑色守望 满人三天管理女装黑白丝 |Q276245957",
+    "name": "BW黑色守望",
     "addr": "40.27.40.20",
     "port": 7777
   },
@@ -1272,8 +1274,7 @@
   {
     "name": "Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
-    "port": 7787,
-    "removed": 1785555498
+    "port": 7787
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
