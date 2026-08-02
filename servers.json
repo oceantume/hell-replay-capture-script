@@ -27,7 +27,8 @@
   {
     "name": "AUSSIE GAMERS | GRUMPY OLD GAMERS | https://discord.gg/zwXJHNYc",
     "addr": "103.62.51.218",
-    "port": 8898
+    "port": 8898,
+    "removed": 1785698461
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -334,7 +335,7 @@
     "port": 11255
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 5 | ENDGAME | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 5 | RAGEBAIT | GBG-HLL.COM | GER ENG |",
     "addr": "185.216.144.75",
     "port": 8530
   },
@@ -737,8 +738,7 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787,
-    "removed": 1785315049
+    "port": 7787
   },
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
@@ -1040,7 +1040,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
+    "name": "[FR] LEGION XIII | Match en cours",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1433,8 +1433,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1785440587
+    "port": 28300
   },
   {
     "name": "CN#CQ-HAM Frontline LOHAS",
