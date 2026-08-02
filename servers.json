@@ -334,9 +334,15 @@
     "port": 11255
   },
   {
+    "name": "! ! !GERMAN BATTLEGROUND 5 | ENDGAME | GBG-HLL.COM | GER ENG |",
+    "addr": "185.216.144.75",
+    "port": 8530
+  },
+  {
     "name": "⊗ | Ghosts of War | EU | New Players Welcome | Warfare & Offe",
     "addr": "185.216.144.75",
-    "port": 9085
+    "port": 9085,
+    "removed": 1785678212
   },
   {
     "name": "404 | Eventserver",
@@ -449,7 +455,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -552,7 +558,7 @@
     "port": 8888
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | PEAKED BELOW US | GBG-HLL.COM | GE",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | PLAYERS KNOW BETTER | GBG-HLL.COM ",
     "addr": "208.115.203.18",
     "port": 7787
   },
@@ -603,7 +609,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -639,7 +645,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -699,7 +705,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1011,8 +1017,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1785591830
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1032,8 +1037,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1785591830
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1711,12 +1715,12 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 3 | YOUR CEILING IS OUR FLOOR | GBG-HL",
+    "name": "! ! !GERMAN BATTLEGROUND 3 | NOT EVEN A RIVAL | GBG-HLL.COM | G",
     "addr": "95.135.1.4",
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | YOUR BEST IS OUR AVERAGE | GBG-HLL",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | WE EXPECTED MORE | GBG-HLL.COM | #",
     "addr": "95.135.1.5",
     "port": 7777
   },
