@@ -353,8 +353,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1785768993
+    "port": 10165
   },
   {
     "name": "[BWR] Event Server RUS",
@@ -543,18 +542,6 @@
     "port": 8888
   },
   {
-    "name": "HCIA EU 1 - Powered by Streamline",
-    "addr": "203.23.178.2",
-    "port": 8888,
-    "removed": 1785181509
-  },
-  {
-    "name": "HCIA EU 1 - Powered by Streamline",
-    "addr": "203.23.178.2",
-    "port": 8898,
-    "removed": 1785181509
-  },
-  {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.2",
     "port": 8908
@@ -588,8 +575,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827,
-    "removed": 1785768993
+    "port": 7827
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
