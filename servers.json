@@ -353,7 +353,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1785768993
   },
   {
     "name": "[BWR] Event Server RUS",
@@ -564,7 +565,7 @@
     "port": 8888
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | PLAYERS KNOW BETTER | GBG-HLL.COM ",
+    "name": "! ! !GERMAN BATTLEGROUND 4 | THE GRAND OFFENSIVE | GBG-HLL.COM ",
     "addr": "208.115.203.18",
     "port": 7787
   },
@@ -587,7 +588,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1785768993
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1027,7 +1029,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1785768993
   },
   {
     "name": "HLL Official - US East #02",
@@ -1037,7 +1040,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1785768993
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1200,6 +1204,11 @@
     "port": 7787
   },
   {
+    "name": "! ! !GERMAN BATTLEGROUND | GBG-HLL.COM | GER ENG | #QONZER",
+    "addr": "64.31.29.179",
+    "port": 7827
+  },
+  {
     "name": "[GER] Frontline Network | 1 | fln.gg",
     "addr": "64.31.29.68",
     "port": 7777
@@ -1278,12 +1287,6 @@
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
     "port": 7777
-  },
-  {
-    "name": "CN孤儿集中营允许开挂",
-    "addr": "64.31.51.243",
-    "port": 7777,
-    "removed": 1785146627
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1653,12 +1656,6 @@
     "port": 7777
   },
   {
-    "name": "CBMS",
-    "addr": "95.135.1.13",
-    "port": 7777,
-    "removed": 1785146627
-  },
-  {
     "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
     "addr": "95.135.1.18",
     "port": 7777
@@ -1719,12 +1716,12 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 3 | WANNABEE | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 3 | ULTIMATE WARFARE | GBG-HLL.COM | G",
     "addr": "95.135.1.4",
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | BEE SALTY | GBG-HLL.COM | #S1LENCE",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | LEARN AND CONQUER | GBG-HLL.COM | ",
     "addr": "95.135.1.5",
     "port": 7777
   },
