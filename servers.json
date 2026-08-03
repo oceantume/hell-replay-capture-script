@@ -879,7 +879,8 @@
   {
     "name": "CN BW黑色守望 满人三天管理女装黑白丝 |Q276245957",
     "addr": "40.27.40.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785751185
   },
   {
     "name": "CN2#散人社区|妙手無规则强度进阶咖啡馆Q120748151",
@@ -1586,6 +1587,11 @@
     "port": 28400
   },
   {
+    "name": "Team17",
+    "addr": "92.118.16.126",
+    "port": 7777
+  },
+  {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
     "port": 7797
@@ -1713,12 +1719,12 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 3 | NOT EVEN A RIVAL | GBG-HLL.COM | G",
+    "name": "! ! !GERMAN BATTLEGROUND 3 | WANNABEE | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.4",
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | WE EXPECTED MORE | GBG-HLL.COM | #",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | BEE SALTY | GBG-HLL.COM | #S1LENCE",
     "addr": "95.135.1.5",
     "port": 7777
   },
