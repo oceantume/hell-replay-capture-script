@@ -446,7 +446,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #2",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -628,7 +628,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -688,7 +688,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1176,7 +1176,7 @@
     "port": 7787
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND | GBG-HLL.COM | GER ENG | #QONZER",
+    "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
     "addr": "64.31.29.179",
     "port": 7827
   },
@@ -1303,8 +1303,7 @@
   {
     "name": "Mikey's Marauders / US CENTRAL / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787,
-    "removed": 1785853949
+    "port": 7787
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
