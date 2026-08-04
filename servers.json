@@ -542,6 +542,11 @@
     "port": 8888
   },
   {
+    "name": "HCIA EU 1 - Powered by Streamline",
+    "addr": "203.23.178.2",
+    "port": 8898
+  },
+  {
     "name": "HCIA EU 2 - Powered by Streamline",
     "addr": "203.23.178.2",
     "port": 8908
@@ -1382,7 +1387,8 @@
   {
     "name": "MARRAM.COM.BR",
     "addr": "78.111.102.94",
-    "port": 7807
+    "port": 7807,
+    "removed": 1785813909
   },
   {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
