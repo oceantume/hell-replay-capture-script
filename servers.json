@@ -63,7 +63,8 @@
   {
     "name": "test1 g77654",
     "addr": "139.28.16.37",
-    "port": 7787
+    "port": 7787,
+    "removed": 1785853949
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -105,12 +106,6 @@
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
     "port": 28300
-  },
-  {
-    "name": "[XBOX] QA Testing - UK #07",
-    "addr": "149.102.158.161",
-    "port": 28600,
-    "removed": 1785248790
   },
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -252,12 +247,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "Team17 CERT",
-    "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1785248790
   },
   {
     "name": "DevQA - EU #02",
@@ -589,7 +578,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "OKT²︱New Player Friendly︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -987,12 +976,6 @@
     "port": 7777
   },
   {
-    "name": "△ The Motor Pool #2 | Level 25+",
-    "addr": "40.27.45.6",
-    "port": 7777,
-    "removed": 1785248790
-  },
-  {
     "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
     "addr": "40.27.45.7",
     "port": 7777
@@ -1015,8 +998,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1785768993
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1026,8 +1008,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1785768993
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1185,6 +1166,11 @@
     "port": 7777
   },
   {
+    "name": "QP3 TESTING QNZR",
+    "addr": "64.31.20.98",
+    "port": 7777
+  },
+  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1317,7 +1303,8 @@
   {
     "name": "Mikey's Marauders / US CENTRAL / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1785853949
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
