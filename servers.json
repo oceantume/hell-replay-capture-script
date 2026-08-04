@@ -277,7 +277,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1785833355
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -406,7 +407,7 @@
     "port": 8530
   },
   {
-    "name": "GREYHOUND NIGHT - GREEN | discord.gg/greyhounds",
+    "name": "GREYHOUND NIGHT - GREEN | https://discord.gg/greyhounds",
     "addr": "192.169.90.203",
     "port": 7777
   },
@@ -984,12 +985,6 @@
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
     "port": 7777
-  },
-  {
-    "name": "Daddy's Offensive Playground | Offensive 24/7 | 3 Days VIP for ",
-    "addr": "40.27.45.20",
-    "port": 7777,
-    "removed": 1785228362
   },
   {
     "name": "△ The Motor Pool #2 | Level 25+",
