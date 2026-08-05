@@ -324,7 +324,7 @@
     "port": 11255
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 5 | RAGEBAIT | GBG-HLL.COM | GER ENG |",
+    "name": "! ! !GERMAN BATTLEGROUND 5 | SANDS OF WAR | GBG-HLL.COM | GER E",
     "addr": "185.216.144.75",
     "port": 8530
   },
@@ -749,12 +749,14 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "217.28.137.45",
-    "port": 7877
+    "port": 7877,
+    "removed": 1785959130
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "217.28.137.54",
-    "port": 7877
+    "port": 7877,
+    "removed": 1785959130
   },
   {
     "name": "NA | Get On Line | discord.gg/gol",
@@ -1168,6 +1170,11 @@
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
+  },
+  {
+    "name": "[GER] OLUSGILDE | Faire Regeln | discord.gg/ztYDyhrNBA",
+    "addr": "64.31.29.178",
+    "port": 7827
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
