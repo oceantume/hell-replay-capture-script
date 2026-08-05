@@ -577,7 +577,7 @@
     "port": 7777
   },
   {
-    "name": "OKT²︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -725,12 +725,6 @@
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
     "addr": "208.115.255.53",
     "port": 7777
-  },
-  {
-    "name": "Match server PUMA",
-    "addr": "216.144.245.83",
-    "port": 7777,
-    "removed": 1785335085
   },
   {
     "name": "[16th IR] Realism unit. |Training Server| discord.gg/16th",
@@ -1167,7 +1161,8 @@
   {
     "name": "QP3 TESTING QNZR",
     "addr": "64.31.20.98",
-    "port": 7777
+    "port": 7777,
+    "removed": 1785939936
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1585,12 +1580,6 @@
     "name": "SRS test 2",
     "addr": "92.223.71.71",
     "port": 7887
-  },
-  {
-    "name": "Hell let loose (US West) Server by g-portal.com",
-    "addr": "94.250.218.33",
-    "port": 28500,
-    "removed": 1785335085
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
