@@ -12,7 +12,8 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807
+    "port": 7807,
+    "removed": 1786129572
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -182,7 +183,8 @@
   {
     "name": "HLL Server",
     "addr": "176.248.103.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786129572
   },
   {
     "name": "QA Testing - EU #02",
@@ -258,6 +260,11 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
+  },
+  {
+    "name": "HLL Playtest Server - Europe #01",
+    "addr": "176.57.168.38",
+    "port": 28200
   },
   {
     "name": "DevQA - EU #02",
@@ -1072,7 +1079,8 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1786129572
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1160,7 +1168,7 @@
     "port": 8530
   },
   {
-    "name": "CN/FL前线萌新德攻投票服Q623668702",
+    "name": "CN/FL前线萌新（德攻投票 | 假日劇情模式）Q623668",
     "addr": "64.31.11.42",
     "port": 8530
   },
@@ -1429,7 +1437,7 @@
     "port": 11255
   },
   {
-    "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
+    "name": "Server Slam [Ententeich] starts 8 Aug 1pm EDT | 6pm BST | 7pm C",
     "addr": "78.46.101.16",
     "port": 8530
   },
@@ -1441,13 +1449,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
-  },
-  {
-    "name": "CN#CQ-HAM Frontline LOHAS",
-    "addr": "83.223.197.42",
-    "port": 30700,
-    "removed": 1785507898
+    "port": 28300,
+    "removed": 1786129572
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1606,6 +1609,11 @@
     "port": 7777
   },
   {
+    "name": "Riplomacy 1",
+    "addr": "92.118.18.76",
+    "port": 7787
+  },
+  {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
     "port": 7797
@@ -1619,6 +1627,11 @@
     "name": "The Salt Mines",
     "addr": "92.118.18.96",
     "port": 7817
+  },
+  {
+    "name": "5th Infantry Division",
+    "addr": "92.118.19.78",
+    "port": 7787
   },
   {
     "name": "SRS test 1",
