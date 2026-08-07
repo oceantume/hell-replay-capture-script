@@ -472,8 +472,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1786026496
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -570,7 +569,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1786061327
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -1176,7 +1176,8 @@
   {
     "name": "[GER] OLUSGILDE | Faire Regeln | discord.gg/ztYDyhrNBA",
     "addr": "64.31.29.178",
-    "port": 7827
+    "port": 7827,
+    "removed": 1786061327
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1354,6 +1355,11 @@
     "port": 7787
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "74.63.231.6",
+    "port": 7777
+  },
+  {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "78.111.102.94",
     "port": 7777
@@ -1474,6 +1480,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
