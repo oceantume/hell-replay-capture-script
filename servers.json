@@ -180,6 +180,11 @@
     "port": 9075
   },
   {
+    "name": "HLL Server",
+    "addr": "176.248.103.70",
+    "port": 7777
+  },
+  {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
@@ -208,6 +213,11 @@
     "name": "[FR] Opération Fer de Lance | FR ONLY | ADMIN ACTIF |",
     "addr": "176.57.140.64",
     "port": 28100
+  },
+  {
+    "name": "For Tea & Country R&D",
+    "addr": "176.57.153.114",
+    "port": 28000
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -473,8 +483,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787,
-    "removed": 1786088072
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -871,7 +880,8 @@
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
     "addr": "40.27.40.21",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786108740
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1001,12 +1011,18 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1786108740
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #03",
@@ -1183,7 +1199,8 @@
   {
     "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827
+    "port": 7827,
+    "removed": 1786108740
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
