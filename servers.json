@@ -53,14 +53,12 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1786072527
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1786072527
+    "port": 9224
   },
   {
     "name": "test1 g77654",
@@ -87,8 +85,7 @@
   {
     "name": "GER｜Trümmertruppe(TЯÜM)◦MIC German /dietruemmertruppe.de",
     "addr": "141.95.33.70",
-    "port": 8530,
-    "removed": 1786072527
+    "port": 8530
   },
   {
     "name": "DKB - Event server - HLLdanmark.dk",
@@ -149,7 +146,8 @@
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786088072
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
@@ -214,8 +212,7 @@
   {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
-    "port": 28100,
-    "removed": 1786072527
+    "port": 28100
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -476,7 +473,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786088072
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -599,8 +597,7 @@
   {
     "name": "[GER] Bestattungsinstitut team.phoenix | phx",
     "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1786072527
+    "port": 7777
   },
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
@@ -776,7 +773,7 @@
     "port": 7777
   },
   {
-    "name": "CN-大喜色的无规则高强度冲突服Q1042737313",
+    "name": "CN-JUMP&JSOC比赛服Q1042737313",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -974,6 +971,11 @@
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
+    "port": 7777
+  },
+  {
+    "name": "Glow's East · COMPETITIVE · discord.gg/glows",
+    "addr": "40.27.45.6",
     "port": 7777
   },
   {
@@ -1179,10 +1181,9 @@
     "port": 7787
   },
   {
-    "name": "[GER] OLUSGILDE | Faire Regeln | discord.gg/ztYDyhrNBA",
+    "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827,
-    "removed": 1786061327
+    "port": 7827
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1489,7 +1490,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786088072
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
