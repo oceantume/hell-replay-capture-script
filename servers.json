@@ -128,12 +128,6 @@
     "port": 7787
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "15.204.170.67",
-    "port": 7777,
-    "removed": 1785591830
-  },
-  {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
     "port": 7777
@@ -172,8 +166,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1786194186
+    "port": 9075
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -576,12 +569,6 @@
     "port": 7787
   },
   {
-    "name": "#3 OKT︱Event︱#Qonzer",
-    "addr": "208.115.206.34",
-    "port": 7777,
-    "removed": 1785591830
-  },
-  {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
     "port": 7827,
@@ -773,12 +760,6 @@
     "addr": "217.28.137.54",
     "port": 7877,
     "removed": 1785959130
-  },
-  {
-    "name": "NA | Get On Line | discord.gg/gol",
-    "addr": "38.246.35.141",
-    "port": 7777,
-    "removed": 1785591830
   },
   {
     "name": "HORANG / Ocelots Event Server | JAPAN |",
@@ -1011,14 +992,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1786194186
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1786194186
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1211,7 +1190,8 @@
   {
     "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827
+    "port": 7827,
+    "removed": 1786214924
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1452,8 +1432,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1786129572
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
