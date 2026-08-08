@@ -141,8 +141,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "15.204.170.69",
-    "port": 7787,
-    "removed": 1786172648
+    "port": 7787
   },
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
@@ -173,7 +172,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1786194186
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -340,8 +340,7 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255,
-    "removed": 1786172648
+    "port": 11255
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 5 | SANDS OF WAR | GBG-HLL.COM | GER E",
@@ -407,7 +406,8 @@
   {
     "name": "(RAT) Trench Rats ※ VIP for Seeding ※ USA",
     "addr": "192.169.86.211",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786194186
   },
   {
     "name": "Odyssey - US EAST - discord.gg/odysseyhll",
@@ -492,7 +492,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786194186
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
@@ -533,12 +534,6 @@
     "name": "Dutch Let Loose #1 [DLL] - [NEW OWNERS] - DUTCH/ENGLISH - [NEDE",
     "addr": "198.244.177.7",
     "port": 8530
-  },
-  {
-    "name": "Abit of fun New player welcome",
-    "addr": "198.244.177.7",
-    "port": 9075,
-    "removed": 1785573009
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -620,8 +615,7 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1786172648
+    "port": 7877
   },
   {
     "name": "KB [US] | New Players Welcome ★ discord.gg/kbdc",
@@ -651,8 +645,7 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1786172648
+    "port": 7787
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -717,11 +710,10 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1786172648
+    "port": 7787
   },
   {
-    "name": "KB [EU] | New Players Welcome ★ discord.gg/kbdc",
+    "name": "KB | Event Server (EU)",
     "addr": "208.115.251.114",
     "port": 7777
   },
@@ -844,6 +836,11 @@
     "port": 7777
   },
   {
+    "name": "Match PUMA",
+    "addr": "40.27.40.151",
+    "port": 7787
+  },
+  {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q637824071 JP",
     "addr": "40.27.40.151",
     "port": 7797
@@ -851,7 +848,8 @@
   {
     "name": "<CN>#6 EMP帝国社区 冲突禁炮服 | Q637824071 JP",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1786194186
   },
   {
     "name": "<CN>#7 IMP帝国社区 禁炮萌新服 60限杀150级以下",
@@ -1013,23 +1011,25 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1786194186
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1786194186
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1786108740
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1786194186
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1695,8 +1695,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1786172648
+    "port": 7777
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
