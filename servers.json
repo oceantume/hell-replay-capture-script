@@ -196,8 +196,7 @@
   {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
-    "port": 28000,
-    "removed": 1786241902
+    "port": 28000
   },
   {
     "name": "[FR] Opération Fer de Lance | FR ONLY | ADMIN ACTIF |",
@@ -272,8 +271,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1786172648
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -313,8 +311,7 @@
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
     "addr": "176.57.181.105",
-    "port": 28200,
-    "removed": 1786241902
+    "port": 28200
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -329,7 +326,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1786259209
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 5 | SANDS OF WAR | GBG-HLL.COM | GER E",
@@ -598,7 +596,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877
+    "port": 7877,
+    "removed": 1786259209
   },
   {
     "name": "KB [US] | New Players Welcome ★ discord.gg/kbdc",
@@ -628,7 +627,8 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786259209
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -693,7 +693,8 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786259209
   },
   {
     "name": "KB | Event Server (EU)",
@@ -1186,8 +1187,7 @@
   {
     "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827,
-    "removed": 1786214924
+    "port": 7827
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1670,7 +1670,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786259209
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
