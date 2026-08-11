@@ -55,12 +55,6 @@
     "port": 9224
   },
   {
-    "name": "test1 g77654",
-    "addr": "139.28.16.37",
-    "port": 7787,
-    "removed": 1785853949
-  },
-  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -442,7 +436,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -452,7 +446,7 @@
     "port": 7787
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
+    "name": "SLB #2",
     "addr": "193.160.22.141",
     "port": 7777
   },
@@ -561,6 +555,11 @@
     "removed": 1786388757
   },
   {
+    "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
+    "addr": "208.115.206.35",
+    "port": 7827
+  },
+  {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
     "port": 7777
@@ -616,7 +615,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -676,7 +675,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1043,7 +1042,8 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1786475501
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1053,7 +1053,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1786475501
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1117,6 +1118,11 @@
     "port": 7777
   },
   {
+    "name": "Mikey's Marauders / US CENTRAL / discord.gg/mikeys-mm",
+    "addr": "63.143.63.83",
+    "port": 7787
+  },
+  {
     "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
     "addr": "63.143.63.85",
     "port": 7777
@@ -1171,7 +1177,8 @@
   {
     "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827
+    "port": 7827,
+    "removed": 1786475501
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1301,7 +1308,8 @@
   {
     "name": "Mikey's Marauders / US CENTRAL / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786475501
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1406,14 +1414,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1786454468
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1786454468
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
