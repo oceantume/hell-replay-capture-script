@@ -308,7 +308,8 @@
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
     "addr": "176.57.181.105",
-    "port": 28200
+    "port": 28200,
+    "removed": 1786414532
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -338,7 +339,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1786414532
   },
   {
     "name": "[BWR] Event Server RUS",
@@ -464,7 +466,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786414532
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
@@ -475,17 +478,20 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786414532
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786414532
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786414532
   },
   {
     "name": "[FR/BE F&Co] Fossils & Company FR ONLY - discord.gg/gnmRAM9U2H",
@@ -500,7 +506,8 @@
   {
     "name": "Corax94",
     "addr": "195.82.158.186",
-    "port": 20200
+    "port": 20200,
+    "removed": 1786414532
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1037,7 +1044,8 @@
   {
     "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1786414532
   },
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
@@ -1052,8 +1060,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1786388757
+    "port": 9620
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1453,12 +1460,18 @@
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786414532
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "85.208.197.77",
+    "port": 7777
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
