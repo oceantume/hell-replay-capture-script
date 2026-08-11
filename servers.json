@@ -52,8 +52,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1786348529
+    "port": 9224
   },
   {
     "name": "test1 g77654",
@@ -308,8 +307,7 @@
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
     "addr": "176.57.181.105",
-    "port": 28200,
-    "removed": 1786414532
+    "port": 28200
   },
   {
     "name": "HaiiTeD Eventserver | HTD Germany | Diamantpresse",
@@ -339,8 +337,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1786414532
+    "port": 10165
   },
   {
     "name": "[BWR] Event Server RUS",
@@ -416,7 +413,8 @@
   {
     "name": "Expeditionary Forces - Event Server - discord.gg/expyforces",
     "addr": "192.169.92.30",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786432710
   },
   {
     "name": "AS YT",
@@ -466,8 +464,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1786414532
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie Évent ★ discord.gg/7eCie",
@@ -478,20 +475,17 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1786414532
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1786414532
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1786414532
+    "port": 7777
   },
   {
     "name": "[FR/BE F&Co] Fossils & Company FR ONLY - discord.gg/gnmRAM9U2H",
@@ -1044,8 +1038,7 @@
   {
     "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
     "addr": "5.196.78.45",
-    "port": 9014,
-    "removed": 1786414532
+    "port": 9014
   },
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
@@ -1178,8 +1171,7 @@
   {
     "name": "[GER] OLUSGILDE | Keine Begrenzung | Entspannte Regeln",
     "addr": "64.31.29.178",
-    "port": 7827,
-    "removed": 1786388757
+    "port": 7827
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
@@ -1377,12 +1369,6 @@
     "port": 7797
   },
   {
-    "name": "MARRAM.COM.BR",
-    "addr": "78.111.102.94",
-    "port": 7807,
-    "removed": 1785813909
-  },
-  {
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
     "addr": "78.111.102.94",
     "port": 7827
@@ -1460,8 +1446,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | London",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1786414532
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
