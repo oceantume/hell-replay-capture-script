@@ -511,8 +511,7 @@
   {
     "name": "CN「CZS」超质数中队训练服",
     "addr": "203.10.98.14",
-    "port": 8888,
-    "removed": 1786368293
+    "port": 8888
   },
   {
     "name": "Streamline HLL Test",
@@ -566,7 +565,7 @@
     "port": 7777
   },
   {
-    "name": "OKT²︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -987,7 +986,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1786541150
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1307,8 +1307,7 @@
   {
     "name": "Mikey's Marauders / US CENTRAL / discord.gg/mikeys-mm",
     "addr": "64.31.62.74",
-    "port": 7787,
-    "removed": 1786475501
+    "port": 7787
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
