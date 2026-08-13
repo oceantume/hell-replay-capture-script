@@ -60,6 +60,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "139.28.17.147",
+    "port": 7787
+  },
+  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -92,7 +97,8 @@
   {
     "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786588383
   },
   {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
@@ -267,7 +273,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1786588383
   },
   {
     "name": "VT1",
@@ -403,8 +410,7 @@
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1786561869
+    "port": 7797
   },
   {
     "name": "Expeditionary Forces - Event Server - discord.gg/expyforces",
@@ -481,7 +487,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786588383
   },
   {
     "name": "[FR/BE F&Co] Fossils & Company FR ONLY - discord.gg/gnmRAM9U2H",
@@ -733,22 +740,11 @@
   {
     "name": "SRS test 4",
     "addr": "217.28.137.138",
-    "port": 7877
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "217.28.137.45",
     "port": 7877,
-    "removed": 1785959130
+    "removed": 1786588383
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "217.28.137.54",
-    "port": 7877,
-    "removed": 1785959130
-  },
-  {
-    "name": "[GER] 100. Jäger-Division No. 2",
+    "name": "[GER] 100.Jäger-Division No.2 | Mikrofon & deutsche Sprache er",
     "addr": "38.129.4.50",
     "port": 7777
   },
@@ -867,7 +863,8 @@
   {
     "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.41.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786588383
   },
   {
     "name": "[L9] The Loyal Nine |#1| L9Clan.com/discord",
@@ -892,7 +889,8 @@
   {
     "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "40.27.42.11",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786588383
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -907,7 +905,8 @@
   {
     "name": "[Merc] US West | Offensive | discord.gg/m3rc",
     "addr": "40.27.44.12",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786588383
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -1059,7 +1058,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1786588383
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1148,6 +1148,11 @@
     "port": 8530
   },
   {
+    "name": "GR&BW战队萌新冲突服",
+    "addr": "64.31.11.42",
+    "port": 9075
+  },
+  {
     "name": "hll Server",
     "addr": "64.31.18.226",
     "port": 7787
@@ -1232,7 +1237,8 @@
   {
     "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
     "addr": "64.31.4.170",
-    "port": 7807
+    "port": 7807,
+    "removed": 1786588383
   },
   {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
@@ -1277,7 +1283,8 @@
   {
     "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "64.31.6.92",
-    "port": 7797
+    "port": 7797,
+    "removed": 1786588383
   },
   {
     "name": "SRS test 5",
@@ -1314,6 +1321,11 @@
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
+  },
+  {
+    "name": "75TH RANGERS",
+    "addr": "66.94.106.74",
+    "port": 31200
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1581,7 +1593,8 @@
   {
     "name": "Riplomacy 1",
     "addr": "92.118.18.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786588383
   },
   {
     "name": "End of Existence | VoidExistence.com",
@@ -1597,22 +1610,26 @@
   {
     "name": "The Salt Mines",
     "addr": "92.118.18.96",
-    "port": 7817
+    "port": 7817,
+    "removed": 1786588383
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
     "addr": "92.118.19.78",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786588383
   },
   {
     "name": "SRS test 1",
     "addr": "92.223.71.71",
-    "port": 7877
+    "port": 7877,
+    "removed": 1786588383
   },
   {
     "name": "SRS test 2",
     "addr": "92.223.71.71",
-    "port": 7887
+    "port": 7887,
+    "removed": 1786588383
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
