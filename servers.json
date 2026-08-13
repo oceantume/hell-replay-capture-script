@@ -158,6 +158,11 @@
     "port": 9075
   },
   {
+    "name": "Open Profanity Server",
+    "addr": "159.69.226.152",
+    "port": 7777
+  },
+  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -489,7 +494,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE F&Co] Fossils & Company FR ONLY - discord.gg/gnmRAM9U2H",
+    "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
     "port": 8530
   },
@@ -1057,7 +1062,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1786648284
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1146,7 +1152,7 @@
     "port": 8530
   },
   {
-    "name": "CN#1 GR铁血战线 加群有南梁管理哟",
+    "name": "CN#1 GR铁血战线 冲突服",
     "addr": "64.31.11.42",
     "port": 9075
   },
@@ -1164,12 +1170,6 @@
     "name": "=7Cav= HLL Training Server 1 | Powered by Qonzer",
     "addr": "64.31.2.20",
     "port": 7787
-  },
-  {
-    "name": "㋑ | Born 2 Kill | discord.gg/B2KGaming",
-    "addr": "64.31.2.218",
-    "port": 7777,
-    "removed": 1786026496
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
