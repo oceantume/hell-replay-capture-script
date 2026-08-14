@@ -132,12 +132,6 @@
     "port": 7787
   },
   {
-    "name": "Glow's East · COMPETITIVE · discord.gg/glows",
-    "addr": "15.204.170.72",
-    "port": 7777,
-    "removed": 1786088072
-  },
-  {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7787
@@ -284,8 +278,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1786674709
+    "port": 28400
   },
   {
     "name": "VT1",
@@ -350,8 +343,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1786674709
+    "port": 10165
   },
   {
     "name": "[BWR] Event Server RUS",
@@ -1496,12 +1488,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1786088072
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
