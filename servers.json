@@ -82,6 +82,11 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
+    "port": 28000
+  },
+  {
+    "name": "Hell let loose (US East) Server by g-portal.com",
+    "addr": "144.126.153.213",
     "port": 28400
   },
   {
@@ -160,7 +165,8 @@
   {
     "name": "Open Profanity Server",
     "addr": "159.69.226.152",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786674709
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -278,7 +284,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1786674709
   },
   {
     "name": "VT1",
@@ -343,7 +350,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1786674709
   },
   {
     "name": "[BWR] Event Server RUS",
