@@ -766,8 +766,7 @@
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
     "addr": "40.27.40.11",
-    "port": 7777,
-    "removed": 1786800363
+    "port": 7777
   },
   {
     "name": "CN-JUMP&JSOC比赛服Q1042737313",
@@ -840,7 +839,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP&GR&DB帝国社区 Lv.25+无规则冲突服 JP节点",
+    "name": "<CN>#2 EMP&DB帝国社区 Lv.25+无规则冲突服 JP节点",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1353,7 +1352,8 @@
   {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786819144
   },
   {
     "name": "BAE TestCenter",
@@ -1445,7 +1445,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1786819144
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1495,7 +1496,8 @@
   {
     "name": "HLL Server",
     "addr": "86.8.4.202",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786819144
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
