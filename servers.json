@@ -27,7 +27,8 @@
   {
     "name": "Golden Triad | Honor Duty Courage|",
     "addr": "104.194.10.174",
-    "port": 7837
+    "port": 7837,
+    "removed": 1786798260
   },
   {
     "name": "Auto’s Escapades – US East – Everyone Welcome – 99 Open",
@@ -347,22 +348,26 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1786798260
   },
   {
     "name": "[BWR] Event Server RUS",
     "addr": "185.70.107.12",
-    "port": 10710
+    "port": 10710,
+    "removed": 1786798260
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530
+    "port": 8530,
+    "removed": 1786798260
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620
+    "port": 9620,
+    "removed": 1786798260
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -521,7 +526,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1786798260
   },
   {
     "name": "DUTCH LET LOOSE.NL [DLL] - [NEW OWNERS] - DUTCH/ENGLISH - DSS I",
@@ -585,7 +591,7 @@
     "port": 7777
   },
   {
-    "name": "OKT²︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -612,7 +618,8 @@
   {
     "name": "KB [US] | New Players Welcome ★ discord.gg/kbdc",
     "addr": "208.115.212.74",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786798260
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -855,7 +862,7 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO＆RAM嘴硬体软雌小鬼沐芷米QQ746699634",
+    "name": "CN/ARO＆RAM投票图池嘴硬体软雌小鬼沐芷米Q74669963",
     "addr": "40.27.40.151",
     "port": 7867
   },
@@ -995,7 +1002,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1786798260
   },
   {
     "name": "HLL Official - US East #02",
@@ -1011,8 +1019,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1786713709
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1072,7 +1079,8 @@
   {
     "name": "HLL Server",
     "addr": "51.195.170.94",
-    "port": 8530
+    "port": 8530,
+    "removed": 1786798260
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1156,7 +1164,7 @@
     "port": 8530
   },
   {
-    "name": "FL萌新前线（投票德攻 | 假日剧情）Q623668702",
+    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q623668702",
     "addr": "64.31.11.42",
     "port": 8530
   },
@@ -1497,6 +1505,11 @@
     "port": 7777
   },
   {
+    "name": "HLL Server",
+    "addr": "86.8.4.202",
+    "port": 7777
+  },
+  {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
     "port": 8530,
@@ -1755,6 +1768,7 @@
   {
     "name": "HLL Brotato Chips",
     "addr": "95.156.198.83",
-    "port": 10400
+    "port": 10400,
+    "removed": 1786798260
   }
 ]
