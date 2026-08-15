@@ -12,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1786734188
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -24,6 +23,11 @@
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
     "port": 7807
+  },
+  {
+    "name": "Golden Triad | Honor Duty Courage|",
+    "addr": "104.194.10.174",
+    "port": 7837
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -167,12 +171,6 @@
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
-  },
-  {
-    "name": "HLL Server",
-    "addr": "176.248.103.70",
-    "port": 7777,
-    "removed": 1786129572
   },
   {
     "name": "QA Testing - EU #02",
@@ -752,7 +750,8 @@
   {
     "name": "[GER] 100.Jäger-Division No.2 | Mikrofon & deutsche Sprache er",
     "addr": "38.129.4.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786758061
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -1048,8 +1047,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1786734188
+    "port": 9075
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1060,6 +1058,11 @@
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
     "port": 9620
+  },
+  {
+    "name": "HLL Server",
+    "addr": "51.195.170.94",
+    "port": 8530
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1148,9 +1151,14 @@
     "port": 8530
   },
   {
-    "name": "CN GR铁血战线冲突服",
+    "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
     "addr": "64.31.11.42",
     "port": 9075
+  },
+  {
+    "name": "VETERANSRADIO.CA SERVER",
+    "addr": "64.31.18.226",
+    "port": 7777
   },
   {
     "name": "hll Server",
@@ -1317,7 +1325,7 @@
     "port": 8888
   },
   {
-    "name": "75TH RANGERS",
+    "name": "75TH RANGERS VS L201",
     "addr": "66.94.106.74",
     "port": 31200
   },
@@ -1733,5 +1741,10 @@
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
     "port": 7777
+  },
+  {
+    "name": "HLL Brotato Chips",
+    "addr": "95.156.198.83",
+    "port": 10400
   }
 ]
