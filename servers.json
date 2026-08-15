@@ -30,6 +30,11 @@
     "port": 7837
   },
   {
+    "name": "Auto’s Escapades – US East – Everyone Welcome – 99 Open",
+    "addr": "104.194.10.174",
+    "port": 7857
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -509,9 +514,15 @@
     "removed": 1786414532
   },
   {
+    "name": "nitrado.net gameserver swa6QQPO",
+    "addr": "195.82.158.186",
+    "port": 20600
+  },
+  {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1786776588
   },
   {
     "name": "DUTCH LET LOOSE.NL [DLL] - [NEW OWNERS] - DUTCH/ENGLISH - DSS I",
@@ -1340,6 +1351,11 @@
     "port": 8772
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "67.217.48.14",
+    "port": 9075
+  },
+  {
     "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
     "addr": "69.162.102.53",
     "port": 7787
@@ -1484,7 +1500,8 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530
+    "port": 8530,
+    "removed": 1786776588
   },
   {
     "name": "{serverName}",
@@ -1497,7 +1514,7 @@
     "port": 7777
   },
   {
-    "name": "③⑥⓪ Eventos | 360 Boot Camp Server",
+    "name": "王 360 Eventos | Boot Camp Server",
     "addr": "89.39.161.131",
     "port": 7787
   },
@@ -1547,7 +1564,7 @@
     "port": 7847
   },
   {
-    "name": "[LATAM] ③⑥⓪ | El Olimpo | 360hll.com.ar",
+    "name": "[LATAM] 王 360 | El Olimpo | 360hll.com.ar",
     "addr": "89.39.161.244",
     "port": 7867
   },
