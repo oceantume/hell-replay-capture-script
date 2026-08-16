@@ -337,7 +337,7 @@
     "port": 11255
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 5 | SANDS OF WAR | GBG-HLL.COM | GER E",
+    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "185.216.144.75",
     "port": 8530
   },
@@ -1195,7 +1195,7 @@
     "removed": 1786475501
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 6 | ENDGAME | GBG-HLL.COM | GER ENG | ",
+    "name": "! ! !GERMAN BATTLEGROUND 2 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "64.31.29.179",
     "port": 7827
   },
@@ -1635,6 +1635,11 @@
     "addr": "92.118.19.78",
     "port": 7787,
     "removed": 1786588383
+  },
+  {
+    "name": "3RD BRIGADE COMMUNITY SERVER",
+    "addr": "92.118.19.84",
+    "port": 7777
   },
   {
     "name": "SRS test 1",
