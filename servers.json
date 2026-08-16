@@ -12,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1786820615
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -34,7 +33,8 @@
   {
     "name": "Auto’s Escapades – US East – Everyone Welcome – 99 Open",
     "addr": "104.194.10.174",
-    "port": 7857
+    "port": 7857,
+    "removed": 1786844908
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -349,26 +349,22 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1786798260
+    "port": 10165
   },
   {
     "name": "[BWR] Event Server RUS",
     "addr": "185.70.107.12",
-    "port": 10710,
-    "removed": 1786798260
+    "port": 10710
   },
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1786798260
+    "port": 8530
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620,
-    "removed": 1786798260
+    "port": 9620
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -556,7 +552,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 4 | THE GRAND OFFENSIVE | GBG-HLL.COM ",
     "addr": "208.115.203.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1786844908
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -1057,14 +1054,12 @@
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
     "addr": "51.161.197.24",
-    "port": 9075,
-    "removed": 1786820615
+    "port": 9075
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1786820615
+    "port": 9620
   },
   {
     "name": "HLL Server",
@@ -1147,6 +1142,11 @@
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
     "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "64.20.50.186",
+    "port": 9620
   },
   {
     "name": "Crucible - Chicago",
@@ -1436,6 +1436,11 @@
     "port": 8530
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "82.27.3.48",
+    "port": 7777
+  },
+  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1696,7 +1701,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "95.135.1.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786844908
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
@@ -1746,12 +1752,14 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 3 | RARE MAPS ONLY | GBG-HLL.COM | GER",
     "addr": "95.135.1.4",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786844908
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "95.135.1.5",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786844908
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
