@@ -210,12 +210,6 @@
     "port": 28100
   },
   {
-    "name": "For Tea & Country R&D",
-    "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1786368293
-  },
-  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -254,12 +248,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "HLL Playtest Server - Europe #01",
-    "addr": "176.57.168.38",
-    "port": 28200,
-    "removed": 1786368293
   },
   {
     "name": "DevQA - EU #02",
@@ -708,7 +696,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT︱New Player Friendly︱ENG/GER︱#S1LENCE",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -999,12 +987,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Playtest Server - US #01",
-    "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1786368293
-  },
-  {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
     "port": 28600
@@ -1098,12 +1080,6 @@
     "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
     "addr": "51.89.42.34",
     "port": 11255
-  },
-  {
-    "name": "Moon",
-    "addr": "54.37.129.102",
-    "port": 7787,
-    "removed": 1786368293
   },
   {
     "name": "BR1 HLL (Big Red 1 Gaming) - discord.gg/br1",
@@ -1446,7 +1422,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.88.87",
-    "port": 7777
+    "port": 7777,
+    "removed": 1786974398
   },
   {
     "name": "HLL Official - Asia #01",
