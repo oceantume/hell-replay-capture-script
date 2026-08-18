@@ -430,7 +430,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -552,7 +552,7 @@
     "port": 7777
   },
   {
-    "name": "OKT²︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -572,7 +572,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -603,7 +603,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -664,7 +664,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -679,7 +679,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱New Player Friendly︱ENG/GER︱#S1LENCE",
+    "name": "OKT²︱New Player Friendly︱ENG/GER︱#LΛZMIЯ",
     "addr": "208.115.251.115",
     "port": 7787
   },
@@ -1411,7 +1411,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.88.87",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787078902
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1421,7 +1422,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1787078902
   },
   {
     "name": "HLL Official - Asia #04",
