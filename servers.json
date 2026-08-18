@@ -625,8 +625,7 @@
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1787036104
+    "port": 7817
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
@@ -978,7 +977,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1787057924
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1411,8 +1411,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.88.87",
-    "port": 7777,
-    "removed": 1786974398
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
