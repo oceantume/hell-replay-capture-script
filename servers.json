@@ -563,7 +563,7 @@
     "port": 7777
   },
   {
-    "name": "OKT²︱New Player Friendly︱ENG/GER︱#Qonzer",
+    "name": "OKT²︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -961,7 +961,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "The Circle - ◯ | REtrO's Test Server",
     "addr": "45.131.114.13",
     "port": 7777
   },
@@ -1763,6 +1763,7 @@
   {
     "name": "HLL Brotato Chips",
     "addr": "95.156.198.83",
-    "port": 10400
+    "port": 10400,
+    "removed": 1787017275
   }
 ]
