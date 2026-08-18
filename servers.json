@@ -486,12 +486,6 @@
     "port": 7777
   },
   {
-    "name": "Corax94",
-    "addr": "195.82.158.186",
-    "port": 20200,
-    "removed": 1786414532
-  },
-  {
     "name": "nitrado.net gameserver swa6QQPO",
     "addr": "195.82.158.186",
     "port": 20600
@@ -636,7 +630,8 @@
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817
+    "port": 7817,
+    "removed": 1787036104
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
