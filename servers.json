@@ -169,6 +169,11 @@
     "removed": 1786674709
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "162.220.160.26",
+    "port": 8530
+  },
+  {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
@@ -201,7 +206,8 @@
   {
     "name": "[FR] Opération Fer de Lance | FR ONLY | ADMIN ACTIF |",
     "addr": "176.57.140.64",
-    "port": 28100
+    "port": 28100,
+    "removed": 1787165055
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -1406,8 +1412,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.88.87",
-    "port": 7777,
-    "removed": 1787078902
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1423,7 +1428,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1787165055
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1528,7 +1534,7 @@
     "port": 28300
   },
   {
-    "name": "EL PATIO DE LOS TRAVAS Y LA D.C.!! - ENTRENAMIENTO",
+    "name": "EVENTOS DELTA CORPS",
     "addr": "89.39.161.244",
     "port": 7777
   },
