@@ -482,8 +482,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1787125544
+    "port": 20900
   },
   {
     "name": "DUTCH LET LOOSE .NL [DLL] - DISCORD.GG/DUTCHLETLOOSE - DSS IS N",
@@ -972,8 +971,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1787057924
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1290,6 +1288,11 @@
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
     "port": 8888
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "65.21.46.146",
+    "port": 8530
   },
   {
     "name": "75TH RANGERS VS L201",
