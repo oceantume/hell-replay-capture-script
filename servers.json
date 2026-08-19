@@ -290,7 +290,7 @@
     "port": 28100
   },
   {
-    "name": "The Fallen Legion /Mikrophone Plicht German",
+    "name": "RABENHEER /Mikrophone Plicht German",
     "addr": "176.57.174.211",
     "port": 28200
   },
@@ -552,7 +552,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1261,7 +1261,8 @@
   {
     "name": "SRS test 5",
     "addr": "64.31.61.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787103803
   },
   {
     "name": "Oceanic Ocelots | U.S. West",
@@ -1276,7 +1277,8 @@
   {
     "name": "SRS test 3",
     "addr": "64.31.61.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787103803
   },
   {
     "name": "♤CtrlAlt-Defeat NA2 Veteran Server",
