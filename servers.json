@@ -171,7 +171,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "162.220.160.26",
-    "port": 8530
+    "port": 8530,
+    "removed": 1787190110
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -488,10 +489,11 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1787190110
   },
   {
-    "name": "DUTCH LET LOOSE .NL [DLL] - DISCORD.GG/DUTCHLETLOOSE - DSS IS N",
+    "name": "DUTCHLETLOOSE.NL [DLL] - OFFENSIVE - ENGLISH - VIP FOR SEEDING",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -552,7 +554,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "Oktogon · Wir rekrutieren! · [GER/ENG] #Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1398,6 +1400,11 @@
     "port": 8530
   },
   {
+    "name": "New HLLC service",
+    "addr": "82.27.3.209",
+    "port": 7777
+  },
+  {
     "name": "Another Qonzer.com server is born!",
     "addr": "82.27.3.48",
     "port": 7777,
@@ -1406,7 +1413,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.88.87",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787190110
   },
   {
     "name": "HLL Official - Asia #01",
