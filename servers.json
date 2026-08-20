@@ -154,8 +154,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1787230941
+    "port": 9075
   },
   {
     "name": "Open Profanity Server",
@@ -299,7 +298,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
-    "port": 28500
+    "port": 28500,
+    "removed": 1787251826
   },
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
@@ -325,6 +325,11 @@
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "185.216.144.75",
     "port": 8530
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.216.144.75",
+    "port": 9075
   },
   {
     "name": "404 | Eventserver",
@@ -650,12 +655,6 @@
     "port": 7807
   },
   {
-    "name": "(IC) Offensive Heaven | US West #2 SLC | discord.gg/icoh",
-    "addr": "208.115.247.18",
-    "port": 7777,
-    "removed": 1786628028
-  },
-  {
     "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
     "addr": "208.115.248.106",
     "port": 7777
@@ -930,14 +929,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1787230941
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1787230941
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1014,6 +1011,11 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.94",
     "port": 8530
+  },
+  {
+    "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
+    "addr": "51.38.89.130",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -1299,12 +1301,6 @@
     "port": 7797
   },
   {
-    "name": "(IC) Offensive Heaven | US Central #2 Chicago | discord.gg/icoh",
-    "addr": "74.63.231.2",
-    "port": 7777,
-    "removed": 1786628028
-  },
-  {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
     "addr": "74.63.231.2",
     "port": 7787
@@ -1333,12 +1329,6 @@
     "name": "[LATAM/ESP] | URANIUM | Primeros 50 Players VIP x 3 dias",
     "addr": "78.111.102.94",
     "port": 7827
-  },
-  {
-    "name": "[LATAM/ESP] WARDOGS | MISIONES X VIP | RECLUTANDO TRAVAS RICAS",
-    "addr": "78.111.102.94",
-    "port": 7837,
-    "removed": 1786628028
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1385,14 +1375,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1787078902
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1787165055
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
