@@ -154,7 +154,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1787230941
   },
   {
     "name": "Open Profanity Server",
@@ -929,12 +930,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1787230941
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1787230941
   },
   {
     "name": "HLL Official - US East #01",
@@ -1575,12 +1578,12 @@
     "port": 7787
   },
   {
-    "name": "#01 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#1 [ESP] Comu Hispana - Allies vs Axis - discord.comunidadhll.e",
     "addr": "95.135.0.16",
     "port": 7777
   },
   {
-    "name": "#02 [ESP] Comunidad Hispana - discord.comunidadhll.es - Spa Onl",
+    "name": "#2 [ESP] Comu Hispana- All maps - discord.comunidadhll.es",
     "addr": "95.135.0.17",
     "port": 7777
   },
