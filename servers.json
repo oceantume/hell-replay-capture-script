@@ -112,12 +112,6 @@
     "port": 28300
   },
   {
-    "name": "EASY Company #2 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1786588383
-  },
-  {
     "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
     "addr": "15.204.170.64",
     "port": 7787
@@ -187,7 +181,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1787209004
   },
   {
     "name": "HLL Official - Europe #01",
@@ -273,7 +268,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1787209004
   },
   {
     "name": "VT1",
@@ -489,8 +485,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1787190110
+    "port": 20900
   },
   {
     "name": "DUTCHLETLOOSE.NL [DLL] - OFFENSIVE - ENGLISH - VIP FOR SEEDING",
@@ -722,12 +717,6 @@
     "port": 8772
   },
   {
-    "name": "SRS test 4",
-    "addr": "217.28.137.138",
-    "port": 7877,
-    "removed": 1786588383
-  },
-  {
     "name": "[GER] 100.Jäger-Division No.2 | Mikrofon & deutsche Sprache er",
     "addr": "38.129.4.50",
     "port": 7777,
@@ -839,12 +828,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #4 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "40.27.41.13",
-    "port": 7777,
-    "removed": 1786588383
-  },
-  {
     "name": "[L9] The Loyal Nine |#1| L9Clan.com/discord",
     "addr": "40.27.41.16",
     "port": 7777
@@ -865,12 +848,6 @@
     "port": 7777
   },
   {
-    "name": "EASY Company #3 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "40.27.42.11",
-    "port": 7777,
-    "removed": 1786588383
-  },
-  {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
     "addr": "40.27.42.8",
     "port": 7777
@@ -879,12 +856,6 @@
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
     "port": 7777
-  },
-  {
-    "name": "[Merc] US West | Offensive | discord.gg/m3rc",
-    "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1786588383
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -1208,12 +1179,6 @@
     "port": 7777
   },
   {
-    "name": "#1 [ESP] LVL 50+(09:00-20:00) DIV33 Oficial - Español / Spanis",
-    "addr": "64.31.4.170",
-    "port": 7807,
-    "removed": 1786588383
-  },
-  {
     "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
     "addr": "64.31.4.170",
     "port": 7827
@@ -1252,12 +1217,6 @@
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.6.92",
     "port": 7787
-  },
-  {
-    "name": "EASY Company Event | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "64.31.6.92",
-    "port": 7797,
-    "removed": 1786588383
   },
   {
     "name": "SRS test 5",
@@ -1402,7 +1361,8 @@
   {
     "name": "New HLLC service",
     "addr": "82.27.3.209",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787209004
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1596,45 +1556,15 @@
     "port": 7807
   },
   {
-    "name": "Riplomacy 1",
-    "addr": "92.118.18.76",
-    "port": 7787,
-    "removed": 1786588383
-  },
-  {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
     "addr": "92.118.18.96",
     "port": 7787
-  },
-  {
-    "name": "The Salt Mines",
-    "addr": "92.118.18.96",
-    "port": 7817,
-    "removed": 1786588383
-  },
-  {
-    "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
-    "addr": "92.118.19.78",
-    "port": 7787,
-    "removed": 1786588383
   },
   {
     "name": "3RD BRIGADE COMMUNITY SERVER",
     "addr": "92.118.19.84",
     "port": 7777,
     "removed": 1786884749
-  },
-  {
-    "name": "SRS test 1",
-    "addr": "92.223.71.71",
-    "port": 7877,
-    "removed": 1786588383
-  },
-  {
-    "name": "SRS test 2",
-    "addr": "92.223.71.71",
-    "port": 7887,
-    "removed": 1786588383
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
