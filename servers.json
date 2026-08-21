@@ -242,7 +242,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1787298633
   },
   {
     "name": "DevQA - EU #02",
