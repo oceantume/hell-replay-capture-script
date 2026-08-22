@@ -25,12 +25,6 @@
     "port": 7807
   },
   {
-    "name": "Golden Triad | Honor Duty Courage|",
-    "addr": "104.194.10.174",
-    "port": 7837,
-    "removed": 1786798260
-  },
-  {
     "name": "Auto’s Escapades – US East – Everyone Welcome – 99 Open",
     "addr": "104.194.10.174",
     "port": 7857,
@@ -321,7 +315,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1787403139
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -490,6 +485,11 @@
     "removed": 1787039035
   },
   {
+    "name": "| GUSTAV LINE WARFARE | ITA/ENG - lvl.25+ (SL 65+ COMM 95+)",
+    "addr": "195.82.158.186",
+    "port": 21000
+  },
+  {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
     "port": 20900
@@ -556,7 +556,7 @@
     "port": 7777
   },
   {
-    "name": "Oktogon · Wir rekrutieren! · [GER/ENG] #Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -579,12 +579,6 @@
     "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
-  },
-  {
-    "name": "KB [US] | New Players Welcome ★ discord.gg/kbdc",
-    "addr": "208.115.212.74",
-    "port": 7787,
-    "removed": 1786798260
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -855,7 +849,8 @@
   {
     "name": "Offensive Playground | Offensive 24/7 | 3 Days VIP for SEEDING",
     "addr": "40.27.44.14",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787403139
   },
   {
     "name": "I Love Playing Apex",
@@ -935,7 +930,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1787403139
   },
   {
     "name": "HLL Official - US East #03",
