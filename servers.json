@@ -1369,7 +1369,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1787423975
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1415,12 +1416,6 @@
     "name": "Another Qonzer.com server is born!",
     "addr": "85.208.197.77",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "86.8.4.202",
-    "port": 7777,
-    "removed": 1786819144
   },
   {
     "name": "{serverName}",
