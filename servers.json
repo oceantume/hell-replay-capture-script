@@ -12,8 +12,7 @@
   {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
-    "port": 7807,
-    "removed": 1787425550
+    "port": 7807
   },
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
@@ -24,12 +23,6 @@
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
     "port": 7807
-  },
-  {
-    "name": "Auto’s Escapades – US East – Everyone Welcome – 99 Open",
-    "addr": "104.194.10.174",
-    "port": 7857,
-    "removed": 1786844908
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -526,12 +519,6 @@
     "port": 8888
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 4 | THE GRAND OFFENSIVE | GBG-HLL.COM ",
-    "addr": "208.115.203.18",
-    "port": 7787,
-    "removed": 1786844908
-  },
-  {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
     "addr": "208.115.203.20",
     "port": 7777
@@ -962,7 +949,8 @@
   {
     "name": "Special Needs Server",
     "addr": "45.151.81.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787449827
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
@@ -982,8 +970,7 @@
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "51.161.196.191",
-    "port": 9075,
-    "removed": 1787425550
+    "port": 9075
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1249,6 +1236,11 @@
     "port": 8530
   },
   {
+    "name": "[GER] Lachflash Kommando Fliese #1 | BFTB",
+    "addr": "65.21.46.146",
+    "port": 9075
+  },
+  {
     "name": "75TH RANGERS VS L201",
     "addr": "66.94.106.74",
     "port": 31200
@@ -1420,6 +1412,11 @@
     "port": 7777
   },
   {
+    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
+    "addr": "88.211.219.170",
+    "port": 8530
+  },
+  {
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
@@ -1586,12 +1583,6 @@
     "port": 7777
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
-    "addr": "95.135.1.2",
-    "port": 7777,
-    "removed": 1786844908
-  },
-  {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
     "addr": "95.135.1.24",
     "port": 7777
@@ -1635,18 +1626,6 @@
     "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
     "addr": "95.135.1.39",
     "port": 7777
-  },
-  {
-    "name": "! ! !GERMAN BATTLEGROUND 3 | RARE MAPS ONLY | GBG-HLL.COM | GER",
-    "addr": "95.135.1.4",
-    "port": 7777,
-    "removed": 1786844908
-  },
-  {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
-    "addr": "95.135.1.5",
-    "port": 7777,
-    "removed": 1786844908
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
