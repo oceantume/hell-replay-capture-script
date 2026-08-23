@@ -1066,7 +1066,7 @@
     "port": 9620
   },
   {
-    "name": "Crucible - Chicago",
+    "name": "Utah/Omaha/Juno Only - Chicago",
     "addr": "64.31.10.210",
     "port": 8530
   },
@@ -1257,12 +1257,6 @@
     "addr": "67.217.48.14",
     "port": 9075,
     "removed": 1787276827
-  },
-  {
-    "name": "[FFE] ★FireForEffect★ - 3 Days VIP for Seeders",
-    "addr": "69.162.102.53",
-    "port": 7787,
-    "removed": 1786887029
   },
   {
     "name": "BAE TestCenter",
