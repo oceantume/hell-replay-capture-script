@@ -917,8 +917,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1787403139
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -948,8 +947,7 @@
   {
     "name": "Special Needs Server",
     "addr": "45.151.81.212",
-    "port": 7777,
-    "removed": 1787449827
+    "port": 7777
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
@@ -1338,12 +1336,6 @@
     "removed": 1787209004
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "82.27.3.48",
-    "port": 7777,
-    "removed": 1786884749
-  },
-  {
     "name": "HLL Server",
     "addr": "83.11.88.87",
     "port": 7777,
@@ -1468,7 +1460,8 @@
   {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "89.39.161.244",
-    "port": 7837
+    "port": 7837,
+    "removed": 1787489614
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
@@ -1524,12 +1517,6 @@
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
     "addr": "92.118.18.96",
     "port": 7787
-  },
-  {
-    "name": "3RD BRIGADE COMMUNITY SERVER",
-    "addr": "92.118.19.84",
-    "port": 7777,
-    "removed": 1786884749
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
