@@ -306,6 +306,11 @@
     "port": 8530
   },
   {
+    "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.216.144.75",
+    "port": 10165
+  },
+  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "185.216.144.75",
     "port": 11255,
@@ -422,7 +427,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -503,6 +508,11 @@
     "port": 8888
   },
   {
+    "name": "HCIA EU 3 - Powered by Streamline",
+    "addr": "203.17.244.3",
+    "port": 8898
+  },
+  {
     "name": "HCIA EU 1 - Powered by Streamline",
     "addr": "203.23.178.2",
     "port": 8898
@@ -563,7 +573,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -588,7 +598,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -633,6 +643,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "208.115.226.92",
+    "port": 7777
+  },
+  {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
     "port": 7807
@@ -643,7 +658,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1348,8 +1363,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1787423975
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
