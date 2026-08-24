@@ -148,7 +148,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1787576622
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -313,7 +314,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.216.144.75",
-    "port": 10165
+    "port": 10165,
+    "removed": 1787576622
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -558,7 +560,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -922,12 +924,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1787576622
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1787576622
   },
   {
     "name": "HLL Official - US East #01",
@@ -1391,6 +1395,11 @@
     "port": 28500
   },
   {
+    "name": "HLL Server",
+    "addr": "84.69.243.241",
+    "port": 7777
+  },
+  {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
     "addr": "85.208.197.66",
     "port": 7817
@@ -1534,8 +1543,7 @@
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777,
-    "removed": 1787555503
+    "port": 7777
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
@@ -1605,14 +1613,12 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 18:00–",
     "addr": "95.135.1.33",
-    "port": 7777,
-    "removed": 1787555503
+    "port": 7777
   },
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CEST︱",
     "addr": "95.135.1.35",
-    "port": 7777,
-    "removed": 1787555503
+    "port": 7777
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
