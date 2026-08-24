@@ -312,6 +312,11 @@
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
+    "addr": "185.206.148.204",
+    "port": 9075
+  },
+  {
+    "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.216.144.75",
     "port": 10165,
     "removed": 1787576622
@@ -802,7 +807,8 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857
+    "port": 7857,
+    "removed": 1787599377
   },
   {
     "name": "CN/ARO＆RAM投票图池嘴硬体软雌小鬼沐芷米Q74669963",
@@ -1261,7 +1267,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] Lachflash Kommando Fliese #1 | BFTB",
+    "name": "[GER] Fliesentisch der Vikinger #1 | BFTB",
     "addr": "65.21.46.146",
     "port": 9075
   },
