@@ -1534,7 +1534,8 @@
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787555503
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
@@ -1604,12 +1605,14 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 18:00–",
     "addr": "95.135.1.33",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787555503
   },
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CEST︱",
     "addr": "95.135.1.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787555503
   },
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
