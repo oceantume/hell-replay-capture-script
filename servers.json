@@ -148,8 +148,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1787576622
+    "port": 9075
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -352,6 +351,11 @@
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
     "port": 8530
+  },
+  {
+    "name": "[FD] - Event Server | [RUS]",
+    "addr": "185.70.107.12",
+    "port": 9075
   },
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
@@ -930,8 +934,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1787576622
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1007,7 +1010,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "51.195.170.94",
-    "port": 8530
+    "port": 8530,
+    "removed": 1787597416
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1288,7 +1292,7 @@
     "port": 7777
   },
   {
-    "name": "³³¹ Blitz Bash - Discord.gg/331st",
+    "name": "K&B - Match Server - ³³¹ XIII",
     "addr": "74.63.225.18",
     "port": 7787
   },
@@ -1397,7 +1401,8 @@
   {
     "name": "HLL Server",
     "addr": "84.69.243.241",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787597416
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
