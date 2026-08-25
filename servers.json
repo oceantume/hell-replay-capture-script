@@ -563,7 +563,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -1445,6 +1445,11 @@
     "port": 28600
   },
   {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
+  },
+  {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
     "addr": "89.39.161.131",
     "port": 7777
@@ -1548,8 +1553,7 @@
   {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
     "addr": "92.118.18.96",
-    "port": 7787,
-    "removed": 1787641121
+    "port": 7787
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
