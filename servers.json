@@ -807,8 +807,7 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857,
-    "removed": 1787599377
+    "port": 7857
   },
   {
     "name": "CN/ARO＆RAM投票图池嘴硬体软雌小鬼沐芷米Q74669963",
@@ -858,6 +857,11 @@
   {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
+    "port": 7777
+  },
+  {
+    "name": "Test",
+    "addr": "40.27.44.12",
     "port": 7777
   },
   {
@@ -1650,11 +1654,5 @@
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "95.135.1.7",
     "port": 7777
-  },
-  {
-    "name": "HLL Brotato Chips",
-    "addr": "95.156.198.83",
-    "port": 10400,
-    "removed": 1787017275
   }
 ]
