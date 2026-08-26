@@ -148,8 +148,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1787749522
+    "port": 9075
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -194,12 +193,6 @@
     "port": 28000
   },
   {
-    "name": "[FR] Opération Fer de Lance | FR ONLY | ADMIN ACTIF |",
-    "addr": "176.57.140.64",
-    "port": 28100,
-    "removed": 1787165055
-  },
-  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -212,7 +205,8 @@
   {
     "name": "OVERMINDS | EU | New Players Welcome | discord.gg/bSazJUWzTR",
     "addr": "176.57.168.251",
-    "port": 28200
+    "port": 28200,
+    "removed": 1787774074
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -288,6 +282,11 @@
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
     "addr": "176.57.174.211",
     "port": 28300
+  },
+  {
+    "name": "German server",
+    "addr": "176.57.174.211",
+    "port": 28400
   },
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
@@ -941,14 +940,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1787749522
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1787749522
+    "port": 28500
   },
   {
     "name": "HLL Official - US East #01",
@@ -1354,6 +1351,11 @@
     "removed": 1787209004
   },
   {
+    "name": "HLLdanmark.dk - DKB - Dansk server åbner snart",
+    "addr": "82.27.3.64",
+    "port": 7787
+  },
+  {
     "name": "HLL Server",
     "addr": "83.11.88.87",
     "port": 7777,
@@ -1372,8 +1374,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1787683721
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
