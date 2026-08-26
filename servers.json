@@ -148,7 +148,8 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075
+    "port": 9075,
+    "removed": 1787749522
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -236,8 +237,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1787298633
+    "port": 28100
   },
   {
     "name": "DevQA - EU #02",
@@ -895,32 +895,38 @@
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
     "addr": "40.27.45.12",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787749522
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "40.27.45.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1787749522
   },
   {
     "name": "Pathfinders | Event Server",
     "addr": "40.27.45.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787749522
   },
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787749522
   },
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.45.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787749522
   },
   {
     "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
     "addr": "40.27.45.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787749522
   },
   {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
@@ -935,12 +941,14 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1787749522
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1787749522
   },
   {
     "name": "HLL Official - US East #01",
