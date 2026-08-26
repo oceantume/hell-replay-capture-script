@@ -313,7 +313,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075
+    "port": 9075,
+    "removed": 1787708874
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -496,8 +497,7 @@
   {
     "name": "GUSTAV LINE | WARFARE | ENG/ITA | SL65+ | CMD95+ | SEED VIP",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1787685722
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -1224,12 +1224,6 @@
     "port": 7787
   },
   {
-    "name": "SRS test 5",
-    "addr": "64.31.61.91",
-    "port": 7777,
-    "removed": 1787103803
-  },
-  {
     "name": "Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
     "port": 7787
@@ -1238,12 +1232,6 @@
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
     "addr": "64.31.61.92",
     "port": 7777
-  },
-  {
-    "name": "SRS test 3",
-    "addr": "64.31.61.94",
-    "port": 7777,
-    "removed": 1787103803
   },
   {
     "name": "♤CtrlAlt-Defeat NA2 Veteran Server",
