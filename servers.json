@@ -113,22 +113,26 @@
   {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
     "addr": "15.204.170.65",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787820902
   },
   {
     "name": "SOULSNIPER'S SOF | NEW PLAYERS WELCOME | DISCORD.GG/SOULSNIPER",
     "addr": "15.204.170.69",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787820902
   },
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "15.204.170.69",
-    "port": 7787
+    "port": 7787,
+    "removed": 1787820902
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
-    "port": 7787
+    "port": 7787,
+    "removed": 1787820902
   },
   {
     "name": "[ESP] BxB - Black Bees - Event Server",
@@ -149,12 +153,6 @@
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "162.220.160.26",
-    "port": 8530,
-    "removed": 1787190110
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -312,8 +310,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075,
-    "removed": 1787708874
+    "port": 9075
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
@@ -355,7 +352,8 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530
+    "port": 8530,
+    "removed": 1787820902
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -564,7 +562,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -706,6 +704,11 @@
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
     "addr": "208.115.255.53",
+    "port": 7777
+  },
+  {
+    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q623668702",
+    "addr": "216.144.245.83",
     "port": 7777
   },
   {
@@ -1066,7 +1069,8 @@
   {
     "name": "Bob The Builder OFFICIAL XP FARM | Fast Loadouts discord.gg/btb",
     "addr": "63.143.60.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787820902
   },
   {
     "name": "TOG | The Old Guard Official HLL Server | US Central",
@@ -1106,15 +1110,17 @@
   {
     "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q623668702",
     "addr": "64.31.11.42",
-    "port": 8530
+    "port": 8530,
+    "removed": 1787820902
   },
   {
     "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
     "addr": "64.31.11.42",
-    "port": 9075
+    "port": 9075,
+    "removed": 1787820902
   },
   {
-    "name": "VETERANSRADIO.CA SERVER",
+    "name": "VETERANSRADIO.CA NOOB FRIENDLY SERVER",
     "addr": "64.31.18.226",
     "port": 7777
   },
@@ -1131,7 +1137,8 @@
   {
     "name": "=7Cav= HLL Training Server 1 | Powered by Qonzer",
     "addr": "64.31.2.20",
-    "port": 7787
+    "port": 7787,
+    "removed": 1787820902
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1241,7 +1248,8 @@
   {
     "name": "♤CtrlAlt-Defeat NA2 Veteran Server",
     "addr": "64.31.62.74",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787820902
   },
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
@@ -1343,12 +1351,6 @@
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
     "port": 8530
-  },
-  {
-    "name": "New HLLC service",
-    "addr": "82.27.3.209",
-    "port": 7777,
-    "removed": 1787209004
   },
   {
     "name": "HLLdanmark.dk - DKB - Dansk server åbner snart",
@@ -1515,7 +1517,7 @@
     "port": 7887
   },
   {
-    "name": "[ESP/LATAM] Cruz de Hierro",
+    "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
     "port": 7777
   },
