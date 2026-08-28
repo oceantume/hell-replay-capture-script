@@ -143,7 +143,8 @@
   {
     "name": "CN SR萌新友好机密大坝攻防服Q591906548",
     "addr": "154.45.251.75",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787955006
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -158,7 +159,8 @@
   {
     "name": "HLL Server",
     "addr": "176.248.103.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787955006
   },
   {
     "name": "QA Testing - EU #02",
@@ -548,7 +550,8 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787955006
   },
   {
     "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
@@ -656,7 +659,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -701,12 +704,6 @@
     "port": 7777
   },
   {
-    "name": "Expeditionary Forces-NEW PLAYER FRIENDLY-2 Days SEEDING VIP",
-    "addr": "216.245.210.196",
-    "port": 7797,
-    "removed": 1787317270
-  },
-  {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
     "port": 8772
@@ -725,6 +722,11 @@
     "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
     "addr": "40.27.40.13",
     "port": 7787
+  },
+  {
+    "name": "CN/东德消防社区九天无限制战区 JP/Q1108949456",
+    "addr": "40.27.40.14",
+    "port": 7777
   },
   {
     "name": "<CN>#1 FJ空降兵瓦学弟(纯冲突，来糕手)Q:979552783",
@@ -792,6 +794,11 @@
     "port": 7837
   },
   {
+    "name": "CN SR萌新友好机密大坝攻防服Q591906548",
+    "addr": "40.27.40.151",
+    "port": 7847
+  },
+  {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
     "port": 7857
@@ -812,7 +819,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
+    "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Dallas",
     "addr": "40.27.41.10",
     "port": 7777
   },
@@ -1077,7 +1084,7 @@
     "port": 7787
   },
   {
-    "name": "Pathfinders | Chicago | LVL 25+ | Discord.gg/pathfinders-hll",
+    "name": "Pathfinders | Chicago | Competitors Welcome | Discord.gg/pathfi",
     "addr": "63.143.63.85",
     "port": 7777
   },
@@ -1148,7 +1155,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Miami | Eventos |",
+    "name": "[LATAM/ESP] Tacos&Tequila | OGT 3 | Miami | Eventos |",
     "addr": "64.31.31.122",
     "port": 7787
   },
@@ -1215,7 +1222,8 @@
   {
     "name": "CN/东德消防社区九天无限制战区 JP/Q1108949456",
     "addr": "64.31.51.242",
-    "port": 7777
+    "port": 7777,
+    "removed": 1787955006
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1253,7 +1261,7 @@
     "port": 8530
   },
   {
-    "name": "[GER] Fliesentisch der Vikinger #1 | BFTB",
+    "name": "[GER] Fliesentisch-Besitzer Fliese #1 | BFTB",
     "addr": "65.21.46.146",
     "port": 9075
   },
@@ -1276,6 +1284,11 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.48.14",
     "port": 9075
+  },
+  {
+    "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
+    "addr": "74.63.219.101",
+    "port": 7787
   },
   {
     "name": "BAE TestCenter",
@@ -1361,8 +1374,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1787868623
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1380,6 +1392,16 @@
     "port": 28000
   },
   {
+    "name": "#1 Saluting Our Vets",
+    "addr": "83.223.207.104",
+    "port": 28000
+  },
+  {
+    "name": "Test",
+    "addr": "83.223.207.104",
+    "port": 28300
+  },
+  {
     "name": "Test",
     "addr": "83.223.207.50",
     "port": 28100,
@@ -1388,7 +1410,8 @@
   {
     "name": "#1 Saluting Our Vets",
     "addr": "83.223.207.50",
-    "port": 28500
+    "port": 28500,
+    "removed": 1787955006
   },
   {
     "name": "HLL Server",
