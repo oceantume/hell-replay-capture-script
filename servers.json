@@ -158,8 +158,7 @@
   {
     "name": "HLL Server",
     "addr": "176.248.103.70",
-    "port": 7777,
-    "removed": 1787276827
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -245,7 +244,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1787915258
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -342,8 +342,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1787820902
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -887,14 +886,12 @@
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
     "addr": "40.27.45.12",
-    "port": 7777,
-    "removed": 1787749522
+    "port": 7777
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "40.27.45.13",
-    "port": 7787,
-    "removed": 1787749522
+    "port": 7787
   },
   {
     "name": "Pathfinders | Event Server",
@@ -904,8 +901,7 @@
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
-    "port": 7777,
-    "removed": 1787749522
+    "port": 7777
   },
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
@@ -945,7 +941,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1787915258
   },
   {
     "name": "HLL Official - US East #03",
@@ -1026,7 +1023,8 @@
   {
     "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
     "addr": "51.77.66.51",
-    "port": 8530
+    "port": 8530,
+    "removed": 1787915258
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
@@ -1110,7 +1108,7 @@
     "port": 9075
   },
   {
-    "name": "VETERANSRADIO.CA | NOOB FRIENDLY SERVER | DISCORD.GG/Bnp2F8bYuE",
+    "name": "VETERANSRADIO.CA | NOOB FRIENDLY SERVER | STATS",
     "addr": "64.31.18.226",
     "port": 7777
   },
@@ -1384,7 +1382,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.50",
-    "port": 28100
+    "port": 28100,
+    "removed": 1787915258
   },
   {
     "name": "#1 Saluting Our Vets",
