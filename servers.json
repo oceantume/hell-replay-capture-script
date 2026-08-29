@@ -105,12 +105,6 @@
     "port": 28300
   },
   {
-    "name": "EASY Company #1 | DISCORD.GG/EASYCOMPANY | QONZER",
-    "addr": "15.204.170.64",
-    "port": 7787,
-    "removed": 1787362826
-  },
-  {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
     "addr": "15.204.170.65",
     "port": 7777
@@ -246,13 +240,13 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1787915258
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1787986323
   },
   {
     "name": "VT1",
@@ -550,11 +544,10 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
-    "port": 7777,
-    "removed": 1787955006
+    "port": 7777
   },
   {
-    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -724,7 +717,7 @@
     "port": 7787
   },
   {
-    "name": "CN/东德消防社区九天无限制战区 JP/Q1108949456",
+    "name": "CN/东德消防社区九天无限制战区 JP/Q726807477",
     "addr": "40.27.40.14",
     "port": 7777
   },
@@ -819,7 +812,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 2 | Dallas",
+    "name": "BUSCA EL NUEVO SERVER OGT PUBLICO",
     "addr": "40.27.41.10",
     "port": 7777
   },
@@ -854,10 +847,9 @@
     "port": 7777
   },
   {
-    "name": "Test",
+    "name": "Pure Invasion | 24/7 Offensive | Discord.gg/pureinvasion",
     "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1787641121
+    "port": 7777
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -1359,12 +1351,6 @@
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.11.88.87",
-    "port": 7777,
-    "removed": 1787362826
   },
   {
     "name": "HLL Official - Asia #01",
