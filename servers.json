@@ -913,7 +913,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1788023064
   },
   {
     "name": "HLL Official - US West #01",
@@ -1156,7 +1157,8 @@
   {
     "name": "Hold The Line Miami - Powered by Caveiras",
     "addr": "64.31.31.126",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788023064
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
