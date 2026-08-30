@@ -25,6 +25,11 @@
     "port": 7807
   },
   {
+    "name": "HLL Server",
+    "addr": "103.205.24.54",
+    "port": 7777
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -154,7 +159,8 @@
   {
     "name": "HLL Server",
     "addr": "176.248.103.70",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788107573
   },
   {
     "name": "QA Testing - EU #02",
@@ -1508,12 +1514,6 @@
     "name": "Hold The Line Miami - Powered by Caveiras",
     "addr": "89.39.161.244",
     "port": 7787
-  },
-  {
-    "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
-    "addr": "89.39.161.244",
-    "port": 7837,
-    "removed": 1787489614
   },
   {
     "name": "2RB - LINHA DE FRENTE - BRASIL",
