@@ -27,7 +27,8 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788123313
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -108,6 +109,11 @@
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
     "port": 28300
+  },
+  {
+    "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
+    "addr": "149.50.126.13",
+    "port": 7777
   },
   {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
@@ -533,7 +539,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788123313
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -1511,7 +1518,7 @@
     "port": 7777
   },
   {
-    "name": "Hold The Line Miami - Powered by Caveiras",
+    "name": "[CAV] CAVEIRAS BRASIL #5 | Treinos | Eventos | discord.gg/cavei",
     "addr": "89.39.161.244",
     "port": 7787
   },
@@ -1622,7 +1629,7 @@
     "port": 7777
   },
   {
-    "name": "℧ | ④ Fäuste gegen Blaubeeren [℧ | Omen] [GER/ENG]",
+    "name": "℧ | Omen Rekrutiert! [℧ | Omen] [GER/ENG]",
     "addr": "95.135.1.18",
     "port": 7777
   },
