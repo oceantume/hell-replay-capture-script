@@ -117,7 +117,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "15.204.170.69",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788066391
   },
   {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
@@ -215,7 +216,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788066391
   },
   {
     "name": "QA Testing - EU #01",
@@ -245,8 +247,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1787986323
+    "port": 28400
   },
   {
     "name": "VT1",
@@ -473,12 +474,14 @@
   {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
     "addr": "195.82.158.186",
-    "port": 21000
+    "port": 21000,
+    "removed": 1788066391
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1788066391
   },
   {
     "name": "DUTCHLETLOOSE.NL [DLL] - OFFENSIVE - ENGLISH - VIP FOR SEEDING",
@@ -1120,6 +1123,11 @@
     "port": 7787
   },
   {
+    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
+    "addr": "64.31.2.22",
+    "port": 7787
+  },
+  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1323,6 +1331,11 @@
     "port": 7827
   },
   {
+    "name": "Hold The Line Miami - Powered by Caveiras",
+    "addr": "78.111.102.94",
+    "port": 7837
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1488,6 +1501,11 @@
     "port": 7777
   },
   {
+    "name": "Hold The Line Miami - Powered by Caveiras",
+    "addr": "89.39.161.244",
+    "port": 7787
+  },
+  {
     "name": "[LATAM] Hagamos Asado en el Patio del Olimpo [AFIP]",
     "addr": "89.39.161.244",
     "port": 7837,
@@ -1547,6 +1565,11 @@
     "name": "Nur Deutsch/Mikrofon ist PFLICHT!!!/only German",
     "addr": "92.118.16.126",
     "port": 7807
+  },
+  {
+    "name": "FJR6 Training",
+    "addr": "92.118.18.55",
+    "port": 7787
   },
   {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
