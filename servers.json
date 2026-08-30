@@ -154,8 +154,7 @@
   {
     "name": "HLL Server",
     "addr": "176.248.103.70",
-    "port": 7777,
-    "removed": 1787955006
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -180,6 +179,11 @@
   {
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
+    "port": 28000
+  },
+  {
+    "name": "Band of Brothers FR",
+    "addr": "176.57.140.64",
     "port": 28000
   },
   {
@@ -216,8 +220,7 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300,
-    "removed": 1788066391
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #01",
@@ -474,14 +477,12 @@
   {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1788066391
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1788066391
+    "port": 20900
   },
   {
     "name": "DUTCHLETLOOSE.NL [DLL] - OFFENSIVE - ENGLISH - VIP FOR SEEDING",
@@ -576,7 +577,8 @@
   {
     "name": "[TOB] The Old Breed - New Players Welcome | Warfare | US East (",
     "addr": "208.115.212.76",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788090298
   },
   {
     "name": "[13SNC] Dírty's Daycare - NEW PLAYERS WELCOME!",
@@ -799,7 +801,7 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO＆RAM投票图池嘴硬体软雌小鬼沐芷米Q74669963",
+    "name": "CN/ARO＆RAM投票图池傲娇雌小鬼三金Q746699634PUMA",
     "addr": "40.27.40.151",
     "port": 7867
   },
@@ -937,7 +939,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1788090298
   },
   {
     "name": "HLL Official - US East #03",
@@ -1313,7 +1316,8 @@
   {
     "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
     "addr": "78.111.102.94",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788090298
   },
   {
     "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
@@ -1569,7 +1573,8 @@
   {
     "name": "FJR6 Training",
     "addr": "92.118.18.55",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788090298
   },
   {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
