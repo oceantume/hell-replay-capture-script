@@ -257,7 +257,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1788153232
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -539,8 +540,7 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787,
-    "removed": 1788123313
+    "port": 7787
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -558,7 +558,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
