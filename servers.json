@@ -68,7 +68,8 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "139.28.17.147",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788182800
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -314,12 +315,6 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
     "port": 9075
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "185.216.144.75",
-    "port": 10165,
-    "removed": 1787576622
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -936,8 +931,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1788023064
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -952,8 +946,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1788090298
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -1629,7 +1622,7 @@
     "port": 7777
   },
   {
-    "name": "℧ | Omen Rekrutiert! [℧ | Omen] [GER/ENG]",
+    "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
     "addr": "95.135.1.18",
     "port": 7777
   },
