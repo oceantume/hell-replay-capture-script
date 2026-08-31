@@ -1009,12 +1009,6 @@
     "port": 9620
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "51.195.170.94",
-    "port": 8530,
-    "removed": 1787597416
-  },
-  {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
     "addr": "51.38.89.130",
     "port": 7777
@@ -1378,12 +1372,14 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788216227
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1788216227
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1416,12 +1412,6 @@
     "addr": "83.223.207.50",
     "port": 28500,
     "removed": 1787955006
-  },
-  {
-    "name": "HLL Server",
-    "addr": "84.69.243.241",
-    "port": 7777,
-    "removed": 1787597416
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
