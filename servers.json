@@ -74,7 +74,8 @@
   {
     "name": "UK | NEW PLAYERS WELCOME",
     "addr": "139.28.17.148",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788296140
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -416,12 +417,6 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] #2 Dírty's Offensives [US] - discord.gg/13snc",
-    "addr": "192.169.95.182",
-    "port": 7777,
-    "removed": 1787683721
-  },
-  {
     "name": "[77th] The Old Bastards Official Server",
     "addr": "192.169.95.2",
     "port": 9620
@@ -539,7 +534,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788296140
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -1453,12 +1449,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1787683721
   },
   {
     "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
