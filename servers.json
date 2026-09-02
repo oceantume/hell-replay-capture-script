@@ -120,7 +120,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788347162
   },
   {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
@@ -167,7 +168,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788347162
   },
   {
     "name": "HLL Server",
@@ -264,8 +266,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1788322239
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -553,7 +554,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
+    "name": "OKT︱Event︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -719,7 +720,7 @@
     "port": 7777
   },
   {
-    "name": "JUMP&JSOC",
+    "name": "CN#3 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
     "addr": "40.27.40.13",
     "port": 7777
   },
@@ -852,7 +853,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788347162
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -887,7 +889,8 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788347162
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -1409,7 +1412,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788347162
   },
   {
     "name": "Test",
@@ -1666,7 +1670,7 @@
     "port": 7777
   },
   {
-    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QOENZER",
+    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QONZER",
     "addr": "95.135.1.39",
     "port": 7777
   },
