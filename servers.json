@@ -217,12 +217,6 @@
     "port": 28100
   },
   {
-    "name": "OVERMINDS | EU | New Players Welcome | discord.gg/bSazJUWzTR",
-    "addr": "176.57.168.251",
-    "port": 28200,
-    "removed": 1787774074
-  },
-  {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
     "addr": "176.57.168.252",
     "port": 28000
@@ -535,7 +529,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788382510
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -553,7 +548,7 @@
     "port": 7777
   },
   {
-    "name": "OKT︱Event︱#Qonzer",
+    "name": "OKT︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
     "addr": "208.115.206.37",
     "port": 7787
   },
@@ -646,6 +641,11 @@
   {
     "name": "7PZD | 7. Panzer Division | ENG | NOW RECRUITING!",
     "addr": "208.115.226.92",
+    "port": 7777
+  },
+  {
+    "name": "OKT︱Event︱#Qonzer",
+    "addr": "208.115.226.93",
     "port": 7777
   },
   {
@@ -1374,6 +1374,11 @@
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
+  },
+  {
+    "name": "HLL Server",
+    "addr": "83.11.172.143",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
