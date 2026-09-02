@@ -264,7 +264,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1788322239
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -534,8 +535,7 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787,
-    "removed": 1788296140
+    "port": 7787
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -784,6 +784,11 @@
     "port": 7797
   },
   {
+    "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
+    "addr": "40.27.40.151",
+    "port": 7807
+  },
+  {
     "name": "<CN>#7 IMP帝国社区 禁炮萌新服 60限杀150级以下",
     "addr": "40.27.40.151",
     "port": 7817
@@ -801,7 +806,8 @@
   {
     "name": "CN SR萌新友好机密大坝攻防服Q591906548",
     "addr": "40.27.40.151",
-    "port": 7847
+    "port": 7847,
+    "removed": 1788322239
   },
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
@@ -1103,10 +1109,11 @@
   {
     "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
     "addr": "64.31.11.42",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788322239
   },
   {
-    "name": "VETERANSRADIO.CA | NOOB FRIENDLY SERVER | REAL-TIME STATS | SVR",
+    "name": "VETERANSRADIO.CA | NOOB FRIENDLY SERVER | REAL-TIME STATS | CHI",
     "addr": "64.31.18.226",
     "port": 7777
   },
@@ -1268,7 +1275,8 @@
   {
     "name": "75TH RANGERS VS L201",
     "addr": "66.94.106.74",
-    "port": 31200
+    "port": 31200,
+    "removed": 1788322239
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1451,7 +1459,7 @@
     "port": 28600
   },
   {
-    "name": "[LATAM/ESP] Asado, Vino y Latencia GoD [Clan 7DL / VKR]",
+    "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
     "addr": "89.39.161.131",
     "port": 7777
   },
