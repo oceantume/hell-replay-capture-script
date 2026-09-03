@@ -33,8 +33,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
-    "port": 10165,
-    "removed": 1788408404
+    "port": 10165
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -169,7 +168,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788433387
   },
   {
     "name": "HLL Server",
@@ -225,8 +225,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1788408404
+    "port": 28200
   },
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
@@ -331,7 +330,8 @@
   {
     "name": "404 | Eventserver",
     "addr": "185.216.144.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1788433387
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -451,26 +451,22 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
@@ -480,14 +476,12 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
     "addr": "195.82.158.186",
-    "port": 21000,
-    "removed": 1788408404
+    "port": 21000
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -618,14 +612,12 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1788408404
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1788408404
+    "port": 7817
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
@@ -635,8 +627,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
-    "port": 7787,
-    "removed": 1788408404
+    "port": 7787
   },
   {
     "name": "Pathfinders | Event Frankfurt",
@@ -706,8 +697,7 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787,
-    "removed": 1788408404
+    "port": 7787
   },
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
@@ -757,8 +747,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807,
-    "removed": 1788408404
+    "port": 7807
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -864,7 +853,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788433387
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -879,7 +869,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | Discord.gg/pureinvasion",
     "addr": "40.27.44.12",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788433387
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -899,7 +890,8 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788433387
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -956,6 +948,11 @@
     "addr": "45.137.246.13",
     "port": 28500,
     "removed": 1788366406
+  },
+  {
+    "name": "QA Testing - US East #09",
+    "addr": "45.137.247.33",
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -1114,12 +1111,6 @@
     "port": 8530
   },
   {
-    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q623668702",
-    "addr": "64.31.11.42",
-    "port": 8530,
-    "removed": 1787820902
-  },
-  {
     "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
     "addr": "64.31.11.42",
     "port": 9075,
@@ -1158,7 +1149,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 2 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
     "addr": "64.31.29.179",
-    "port": 7827
+    "port": 7827,
+    "removed": 1788433387
   },
   {
     "name": "[GER] Frontline Network | 1 | fln.gg",
@@ -1390,8 +1382,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1455,8 +1446,7 @@
   {
     "name": "Mondaze Event Server",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1788408404
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
@@ -1552,7 +1542,8 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788433387
   },
   {
     "name": "Academia de Guerra - 7DL",
@@ -1589,6 +1580,11 @@
     "addr": "92.118.18.55",
     "port": 7787,
     "removed": 1788090298
+  },
+  {
+    "name": "End of Existence | VoidExistence.com",
+    "addr": "92.118.18.88",
+    "port": 7797
   },
   {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
