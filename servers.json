@@ -58,8 +58,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1788408404
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -168,8 +167,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1788433387
+    "port": 9075
   },
   {
     "name": "HLL Server",
@@ -472,6 +470,11 @@
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
     "port": 8530
+  },
+  {
+    "name": "FJR6 Training Grounds",
+    "addr": "194.140.197.187",
+    "port": 29200
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -853,8 +856,7 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777,
-    "removed": 1788433387
+    "port": 7777
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -869,8 +871,7 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | Discord.gg/pureinvasion",
     "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1788433387
+    "port": 7777
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -890,8 +891,7 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1788433387
+    "port": 7777
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -946,8 +946,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1788366406
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -1382,7 +1381,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788452212
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1392,14 +1392,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1788216227
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1788216227
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1542,8 +1540,7 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777,
-    "removed": 1788433387
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
