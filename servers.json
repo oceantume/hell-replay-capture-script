@@ -176,6 +176,11 @@
     "removed": 1788107573
   },
   {
+    "name": "HLL Server",
+    "addr": "176.248.105.35",
+    "port": 7777
+  },
+  {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
     "port": 28000
@@ -328,8 +333,7 @@
   {
     "name": "404 | Eventserver",
     "addr": "185.216.144.75",
-    "port": 9620,
-    "removed": 1788433387
+    "port": 9620
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -534,7 +538,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788468828
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
