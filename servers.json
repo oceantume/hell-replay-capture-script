@@ -114,6 +114,11 @@
     "port": 28400
   },
   {
+    "name": "USDR Milsim Team Server",
+    "addr": "144.126.153.213",
+    "port": 28600
+  },
+  {
     "name": "TOMO 24/7 JUNO BEACH",
     "addr": "149.102.154.195",
     "port": 28100
@@ -185,8 +190,7 @@
   {
     "name": "HLL Server",
     "addr": "176.248.105.35",
-    "port": 7777,
-    "removed": 1788495187
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -320,7 +324,8 @@
   {
     "name": "German server",
     "addr": "176.57.174.211",
-    "port": 28400
+    "port": 28400,
+    "removed": 1788554486
   },
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
@@ -421,6 +426,11 @@
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
     "addr": "192.169.90.203",
     "port": 7847
+  },
+  {
+    "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
+    "addr": "192.169.90.204",
+    "port": 7777
   },
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
@@ -631,7 +641,8 @@
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
     "addr": "208.115.226.2",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788554486
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
@@ -967,6 +978,11 @@
   {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
     "addr": "40.27.47.179",
+    "port": 7777
+  },
+  {
+    "name": "[ID/EN] • NUSANTARA FRONTLINE • DISCORD.GG/8AEyYGqYHz",
+    "addr": "40.27.47.194",
     "port": 7777
   },
   {
