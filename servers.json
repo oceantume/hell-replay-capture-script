@@ -58,8 +58,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1788495187
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -96,7 +95,8 @@
   {
     "name": "DKB - Event server - HLLdanmark.dk",
     "addr": "141.95.33.70",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788519851
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -168,7 +168,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788519851
   },
   {
     "name": "HLL Server",
@@ -220,8 +221,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "176.57.168.251",
-    "port": 28100,
-    "removed": 1788495187
+    "port": 28100
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -231,8 +231,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1788495187
+    "port": 28200
   },
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
@@ -387,8 +386,7 @@
   {
     "name": "5th Ranger Battalion | 5thrb.com | Recruiting | All Welcome",
     "addr": "192.169.86.210",
-    "port": 7787,
-    "removed": 1788495187
+    "port": 7787
   },
   {
     "name": "Odyssey - US EAST - discord.gg/odysseyhll",
@@ -757,9 +755,19 @@
     "port": 7787
   },
   {
+    "name": "CN2#散人社区|极限战争攻防咖啡馆丨日服120748151",
+    "addr": "40.27.40.150",
+    "port": 7797
+  },
+  {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
     "port": 7807
+  },
+  {
+    "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
+    "addr": "40.27.40.150",
+    "port": 7817
   },
   {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
@@ -865,7 +873,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788519851
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -900,12 +909,14 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788519851
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788519851
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -1425,7 +1436,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788519851
   },
   {
     "name": "Test",
@@ -1473,6 +1485,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
@@ -1548,7 +1565,8 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788519851
   },
   {
     "name": "Academia de Guerra - 7DL",
