@@ -66,6 +66,11 @@
     "port": 7777
   },
   {
+    "name": "TRR | EVENTS",
+    "addr": "139.28.17.147",
+    "port": 7777
+  },
+  {
     "name": "Another Qonzer.com server is born!",
     "addr": "139.28.17.147",
     "port": 7787,
@@ -116,7 +121,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788538351
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -168,8 +174,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1788519851
+    "port": 9075
   },
   {
     "name": "HLL Server",
@@ -186,7 +191,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1788538351
   },
   {
     "name": "HLL Dev Team 1",
@@ -201,7 +207,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1788538351
   },
   {
     "name": "Warfrags Studios",
@@ -211,6 +218,11 @@
   {
     "name": "Band of Brothers FR",
     "addr": "176.57.140.64",
+    "port": 28000
+  },
+  {
+    "name": "For Tea & Country R&D",
+    "addr": "176.57.153.114",
     "port": 28000
   },
   {
@@ -246,7 +258,13 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1788538351
+  },
+  {
+    "name": "HLL Playtest Server - Europe #01",
+    "addr": "176.57.168.38",
+    "port": 28200
   },
   {
     "name": "DevQA - EU #02",
@@ -256,7 +274,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1788538351
   },
   {
     "name": "DevQA - EU #01",
@@ -499,7 +518,7 @@
     "port": 20900
   },
   {
-    "name": "DUTCHLETLOOSE.NL [DLL] - OFFENSIVE - ENGLISH - VIP FOR SEEDING",
+    "name": "DUTCHLETLOOSE.NL [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -873,8 +892,7 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777,
-    "removed": 1788519851
+    "port": 7777
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -909,14 +927,12 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1788519851
+    "port": 7777
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777,
-    "removed": 1788519851
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -966,12 +982,14 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1788538351
   },
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1788538351
   },
   {
     "name": "HLL Official - US East #01",
@@ -982,6 +1000,11 @@
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #03",
@@ -1052,12 +1075,6 @@
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
     "port": 7777
-  },
-  {
-    "name": "DK/ENG HLL Danmark Community Server [DKB] - www.hlldanmark.dk",
-    "addr": "51.77.66.51",
-    "port": 8530,
-    "removed": 1787915258
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
@@ -1436,14 +1453,7 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300,
-    "removed": 1788519851
-  },
-  {
-    "name": "Test",
-    "addr": "83.223.207.50",
-    "port": 28100,
-    "removed": 1787915258
+    "port": 28300
   },
   {
     "name": "#1 Saluting Our Vets",
@@ -1489,7 +1499,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788538351
   },
   {
     "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
@@ -1565,8 +1576,7 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777,
-    "removed": 1788519851
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
