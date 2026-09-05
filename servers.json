@@ -33,8 +33,7 @@
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
-    "port": 10165,
-    "removed": 1788581356
+    "port": 10165
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -203,8 +202,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1788581356
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -235,8 +233,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "176.57.168.251",
-    "port": 28100,
-    "removed": 1788581356
+    "port": 28100
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -246,8 +243,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
-    "port": 28200,
-    "removed": 1788581356
+    "port": 28200
   },
   {
     "name": "KRIEG - CZ/SK/EU - krieghll.cz",
@@ -375,8 +371,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1788581356
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -486,26 +481,22 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
@@ -520,8 +511,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
@@ -658,14 +648,12 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1788581356
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1788581356
+    "port": 7817
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
@@ -675,8 +663,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
-    "port": 7787,
-    "removed": 1788581356
+    "port": 7787
   },
   {
     "name": "Pathfinders | Event Frankfurt",
@@ -726,7 +713,8 @@
   {
     "name": "KB | Event Server (EU)",
     "addr": "208.115.251.114",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788603958
   },
   {
     "name": "OKT²︱New Player Friendly︱ENG/GER︱#LΛZMIЯ",
@@ -746,8 +734,7 @@
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787,
-    "removed": 1788581356
+    "port": 7787
   },
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
@@ -802,8 +789,7 @@
   {
     "name": "CN|[EVO]猫娘泳装夏日派对约会作战!Q群:1137040339",
     "addr": "40.27.40.150",
-    "port": 7807,
-    "removed": 1788581356
+    "port": 7807
   },
   {
     "name": "CN1#散人社区|萌新军官的战争咖啡馆丨日服1207481",
@@ -1026,7 +1012,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1788603958
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1076,7 +1063,8 @@
   {
     "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
     "addr": "5.196.78.45",
-    "port": 9014
+    "port": 9014,
+    "removed": 1788603958
   },
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
@@ -1202,7 +1190,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "64.31.2.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788603958
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1352,7 +1341,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.48.14",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788603958
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1489,8 +1479,7 @@
   {
     "name": "Mondaze Event Server",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
