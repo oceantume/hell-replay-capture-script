@@ -146,12 +146,6 @@
     "port": 7777
   },
   {
-    "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
-    "addr": "15.204.170.69",
-    "port": 7787,
-    "removed": 1788066391
-  },
-  {
     "name": "Glow's Battlegrounds :: Event East :: discord.gg/glows",
     "addr": "15.204.170.72",
     "port": 7787
@@ -1013,8 +1007,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1788603958
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1263,7 +1256,8 @@
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788691504
   },
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1355,7 +1349,8 @@
   {
     "name": "=7Cav= Tactical Realism | US Central | Discord.gg/7Cav | Qonzer",
     "addr": "74.63.231.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788691504
   },
   {
     "name": "Syndicate | LVL 50+ | Competitive Public Server",
@@ -1498,7 +1493,8 @@
   {
     "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
     "addr": "89.39.161.131",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788691504
   },
   {
     "name": "王 360 Eventos | Boot Camp Server",
@@ -1576,6 +1572,11 @@
     "port": 7797
   },
   {
+    "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3 dias VIP SEED | 7DL/V",
+    "addr": "89.39.161.89",
+    "port": 7807
+  },
+  {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28300
@@ -1609,7 +1610,8 @@
   {
     "name": "Terror Unit for Reckless Degenerates [TURD] | US EAST | WARFARE",
     "addr": "92.118.18.96",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788691504
   },
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
