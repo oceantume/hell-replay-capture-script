@@ -172,12 +172,6 @@
   },
   {
     "name": "HLL Server",
-    "addr": "176.248.103.70",
-    "port": 7777,
-    "removed": 1788107573
-  },
-  {
-    "name": "HLL Server",
     "addr": "176.248.105.35",
     "port": 7777,
     "removed": 1788581356
@@ -453,7 +447,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: London :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
