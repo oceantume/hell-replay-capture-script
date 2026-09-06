@@ -608,12 +608,6 @@
     "port": 7787
   },
   {
-    "name": "[TOB] The Old Breed - New Players Welcome | Warfare | US East (",
-    "addr": "208.115.212.76",
-    "port": 7787,
-    "removed": 1788090298
-  },
-  {
     "name": "[13SNC] Dírty's Daycare - NEW PLAYERS WELCOME!",
     "addr": "208.115.214.218",
     "port": 7867
@@ -990,8 +984,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1788538351
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -1256,8 +1249,7 @@
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.203",
-    "port": 7777,
-    "removed": 1788691504
+    "port": 7777
   },
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1358,12 +1350,6 @@
     "port": 7777
   },
   {
-    "name": "[»BAIN«] | BRASIL HELL | bainclan.com.br",
-    "addr": "78.111.102.94",
-    "port": 7777,
-    "removed": 1788090298
-  },
-  {
     "name": "[LATAM] - EL PATIO DE LA D.C. / DELTA CORPS - ESTAMOS RECLUTAND",
     "addr": "78.111.102.94",
     "port": 7787
@@ -1427,7 +1413,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1788708064
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1595,12 +1582,6 @@
     "name": "Nur Deutsch/Mikrofon ist PFLICHT!!!/only German",
     "addr": "92.118.16.126",
     "port": 7807
-  },
-  {
-    "name": "FJR6 Training",
-    "addr": "92.118.18.55",
-    "port": 7787,
-    "removed": 1788090298
   },
   {
     "name": "End of Existence | VoidExistence.com",
