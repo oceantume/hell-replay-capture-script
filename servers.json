@@ -25,6 +25,11 @@
     "port": 7807
   },
   {
+    "name": "ToastBroke",
+    "addr": "104.238.222.95",
+    "port": 7787
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -288,7 +293,8 @@
   {
     "name": "[GER][DE] Chaos Division | Anfänger freundlich, Mic-Pflicht",
     "addr": "176.57.174.211",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788816306
   },
   {
     "name": "German server",
@@ -544,7 +550,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1788816306
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -1506,7 +1513,7 @@
     "port": 7787
   },
   {
-    "name": "2RB - LINHA DE FRENTE - BRASIL",
+    "name": "[2RB 山] LINHA DE FRENTE - BRASIL",
     "addr": "89.39.161.244",
     "port": 7847
   },
