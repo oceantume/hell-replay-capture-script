@@ -65,12 +65,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "139.28.17.147",
-    "port": 7787,
-    "removed": 1788182800
-  },
-  {
     "name": "UK | NEW PLAYERS WELCOME",
     "addr": "139.28.17.148",
     "port": 7777,
@@ -202,7 +196,8 @@
   {
     "name": "For Tea & Country R&D",
     "addr": "176.57.153.114",
-    "port": 28000
+    "port": 28000,
+    "removed": 1788803180
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -464,8 +459,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1788754597
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
@@ -953,7 +947,8 @@
   {
     "name": "[ID/EN] • NUSANTARA FRONTLINE • DISCORD.GG/8AEyYGqYHz",
     "addr": "40.27.47.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788803180
   },
   {
     "name": "The Circle - ◯ | REtrO's Test Server",
@@ -1384,8 +1379,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777,
-    "removed": 1788452212
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1395,7 +1389,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788803180
   },
   {
     "name": "HLL Official - Asia #04",
