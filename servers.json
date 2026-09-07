@@ -25,12 +25,6 @@
     "port": 7807
   },
   {
-    "name": "HLL Server",
-    "addr": "103.205.24.54",
-    "port": 7777,
-    "removed": 1788123313
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -474,7 +468,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788754597
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
@@ -1039,7 +1034,8 @@
   {
     "name": "TD4W Clan Server",
     "addr": "45.59.163.234",
-    "port": 8530
+    "port": 8530,
+    "removed": 1788754597
   },
   {
     "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
