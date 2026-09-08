@@ -10,6 +10,11 @@
     "port": 7807
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "103.193.80.26",
+    "port": 7777
+  },
+  {
     "name": "BigD.com.au AU#1 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7807
@@ -161,13 +166,13 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1788865457
+    "port": 9075
   },
   {
     "name": "HLL Server",
     "addr": "176.248.105.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788884992
   },
   {
     "name": "QA Testing - EU #02",
@@ -444,7 +449,8 @@
   {
     "name": "ECL :: London :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788884992
   },
   {
     "name": "[13SNC] Dírty's Heroes - All modes/maps",
@@ -454,7 +460,8 @@
   {
     "name": "SLB #2",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788884992
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -610,7 +617,8 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788884992
   },
   {
     "name": "[82AD] Band of Brothers | #2 | discord.gg/82nd",
@@ -636,8 +644,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
     "addr": "208.115.226.3",
-    "port": 7787,
-    "removed": 1788865457
+    "port": 7787
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
@@ -677,7 +684,8 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.107",
-    "port": 7797
+    "port": 7797,
+    "removed": 1788884992
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -884,8 +892,7 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777,
-    "removed": 1788865457
+    "port": 7777
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -920,14 +927,12 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1788865457
+    "port": 7777
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777,
-    "removed": 1788865457
+    "port": 7777
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -977,8 +982,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1788620434
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -1201,12 +1205,6 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 3 | Miami | Eventos |",
-    "addr": "64.31.31.122",
-    "port": 7787,
-    "removed": 1788262558
-  },
-  {
     "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
     "addr": "64.31.31.122",
     "port": 7807
@@ -1249,8 +1247,7 @@
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.203",
-    "port": 7777,
-    "removed": 1788865457
+    "port": 7777
   },
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1398,7 +1395,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788884992
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1414,8 +1412,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1788708064
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1547,8 +1544,7 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777,
-    "removed": 1788865457
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
