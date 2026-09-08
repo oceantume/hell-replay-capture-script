@@ -181,7 +181,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1788841020
   },
   {
     "name": "QA Testing - EU #03",
@@ -263,12 +264,14 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1788841020
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1788841020
   },
   {
     "name": "VT1",
@@ -1386,7 +1389,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788841020
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1513,7 +1517,7 @@
     "port": 7787
   },
   {
-    "name": "[2RB 山] LINHA DE FRENTE - BRASIL",
+    "name": "[2RB 山] LINHA DE FRENTE | SEED = VIP 24H | BRASIL",
     "addr": "89.39.161.244",
     "port": 7847
   },
