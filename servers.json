@@ -27,7 +27,8 @@
   {
     "name": "ToastBroke",
     "addr": "104.238.222.95",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788865457
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -160,13 +161,13 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1788865457
   },
   {
     "name": "HLL Server",
     "addr": "176.248.105.35",
-    "port": 7777,
-    "removed": 1788581356
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -635,7 +636,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #3 ♦ Votemap",
     "addr": "208.115.226.3",
-    "port": 7787
+    "port": 7787,
+    "removed": 1788865457
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
@@ -855,6 +857,11 @@
     "port": 7777
   },
   {
+    "name": "DB战队训练服",
+    "addr": "40.27.40.22",
+    "port": 7777
+  },
+  {
     "name": "BUSCA EL NUEVO SERVER OGT PUBLICO",
     "addr": "40.27.41.10",
     "port": 7777
@@ -877,7 +884,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788865457
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -912,12 +920,14 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788865457
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.44.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788865457
   },
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
@@ -957,8 +967,7 @@
   {
     "name": "[ID/EN] • NUSANTARA FRONTLINE • DISCORD.GG/8AEyYGqYHz",
     "addr": "40.27.47.194",
-    "port": 7777,
-    "removed": 1788803180
+    "port": 7777
   },
   {
     "name": "The Circle - ◯ | REtrO's Test Server",
@@ -984,8 +993,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1788783296
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1241,7 +1249,8 @@
   {
     "name": "RGN #3 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.203",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788865457
   },
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1389,8 +1398,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.172.143",
-    "port": 7777,
-    "removed": 1788841020
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1539,7 +1547,8 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1788865457
   },
   {
     "name": "Academia de Guerra - 7DL",
@@ -1559,12 +1568,14 @@
   {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
-    "port": 28300
+    "port": 28300,
+    "removed": 1788865457
   },
   {
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
-    "port": 28400
+    "port": 28400,
+    "removed": 1788865457
   },
   {
     "name": "Team17",
