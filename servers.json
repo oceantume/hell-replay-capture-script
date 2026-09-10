@@ -161,8 +161,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1789038343
+    "port": 9075
   },
   {
     "name": "HLL Server",
@@ -198,8 +197,7 @@
   {
     "name": "Band of Brothers FR",
     "addr": "176.57.140.64",
-    "port": 28000,
-    "removed": 1789038343
+    "port": 28000
   },
   {
     "name": "For Tea & Country R&D",
@@ -880,8 +878,7 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777,
-    "removed": 1789038343
+    "port": 7777
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -916,8 +913,7 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1789038343
+    "port": 7777
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -1368,7 +1364,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.118.25",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789056967
   },
   {
     "name": "HLL Server",
@@ -1410,8 +1407,7 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300,
-    "removed": 1789038343
+    "port": 28300
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1523,8 +1519,7 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777,
-    "removed": 1789038343
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
