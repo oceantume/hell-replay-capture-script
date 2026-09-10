@@ -161,7 +161,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1789038343
   },
   {
     "name": "HLL Server",
@@ -197,7 +198,8 @@
   {
     "name": "Band of Brothers FR",
     "addr": "176.57.140.64",
-    "port": 28000
+    "port": 28000,
+    "removed": 1789038343
   },
   {
     "name": "For Tea & Country R&D",
@@ -373,7 +375,8 @@
   {
     "name": "-TL- The Line Sponsored by RGN discord.gg/theline",
     "addr": "192.169.86.108",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789038343
   },
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
@@ -871,12 +874,14 @@
   {
     "name": "Glow's Central · OFFENSIVE · discord.gg/glows",
     "addr": "40.27.41.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789038343
   },
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789038343
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -911,7 +916,8 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789038343
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -981,7 +987,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1789038343
   },
   {
     "name": "HLL Official - US East #02",
@@ -1165,12 +1172,6 @@
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
-  },
-  {
-    "name": "! ! !GERMAN BATTLEGROUND 2 | NEW PLAYER FRIENDLY | GBG-HLL.COM ",
-    "addr": "64.31.29.179",
-    "port": 7827,
-    "removed": 1788433387
   },
   {
     "name": "[GER] Frontline Network | 1 | fln.gg",
@@ -1367,8 +1368,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.118.25",
-    "port": 7777,
-    "removed": 1789014000
+    "port": 7777
   },
   {
     "name": "HLL Server",
@@ -1410,7 +1410,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300
+    "port": 28300,
+    "removed": 1789038343
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1522,7 +1523,8 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789038343
   },
   {
     "name": "Academia de Guerra - 7DL",
