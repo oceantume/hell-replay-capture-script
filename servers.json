@@ -554,8 +554,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827,
-    "removed": 1788816306
+    "port": 7827
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -810,7 +809,7 @@
     "port": 7797
   },
   {
-    "name": "CN#1 GR铁血战线 冲突服 |Q276245957",
+    "name": "CN#1 GR铁血战线 投票冲突服 |Q276245957 JP",
     "addr": "40.27.40.151",
     "port": 7807
   },
@@ -1005,7 +1004,8 @@
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
-    "port": 10710
+    "port": 10710,
+    "removed": 1789073118
   },
   {
     "name": "Objective First Official [ENG] | Voice Comms and Teamwork Manda",
