@@ -92,12 +92,6 @@
     "port": 8530
   },
   {
-    "name": "DKB - Event server - HLLdanmark.dk",
-    "addr": "141.95.33.70",
-    "port": 9075,
-    "removed": 1788519851
-  },
-  {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
     "port": 28000
@@ -161,7 +155,8 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1789124659
   },
   {
     "name": "HLL Server",
@@ -879,7 +874,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789124659
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -984,13 +980,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1789038343
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1789124659
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -1283,8 +1279,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "67.217.48.14",
-    "port": 9075,
-    "removed": 1788603958
+    "port": 9075
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
@@ -1408,7 +1403,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300
+    "port": 28300,
+    "removed": 1789124659
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1520,7 +1516,8 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789124659
   },
   {
     "name": "Academia de Guerra - 7DL",
