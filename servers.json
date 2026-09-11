@@ -182,7 +182,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1789100372
   },
   {
     "name": "QA Testing - EU #03",
@@ -321,7 +322,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075
+    "port": 9075,
+    "removed": 1789100372
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -479,7 +481,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789100372
   },
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
@@ -871,8 +874,7 @@
   {
     "name": "Glow's Central · OFFENSIVE · discord.gg/glows",
     "addr": "40.27.41.6",
-    "port": 7777,
-    "removed": 1789038343
+    "port": 7777
   },
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
@@ -1004,8 +1006,7 @@
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1789073118
+    "port": 10710
   },
   {
     "name": "Objective First Official [ENG] | Voice Comms and Teamwork Manda",
