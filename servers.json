@@ -155,8 +155,7 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1789124659
+    "port": 9075
   },
   {
     "name": "HLL Server",
@@ -349,8 +348,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1788927774
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -476,8 +474,7 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1789100372
+    "port": 7777
   },
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
@@ -505,7 +502,7 @@
     "port": 20900
   },
   {
-    "name": "DUTCHLETLOOSE.NL [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
+    "name": "DUTCHLETLOOSE.COM [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -874,8 +871,7 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777,
-    "removed": 1789124659
+    "port": 7777
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -965,7 +961,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1789143604
   },
   {
     "name": "HLL Official - US West #01",
@@ -1277,7 +1274,7 @@
     "port": 8772
   },
   {
-    "name": "Hosted by GTXGaming.co.uk",
+    "name": "10 Commando | New Players Welcome | Recruiting",
     "addr": "67.217.48.14",
     "port": 9075
   },
@@ -1377,13 +1374,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1788803180
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1789143604
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1403,8 +1400,7 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300,
-    "removed": 1789124659
+    "port": 28300
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
@@ -1440,12 +1436,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1788538351
   },
   {
     "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
@@ -1516,8 +1506,7 @@
   {
     "name": "[LATAM/ESP] Cruz de Hierro",
     "addr": "89.39.161.89",
-    "port": 7777,
-    "removed": 1789124659
+    "port": 7777
   },
   {
     "name": "Academia de Guerra - 7DL",
