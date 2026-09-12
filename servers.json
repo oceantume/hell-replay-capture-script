@@ -333,6 +333,11 @@
     "removed": 1788927774
   },
   {
+    "name": "EG Event server",
+    "addr": "185.70.107.12",
+    "port": 11255
+  },
+  {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
     "port": 8530
@@ -924,7 +929,7 @@
     "port": 7777
   },
   {
-    "name": "[ID/EN] • NUSANTARA FRONTLINE • DISCORD.GG/8AEyYGqYHz",
+    "name": "[ID/SEA] • NUSANTARA FRONTLINE",
     "addr": "40.27.47.194",
     "port": 7777
   },
@@ -1406,10 +1411,9 @@
     "port": 28600
   },
   {
-    "name": "[LATAM/ESP] Asado & Vino Latencia GOD | 3dias VIP SEED | 7DL/VK",
+    "name": "Another Qonzer.com server is born!",
     "addr": "89.39.161.131",
-    "port": 7777,
-    "removed": 1788691504
+    "port": 7777
   },
   {
     "name": "王 360 Eventos | Boot Camp Server",
