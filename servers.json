@@ -102,12 +102,6 @@
     "port": 28400
   },
   {
-    "name": "USDR Milsim Team Server",
-    "addr": "144.126.153.213",
-    "port": 28600,
-    "removed": 1788581356
-  },
-  {
     "name": "TOMO 24/7 JUNO BEACH",
     "addr": "149.102.154.195",
     "port": 28100
@@ -176,8 +170,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1789100372
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -1029,7 +1022,8 @@
   {
     "name": "BigD.com.au AU#0",
     "addr": "51.161.196.191",
-    "port": 9075
+    "port": 9075,
+    "removed": 1789186695
   },
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
@@ -1122,7 +1116,7 @@
     "port": 8530
   },
   {
-    "name": "VETERANSRADIO.CA | NOOB FRIENDLY SERVER | REAL-TIME STATS | CHI",
+    "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
     "addr": "64.31.18.226",
     "port": 7777
   },
@@ -1576,6 +1570,11 @@
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
     "port": 7977
+  },
+  {
+    "name": "QNZR | SYM FILTERING",
+    "addr": "95.135.0.3",
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
