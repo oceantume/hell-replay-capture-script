@@ -10,7 +10,7 @@
     "port": 7807
   },
   {
-    "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Scrim Night | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7777
   },
@@ -664,12 +664,6 @@
     "port": 7787
   },
   {
-    "name": "KB | Event Server (EU)",
-    "addr": "208.115.251.114",
-    "port": 7777,
-    "removed": 1788603958
-  },
-  {
     "name": "OKT²︱New Player Friendly︱ENG/GER︱#LΛZMIЯ",
     "addr": "208.115.251.115",
     "port": 7787
@@ -963,8 +957,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1789124659
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -978,7 +971,7 @@
     "port": 28600
   },
   {
-    "name": "[FR] LEGION XIII | Match en cours",
+    "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
     "port": 10710
   },
@@ -1012,12 +1005,6 @@
     "addr": "45.59.163.234",
     "port": 8530,
     "removed": 1788754597
-  },
-  {
-    "name": "FR/BE [CFr] Corps Franc FR ONLY - discord.gg/Wu33nsBKYj",
-    "addr": "5.196.78.45",
-    "port": 9014,
-    "removed": 1788603958
   },
   {
     "name": "BigD.com.au AU#0",
@@ -1203,7 +1190,8 @@
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789209219
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1377,7 +1365,8 @@
   {
     "name": "#1 Saluting Our Vets",
     "addr": "83.223.207.104",
-    "port": 28000
+    "port": 28000,
+    "removed": 1789209219
   },
   {
     "name": "Test",
