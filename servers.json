@@ -53,8 +53,7 @@
   {
     "name": "[GER|AT|CH] Team Amazing join.teamamazing.de",
     "addr": "135.125.188.111",
-    "port": 9620,
-    "removed": 1789315477
+    "port": 9620
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
@@ -64,8 +63,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1789315477
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -111,7 +109,8 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1789331938
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -513,8 +512,7 @@
   {
     "name": "HCIA EU 3 - Powered by Streamline",
     "addr": "203.17.244.3",
-    "port": 8898,
-    "removed": 1789315477
+    "port": 8898
   },
   {
     "name": "HCIA EU 1 - Powered by Streamline",
@@ -954,7 +952,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1789331938
   },
   {
     "name": "HLL Official - US East #01",
@@ -1028,7 +1027,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1789331938
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1566,8 +1566,7 @@
   {
     "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
     "addr": "95.135.1.18",
-    "port": 7777,
-    "removed": 1789315477
+    "port": 7777
   },
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
