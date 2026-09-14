@@ -58,14 +58,12 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1789360665
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1789360665
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -143,6 +141,11 @@
     "name": "CN/FJ细雨清风の无规则薯条冲突服 Q1095121730",
     "addr": "154.45.251.74",
     "port": 7777
+  },
+  {
+    "name": "K&B - Match Server - ³³¹ XIII",
+    "addr": "154.50.33.10",
+    "port": 7787
   },
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
@@ -231,12 +234,6 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
-  },
-  {
-    "name": "HLL Playtest Server - Europe #01",
-    "addr": "176.57.168.38",
-    "port": 28200,
-    "removed": 1788783296
   },
   {
     "name": "DevQA - EU #02",
@@ -630,7 +627,8 @@
   {
     "name": "Pathfinders | Event Frankfurt",
     "addr": "208.115.226.5",
-    "port": 7787
+    "port": 7787,
+    "removed": 1789389023
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -640,7 +638,8 @@
   {
     "name": "7PZD | 7. Panzer Division | ENG | NOW RECRUITING!",
     "addr": "208.115.226.92",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789389023
   },
   {
     "name": "OKT³︱Event︱#Qonzer",
@@ -961,19 +960,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1789389023
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1789299383
-  },
-  {
-    "name": "HLL Playtest Server - US #01",
-    "addr": "45.137.247.5",
-    "port": 28100,
-    "removed": 1788783296
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -1140,7 +1133,8 @@
   {
     "name": "[GER] Frontline Network | 1 | fln.gg",
     "addr": "64.31.29.68",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789389023
   },
   {
     "name": "VANGUARDA EVENTS",
@@ -1265,7 +1259,8 @@
   {
     "name": "K&B - Match Server - ³³¹ XIII",
     "addr": "74.63.225.18",
-    "port": 7787
+    "port": 7787,
+    "removed": 1789389023
   },
   {
     "name": "RCON Testing",
