@@ -58,12 +58,14 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1789360665
   },
   {
     "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1789360665
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -171,7 +173,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1789360665
   },
   {
     "name": "QA Testing - EU #03",
@@ -1006,12 +1009,6 @@
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
     "addr": "45.45.238.14",
     "port": 8530
-  },
-  {
-    "name": "TD4W Clan Server",
-    "addr": "45.59.163.234",
-    "port": 8530,
-    "removed": 1788754597
   },
   {
     "name": "BigD.com.au AU#0",
