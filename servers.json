@@ -195,12 +195,6 @@
     "port": 28000
   },
   {
-    "name": "For Tea & Country R&D",
-    "addr": "176.57.153.114",
-    "port": 28000,
-    "removed": 1788803180
-  },
-  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -944,7 +938,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1789409377
   },
   {
     "name": "HLL Official - US West #01",
@@ -1342,8 +1337,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1789315477
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1401,7 +1395,7 @@
     "port": 28600
   },
   {
-    "name": "ORBE - www.orchestrabellica.com || PT-ESP",
+    "name": "ORBE || www.orchestrabellica.com [PT/ESP]",
     "addr": "89.39.161.131",
     "port": 7777
   },
