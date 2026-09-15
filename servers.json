@@ -2,8 +2,7 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787,
-    "removed": 1789472029
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -113,6 +112,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "15.204.170.64",
+    "port": 7777
+  },
+  {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
     "addr": "15.204.170.65",
     "port": 7777
@@ -151,12 +155,6 @@
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
-  },
-  {
-    "name": "HLL Server",
-    "addr": "176.248.105.35",
-    "port": 7777,
-    "removed": 1788884992
   },
   {
     "name": "QA Testing - EU #02",
@@ -384,8 +382,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787,
-    "removed": 1789472029
+    "port": 7787
   },
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
@@ -413,7 +410,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
+    "name": "SLB #4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -425,8 +422,7 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1789472029
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -559,7 +555,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -579,7 +575,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -641,7 +637,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -935,7 +931,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1789490849
   },
   {
     "name": "QA Testing - US East #09",
@@ -1309,12 +1306,6 @@
     "addr": "83.11.118.25",
     "port": 7777,
     "removed": 1789056967
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.11.172.143",
-    "port": 7777,
-    "removed": 1788884992
   },
   {
     "name": "HLL Official - Asia #01",
