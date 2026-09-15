@@ -65,12 +65,6 @@
     "port": 7777
   },
   {
-    "name": "TRR | EVENTS",
-    "addr": "139.28.17.147",
-    "port": 7777,
-    "removed": 1788901291
-  },
-  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "139.28.17.148",
     "port": 7787
@@ -463,6 +457,11 @@
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
+  },
+  {
+    "name": "CFTools.Cloud Testing",
+    "addr": "195.82.158.186",
+    "port": 20900
   },
   {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
