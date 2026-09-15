@@ -2,7 +2,8 @@
   {
     "name": "BigD.com.au AU#2 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.145",
-    "port": 7787
+    "port": 7787,
+    "removed": 1789472029
   },
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
@@ -30,12 +31,6 @@
     "port": 7807
   },
   {
-    "name": "ToastBroke",
-    "addr": "104.238.222.95",
-    "port": 7787,
-    "removed": 1788865457
-  },
-  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -56,12 +51,12 @@
     "port": 9620
   },
   {
-    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL1",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL",
     "addr": "135.181.165.173",
     "port": 8982
   },
   {
-    "name": "[fll.fi] Finns Let Loose | Private & Event | discord.gg/FLL",
+    "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
     "port": 9224
   },
@@ -231,8 +226,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1789447099
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
@@ -390,7 +384,8 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787
+    "port": 7787,
+    "removed": 1789472029
   },
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
@@ -430,7 +425,8 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789472029
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -483,7 +479,7 @@
     "port": 20900
   },
   {
-    "name": "DUTCHLETLOOSE.COM [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
+    "name": "DUTCHLETLOOSE.NET [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -672,7 +668,8 @@
   {
     "name": "[GER] Frontline Network | 2 | fln.gg",
     "addr": "208.115.251.117",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789472029
   },
   {
     "name": "[GER] Omen Match Server #1",
@@ -949,8 +946,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1789389023
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -960,7 +956,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1789472029
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1081,13 +1078,13 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "64.20.50.186",
-    "port": 9620
+    "port": 9620,
+    "removed": 1789472029
   },
   {
     "name": "Utah/Omaha/Juno Only - Chicago",
     "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1789447099
+    "port": 8530
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
