@@ -52,8 +52,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1789533206
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
@@ -801,7 +800,8 @@
   {
     "name": "Gilbert War Server",
     "addr": "40.27.40.20",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789557603
   },
   {
     "name": "CN2#散人社区|妙手无限制战争强度酒馆Q120748151",
@@ -954,8 +954,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1789472029
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1497,7 +1496,8 @@
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7787
+    "port": 7787,
+    "removed": 1789557603
   },
   {
     "name": "#1 [ESP] - Comu Hispana - Allies vs Axis - discord.comunidadhll",
