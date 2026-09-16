@@ -30,6 +30,11 @@
     "port": 7807
   },
   {
+    "name": "HLL Server",
+    "addr": "103.205.24.54",
+    "port": 7777
+  },
+  {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
     "port": 10165
@@ -1133,10 +1138,9 @@
     "port": 7777
   },
   {
-    "name": "CLAN CTM | SV. MIAMI | #02 | PRÁCTICAS & EVENTOS",
+    "name": "Another Qonzer.com server is born!",
     "addr": "64.31.31.125",
-    "port": 7777,
-    "removed": 1789576811
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
