@@ -698,7 +698,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
+    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨免费送免排队V",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -926,14 +926,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1789409377
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1789490849
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -1137,7 +1135,8 @@
   {
     "name": "CLAN CTM | SV. MIAMI | #02 | PRÁCTICAS & EVENTOS",
     "addr": "64.31.31.125",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789576811
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1297,6 +1296,11 @@
     "port": 8530
   },
   {
+    "name": "CLAN CTM | SV. MIAMI | #02 | PRÁCTICAS & EVENTOS",
+    "addr": "82.25.9.190",
+    "port": 7777
+  },
+  {
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
@@ -1315,7 +1319,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1789576811
   },
   {
     "name": "HLL Official - Asia #04",
