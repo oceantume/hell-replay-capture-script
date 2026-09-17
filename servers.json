@@ -160,7 +160,8 @@
   {
     "name": "HLL Server",
     "addr": "176.248.105.35",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789663634
   },
   {
     "name": "QA Testing - EU #02",
@@ -191,7 +192,8 @@
   {
     "name": "Band of Brothers FR",
     "addr": "176.57.140.64",
-    "port": 28000
+    "port": 28000,
+    "removed": 1789663634
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -935,7 +937,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1789663634
   },
   {
     "name": "HLL Official - US West #01",
@@ -1315,12 +1318,6 @@
     "port": 7787
   },
   {
-    "name": "HLL Server",
-    "addr": "83.11.118.25",
-    "port": 7777,
-    "removed": 1789056967
-  },
-  {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
     "port": 28100
@@ -1334,7 +1331,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1789663634
   },
   {
     "name": "HLL Official - Asia #03",
