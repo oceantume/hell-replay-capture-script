@@ -32,7 +32,8 @@
   {
     "name": "HLL Server",
     "addr": "103.205.24.54",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789644482
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -155,6 +156,11 @@
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "176.248.105.35",
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -340,12 +346,6 @@
     "port": 8530
   },
   {
-    "name": "-TL- The Line Sponsored by RGN discord.gg/theline",
-    "addr": "192.169.86.108",
-    "port": 7777,
-    "removed": 1789038343
-  },
-  {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
     "addr": "192.169.86.108",
     "port": 7787
@@ -528,7 +528,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1789644482
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -822,7 +823,8 @@
   {
     "name": "BUSCA EL NUEVO SERVER OGT PUBLICO",
     "addr": "40.27.41.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789644482
   },
   {
     "name": "[L9] The Loyal Nine |#1| L9Clan.com/discord",
@@ -912,7 +914,8 @@
   {
     "name": "HDC | Offensive Only | US East | discord.gg/HDC |",
     "addr": "40.27.45.7",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789644482
   },
   {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
@@ -958,7 +961,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1789644482
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1149,12 +1153,12 @@
     "port": 7777
   },
   {
-    "name": "#3 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#2 [ESP] - DIV33.es Oficial - Español / Spanish",
     "addr": "64.31.4.170",
     "port": 7777
   },
   {
-    "name": "#2 [ESP] - DIV33 Oficial - Español / Spanish - www.div33.es",
+    "name": "#1 [ESP] - DIV33.es Oficial - Español / Spanish",
     "addr": "64.31.4.170",
     "port": 7827
   },
@@ -1506,8 +1510,7 @@
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7787,
-    "removed": 1789557603
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - Comu Hispana - Allies vs Axis - discord.comunidadhll",
