@@ -417,7 +417,7 @@
     "port": 7777
   },
   {
-    "name": "[13SNC] Dírty's Heroes - All modes/maps",
+    "name": "[13SNC] Dírty's Heroes All Out Sweaty Warfare",
     "addr": "193.160.22.140",
     "port": 7787
   },
@@ -937,13 +937,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1789663634
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1789748154
   },
   {
     "name": "QA Testing - US East #09",
@@ -1330,14 +1330,12 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1789576811
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1789663634
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
