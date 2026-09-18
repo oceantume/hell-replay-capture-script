@@ -176,8 +176,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1789619922
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -293,8 +292,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075,
-    "removed": 1789100372
+    "port": 9075
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -329,7 +327,8 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530
+    "port": 8530,
+    "removed": 1789705453
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -638,7 +637,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1789705453
   },
   {
     "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
@@ -1134,6 +1134,11 @@
     "name": "VANGUARDA EVENTS",
     "addr": "64.31.31.122",
     "port": 7777
+  },
+  {
+    "name": "[LATAM/ESP] Legión Cóndor | MIAMI | discord.gg/legion-condor",
+    "addr": "64.31.31.122",
+    "port": 7787
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #3 | Treinos | Eventos | discord.gg/cavei",
