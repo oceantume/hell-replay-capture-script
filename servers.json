@@ -413,7 +413,8 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789814692
   },
   {
     "name": "[13SNC] Dírty's Heroes All Out Sweaty Warfare",
@@ -953,7 +954,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1789814692
   },
   {
     "name": "HLL Official - US East #02",
