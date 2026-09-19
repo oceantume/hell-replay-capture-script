@@ -482,7 +482,7 @@
     "port": 20900
   },
   {
-    "name": "DUTCHLETLOOSE.NET [DLL] - DUTCH/ENGLISH - VIP FOR SEEDING",
+    "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -860,7 +860,8 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | Discord.gg/pureinvasion",
     "addr": "40.27.44.12",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789849701
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -1003,7 +1004,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1789849701
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1339,6 +1341,11 @@
     "name": "Bunker Boyz",
     "addr": "83.223.207.10",
     "port": 28000
+  },
+  {
+    "name": "Hell let loose (US Mid) Server by g-portal.com",
+    "addr": "83.223.207.10",
+    "port": 28400
   },
   {
     "name": "#1 Saluting Our Vets",
