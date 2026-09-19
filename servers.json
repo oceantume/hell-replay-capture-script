@@ -413,8 +413,7 @@
   {
     "name": "SLB #4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1789814692
+    "port": 7777
   },
   {
     "name": "[13SNC] Dírty's Heroes All Out Sweaty Warfare",
@@ -942,8 +941,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1789748154
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -1389,7 +1387,7 @@
     "port": 28600
   },
   {
-    "name": "ORBE || www.orchestrabellica.com [PT/ESP]",
+    "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
     "addr": "89.39.161.131",
     "port": 7777
   },
