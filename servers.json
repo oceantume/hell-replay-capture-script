@@ -63,8 +63,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1789879180
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -953,13 +952,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1789814692
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1789902460
   },
   {
     "name": "HLL Official - US East #03",
@@ -1355,7 +1354,8 @@
   {
     "name": "Test",
     "addr": "83.223.207.104",
-    "port": 28300
+    "port": 28300,
+    "removed": 1789902460
   },
   {
     "name": "[TAW] EU SERVER | CASUAL SERVER | DISCORD.GG/TAWHLL",
