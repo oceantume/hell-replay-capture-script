@@ -101,12 +101,6 @@
     "port": 28100
   },
   {
-    "name": "[XPLAY] QA Testing - EU #05",
-    "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1789331938
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -944,12 +938,6 @@
     "port": 28500
   },
   {
-    "name": "QA Testing - US East #09",
-    "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1789331938
-  },
-  {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
     "port": 28700
@@ -1222,8 +1210,7 @@
   {
     "name": "[GER] Fliesentisch-Besitzer Fliese #1 | BFTB",
     "addr": "65.21.46.146",
-    "port": 9075,
-    "removed": 1789447099
+    "port": 9075
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1384,8 +1371,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
     "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1789447099
+    "port": 8530
   },
   {
     "name": "{serverName}",
