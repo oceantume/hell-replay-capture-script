@@ -101,6 +101,11 @@
     "port": 28100
   },
   {
+    "name": "[XPLAY] QA Testing - EU #05",
+    "addr": "149.102.158.161",
+    "port": 28300
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -608,21 +613,9 @@
     "port": 7787
   },
   {
-    "name": "Pathfinders | Event Frankfurt",
-    "addr": "208.115.226.5",
-    "port": 7787,
-    "removed": 1789389023
-  },
-  {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
     "port": 7777
-  },
-  {
-    "name": "7PZD | 7. Panzer Division | ENG | NOW RECRUITING!",
-    "addr": "208.115.226.92",
-    "port": 7777,
-    "removed": 1789389023
   },
   {
     "name": "OKT³︱Event︱#Qonzer",
@@ -917,7 +910,8 @@
   {
     "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
     "addr": "40.27.47.179",
-    "port": 7777
+    "port": 7777,
+    "removed": 1789994201
   },
   {
     "name": "[ID/SEA] • NUSANTARA FRONTLINE",
@@ -947,8 +941,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1789902460
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -973,7 +966,8 @@
   {
     "name": "19PD Panzerwerkstatt [Ger only]",
     "addr": "45.143.199.235",
-    "port": 9620
+    "port": 9620,
+    "removed": 1789994201
   },
   {
     "name": "Special Needs Server",
@@ -1108,12 +1102,6 @@
     "port": 7787
   },
   {
-    "name": "[GER] Frontline Network | 1 | fln.gg",
-    "addr": "64.31.29.68",
-    "port": 7777,
-    "removed": 1789389023
-  },
-  {
     "name": "VANGUARDA EVENTS",
     "addr": "64.31.31.122",
     "port": 7777,
@@ -1239,12 +1227,6 @@
     "name": "BAE TestCenter",
     "addr": "74.63.225.18",
     "port": 7777
-  },
-  {
-    "name": "K&B - Match Server - ³³¹ XIII",
-    "addr": "74.63.225.18",
-    "port": 7787,
-    "removed": 1789389023
   },
   {
     "name": "RCON Testing",
