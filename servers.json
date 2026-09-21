@@ -529,7 +529,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1790014728
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -779,7 +780,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP&DB帝国社区 Lv.25+无规则冲突服 JP节点",
+    "name": "<CN>#2 EMP帝国社区 Lv.25+无规则冲突服 JP节点",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -1128,6 +1129,11 @@
     "port": 7777
   },
   {
+    "name": "MYM | Miopes y Mancos | Idioma Español",
+    "addr": "64.31.31.125",
+    "port": 7787
+  },
+  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
@@ -1296,7 +1302,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1790014728
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1396,8 +1403,7 @@
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
     "addr": "89.39.161.24",
-    "port": 28300,
-    "removed": 1789965517
+    "port": 28300
   },
   {
     "name": "EVENTOS DELTA CORPS",
@@ -1450,6 +1456,11 @@
     "port": 7807
   },
   {
+    "name": "VANGUARDA EVENTS",
+    "addr": "89.39.161.89",
+    "port": 7817
+  },
+  {
     "name": "HLL Official - South America #03",
     "addr": "89.43.106.36",
     "port": 28300
@@ -1478,7 +1489,8 @@
   {
     "name": "⑥︱THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790014728
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
