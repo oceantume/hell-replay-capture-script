@@ -175,8 +175,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1789965517
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -252,7 +251,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1790051640
   },
   {
     "name": "VT1",
@@ -867,6 +867,11 @@
     "port": 7777
   },
   {
+    "name": "#3 TFMC US West Comp | discord.gg/tfmcoce",
+    "addr": "40.27.44.19",
+    "port": 7777
+  },
+  {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
     "port": 7777
@@ -1130,7 +1135,8 @@
   {
     "name": "MYM | Miopes y Mancos | Idioma Español",
     "addr": "64.31.31.125",
-    "port": 7787
+    "port": 7787,
+    "removed": 1790051640
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
