@@ -10,6 +10,11 @@
     "port": 7807
   },
   {
+    "name": "ANZR Aus Events Server",
+    "addr": "103.193.80.220",
+    "port": 7787
+  },
+  {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7777
@@ -71,6 +76,11 @@
     "port": 7777
   },
   {
+    "name": "TRR | EVENTS",
+    "addr": "139.28.17.147",
+    "port": 7777
+  },
+  {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "139.28.17.148",
     "port": 7787
@@ -109,12 +119,6 @@
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "15.204.170.64",
-    "port": 7777,
-    "removed": 1789533206
   },
   {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
@@ -194,6 +198,11 @@
     "removed": 1789663634
   },
   {
+    "name": "Hell let loose Server by g-portal.com",
+    "addr": "176.57.168.250",
+    "port": 28000
+  },
+  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -227,6 +236,11 @@
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
     "port": 28100
+  },
+  {
+    "name": "Team17 CERT",
+    "addr": "176.57.168.38",
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -430,6 +444,11 @@
     "port": 7787
   },
   {
+    "name": "HLLE | PREP & EVENT",
+    "addr": "193.160.22.60",
+    "port": 7787
+  },
+  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -442,6 +461,11 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
+    "port": 7777
+  },
+  {
+    "name": "[FR] ★ Les Carottes Sont Cuites ★ discord.gg/csc-hll",
+    "addr": "193.160.23.21",
     "port": 7777
   },
   {
@@ -479,8 +503,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1790137817
+    "port": 20900
   },
   {
     "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
@@ -676,7 +699,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1790162408
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -746,7 +770,8 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q637824071 JP",
     "addr": "40.27.40.151",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790162408
   },
   {
     "name": "Match PUMA",
@@ -756,8 +781,7 @@
   {
     "name": "<CN>#3 IMP帝国社区 萌新盟攻投票服 |Q637824071 JP",
     "addr": "40.27.40.151",
-    "port": 7797,
-    "removed": 1790137817
+    "port": 7797
   },
   {
     "name": "CN#1 GR铁血战线 投票冲突服 |Q276245957 JP",
@@ -788,12 +812,6 @@
     "name": "CN/ARO＆RAM投票图池傲娇雌小鬼三金Q746699634PUMA",
     "addr": "40.27.40.151",
     "port": 7867
-  },
-  {
-    "name": "Gilbert War Server",
-    "addr": "40.27.40.20",
-    "port": 7777,
-    "removed": 1789557603
   },
   {
     "name": "CN2#散人社区|妙手无限制战争强度酒馆Q120748151",
@@ -1093,6 +1111,16 @@
     "port": 7787
   },
   {
+    "name": "DMT #3 (US East) | discord.gg/DMTTournament",
+    "addr": "64.31.20.178",
+    "port": 7777
+  },
+  {
+    "name": "DMT #2 (US East) | Wednesday Mashup | discord.gg/DMTTournament",
+    "addr": "64.31.20.181",
+    "port": 8777
+  },
+  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1261,6 +1289,11 @@
     "port": 7837
   },
   {
+    "name": "OCL BRASIL－ Ó ＣＡＢＡ ＬÁ | ＠ｏｃｌ_ｂｒａｓ",
+    "addr": "78.111.102.94",
+    "port": 7847
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1268,7 +1301,8 @@
   {
     "name": "[FR] FF - Furious Frog Server",
     "addr": "78.46.101.16",
-    "port": 10710
+    "port": 10710,
+    "removed": 1790162408
   },
   {
     "name": "WAR - Events",
@@ -1342,6 +1376,11 @@
     "port": 7777
   },
   {
+    "name": "SAS | Event Server",
+    "addr": "85.208.197.69",
+    "port": 7777
+  },
+  {
     "name": "Mondaze Event Server",
     "addr": "85.208.197.70",
     "port": 7777
@@ -1365,6 +1404,11 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
+  },
+  {
+    "name": "HLL Server",
+    "addr": "89.32.89.73",
+    "port": 7777
   },
   {
     "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
