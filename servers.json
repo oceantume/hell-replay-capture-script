@@ -12,7 +12,8 @@
   {
     "name": "ANZR Aus Events Server",
     "addr": "103.193.80.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1790181729
   },
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
@@ -78,7 +79,8 @@
   {
     "name": "TRR | EVENTS",
     "addr": "139.28.17.147",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790181729
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -200,7 +202,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.168.250",
-    "port": 28000
+    "port": 28000,
+    "removed": 1790181729
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -309,6 +312,11 @@
     "removed": 1790137817
   },
   {
+    "name": "[13SNC]'s Special Needs Server",
+    "addr": "185.216.144.75",
+    "port": 11255
+  },
+  {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "185.216.144.75",
     "port": 8530
@@ -366,7 +374,8 @@
   {
     "name": "[13SNC] Dírty's Rejects [US] - Discord.gg/13snc",
     "addr": "192.169.86.210",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790181729
   },
   {
     "name": "5th Ranger Battalion | 5thrb.com | Recruiting | All Welcome",
@@ -446,7 +455,8 @@
   {
     "name": "HLLE | PREP & EVENT",
     "addr": "193.160.22.60",
-    "port": 7787
+    "port": 7787,
+    "removed": 1790181729
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -466,7 +476,8 @@
   {
     "name": "[FR] ★ Les Carottes Sont Cuites ★ discord.gg/csc-hll",
     "addr": "193.160.23.21",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790181729
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
@@ -509,6 +520,11 @@
     "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
     "addr": "198.244.177.7",
     "port": 8530
+  },
+  {
+    "name": "[13SNC]'s Daycare Services",
+    "addr": "198.244.177.7",
+    "port": 9075
   },
   {
     "name": "CN「CZS」超质数中队训练服",
@@ -699,8 +715,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1790162408
+    "port": 8772
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -748,6 +763,11 @@
     "port": 7817
   },
   {
+    "name": "#3【FJ】绿魔鬼空降猎兵服/JP/QQ群：716701264",
+    "addr": "40.27.40.150",
+    "port": 7827
+  },
+  {
     "name": "<CN>货拉拉土豆加工萌新老逼登窝/日服/Q882377564",
     "addr": "40.27.40.150",
     "port": 7837
@@ -770,8 +790,7 @@
   {
     "name": "<CN>#1 EMP帝国社区 萌新冲突投票服 |Q637824071 JP",
     "addr": "40.27.40.151",
-    "port": 7777,
-    "removed": 1790162408
+    "port": 7777
   },
   {
     "name": "Match PUMA",
@@ -806,12 +825,14 @@
   {
     "name": "CN//CCG柴郡猫猫近卫军QQ群号：885187716//jp",
     "addr": "40.27.40.151",
-    "port": 7857
+    "port": 7857,
+    "removed": 1790181729
   },
   {
     "name": "CN/ARO＆RAM投票图池傲娇雌小鬼三金Q746699634PUMA",
     "addr": "40.27.40.151",
-    "port": 7867
+    "port": 7867,
+    "removed": 1790181729
   },
   {
     "name": "CN2#散人社区|妙手无限制战争强度酒馆Q120748151",
@@ -863,8 +884,7 @@
   {
     "name": "Pure Invasion | 24/7 Offensive | Discord.gg/pureinvasion",
     "addr": "40.27.44.12",
-    "port": 7777,
-    "removed": 1790137817
+    "port": 7777
   },
   {
     "name": "[Merc] US West | Discord.gg/m3rc",
@@ -946,7 +966,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1790181729
   },
   {
     "name": "HLL Official - US West #01",
@@ -984,15 +1005,15 @@
     "port": 8530
   },
   {
-    "name": "19PD Panzerwerkstatt [Ger only]",
+    "name": "[13SNC]'s Heroes - All Out SWEATY Warfare!",
     "addr": "45.143.199.235",
-    "port": 9620,
-    "removed": 1789994201
+    "port": 9620
   },
   {
     "name": "Special Needs Server",
     "addr": "45.151.81.212",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790181729
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
@@ -1239,6 +1260,11 @@
     "port": 11800
   },
   {
+    "name": "[13SNC]'s Rejects US East",
+    "addr": "67.217.48.14",
+    "port": 8530
+  },
+  {
     "name": "Hot Dog 7 | The Outpost | Discord.gg/Theoutpost | US East",
     "addr": "67.217.48.14",
     "port": 8772
@@ -1291,7 +1317,8 @@
   {
     "name": "OCL BRASIL－ Ó ＣＡＢＡ ＬÁ | ＠ｏｃｌ_ｂｒａｓ",
     "addr": "78.111.102.94",
-    "port": 7847
+    "port": 7847,
+    "removed": 1790181729
   },
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
@@ -1332,8 +1359,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1790014728
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1408,7 +1434,8 @@
   {
     "name": "HLL Server",
     "addr": "89.32.89.73",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790181729
   },
   {
     "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
