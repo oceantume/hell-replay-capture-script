@@ -408,7 +408,7 @@
     "port": 7777
   },
   {
-    "name": "[77th] The Old Bastards Official Server",
+    "name": "[77th] Infantry Division Official Server",
     "addr": "192.169.95.2",
     "port": 9620
   },
@@ -937,7 +937,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1790355696
   },
   {
     "name": "HLL Official - US West #01",
@@ -1294,8 +1295,7 @@
   {
     "name": "[FR] FF - Furious Frog Server",
     "addr": "78.46.101.16",
-    "port": 10710,
-    "removed": 1790162408
+    "port": 10710
   },
   {
     "name": "WAR - Events",
@@ -1330,8 +1330,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1790269171
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
