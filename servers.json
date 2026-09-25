@@ -491,12 +491,6 @@
     "port": 7777
   },
   {
-    "name": "CFTools.Cloud Testing",
-    "addr": "195.82.158.186",
-    "port": 20900,
-    "removed": 1789764457
-  },
-  {
     "name": "GUSTAV LINE | WARFARE | NEW SERVER LAUNCH| ENG/ITA | SEED VIP |",
     "addr": "195.82.158.186",
     "port": 21000,
@@ -1120,6 +1114,11 @@
     "port": 7787
   },
   {
+    "name": "[RAW]",
+    "addr": "64.31.29.178",
+    "port": 7777
+  },
+  {
     "name": "VANGUARDA EVENTS",
     "addr": "64.31.31.122",
     "port": 7777,
@@ -1320,7 +1319,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.121.185",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790371556
   },
   {
     "name": "HLL Official - Asia #01",
