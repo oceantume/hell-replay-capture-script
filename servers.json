@@ -174,8 +174,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1790224054
+    "port": 28100
   },
   {
     "name": "Warfrags Studios",
@@ -226,8 +225,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1790224054
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -499,8 +497,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1790397726
+    "port": 20900
   },
   {
     "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
@@ -814,7 +811,7 @@
     "port": 7867
   },
   {
-    "name": "CN2#散人社区|妙手无限制战争强度酒馆Q120748151",
+    "name": "CN2#加入战狗雪绒花薯条乐园|q1124385244",
     "addr": "40.27.40.21",
     "port": 7777
   },
@@ -939,6 +936,11 @@
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
     "port": 28500
+  },
+  {
+    "name": "QA Testing - US East #09",
+    "addr": "45.137.247.33",
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -1120,7 +1122,7 @@
     "port": 7787
   },
   {
-    "name": "[RAW]",
+    "name": "[RAW] RYE LET LOOSE",
     "addr": "64.31.29.178",
     "port": 7777
   },
