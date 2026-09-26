@@ -16,7 +16,7 @@
     "removed": 1790181729
   },
   {
-    "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Conquest | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7777
   },
@@ -499,7 +499,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1790397726
   },
   {
     "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
@@ -1063,6 +1064,11 @@
     "port": 7777
   },
   {
+    "name": "[LATAM/ESP] PKdores - PKando PKaditos",
+    "addr": "64.20.50.186",
+    "port": 8530
+  },
+  {
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
     "port": 9075
@@ -1608,18 +1614,6 @@
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.1.37",
     "port": 7777
-  },
-  {
-    "name": "57TH TURKISH REGIMENT | TÜRKÇE/ENG | DISCORD.GG/57TH | BY QON",
-    "addr": "95.135.1.38",
-    "port": 7777,
-    "removed": 1789791671
-  },
-  {
-    "name": "57TH TURKISH REGIMENT | EVENT SERVER | POWERED BY QONZER",
-    "addr": "95.135.1.39",
-    "port": 7777,
-    "removed": 1789791671
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
