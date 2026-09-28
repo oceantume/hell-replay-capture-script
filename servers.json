@@ -16,7 +16,7 @@
     "removed": 1790181729
   },
   {
-    "name": "BigD.com.au AU#3 | Conquest | discord.gg/bigd",
+    "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7777
   },
@@ -176,6 +176,11 @@
     "addr": "176.57.134.62",
     "port": 28100,
     "removed": 1790485409
+  },
+  {
+    "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
+    "addr": "176.57.140.146",
+    "port": 28100
   },
   {
     "name": "Warfrags Studios",
@@ -1031,7 +1036,7 @@
     "port": 10165
   },
   {
-    "name": "CZ & SK | #1 | VLK @ valkyriahll.cz",
+    "name": "CZ & SK | VLK žije, dojdi na discord.gg/vlkhll",
     "addr": "51.89.42.34",
     "port": 11255
   },
@@ -1334,7 +1339,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.206.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790636982
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1349,7 +1355,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1790636982
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1531,7 +1538,8 @@
   {
     "name": "End of Existence | VoidExistence.com",
     "addr": "92.118.18.88",
-    "port": 7797
+    "port": 7797,
+    "removed": 1790636982
   },
   {
     "name": "⑥︱THE CIRCLE #6︱MIXED︱DISCORD.GG/THE-CIRCLE",
