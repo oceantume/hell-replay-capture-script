@@ -159,8 +159,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1790571905
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -217,14 +216,12 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300,
-    "removed": 1790571905
+    "port": 28300
   },
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1790571905
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
@@ -240,8 +237,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1790571905
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -261,7 +257,8 @@
   {
     "name": "Hell let loose Server by g-portal.com",
     "addr": "176.57.171.176",
-    "port": 28000
+    "port": 28000,
+    "removed": 1790602661
   },
   {
     "name": "VT1",
@@ -357,8 +354,7 @@
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
     "addr": "188.64.33.2",
-    "port": 8530,
-    "removed": 1790571905
+    "port": 8530
   },
   {
     "name": "SOULSNIPER'S EVENT AND TESTING SERVER",
@@ -384,8 +380,7 @@
   {
     "name": "GREYHOUND NIGHT - GREEN | https://discord.gg/greyhounds",
     "addr": "192.169.90.203",
-    "port": 7777,
-    "removed": 1790571905
+    "port": 7777
   },
   {
     "name": "[82AD] Band of Brothers | discord.gg/82nd",
@@ -400,8 +395,7 @@
   {
     "name": "(WTH) Wolves of War | Teamwork | !rewards | discord.gg/WTH",
     "addr": "192.169.90.204",
-    "port": 7787,
-    "removed": 1790571905
+    "port": 7787
   },
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
@@ -484,8 +478,7 @@
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1790571905
+    "port": 8530
   },
   {
     "name": "FJR6 Training Grounds",
@@ -560,8 +553,7 @@
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
     "addr": "208.115.206.35",
-    "port": 7827,
-    "removed": 1790571905
+    "port": 7827
   },
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
@@ -638,8 +630,7 @@
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
     "addr": "208.115.226.6",
-    "port": 7777,
-    "removed": 1790571905
+    "port": 7777
   },
   {
     "name": "OKT³︱Event︱#Qonzer",
@@ -933,12 +924,6 @@
     "port": 7777
   },
   {
-    "name": "[TH/SEA] Hell Let Loose Thailand Community ft. INFH",
-    "addr": "40.27.47.179",
-    "port": 7777,
-    "removed": 1789994201
-  },
-  {
     "name": "[ID/SEA] • NUSANTARA FRONTLINE",
     "addr": "40.27.47.194",
     "port": 7777
@@ -956,8 +941,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1790527830
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -968,8 +952,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1790509918
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -979,32 +962,27 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1790509918
+    "port": 28600
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
     "addr": "45.143.199.235",
-    "port": 10710,
-    "removed": 1790571905
+    "port": 10710
   },
   {
     "name": "Objective First Official [ENG] | Voice Comms and Teamwork Manda",
     "addr": "45.143.199.235",
-    "port": 10711,
-    "removed": 1790571905
+    "port": 10711
   },
   {
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
-    "port": 8530,
-    "removed": 1790571905
+    "port": 8530
   },
   {
     "name": "[13SNC]'s Heroes - All Out SWEATY Warfare!",
     "addr": "45.143.199.235",
-    "port": 9620,
-    "removed": 1790571905
+    "port": 9620
   },
   {
     "name": "Special Needs Server",
@@ -1320,8 +1298,7 @@
   {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1790571905
+    "port": 10165
   },
   {
     "name": "[FR] FF - Furious Frog Server",
@@ -1353,6 +1330,11 @@
     "addr": "83.11.121.185",
     "port": 7777,
     "removed": 1790371556
+  },
+  {
+    "name": "HLL Server",
+    "addr": "83.11.206.64",
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1418,8 +1400,7 @@
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1790571905
+    "port": 7817
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -1555,14 +1536,12 @@
   {
     "name": "⑥︱THE CIRCLE #6︱MIXED︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777,
-    "removed": 1790571905
+    "port": 7777
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7787,
-    "removed": 1790571905
+    "port": 7787
   },
   {
     "name": "#1 [ESP] - Comu Hispana - Allies vs Axis - discord.comunidadhll",
@@ -1632,8 +1611,7 @@
   {
     "name": "②︱THE CIRCLE #2︱SWEATY︱LVL 25+/50+ 15:00+/100+ 18:00–",
     "addr": "95.135.1.33",
-    "port": 7777,
-    "removed": 1790571905
+    "port": 7777
   },
   {
     "name": "③︱THE CIRCLE #3︱OFFENSIVE︱LVL 25+ 12:00–22:00 CEST︱",
@@ -1643,8 +1621,7 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.1.37",
-    "port": 7777,
-    "removed": 1790571905
+    "port": 7777
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
