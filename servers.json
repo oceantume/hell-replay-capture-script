@@ -63,8 +63,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1790659755
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -187,6 +186,11 @@
     "name": "Warfrags Studios",
     "addr": "176.57.140.196",
     "port": 28000
+  },
+  {
+    "name": "Baum und Bus",
+    "addr": "176.57.140.220",
+    "port": 28800
   },
   {
     "name": "Hell let loose Server by g-portal.com",
@@ -970,7 +974,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1790685456
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
