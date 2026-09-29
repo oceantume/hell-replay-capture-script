@@ -594,7 +594,7 @@
     "removed": 1790509918
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -615,7 +615,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -665,7 +665,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -1357,8 +1357,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1790636982
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
