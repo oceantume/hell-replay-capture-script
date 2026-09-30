@@ -174,8 +174,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1790485409
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -236,8 +235,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1790485409
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -247,8 +245,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1790659755
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -258,8 +255,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1790659755
+    "port": 28700
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -659,7 +655,7 @@
     "port": 7807
   },
   {
-    "name": "[SiR] Gaming Community",
+    "name": "[SiR] Gaming - All Skirmish, All the Time!",
     "addr": "208.115.246.162",
     "port": 7777
   },
@@ -962,8 +958,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1790485409
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -1098,7 +1093,7 @@
     "port": 9075
   },
   {
-    "name": "Utah/Omaha/Juno Only - Chicago",
+    "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
     "port": 8530
   },
