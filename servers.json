@@ -10,12 +10,6 @@
     "port": 7807
   },
   {
-    "name": "ANZR Aus Events Server",
-    "addr": "103.193.80.220",
-    "port": 7787,
-    "removed": 1790181729
-  },
-  {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
     "addr": "103.193.80.26",
     "port": 7777
@@ -69,12 +63,6 @@
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
-  },
-  {
-    "name": "TRR | EVENTS",
-    "addr": "139.28.17.147",
-    "port": 7777,
-    "removed": 1790181729
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -192,12 +180,6 @@
     "port": 28800
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "176.57.168.250",
-    "port": 28000,
-    "removed": 1790181729
-  },
-  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100
@@ -306,7 +288,8 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075
+    "port": 9075,
+    "removed": 1790791435
   },
   {
     "name": "[13SNC]'s Special Needs Server",
@@ -370,12 +353,6 @@
     "port": 7787
   },
   {
-    "name": "[13SNC] Dírty's Rejects [US] - Discord.gg/13snc",
-    "addr": "192.169.86.210",
-    "port": 7777,
-    "removed": 1790181729
-  },
-  {
     "name": "5th Ranger Battalion | 5thrb.com | Recruiting | All Welcome",
     "addr": "192.169.86.210",
     "port": 7787
@@ -428,14 +405,12 @@
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.139",
-    "port": 7777,
-    "removed": 1790720681
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1790720681
+    "port": 7777
   },
   {
     "name": "[13SNC] Dírty's Heroes All Out Sweaty Warfare",
@@ -446,20 +421,12 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1790720681
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "193.160.22.141",
-    "port": 7787,
-    "removed": 1790720681
-  },
-  {
-    "name": "HLLE | PREP & EVENT",
-    "addr": "193.160.22.60",
-    "port": 7787,
-    "removed": 1790181729
+    "port": 7787
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
@@ -475,12 +442,6 @@
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
     "port": 7777
-  },
-  {
-    "name": "[FR] ★ Les Carottes Sont Cuites ★ discord.gg/csc-hll",
-    "addr": "193.160.23.21",
-    "port": 7777,
-    "removed": 1790181729
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
@@ -997,12 +958,6 @@
     "port": 9620
   },
   {
-    "name": "Special Needs Server",
-    "addr": "45.151.81.212",
-    "port": 7777,
-    "removed": 1790181729
-  },
-  {
     "name": "[1st MRB] 1st Marine Raider Battalion - Private discord.gg/1stm",
     "addr": "45.45.238.14",
     "port": 8530
@@ -1120,7 +1075,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "64.31.2.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1790791435
   },
   {
     "name": "DMT #3 (US East) | discord.gg/DMTTournament",
@@ -1296,12 +1252,6 @@
     "port": 7837
   },
   {
-    "name": "OCL BRASIL－ Ó ＣＡＢＡ ＬÁ | ＠ｏｃｌ_ｂｒａｓ",
-    "addr": "78.111.102.94",
-    "port": 7847,
-    "removed": 1790181729
-  },
-  {
     "name": "[PL/ENG] POLSKI SERWER // CGT // discord.gg/cossacks",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1423,12 +1373,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "HLL Server",
-    "addr": "89.32.89.73",
-    "port": 7777,
-    "removed": 1790181729
   },
   {
     "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
