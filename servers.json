@@ -207,7 +207,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.254",
-    "port": 28300
+    "port": 28300,
+    "removed": 1790832724
   },
   {
     "name": "QA Testing - EU #01",
@@ -557,12 +558,6 @@
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
     "port": 7787
-  },
-  {
-    "name": "[13SNC] Dírty's Daycare - NEW PLAYERS WELCOME!",
-    "addr": "208.115.214.218",
-    "port": 7867,
-    "removed": 1790224054
   },
   {
     "name": "[LCM] La compañia maldita [ESP]",
@@ -1074,12 +1069,6 @@
     "name": "DMT #3 (US East) | discord.gg/DMTTournament",
     "addr": "64.31.20.178",
     "port": 7777
-  },
-  {
-    "name": "DMT #2 (US East) | Wednesday Mashup | discord.gg/DMTTournament",
-    "addr": "64.31.20.181",
-    "port": 8777,
-    "removed": 1790224054
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
