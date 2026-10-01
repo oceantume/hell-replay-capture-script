@@ -152,8 +152,7 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1790859483
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -240,6 +239,11 @@
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
     "port": 28700
+  },
+  {
+    "name": "Hermanos de sangre -HDS- (ESP)",
+    "addr": "176.57.169.115",
+    "port": 28100
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -521,8 +525,7 @@
   {
     "name": "[DD] Devil Dogs Europe #1 | DDclan.org",
     "addr": "208.115.206.37",
-    "port": 7777,
-    "removed": 1790859483
+    "port": 7777
   },
   {
     "name": "OKT¹︱Wir rekrutieren!︱ENG/GER︱#Qonzer",
@@ -1266,8 +1269,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.206.64",
-    "port": 7777,
-    "removed": 1790636982
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1330,7 +1332,7 @@
     "port": 7817
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "BUTTON BOYS PODCAST SERVER",
     "addr": "85.208.197.77",
     "port": 7777
   },
