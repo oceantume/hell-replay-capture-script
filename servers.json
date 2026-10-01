@@ -147,7 +147,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1790895384
   },
   {
     "name": "HLL Dev Team 1",
@@ -162,7 +163,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1790895384
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -213,12 +215,14 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1790895384
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1790895384
   },
   {
     "name": "DevQA - EU #02",
@@ -957,7 +961,8 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620
+    "port": 9620,
+    "removed": 1790895384
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1269,7 +1274,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.206.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1790895384
   },
   {
     "name": "HLL Official - Asia #01",
