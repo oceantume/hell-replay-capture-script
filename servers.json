@@ -244,7 +244,8 @@
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
     "addr": "176.57.169.115",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791043587
   },
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
@@ -452,7 +453,8 @@
   {
     "name": "FJR6 Training Grounds",
     "addr": "194.140.197.187",
-    "port": 29200
+    "port": 29200,
+    "removed": 1791043587
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -904,14 +906,12 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1790963831
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1790963831
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -1078,7 +1078,8 @@
   {
     "name": "DMT #3 (US East) | discord.gg/DMTTournament",
     "addr": "64.31.20.178",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791043587
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1290,7 +1291,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791043587
   },
   {
     "name": "HLL Official - Asia #03",
