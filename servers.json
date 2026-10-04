@@ -552,12 +552,6 @@
     "port": 7807
   },
   {
-    "name": "[GER] Bestattungsinstitut team.phoenix | phx",
-    "addr": "208.115.206.84",
-    "port": 7777,
-    "removed": 1790509918
-  },
-  {
     "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
@@ -866,8 +860,7 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1791027027
+    "port": 28000
   },
   {
     "name": "HLL Official - US East #03",
@@ -918,8 +911,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777,
-    "removed": 1791092094
+    "port": 7777
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
@@ -1030,7 +1022,8 @@
   {
     "name": "HLL Server",
     "addr": "64.31.29.178",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791115892
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | MIAMI | discord.gg/legion-condor",
@@ -1434,8 +1427,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #1 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7777,
-    "removed": 1791092094
+    "port": 7777
   },
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
@@ -1455,8 +1447,7 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777,
-    "removed": 1791092094
+    "port": 7777
   },
   {
     "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
