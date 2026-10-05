@@ -252,12 +252,6 @@
     "port": 28400
   },
   {
-    "name": "Hell let loose Server by g-portal.com",
-    "addr": "176.57.171.176",
-    "port": 28000,
-    "removed": 1790602661
-  },
-  {
     "name": "VT1",
     "addr": "176.57.171.38",
     "port": 28100
@@ -341,7 +335,8 @@
   {
     "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
     "addr": "185.70.107.12",
-    "port": 9620
+    "port": 9620,
+    "removed": 1791210085
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -462,8 +457,14 @@
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
+    "addr": "195.82.158.186",
+    "port": 20500
+  },
+  {
+    "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.22",
-    "port": 20900
+    "port": 20900,
+    "removed": 1791210085
   },
   {
     "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
@@ -518,7 +519,8 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827
+    "port": 7827,
+    "removed": 1791210085
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -1202,8 +1204,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.206.64",
-    "port": 7777,
-    "removed": 1790978744
+    "port": 7777
   },
   {
     "name": "HLL Official - Asia #01",
