@@ -149,8 +149,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1791092094
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -165,8 +164,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1791092094
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -216,26 +214,22 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1791092094
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1791092094
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1791092094
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1791092094
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -849,8 +843,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1791092094
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -1038,7 +1031,8 @@
   {
     "name": "Eventos Ronin Miami ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
     "addr": "64.31.31.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791177548
   },
   {
     "name": "U-235 SECRET FREEMASONS LODGE | TRAINING SERVER",
@@ -1109,12 +1103,6 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "65.21.46.146",
     "port": 8530
-  },
-  {
-    "name": "[GER] Fliesentisch-Besitzer Fliese #1 | BFTB",
-    "addr": "65.21.46.146",
-    "port": 9075,
-    "removed": 1790571905
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1199,6 +1187,11 @@
   {
     "name": "CLAN CTM | SV. BRASIL | #02 | PRÁCTICAS & COMPETICION",
     "addr": "82.25.9.190",
+    "port": 7777
+  },
+  {
+    "name": "Eventos Ronin Miami ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
+    "addr": "82.25.9.50",
     "port": 7777
   },
   {
