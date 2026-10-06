@@ -149,7 +149,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1791266945
   },
   {
     "name": "HLL Dev Team 1",
@@ -164,7 +165,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791266945
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -219,17 +221,20 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791266945
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791266945
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791266945
   },
   {
     "name": "DevQA - EU #01",
@@ -249,7 +254,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1791266945
   },
   {
     "name": "VT1",
@@ -315,7 +321,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1791266945
   },
   {
     "name": "EG Event server",
@@ -519,8 +526,7 @@
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
     "addr": "208.115.206.34",
-    "port": 7827,
-    "removed": 1791210085
+    "port": 7827
   },
   {
     "name": "[GER] OLUSGILDE | OLGI-Freiheit | discord.gg/PhC6Ahztxg",
@@ -845,7 +851,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791266945
   },
   {
     "name": "HLL Official - US East #01",
@@ -1204,7 +1211,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.206.64",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791266945
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1214,13 +1222,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1791132784
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791266945
   },
   {
     "name": "HLL Official - Asia #03",
