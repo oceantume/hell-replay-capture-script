@@ -155,7 +155,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791292837
   },
   {
     "name": "HLL Official - Europe #01",
@@ -233,8 +234,7 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1791266945
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -275,7 +275,8 @@
   {
     "name": "RABENHEER /Mikrophone Plicht German",
     "addr": "176.57.174.211",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791292837
   },
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
@@ -321,8 +322,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1791266945
+    "port": 10165
   },
   {
     "name": "EG Event server",
@@ -465,7 +465,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1791292837
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -831,7 +832,8 @@
   {
     "name": "[ID/SEA] • NUSANTARA FRONTLINE",
     "addr": "40.27.47.194",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791292837
   },
   {
     "name": "The Circle - ◯ | REtrO's Test Server",
@@ -968,7 +970,8 @@
   {
     "name": "Pathfinders | Chicago | Competitors Welcome | Discord.gg/pathfi",
     "addr": "63.143.63.85",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791292837
   },
   {
     "name": "[LATAM/ESP] PKdores - PKndo PKditos",
@@ -1207,6 +1210,11 @@
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
+  },
+  {
+    "name": "HLL Server",
+    "addr": "83.11.174.154",
+    "port": 7777
   },
   {
     "name": "HLL Server",
