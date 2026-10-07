@@ -218,8 +218,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1791351456
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -286,12 +285,6 @@
     "name": "FR | TDA – Respect des rôles – Micro obligatoire – No st",
     "addr": "178.33.122.90",
     "port": 8530
-  },
-  {
-    "name": "Hosted by GTXGaming.co.uk",
-    "addr": "185.206.148.204",
-    "port": 9075,
-    "removed": 1790791435
   },
   {
     "name": "[13SNC]'s Special Needs Server",
@@ -851,8 +844,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1791351456
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -985,7 +977,8 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530
+    "port": 8530,
+    "removed": 1791413934
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
@@ -1213,7 +1206,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791413934
   },
   {
     "name": "HLL Server",
@@ -1229,7 +1223,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1791413934
   },
   {
     "name": "HLL Official - Asia #04",
