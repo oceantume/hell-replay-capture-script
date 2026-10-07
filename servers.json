@@ -22,14 +22,12 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787,
-    "removed": 1791027027
+    "port": 7787
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807,
-    "removed": 1791027027
+    "port": 7807
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -144,12 +142,14 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075
+    "port": 9075,
+    "removed": 1791351456
   },
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1791351456
   },
   {
     "name": "HLL Dev Team 1",
@@ -160,12 +160,14 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1791351456
   },
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791351456
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -215,22 +217,26 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791351456
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791351456
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791351456
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791351456
   },
   {
     "name": "DevQA - EU #01",
@@ -250,8 +256,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1791266945
+    "port": 28400
   },
   {
     "name": "VT1",
@@ -660,6 +665,11 @@
     "port": 8772
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "38.129.4.50",
+    "port": 7777
+  },
+  {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
     "addr": "40.27.40.11",
     "port": 7777
@@ -848,7 +858,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791351456
   },
   {
     "name": "HLL Official - US East #01",
@@ -968,7 +979,7 @@
     "removed": 1791292837
   },
   {
-    "name": "[LATAM/ESP] PKdores - PKndo PKditos",
+    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -1196,7 +1207,7 @@
     "port": 7777
   },
   {
-    "name": "Eventos Ronin Miami ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
+    "name": "Eventos Ronin Brasil ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
     "addr": "82.25.9.50",
     "port": 7777
   },
