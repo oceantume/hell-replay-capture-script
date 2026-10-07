@@ -142,20 +142,17 @@
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
     "addr": "172.93.97.74",
-    "port": 9075,
-    "removed": 1791351456
+    "port": 9075
   },
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1791351456
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1791292837
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -166,8 +163,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1791351456
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -217,8 +213,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1791351456
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
@@ -229,14 +224,12 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1791351456
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1791351456
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -864,7 +857,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1791378478
   },
   {
     "name": "HLL Official - US East #02",
@@ -1219,8 +1213,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777,
-    "removed": 1791326066
+    "port": 7777
   },
   {
     "name": "HLL Server",
