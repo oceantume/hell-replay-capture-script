@@ -22,12 +22,14 @@
   {
     "name": "NEW GARRYBUSTERS | WARFARE | META MAPS | discord.gg/newgbi",
     "addr": "103.193.80.97",
-    "port": 7787
+    "port": 7787,
+    "removed": 1791501196
   },
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1791501196
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
@@ -177,7 +179,8 @@
   {
     "name": "Baum und Bus",
     "addr": "176.57.140.220",
-    "port": 28800
+    "port": 28800,
+    "removed": 1791501196
   },
   {
     "name": "PARABELLUM SERVER HUN/ENG",
@@ -217,8 +220,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1791438354
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -461,7 +463,7 @@
     "removed": 1791210085
   },
   {
-    "name": "WWW.DUTCHLETLOOSE.NET [DLL] - ENGLISH - LIFETIME VIP FOR SEEDIN",
+    "name": "Dutch Let Loose [DLL] REBORN",
     "addr": "198.244.177.7",
     "port": 8530
   },
@@ -844,8 +846,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1791438354
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -893,12 +894,6 @@
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
     "addr": "51.161.197.24",
     "port": 9075
-  },
-  {
-    "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
-    "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1790895384
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -979,8 +974,7 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1791413934
+    "port": 8530
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
@@ -1208,7 +1202,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791501196
   },
   {
     "name": "HLL Server",
@@ -1224,8 +1219,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1791413934
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
