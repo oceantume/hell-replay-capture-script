@@ -147,8 +147,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1791438354
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -163,8 +162,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1791438354
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -214,8 +212,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1791438354
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
@@ -226,14 +223,12 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1791438354
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1791438354
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -855,18 +850,19 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1791378478
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1791465312
   },
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1791465312
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1212,8 +1208,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777,
-    "removed": 1791413934
+    "port": 7777
   },
   {
     "name": "HLL Server",
