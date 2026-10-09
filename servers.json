@@ -92,7 +92,8 @@
   {
     "name": "TOMO 24/7 JUNO BEACH",
     "addr": "149.102.154.195",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791585093
   },
   {
     "name": "[XPLAY] QA Testing - EU #05",
@@ -137,8 +138,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1791550938
+    "port": 9075
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion | discord.gg/1stmrb",
@@ -459,7 +459,8 @@
   {
     "name": "Dutch Let Loose [DLL] REBORN",
     "addr": "198.244.177.7",
-    "port": 8530
+    "port": 8530,
+    "removed": 1791585093
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -1183,6 +1184,11 @@
     "port": 8530
   },
   {
+    "name": "TOMO 24/7 JUNO BEACH",
+    "addr": "80.190.81.91",
+    "port": 28000
+  },
+  {
     "name": "CLAN CTM | SV. BRASIL | #02 | PRÁCTICAS & COMPETICION",
     "addr": "82.25.9.190",
     "port": 7777
@@ -1273,12 +1279,6 @@
     "name": "BUTTON BOYS PODCAST SERVER",
     "addr": "85.208.197.77",
     "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "86.8.4.202",
-    "port": 7777,
-    "removed": 1790963831
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
