@@ -164,7 +164,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1791525060
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -220,17 +221,20 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791525060
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791525060
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1791525060
   },
   {
     "name": "DevQA - EU #01",
@@ -846,7 +850,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791525060
   },
   {
     "name": "HLL Official - US East #01",
@@ -1445,7 +1450,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791525060
   },
   {
     "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
