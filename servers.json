@@ -438,12 +438,6 @@
     "port": 8530
   },
   {
-    "name": "FJR6 Training Grounds",
-    "addr": "194.140.197.187",
-    "port": 29200,
-    "removed": 1791043587
-  },
-  {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
     "port": 7777
@@ -640,7 +634,7 @@
     "port": 7777
   },
   {
-    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q623668702",
+    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q 1127207736",
     "addr": "216.144.245.83",
     "port": 7777
   },
@@ -1004,12 +998,6 @@
     "port": 7787
   },
   {
-    "name": "DMT #3 (US East) | discord.gg/DMTTournament",
-    "addr": "64.31.20.178",
-    "port": 7777,
-    "removed": 1791043587
-  },
-  {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
     "port": 7787
@@ -1236,7 +1224,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791653041
   },
   {
     "name": "HLL Official - Asia #03",
