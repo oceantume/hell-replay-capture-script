@@ -324,8 +324,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1791610399
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -463,8 +462,7 @@
   {
     "name": "Dutch Let Loose [DLL] REBORN",
     "addr": "198.244.177.7",
-    "port": 8530,
-    "removed": 1791585093
+    "port": 8530
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -866,7 +864,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1791634742
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -1075,6 +1074,11 @@
   {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
+    "port": 7777
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.6.91",
     "port": 7777
   },
   {
