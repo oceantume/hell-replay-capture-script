@@ -98,8 +98,7 @@
   {
     "name": "[XPLAY] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1791696531
+    "port": 28300
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -150,8 +149,7 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1791696531
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
@@ -166,8 +164,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1791696531
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -218,8 +215,7 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1791696531
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
@@ -230,14 +226,12 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1791696531
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1791696531
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -335,12 +329,6 @@
     "name": "[FD] - Event Server | [RUS]",
     "addr": "185.70.107.12",
     "port": 9075
-  },
-  {
-    "name": "[BWR]Публичный Русский Сервер|MOSCOW|RUS",
-    "addr": "185.70.107.12",
-    "port": 9620,
-    "removed": 1791210085
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -451,12 +439,6 @@
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
     "port": 20500
-  },
-  {
-    "name": "nitrado.net gameserver qKeG_Loh",
-    "addr": "195.82.158.22",
-    "port": 20900,
-    "removed": 1791210085
   },
   {
     "name": "Dutch Let Loose [DLL] REBORN",
@@ -647,13 +629,13 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1791696531
+    "port": 8772
   },
   {
     "name": "Another Qonzer.com server is born!",
     "addr": "38.129.4.50",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791817724
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -834,7 +816,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1791817724
   },
   {
     "name": "HLL Official - US West #02",
@@ -855,7 +838,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1791817724
   },
   {
     "name": "HLL Official - US East #02",
@@ -1114,6 +1098,11 @@
     "port": 9075
   },
   {
+    "name": "5th ID US Central | Mic Required | discord.gg/reddevilshll",
+    "addr": "69.162.124.164",
+    "port": 7787
+  },
+  {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "74.63.219.101",
     "port": 7787
@@ -1201,8 +1190,7 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777,
-    "removed": 1791501196
+    "port": 7777
   },
   {
     "name": "HLL Server",
@@ -1218,8 +1206,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1791740826
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1289,7 +1276,8 @@
   {
     "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
     "addr": "89.39.161.131",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791817724
   },
   {
     "name": "王 360 Eventos | Boot Camp Server",
@@ -1330,6 +1318,11 @@
     "name": "[CAV] CAVEIRAS BRASIL #5 | Treinos | Eventos | discord.gg/cavei",
     "addr": "89.39.161.244",
     "port": 7787
+  },
+  {
+    "name": "MVP BRASIL",
+    "addr": "89.39.161.244",
+    "port": 7807
   },
   {
     "name": "[2RB 山] LINHA DE FRENTE | SEED = VIP 24H | BRASIL",
