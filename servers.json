@@ -154,8 +154,7 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1791874964
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -270,12 +269,6 @@
     "addr": "176.57.174.211",
     "port": 28100,
     "removed": 1791740826
-  },
-  {
-    "name": "RABENHEER /Mikrophone Plicht German",
-    "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1791292837
   },
   {
     "name": "[GER/ENG] Das Bollwerk! ✠TTV✠ - New Players Welcome",
@@ -524,10 +517,9 @@
     "port": 7807
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1791874964
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -540,10 +532,9 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1791874964
+    "port": 7787
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
@@ -591,7 +582,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -603,8 +594,7 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787,
-    "removed": 1791874964
+    "port": 7787
   },
   {
     "name": "OKT²︱New Player Friendly︱ENG/GER︱#LΛZMIЯ",
@@ -743,6 +733,11 @@
     "port": 7777
   },
   {
+    "name": "Tonkies Offensive | 24/7 Offensive Only US West",
+    "addr": "40.27.44.10",
+    "port": 7777
+  },
+  {
     "name": "EASY Company | New Players Welcome | DISCORD.GG/EASYCOMPANY | Q",
     "addr": "40.27.44.11",
     "port": 7777
@@ -809,12 +804,6 @@
     "port": 7777
   },
   {
-    "name": "[ID/SEA] • NUSANTARA FRONTLINE",
-    "addr": "40.27.47.194",
-    "port": 7777,
-    "removed": 1791292837
-  },
-  {
     "name": "The Circle - ◯ | REtrO's Test Server",
     "addr": "45.131.114.13",
     "port": 7777
@@ -828,7 +817,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1791918616
   },
   {
     "name": "HLL Official - US West #01",
@@ -844,13 +834,17 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1791817724
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
     "port": 28000
+  },
+  {
+    "name": "HLL Playtest Server - US #01",
+    "addr": "45.137.247.5",
+    "port": 28100
   },
   {
     "name": "HLL Official - US East #03",
@@ -950,12 +944,6 @@
     "port": 7787
   },
   {
-    "name": "Pathfinders | Chicago | Competitors Welcome | Discord.gg/pathfi",
-    "addr": "63.143.63.85",
-    "port": 7777,
-    "removed": 1791292837
-  },
-  {
     "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
@@ -993,8 +981,7 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "64.31.2.22",
-    "port": 7787,
-    "removed": 1791874964
+    "port": 7787
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1059,7 +1046,8 @@
   {
     "name": "Tonkies Offensive | 24/7 Offensive Only US West",
     "addr": "64.31.6.91",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791918616
   },
   {
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
@@ -1451,8 +1439,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1791874964
+    "port": 7777
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
