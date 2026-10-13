@@ -154,7 +154,8 @@
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200
+    "port": 28200,
+    "removed": 1791874964
   },
   {
     "name": "HLL Official - Europe #01",
@@ -251,7 +252,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1791874964
   },
   {
     "name": "VT1",
@@ -524,7 +526,8 @@
   {
     "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
-    "port": 7877
+    "port": 7877,
+    "removed": 1791874964
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -539,7 +542,8 @@
   {
     "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
-    "port": 7787
+    "port": 7787,
+    "removed": 1791874964
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
@@ -599,7 +603,8 @@
   {
     "name": "[5BCT] milsim @ bandofbrothers.gg | ALL WELCOME",
     "addr": "208.115.248.109",
-    "port": 7787
+    "port": 7787,
+    "removed": 1791874964
   },
   {
     "name": "OKT²︱New Player Friendly︱ENG/GER︱#LΛZMIЯ",
@@ -951,7 +956,7 @@
     "removed": 1791292837
   },
   {
-    "name": "PKdores Entrenamiento en sesión",
+    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -988,7 +993,8 @@
   {
     "name": "=7Cav= Tactical Realism | US East | Discord.gg/7Cav | Qonzer",
     "addr": "64.31.2.22",
-    "port": 7787
+    "port": 7787,
+    "removed": 1791874964
   },
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
@@ -1198,13 +1204,8 @@
   {
     "name": "HLL Server",
     "addr": "83.11.174.154",
-    "port": 7777
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.11.206.64",
     "port": 7777,
-    "removed": 1791266945
+    "removed": 1791874964
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1450,7 +1451,8 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791874964
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
