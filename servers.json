@@ -780,7 +780,8 @@
   {
     "name": "Wyoming Rangers | East Coast",
     "addr": "40.27.45.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791851380
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
@@ -869,7 +870,8 @@
   {
     "name": "[13SNC]'s Heroes - All Out SWEATY Warfare!",
     "addr": "45.143.199.235",
-    "port": 9620
+    "port": 9620,
+    "removed": 1791851380
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion - Public discord.gg/1stmr",
@@ -909,7 +911,8 @@
   {
     "name": "CZ & SK | VLK žije, dojdi na discord.gg/vlkhll",
     "addr": "51.89.42.34",
-    "port": 11255
+    "port": 11255,
+    "removed": 1791851380
   },
   {
     "name": "BR1 HLL (Big Red 1 Gaming) - discord.gg/br1",
@@ -1035,6 +1038,11 @@
   {
     "name": "RGN #1 -Miami- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.40.204",
+    "port": 7777
+  },
+  {
+    "name": "Wyoming Rangers | East Coast",
+    "addr": "64.31.40.206",
     "port": 7777
   },
   {
