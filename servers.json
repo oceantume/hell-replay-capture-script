@@ -220,8 +220,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1791525060
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -251,8 +250,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1791874964
+    "port": 28400
   },
   {
     "name": "VT1",
@@ -408,7 +406,8 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777
+    "port": 7777,
+    "removed": 1791952593
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
@@ -811,8 +810,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1791817724
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -828,8 +826,7 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1791525060
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
@@ -944,7 +941,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
+    "name": "PKdores Entrenamiento en sesión",
     "addr": "64.20.50.186",
     "port": 8530
   },
