@@ -230,7 +230,8 @@
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1792098812
   },
   {
     "name": "DevQA - EU #01",
@@ -766,8 +767,7 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777,
-    "removed": 1792062958
+    "port": 7777
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
