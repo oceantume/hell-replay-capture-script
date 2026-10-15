@@ -614,7 +614,8 @@
   {
     "name": "§ | Outcastz | HLL eTool | .gg/outcastz",
     "addr": "208.115.255.53",
-    "port": 7777
+    "port": 7777,
+    "removed": 1792062958
   },
   {
     "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q 1127207736",
@@ -765,7 +766,8 @@
   {
     "name": "Glow's Blueberry Dreams · CASUAL · discord.gg/glows",
     "addr": "40.27.44.8",
-    "port": 7777
+    "port": 7777,
+    "removed": 1792062958
   },
   {
     "name": "Glow's West · COMPETITIVE · discord.gg/glows",
@@ -1175,6 +1177,11 @@
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
     "port": 8530
+  },
+  {
+    "name": "HLL Server",
+    "addr": "79.163.168.145",
+    "port": 7777
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
