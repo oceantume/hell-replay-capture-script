@@ -222,10 +222,9 @@
     "port": 28200
   },
   {
-    "name": "QA Testing - EU #04",
+    "name": "Playtest Server",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1792098812
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -842,7 +841,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1792149035
   },
   {
     "name": "[FR] LEGION XIII | Entraînement | discord.gg/legiontreize",
@@ -942,7 +942,7 @@
     "port": 7787
   },
   {
-    "name": "PKdores Entrenamiento en sesión",
+    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
   },
