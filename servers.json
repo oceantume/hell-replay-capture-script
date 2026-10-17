@@ -310,8 +310,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1792209889
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -956,7 +955,8 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530
+    "port": 8530,
+    "removed": 1792268787
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
