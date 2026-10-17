@@ -7,7 +7,8 @@
   {
     "name": "Chimera | Australia | warfare | discord.gg/CHMA",
     "addr": "103.193.80.15",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792232992
   },
   {
     "name": "BigD.com.au AU#3 | Map Voting | discord.gg/bigd",
@@ -27,13 +28,13 @@
   {
     "name": "Chimera | Australia | Oce 2 | Mixed | discord.gg/CHMA",
     "addr": "103.193.80.97",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792232992
   },
   {
     "name": "[AUT|GER] All Cats Are Beauties #ACAB#CAT | Discord.gg/hll-cats",
     "addr": "135.125.188.111",
-    "port": 10165,
-    "removed": 1792209889
+    "port": 10165
   },
   {
     "name": "For Tea & Country [EU|ENG] New Player Friendly",
@@ -155,7 +156,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1792232992
   },
   {
     "name": "QA Testing - EU #03",
@@ -180,8 +182,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "176.57.168.251",
-    "port": 28100,
-    "removed": 1792209889
+    "port": 28100
   },
   {
     "name": "[GER] Sterziks Bahnhofsviertel | Für Casuals",
@@ -396,26 +397,22 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #1 ★ discord.gg/7eCie",
     "addr": "193.160.23.19",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
@@ -425,8 +422,7 @@
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
     "addr": "194.180.207.89",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "nitrado.net gameserver qKeG_Loh",
@@ -543,20 +539,17 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1792209889
+    "port": 7807
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
-    "port": 7817,
-    "removed": 1792209889
+    "port": 7817
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | VIP FOR SEEDING!",
     "addr": "208.115.226.4",
-    "port": 7787,
-    "removed": 1792209889
+    "port": 7787
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -954,8 +947,7 @@
   {
     "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
-    "port": 8530,
-    "removed": 1792209889
+    "port": 8530
   },
   {
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
@@ -965,8 +957,7 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1792209889
+    "port": 8530
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
@@ -1280,8 +1271,7 @@
   {
     "name": "Mondaze Event Server",
     "addr": "85.208.197.70",
-    "port": 7777,
-    "removed": 1792209889
+    "port": 7777
   },
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
