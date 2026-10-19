@@ -170,7 +170,8 @@
   {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
-    "port": 28100
+    "port": 28100,
+    "removed": 1792436365
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -604,14 +605,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1792296739
-  },
-  {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "38.129.4.50",
-    "port": 7777,
-    "removed": 1791817724
+    "port": 8772
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -802,7 +796,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1792436365
   },
   {
     "name": "QA Testing - US East #09",
@@ -1168,8 +1163,7 @@
   {
     "name": "HLL Server",
     "addr": "79.163.168.145",
-    "port": 7777,
-    "removed": 1792082830
+    "port": 7777
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
@@ -1279,12 +1273,6 @@
     "name": "{serverName}",
     "addr": "89.117.72.86",
     "port": 28600
-  },
-  {
-    "name": "ORBE || www.orchestrabellica.com [BRAZIL/LATAM]",
-    "addr": "89.39.161.131",
-    "port": 7777,
-    "removed": 1791817724
   },
   {
     "name": "王 360 Eventos | Boot Camp Server",
