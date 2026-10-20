@@ -94,8 +94,7 @@
   {
     "name": "[MAIN] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1792470742
+    "port": 28300
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -140,14 +139,12 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000,
-    "removed": 1792470742
+    "port": 28000
   },
   {
     "name": "HLL Dev Team 1",
     "addr": "176.57.134.30",
-    "port": 28200,
-    "removed": 1792414296
+    "port": 28200
   },
   {
     "name": "HLL Official - Europe #01",
@@ -157,8 +154,7 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100,
-    "removed": 1792470742
+    "port": 28100
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -209,26 +205,22 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100,
-    "removed": 1792470742
+    "port": 28100
   },
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1792168163
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1792470742
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500,
-    "removed": 1792470742
+    "port": 28500
   },
   {
     "name": "DevQA - EU #01",
@@ -810,14 +802,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1792414296
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1792414296
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
