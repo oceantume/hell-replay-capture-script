@@ -94,7 +94,8 @@
   {
     "name": "[MAIN] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1792470742
   },
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
@@ -139,7 +140,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1792470742
   },
   {
     "name": "HLL Dev Team 1",
@@ -155,7 +157,8 @@
   {
     "name": "QA Testing - EU #03",
     "addr": "176.57.134.62",
-    "port": 28100
+    "port": 28100,
+    "removed": 1792470742
   },
   {
     "name": "[DD] Devil Dogs Europe #2 [EVENT SERVER] | DDclan.org",
@@ -206,7 +209,8 @@
   {
     "name": "QA Testing - EU #01",
     "addr": "176.57.168.38",
-    "port": 28100
+    "port": 28100,
+    "removed": 1792470742
   },
   {
     "name": "Team17 CERT",
@@ -217,12 +221,14 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1792470742
   },
   {
     "name": "QA Testing - EU #04",
     "addr": "176.57.169.108",
-    "port": 28500
+    "port": 28500,
+    "removed": 1792470742
   },
   {
     "name": "DevQA - EU #01",
@@ -302,7 +308,8 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530
+    "port": 8530,
+    "removed": 1792470742
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -753,12 +760,6 @@
     "port": 7777
   },
   {
-    "name": "Wyoming Rangers | East Coast",
-    "addr": "40.27.45.13",
-    "port": 7777,
-    "removed": 1791851380
-  },
-  {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "40.27.45.13",
     "port": 7787
@@ -786,7 +787,8 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300
+    "port": 28300,
+    "removed": 1792470742
   },
   {
     "name": "HLL Official - US West #02",
@@ -802,7 +804,8 @@
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200
+    "port": 28200,
+    "removed": 1792470742
   },
   {
     "name": "HLL Official - US East #01",
@@ -840,12 +843,6 @@
     "name": "[AnE] Let Loose UK & [LL] Lost Legion EU - All welcome",
     "addr": "45.143.199.235",
     "port": 8530
-  },
-  {
-    "name": "[13SNC]'s Heroes - All Out SWEATY Warfare!",
-    "addr": "45.143.199.235",
-    "port": 9620,
-    "removed": 1791851380
   },
   {
     "name": "[1st MRB] 1st Marine Raider Battalion - Public discord.gg/1stmr",
@@ -888,12 +885,6 @@
     "port": 10165
   },
   {
-    "name": "CZ & SK | VLK žije, dojdi na discord.gg/vlkhll",
-    "addr": "51.89.42.34",
-    "port": 11255,
-    "removed": 1791851380
-  },
-  {
     "name": "BR1 HLL (Big Red 1 Gaming) - discord.gg/br1",
     "addr": "63.143.56.2",
     "port": 7787
@@ -926,7 +917,8 @@
   {
     "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
-    "port": 8530
+    "port": 8530,
+    "removed": 1792470742
   },
   {
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
@@ -1163,7 +1155,8 @@
   {
     "name": "HLL Server",
     "addr": "79.163.168.145",
-    "port": 7777
+    "port": 7777,
+    "removed": 1792470742
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
