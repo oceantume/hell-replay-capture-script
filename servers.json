@@ -167,6 +167,11 @@
     "port": 28000
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.153.114",
+    "port": 28000
+  },
+  {
     "name": "PARABELLUM SERVER HUN/ENG",
     "addr": "176.57.168.250",
     "port": 28100,
@@ -185,7 +190,8 @@
   {
     "name": "HLL Piu",
     "addr": "176.57.168.253",
-    "port": 28100
+    "port": 28100,
+    "removed": 1792531736
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
@@ -253,6 +259,11 @@
     "port": 28300
   },
   {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28100
+  },
+  {
     "name": "[GER] Das Bollwerk! ✠TTV✠ - Anfängerfreundlich",
     "addr": "176.57.181.105",
     "port": 28200
@@ -285,7 +296,8 @@
   {
     "name": "404 | Eventserver",
     "addr": "185.216.144.75",
-    "port": 9620
+    "port": 9620,
+    "removed": 1792531736
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -1003,12 +1015,6 @@
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
-  },
-  {
-    "name": "Tonkies Offensive | 24/7 Offensive Only US West",
-    "addr": "64.31.6.91",
-    "port": 7777,
-    "removed": 1791918616
   },
   {
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
