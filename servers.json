@@ -496,7 +496,7 @@
     "port": 7807
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -511,7 +511,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -561,7 +561,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -790,8 +790,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1792436365
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -907,8 +906,7 @@
   {
     "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
-    "port": 8530,
-    "removed": 1792470742
+    "port": 8530
   },
   {
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
@@ -1188,13 +1186,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1792338294
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1792514728
   },
   {
     "name": "HLL Official - Asia #03",
