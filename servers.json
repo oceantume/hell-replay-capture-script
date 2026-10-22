@@ -54,7 +54,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1792642986
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
@@ -149,7 +150,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1792642986
   },
   {
     "name": "QA Testing - EU #03",
@@ -391,12 +393,6 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
-    "addr": "193.160.22.141",
-    "port": 7787,
-    "removed": 1792037929
-  },
-  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -554,7 +550,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792642986
   },
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
@@ -1096,7 +1093,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Mono Huevo | 3 dias VIP por Seedear",
+    "name": "[LATAM/ESP] Mono Huevo | APERTURA: 1 MES VIP x Seed",
     "addr": "78.111.102.94",
     "port": 7777
   },
@@ -1118,12 +1115,18 @@
   {
     "name": "Hold The Line Miami - Powered by Caveiras",
     "addr": "78.111.102.94",
-    "port": 7837
+    "port": 7837,
+    "removed": 1792642986
   },
   {
     "name": "ORBE || www.orchestrabellica.com [Brazil - LATAM]",
     "addr": "78.111.102.94",
     "port": 7857
+  },
+  {
+    "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
+    "addr": "78.111.102.94",
+    "port": 7867
   },
   {
     "name": "CGT Server - PL/ENG NEW MODE CONQUEST ONLY, 3 day VIP for SEED",
@@ -1176,12 +1179,6 @@
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
-  },
-  {
-    "name": "HLL Server",
-    "addr": "83.11.174.154",
-    "port": 7777,
-    "removed": 1792037929
   },
   {
     "name": "HLL Official - Asia #01",
@@ -1248,12 +1245,6 @@
     "name": "BUTTON BOYS PODCAST SERVER",
     "addr": "85.208.197.77",
     "port": 7777
-  },
-  {
-    "name": "[GER] Fliesentisch-Veteranen Event #2 | BFTB",
-    "addr": "88.211.219.170",
-    "port": 8530,
-    "removed": 1792037929
   },
   {
     "name": "{serverName}",
