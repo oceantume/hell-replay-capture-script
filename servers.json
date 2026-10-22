@@ -69,7 +69,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "139.28.17.148",
-    "port": 7787
+    "port": 7787,
+    "removed": 1792688466
   },
   {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
@@ -263,6 +264,11 @@
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.174.211",
     "port": 28100
+  },
+  {
+    "name": "Hell let loose (EU) Server by g-portal.com",
+    "addr": "176.57.174.211",
+    "port": 28200
   },
   {
     "name": "[GER] Das Bollwerk! ✠TTV✠ - Anfängerfreundlich",
@@ -780,8 +786,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1792602122
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -913,6 +918,11 @@
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
     "port": 9075
+  },
+  {
+    "name": "KNG'S LAIR | 247 OFFENSIVE | DISCORD.GG/KNGSLAIR",
+    "addr": "64.20.50.186",
+    "port": 9620
   },
   {
     "name": "24/7 Utah/Omaha/Juno",
@@ -1163,12 +1173,6 @@
     "port": 7777
   },
   {
-    "name": "Eventos Ronin Brasil ★ CAMPEÓN DE LATAM ★ COMPETITIVO ★",
-    "addr": "82.25.9.50",
-    "port": 7777,
-    "removed": 1792082830
-  },
-  {
     "name": "DK/ENG - HLL Danmark.dk [DKB] - All new players welcome!",
     "addr": "82.27.3.64",
     "port": 7787
@@ -1181,8 +1185,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1792602122
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
