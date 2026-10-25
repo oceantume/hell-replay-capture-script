@@ -277,8 +277,7 @@
   {
     "name": "[13SNC]'s Special Needs Server",
     "addr": "185.216.144.75",
-    "port": 11255,
-    "removed": 1792926575
+    "port": 11255
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -403,7 +402,7 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
+    "name": "Yuki Server - Event",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -778,7 +777,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1792943855
   },
   {
     "name": "HLL Official - US West #01",
@@ -1189,8 +1189,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1792774426
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
