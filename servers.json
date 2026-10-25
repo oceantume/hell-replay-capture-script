@@ -543,7 +543,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792902137
   },
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
@@ -899,14 +900,15 @@
     "port": 7787
   },
   {
-    "name": "PKdores Entrenamiento en sesión",
+    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
   },
   {
     "name": "a VFA-33 Redmaces New Player Friendly Dallas sponsored by Redbu",
     "addr": "64.20.50.186",
-    "port": 9075
+    "port": 9075,
+    "removed": 1792902137
   },
   {
     "name": "KNG'S LAIR | 247 OFFENSIVE | DISCORD.GG/KNGSLAIR",
