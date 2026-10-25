@@ -402,7 +402,7 @@
     "port": 7777
   },
   {
-    "name": "Yuki Server - Event",
+    "name": "[FR] Yuki Server - Event",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -921,7 +921,8 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530
+    "port": 8530,
+    "removed": 1792960941
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
