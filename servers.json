@@ -73,7 +73,8 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28000
+    "port": 28000,
+    "removed": 1792926575
   },
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
@@ -276,7 +277,8 @@
   {
     "name": "[13SNC]'s Special Needs Server",
     "addr": "185.216.144.75",
-    "port": 11255
+    "port": 11255,
+    "removed": 1792926575
   },
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
@@ -543,8 +545,7 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1792902137
+    "port": 7807
   },
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
@@ -594,7 +595,8 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772
+    "port": 8772,
+    "removed": 1792926575
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -806,7 +808,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1792926575
   },
   {
     "name": "404 | Eventserver",
