@@ -139,7 +139,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1793018625
   },
   {
     "name": "QA Testing - EU #03",
@@ -298,7 +299,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1793018625
   },
   {
     "name": "EG Event server",
@@ -544,8 +546,7 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807,
-    "removed": 1792988722
+    "port": 7807
   },
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
@@ -810,8 +811,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1792926575
+    "port": 28600
   },
   {
     "name": "404 | Eventserver",
