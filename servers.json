@@ -299,8 +299,7 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165,
-    "removed": 1793018625
+    "port": 10165
   },
   {
     "name": "EG Event server",
@@ -551,6 +550,12 @@
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
     "addr": "208.115.246.162",
+    "port": 7777,
+    "removed": 1793040767
+  },
+  {
+    "name": "[SiR] Gaming - All Skirmish, All the Time!",
+    "addr": "208.115.246.164",
     "port": 7777
   },
   {
@@ -596,8 +601,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1792926575
+    "port": 8772
   },
   {
     "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
@@ -780,8 +784,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1792943855
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -969,12 +972,6 @@
     "name": "Wyoming Rangers | East Coast",
     "addr": "64.31.31.124",
     "port": 7777
-  },
-  {
-    "name": "U-235 SECRET FREEMASONS LODGE | TRAINING SERVER",
-    "addr": "64.31.31.125",
-    "port": 7777,
-    "removed": 1792414296
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
