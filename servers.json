@@ -402,7 +402,7 @@
     "port": 7777
   },
   {
-    "name": "[FR] Yuki Server - Event",
+    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
     "addr": "193.160.23.22",
     "port": 7777
   },
@@ -544,7 +544,8 @@
   {
     "name": "[StDb] Stoßtrupp Donnerbalken Public/Event [GER] 25+",
     "addr": "208.115.226.93",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792988722
   },
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
@@ -636,7 +637,8 @@
   {
     "name": "CN#1 GR铁血战线 投票冲突服 |Q276245957 JP",
     "addr": "40.27.40.151",
-    "port": 7807
+    "port": 7807,
+    "removed": 1792988722
   },
   {
     "name": "<CN>#7 IMP帝国社区 禁炮萌新服 60限杀150级以下",
@@ -921,8 +923,7 @@
   {
     "name": "24/7 Utah/Omaha/Juno",
     "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1792960941
+    "port": 8530
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
@@ -965,7 +966,7 @@
     "port": 7807
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Wyoming Rangers | East Coast",
     "addr": "64.31.31.124",
     "port": 7777
   },
@@ -1006,7 +1007,7 @@
     "port": 7777
   },
   {
-    "name": "Wyoming Rangers | East Coast",
+    "name": "Wyoming Rangers | Backup",
     "addr": "64.31.40.206",
     "port": 7777
   },
