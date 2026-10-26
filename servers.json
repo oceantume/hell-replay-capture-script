@@ -163,12 +163,6 @@
     "port": 28000
   },
   {
-    "name": "PARABELLUM SERVER HUN/ENG",
-    "addr": "176.57.168.250",
-    "port": 28100,
-    "removed": 1792436365
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
     "addr": "176.57.168.251",
     "port": 28100
@@ -556,7 +550,8 @@
   {
     "name": "[SiR] Gaming - All Skirmish, All the Time!",
     "addr": "208.115.246.164",
-    "port": 7777
+    "port": 7777,
+    "removed": 1793055738
   },
   {
     "name": "[GER] OC | Organisiertes Chaos | Lvl 15+",
@@ -758,6 +753,11 @@
   {
     "name": "Pathfinders | Event Server",
     "addr": "40.27.45.15",
+    "port": 7777
+  },
+  {
+    "name": "[SiR] Gaming - All Skirmish, All the Time!",
+    "addr": "40.27.45.16",
     "port": 7777
   },
   {
@@ -1408,7 +1408,7 @@
     "port": 7777
   },
   {
-    "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
+    "name": "℧ | Omen! [℧ | discord.gg/omenhll ] [GER/ENG]",
     "addr": "95.135.1.18",
     "port": 7777
   },
