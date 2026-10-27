@@ -1021,7 +1021,8 @@
   {
     "name": "ФФ | Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
-    "port": 7787
+    "port": 7787,
+    "removed": 1793076274
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1148,12 +1149,6 @@
     "name": "[GER] RubberDucks Ententeich | Streamerfreundlich",
     "addr": "78.46.101.16",
     "port": 8530
-  },
-  {
-    "name": "HLL Server",
-    "addr": "79.163.168.145",
-    "port": 7777,
-    "removed": 1792470742
   },
   {
     "name": "TOMO 24/7 JUNO BEACH",
