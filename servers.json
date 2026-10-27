@@ -173,12 +173,6 @@
     "port": 28000
   },
   {
-    "name": "HLL Piu",
-    "addr": "176.57.168.253",
-    "port": 28100,
-    "removed": 1792531736
-  },
-  {
     "name": "PL/ENG ♦ PZJR Polski Serwer #2 ♦ Votemap",
     "addr": "176.57.168.253",
     "port": 28200
@@ -283,12 +277,6 @@
     "name": "UK | ENG - NEW PLAYER FRIENDLY - WARFARE",
     "addr": "185.216.144.75",
     "port": 9075
-  },
-  {
-    "name": "404 | Eventserver",
-    "addr": "185.216.144.75",
-    "port": 9620,
-    "removed": 1792531736
   },
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
@@ -635,10 +623,9 @@
     "port": 7797
   },
   {
-    "name": "CN#1 GR铁血战线 投票冲突服 |Q276245957 JP",
+    "name": "hll Server",
     "addr": "40.27.40.151",
-    "port": 7807,
-    "removed": 1792988722
+    "port": 7807
   },
   {
     "name": "<CN>#7 IMP帝国社区 禁炮萌新服 60限杀150级以下",
@@ -849,8 +836,7 @@
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
     "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1792618252
+    "port": 9620
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1403,7 +1389,7 @@
     "port": 7777
   },
   {
-    "name": "℧ | Omen! [℧ | discord.gg/omenhll ] [GER/ENG]",
+    "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
     "addr": "95.135.1.18",
     "port": 7777
   },
