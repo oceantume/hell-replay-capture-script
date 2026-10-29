@@ -55,12 +55,6 @@
     "port": 7777
   },
   {
-    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
-    "addr": "139.28.17.148",
-    "port": 7787,
-    "removed": 1792688466
-  },
-  {
     "name": "[GER] CKO | Chaoskommando MIC-Pflicht German",
     "addr": "141.95.33.70",
     "port": 12345
@@ -125,6 +119,11 @@
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
     "port": 9075
+  },
+  {
+    "name": "HLL Server",
+    "addr": "176.248.105.35",
+    "port": 7777
   },
   {
     "name": "QA Testing - EU #02",
@@ -765,7 +764,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1793299222
   },
   {
     "name": "HLL Official - US West #01",
