@@ -243,12 +243,6 @@
     "port": 28100
   },
   {
-    "name": "Hell let loose (EU) Server by g-portal.com",
-    "addr": "176.57.174.211",
-    "port": 28200,
-    "removed": 1792774426
-  },
-  {
     "name": "[GER] Das Bollwerk! ✠TTV✠ - Anfängerfreundlich",
     "addr": "176.57.181.105",
     "port": 28200
@@ -755,13 +749,13 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1793299222
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1793384001
   },
   {
     "name": "QA Testing - US East #09",
@@ -1091,7 +1085,7 @@
     "port": 7827
   },
   {
-    "name": "| 🅾🆁🅱🅴 || EFICOM + SPECS [Brazil - LATAM] |",
+    "name": "|| 🅾🆁🅱🅴 || EFICOM + SPECS [Brazil - LATAM] ORBE ||",
     "addr": "78.111.102.94",
     "port": 7857
   },
@@ -1153,7 +1147,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1793384001
   },
   {
     "name": "HLL Official - Asia #03",
