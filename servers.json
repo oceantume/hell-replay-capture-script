@@ -314,12 +314,6 @@
     "port": 7787
   },
   {
-    "name": "Odyssey - US EAST - discord.gg/odysseyhll",
-    "addr": "192.169.89.18",
-    "port": 8530,
-    "removed": 1792754719
-  },
-  {
     "name": "GREYHOUND NIGHT - GREEN | https://discord.gg/greyhounds",
     "addr": "192.169.90.203",
     "port": 7777
@@ -588,12 +582,6 @@
     "port": 8772
   },
   {
-    "name": "ФФ | Ocelots Asia Server[호랑] | Warfare Only",
-    "addr": "40.27.40.11",
-    "port": 7777,
-    "removed": 1792754719
-  },
-  {
     "name": "CN#3 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
     "addr": "40.27.40.13",
     "port": 7777
@@ -681,7 +669,8 @@
   {
     "name": "[L9] The Loyal Nine |#2| L9Clan.com/discord",
     "addr": "40.27.41.9",
-    "port": 7777
+    "port": 7777,
+    "removed": 1793363885
   },
   {
     "name": "Syndicate|LVL 50+|Competitive Public Server",
@@ -837,6 +826,11 @@
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
     "addr": "51.38.89.130",
+    "port": 7777
+  },
+  {
+    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
+    "addr": "51.38.89.131",
     "port": 7777
   },
   {
