@@ -391,7 +391,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1793481635
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -1137,7 +1138,8 @@
   {
     "name": "HLL Official - Asia #01",
     "addr": "83.223.197.11",
-    "port": 28100
+    "port": 28100,
+    "removed": 1793481635
   },
   {
     "name": "HLL Official - Asia #02",
@@ -1148,12 +1150,14 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1793481635
   },
   {
     "name": "HLL Official - Asia #03",
     "addr": "83.223.197.90",
-    "port": 28100
+    "port": 28100,
+    "removed": 1793481635
   },
   {
     "name": "Bunker Boyz",
