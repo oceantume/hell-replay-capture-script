@@ -391,8 +391,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1793448360
+    "port": 20500
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -756,8 +755,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1793384001
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -929,8 +927,7 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787,
-    "removed": 1793448360
+    "port": 7787
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | MIAMI | discord.gg/legion-condor",
@@ -1068,7 +1065,7 @@
     "port": 7777
   },
   {
-    "name": "[LATAM/ESP] Mono Huevo | APERTURA: 1 MES VIP x Seed",
+    "name": "[LATAM/ESP] Mono Huevo | 7 dias VIP x Seed",
     "addr": "78.111.102.94",
     "port": 7777
   },
@@ -1145,13 +1142,13 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1793466863
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1793384001
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
