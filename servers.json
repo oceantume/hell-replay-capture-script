@@ -286,8 +286,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1793423707
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -392,7 +391,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1793448360
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -929,7 +929,8 @@
   {
     "name": "[TAW] THE ART OF WARFARE | US East | DISCORD.GG/TAWHLL",
     "addr": "64.31.28.82",
-    "port": 7787
+    "port": 7787,
+    "removed": 1793448360
   },
   {
     "name": "[LATAM/ESP] Legión Cóndor | MIAMI | discord.gg/legion-condor",
@@ -1306,12 +1307,6 @@
     "name": "Team17",
     "addr": "92.118.16.126",
     "port": 7777
-  },
-  {
-    "name": "End of Existence | VoidExistence.com",
-    "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1792838659
   },
   {
     "name": "Dubs Dawghouse",
