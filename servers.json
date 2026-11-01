@@ -67,12 +67,6 @@
   {
     "name": "Hell let loose (US East) Server by g-portal.com",
     "addr": "144.126.153.213",
-    "port": 28000,
-    "removed": 1792926575
-  },
-  {
-    "name": "Hell let loose (US East) Server by g-portal.com",
-    "addr": "144.126.153.213",
     "port": 28400
   },
   {
@@ -778,7 +772,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1793538386
   },
   {
     "name": "404 | Eventserver",
