@@ -77,7 +77,8 @@
   {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1793633390
   },
   {
     "name": "AFTER HOURS OPERATORS | US EAST | DISCORD.GG/AHO",
@@ -218,8 +219,7 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400,
-    "removed": 1793598129
+    "port": 28400
   },
   {
     "name": "VT1",
@@ -259,7 +259,8 @@
   {
     "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
     "addr": "185.216.144.75",
-    "port": 8530
+    "port": 8530,
+    "removed": 1793633390
   },
   {
     "name": "UK | ENG - NEW PLAYER FRIENDLY - WARFARE",
@@ -759,12 +760,14 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1793633390
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1793633390
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -774,8 +777,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1793538386
+    "port": 28600
   },
   {
     "name": "404 | Eventserver",
@@ -966,7 +968,8 @@
   {
     "name": "Wyoming Rangers | Backup",
     "addr": "64.31.40.206",
-    "port": 7777
+    "port": 7777,
+    "removed": 1793633390
   },
   {
     "name": "Bad Intentions - Event [US EAST]",
@@ -1074,7 +1077,7 @@
     "port": 7827
   },
   {
-    "name": "mma",
+    "name": "Marram.com.br - Brasil",
     "addr": "78.111.102.94",
     "port": 7837
   },
