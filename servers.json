@@ -100,7 +100,7 @@
     "port": 7777
   },
   {
-    "name": "CN/FJ细雨清风の无规则薯条冲突服 Q1095121730",
+    "name": "CN/FJ&GR细雨清风の无规则薯条冲突服Q1095121730",
     "addr": "154.45.251.74",
     "port": 7777
   },
@@ -467,7 +467,7 @@
     "port": 7807
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
+    "name": "SLB #2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -479,10 +479,11 @@
   {
     "name": "[LCM] La compañia maldita [ESP]",
     "addr": "208.115.214.220",
-    "port": 7777
+    "port": 7777,
+    "removed": 1793733832
   },
   {
-    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
+    "name": "SLB #3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -527,7 +528,7 @@
     "port": 7777
   },
   {
-    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
+    "name": "SLB #1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -746,8 +747,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1793570140
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -757,14 +757,12 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1793633390
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1793633390
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
