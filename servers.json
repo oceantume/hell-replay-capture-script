@@ -213,7 +213,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1793771790
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -490,7 +491,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "208.115.226.2",
-    "port": 7787
+    "port": 7787,
+    "removed": 1793771790
   },
   {
     "name": "Event-Server der 106. Panzerbrigade",
@@ -556,12 +558,6 @@
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
     "port": 7787
-  },
-  {
-    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q 1127207736",
-    "addr": "216.144.245.83",
-    "port": 7777,
-    "removed": 1793164710
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -1345,6 +1341,11 @@
   {
     "name": "POWERBITS GAMETEAM HLL #3 | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.1.10",
+    "port": 7777
+  },
+  {
+    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
+    "addr": "95.135.1.12",
     "port": 7777
   },
   {
