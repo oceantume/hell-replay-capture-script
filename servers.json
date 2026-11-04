@@ -497,7 +497,8 @@
   {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
-    "port": 7807
+    "port": 7807,
+    "removed": 1793801842
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
@@ -743,7 +744,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1793801842
   },
   {
     "name": "QA Testing - US East #09",
@@ -875,12 +877,6 @@
     "name": "KNG'S LAIR | 247 OFFENSIVE | DISCORD.GG/KNGSLAIR",
     "addr": "64.20.50.186",
     "port": 9620
-  },
-  {
-    "name": "24/7 Utah/Omaha/Juno",
-    "addr": "64.31.10.210",
-    "port": 8530,
-    "removed": 1793190968
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
