@@ -47,7 +47,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1794030121
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -279,7 +280,8 @@
   {
     "name": "[RUS] EG Русский CEPBEP|Russian[LVL10+] | eghll.ru",
     "addr": "185.70.107.12",
-    "port": 10165
+    "port": 10165,
+    "removed": 1794030121
   },
   {
     "name": "EG Event server",
@@ -703,6 +705,11 @@
   {
     "name": "△ The Motor Pool #1 | New Player Friendly",
     "addr": "40.27.45.12",
+    "port": 7777
+  },
+  {
+    "name": "hll Server",
+    "addr": "40.27.45.13",
     "port": 7777
   },
   {
