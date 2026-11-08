@@ -577,7 +577,7 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨欢迎您的加入",
+    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨国内社区比赛",
     "addr": "40.27.40.13",
     "port": 7787
   },
@@ -735,8 +735,7 @@
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.45.6",
-    "port": 7777,
-    "removed": 1794074050
+    "port": 7777
   },
   {
     "name": "QA Testing - US West #06",
@@ -761,13 +760,13 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1794143413
   },
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000,
-    "removed": 1794055757
+    "port": 28000
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -985,7 +984,8 @@
   {
     "name": "ФФ | Oceanic Ocelots | U.S. West",
     "addr": "64.31.61.91",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794143413
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
