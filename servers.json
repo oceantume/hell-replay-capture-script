@@ -444,7 +444,8 @@
   {
     "name": "WTH Training Server",
     "addr": "208.115.206.195",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794174926
   },
   {
     "name": "HLL ITA COMMUNITY ★ VOTEMAP | EU/ENG | discord.gg/Y3CFfYn",
@@ -473,7 +474,7 @@
     "port": 7807
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
@@ -489,7 +490,7 @@
     "removed": 1793733832
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -536,7 +537,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -735,7 +736,8 @@
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.45.6",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794174926
   },
   {
     "name": "QA Testing - US West #06",
@@ -745,7 +747,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1794174926
   },
   {
     "name": "HLL Official - US West #01",
@@ -881,7 +884,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
+    "name": "PKdores Entrenamiento en sesión",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -1145,8 +1148,7 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300,
-    "removed": 1794074050
+    "port": 28300
   },
   {
     "name": "HLL Official - Asia #04",
