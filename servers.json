@@ -267,12 +267,6 @@
     "port": 11255
   },
   {
-    "name": "! ! !GERMAN BATTLEGROUND 1 | LOW PING | GBG-HLL.COM | GER ENG |",
-    "addr": "185.216.144.75",
-    "port": 8530,
-    "removed": 1793633390
-  },
-  {
     "name": "UK | ENG - NEW PLAYER FRIENDLY - WARFARE",
     "addr": "185.216.144.75",
     "port": 9075
@@ -748,8 +742,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1794174926
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -764,8 +757,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1794143413
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -780,7 +772,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1794239784
   },
   {
     "name": "404 | Eventserver",
@@ -971,12 +964,6 @@
     "port": 7777
   },
   {
-    "name": "Wyoming Rangers | Backup",
-    "addr": "64.31.40.206",
-    "port": 7777,
-    "removed": 1793633390
-  },
-  {
     "name": "Bad Intentions - Event [US EAST]",
     "addr": "64.31.59.78",
     "port": 7777
@@ -1080,7 +1067,8 @@
   {
     "name": "EL HELL LET LOOSE ESTA MUERTO JUEGUEN WARDOGS",
     "addr": "78.111.102.94",
-    "port": 7827
+    "port": 7827,
+    "removed": 1794239784
   },
   {
     "name": "Marram.com.br - dsc.gg/marram - Brasil",
@@ -1150,12 +1138,14 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1794239784
   },
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1794239784
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1350,7 +1340,8 @@
   {
     "name": "POWERBITS GAMETEAM HLL OFFENSIVE | LOW PING | PBSGAMETEAM.COM",
     "addr": "95.135.0.2",
-    "port": 7877
+    "port": 7877,
+    "removed": 1794239784
   },
   {
     "name": "POWERBITS GAMETEAM EVENT | LOW PING | PBSGAMETEAM.COM",
