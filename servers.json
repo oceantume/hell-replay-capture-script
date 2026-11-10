@@ -158,7 +158,8 @@
   {
     "name": "Hell let loose (EU) Server by g-portal.com",
     "addr": "176.57.168.250",
-    "port": 28100
+    "port": 28100,
+    "removed": 1794273902
   },
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #4 ♦ Event",
@@ -563,8 +564,7 @@
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
     "addr": "217.182.196.157",
-    "port": 8772,
-    "removed": 1794116690
+    "port": 8772
   },
   {
     "name": "CN#3 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
@@ -705,8 +705,7 @@
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
     "addr": "40.27.45.13",
-    "port": 7777,
-    "removed": 1794203711
+    "port": 7777
   },
   {
     "name": "RGN #5 -DC- Powered by QONZER | discord.gg/RadicalGaming",
@@ -804,12 +803,6 @@
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
     "addr": "51.161.197.24",
     "port": 9075
-  },
-  {
-    "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
-    "addr": "51.161.197.24",
-    "port": 9620,
-    "removed": 1793667044
   },
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
@@ -1065,10 +1058,9 @@
     "port": 7797
   },
   {
-    "name": "EL HELL LET LOOSE ESTA MUERTO JUEGUEN WARDOGS",
+    "name": "hll Server",
     "addr": "78.111.102.94",
-    "port": 7827,
-    "removed": 1794239784
+    "port": 7827
   },
   {
     "name": "Marram.com.br - dsc.gg/marram - Brasil",
@@ -1086,7 +1078,7 @@
     "port": 7867
   },
   {
-    "name": "#1 亗 NDN Brasil [discord.gg/rMDpVkYgQn]",
+    "name": "#1 NDN Brasil [discord.gg/rMDpVkYgQn]",
     "addr": "78.111.102.94",
     "port": 7877
   },
@@ -1300,7 +1292,8 @@
   {
     "name": "Team17",
     "addr": "92.118.16.126",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794273902
   },
   {
     "name": "End of Existence | VoidExistence.com",
