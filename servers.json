@@ -214,8 +214,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1794203711
+    "port": 28700
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -552,7 +551,7 @@
     "port": 7787
   },
   {
-    "name": "The Collective │ GER/DE AT CH │mic-pflicht",
+    "name": "The Collective │ GER/ENG NewPlayersWelcome│Discord.gg/CLTV",
     "addr": "208.115.251.116",
     "port": 7777
   },
@@ -567,14 +566,15 @@
     "port": 8772
   },
   {
-    "name": "CN#3 TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
+    "name": "CN#TT天堂Q群548651丨萌新俱乐部丨欢迎国服玩家",
     "addr": "40.27.40.13",
     "port": 7777
   },
   {
     "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨国内社区比赛",
     "addr": "40.27.40.13",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794321793
   },
   {
     "name": "CN/东德消防社区九天无限制战区 JP/Q726807477",
@@ -587,7 +587,7 @@
     "port": 7777
   },
   {
-    "name": "Match PUMA",
+    "name": "Forward Hold",
     "addr": "40.27.40.151",
     "port": 7787
   },
@@ -622,7 +622,7 @@
     "port": 7857
   },
   {
-    "name": "CN/ARO＆RAM投票图池我的老婆沐芷米大人最可爱Q74",
+    "name": "CN/ARO＆711店员们的老婆沐芷米大人最可爱Q74669963",
     "addr": "40.27.40.151",
     "port": 7867
   },
@@ -771,8 +771,7 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600,
-    "removed": 1794239784
+    "port": 28600
   },
   {
     "name": "404 | Eventserver",
@@ -1020,7 +1019,8 @@
   {
     "name": "5th ID US Central | Mic Required | discord.gg/reddevilshll",
     "addr": "69.162.124.164",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794321793
   },
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
