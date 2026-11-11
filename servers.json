@@ -42,8 +42,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL",
     "addr": "135.181.165.173",
-    "port": 8982,
-    "removed": 1794376257
+    "port": 8982
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
@@ -483,12 +482,6 @@
     "port": 7787
   },
   {
-    "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
-    "addr": "208.115.226.2",
-    "port": 7787,
-    "removed": 1793771790
-  },
-  {
     "name": "Event-Server der 106. Panzerbrigade",
     "addr": "208.115.226.2",
     "port": 7807,
@@ -750,7 +743,8 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700
+    "port": 28700,
+    "removed": 1794405509
   },
   {
     "name": "HLL Official - US East #02",
@@ -1075,7 +1069,8 @@
   {
     "name": "#1 NDN Brasil [discord.gg/rMDpVkYgQn]",
     "addr": "78.111.102.94",
-    "port": 7877
+    "port": 7877,
+    "removed": 1794405509
   },
   {
     "name": "CGT Server - PL/ENG NEW MODE CONQUEST ONLY, 3 day VIP for SEED",
