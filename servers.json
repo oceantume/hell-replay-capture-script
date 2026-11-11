@@ -42,7 +42,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | HLL",
     "addr": "135.181.165.173",
-    "port": 8982
+    "port": 8982,
+    "removed": 1794376257
   },
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
@@ -749,8 +750,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1794351991
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
