@@ -357,6 +357,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "193.160.22.141",
+    "port": 7787
+  },
+  {
     "name": "[FR/BE] ★ 7ème Compagnie #2 ★ discord.gg/7eCie",
     "addr": "193.160.23.18",
     "port": 7777
@@ -389,7 +394,8 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500
+    "port": 20500,
+    "removed": 1794469039
   },
   {
     "name": "[13SNC]'s Daycare Services",
