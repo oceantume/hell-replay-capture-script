@@ -123,7 +123,8 @@
   {
     "name": "QA Testing - EU #02",
     "addr": "176.57.134.30",
-    "port": 28000
+    "port": 28000,
+    "removed": 1794512841
   },
   {
     "name": "HLL Dev Team 1",
@@ -394,8 +395,7 @@
   {
     "name": "nitrado.net gameserver qKeG_Loh",
     "addr": "195.82.158.186",
-    "port": 20500,
-    "removed": 1794469039
+    "port": 20500
   },
   {
     "name": "[13SNC]'s Daycare Services",
@@ -712,7 +712,8 @@
   {
     "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
     "addr": "40.27.45.17",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794512841
   },
   {
     "name": "Glow's East · COMPETITIVE · discord.gg/glows",
@@ -733,8 +734,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1794443185
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -744,8 +744,7 @@
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1794405509
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -1014,7 +1013,8 @@
   {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "74.63.219.101",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794512841
   },
   {
     "name": "BAE TestCenter",
@@ -1255,7 +1255,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] HELL FISH COMPANY! Primeros 20 Players VIP x 3 DIAS",
+    "name": "[LATAM/ESP] HELL FISH COMPANY! CERRADO HOY POR ENTRENAMIENTO",
     "addr": "89.39.161.89",
     "port": 7797
   },
