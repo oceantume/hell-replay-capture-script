@@ -482,12 +482,6 @@
     "port": 7787
   },
   {
-    "name": "Event-Server der 106. Panzerbrigade",
-    "addr": "208.115.226.2",
-    "port": 7807,
-    "removed": 1793801842
-  },
-  {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
     "addr": "208.115.226.2",
     "port": 7817
@@ -733,7 +727,8 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1794443185
   },
   {
     "name": "QA Testing - US East #09",
@@ -1120,7 +1115,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1794443185
   },
   {
     "name": "HLL Official - Asia #04",
@@ -1294,7 +1290,7 @@
     "port": 7787
   },
   {
-    "name": "⑥︱ THE CIRCLE #6︱MIXED︱DISCORD.GG/THE-CIRCLE",
+    "name": "⑥︱ THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
     "port": 7777
   },
