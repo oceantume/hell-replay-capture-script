@@ -47,7 +47,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1794635970
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -208,8 +209,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1794550657
+    "port": 28700
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -279,7 +279,8 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530
+    "port": 8530,
+    "removed": 1794635970
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -1021,6 +1022,11 @@
     "name": "RCON Testing",
     "addr": "74.63.225.18",
     "port": 7797
+  },
+  {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "74.63.231.2",
+    "port": 7787
   },
   {
     "name": "Syndicate | LVL 50+ | Competitive Public Server",
