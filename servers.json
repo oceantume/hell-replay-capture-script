@@ -47,8 +47,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1794722568
+    "port": 9224
   },
   {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
@@ -325,8 +324,7 @@
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
-    "port": 7797,
-    "removed": 1794722568
+    "port": 7797
   },
   {
     "name": "AS YT",
@@ -349,7 +347,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #4",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
     "port": 7777
   },
@@ -387,8 +385,7 @@
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
-    "port": 8530,
-    "removed": 1794722568
+    "port": 8530
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -476,14 +473,15 @@
     "port": 7807
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: LONDON :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
     "addr": "208.115.212.75",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794750698
   },
   {
     "name": "SLB #3",
@@ -498,7 +496,8 @@
   {
     "name": "HLL Server",
     "addr": "208.115.226.4",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794750698
   },
   {
     "name": "[GER] Fliesentisch-Veteranen Event | BFTB |",
@@ -543,14 +542,12 @@
   {
     "name": "The Collective │ GER/ENG NewPlayersWelcome│Discord.gg/CLTV",
     "addr": "208.115.251.116",
-    "port": 7777,
-    "removed": 1794722568
+    "port": 7777
   },
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787,
-    "removed": 1794722568
+    "port": 7787
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -788,7 +785,8 @@
   {
     "name": "1st CANZUK | Digger Company AU | https://discord.gg/1stcanzukbr",
     "addr": "51.161.197.24",
-    "port": 9075
+    "port": 9075,
+    "removed": 1794750698
   },
   {
     "name": "3PARA OFFICIAL | AUSTRALIA | discord.gg/3para",
@@ -910,8 +908,7 @@
   {
     "name": "Wyoming Rangers | East Coast",
     "addr": "64.31.31.124",
-    "port": 7777,
-    "removed": 1794722568
+    "port": 7777
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -952,12 +949,6 @@
     "name": "RGN #2 -LA- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "64.31.6.92",
     "port": 7787
-  },
-  {
-    "name": "ФФ | Oceanic Ocelots | U.S. West",
-    "addr": "64.31.61.91",
-    "port": 7787,
-    "removed": 1794143413
   },
   {
     "name": "Chimera | Us West | Comp and Training | discord.gg/CHMA",
@@ -1082,8 +1073,7 @@
   {
     "name": "CGT Server - PL/ENG NEW MODE CONQUEST ONLY, 3 day VIP for SEED",
     "addr": "78.46.101.16",
-    "port": 10165,
-    "removed": 1794722568
+    "port": 10165
   },
   {
     "name": "[FR] FF - Furious Frog Server",
@@ -1179,13 +1169,17 @@
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817,
-    "removed": 1794722568
+    "port": 7817
   },
   {
     "name": "BUTTON BOYS PODCAST SERVER",
     "addr": "85.208.197.77",
     "port": 7777
+  },
+  {
+    "name": "Codsacks_g_portal (nyc)",
+    "addr": "89.117.72.86",
+    "port": 28500
   },
   {
     "name": "{serverName}",
@@ -1215,8 +1209,7 @@
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "89.39.161.131",
-    "port": 7837,
-    "removed": 1794722568
+    "port": 7837
   },
   {
     "name": "EVENTOS DELTA CORPS",
@@ -1318,8 +1311,7 @@
   {
     "name": "#1 [ESP] - Comu Hispana - Allies vs Axis - discord.comunidadhll",
     "addr": "95.135.0.16",
-    "port": 7777,
-    "removed": 1794722568
+    "port": 7777
   },
   {
     "name": "#2 [ESP] - Comu Hispana - All maps - discord.comunidadhll.es",
@@ -1355,8 +1347,7 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "95.135.1.12",
-    "port": 7777,
-    "removed": 1794722568
+    "port": 7777
   },
   {
     "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
