@@ -213,8 +213,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1794722568
+    "port": 28700
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -325,7 +324,8 @@
   {
     "name": "[BSB] The Red Lion | New Player Friendly | Powered By Qonzer",
     "addr": "192.169.90.204",
-    "port": 7797
+    "port": 7797,
+    "removed": 1794808955
   },
   {
     "name": "AS YT",
@@ -386,7 +386,8 @@
   {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
-    "port": 8530
+    "port": 8530,
+    "removed": 1794808955
   },
   {
     "name": "Q's Qonzer.com | Event Server | Italy",
@@ -543,12 +544,14 @@
   {
     "name": "The Collective │ GER/ENG NewPlayersWelcome│Discord.gg/CLTV",
     "addr": "208.115.251.116",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794808955
   },
   {
     "name": "[GER] Omen Match Server #1",
     "addr": "208.115.251.117",
-    "port": 7787
+    "port": 7787,
+    "removed": 1794808955
   },
   {
     "name": "-=GGG=- Gents Gone Gaming https://discord.gg/AnTzBprJMC",
@@ -850,15 +853,9 @@
     "port": 7787
   },
   {
-    "name": "PKdores Entrenamiento en sesión",
+    "name": "[LATAM/ESP] Niños y mujeres entran gratis! MX",
     "addr": "64.20.50.186",
     "port": 8530
-  },
-  {
-    "name": "KNG'S LAIR | 247 OFFENSIVE | DISCORD.GG/KNGSLAIR",
-    "addr": "64.20.50.186",
-    "port": 9620,
-    "removed": 1794203711
   },
   {
     "name": "VETERANSRADIO.CA | NOOB FRIENDLY | REAL-TIME STATS | CHICAGO | ",
@@ -903,7 +900,8 @@
   {
     "name": "Wyoming Rangers | East Coast",
     "addr": "64.31.31.124",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794808955
   },
   {
     "name": "Chimera | Japan | discord.gg/CHMA",
@@ -1014,7 +1012,7 @@
     "port": 7797
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "Wyoming Rangers | Chicago",
     "addr": "74.63.231.2",
     "port": 7787
   },
@@ -1068,7 +1066,8 @@
   {
     "name": "CGT Server - PL/ENG NEW MODE CONQUEST ONLY, 3 day VIP for SEED",
     "addr": "78.46.101.16",
-    "port": 10165
+    "port": 10165,
+    "removed": 1794808955
   },
   {
     "name": "[FR] FF - Furious Frog Server",
@@ -1163,7 +1162,8 @@
   {
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
-    "port": 7817
+    "port": 7817,
+    "removed": 1794808955
   },
   {
     "name": "BUTTON BOYS PODCAST SERVER",
@@ -1203,7 +1203,8 @@
   {
     "name": "RGN #7 -Brazil- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "89.39.161.131",
-    "port": 7837
+    "port": 7837,
+    "removed": 1794808955
   },
   {
     "name": "EVENTOS DELTA CORPS",
@@ -1310,7 +1311,8 @@
   {
     "name": "#1 [ESP] - Comu Hispana - Allies vs Axis - discord.comunidadhll",
     "addr": "95.135.0.16",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794808955
   },
   {
     "name": "#2 [ESP] - Comu Hispana - All maps - discord.comunidadhll.es",
@@ -1346,7 +1348,8 @@
   {
     "name": "PL/ENG ♦ PZJR Polski Serwer #1 ♦ Metamaps ♦ VIP For seedi",
     "addr": "95.135.1.12",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794808955
   },
   {
     "name": "℧ | Omen Rekrutiert! [℧ | discord.gg/omenhll ] [GER/ENG]",
@@ -1391,7 +1394,8 @@
   {
     "name": "④︱THE CIRCLE #4︱EVENTS︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.1.37",
-    "port": 7777
+    "port": 7777,
+    "removed": 1794808955
   },
   {
     "name": "RGN #4 -Frankfurt- Powered by QONZER | discord.gg/RadicalGaming",
