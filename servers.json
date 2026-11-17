@@ -554,12 +554,6 @@
     "port": 7777
   },
   {
-    "name": "CN#2 TT天堂Q群548651丨萌新俱乐部丨国内社区比赛",
-    "addr": "40.27.40.13",
-    "port": 7787,
-    "removed": 1794321793
-  },
-  {
     "name": "CN/东德消防社区九天无限制战区 JP/Q726807477",
     "addr": "40.27.40.14",
     "port": 7777
@@ -980,12 +974,6 @@
     "port": 9075
   },
   {
-    "name": "5th ID US Central | Mic Required | discord.gg/reddevilshll",
-    "addr": "69.162.124.164",
-    "port": 7787,
-    "removed": 1794321793
-  },
-  {
     "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
     "addr": "74.63.219.101",
     "port": 7787,
@@ -1107,7 +1095,8 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200
+    "port": 28200,
+    "removed": 1794930643
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1255,7 +1244,7 @@
     "port": 7817
   },
   {
-    "name": "亗 NDN Brasil - Discord.gg/rMDpVkYgQn - SEED VIP 24H",
+    "name": "亗 NDN Brasil - www.natadanata.com.br",
     "addr": "89.39.161.89",
     "port": 7837
   },
