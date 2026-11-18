@@ -75,6 +75,11 @@
     "port": 28300
   },
   {
+    "name": "A Qonzer Server Is Born!",
+    "addr": "149.202.93.27",
+    "port": 7807
+  },
+  {
     "name": "[PL/ENG] POLSKI SERWER | BZ | BYZANTIUM | EVENT",
     "addr": "149.50.126.13",
     "port": 7777
@@ -707,7 +712,8 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400
+    "port": 28400,
+    "removed": 1795033191
   },
   {
     "name": "HLL Official - US West #01",
@@ -1031,12 +1037,6 @@
     "port": 7867
   },
   {
-    "name": "#1 NDN Brasil [discord.gg/rMDpVkYgQn]",
-    "addr": "78.111.102.94",
-    "port": 7877,
-    "removed": 1794405509
-  },
-  {
     "name": "CGT Server - PL/ENG NEW MODE CONQUEST ONLY, 3 day VIP for SEED",
     "addr": "78.46.101.16",
     "port": 10165
@@ -1089,8 +1089,7 @@
   {
     "name": "HLL Official - Asia #04",
     "addr": "83.223.197.89",
-    "port": 28200,
-    "removed": 1794930643
+    "port": 28200
   },
   {
     "name": "HLL Official - Asia #03",
@@ -1105,7 +1104,8 @@
   {
     "name": "Hell let loose (US Mid) Server by g-portal.com",
     "addr": "83.223.207.10",
-    "port": 28400
+    "port": 28400,
+    "removed": 1795033191
   },
   {
     "name": "#1 Saluting Our Vets",
