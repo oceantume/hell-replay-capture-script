@@ -122,8 +122,7 @@
   {
     "name": "[MSB] Formation Skithög | SWE/ENG | discord.gg/hs6uae8zXc",
     "addr": "157.180.8.107",
-    "port": 9075,
-    "removed": 1795071754
+    "port": 9075
   },
   {
     "name": "QA Testing - EU #02",
@@ -349,14 +348,12 @@
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S4",
     "addr": "193.160.22.140",
-    "port": 7777,
-    "removed": 1795071754
+    "port": 7777
   },
   {
     "name": "ECL :: LONDON :: Powered by Qonzer.com :: S5",
     "addr": "193.160.22.141",
-    "port": 7777,
-    "removed": 1795071754
+    "port": 7777
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -437,7 +434,8 @@
   {
     "name": "[EU] EASTERN FRONT | DAY & NIGHT | WARFARE | VIP",
     "addr": "208.115.201.22",
-    "port": 7777
+    "port": 7777,
+    "removed": 1795119862
   },
   {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
@@ -477,8 +475,7 @@
   {
     "name": "SLB #2",
     "addr": "208.115.206.86",
-    "port": 7877,
-    "removed": 1795071754
+    "port": 7877
   },
   {
     "name": "The General's Jaw Breakers | NA East | RP Only",
@@ -489,8 +486,7 @@
   {
     "name": "SLB #3",
     "addr": "208.115.214.220",
-    "port": 7787,
-    "removed": 1795071754
+    "port": 7787
   },
   {
     "name": "[GER] 106. Panzerbrigade | Wir rekrutieren! | discord.gg/106hll",
@@ -526,8 +522,7 @@
   {
     "name": "SLB #1",
     "addr": "208.115.248.107",
-    "port": 7797,
-    "removed": 1795071754
+    "port": 7797
   },
   {
     "name": "Another Qonzer.com server is born!",
@@ -705,12 +700,6 @@
     "port": 7777
   },
   {
-    "name": "Exiled USMC Veteran Owned—-New Players Welcome!!",
-    "addr": "40.27.45.17",
-    "port": 7777,
-    "removed": 1794512841
-  },
-  {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
     "port": 28300
@@ -718,8 +707,7 @@
   {
     "name": "HLL Official - US West #02",
     "addr": "45.137.246.13",
-    "port": 28400,
-    "removed": 1795033191
+    "port": 28400
   },
   {
     "name": "HLL Official - US West #01",
@@ -984,12 +972,6 @@
     "name": "◆ 10 Commando | New Players Welcome | Recruiting | «Nº10»",
     "addr": "67.217.48.14",
     "port": 9075
-  },
-  {
-    "name": "[LATAM/ESP] Tacos&Tequila | OGT 1 | Dallas",
-    "addr": "74.63.219.101",
-    "port": 7787,
-    "removed": 1794512841
   },
   {
     "name": "BAE TestCenter",
@@ -1272,8 +1254,7 @@
   {
     "name": "⑥︱ THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777,
-    "removed": 1795071754
+    "port": 7777
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
@@ -1323,8 +1304,7 @@
   {
     "name": "[GER] 100.Jäger-Division | Mikrofon & deutsche Sprache erforde",
     "addr": "95.135.1.19",
-    "port": 7777,
-    "removed": 1795071754
+    "port": 7777
   },
   {
     "name": "[GER] 1. Fallschirmjäger-Division Server",
