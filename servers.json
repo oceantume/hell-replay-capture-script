@@ -590,7 +590,7 @@
     "port": 7827
   },
   {
-    "name": "<CN>#2 EMP帝国社区 Lv.25+无规则冲突服 JP节点",
+    "name": "<CN>#2 EMP帝国社区 Lv.30+无规则冲突服 JP节点",
     "addr": "40.27.40.151",
     "port": 7837
   },
@@ -722,7 +722,8 @@
   {
     "name": "HLL Official - US East #02",
     "addr": "45.137.247.5",
-    "port": 28000
+    "port": 28000,
+    "removed": 1795190371
   },
   {
     "name": "HLL Playtest Server - US #01",
@@ -814,12 +815,6 @@
     "name": "Bob The Builder OFFICIAL XP FARM | Fast Loadouts discord.gg/btb",
     "addr": "63.143.60.20",
     "port": 7777
-  },
-  {
-    "name": "TOG | The Old Guard Official HLL Server | US Central",
-    "addr": "63.143.63.82",
-    "port": 7787,
-    "removed": 1794581049
   },
   {
     "name": "♤CtrlAlt-Defeat NA1 New Players Welcome",
@@ -1234,12 +1229,6 @@
     "name": "HLL Official - South America #04",
     "addr": "89.43.106.36",
     "port": 28400
-  },
-  {
-    "name": "End of Existence | VoidExistence.com",
-    "addr": "92.118.18.88",
-    "port": 7797,
-    "removed": 1794581049
   },
   {
     "name": "Dubs Dawghouse",
