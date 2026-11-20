@@ -137,7 +137,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1795157704
   },
   {
     "name": "QA Testing - EU #03",
@@ -376,12 +377,6 @@
     "port": 7777
   },
   {
-    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
-    "addr": "193.160.23.22",
-    "port": 7777,
-    "removed": 1794550657
-  },
-  {
     "name": "[FR/BE/QC] Fossils & Company #1 - French Only",
     "addr": "193.70.122.179",
     "port": 8530
@@ -560,7 +555,7 @@
     "port": 7777
   },
   {
-    "name": "CN/东德消防社区九天无限制战区 JP/Q726807477",
+    "name": "CN/东德消防社区/九天/萌新教学加Q群726807477/",
     "addr": "40.27.40.14",
     "port": 7777
   },
