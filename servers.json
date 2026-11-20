@@ -50,6 +50,11 @@
     "port": 9224
   },
   {
+    "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
+    "addr": "139.28.17.142",
+    "port": 7777
+  },
+  {
     "name": "⑤︱THE CIRCLE #5︱OFFENSIVE︱NEW PLAYERS WELCOME︱DISCORD",
     "addr": "139.28.17.146",
     "port": 7777
@@ -283,8 +288,7 @@
   {
     "name": "[FD] - Русский Сервер | [RUS]",
     "addr": "185.70.107.12",
-    "port": 8530,
-    "removed": 1794782518
+    "port": 8530
   },
   {
     "name": "[FD] - Event Server | [RUS]",
@@ -736,6 +740,11 @@
     "port": 28600
   },
   {
+    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
+    "addr": "45.141.225.13",
+    "port": 7777
+  },
+  {
     "name": "404 | Eventserver",
     "addr": "45.143.199.235",
     "port": 10165
@@ -774,17 +783,20 @@
   {
     "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
     "addr": "51.38.89.130",
-    "port": 7777
+    "port": 7777,
+    "removed": 1795218868
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "51.38.89.131",
-    "port": 7777
+    "port": 7777,
+    "removed": 1795218868
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
     "addr": "51.38.89.132",
-    "port": 7777
+    "port": 7777,
+    "removed": 1795218868
   },
   {
     "name": "[GER] [LwJg46] Bierstube",
@@ -1106,6 +1118,11 @@
     "port": 7777
   },
   {
+    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
+    "addr": "85.208.197.69",
+    "port": 7777
+  },
+  {
     "name": "Mondaze Event Server",
     "addr": "85.208.197.70",
     "port": 7777
@@ -1114,6 +1131,11 @@
     "name": "GREYHOUND NIGHT - BLUE | https://discord.gg/greyhounds",
     "addr": "85.208.197.70",
     "port": 7817
+  },
+  {
+    "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
+    "addr": "85.208.197.76",
+    "port": 7777
   },
   {
     "name": "BUTTON BOYS PODCAST SERVER",
