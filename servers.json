@@ -35,7 +35,7 @@
     "port": 9075
   },
   {
-    "name": "[GER|AT|CH] Team Amazing join.teamamazing.de",
+    "name": "[GER|ENG] Team Amazing New player friendly join.teamamazing.de",
     "addr": "135.125.188.111",
     "port": 9620
   },
@@ -576,7 +576,7 @@
     "port": 7797
   },
   {
-    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q 1127207736",
+    "name": "CN/FL萌新前线（投票德攻 | 假日剧情）Q1135052062",
     "addr": "40.27.40.151",
     "port": 7807
   },
@@ -884,6 +884,11 @@
     "port": 7777
   },
   {
+    "name": "Another Qonzer.com server is born!",
+    "addr": "64.31.31.126",
+    "port": 7777
+  },
+  {
     "name": "Chimera | Japan | discord.gg/CHMA",
     "addr": "64.31.32.210",
     "port": 7777
@@ -1063,7 +1068,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1795390185
   },
   {
     "name": "HLL Official - Asia #04",
