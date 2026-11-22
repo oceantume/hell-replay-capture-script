@@ -142,7 +142,8 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600
+    "port": 28600,
+    "removed": 1795328574
   },
   {
     "name": "QA Testing - EU #03",
@@ -217,7 +218,8 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700
+    "port": 28700,
+    "removed": 1795328574
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -379,6 +381,11 @@
   {
     "name": "[FR/BE] ★ 7ème Compagnie #3 ★ discord.gg/7eCie",
     "addr": "193.160.23.20",
+    "port": 7777
+  },
+  {
+    "name": "[FR/BE] ★ 7ème Compagnie #4 ★ discord.gg/7eCie",
+    "addr": "193.160.23.22",
     "port": 7777
   },
   {
@@ -839,7 +846,7 @@
     "port": 7787
   },
   {
-    "name": "[LATAM/ESP] Clan PK | Reclutando | Gordas Abstenerse",
+    "name": "Servidor PKdores | Evento en Sesión",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -947,12 +954,6 @@
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "65.21.46.146",
     "port": 8530
-  },
-  {
-    "name": "[GER] Fliesentisch-Besitzer Fliese #1 | BFTB",
-    "addr": "65.21.46.146",
-    "port": 9075,
-    "removed": 1794722568
   },
   {
     "name": "5th ID | 3 Days VIP for Seeders | discord.gg/reddevilshll",
@@ -1262,8 +1263,7 @@
   {
     "name": "⑥︱ THE CIRCLE #6︱WARFARE︱DISCORD.GG/THE-CIRCLE",
     "addr": "95.135.0.15",
-    "port": 7777,
-    "removed": 1795273263
+    "port": 7777
   },
   {
     "name": "①︱THE CIRCLE #1︱EVENTS JUNIORS︱DISCORD.GG/THE-CIRCLE",
