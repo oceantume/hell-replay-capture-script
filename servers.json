@@ -47,7 +47,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1795418007
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -142,8 +143,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1795328574
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -218,8 +218,7 @@
   {
     "name": "HLL Official - Europe #02",
     "addr": "176.57.169.108",
-    "port": 28700,
-    "removed": 1795328574
+    "port": 28700
   },
   {
     "name": "Hermanos de sangre -HDS- (ESP)",
@@ -834,7 +833,7 @@
     "port": 7787
   },
   {
-    "name": "Servidor PKdores | Evento en Sesión",
+    "name": "[LATAM/ESP] Clan PK | Reclutando | Gordas Abstenerse",
     "addr": "64.20.50.186",
     "port": 8530
   },
@@ -884,7 +883,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[ESP/LATAM]MARTILLO★SOVIET|ALL MAPS|Guerra/Ofensiva|Día/Noch",
     "addr": "64.31.31.126",
     "port": 7777
   },
