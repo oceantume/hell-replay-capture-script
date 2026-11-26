@@ -60,7 +60,7 @@
     "port": 7777
   },
   {
-    "name": "Another Qonzer.com server is born!",
+    "name": "[TGL] The Gulag Lounge | Sponsored by Aether",
     "addr": "139.28.17.149",
     "port": 7777
   },
@@ -455,12 +455,6 @@
     "port": 8888
   },
   {
-    "name": "[EU] EASTERN FRONT | DAY & NIGHT | WARFARE | VIP",
-    "addr": "208.115.201.22",
-    "port": 7777,
-    "removed": 1795119862
-  },
-  {
     "name": "#4 EXD.gg » Events | Discord.exd.gg",
     "addr": "208.115.203.20",
     "port": 7777
@@ -714,8 +708,7 @@
   {
     "name": "QA Testing - US West #06",
     "addr": "45.137.246.13",
-    "port": 28300,
-    "removed": 1795594074
+    "port": 28300
   },
   {
     "name": "HLL Official - US West #02",
@@ -725,19 +718,18 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500
+    "port": 28500,
+    "removed": 1795727972
   },
   {
     "name": "QA Testing - US East #09",
     "addr": "45.137.247.33",
-    "port": 28200,
-    "removed": 1795594074
+    "port": 28200
   },
   {
     "name": "HLL Official - US East #01",
     "addr": "45.137.247.33",
-    "port": 28700,
-    "removed": 1795642304
+    "port": 28700
   },
   {
     "name": "HLL Official - US East #02",
@@ -757,7 +749,8 @@
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
     "addr": "45.141.225.13",
-    "port": 7777
+    "port": 7777,
+    "removed": 1795727972
   },
   {
     "name": "404 | Eventserver",
@@ -960,8 +953,7 @@
   {
     "name": "3LA - New Players Welcome - Map Votes Enabled - US East - Join3",
     "addr": "64.42.181.187",
-    "port": 8888,
-    "removed": 1795679839
+    "port": 8888
   },
   {
     "name": "Hosted by GTXGaming.co.uk",
