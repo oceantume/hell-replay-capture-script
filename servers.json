@@ -47,8 +47,7 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224,
-    "removed": 1795766318
+    "port": 9224
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -61,7 +60,7 @@
     "port": 7777
   },
   {
-    "name": "[TGL] The Gulag Lounge | Sponsored by Aether",
+    "name": "[TGL] TheGulagLounge.com | Sponsored by Aether",
     "addr": "139.28.17.149",
     "port": 7777
   },
@@ -205,8 +204,7 @@
   {
     "name": "Team17 CERT",
     "addr": "176.57.168.38",
-    "port": 28500,
-    "removed": 1795679839
+    "port": 28500
   },
   {
     "name": "DevQA - EU #02",
@@ -222,7 +220,8 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600
+    "port": 28600,
+    "removed": 1795813227
   },
   {
     "name": "HLL Official - Europe #02",
@@ -313,7 +312,8 @@
   {
     "name": "[FD] - Event Server | [RUS]",
     "addr": "185.70.107.12",
-    "port": 9075
+    "port": 9075,
+    "removed": 1795813227
   },
   {
     "name": "#1 | HLL-FRONTLINE.DK | NEW PLAYERS WELCOME | DANMARK",
@@ -719,8 +719,7 @@
   {
     "name": "HLL Official - US West #01",
     "addr": "45.137.246.13",
-    "port": 28500,
-    "removed": 1795727972
+    "port": 28500
   },
   {
     "name": "QA Testing - US East #09",
@@ -745,7 +744,8 @@
   {
     "name": "HLL Official - US East #03",
     "addr": "45.137.247.5",
-    "port": 28600
+    "port": 28600,
+    "removed": 1795813227
   },
   {
     "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
@@ -1069,7 +1069,8 @@
   {
     "name": "HLL Official - Asia #02",
     "addr": "83.223.197.15",
-    "port": 28300
+    "port": 28300,
+    "removed": 1795813227
   },
   {
     "name": "HLL Official - Asia #04",
