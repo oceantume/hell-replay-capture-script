@@ -47,7 +47,8 @@
   {
     "name": "[fll.fi] Finns Let Loose | FIN/ENG | discord.gg/FLL | Private&E",
     "addr": "135.181.165.173",
-    "port": 9224
+    "port": 9224,
+    "removed": 1795766318
   },
   {
     "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
@@ -82,7 +83,8 @@
   {
     "name": "[MAIN] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300
+    "port": 28300,
+    "removed": 1795766318
   },
   {
     "name": "A Qonzer Server Is Born!",
@@ -147,8 +149,7 @@
   {
     "name": "HLL Official - Europe #01",
     "addr": "176.57.134.30",
-    "port": 28600,
-    "removed": 1795679839
+    "port": 28600
   },
   {
     "name": "QA Testing - EU #03",
@@ -210,7 +211,8 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200
+    "port": 28200,
+    "removed": 1795766318
   },
   {
     "name": "QA Testing - EU #04",
@@ -275,8 +277,7 @@
   {
     "name": "Hosted by GTXGaming.co.uk",
     "addr": "185.206.148.204",
-    "port": 9075,
-    "removed": 1795679839
+    "port": 9075
   },
   {
     "name": "[13SNC]'s Special Needs Server",
