@@ -82,8 +82,7 @@
   {
     "name": "[MAIN] QA Testing - EU #05",
     "addr": "149.102.158.161",
-    "port": 28300,
-    "removed": 1795766318
+    "port": 28300
   },
   {
     "name": "A Qonzer Server Is Born!",
@@ -209,8 +208,7 @@
   {
     "name": "DevQA - EU #02",
     "addr": "176.57.169.108",
-    "port": 28200,
-    "removed": 1795766318
+    "port": 28200
   },
   {
     "name": "QA Testing - EU #04",
@@ -220,8 +218,7 @@
   {
     "name": "DevQA - EU #01",
     "addr": "176.57.169.108",
-    "port": 28600,
-    "removed": 1795813227
+    "port": 28600
   },
   {
     "name": "HLL Official - Europe #02",
@@ -241,7 +238,8 @@
   {
     "name": "[GER] Sandkasten der 106. Panzerbrigade | discord.gg/106hll",
     "addr": "176.57.171.140",
-    "port": 28400
+    "port": 28400,
+    "removed": 1795850898
   },
   {
     "name": "VT1",
@@ -492,12 +490,12 @@
     "port": 7807
   },
   {
-    "name": "SLB #2",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S2",
     "addr": "208.115.206.86",
     "port": 7877
   },
   {
-    "name": "SLB #3",
+    "name": "ECL :: PARIS :: Powered by Qonzer.com :: S3",
     "addr": "208.115.214.220",
     "port": 7787
   },
@@ -527,7 +525,7 @@
     "port": 7777
   },
   {
-    "name": "SLB #1",
+    "name": "ECL :: FRANKFURT :: Powered by Qonzer.com :: S1",
     "addr": "208.115.248.107",
     "port": 7797
   },
@@ -789,24 +787,6 @@
     "port": 9620
   },
   {
-    "name": "Partum Verse Networks | HLL | Offensive Only | LOW PING",
-    "addr": "51.38.89.130",
-    "port": 7777,
-    "removed": 1795218868
-  },
-  {
-    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
-    "addr": "51.38.89.131",
-    "port": 7777,
-    "removed": 1795218868
-  },
-  {
-    "name": "POWERBITS GAMETEAM HLL #2 | LOW PING | PBSGAMETEAM.COM",
-    "addr": "51.38.89.132",
-    "port": 7777,
-    "removed": 1795218868
-  },
-  {
     "name": "[GER] [LwJg46] Bierstube",
     "addr": "51.77.66.51",
     "port": 9075
@@ -1014,7 +994,8 @@
   {
     "name": "Marram.com.br - dsc.gg/marram - Brasil",
     "addr": "78.111.102.94",
-    "port": 7837
+    "port": 7837,
+    "removed": 1795850898
   },
   {
     "name": "[CAV] CAVEIRAS BRASIL #2 | https://cavhll.com.br |",
@@ -1106,12 +1087,6 @@
     "name": "RGN #6 -London- Powered by QONZER | discord.gg/RadicalGaming",
     "addr": "85.208.197.68",
     "port": 7777
-  },
-  {
-    "name": "#1 ☆ UKLL | UK Let Loose | discord.gg/ukll ☆",
-    "addr": "85.208.197.69",
-    "port": 7777,
-    "removed": 1795243805
   },
   {
     "name": "Mondaze Event Server",
